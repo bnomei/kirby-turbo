@@ -1,0 +1,8 @@
+blueprint: page
+
+fields:
+  films:
+    type: info
+    label: Films
+    text: >
+      {< page.filmsByActor() >}

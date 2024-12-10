@@ -1,0 +1,6 @@
+blueprint: page
+
+fields:
+  actors:
+    type: pages
+    query: site.find('actor').children

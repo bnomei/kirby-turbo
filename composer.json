@@ -1,0 +1,75 @@
+{
+    "name": "bnomei/kirby-turbo",
+    "type": "kirby-plugin",
+    "version": "5.0.0",
+    "description": "xxx",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bruno Meilick",
+            "email": "b@bnomei.com"
+        }
+    ],
+    "keywords": [
+        "kirby",
+        "kirby-cms",
+        "kirby-plugin",
+        "index",
+        "directory",
+        "file",
+        "content",
+        "preload",
+        "prefetch",
+        "loader",
+        "performance",
+        "multi-threading",
+        "async",
+        "rust",
+        "cli"
+    ],
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true,
+        "allow-plugins": {
+            "getkirby/composer-installer": true,
+            "pestphp/pest-plugin": true
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Bnomei\\": "classes/"
+        }
+    },
+    "require": {
+        "php": ">=8.2",
+        "getkirby/composer-installer": "^1.2"
+    },
+    "require-dev": {
+        "getkirby/cms": "^5.0.0-beta.1",
+        "larastan/larastan": "^v3.0.0",
+        "laravel/pint": "^1.13",
+        "pestphp/pest": "^v3.5.1",
+        "spatie/ray": "^1.39"
+    },
+    "scripts": {
+        "stan": "./vendor/bin/phpstan",
+        "fix": "./vendor/bin/pint",
+        "test": "./vendor/bin/pest --profile",
+        "dist": [
+            "composer fix",
+            "composer install --no-dev --optimize-autoloader",
+            "git rm -rf --cached .; git add .;"
+        ],
+        "kirby": [
+            "composer install",
+            "composer update",
+            "composer install --working-dir=tests/kirby --no-dev --optimize-autoloader",
+            "composer update --working-dir=tests/kirby",
+            "sed -i.bak 's/function dump(/function xdump(/g' tests/kirby/config/helpers.php",
+            "sed -i.bak 's/function e(/function xe(/g' tests/kirby/config/helpers.php"
+        ]
+    },
+    "extra": {
+        "kirby-cms-path": "tests/kirby"
+    }
+}
