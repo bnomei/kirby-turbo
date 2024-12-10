@@ -24,8 +24,10 @@ final class Turbo
         $this->options = array_merge([
             'debug' => boolval(option('debug')),
             'expire' => option('bnomei.turbo.expire'),
+            'content' => boolval(option('bnomei.turbo.content')),
+            'modified' => boolval(option('bnomei.turbo.modified')),
             'compression' => boolval(option('bnomei.turbo.compression')),
-            'fetch' => option('bnomei.turbo.fetch'),
+            'exec' => option('bnomei.turbo.exec'),
         ], $options);
     }
 
@@ -70,7 +72,7 @@ final class Turbo
         $root = $this->kirby->root('content');
         foreach ($cache as &$item) {
             if (is_string($item)) {
-                $item = explode(' ', $item);
+                $item = explode("\t", $item);
             }
             $path = $root.'/'.$item[0];
             $item = [
@@ -78,6 +80,7 @@ final class Turbo
                 'path' => $path,
                 'slug' => basename($path),
                 'modified' => isset($item[1]) ? (int) $item[1] : null,
+                'content' => isset($item[2]) ? json_decode($item[2], true) : null,
             ];
             // add file
             $dirs[$item['dir']][] = $item['slug'];
@@ -86,8 +89,9 @@ final class Turbo
         }
 
         // sort files/dirs inside dirs
-        foreach ($dirs as $dir => $files) {
-            natsort($dirs[$dir]);
+        foreach ($dirs as $path => $refs) {
+            $dirs[$path] = array_unique($refs);
+            natsort($dirs[$path]);
         }
 
         return [$cache, $dirs];
@@ -98,7 +102,7 @@ final class Turbo
         // no cache
         $expire = $this->options['expire'];
         if ($expire === null) {
-            return $this->fetch();
+            return $this->exec();
         }
 
         // try cache
@@ -109,19 +113,19 @@ final class Turbo
             }
         } else {
             // update cache
-            $data = $this->fetch();
+            $data = $this->exec();
             $this->write($data);
         }
 
         return $data;
     }
 
-    public function fetch(): string
+    public function exec(): string
     {
-        return match ($this->options['fetch']) {
-            // 'turbo' => $this->fetchWithTurbo(), // TODO: implement
-            'find' => $this->fetchWithFind(),
-            default => [],
+        return match ($this->options['exec']) {
+            // 'turbo' => $this->execWithTurbo(), // TODO: implement
+            'find' => $this->execWithFind(),
+            default => '',
         };
     }
 
@@ -138,18 +142,25 @@ final class Turbo
         return $models;
     }
 
-    public function fetchWithFind(): string
+    public function execWithFind(): string
     {
         $root = $this->kirby->root('content');
         $extension = $this->kirby->contentExtension();
-        $pattern = implode(' -o ', array_map(fn ($model) => " -name '$model.$extension'", $this->models()));
-
-        $cmd = "find '{$root}' -type f \( $pattern \) -exec stat -f '%N %m' {} \;";
-
+        $codes = $this->kirby->multilang() ? array_map(fn ($item) => '.'.$item, $this->kirby->languages()->codes()) : [''];
+        $pattern = [];
+        foreach ($this->models() as $model) {
+            foreach ($codes as $code) {
+                $pattern[] = "-name '$model$code.$extension'";
+            }
+        }
+        $pattern = implode(' -o ', $pattern);
+        $cmd = "find '{$root}' -type f \( $pattern \)";
+        if ($this->options['modified']) {
+            $cmd .= " -exec stat -f '%N\t%m' {} \;";
+        }
         $output = shell_exec($cmd);
-        $output = str_replace($root.'/', '', $output ?? ''); // store less data
 
-        return $output;
+        return str_replace($root.'/', '', $output ? $output : ''); // store less data
     }
 
     public function write(mixed $data): bool
@@ -210,6 +221,7 @@ final class Turbo
             return null;
         }
 
+        // TODO: $languageCode might not be in $root yet
         return A::get($this->data(), implode('.', array_filter([$root, 'content', $languageCode])), null);
     }
 

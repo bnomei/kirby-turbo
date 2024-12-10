@@ -13,8 +13,10 @@ Kirby::plugin('bnomei/turbo', [
     'options' => [
         'cache' => true,
         'expire' => 0, // 0 = forever, null to disable caching
+        'content' => true,
+        'modified' => true,
         'compression' => true,
-        'fetch' => 'find', // find|turbo
+        'exec' => 'find', // find|turbo
     ],
     'hooks' => [
         'page.*:after' => function ($event, $page) {

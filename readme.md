@@ -17,6 +17,12 @@ XXX
 - `git submodule add https://github.com/bnomei/kirby-turbo.git site/plugins/kirby-turbo` or
 - `composer require bnomei/kirby-turbo`
 
+## TODOS
+
+- [ ] test with turbo
+- [ ] test multilang of content
+- [ ] support for Files
+
 ## Usage
 
 xxx
