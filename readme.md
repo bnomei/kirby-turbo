@@ -23,6 +23,23 @@ XXX
 - [ ] test multilang of content
 - [ ] support for Files
 
+## Setup
+
+**site/config/config.php**
+```php
+<?php
+
+return [
+    // you have to set caches from default `file`
+    // to any in-memory cache like `adredis`, `redis` or `apcu`
+    'bnomei.turbo.cache.content' => ['type' => 'adredis'],
+    'bnomei.turbo.cache.dir' => ['type' => 'adredis'],
+];
+```
+
+> [!TIP]
+> Even if Kirby CMS v5 ships with built-in Redis support consider using my [advanced cache-driver for Redis](https://github.com/bnomei/kirby3-redis-cachedriver) with in-memory store, transactions and preloading.
+
 ## Usage
 
 xxx

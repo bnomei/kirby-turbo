@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace Bnomei;
 
+use Kirby\Cache\Cache;
 use Kirby\Cms\App;
 use Kirby\Toolkit\A;
 use ReflectionClass;
@@ -24,10 +25,11 @@ final class Turbo
         $this->options = array_merge([
             'debug' => boolval(option('debug')),
             'expire' => option('bnomei.turbo.expire'),
-            'content' => boolval(option('bnomei.turbo.content')),
-            'modified' => boolval(option('bnomei.turbo.modified')),
             'compression' => boolval(option('bnomei.turbo.compression')),
-            'exec' => option('bnomei.turbo.exec'),
+
+            'cmd.exec' => option('bnomei.turbo.cmd.exec'),
+            'cmd.content' => boolval(option('bnomei.turbo.cmd.content')),
+            'cmd.modified' => boolval(option('bnomei.turbo.cmd.modified')),
         ], $options);
     }
 
@@ -70,7 +72,9 @@ final class Turbo
 
         $dirs = [];
         $root = $this->kirby->root('content');
-        foreach ($cache as &$item) {
+        $copy = $cache;
+        $cache = [];
+        foreach ($copy as $item) {
             if (is_string($item)) {
                 $item = explode("\t", $item);
             }
@@ -82,11 +86,14 @@ final class Turbo
                 'modified' => isset($item[1]) ? (int) $item[1] : null,
                 'content' => isset($item[2]) ? json_decode($item[2], true) : null,
             ];
+            $cache[hash('xxh3', $path)] = $item;
             // add file
             $dirs[$item['dir']][] = $item['slug'];
             // add dir to parent
             $dirs[dirname($item['dir'])][] = basename($item['dir']);
         }
+
+        // add path for each item as key
 
         // sort files/dirs inside dirs
         foreach ($dirs as $path => $refs) {
@@ -106,7 +113,7 @@ final class Turbo
         }
 
         // try cache
-        $data = kirby()->cache('bnomei.turbo')->get('data');
+        $data = $this->cache('cmd')->get('data');
         if ($data) {
             if ($this->options['compression']) {
                 $data = gzuncompress(base64_decode($data));
@@ -122,7 +129,7 @@ final class Turbo
 
     public function exec(): string
     {
-        return match ($this->options['exec']) {
+        return match ($this->options['cmd.exec']) {
             // 'turbo' => $this->execWithTurbo(), // TODO: implement
             'find' => $this->execWithFind(),
             default => '',
@@ -155,7 +162,7 @@ final class Turbo
         }
         $pattern = implode(' -o ', $pattern);
         $cmd = "find '{$root}' -type f \( $pattern \)";
-        if ($this->options['modified']) {
+        if ($this->options['cmd.modified']) {
             $cmd .= " -exec stat -f '%N\t%m' {} \;";
         }
         $output = shell_exec($cmd);
@@ -174,7 +181,7 @@ final class Turbo
             $data = base64_encode(gzcompress($data));
         }
 
-        return kirby()->cache('bnomei.turbo')->set('data', $data, $expire);
+        return $this->cache('cmd')->set('data', $data, $expire);
     }
 
     public function is_dir(string $dir): bool
@@ -206,23 +213,27 @@ final class Turbo
         );
     }
 
-    public function modified(?string $root = null, ?string $languageCode = null): ?int
+    public function modified(?string $root = null): ?int
     {
         if (! $root) {
             return null;
         }
 
-        return A::get($this->data(), implode('.', array_filter([$root, 'modified', $languageCode])), null);
+        return A::get($this->data(), hash('xxh3', $root).'.modified', null);
     }
 
-    public function content(?string $root = null, ?string $languageCode = null): ?array
+    public function content(?string $root = null): ?array
     {
         if (! $root) {
             return null;
         }
 
-        // TODO: $languageCode might not be in $root yet
-        return A::get($this->data(), implode('.', array_filter([$root, 'content', $languageCode])), null);
+        return A::get($this->data(), hash('xxh3', $root).'.content', null);
+    }
+
+    public function cache(string $string): Cache
+    {
+        return kirby()->cache('bnomei.turbo.'.$string);
     }
 
     private static ?self $singleton = null;
@@ -236,10 +247,10 @@ final class Turbo
         return self::$singleton;
     }
 
-    public static function flush(): bool
+    public static function flush(string $cache): bool
     {
         if (kirby()->option('bnomei.turbo.expire') !== null) {
-            return kirby()->cache('bnomei.turbo')->flush();
+            return kirby()->cache('bnomei.turbo.'.$cache)->flush();
         }
 
         return true;

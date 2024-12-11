@@ -71,5 +71,8 @@
     },
     "extra": {
         "kirby-cms-path": "tests/kirby"
+    },
+    "suggest": {
+        "bnomei/kirby3-redis-cachedriver": "Advanced Redis cache-driver with in-memory store and preloading"
     }
 }

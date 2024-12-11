@@ -2,4 +2,13 @@
 
 <?php snippet('list') ?>
 
-<?= $page->modified() ?>
+<?= $page::class ?><br>
+<?= $page->template() ?><br>
+<?= $page->modified() ?><br>
+<?= $page->title()->value() ?><br>
+<?= $page->uuid() ?><br>
+<?= $page->hasTurbo() === true ? 'TURBO' : 'NOPE' ?>
+
+<pre>
+<?php print_r($page->content()->toArray()) ?>
+</pre>
