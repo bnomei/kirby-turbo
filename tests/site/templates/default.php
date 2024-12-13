@@ -10,5 +10,6 @@
 <?= $page->hasTurbo() === true ? 'TURBO' : 'NOPE' ?>
 
 <pre>
-<?php print_r($page->content()->toArray()) ?>
+<?php //print_r($page->content()->toArray())?>
+<?php // print_r($page->readContent())?>
 </pre>

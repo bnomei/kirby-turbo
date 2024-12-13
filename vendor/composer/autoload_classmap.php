@@ -11,6 +11,7 @@ return array(
     'Bnomei\\TurboDir' => $baseDir . '/classes/TurboDir.php',
     'Bnomei\\TurboFile' => $baseDir . '/classes/TurboFile.php',
     'Bnomei\\TurboPage' => $baseDir . '/classes/TurboPage.php',
+    'Bnomei\\TurboStorage' => $baseDir . '/classes/TurboStorage.php',
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
     'Kirby\\ComposerInstaller\\CmsInstaller' => $vendorDir . '/getkirby/composer-installer/src/ComposerInstaller/CmsInstaller.php',
     'Kirby\\ComposerInstaller\\Installer' => $vendorDir . '/getkirby/composer-installer/src/ComposerInstaller/Installer.php',

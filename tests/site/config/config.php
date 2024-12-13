@@ -1,6 +1,7 @@
 <?php
 
 return [
+    'editor' => 'phpstorm',
     'debug' => true,
     'languages' => false,
     'content' => [
@@ -10,11 +11,11 @@ return [
     // add custom headers for tracking load and render time
     'stopwatch' => true,
 
-    //    'bnomei.turbo.model.read' => false,
-    'bnomei.turbo.model.write' => false,
-    //    'bnomei.turbo.cache.cmd' => ['type' => 'redis'],
-    //
-    //    'cache' => [
-    //        'uuid' => ['type' => 'redis'],
-    //    ],
+    'bnomei.turbo.cache.anything' => ['type' => 'redis'],
+    'bnomei.turbo.cache.cmd' => ['type' => 'redis'],
+    'bnomei.turbo.cache.storage' => ['type' => 'redis'],
+
+    'cache' => [
+        'uuid' => ['type' => 'redis'],
+    ],
 ];

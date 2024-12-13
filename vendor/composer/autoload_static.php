@@ -34,6 +34,7 @@ class ComposerStaticInit88fd3f8362ad6ddcf4a33e961e5d74c1
         'Bnomei\\TurboDir' => __DIR__ . '/../..' . '/classes/TurboDir.php',
         'Bnomei\\TurboFile' => __DIR__ . '/../..' . '/classes/TurboFile.php',
         'Bnomei\\TurboPage' => __DIR__ . '/../..' . '/classes/TurboPage.php',
+        'Bnomei\\TurboStorage' => __DIR__ . '/../..' . '/classes/TurboStorage.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
         'Kirby\\ComposerInstaller\\CmsInstaller' => __DIR__ . '/..' . '/getkirby/composer-installer/src/ComposerInstaller/CmsInstaller.php',
         'Kirby\\ComposerInstaller\\Installer' => __DIR__ . '/..' . '/getkirby/composer-installer/src/ComposerInstaller/Installer.php',

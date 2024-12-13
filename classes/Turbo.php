@@ -6,7 +6,10 @@ namespace Bnomei;
 
 use Kirby\Cache\Cache;
 use Kirby\Cms\App;
+use Kirby\Cms\Files;
+use Kirby\Filesystem\F;
 use Kirby\Toolkit\A;
+use Kirby\Toolkit\Str;
 use ReflectionClass;
 
 final class Turbo
@@ -17,7 +20,7 @@ final class Turbo
 
     private ?array $dirs = null;
 
-    private array $options;
+    public array $options;
 
     public function __construct(array $options = [])
     {
@@ -26,23 +29,14 @@ final class Turbo
             'debug' => boolval(option('debug')),
             'expire' => option('bnomei.turbo.expire'),
             'compression' => boolval(option('bnomei.turbo.compression')),
-
+            'storage' => boolval(option('bnomei.turbo.storage')),
             'cmd.exec' => option('bnomei.turbo.cmd.exec'),
             'cmd.content' => boolval(option('bnomei.turbo.cmd.content')),
             'cmd.modified' => boolval(option('bnomei.turbo.cmd.modified')),
         ], $options);
     }
 
-    public function option(?string $key = null): mixed
-    {
-        if ($key) {
-            return A::get($this->options, $key);
-        }
-
-        return $this->options;
-    }
-
-    public function data(): array
+    private function data(): array
     {
         // lazy load
         if ($this->data === null) {
@@ -54,14 +48,14 @@ final class Turbo
         return $this->data;
     }
 
-    public function dirs(): array
+    private function dirs(): array
     {
         $this->data(); // ensure data is loaded
 
         return $this->dirs ?? [];
     }
 
-    public function unwrap(string $cache): array
+    private function unwrap(string $cache): array
     {
         if (! $cache) {
             return [[], []];
@@ -93,8 +87,6 @@ final class Turbo
             $dirs[dirname($item['dir'])][] = basename($item['dir']);
         }
 
-        // add path for each item as key
-
         // sort files/dirs inside dirs
         foreach ($dirs as $path => $refs) {
             $dirs[$path] = array_unique($refs);
@@ -104,7 +96,7 @@ final class Turbo
         return [$cache, $dirs];
     }
 
-    public function read(): string
+    private function read(): string
     {
         // no cache
         $expire = $this->options['expire'];
@@ -113,7 +105,7 @@ final class Turbo
         }
 
         // try cache
-        $data = $this->cache('cmd')->get('data');
+        $data = $this->cmd()->get('output-'.$this->options['cmd.exec']);
         if ($data) {
             if ($this->options['compression']) {
                 $data = gzuncompress(base64_decode($data));
@@ -127,7 +119,7 @@ final class Turbo
         return $data;
     }
 
-    public function exec(): string
+    private function exec(): string
     {
         return match ($this->options['cmd.exec']) {
             // 'turbo' => $this->execWithTurbo(), // TODO: implement
@@ -136,7 +128,7 @@ final class Turbo
         };
     }
 
-    public function models(): array
+    private function modelsWithTurbo(): array
     {
         $models = [];
         foreach ($this->kirby->extensions('pageModels') as $model => $class) {
@@ -149,13 +141,13 @@ final class Turbo
         return $models;
     }
 
-    public function execWithFind(): string
+    private function execWithFind(): string
     {
         $root = $this->kirby->root('content');
         $extension = $this->kirby->contentExtension();
         $codes = $this->kirby->multilang() ? array_map(fn ($item) => '.'.$item, $this->kirby->languages()->codes()) : [''];
         $pattern = [];
-        foreach ($this->models() as $model) {
+        foreach ($this->modelsWithTurbo() as $model) {
             foreach ($codes as $code) {
                 $pattern[] = "-name '$model$code.$extension'";
             }
@@ -167,10 +159,11 @@ final class Turbo
         }
         $output = shell_exec($cmd);
 
-        return str_replace($root.'/', '', $output ? $output : ''); // store less data
+        // store less data by trimming away the know kirby content root folder
+        return str_replace($root.'/', '', $output ? $output : '');
     }
 
-    public function write(mixed $data): bool
+    private function write(mixed $data): bool
     {
         $expire = $this->options['expire'];
         if ($expire === null) {
@@ -178,10 +171,13 @@ final class Turbo
         }
 
         if ($this->options['compression']) {
+            // compression is great for paths and repeated data
+            // or if storing less data in the cache is required.
+            // it comes with a delay and more memory usage as trade-off.
             $data = base64_encode(gzcompress($data));
         }
 
-        return $this->cache('cmd')->set('data', $data, $expire);
+        return $this->cmd()->set('output-'.$this->options['cmd.exec'], $data, $expire);
     }
 
     public function is_dir(string $dir): bool
@@ -194,8 +190,23 @@ final class Turbo
         // SLOW: using the file system in PHP
         // $scandir = scandir($dir);
 
-        // using TURBO
+        // using TURBO from batch-loaded via command
         return A::get($this->dirs(), $dir, []);
+    }
+
+    public function cache(?string $string = 'anything'): Cache
+    {
+        return kirby()->cache('bnomei.turbo.'.$string);
+    }
+
+    public function cmd(): Cache
+    {
+        return $this->cache('cmd');
+    }
+
+    public function storage(): ?Cache
+    {
+        return $this->options['storage'] ? $this->cache('storage') : null;
     }
 
     public function inventory(?string $root = null): ?array
@@ -204,7 +215,8 @@ final class Turbo
             return null;
         }
 
-        // use TURBO to get the inventory for a directory
+        // use TurboDir to get the inventory for a directory
+        // using the batch-loaded data from a command
         return TurboDir::inventory(
             $root,
             $this->kirby->contentExtension(),
@@ -213,27 +225,61 @@ final class Turbo
         );
     }
 
-    public function modified(?string $root = null): ?int
+    public function modified(string $root): ?int
     {
-        if (! $root) {
-            return null;
-        }
-
         return A::get($this->data(), hash('xxh3', $root).'.modified', null);
     }
 
-    public function content(?string $root = null): ?array
+    public function content(string $root): ?array
     {
-        if (! $root) {
-            return null;
-        }
-
         return A::get($this->data(), hash('xxh3', $root).'.content', null);
     }
 
-    public function cache(string $string): Cache
+    public function serialize(mixed $value): mixed
     {
-        return kirby()->cache('bnomei.turbo.'.$string);
+        if (! $value) {
+            return null;
+        }
+
+        $value = ! is_string($value) && is_callable($value) ? $value() : $value;
+
+        if (is_array($value)) {
+            return array_map(function ($item) {
+                return $this->serialize($item);
+            }, $value);
+        }
+
+        if (is_a($value, 'Kirby\Content\Field')) {
+            return $value->value();
+        }
+
+        return $value;
+    }
+
+    public function patchFilesClass(): bool
+    {
+        $key = 'files.'.App::versionHash().'.patch';
+        $patch = $this->cache()->get($key);
+        if (file_exists($patch)) {
+            return false;
+        }
+
+        $filesClass = (new ReflectionClass(Files::class))->getFileName();
+        if ($filesClass && F::exists($filesClass) && F::isWritable($filesClass)) {
+            $code = F::read($filesClass);
+            if ($code && Str::contains($code, '\Bnomei\TurboFile::factory') === false) {
+                $code = str_replace('File::factory(', '\Bnomei\TurboFile::factory(', $code);
+                F::write($filesClass, $code);
+
+                if (function_exists('opcache_invalidate')) {
+                    opcache_invalidate($filesClass); // @codeCoverageIgnore
+                }
+            }
+
+            return $this->cache()->set($key, date('c'), 0);
+        }
+
+        return false;
     }
 
     private static ?self $singleton = null;
@@ -249,6 +295,10 @@ final class Turbo
 
     public static function flush(string $cache): bool
     {
+        if (! in_array($cache, ['anything', 'cmd', 'storage'])) {
+            return false;
+        }
+
         if (kirby()->option('bnomei.turbo.expire') !== null) {
             return kirby()->cache('bnomei.turbo.'.$cache)->flush();
         }

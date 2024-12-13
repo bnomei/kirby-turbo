@@ -20,20 +20,21 @@ XXX
 ## TODOS
 
 - [ ] test with turbo
-- [ ] test multilang of content
 - [ ] support for Files
 
-## Setup
+## Setup: Pick your non-file based cache-driver
+
+Set any in-memory cache-driver like `adredis`, `redis` or `apcu` for each of the plugins caches.
 
 **site/config/config.php**
 ```php
 <?php
 
 return [
-    // you have to set caches from default `file`
-    // to any in-memory cache like `adredis`, `redis` or `apcu`
-    'bnomei.turbo.cache.content' => ['type' => 'adredis'],
-    'bnomei.turbo.cache.dir' => ['type' => 'adredis'],
+    'bnomei.turbo.cache.anything' => ['type' => 'adredis'],
+    'bnomei.turbo.cache.cmd' => ['type' => 'adredis'],
+    'bnomei.turbo.cache.storage' => ['type' => 'adredis'],
+    // ... other options
 ];
 ```
 
@@ -42,7 +43,16 @@ return [
 
 ## Usage
 
-xxx
+### Cache anything
+
+Turbo exposes a cache for your convenience to cache anything you want. It uses the same cache-driver as it's other caches, like `(ad)redis|apcu`.
+
+```php
+turbo()->cache()->set('key', 'value');
+turbo()->cache()->set('key', turbo()->serialize($dataContainingFields));
+$value = turbo()->cache()->get('key');
+$value = turbo()->cache()->getOrSet('key', fn() => 'value');
+```
 
 ## Settings
 
