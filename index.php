@@ -21,7 +21,7 @@ Kirby::plugin('bnomei/turbo', [
 
         // cmd to scan for files with timestamp and maybe content
         'cmd' => [
-            'exec' => 'find', // find|turbo
+            'exec' => 'find', // null|find|turbo
             'modified' => true, // gather modified timestamp or default to PHP
             'content' => true, // if exec can do it fetch content
         ],

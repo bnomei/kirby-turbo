@@ -96,6 +96,6 @@ class TurboStorage extends PlainTextStorage
         }
         $storage->set(hash('xxh3',
             $this->contentFile($versionId, $language)
-        ), $data);
+        ), $data, $t->options['expire']);
     }
 }

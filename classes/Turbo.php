@@ -57,7 +57,7 @@ final class Turbo
 
     private function unwrap(string $cache): array
     {
-        if (! $cache) {
+        if (empty($cache)) {
             return [[], []];
         }
 
@@ -206,7 +206,9 @@ final class Turbo
 
     public function storage(): ?Cache
     {
-        return $this->options['storage'] ? $this->cache('storage') : null;
+        return $this->options['expire'] !== null && $this->options['storage'] ?
+            $this->cache('storage') :
+            null;
     }
 
     public function inventory(?string $root = null): ?array
