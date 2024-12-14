@@ -42,12 +42,12 @@ struct Args {
     #[clap(short, long, value_parser)]
     dir: String,
 
-    /// Include modification timestamps in the output (enabled by default)
-    #[clap(short = 'm', long, action, default_value_t = true)]
+    /// Include modification timestamps in the output
+    #[clap(short = 'm', long, action, default_value_t = false)]
     modified: bool,
 
     /// Read and parse file content into key-value pairs
-    #[clap(short = 'r', long, action, default_value_t = false)]
+    #[clap(short = 'c', long, action, default_value_t = false)]
     content: bool,
 
     /// Comma-separated list of filenames to filter
