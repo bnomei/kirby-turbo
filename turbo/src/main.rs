@@ -47,11 +47,11 @@ struct Args {
     modified: bool,
 
     /// Read and parse file content into key-value pairs
-    #[clap(short = 'r', long, action, default_value_t = true)]
+    #[clap(short = 'r', long, action, default_value_t = false)]
     content: bool,
 
     /// Comma-separated list of filenames to filter
-    #[clap(short = 'f', long, value_parser, default_value = "actor.txt,actors.txt")]
+    #[clap(short = 'f', long, value_parser, default_value = "")]
     filenames: String,
 }
 
