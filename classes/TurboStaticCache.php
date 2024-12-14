@@ -31,7 +31,7 @@ class TurboStaticCache
     protected static function key(array|string $key): string
     {
         return is_array($key) ?
-            hash('xxh3', json_encode(Turbo::serialize($key))) : // @phpstan-ignore-line
+            '#'.hash('xxh3', json_encode(Turbo::serialize($key))) : // @phpstan-ignore-line
             $key; // do not alter if it's a string
     }
 }

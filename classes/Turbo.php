@@ -60,24 +60,29 @@ final class Turbo
 
     public function unwrap(string $output): array
     {
+        $output = trim($output);
+
         // no data
         if (empty($output)) {
             return [[], []];
         }
+
+        $root = $this->kirby->root('content') ?? '';
 
         // preloaded data as json
         if (strlen($output) > 2 &&
             str_starts_with($output, '{') &&
             str_ends_with($output, '}')
         ) {
+            $output = str_replace('"@/', '"'.$root.'/', $output);
             if ($all = json_decode($output, true)) {
-                return [A::get($all, 'data', []), A::get($all, 'dirs', [])];
+                return [A::get($all, 'files', []), A::get($all, 'dirs', [])];
             }
         }
 
         // data from "TIMESTAMP\tPATH\n..."
         $output = array_filter(explode(PHP_EOL, $output));
-        $root = $this->kirby->root('content');
+
         $data = [];
         $dirs = [];
         foreach ($output as $item) {
@@ -92,7 +97,7 @@ final class Turbo
                 'modified' => isset($item[1]) ? (int) $item[1] : null,
                 'content' => isset($item[2]) ? json_decode($item[2], true) : null,
             ];
-            $data[hash('xxh3', $path)] = $item;
+            $data['#'.hash('xxh3', $path)] = $item; // avoid int casting on keys using prefix
             // add file
             $dirs[$item['dir']][] = $item['slug'];
             // add dir to parent
@@ -116,7 +121,7 @@ final class Turbo
         }
 
         // try cache
-        $data = $this->cache()?->get('output-'.$this->options['cmd.exec']);
+        $data = $this->cache()?->get('output-'.basename($this->options['cmd.exec']));
         if ($data && $this->options['compression']) {
             $data = gzuncompress(base64_decode($data));
         }
@@ -145,7 +150,7 @@ final class Turbo
         $root = $this->kirby->root('content');
         $exec = $this->options['cmd.exec'];
         $patterns = implode(',', $this->modelsWithTurboFilenamePatterns());
-        $cmd = "{$exec} '{$root}' -type $patterns";
+        $cmd = "{$exec} --dir '{$root}' --filenames '$patterns'";
         $cmd .= $this->options['cmd.modified'] ? ' --modified' : '';
         $cmd .= $this->options['cmd.content'] ? ' --content' : '';
         $output = shell_exec($cmd);
@@ -211,7 +216,7 @@ final class Turbo
             $data = base64_encode(gzcompress($data));
         }
 
-        return $this->cache()?->set('output-'.$this->options['cmd.exec'], $data, $expire);
+        return $this->cache()?->set('output-'.basename($this->options['cmd.exec']), $data, $expire);
     }
 
     public function cache(): ?Cache
@@ -242,12 +247,12 @@ final class Turbo
 
     public function modified(string $root): ?int
     {
-        return A::get($this->data(), hash('xxh3', $root).'.modified', null);
+        return A::get($this->data(), '#'.hash('xxh3', $root).'.modified', null);
     }
 
     public function content(string $root): ?array
     {
-        return A::get($this->data(), hash('xxh3', $root).'.content', null);
+        return A::get($this->data(), '#'.hash('xxh3', $root).'.content', null);
     }
 
     public static function serialize(mixed $value): mixed
@@ -290,6 +295,8 @@ final class Turbo
 
         if ($cache === 'cmd') {
             kirby()->cache('bnomei.turbo')->remove('output-turbo');
+            kirby()->cache('bnomei.turbo')->remove('output-turbo-darwin');
+            kirby()->cache('bnomei.turbo')->remove('output-turbo-linux');
             kirby()->cache('bnomei.turbo')->remove('output-find');
 
             return true;

@@ -9,7 +9,7 @@
 [![Discord](https://flat.badgen.net/badge/discord/bnomei?color=7289da&icon=discord&label)](https://discordapp.com/users/bnomei)
 [![Buymecoffee](https://flat.badgen.net/badge/icon/donate?icon=buymeacoffee&color=FF813F&label)](https://www.buymeacoffee.com/bnomei)
 
-XXX
+Speed up your content in Kirby with Redis/APCu caches and Rust powered preloading
 
 ## Installation
 
@@ -17,11 +17,13 @@ XXX
 - `git submodule add https://github.com/bnomei/kirby-turbo.git site/plugins/kirby-turbo` or
 - `composer require bnomei/kirby-turbo`
 
-## TODOS
+## How it works
 
-- [ ] mono uuid resolver
-- [ ] test with turbo
-- [ ] support for Files
+TODO
+
+## Features
+
+- Once the cache is in place you can expect **consistent load times** with way less impact from the amount of pages you are using within a single request.
 
 ## Setup
 
@@ -35,7 +37,7 @@ return [
     'bnomei.turbo.cache' => ['type' => 'redis', 'database' => 0],
 
     'cache' => [
-        'uuid' => ['type' => 'redis', 'database' => 1],
+        'uuid' => ['type' => 'redis', 'database' => 0],
     ],
     
     // ... other options
@@ -43,11 +45,15 @@ return [
 ```
 
 > [!TIP]
-> Using different databases in redis helps to avoid unintended flushes from one cache-driver to another.
+> Using different databases in the caches helps to avoid unintended flushes from one cache-driver to another but it will decrease performance.
 
 ## Usage
 
-### Cache anything
+### Models
+
+TODO
+
+## Cache
 
 Turbo exposes a cache for your convenience to cache anything you want.
 
@@ -57,7 +63,7 @@ $value = turbo()->cache()->get('key');
 $value = turbo()->cache()->getOrSet('key', fn() => 'value');
 ```
 
-### TurboRedis
+## TurboRedis Cache-Driver
 
 If you use the `turbo-redis` cache-driver you will get a few advanced features.
 
@@ -80,6 +86,14 @@ $value = turbo()->cache()->getOrSet($key, function() use ($page) {
     ];
 });
 ```
+
+## TurboStaticCache Helper
+
+TODO
+
+## Roadmap
+
+- [ ] support for Files (not just Pages)
 
 ## Settings
 

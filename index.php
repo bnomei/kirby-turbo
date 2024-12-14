@@ -24,7 +24,7 @@ Kirby::plugin('bnomei/turbo', [
                 $cmd = $kirby->root('index').'/vendor/bin/turbo';
 
                 if (stripos($os, 'Darwin') !== false) { // macOS
-                    $cmd .= '-osx';
+                    $cmd .= '-darwin';
                 } elseif (stripos($os, 'Linux') !== false) { // musl compiled
                     $cmd .= '-linux';
                 }
