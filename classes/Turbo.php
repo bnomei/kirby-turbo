@@ -6,10 +6,7 @@ namespace Bnomei;
 
 use Kirby\Cache\Cache;
 use Kirby\Cms\App;
-use Kirby\Cms\Files;
-use Kirby\Filesystem\F;
 use Kirby\Toolkit\A;
-use Kirby\Toolkit\Str;
 use ReflectionClass;
 
 final class Turbo
@@ -34,9 +31,15 @@ final class Turbo
             'cmd.content' => boolval(option('bnomei.turbo.cmd.content')),
             'cmd.modified' => boolval(option('bnomei.turbo.cmd.modified')),
         ], $options);
+
+        foreach ($this->options as $key => $value) {
+            if ($value instanceof \Closure) {
+                $this->options[$key] = $value($this->kirby);
+            }
+        }
     }
 
-    private function data(): array
+    public function data(): array
     {
         // lazy load
         if ($this->data === null) {
@@ -48,27 +51,36 @@ final class Turbo
         return $this->data;
     }
 
-    private function dirs(): array
+    public function dirs(): array
     {
         $this->data(); // ensure data is loaded
 
         return $this->dirs ?? [];
     }
 
-    private function unwrap(string $cache): array
+    public function unwrap(string $output): array
     {
-        if (empty($cache)) {
+        // no data
+        if (empty($output)) {
             return [[], []];
         }
 
-        $cache = explode(PHP_EOL, $cache);
-        $cache = array_filter($cache);
+        // preloaded data as json
+        if (strlen($output) > 2 &&
+            str_starts_with($output, '{') &&
+            str_ends_with($output, '}')
+        ) {
+            if ($all = json_decode($output, true)) {
+                return [A::get($all, 'data', []), A::get($all, 'dirs', [])];
+            }
+        }
 
-        $dirs = [];
+        // data from "TIMESTAMP\tPATH\n..."
+        $output = array_filter(explode(PHP_EOL, $output));
         $root = $this->kirby->root('content');
-        $copy = $cache;
-        $cache = [];
-        foreach ($copy as $item) {
+        $data = [];
+        $dirs = [];
+        foreach ($output as $item) {
             if (is_string($item)) {
                 $item = explode("\t", $item);
             }
@@ -80,7 +92,7 @@ final class Turbo
                 'modified' => isset($item[1]) ? (int) $item[1] : null,
                 'content' => isset($item[2]) ? json_decode($item[2], true) : null,
             ];
-            $cache[hash('xxh3', $path)] = $item;
+            $data[hash('xxh3', $path)] = $item;
             // add file
             $dirs[$item['dir']][] = $item['slug'];
             // add dir to parent
@@ -93,24 +105,22 @@ final class Turbo
             natsort($dirs[$path]);
         }
 
-        return [$cache, $dirs];
+        return [$data, $dirs];
     }
 
-    private function read(): string
+    public function read(): string
     {
         // no cache
-        $expire = $this->options['expire'];
-        if ($expire === null) {
+        if ($this->options['expire'] === null) {
             return $this->exec();
         }
 
         // try cache
-        $data = $this->cmd()->get('output-'.$this->options['cmd.exec']);
-        if ($data) {
-            if ($this->options['compression']) {
-                $data = gzuncompress(base64_decode($data));
-            }
-        } else {
+        $data = $this->cache()?->get('output-'.$this->options['cmd.exec']);
+        if ($data && $this->options['compression']) {
+            $data = gzuncompress(base64_decode($data));
+        }
+        if (! $data) {
             // update cache
             $data = $this->exec();
             $this->write($data);
@@ -119,16 +129,48 @@ final class Turbo
         return $data;
     }
 
-    private function exec(): string
+    public function exec(): string
     {
-        return match ($this->options['cmd.exec']) {
-            // 'turbo' => $this->execWithTurbo(), // TODO: implement
-            'find' => $this->execWithFind(),
-            default => '',
-        };
+        if ($this->options['cmd.exec'] === 'find') {
+            return $this->execWithFind();
+        } elseif (str_contains($this->options['cmd.exec'], 'turbo')) {
+            return $this->execWithTurbo();
+        }
+
+        return '';
     }
 
-    private function modelsWithTurbo(): array
+    public function execWithTurbo(): string
+    {
+        $root = $this->kirby->root('content');
+        $exec = $this->options['cmd.exec'];
+        $patterns = implode(',', $this->modelsWithTurboFilenamePatterns());
+        $cmd = "{$exec} '{$root}' -type $patterns";
+        $cmd .= $this->options['cmd.modified'] ? ' --modified' : '';
+        $cmd .= $this->options['cmd.content'] ? ' --content' : '';
+        $output = shell_exec($cmd);
+
+        return $output ?: '';
+    }
+
+    public function execWithFind(): string
+    {
+        $root = $this->kirby->root('content');
+        $exec = $this->options['cmd.exec'];
+        $patterns = implode(' -o ', array_map(
+            fn ($pattern) => "-name '$pattern'",
+            $this->modelsWithTurboFilenamePatterns()
+        ));
+        $cmd = "{$exec} '{$root}' -type f \( $patterns \)";
+        $cmd .= $this->options['cmd.modified'] ? " -exec stat -f '%N\t%m' {} \;" : '';
+        // NOTE: find does not do content so no option here
+        $output = shell_exec($cmd);
+
+        // store less data by trimming away the know kirby content root folder
+        return str_replace($root.'/', '', $output ? $output : '');
+    }
+
+    public function modelsWithTurbo(): array
     {
         $models = [];
         foreach ($this->kirby->extensions('pageModels') as $model => $class) {
@@ -141,29 +183,21 @@ final class Turbo
         return $models;
     }
 
-    private function execWithFind(): string
+    public function modelsWithTurboFilenamePatterns(): array
     {
-        $root = $this->kirby->root('content');
         $extension = $this->kirby->contentExtension();
         $codes = $this->kirby->multilang() ? array_map(fn ($item) => '.'.$item, $this->kirby->languages()->codes()) : [''];
-        $pattern = [];
+        $patterns = [];
         foreach ($this->modelsWithTurbo() as $model) {
             foreach ($codes as $code) {
-                $pattern[] = "-name '$model$code.$extension'";
+                $patterns[] = "$model$code.$extension";
             }
         }
-        $pattern = implode(' -o ', $pattern);
-        $cmd = "find '{$root}' -type f \( $pattern \)";
-        if ($this->options['cmd.modified']) {
-            $cmd .= " -exec stat -f '%N\t%m' {} \;";
-        }
-        $output = shell_exec($cmd);
 
-        // store less data by trimming away the know kirby content root folder
-        return str_replace($root.'/', '', $output ? $output : '');
+        return $patterns;
     }
 
-    private function write(mixed $data): bool
+    public function write(mixed $data): bool
     {
         $expire = $this->options['expire'];
         if ($expire === null) {
@@ -172,43 +206,22 @@ final class Turbo
 
         if ($this->options['compression']) {
             // compression is great for paths and repeated data
-            // or if storing less data in the cache is required.
+            // or if storing fewer data in the cache is required.
             // it comes with a delay and more memory usage as trade-off.
             $data = base64_encode(gzcompress($data));
         }
 
-        return $this->cmd()->set('output-'.$this->options['cmd.exec'], $data, $expire);
+        return $this->cache()?->set('output-'.$this->options['cmd.exec'], $data, $expire);
     }
 
-    public function is_dir(string $dir): bool
+    public function cache(): ?Cache
     {
-        return array_key_exists($dir, $this->dirs());
-    }
-
-    public function scandir(string $dir): array
-    {
-        // SLOW: using the file system in PHP
-        // $scandir = scandir($dir);
-
-        // using TURBO from batch-loaded via command
-        return A::get($this->dirs(), $dir, []);
-    }
-
-    public function cache(?string $string = 'anything'): Cache
-    {
-        return kirby()->cache('bnomei.turbo.'.$string);
-    }
-
-    public function cmd(): Cache
-    {
-        return $this->cache('cmd');
+        return $this->options['expire'] !== null ? kirby()->cache('bnomei.turbo') : null;
     }
 
     public function storage(): ?Cache
     {
-        return $this->options['expire'] !== null && $this->options['storage'] ?
-            $this->cache('storage') :
-            null;
+        return $this->options['storage'] ? $this->cache() : null;
     }
 
     public function inventory(?string $root = null): ?array
@@ -258,32 +271,6 @@ final class Turbo
         return $value;
     }
 
-    public function patchFilesClass(): bool
-    {
-        $key = 'files.'.App::versionHash().'.patch';
-        $patch = $this->cache()->get($key);
-        if (file_exists($patch)) {
-            return false;
-        }
-
-        $filesClass = (new ReflectionClass(Files::class))->getFileName();
-        if ($filesClass && F::exists($filesClass) && F::isWritable($filesClass)) {
-            $code = F::read($filesClass);
-            if ($code && Str::contains($code, '\Bnomei\TurboFile::factory') === false) {
-                $code = str_replace('File::factory(', '\Bnomei\TurboFile::factory(', $code);
-                F::write($filesClass, $code);
-
-                if (function_exists('opcache_invalidate')) {
-                    opcache_invalidate($filesClass); // @codeCoverageIgnore
-                }
-            }
-
-            return $this->cache()->set($key, date('c'), 0);
-        }
-
-        return false;
-    }
-
     private static ?self $singleton = null;
 
     public static function singleton(array $options = []): Turbo
@@ -295,16 +282,20 @@ final class Turbo
         return self::$singleton;
     }
 
-    public static function flush(string $cache): bool
+    public static function flush(string $cache = 'cmd'): bool
     {
-        if (! in_array($cache, ['anything', 'cmd', 'storage'])) {
+        if (kirby()->option('bnomei.turbo.expire') === null) {
             return false;
         }
 
-        if (kirby()->option('bnomei.turbo.expire') !== null) {
-            return kirby()->cache('bnomei.turbo.'.$cache)->flush();
+        if ($cache === 'cmd') {
+            kirby()->cache('bnomei.turbo')->remove('output-turbo');
+            kirby()->cache('bnomei.turbo')->remove('output-find');
+
+            return true;
         }
 
-        return true;
+        // Danger on redis this might flush storage and anything as well
+        return kirby()->cache('bnomei.turbo')->flush();
     }
 }

@@ -11,9 +11,8 @@ return [
     // add custom headers for tracking load and render time
     'stopwatch' => true,
 
-    'bnomei.turbo.cache.anything' => ['type' => 'redis'],
-    'bnomei.turbo.cache.cmd' => ['type' => 'redis'],
-    'bnomei.turbo.cache.storage' => ['type' => 'redis'],
+    'bnomei.turbo.cmd.exec' => 'find',
+    'bnomei.turbo.cache' => ['type' => 'redis'],
 
     'cache' => [
         'uuid' => ['type' => 'redis'],
