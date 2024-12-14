@@ -1,14 +1,14 @@
 use clap::Parser;
-use serde::{Serialize};
+use serde::Serialize;
 use tokio::fs;
 use tokio::task;
-use tokio::time::Instant; // For measuring execution time
+use tokio::time::Instant;
 use ignore::WalkBuilder;
-use tokio::sync::mpsc; // For async channel
-use std::time::{SystemTime, UNIX_EPOCH};
-use std::path::{PathBuf, Path};
+use tokio::sync::mpsc;
+use futures::stream::StreamExt;
 use std::collections::{HashMap, HashSet};
-use futures::stream::{StreamExt}; // For handling asynchronous streams
+use std::path::{Path, PathBuf};
+use std::time::{SystemTime, UNIX_EPOCH};
 use num_cpus;
 
 /// Metadata information
@@ -166,7 +166,7 @@ fn build_output(files: Vec<FileInfo>, duration_ms: u128, timestamp: u64) -> Outp
     let mut dirs_map: HashMap<String, Vec<String>> = HashMap::new();
 
     for file in files {
-        file_map.insert(file.path.clone(), file.clone());
+        file_map.insert(format!("{:x}", xxhash_rust::xxh3::xxh3_64(file.path.as_bytes())), file.clone());
         if let Some((dir, filename)) = split_dir_and_file(&file.path) {
             dirs_map
                 .entry(dir.to_string())
