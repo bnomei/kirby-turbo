@@ -21,7 +21,9 @@ struct Meta {
 /// Struct representing file information
 #[derive(Serialize, Debug, Clone)]
 struct FileInfo {
+    dir: String,
     path: String,
+    slug: String,
     modified: Option<u64>, // Modification date in seconds since UNIX epoch
     content: Option<HashMap<String, String>>, // Parsed key-value pairs
 }
@@ -134,6 +136,13 @@ async fn process_file(
     read_content: bool,
 ) -> FileInfo {
     let path_str = path.display().to_string();
+    let dir_str = path.parent()
+        .map(|p| p.display().to_string())
+        .unwrap_or_else(|| String::from("<unknown>"));
+    let filename = path.file_name()
+        .and_then(|name| name.to_str())
+        .map(|name| name.to_string())
+        .unwrap_or_else(|| String::from("<unknown>"));
     let mut modified: Option<u64> = None;
     let mut content: Option<HashMap<String, String>> = None;
 
@@ -154,7 +163,9 @@ async fn process_file(
     }
 
     FileInfo {
+        dir: dir_str,
         path: path_str,
+        slug: filename,
         modified,
         content,
     }
