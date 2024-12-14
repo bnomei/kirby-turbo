@@ -177,12 +177,27 @@ fn build_output(files: Vec<FileInfo>, duration_ms: u128, timestamp: u64) -> Outp
     let mut dirs_map: HashMap<String, Vec<String>> = HashMap::new();
 
     for file in files {
-        file_map.insert(format!("{:x}", xxhash_rust::xxh3::xxh3_64(file.path.as_bytes())), file.clone());
+        // Insert file into `file_map` using its hash as the key
+        file_map.insert(
+            format!("{:x}", xxhash_rust::xxh3::xxh3_64(file.path.as_bytes())),
+            file.clone(),
+        );
+
+        // Process the file path and add it to the directory map
         if let Some((dir, filename)) = split_dir_and_file(&file.path) {
+            // Add the file to its parent directory
             dirs_map
                 .entry(dir.to_string())
                 .or_insert_with(Vec::new)
                 .push(filename);
+
+            // Ensure the directory itself is added to its parent directory
+            if let Some(parent_dir) = Path::new(&dir).parent().and_then(|p| p.to_str()) {
+                dirs_map
+                    .entry(parent_dir.to_string())
+                    .or_insert_with(Vec::new)
+                    .push(dir.to_string());
+            }
         }
     }
 
