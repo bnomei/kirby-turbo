@@ -179,7 +179,7 @@ fn build_output(files: Vec<FileInfo>, duration_ms: u128, timestamp: u64) -> Outp
     for file in files {
         // Insert file into `file_map` using its hash as the key
         file_map.insert(
-            format!("{:016x}", xxhash_rust::xxh3::xxh3_64(file.path.as_bytes())), // Add leading zeros like PHP
+            format!("#{:016x}", xxhash_rust::xxh3::xxh3_64(file.path.as_bytes())), // Add leading zeros like PHP
             file.clone(),
         );
 
