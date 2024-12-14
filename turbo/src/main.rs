@@ -179,7 +179,7 @@ fn build_output(files: Vec<FileInfo>, duration_ms: u128, timestamp: u64) -> Outp
     for file in files {
         // Insert file into `file_map` using its hash as the key
         file_map.insert(
-            format!("{:x}", xxhash_rust::xxh3::xxh3_64(file.path.as_bytes())),
+            format!("{:016x}", xxhash_rust::xxh3::xxh3_64(file.path.as_bytes())), // Add leading zeros like PHP
             file.clone(),
         );
 
@@ -193,10 +193,12 @@ fn build_output(files: Vec<FileInfo>, duration_ms: u128, timestamp: u64) -> Outp
 
             // Ensure the directory itself is added to its parent directory
             if let Some(parent_dir) = Path::new(&dir).parent().and_then(|p| p.to_str()) {
-                dirs_map
-                    .entry(parent_dir.to_string())
-                    .or_insert_with(Vec::new)
-                    .push(dir.to_string());
+                if let Some(dir_basename) = Path::new(&dir).file_name().and_then(|d| d.to_str()) {
+                    dirs_map
+                        .entry(parent_dir.to_string())
+                        .or_insert_with(Vec::new)
+                        .push(dir_basename.to_string());
+                }
             }
         }
     }
