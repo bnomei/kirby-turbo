@@ -250,7 +250,7 @@ final class Turbo
         return A::get($this->data(), hash('xxh3', $root).'.content', null);
     }
 
-    public function serialize(mixed $value): mixed
+    public static function serialize(mixed $value): mixed
     {
         if (! $value) {
             return null;
@@ -260,7 +260,7 @@ final class Turbo
 
         if (is_array($value)) {
             return array_map(function ($item) {
-                return $this->serialize($item);
+                return Turbo::serialize($item);
             }, $value);
         }
 

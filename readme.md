@@ -19,39 +19,66 @@ XXX
 
 ## TODOS
 
+- [ ] mono uuid resolver
 - [ ] test with turbo
 - [ ] support for Files
 
-## Setup: Pick your non-file based cache-driver
+## Setup
 
-Set any in-memory cache-driver like `adredis`, `redis` or `apcu` for each of the plugins caches.
+Set any in-memory cache-driver like `redis` (or `apcu`) for each of the plugins caches and the Kirby UUID cache. If you load the majority of your content/uuids in a single request consider using `turbo-redis` instead which preloads all of it's data into an PHP array for faster access. 
 
 **site/config/config.php**
 ```php
 <?php
 
 return [
-    'bnomei.turbo.cache.anything' => ['type' => 'adredis'],
-    'bnomei.turbo.cache.cmd' => ['type' => 'adredis'],
-    'bnomei.turbo.cache.storage' => ['type' => 'adredis'],
+    'bnomei.turbo.cache' => ['type' => 'redis', 'database' => 0],
+
+    'cache' => [
+        'uuid' => ['type' => 'redis', 'database' => 1],
+    ],
+    
     // ... other options
 ];
 ```
 
 > [!TIP]
-> Even if Kirby CMS v5 ships with built-in Redis support consider using my [advanced cache-driver for Redis](https://github.com/bnomei/kirby3-redis-cachedriver) with in-memory store, transactions and preloading.
+> Using different databases in redis helps to avoid unintended flushes from one cache-driver to another.
 
 ## Usage
 
 ### Cache anything
 
-Turbo exposes a cache for your convenience to cache anything you want. It uses the same cache-driver as it's other caches, like `(ad)redis|apcu`.
+Turbo exposes a cache for your convenience to cache anything you want.
 
 ```php
 turbo()->cache()->set('key', 'value');
-turbo()->cache()->set('key', turbo()->serialize($dataContainingFields));
 $value = turbo()->cache()->get('key');
 $value = turbo()->cache()->getOrSet('key', fn() => 'value');
+```
+
+### TurboRedis
+
+If you use the `turbo-redis` cache-driver you will get a few advanced features.
+
+- keys can be arrays, not just strings.
+- if the key and data can contains Kirby Fields they will be automatically resolved to their value.
+- using a closure you can abort setting a value. which is handy if you have strict or time consuming requirements on when to set the data and do not want to perform that check again after the value has been cached.
+- you can even double check if the data can be safely stored as JSON (see settings).
+
+```php
+turbo()->cache()->set($keyCanBeStringOrArray, $dataCanBeArrayAndContainingKirbyFields);
+
+$value = turbo()->cache()->getOrSet($key, function() use ($page) {
+    if ($page->performSomeExpensiveCheck()) {
+        throw new \Bnomei\AbortCachingException();
+    }
+    return [
+        'uuid' => $page->uuid()->id(), 
+        'title' => $page->title(), 
+        'url' => $page->url()
+    ];
+});
 ```
 
 ## Settings

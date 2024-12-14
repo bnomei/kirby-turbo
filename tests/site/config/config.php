@@ -12,9 +12,9 @@ return [
     'stopwatch' => true,
 
     'bnomei.turbo.cmd.exec' => 'find',
-    'bnomei.turbo.cache' => ['type' => 'redis'],
+    'bnomei.turbo.cache' => ['type' => 'turbo-redis', 'database' => 3],
 
     'cache' => [
-        'uuid' => ['type' => 'redis'],
+        'uuid' => ['type' => 'turbo-redis', 'database' => 1],
     ],
 ];

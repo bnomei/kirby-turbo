@@ -1,0 +1,142 @@
+<?php
+
+namespace Bnomei;
+
+use Kirby\Cache\RedisCache;
+use Kirby\Cache\Value;
+use Kirby\Toolkit\A;
+
+class TurboRedisCache extends RedisCache
+{
+    protected array $options = [];
+
+    private array $data = [];
+
+    public function __construct(array $options = [])
+    {
+        parent::__construct($options);
+
+        $this->options = array_merge([
+            // 'debug' => boolval(option('debug')),
+            'preload-all' => boolval(option('bnomei.turbo.cache-driver.preload-all')),
+            'validate-value-as-json' => option('bnomei.turbo.cache-driver.validate-value-as-json'),
+            'json-encode-flags' => option('bnomei.turbo.cache-driver.json-encode-flags'),
+        ], $options);
+
+        if ($this->options['preload-all']) {
+            $this->data = $this->preloadAll();
+        }
+    }
+
+    /**
+     * {@inheritDoc}
+     */
+    protected function key(array|string $key): string
+    {
+        return is_array($key) ?
+            hash('xxh3', json_encode(Turbo::serialize($key))) : // @phpstan-ignore-line
+            $key; // do not alter if it's a string
+    }
+
+    /**
+     * {@inheritDoc}
+     */
+    public function set(string|array $key, mixed $value, int $minutes = 0): bool
+    {
+        // flatten kirby fields and
+        // allow for abort via exception
+        try {
+            $value = Turbo::serialize($value);
+        } catch (AbortCachingException $e) {
+            return false;
+        }
+
+        // make sure the value can be stored as json
+        // if not fail here so a trace is more helpful
+        if (is_string($value) && $this->options['validate-value-as-json']) {
+            $json_encode = json_encode($value, $this->options['json-encode-flags']);
+            $value = $json_encode ? json_decode($json_encode, true) : null;
+        }
+
+        $key = $this->key($key);
+        $value = new Value($value, $minutes);
+
+        // store a copy in memory
+        $this->data[$key] = $value;
+
+        // package for storing
+        $value = $value->toJson();
+
+        if ($minutes > 0) {
+            return $this->connection->setex($key, $minutes * 60, $value);
+        }
+
+        return $this->connection->set($key, $value);
+    }
+
+    /**
+     * {@inheritDoc}
+     */
+    public function retrieve(array|string $key): ?Value
+    {
+        $key = $this->key($key);
+
+        // load from memory if possible
+        if ($value = A::get($this->data, $key)) {
+            return $value;
+        }
+
+        // else load and store copy
+        $value = parent::retrieve($key);
+        $this->data[$key] = $value;
+
+        return $value;
+    }
+
+    /**
+     * {@inheritDoc}
+     */
+    public function get(array|string $key, mixed $default = null): mixed
+    {
+        // overwrite to allow for array as keys, resolved now
+        return parent::get($this->key($key), $default);
+    }
+
+    /**
+     * {@inheritDoc}
+     */
+    public function remove(string|array $key): bool
+    {
+        $key = $this->key($key);
+        if (array_key_exists($key, $this->data)) {
+            unset($this->data[$key]);
+        }
+
+        return parent::remove($key);
+    }
+
+    /**
+     * {@inheritDoc}
+     */
+    public function flush(): bool
+    {
+        // clear internal memory as well
+        $this->data = [];
+
+        return parent::flush();
+    }
+
+    public function preloadAll(): array
+    {
+        $data = [];
+
+        // scan is more performant than keys('*')
+        while ($keys = $this->connection->scan($iterator)) {
+            foreach ($keys as $key) {
+                $data[$key] = $this->get($key); // will auto-clean
+            }
+        }
+
+        return $data;
+    }
+}

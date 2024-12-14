@@ -6,11 +6,14 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Bnomei\\AbortCachingException' => $baseDir . '/classes/AbortCachingException.php',
     'Bnomei\\ModelWithTurbo' => $baseDir . '/classes/ModelWithTurbo.php',
     'Bnomei\\Turbo' => $baseDir . '/classes/Turbo.php',
     'Bnomei\\TurboDir' => $baseDir . '/classes/TurboDir.php',
     'Bnomei\\TurboFile' => $baseDir . '/classes/TurboFile.php',
     'Bnomei\\TurboPage' => $baseDir . '/classes/TurboPage.php',
+    'Bnomei\\TurboRedisCache' => $baseDir . '/classes/TurboRedisCache.php',
+    'Bnomei\\TurboStaticCache' => $baseDir . '/classes/TurboStaticCache.php',
     'Bnomei\\TurboStorage' => $baseDir . '/classes/TurboStorage.php',
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
     'Kirby\\ComposerInstaller\\CmsInstaller' => $vendorDir . '/getkirby/composer-installer/src/ComposerInstaller/CmsInstaller.php',
