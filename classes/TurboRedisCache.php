@@ -8,6 +8,8 @@ use Kirby\Toolkit\A;
 
 class TurboRedisCache extends RedisCache
 {
+    protected static bool $preload = false;
+
     protected array $options = [];
 
     private array $data = [];
@@ -18,13 +20,12 @@ class TurboRedisCache extends RedisCache
 
         $this->options = array_merge([
             // 'debug' => boolval(option('debug')),
-            'preload-all' => boolval(option('bnomei.turbo.cache-driver.preload-all')),
-            'validate-value-as-json' => option('bnomei.turbo.cache-driver.validate-value-as-json'),
-            'json-encode-flags' => option('bnomei.turbo.cache-driver.json-encode-flags'),
+            'validate-value-as-json' => option('bnomei.turbo.preload-redis.validate-value-as-json'),
+            'json-encode-flags' => option('bnomei.turbo.preload-redis.json-encode-flags'),
         ], $options);
 
-        if ($this->options['preload-all']) {
-            $this->data = $this->preloadAll();
+        if (static::$preload) {
+            $this->data = $this->preload();
         }
     }
 
@@ -126,14 +127,20 @@ class TurboRedisCache extends RedisCache
         return parent::flush();
     }
 
-    public function preloadAll(): array
+    public function preload(?array $keys = null): array
     {
         $data = [];
 
-        // scan is more performant than keys('*')
-        while ($keys = $this->connection->scan($iterator)) {
+        if (! $keys) {
+            // scan is more performant than keys('*')
+            while ($keys = $this->connection->scan($iterator)) {
+                foreach ($keys as $key) {
+                    $data[$key] = $this->get($key); // will auto-clean
+                }
+            }
+        } else {
             foreach ($keys as $key) {
-                $data[$key] = $this->get($key); // will auto-clean
+                $data[$key] = $this->get($key);
             }
         }
 

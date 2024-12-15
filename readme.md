@@ -9,7 +9,7 @@
 [![Discord](https://flat.badgen.net/badge/discord/bnomei?color=7289da&icon=discord&label)](https://discordapp.com/users/bnomei)
 [![Buymecoffee](https://flat.badgen.net/badge/icon/donate?icon=buymeacoffee&color=FF813F&label)](https://www.buymeacoffee.com/bnomei)
 
-Speed up your content in Kirby with Redis/APCu caches and Rust powered preloading
+Speed up your content in Kirby with Redis caches and Rust powered preloading
 
 ## Installation
 
@@ -21,23 +21,34 @@ Speed up your content in Kirby with Redis/APCu caches and Rust powered preloadin
 
 TODO
 
-## Features
+- cache-driver
+- models with trait
 
-- Once the cache is in place you can expect **consistent load times** with way less impact from the amount of pages you are using within a single request.
+> [!TIP]
+> Once the cache is in place you can expect **consistent load times**. The amount of pages you are using within a single request will not make much of an impact any more.
 
 ## Setup
 
-Set any in-memory cache-driver like `redis` (or `apcu`) for each of the plugins caches and the Kirby UUID cache. If you load the majority of your content/uuids in a single request consider using `turbo-redis` instead which preloads all of it's data into an PHP array for faster access. 
+Set any in-memory cache-driver like `redis` for each of the plugins caches and the Kirby UUID cache. 
+
+The `turbo-redis` cache-driver has a few advanced features like key/data-serialization or optional abort when setting a value.
+
+If you load the majority of your content/uuids in a single request consider using `preload-redis` instead which preloads all of it's data into an PHP array for faster access. 
 
 **site/config/config.php**
 ```php
 <?php
 
 return [
-    'bnomei.turbo.cache' => ['type' => 'redis', 'database' => 0],
+    // `redis` performs a query on demand
+    'bnomei.turbo.cache.storage' => ['type' => 'redis', 'database' => 0],
+    
+    // `turbo-redis` has advanced features for turbo()->cache(), see below
+    'bnomei.turbo.cache.tub' => ['type' => 'turbo-redis', 'database' => 0],
 
+    // make the uuid cache fast
     'cache' => [
-        'uuid' => ['type' => 'redis', 'database' => 0],
+        'uuid' => ['type' => 'turbo-uuid'],
     ],
     
     // ... other options
@@ -45,7 +56,7 @@ return [
 ```
 
 > [!TIP]
-> Using different databases in the caches helps to avoid unintended flushes from one cache-driver to another but it will decrease performance.
+> Using different databases in the caches helps to avoid unintended flushes from one cache-driver to another but it will decrease performance a little bit.
 
 ## Usage
 

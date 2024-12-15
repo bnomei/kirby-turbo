@@ -12,7 +12,7 @@ class TurboStorage extends PlainTextStorage
     {
         parent::delete($versionId, $language);
 
-        Turbo::singleton()->storage()?->remove(hash('xxh3',
+        Turbo::singleton()->storage()?->remove('#'.hash('xxh3',
             $this->contentFile($versionId, $language)
         ));
     }
@@ -67,7 +67,7 @@ class TurboStorage extends PlainTextStorage
             return null;
         }
 
-        if ($data = $t->storage()->get(hash('xxh3',
+        if ($data = $storage->get('#'.hash('xxh3',
             $this->contentFile($versionId, $language)
         ))
         ) {
@@ -94,7 +94,7 @@ class TurboStorage extends PlainTextStorage
                 json_encode($t->serialize($data))
             ));
         }
-        $storage->set(hash('xxh3',
+        $storage->set('#'.hash('xxh3',
             $this->contentFile($versionId, $language)
         ), $data, $t->options['expire']);
     }

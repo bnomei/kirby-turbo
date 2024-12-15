@@ -1,8 +1,8 @@
 <?php
 
-use Bnomei\ModelWithTurbo;
+declare(strict_types=1);
 
 class ActorsPage extends \Kirby\Cms\Page
 {
-    use ModelWithTurbo;
+    use \Bnomei\ModelWithTurbo;
 }

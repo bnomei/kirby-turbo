@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-class ActorPage extends \Kirby\Cms\Page
+class CategoriesPage extends \Kirby\Cms\Page
 {
     use \Bnomei\ModelWithTurbo;
 }

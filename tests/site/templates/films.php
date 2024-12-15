@@ -32,7 +32,7 @@ if ($feature = get('feature')) {
       $modelCount++;
       ?>
     <li>
-    <a href="<?= $film->url() ?>"><?= $film->title() ?></a><br>
+    <a href="<?= $film->url() ?>"><?= $film->title() ?> [<?= $film->modified() ?>] <?= $film->uuid() ?></a><br>
     <?php if (get('actors') && $film->actors()->isNotEmpty()) { ?>
       <details>
         <summary>Actors</summary>

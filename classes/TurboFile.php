@@ -17,7 +17,7 @@ class TurboFile extends \Kirby\Cms\File
     public static function patchFilesClass(): bool
     {
         $key = 'files.'.App::versionHash().'.patch';
-        $patch = Turbo::singleton()->cache()?->get($key);
+        $patch = Turbo::singleton()->cache('tub')?->get($key);
         if (! $patch) {
             return false;
         }
@@ -35,7 +35,7 @@ class TurboFile extends \Kirby\Cms\File
             }
 
             // cache forever since tied to app:version
-            return Turbo::singleton()->cache()?->set($key, date('c'), 0) ?? false;
+            return Turbo::singleton()->cache('tub')?->set($key, date('c'), 0) ?? false;
         }
 
         return false;
