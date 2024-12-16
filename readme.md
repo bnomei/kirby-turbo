@@ -28,10 +28,13 @@ Speed up Kirby with automatic caching
 
 ## Overview
 
-- Turbo is plugin that adds automatic caching layers to Kirby, like when scanning the directory inventory, reading the content files and UUID lookup. 
-- While you could use Turbo in almost any project, you will benefit the most, in those project where you **query 100+ pages/files in a single request**. 
-- Turbo provides a global cache helper `tub()` that has advanced features like key/value serialization, optional set-abortion and more. 
-- Turbo relies on **Redis** being available.
+|      | |
+|------|--|
+| 🤖   | Turbo is plugin that adds automatic caching layers to Kirby, like when scanning the directory inventory, reading the content files and UUID lookup. |
+| 💯 |  While you could use Turbo in almost any project, you will benefit the most, in those project where you **query 100+ pages/files in a single request**. |
+| 🔴   | Turbo relies on **Redis** being available. |
+| 🪣   | Turbo provides a global cache helper `tub()` that has advanced features like key/value serialization, optional set-abortion and more. |
+
 
 ## Quickstart
 
@@ -46,14 +49,11 @@ class ExamplePage extends \Kirby\Cms\Page
 }
 ```
 
-or in running the following [Kirby CLI](https://github.com/getkirby/cli) command, which will generate a preconfigured model for each of your existing page blueprints (`site/blueprints/pages/*.yml`-files).
+or in running the following [Kirby CLI](https://github.com/getkirby/cli) command, which will generate a preconfigured model for each of your existing page blueprints (`site/blueprints/pages/*.yml`-files). See further below on how to setup Turbo for Kirby's Site and File Models.
 
 ```bash
 kirby turbo:models
 ```
-
-> [!TIP]
-> See further below on how to setup Turbo for Kirby's Site and File Models.
 
 The last step is to configure optimized cache-drivers for various caches. Turbo is intended to use in-memory caching with Redis. If you do not have Redis available, then do not use Turbo.
 
@@ -81,14 +81,15 @@ Instead of loading the content from the raw content TXT file every time, Turbo w
 
 ### Inventory
 
-Kirby would usually use PHP `scandir` to walk it's way through your content folder. It will gather the modified timestamps with `filemtime` as well. But it will do that again and again on every request. Turbo add a caching here and replaces the `inventory()` method on your model to query its `bnomei.turbo.cache.cmd` mono file cache instead. If the cache is not existing it will try to populate it automatically. The cache will be flushed (and later recreated) every time you modify content in Kirby. 
+Kirby would usually use PHP `scandir` to walk it's way through your content folder. It will gather the modified timestamps with `filemtime` as well. But it will do that again and again on every request. Turbo add a caching here and replaces the `inventory()` method on your model to query its `bnomei.turbo.cache.cmd` mono file cache instead. If the cache is not existing it will try to populate it automatically. The cache will be flushed (and later recreated) every time you modify content in Kirby.
 
-> [!TIP]
-> If it's default setting have to much of an impact on your workflow in Panel consider disabling caching of content with `bnomei.turbo.cmd.content=false`. But that will also remove step 1 from the `storage` caching layer!
+If Turbo's default setting slow down the Panel to much then consider disabling the caching of content with `bnomei.turbo.cmd.content=false`. But that will also remove step 1) from the `storage` caching layer!
 
 ### UUIDs
 
-The default cache for UUIDs stores one file per UUID which is fine if you query only a few UUIDs in a single request. If you read this far you know you most likely will not only load a few in your setup and need a better solution. With the `turbo-uuid` cache driver all UUIDs will be preloaded and instantly available. Adding and removing entries a marginally slower. Use it and never look back. It requires the unix `sed` command to be available.
+The default cache for UUIDs stores one file per UUID which is fine if you query only a few UUIDs in a single request. If you read this far you know you most likely will not only load a few in your setup and need a better solution. With the `turbo-uuid` cache driver all UUIDs will be preloaded and instantly available. Adding and removing entries a marginally slower. Use it and never look back. 
+
+It requires the unix `sed` command to be available.
 
 ## tub(), cache anything easily
 
@@ -121,7 +122,10 @@ tub()->set([
 Keys and values will be serialized. If they contain Kirby Fields these will automatically be resolved to their `->value()`. Models like Pages and Files will be resolved to their UUIDs. This will allow you to write less code when creating keys/values.
 
 ```php
-tub()->set($page/*->uuid()->toString()*/, $pages->toArray(fn($p) => ['title' => $p->title()/*->value()*/);
+tub()->set(
+    $page/*->uuid()->toString()*/, 
+    $pages->toArray(fn($p) => ['title' => $p->title()/*->value()*/
+);
 ```
 
 ### Set abortion
