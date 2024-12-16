@@ -28,7 +28,7 @@ class TurboStaticCache
         return static::$cache[$key];
     }
 
-    protected static function key(array|string $key): string
+    public static function key(array|string $key): string
     {
         return is_array($key) ?
             '#'.hash('xxh3', json_encode(Turbo::serialize($key))) : // @phpstan-ignore-line

@@ -34,7 +34,6 @@ class ComposerStaticInit88fd3f8362ad6ddcf4a33e961e5d74c1
         'Bnomei\\PreloadRedisCache' => __DIR__ . '/../..' . '/classes/PreloadRedisCache.php',
         'Bnomei\\Turbo' => __DIR__ . '/../..' . '/classes/Turbo.php',
         'Bnomei\\TurboDir' => __DIR__ . '/../..' . '/classes/TurboDir.php',
-        'Bnomei\\TurboFile' => __DIR__ . '/../..' . '/classes/TurboFile.php',
         'Bnomei\\TurboPage' => __DIR__ . '/../..' . '/classes/TurboPage.php',
         'Bnomei\\TurboRedisCache' => __DIR__ . '/../..' . '/classes/TurboRedisCache.php',
         'Bnomei\\TurboStaticCache' => __DIR__ . '/../..' . '/classes/TurboStaticCache.php',

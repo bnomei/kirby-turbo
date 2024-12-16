@@ -2,7 +2,7 @@
     "name": "bnomei/kirby-turbo",
     "type": "kirby-plugin",
     "version": "5.0.0",
-    "description": "xxx",
+    "description": "Speed up Kirby with automatic caching",
     "license": "MIT",
     "authors": [
         {
@@ -24,6 +24,7 @@
         "performance",
         "multi-threading",
         "async",
+        "redis",
         "rust",
         "cli"
     ],

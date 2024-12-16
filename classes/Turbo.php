@@ -6,6 +6,8 @@ namespace Bnomei;
 
 use Kirby\Cache\Cache;
 use Kirby\Cms\App;
+use Kirby\Cms\ModelWithContent;
+use Kirby\Content\Field;
 use Kirby\Toolkit\A;
 use ReflectionClass;
 
@@ -270,11 +272,20 @@ final class Turbo
             }, $value);
         }
 
-        if (is_a($value, 'Kirby\Content\Field')) {
+        if ($value instanceof Field) {
             return $value->value();
         }
 
+        if ($value instanceof ModelWithContent) {
+            return $value->uuid()?->toString() ?? $value->id() ?? null;
+        }
+
         return $value;
+    }
+
+    public function tub(): ?Cache
+    {
+        return $this->cache('tub');
     }
 
     private static ?self $singleton = null;

@@ -11,6 +11,20 @@ if (! function_exists('turbo')) {
     }
 }
 
+if (! function_exists('tub')) {
+    function tub(): \Bnomei\TurboRedisCache
+    {
+        return \Bnomei\Turbo::singleton()->tub(); // @phpstan-ignore-line
+    }
+}
+
+if (! function_exists('tubs')) {
+    function tubs(array|string $key, Closure $closure): mixed
+    {
+        return \Bnomei\TurboStaticCache::getOrSet($key, $closure);
+    }
+}
+
 Kirby::plugin('bnomei/turbo', [
     'options' => [
         'cache' => [
@@ -52,8 +66,6 @@ Kirby::plugin('bnomei/turbo', [
             'validate-value-as-json' => true, // check causes just a minor performance impact on write
             'json-encode-flags' => JSON_THROW_ON_ERROR, // | JSON_INVALID_UTF8_IGNORE,
         ],
-
-        'patch-files-class' => false, // files are not supported by default, this is experimental and your opcache might not pick up the change unless you clear it manually. updating kirby will also overwrite the change but the plugin will try to recover from that.
     ],
     'cacheTypes' => [
         'preload-redis' => \Bnomei\PreloadRedisCache::class,
@@ -164,9 +176,9 @@ Kirby::plugin('bnomei/turbo', [
         ],
     ],
     'hooks' => [
-        'system.loadPlugins:after' => function () {
-            if (option('bnomei.turbo.patch-files-class')) {
-                \Bnomei\TurboFile::patchFilesClass();
+        'site.*:after' => function ($event, $site) {
+            if ($event->action() !== 'render') {
+                \Bnomei\Turbo::flush('cmd');
             }
         },
         'page.*:after' => function ($event, $page) {

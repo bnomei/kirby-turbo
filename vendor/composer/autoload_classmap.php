@@ -11,7 +11,6 @@ return array(
     'Bnomei\\PreloadRedisCache' => $baseDir . '/classes/PreloadRedisCache.php',
     'Bnomei\\Turbo' => $baseDir . '/classes/Turbo.php',
     'Bnomei\\TurboDir' => $baseDir . '/classes/TurboDir.php',
-    'Bnomei\\TurboFile' => $baseDir . '/classes/TurboFile.php',
     'Bnomei\\TurboPage' => $baseDir . '/classes/TurboPage.php',
     'Bnomei\\TurboRedisCache' => $baseDir . '/classes/TurboRedisCache.php',
     'Bnomei\\TurboStaticCache' => $baseDir . '/classes/TurboStaticCache.php',
