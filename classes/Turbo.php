@@ -47,7 +47,9 @@ final class Turbo
     {
         // lazy load
         if ($this->data === null) {
+            Turbo::stopwatch('turbo.read:before');
             $this->data = $this->read();
+            Turbo::stopwatch('turbo.read:after');
         }
 
         return $this->data['files'];

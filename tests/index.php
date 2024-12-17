@@ -9,4 +9,6 @@ require __DIR__.'/../vendor/autoload.php';
 $kirby = new \Kirby\Cms\App;
 $render = $kirby->render();
 \Bnomei\Turbo::serverTimingHeader();
+\Bnomei\Turbo::header('turbo.read');
+\Bnomei\Turbo::header('page.render');
 echo $render;

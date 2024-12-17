@@ -37,6 +37,6 @@ trait ServerTiming
 
     public static function header(string $event): void
     {
-        header('X-'.ucfirst($event).': '.static::duration($event).'ms');
+        header('X-'. implode('-', array_map('ucfirst', explode('-', str_replace('.', '-', $event)))) .': '.static::duration($event).'ms');
     }
 }

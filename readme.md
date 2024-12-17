@@ -78,23 +78,23 @@ The load times only concern the loading of content not Kirby having to handle cr
 
 ### 🔍 Inventory
 
-Kirby would usually use PHP `scandir` to walk it's way through your content folder. It will gather the modified timestamps with `filemtime` as well. But it will do that again and again on every request. Turbo add a caching here and replaces the `inventory()` method on your model to query its `bnomei.turbo.cache.inventory` mono file cache instead. If the cache is not existing it will try to populate it automatically. The cache will be flushed (and later recreated) every time you modify content in Kirby.
+Kirby would usually use PHP `scandir` to walk it's way through your content folder. It will gather the modified timestamps with `filemtime` as well. But it will do that again and again on every request. Turbo adds a cache here and replaces the `inventory()` method on your model to query its `bnomei.turbo.cache.inventory` mono file cache instead. If the cache does not exist, it will try to populate it automatically. The cache will be flushed (and later recreated) every time you modify content in Kirby.
 
-If Turbo's default setting slow down the Panel to much then consider disabling the caching of content with `bnomei.turbo.inventory.content=false`. But that will also remove step 1️⃣ from the `storage` caching layer!
+If Turbo's default setting slows down the Panel to much then consider disabling the caching of content with `bnomei.turbo.inventory.content=false`. But that will also remove step 1️⃣ from the `storage` caching layer!
 
 ### 🗄️ Storage
 
 Instead of loading the content from the raw content TXT file every time, Turbo will
 
 - 1️⃣ first try to load the content from the output of the indexer command `bnomei.turbo.cache.inventory` (a mono file cache, see below).
-- 2️⃣ As a second fallback it will try to find it in the `bnomei.turbo.cache.storage` (your Redis cache, see above).
+- 2️⃣ As a second fallback it will try to find the content in the `bnomei.turbo.cache.storage` (your Redis cache, see above).
 - 3️⃣ If all fails it will resort to loading the TXT file from disk and store copy in the `storage` cache.
 
 ### 🆔 UUIDs
 
-The default cache for UUIDs stores one file per UUID which is fine if you query only a few UUIDs in a single request. If you read this far you know you most likely will not only load a few in your setup and need a better solution. With the `turbo-uuid` cache driver all UUIDs will be preloaded and instantly available. Adding and removing entries a marginally slower. Use it and never look back. 
+The default cache for UUIDs stores one file per UUID, which is fine if you query only a few UUIDs in a single request. If you read this far you know that you want to load way more than few in your setup and need a better solution. With the `turbo-uuid` cache driver all UUIDs will be preloaded and instantly available. Adding and removing entries a marginally slower. Use it and never look back. 
 
-It requires the unix `sed` command to be available.
+It requires the unix/Linux/OSX `sed` command to be available.
 
 ### Flushing the Caches
 
@@ -108,13 +108,13 @@ But if you make changes to content files outside the Panel, like uploading a bat
 
 **PHP**
 ```php
-\Bnomei\Turbo::flush();      // all
+\Bnomei\Turbo::flush();            // all
 \Bnomei\Turbo::flush('inventory'); // specific one
 ```
 
 **CLI**
 ```bash
-env KIRBY_HOST=example.com vendor/bin/kirby turbo:populate
+env KIRBY_HOST=example.com vendor/bin/kirby turbo:flush
 ```
 
 **Janitor button**
@@ -137,7 +137,7 @@ $value = tub()->getOrSet('key', fn() => 'value');
 
 ### tub() with TurboRedis Cache-Driver
 
-If you use the `turbo-redis` cache-driver for `tub`, as recommended above, you will get a few advanced features.
+Since you are using the `turbo-redis` cache-driver for `tub`, as recommended above, you will get a few advanced features.
 
 ### Array Keys
 Keys can be arrays, not just strings. This is useful to create dynamic keys on the fly. 
@@ -153,7 +153,7 @@ tub()->set([
 ```
 
 ### Serialization
-Keys and values will be serialized. If they contain Kirby Fields these will automatically be resolved to their `->value()`. Models like Pages and Files will be resolved to their UUIDs. This will allow you to write less code when creating keys/values.
+Keys and values will be serialized. If they contain Kirby Fields these will automatically be resolved to their value. Models, like Pages and Files, will be resolved to their UUIDs. This will allow you to write less code when creating keys/values.
 
 ```php
 tub()->set(
@@ -163,7 +163,7 @@ tub()->set(
 ```
 
 ### Set abortion
-When using a closure as value you can abort setting the value on demand. This is handy if you have strict or time consuming requirements on when to set the value and do not want to perform that check again after the value has been cached.
+When using a closure as value you can abort setting the value on demand. This is handy if you while creating the cache value your decide to rather not store that value after all.
 
 ```php
 tub()->set($keyCanBeStringOrArray, $dataCanBeArrayAndContainingKirbyFields);
@@ -269,7 +269,7 @@ App::plugin('my/storage', [
 
 The speed of Redis and the filesystem in general are vastly different on your local setup than on your staging/production server. Evaluate performance under real conditions!
 
-To help you measure the time Kirby spends rendering more thoroughly, you can have Turbo write a `Server-Timing` HTTP header.
+To help you measure the time Turbo spends reading and Kirby spends rendering more thoroughly, you can have Turbo write HTTP headers.
 
 **/index.php**
 ```php
@@ -279,11 +279,15 @@ require 'vendor/autoload.php';
 
 $kirby = new \Kirby\Cms\App;
 $render = $kirby->render();
-\Bnomei\Turbo::serverTimingHeader();
+\Bnomei\Turbo::header('turbo.read');
+\Bnomei\Turbo::header('page.render');
 echo $render;
 ```
 
-> Server-Timing: cache;desc="miss", rendertime;desc="42ms"
+```
+X-Turbo-Read: 123ms
+X-Page-Render: 123ms
+```
 
 ## Settings
 
