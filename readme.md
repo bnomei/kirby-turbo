@@ -31,9 +31,9 @@ Speed up Kirby with automatic caching
 |      |                                                                                                                                                        |
 |------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 🤖   | Turbo is plugin that adds automatic caching layers to Kirby, when scanning the directory inventory, reading the content files and the UUID lookup.     |
-| 💯 | While you could use Turbo in almost any project, you will benefit the most, in those project where you **query 100+ pages/files in a single request**. |
+| 💯   | While you could use Turbo in almost any project, you will benefit the most, in those project where you **query 100+ pages/files in a single request**. |
 | 🔴   | Turbo relies on **Redis** being available.                                                                                                             |
-| 🪣   | Turbo provides a global cache helper `tub()` that has advanced features like key/value serialization, optional set-abortion and more.                  |
+| 🛁 | Turbo provides a global cache helper `tub()` that has advanced features like key/value serialization, optional set-abortion and more.                  |
 
 
 ## Quickstart
@@ -91,7 +91,7 @@ The default cache for UUIDs stores one file per UUID which is fine if you query 
 
 It requires the unix `sed` command to be available.
 
-## tub(), cache anything easily
+## 🛁 tub(), cache anything easily
 
 Turbo exposes a cache for your convenience to cache anything you want. At its core it behaves like any [plugin cache](https://getkirby.com/docs/guide/cache#plugin-caches) you could define yourself.
 
@@ -101,7 +101,7 @@ $value = tub()->get('key');
 $value = tub()->getOrSet('key', fn() => 'value');
 ```
 
-## tub() with TurboRedis Cache-Driver
+## 🛁 tub() with TurboRedis Cache-Driver
 
 If you use the `turbo-redis` cache-driver for `tub`, as recommended above, you will get a few advanced features.
 
@@ -149,7 +149,7 @@ $value = tub()->getOrSet($key, function() use ($page) {
 ### JSON Safety
 You can double check if the data can be safely stored as JSON (see settings).
 
-## tubs() or the TurboStaticCache Helper
+## 🛀 tubs() or the TurboStaticCache Helper
 
 While caching data beyond the current request with `tub()` is great, but it can not solve one issue well and that is **repeated calls to the same data within a single request**. This might sound silly at first but it happens in a lot of places you might not be aware of. The Kirby collections and the Panel queries being prime suspects. Turbo provides the `tubs()`-helper to help you elevate these issues.
 
