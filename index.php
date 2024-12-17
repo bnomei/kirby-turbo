@@ -40,11 +40,12 @@ Kirby::plugin('bnomei/turbo', [
             'tub' => ['active' => true, 'type' => 'redis', 'database' => 0],
         ],
         'expire' => 0, // 0 = forever, null to disable caching
-        'compression' => false, // compress cached data? path strings compress very well. use beyond 2000 content pages and using file/apcu cache (not redis)
+
         'storage' => [
             // add a IO mirror cache for the content storage
             'read' => true,
             'write' => true,
+            'compression' => false,
         ],
 
         // cmd to scan for files with timestamp and maybe content
@@ -61,6 +62,7 @@ Kirby::plugin('bnomei/turbo', [
             'modified' => true, // gather modified timestamp or default to PHP
             'content' => true, // if exec can do it fetch content
             'read' => true, // read from the cache in storage and inventory
+            'compression' => false, // compress cached data? path strings compress very well. use beyond 2000 content pages and using file/apcu cache (not redis)
         ],
 
         'preload-redis' => [

@@ -73,7 +73,7 @@ class TurboStorage extends PlainTextStorage
             $this->contentFile($versionId, $language)
         ))
         ) {
-            if ($t->options['compression']) {
+            if ($t->options['storage.compression']) {
                 $data = json_decode(base64_decode($data), true);
             }
 
@@ -91,7 +91,7 @@ class TurboStorage extends PlainTextStorage
             return;
         }
 
-        if ($t->options['compression']) {
+        if ($t->options['storage.compression']) {
             $data = base64_encode(gzcompress(
                 json_encode($t->serialize($data))
             ));

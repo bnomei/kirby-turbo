@@ -27,13 +27,14 @@ final class Turbo
         $this->options = array_merge([
             'debug' => boolval(option('debug')),
             'expire' => option('bnomei.turbo.expire'),
-            'compression' => boolval(option('bnomei.turbo.compression')),
+            'storage.compression' => boolval(option('bnomei.turbo.storage.compression')),
             'storage.read' => boolval(option('bnomei.turbo.storage.read')),
             'storage.write' => boolval(option('bnomei.turbo.storage.write')),
             'inventory.indexer' => option('bnomei.turbo.inventory.indexer'),
             'inventory.content' => boolval(option('bnomei.turbo.inventory.content')),
             'inventory.modified' => boolval(option('bnomei.turbo.inventory.modified')),
             'inventory.read' => boolval(option('bnomei.turbo.inventory.read')),
+            'inventory.compression' => boolval(option('bnomei.turbo.inventory.compression')),
         ], $options);
 
         foreach ($this->options as $key => $value) {
@@ -129,7 +130,7 @@ final class Turbo
 
         // try cache
         $data = $this->cache('inventory')?->get('output-'.basename($this->options['inventory.indexer']));
-        if ($data && $this->options['compression']) {
+        if ($data && $this->options['inventory.compression']) {
             $data = json_decode(gzuncompress(base64_decode($data)), true);
         }
         if (! $data) {
@@ -219,7 +220,7 @@ final class Turbo
             return false;
         }
 
-        if ($this->options['compression']) {
+        if ($this->options['inventory.compression']) {
             // compression is great for paths and repeated data
             // or if storing fewer data in the cache is required.
             // it comes with a delay and more memory usage as trade-off.
