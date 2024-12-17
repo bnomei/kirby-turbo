@@ -237,7 +237,7 @@ App::plugin('my/storage', [
 ## Performance
 
 > [!TIP]
-> The speed of Redis and the filesystem in general are vastly different on your local setup than on your staging/production server. Evaluate performance under real conditions!<br>"If you can not measure it, you can not improve it." (Lord Kelvin)
+> "If you can not measure it, you can not improve it." (Lord Kelvin)<br><br>The speed of Redis and the filesystem in general are vastly different on your local setup than on your staging/production server. Evaluate performance under real conditions!
 
 To help you measure the time Kirby spends rendering more thoroughly you can have Turbo write a `Server-Timing` HTTP header.
 
