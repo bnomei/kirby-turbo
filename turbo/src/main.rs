@@ -52,7 +52,7 @@ struct Args {
     #[clap(short = 'c', long, action, default_value_t = false)]
     content: bool,
 
-    /// Comma-separated list of filenames to filter
+    /// Comma-separated list of filenames to filter (content read)
     #[clap(short = 'f', long, value_parser, default_value = "")]
     filenames: String,
 }
@@ -84,17 +84,11 @@ async fn main() {
             .build_parallel()
             .run(move || {
                 let tx = tx.clone();
-                let allowed_files = allowed_files.clone();
                 Box::new(move |entry| {
                     if let Ok(entry) = entry {
                         if entry.file_type().map(|t| t.is_file()).unwrap_or(false) {
-                            let file_name = entry.path().file_name().and_then(|f| f.to_str());
-                            if let Some(file_name) = file_name {
-                                if allowed_files.is_empty() || allowed_files.contains(file_name) {
-                                    if tx.blocking_send(entry.into_path()).is_err() {
-                                        return ignore::WalkState::Quit;
-                                    }
-                                }
+                            if tx.blocking_send(entry.into_path()).is_err() {
+                                return ignore::WalkState::Quit;
                             }
                         }
                     }
@@ -106,7 +100,7 @@ async fn main() {
     let files = futures::stream::unfold(&mut rx, |rx| async {
         rx.recv().await.map(|path| (path, rx))
     })
-        .map(|path| process_file(path, include_modification_date, read_content))
+        .map(|path| process_file(path, include_modification_date, read_content, allowed_files.clone()))
         .buffer_unordered(concurrency_limit)
         .collect::<Vec<_>>()
         .await;
@@ -134,6 +128,7 @@ async fn process_file(
     path: PathBuf,
     include_modification_date: bool,
     read_content: bool,
+    allowed_files: HashSet<String>
 ) -> FileInfo {
     let path_str = path.display().to_string();
     let dir_str = path.parent()
@@ -157,8 +152,14 @@ async fn process_file(
     }
 
     if read_content {
-        if let Ok(file_content) = fs::read_to_string(&path).await {
-            content = Some(content_from_string(&file_content));
+        let file_name = path.file_name().and_then(|f| f.to_str());
+        if let Some(file_name) = file_name {
+            // allowed_files.is_empty() NOT as that would read ALL files, like images as well
+            if allowed_files.contains(file_name) {
+                if let Ok(file_content) = fs::read_to_string(&path).await {
+                    content = Some(content_from_string(&file_content));
+                }
+            }
         }
     }
 
