@@ -253,7 +253,7 @@ $render = $kirby->render();
 echo $render;
 ```
 
-> Server-Timing: cache;desc="miss", rendertime;desc="123ms"
+> Server-Timing: cache;desc="miss", rendertime;desc="42ms"
 
 ## Settings
 
