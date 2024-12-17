@@ -28,17 +28,17 @@ Speed up Kirby with automatic caching
 
 ## Overview
 
-|      | |
-|------|--|
-| 🤖   | Turbo is plugin that adds automatic caching layers to Kirby, like when scanning the directory inventory, reading the content files and UUID lookup. |
-| 💯 |  While you could use Turbo in almost any project, you will benefit the most, in those project where you **query 100+ pages/files in a single request**. |
-| 🔴   | Turbo relies on **Redis** being available. |
-| 🪣   | Turbo provides a global cache helper `tub()` that has advanced features like key/value serialization, optional set-abortion and more. |
+|      |                                                                                                                                                        |
+|------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🤖   | Turbo is plugin that adds automatic caching layers to Kirby, when scanning the directory inventory, reading the content files and the UUID lookup.     |
+| 💯 | While you could use Turbo in almost any project, you will benefit the most, in those project where you **query 100+ pages/files in a single request**. |
+| 🔴   | Turbo relies on **Redis** being available.                                                                                                             |
+| 🪣   | Turbo provides a global cache helper `tub()` that has advanced features like key/value serialization, optional set-abortion and more.                  |
 
 
 ## Quickstart
 
-For each page you want Turbo's *storage* and *inventory* caching you need to create a PageModel either manually by adding the `Bnomei\ModelWithTurbo` Trait 
+For each page you want Turbo's *storage* and *inventory* caching you need to create a PageModel either manually by adding the `Bnomei\ModelWithTurbo` Trait ...
 
 **site/models/example.php**
 ```php
@@ -49,7 +49,7 @@ class ExamplePage extends \Kirby\Cms\Page
 }
 ```
 
-or in running the following [Kirby CLI](https://github.com/getkirby/cli) command, which will generate a preconfigured model for each of your existing page blueprints (`site/blueprints/pages/*.yml`-files). See further below on how to setup Turbo for Kirby's Site and File Models.
+... or in running the following [Kirby CLI](https://github.com/getkirby/cli) command, which will generate a preconfigured model for each of your existing page blueprints (`site/blueprints/pages/*.yml`-files). See further below on how to setup Turbo for Kirby's Site and File Models.
 
 ```bash
 kirby turbo:models
@@ -68,24 +68,24 @@ return [
 ];
 ```
 
-> [!WARNING]
-> Using different databases in caches helps avoiding unintended flushes from one cache-driver to another but will also decrease performance.
+> [!TIP]
+> Using different databases in Redis based caches helps avoiding unintended flushes from one cache-driver.
 
 ## Caching Layers
 
 Once the cache is in place you can expect **consistent load times** independent of the request. The amount of pages/files you are using within a **single request** will not make much of an impact any more since most of the data will be preloaded. But if you use very little of the total cached data it might be slower than raw Kirby. Disclaimer: The load times only concern the loading of content not Kirby having to handle creating less or more models in PHP - that will still have an impact and can not be avoided.
 
-### Storage
+### 🗄️ Storage
 
 Instead of loading the content from the raw content TXT file every time, Turbo will first try to load the content from the output of the indexer command `bnomei.turbo.cache.cmd` (a mono file cache, see below). As a second fallback it will try to find it in the `bnomei.turbo.cache.storage` (your Redis cache, see above). If all fails it will resort to loading the TXT file from disk and store copy in the `storage` cache.
 
-### Inventory
+### 🔍 Inventory
 
 Kirby would usually use PHP `scandir` to walk it's way through your content folder. It will gather the modified timestamps with `filemtime` as well. But it will do that again and again on every request. Turbo add a caching here and replaces the `inventory()` method on your model to query its `bnomei.turbo.cache.cmd` mono file cache instead. If the cache is not existing it will try to populate it automatically. The cache will be flushed (and later recreated) every time you modify content in Kirby.
 
 If Turbo's default setting slow down the Panel to much then consider disabling the caching of content with `bnomei.turbo.cmd.content=false`. But that will also remove step 1) from the `storage` caching layer!
 
-### UUIDs
+### 🆔 UUIDs
 
 The default cache for UUIDs stores one file per UUID which is fine if you query only a few UUIDs in a single request. If you read this far you know you most likely will not only load a few in your setup and need a better solution. With the `turbo-uuid` cache driver all UUIDs will be preloaded and instantly available. Adding and removing entries a marginally slower. Use it and never look back. 
 
@@ -135,7 +135,7 @@ When using a closure as value you can abort setting the value on demand. This is
 tub()->set($keyCanBeStringOrArray, $dataCanBeArrayAndContainingKirbyFields);
 
 $value = tub()->getOrSet($key, function() use ($page) {
-    if ($page->performCheck() === false) {
+    if ($page->performCheck() === false) { // up to you
         throw new \Bnomei\AbortCachingException();
     }
     return [
@@ -179,7 +179,7 @@ Kirby::plugin('my/example', [
 ```yml
 name: Recent Courses
 type: pages
-query: collection('recent-courses') # <-- repeatedly called, resolved only once with tubs()
+query: collection('recent-courses') # <-- repeatedly called, but resolved once with tubs()
 ```
 
 **site/blueprints/pages/course.yml**
@@ -198,9 +198,7 @@ Turbo has two built-in indexer commands, `find` and `turbo`. Both can scan the d
 - The `turbo` indexer is a custom binary built with Rust that does the same thing but multi-threaded and async and it optionally can load the content files.
 
 > [!TIP]
-> You can use the `bnomei.turbo.cmd.exec` config option to set a custom binary location in case the automatic detection fails.
-
-> [!WARNING]
+> You can use the `bnomei.turbo.cmd.exec` config option to set a custom binary location in case the automatic detection fails. <br>
 > Make sure the `turbo` binaries are executable by the user running the php-fpm or it will fail.
 
 ## Site and Files
