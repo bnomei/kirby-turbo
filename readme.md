@@ -198,7 +198,7 @@ fields:
 
 ## Indexer Command(s)
 
-Turbo has two built-in indexer commands, `find` and `turbo`. Both can scan the directory tree and optionally gather the modified timestamp. But only the `turbo`-indexer can also preload the Kirby content file.
+Turbo has two built-in indexer commands, `find` and `turbo` (default). Both can scan the directory tree and optionally gather the modified timestamp. But only the `turbo`-indexer can also preload the Kirby content file.
 
 - The `find` indexer uses the Unix `find` in combination with `stat` to gather the data.
 - The `turbo` indexer is a custom binary built with Rust that does the same thing but multi-threaded and async and it optionally can load the content files.
@@ -238,6 +238,22 @@ App::plugin('my/storage', [
 
 > [!TIP]
 > The speed of Redis and the filesystem in general are vastly different on your local setup than on your staging/production server. Evaluate performance under real conditions!<br>"If you can not measure it, you can not improve it." (Lord Kelvin)
+
+To help you measure the time Kirby spends rendering more thoroughly you can have Turbo write a `Server-Timing` HTTP header.
+
+**/index.php**
+```php
+<?php
+// require 'kirby/bootstrap.php';
+require 'vendor/autoload.php';
+
+$kirby = new \Kirby\Cms\App;
+$render = $kirby->render();
+\Bnomei\Turbo::serverTimingHeader();
+echo $render;
+```
+
+> Server-Timing: cache;desc="miss", rendertime;desc="123ms"
 
 ## Settings
 
