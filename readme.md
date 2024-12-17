@@ -81,15 +81,15 @@ The load times only concern the loading of content not Kirby having to handle cr
 
 Instead of loading the content from the raw content TXT file every time, Turbo will 
 
-- (1) first try to load the content from the output of the indexer command `bnomei.turbo.cache.cmd` (a mono file cache, see below). 
-- (2) As a second fallback it will try to find it in the `bnomei.turbo.cache.storage` (your Redis cache, see above). 
-- (3) If all fails it will resort to loading the TXT file from disk and store copy in the `storage` cache.
+- 1️⃣ first try to load the content from the output of the indexer command `bnomei.turbo.cache.cmd` (a mono file cache, see below). 
+- 2️⃣ As a second fallback it will try to find it in the `bnomei.turbo.cache.storage` (your Redis cache, see above). 
+- 3️⃣ If all fails it will resort to loading the TXT file from disk and store copy in the `storage` cache.
 
 ### 🔍 Inventory
 
 Kirby would usually use PHP `scandir` to walk it's way through your content folder. It will gather the modified timestamps with `filemtime` as well. But it will do that again and again on every request. Turbo add a caching here and replaces the `inventory()` method on your model to query its `bnomei.turbo.cache.cmd` mono file cache instead. If the cache is not existing it will try to populate it automatically. The cache will be flushed (and later recreated) every time you modify content in Kirby.
 
-If Turbo's default setting slow down the Panel to much then consider disabling the caching of content with `bnomei.turbo.cmd.content=false`. But that will also remove step 1 from the `storage` caching layer!
+If Turbo's default setting slow down the Panel to much then consider disabling the caching of content with `bnomei.turbo.cmd.content=false`. But that will also remove step 1️⃣ from the `storage` caching layer!
 
 ### 🆔 UUIDs
 
@@ -107,7 +107,7 @@ $value = tub()->get('key');
 $value = tub()->getOrSet('key', fn() => 'value');
 ```
 
-## 🛁 tub() with TurboRedis Cache-Driver
+## 🛁 + 🔴 = tub() with TurboRedis Cache-Driver
 
 If you use the `turbo-redis` cache-driver for `tub`, as recommended above, you will get a few advanced features.
 
@@ -185,7 +185,7 @@ Kirby::plugin('my/example', [
 ```yml
 name: Recent Courses
 type: pages
-query: collection('recent-courses') # <-- repeatedly called, but resolved once with tubs()
+query: collection('recent-courses') # repeatedly called, resolved only once with tubs()
 ```
 
 **site/blueprints/pages/course.yml**
