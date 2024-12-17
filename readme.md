@@ -124,15 +124,12 @@ Keys and values will be serialized. If they contain Kirby Fields these will auto
 ```php
 tub()->set(
     $page/*->uuid()->toString()*/, 
-    $pages->toArray(fn($p) => ['title' => $p->title()/*->value()*/
+    $pages->toArray(fn($p) => ['title' => $p->title()/*->value()*/])
 );
 ```
 
 ### Set abortion
 When using a closure as value you can abort setting the value on demand. This is handy if you have strict or time consuming requirements on when to set the value and do not want to perform that check again after the value has been cached.
-
-### JSON Safety
-You can double check if the data can be safely stored as JSON (see settings).
 
 ```php
 tub()->set($keyCanBeStringOrArray, $dataCanBeArrayAndContainingKirbyFields);
@@ -149,9 +146,12 @@ $value = tub()->getOrSet($key, function() use ($page) {
 });
 ```
 
+### JSON Safety
+You can double check if the data can be safely stored as JSON (see settings).
+
 ## tubs() or the TurboStaticCache Helper
 
-While caching data beyond the current request with `tub()` is great it can not solve one issue well and that is **repeated calls to the same data within a single request**. This might sound silly at first but it happens in a lot of places you might not be aware of. The Kirby collections and the Panel queries being prime suspects. Turbo provides the `tubs()`-helper to help you elevate these issues.
+While caching data beyond the current request with `tub()` is great, but it can not solve one issue well and that is **repeated calls to the same data within a single request**. This might sound silly at first but it happens in a lot of places you might not be aware of. The Kirby collections and the Panel queries being prime suspects. Turbo provides the `tubs()`-helper to help you elevate these issues.
 
 ### Example for tubs()
 
@@ -179,7 +179,7 @@ Kirby::plugin('my/example', [
 ```yml
 name: Recent Courses
 type: pages
-query: collection('recent-courses') # <-- repeatedly called
+query: collection('recent-courses') # <-- repeatedly called, resolved only once with tubs()
 ```
 
 **site/blueprints/pages/course.yml**
@@ -195,16 +195,17 @@ fields:
 Turbo has two built-in indexer commands, `find` and `turbo`. Both can scan the directory tree and optionally gather the modified timestamp. But only the `turbo`-indexer can also preload the Kirby content file.
 
 - The `find` indexer uses the Unix `find` in combination with `stat` to gather the data.
-- The `turbo` indexer is a custom binary built with Rust that does the same thing but multi-threaded and async (and can load the content).
+- The `turbo` indexer is a custom binary built with Rust that does the same thing but multi-threaded and async and it optionally can load the content files.
 
-You can use the `bnomei.turbo.cmd.exec` config option to set a custom binary location in case the automatic detection fails.
+> [!TIP]
+> You can use the `bnomei.turbo.cmd.exec` config option to set a custom binary location in case the automatic detection fails.
 
 > [!WARNING]
 > Make sure the `turbo` binaries are executable by the user running the php-fpm or it will fail.
 
 ## Site and Files
 
-Turbo will provide the `inventory` cache layer for files based on it's page model. If you want the `storage` cache layer as well you would need to opt-in to have ALL models with that cache and set the global storage component to Turbo. But unless you query the majority of all of your files in a single request this makes no sense. You have been warned, here it is anyway.
+Turbo will provide the `inventory` cache layer for files based on it's page model. If you want the `storage` cache layer as well you would need to opt-in to have ALL models with that storage component and set the global storage component to Turbo. But unless you query the majority of all of your files in a single request, this makes no sense. Anyway, you have been warned. Here is how to do it.
 
 ```php
 // on app initialisation
@@ -226,13 +227,13 @@ App::plugin('my/storage', [
 ]);
 ```
 
-> [!NOTE]
+> [!WARNING]
 > You will most certainly not have to do that ever, unless you query the majority of all of your files in a single request.
 
 ## Performance
 
 > [!TIP]
-> The speed of Redis and the filesystem in general are vastly different on your local setup than on your staging/production server. Evaluate performance under real conditions!
+> The speed of Redis and the filesystem in general are vastly different on your local setup than on your staging/production server. Evaluate performance under real conditions! "If you can not measure it, you can not improve it." (Lord Kelvin)
 
 ## Settings
 
