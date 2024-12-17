@@ -28,10 +28,12 @@ final class Turbo
             'debug' => boolval(option('debug')),
             'expire' => option('bnomei.turbo.expire'),
             'compression' => boolval(option('bnomei.turbo.compression')),
-            'storage' => boolval(option('bnomei.turbo.storage')),
-            'cmd.exec' => option('bnomei.turbo.cmd.exec'),
-            'cmd.content' => boolval(option('bnomei.turbo.cmd.content')),
-            'cmd.modified' => boolval(option('bnomei.turbo.cmd.modified')),
+            'storage.read' => boolval(option('bnomei.turbo.storage.read')),
+            'storage.write' => boolval(option('bnomei.turbo.storage.write')),
+            'inventory.indexer' => option('bnomei.turbo.inventory.indexer'),
+            'inventory.content' => boolval(option('bnomei.turbo.inventory.content')),
+            'inventory.modified' => boolval(option('bnomei.turbo.inventory.modified')),
+            'inventory.read' => boolval(option('bnomei.turbo.inventory.read')),
         ], $options);
 
         foreach ($this->options as $key => $value) {
@@ -124,7 +126,7 @@ final class Turbo
         }
 
         // try cache
-        $data = $this->cache('cmd')?->get('output-'.basename($this->options['cmd.exec']));
+        $data = $this->cache('inventory')?->get('output-'.basename($this->options['inventory.indexer']));
         if ($data && $this->options['compression']) {
             $data = json_decode(gzuncompress(base64_decode($data)), true);
         }
@@ -139,9 +141,9 @@ final class Turbo
 
     public function exec(): string
     {
-        if ($this->options['cmd.exec'] === 'find') {
+        if ($this->options['inventory.indexer'] === 'find') {
             return $this->execWithFind();
-        } elseif (str_contains($this->options['cmd.exec'], 'turbo')) {
+        } elseif (str_contains($this->options['inventory.indexer'], 'turbo')) {
             return $this->execWithTurbo();
         }
 
@@ -151,11 +153,11 @@ final class Turbo
     public function execWithTurbo(): string
     {
         $root = $this->kirby->root('content');
-        $exec = $this->options['cmd.exec'];
+        $exec = $this->options['inventory.indexer'];
         $patterns = implode(',', $this->modelsWithTurboFilenamePatterns());
-        $cmd = "{$exec} --dir '{$root}' --filenames '$patterns'";
-        $cmd .= $this->options['cmd.modified'] ? ' --modified' : '';
-        $cmd .= $this->options['cmd.content'] ? ' --content' : '';
+        $cmd = "{$exec} --dir '{$root}' --filenames '$patterns'"; // patterns used to filter which files tread content
+        $cmd .= $this->options['inventory.modified'] ? ' --modified' : '';
+        $cmd .= $this->options['inventory.content'] ? ' --content' : '';
         $output = shell_exec($cmd);
 
         return $output ?: '';
@@ -164,13 +166,16 @@ final class Turbo
     public function execWithFind(): string
     {
         $root = $this->kirby->root('content');
-        $exec = $this->options['cmd.exec'];
+        $exec = $this->options['inventory.indexer'];
+        /* all files need to be scanned
         $patterns = implode(' -o ', array_map(
             fn ($pattern) => "-name '$pattern'",
             $this->modelsWithTurboFilenamePatterns()
         ));
         $cmd = "{$exec} '{$root}' -type f \( $patterns \)";
-        $cmd .= $this->options['cmd.modified'] ? " -exec stat -f '%N\t%m' {} \;" : '';
+        */
+        $cmd = "{$exec} '{$root}' -type f";
+        $cmd .= $this->options['inventory.modified'] ? " -exec stat -f '%N\t%m' {} \;" : '';
         // NOTE: find does not do content so no option here
         $output = shell_exec($cmd);
 
@@ -219,17 +224,17 @@ final class Turbo
             $data = base64_encode(gzcompress(json_encode($data)));
         }
 
-        return $this->cache('cmd')?->set('output-'.basename($this->options['cmd.exec']), $data, $expire);
+        return $this->cache('inventory')?->set('output-'.basename($this->options['inventory.indexer']), $data, $expire);
     }
 
-    public function cache(string $cache = 'tub'): ?Cache
+    public function cache(string $cache): ?Cache
     {
         return $this->options['expire'] !== null ? kirby()->cache('bnomei.turbo.'.$cache) : null;
     }
 
     public function storage(): ?Cache
     {
-        return $this->options['storage'] ? $this->cache('storage') : null;
+        return $this->cache('storage');
     }
 
     public function inventory(?string $root = null): ?array
@@ -299,14 +304,26 @@ final class Turbo
         return self::$singleton;
     }
 
-    public static function flush(string $cache = 'tub'): bool
+    public static function flush(string $cache = 'all'): bool
     {
         if (kirby()->option('bnomei.turbo.expire') === null) {
             return false;
         }
 
         try {
-            return kirby()->cache('bnomei.turbo.'.$cache)->flush();
+            $caches = [];
+            if (empty($cache) || $cache === '*' || $cache === 'all') {
+                $caches[] = 'inventory';
+                $caches[] = 'storage';
+                $caches[] = 'tub';
+            } else {
+                $caches[] = $cache;
+            }
+            foreach ($caches as $c) {
+                kirby()->cache('bnomei.turbo.'.$c)->flush();
+            }
+
+            return true;
         } catch (\Exception $e) {
             // if given a cache that does not exist or is not flushable
             return false;

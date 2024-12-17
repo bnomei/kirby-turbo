@@ -30,36 +30,37 @@ Kirby::plugin('bnomei/turbo', [
         'cache' => [
             // most stuff can use the default cache but the cmd output needs its own so it can be configured
             // to load from that with turbo-redis (preload ALL) without the rest of the caches to be on it
-            'cmd' => true,
+            'inventory' => ['active' => true, 'type' => 'file'],
 
             // one to store the content mirror
-            'storage' => true,
+            'storage' => ['active' => true, 'type' => 'turbo-redis', 'database' => 0],
 
             // and one for anything else, but it can make use of the improved `turbo-redis`
             // with features like serialization and abort from closures
-            'tub' => true,
+            'tub' => ['active' => true, 'type' => 'redis', 'database' => 0],
         ],
         'expire' => 0, // 0 = forever, null to disable caching
         'compression' => false, // compress cached data? path strings compress very well. use beyond 2000 content pages and using file/apcu cache (not redis)
-        'storage' => true, // add a IO mirror cache for the content storage
+        'storage' => [
+            // add a IO mirror cache for the content storage
+            'read' => true,
+            'write' => true,
+        ],
 
         // cmd to scan for files with timestamp and maybe content
-        'cmd' => [
+        'inventory' => [
             // null|find|turbo or closure
-            'exec' => function (\Kirby\Cms\App $kirby) {
-                $os = PHP_OS_FAMILY;
-                $cmd = $kirby->root('index').'/vendor/bin/turbo';
-
-                if (stripos($os, 'Darwin') !== false) { // macOS
+            'indexer' => function (\Kirby\Cms\App $kirby) {
+                $cmd = __DIR__.'/bin/turbo'; // musl compiled
+                if (stripos(PHP_OS_FAMILY, 'Darwin') !== false) { // macOS
                     $cmd .= '-darwin';
-                } elseif (stripos($os, 'Linux') !== false) { // musl compiled
-                    $cmd .= '-linux';
                 }
 
                 return $cmd;
             },
             'modified' => true, // gather modified timestamp or default to PHP
             'content' => true, // if exec can do it fetch content
+            'read' => true, // read from the cache in storage and inventory
         ],
 
         'preload-redis' => [
@@ -130,33 +131,33 @@ Kirby::plugin('bnomei/turbo', [
             },
         ],
         'turbo:populate' => [
-            'description' => 'Populate the Turbo Cache with "env KIRBY_HOST=example.com kirby turbo:populate"',
+            'description' => 'Populate the Turbo Cache',
             'args' => [],
             'command' => static function ($cli): void {
                 $name = $cli->arg('name');
                 $cli->out('🏎️ Populating the Turbo Cache...');
                 $time = microtime(true);
-                \Bnomei\Turbo::flush('cmd');
-                \Bnomei\Turbo::singleton()->files(); // access data to populate
+                \Bnomei\Turbo::flush('inventory');
+                \Bnomei\Turbo::singleton()->files(); // access files/dirs to populate
                 $duration = round((microtime(true) - $time) * 1000);
                 $cli->success("✅ Done. {$duration}ms ");
 
                 if (function_exists('janitor')) {
                     janitor()->data($cli->arg('command'), [
                         'status' => 200,
-                        'message' => "Turbo Cache [$name] flushed.",
+                        'message' => "Turbo Cache populated in {$duration}ms.",
                     ]);
                 }
             },
         ],
         'turbo:flush' => [
-            'description' => 'Flush a Turbo Cache [cmd/storage/tub]',
+            'description' => 'Flush Turbo Cache(s)',
             'args' => [
                 'name' => [
                     'prefix' => 'n',
                     'longPrefix' => 'name',
-                    'description' => 'Name of the cache to flush [cmd/storage/tub].',
-                    'required' => true,
+                    'description' => 'Name of the cache to flush [*/all/inventory/storage/tub].',
+                    'defaultValue' => 'all', // flush all
                     'castTo' => 'string',
                 ],
             ],
@@ -178,22 +179,22 @@ Kirby::plugin('bnomei/turbo', [
     'hooks' => [
         'site.*:after' => function ($event, $site) {
             if ($event->action() !== 'render') {
-                \Bnomei\Turbo::flush('cmd');
+                \Bnomei\Turbo::flush('inventory');
             }
         },
         'page.*:after' => function ($event, $page) {
             if ($event->action() !== 'render') {
-                \Bnomei\Turbo::flush('cmd');
+                \Bnomei\Turbo::flush('inventory');
             }
         },
         'file.*:after' => function ($event, $file) {
             if ($event->action() !== 'render') {
-                \Bnomei\Turbo::flush('cmd');
+                \Bnomei\Turbo::flush('inventory');
             }
         },
         'user.*:after' => function ($event, $user) {
             if ($event->action() !== 'render') {
-                \Bnomei\Turbo::flush('cmd');
+                \Bnomei\Turbo::flush('inventory');
             }
         },
         'page.render:before' => function (string $contentType, array $data, \Kirby\Cms\Page $page) {

@@ -9,15 +9,10 @@
 [![Discord](https://flat.badgen.net/badge/discord/bnomei?color=7289da&icon=discord&label)](https://discordapp.com/users/bnomei)
 [![Buymecoffee](https://flat.badgen.net/badge/icon/donate?icon=buymeacoffee&color=FF813F&label)](https://www.buymeacoffee.com/bnomei)
 
-Speed up Kirby with automatic caching
-
-## BUGS
-
-- [ ] indexer needs to return list all files no matter what, modified and content can be filtered
+Speed up Kirby with caching
 
 ## TODOS
 
-- [ ] turbo binaries and how to expose them to composer
 - [ ] unit tests
 
 ## Installation
@@ -28,17 +23,17 @@ Speed up Kirby with automatic caching
 
 ## Overview
 
-|      |                                                                                                                                                        |
-|------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 🤖   | Turbo is plugin that adds automatic caching layers to Kirby, when scanning the directory inventory, reading the content files and the UUID lookup.     |
-| 💯   | While you could use Turbo in almost any project, you will benefit the most, in those project where you **query 100+ pages/files in a single request**. |
-| 🔴   | Turbo relies on **Redis** being available.                                                                                                             |
-| 🛁 | Turbo provides a global cache helper `tub()` that has advanced features like key/value serialization, optional set-abortion and more.                  |
+|        |                                                                                                                                                             |
+|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 📕     | Turbo relies on **Redis** being available.                                                                                                                  |
+| 🔍🗄🆔 | Turbo adds automatic caching layers to Kirby on scanning the directory inventory, reading the content files from storage and in-between the UUID lookup. |
+| 🏋️    | While you could use Turbo in almost any project, you will benefit the most, in those project where you **query 100+ pages/files in a single request**.      |
+| 🛁     | Turbo provides a global cache helpers `tub()` that has advanced features like key/value serialization, optional set-abortion and more.                      |
 
 
 ## Quickstart
 
-For each page you want Turbo's *storage* and *inventory* caching you need to create a PageModel either manually by adding the `Bnomei\ModelWithTurbo` Trait ...
+For each page you want Turbo's caching for `storage` and `inventory` you need to create a PageModel either manually by adding the `Bnomei\ModelWithTurbo` Trait ...
 
 **site/models/example.php**
 ```php
@@ -55,15 +50,19 @@ class ExamplePage extends \Kirby\Cms\Page
 kirby turbo:models
 ```
 
-The last step is to configure optimized cache-drivers for various caches. Turbo is intended to use in-memory caching with Redis. If you do not have Redis available, then do not use Turbo.
+The last step is to configure optimized cache-drivers for various caches. Turbo is intended to use in-memory caching with Redis. If you do not have Redis available, then you can not use Turbo.
 
 **site/config/config.php**
 ```php
 <?php
 return [
-    'bnomei.turbo.cache.storage' => ['type' => 'redis', 'database' => 0],
-    'bnomei.turbo.cache.tub' => ['type' => 'turbo-redis', 'database' => 0],
+    // preconfigured defaults
+    // 'bnomei.turbo.cache.storage' => ['type' => 'redis', 'database' => 0],
+    // 'bnomei.turbo.cache.tub' => ['type' => 'turbo-redis', 'database' => 0],
+    
+    // this one you need to set yourself
     'cache' => [ 'uuid' => ['type' => 'turbo-uuid']],
+    
     // ... other options
 ];
 ```
@@ -77,25 +76,54 @@ Once the cache is in place you can expect **consistent load times** independent 
 
 The load times only concern the loading of content not Kirby having to handle creating less or more models in PHP - that will still have an impact and can not be avoided.
 
-### 🗄️ Storage
-
-Instead of loading the content from the raw content TXT file every time, Turbo will 
-
-- 1️⃣ first try to load the content from the output of the indexer command `bnomei.turbo.cache.cmd` (a mono file cache, see below). 
-- 2️⃣ As a second fallback it will try to find it in the `bnomei.turbo.cache.storage` (your Redis cache, see above). 
-- 3️⃣ If all fails it will resort to loading the TXT file from disk and store copy in the `storage` cache.
-
 ### 🔍 Inventory
 
-Kirby would usually use PHP `scandir` to walk it's way through your content folder. It will gather the modified timestamps with `filemtime` as well. But it will do that again and again on every request. Turbo add a caching here and replaces the `inventory()` method on your model to query its `bnomei.turbo.cache.cmd` mono file cache instead. If the cache is not existing it will try to populate it automatically. The cache will be flushed (and later recreated) every time you modify content in Kirby.
+Kirby would usually use PHP `scandir` to walk it's way through your content folder. It will gather the modified timestamps with `filemtime` as well. But it will do that again and again on every request. Turbo add a caching here and replaces the `inventory()` method on your model to query its `bnomei.turbo.cache.inventory` mono file cache instead. If the cache is not existing it will try to populate it automatically. The cache will be flushed (and later recreated) every time you modify content in Kirby.
 
-If Turbo's default setting slow down the Panel to much then consider disabling the caching of content with `bnomei.turbo.cmd.content=false`. But that will also remove step 1️⃣ from the `storage` caching layer!
+If Turbo's default setting slow down the Panel to much then consider disabling the caching of content with `bnomei.turbo.inventory.content=false`. But that will also remove step 1️⃣ from the `storage` caching layer!
+
+### 🗄️ Storage
+
+Instead of loading the content from the raw content TXT file every time, Turbo will
+
+- 1️⃣ first try to load the content from the output of the indexer command `bnomei.turbo.cache.inventory` (a mono file cache, see below).
+- 2️⃣ As a second fallback it will try to find it in the `bnomei.turbo.cache.storage` (your Redis cache, see above).
+- 3️⃣ If all fails it will resort to loading the TXT file from disk and store copy in the `storage` cache.
 
 ### 🆔 UUIDs
 
 The default cache for UUIDs stores one file per UUID which is fine if you query only a few UUIDs in a single request. If you read this far you know you most likely will not only load a few in your setup and need a better solution. With the `turbo-uuid` cache driver all UUIDs will be preloaded and instantly available. Adding and removing entries a marginally slower. Use it and never look back. 
 
 It requires the unix `sed` command to be available.
+
+### Flushing the Caches
+
+In the ideal case you would never need to flush any of Turbo's caches manually.
+
+- The `inventory` cache flushes automatically when any site/page/file is edited in the Panel.
+- The `storage` cache mirrors the content files and should never need flushing.
+- The `uuid` cache is linked to the models as well and keeps itself up to date.
+
+But if you make changes to content files outside the Panel, like uploading a batch of files via (S)FTP/git/rsync, you will need to flush them.
+
+**PHP**
+```php
+\Bnomei\Turbo::flush();      // all
+\Bnomei\Turbo::flush('inventory'); // specific one
+```
+
+**CLI**
+```bash
+env KIRBY_HOST=example.com vendor/bin/kirby turbo:populate
+```
+
+**Janitor button**
+```yml
+turboFlush:
+  type: janitor
+  label: Flush Turbo Caches
+  command: 'turbo:flush'
+```
 
 ## 🛁 tub(), cache anything easily
 
@@ -107,7 +135,7 @@ $value = tub()->get('key');
 $value = tub()->getOrSet('key', fn() => 'value');
 ```
 
-## 🛁 + 🔴 = tub() with TurboRedis Cache-Driver
+### tub() with TurboRedis Cache-Driver
 
 If you use the `turbo-redis` cache-driver for `tub`, as recommended above, you will get a few advanced features.
 
@@ -159,7 +187,7 @@ You can double check if the data can be safely stored as JSON (see settings).
 
 While caching data beyond the current request with `tub()` is great, but it can not solve one issue well and that is **repeated calls to the same data within a single request**. This might sound silly at first but it happens in a lot of places you might not be aware of. The Kirby collections and the Panel queries being prime suspects. Turbo provides the `tubs()`-helper to help you elevate these issues.
 
-### Example for tubs()
+### Example: Using tubs() for caching collections used in the Panel queries
 
 Unless you wrap the collection in the following example in the `fn() => tubs($key, $closure)` it's content will be evaluated again and again every time a block is evaluated. While you can easily avoid this in your frontend code, in this case the query in the panel wille be triggered multiple times when evaluating the options to show on blocks. Once for every of the same type that you added.
 
@@ -196,20 +224,20 @@ fields:
       - recent-courses
 ```
 
-## Indexer Command(s)
+## Inventory Indexer Command(s)
 
-Turbo has two built-in indexer commands, `find` and `turbo` (default). Both can scan the directory tree and optionally gather the modified timestamp. But only the `turbo`-indexer can also preload the Kirby content file.
+Turbo has two built-in indexer commands, `find` and `turbo` (default). Both can scan the directory tree and optionally gather the modified timestamp.
 
-- The `find` indexer uses the Unix `find` in combination with `stat` to gather the data.
-- The `turbo` indexer is a custom binary built with Rust that does the same thing but multi-threaded and async and it optionally can load the content files.
+- The `find`-indexer uses the Unix `find` in combination with `stat`.
+- The `turbo`-indexer is a custom binary built with Rust that does the same thing but multithreaded and async. It can preload the content files.
 
 > [!TIP]
-> You can use the `bnomei.turbo.cmd.exec` config option to set a custom binary location in case the automatic detection fails. <br>
+> You can use the `bnomei.turbo.inventory.indexer` config option to set a custom binary location in case the automatic detection fails. <br>
 > Make sure the `turbo` binaries are executable by the user running the php-fpm or it will fail.
 
 ## Site and Files
 
-Turbo will provide the `inventory` cache layer for files based on it's page model. If you want the `storage` cache layer as well you would need to opt-in to have ALL models with that storage component and set the global storage component to Turbo. But unless you query the majority of all of your files in a single request, this makes no sense. Anyway, you have been warned. Here is how to do it.
+Turbo will provide the `inventory` cache layer for files based on its page model. If you want the `storage` cache layer as well you would need to opt-in to have ALL models with that storage component and set the global storage component to Turbo. But unless you query the majority of all of your files in a single request, this makes no sense. Anyway, you have been warned. Here is how to do it.
 
 ```php
 // on app initialisation
@@ -237,9 +265,11 @@ App::plugin('my/storage', [
 ## Performance
 
 > [!TIP]
-> "If you can not measure it, you can not improve it." (Lord Kelvin)<br><br>The speed of Redis and the filesystem in general are vastly different on your local setup than on your staging/production server. Evaluate performance under real conditions!
+> "If you can not measure it, you can not improve it."<br>- Lord Kelvin
 
-To help you measure the time Kirby spends rendering more thoroughly you can have Turbo write a `Server-Timing` HTTP header.
+The speed of Redis and the filesystem in general are vastly different on your local setup than on your staging/production server. Evaluate performance under real conditions!
+
+To help you measure the time Kirby spends rendering more thoroughly, you can have Turbo write a `Server-Timing` HTTP header.
 
 **/index.php**
 ```php

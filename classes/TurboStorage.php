@@ -19,7 +19,8 @@ class TurboStorage extends PlainTextStorage
 
     public function modified(VersionId $versionId, Language $language): ?int
     {
-        if ($modified = Turbo::singleton()->modified(
+        $turbo = Turbo::singleton();
+        if ($turbo->options['inventory.read'] && $modified = $turbo->modified(
             $this->contentFile($versionId, $language)
         )) {
             return $modified;
@@ -31,9 +32,10 @@ class TurboStorage extends PlainTextStorage
     public function read(VersionId $versionId, Language $language): array
     {
         // TODO: check again if kirby is still calling this method more often than needed
+        $turbo = Turbo::singleton();
 
         // try reading batch-loaded data from command
-        if ($data = Turbo::singleton()->content(
+        if ($turbo->options['inventory.read'] && $data = $turbo->content(
             $this->contentFile($versionId, $language)
         )) {
             return $data;
@@ -63,7 +65,7 @@ class TurboStorage extends PlainTextStorage
     {
         $t = Turbo::singleton();
         $storage = $t->storage();
-        if (! $storage) {
+        if (! $storage || ! $t->options['storage.read']) {
             return null;
         }
 
@@ -85,7 +87,7 @@ class TurboStorage extends PlainTextStorage
     {
         $t = Turbo::singleton();
         $storage = $t->storage();
-        if (! $storage) {
+        if (! $storage || ! $t->options['storage.write']) {
             return;
         }
 

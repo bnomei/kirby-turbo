@@ -2,7 +2,7 @@
     "name": "bnomei/kirby-turbo",
     "type": "kirby-plugin",
     "version": "5.0.0",
-    "description": "Speed up Kirby with automatic caching",
+    "description": "Speed up Kirby with caching",
     "license": "MIT",
     "authors": [
         {
@@ -21,6 +21,9 @@
         "preload",
         "prefetch",
         "loader",
+        "turbo",
+        "tub",
+        "tubs",
         "performance",
         "multi-threading",
         "storage",
@@ -43,6 +46,10 @@
             "Bnomei\\": "classes/"
         }
     },
+    "bin": [
+        "bin/turbo-darwin",
+        "bin/turbo"
+    ],
     "require": {
         "php": ">=8.2",
         "getkirby/composer-installer": "^1.2"
@@ -59,6 +66,8 @@
         "fix": "./vendor/bin/pint",
         "test": "./vendor/bin/pest --profile",
         "dist": [
+            "chmod +x bin/turbo-darwin",
+            "chmod +x bin/turbo",
             "composer fix",
             "composer install --no-dev --optimize-autoloader",
             "git rm -rf --cached .; git add .;"
@@ -76,6 +85,7 @@
         "kirby-cms-path": "tests/kirby"
     },
     "suggest": {
-        "bnomei/kirby3-redis-cachedriver": "Advanced Redis cache-driver with in-memory store and preloading"
+        "getkirby/cli": "Official Kirby CLI",
+        "bnomei/kirby3-janitor": "Run commands like cleaning the cache from within the Panel, PHP code or a cronjob"
     }
 }
