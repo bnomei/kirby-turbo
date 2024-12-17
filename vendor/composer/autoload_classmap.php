@@ -9,6 +9,7 @@ return array(
     'Bnomei\\AbortCachingException' => $baseDir . '/classes/AbortCachingException.php',
     'Bnomei\\ModelWithTurbo' => $baseDir . '/classes/ModelWithTurbo.php',
     'Bnomei\\PreloadRedisCache' => $baseDir . '/classes/PreloadRedisCache.php',
+    'Bnomei\\ServerTiming' => $baseDir . '/classes/ServerTiming.php',
     'Bnomei\\Turbo' => $baseDir . '/classes/Turbo.php',
     'Bnomei\\TurboDir' => $baseDir . '/classes/TurboDir.php',
     'Bnomei\\TurboPage' => $baseDir . '/classes/TurboPage.php',

@@ -196,5 +196,15 @@ Kirby::plugin('bnomei/turbo', [
                 \Bnomei\Turbo::flush('cmd');
             }
         },
+        'page.render:before' => function (string $contentType, array $data, \Kirby\Cms\Page $page) {
+            \Bnomei\Turbo::stopwatch('page.render:before');
+
+            return $data;
+        },
+        'page.render:after' => function (string $contentType, array $data, string $html, \Kirby\Cms\Page $page) {
+            \Bnomei\Turbo::stopwatch('page.render:after');
+
+            return $html;
+        },
     ],
 ]);

@@ -5,6 +5,7 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title><?= $page->title() ?> | <?= site()->title() ?></title>
+  <?php snippet('stats') ?>
 </head>
 <style>
   /* reset https://www.joshwcomeau.com/css/custom-css-reset/ */
@@ -61,7 +62,7 @@
     padding-inline-start: 2rem;
   }
 
-  #info {
+  #stats {
     position: fixed;
     top: 0;
     right: 0;
@@ -99,24 +100,7 @@
 <h1><?= $page->title() ?></h1>
 <?= $slots->default() ?>
 
-<div id="info">...</div>
-<script>
-  // use js to parse the html document headers after the page has loaded and output the headers to the console
-  // not the head element, but the headers of the html document response
-  window.onload = function () {
-    fetch(document.URL, {method: 'HEAD'})
-      .then(response => {
-        let mc = document.getElementById('modelCount');
-        if (mc) {
-          mc = mc.innerText + ' models in '
-        } else {
-          mc = '';
-        }
-        document.getElementById('info').innerText = mc + response.headers.get('X-Stopwatch-Render');
-      })
-      .catch(console.error);
-  }
-</script>
+<div id="stats">...</div>
 
 </body>
 </html>

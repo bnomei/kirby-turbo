@@ -13,11 +13,11 @@ use ReflectionClass;
 
 final class Turbo
 {
+    use ServerTiming;
+
     private App $kirby;
 
     private ?array $data = null;
-
-    private ?array $dirs = null;
 
     public array $options;
 
