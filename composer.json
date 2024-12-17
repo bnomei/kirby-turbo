@@ -23,6 +23,8 @@
         "loader",
         "performance",
         "multi-threading",
+        "storage",
+        "inventory",
         "async",
         "redis",
         "rust",
