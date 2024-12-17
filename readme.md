@@ -73,17 +73,23 @@ return [
 
 ## Caching Layers
 
-Once the cache is in place you can expect **consistent load times** independent of the request. The amount of pages/files you are using within a **single request** will not make much of an impact any more since most of the data will be preloaded. But if you use very little of the total cached data it might be slower than raw Kirby. Disclaimer: The load times only concern the loading of content not Kirby having to handle creating less or more models in PHP - that will still have an impact and can not be avoided.
+Once the cache is in place you can expect **consistent load times** independent of the request. The amount of pages/files you are using within a **single request** will not make much of an impact any more since most of the data will be preloaded. But if you use very little of the total cached data it might be slower than raw Kirby.
+
+The load times only concern the loading of content not Kirby having to handle creating less or more models in PHP - that will still have an impact and can not be avoided.
 
 ### 🗄️ Storage
 
-Instead of loading the content from the raw content TXT file every time, Turbo will first try to load the content from the output of the indexer command `bnomei.turbo.cache.cmd` (a mono file cache, see below). As a second fallback it will try to find it in the `bnomei.turbo.cache.storage` (your Redis cache, see above). If all fails it will resort to loading the TXT file from disk and store copy in the `storage` cache.
+Instead of loading the content from the raw content TXT file every time, Turbo will 
+
+- (1) first try to load the content from the output of the indexer command `bnomei.turbo.cache.cmd` (a mono file cache, see below). 
+- (2) As a second fallback it will try to find it in the `bnomei.turbo.cache.storage` (your Redis cache, see above). 
+- (3) If all fails it will resort to loading the TXT file from disk and store copy in the `storage` cache.
 
 ### 🔍 Inventory
 
 Kirby would usually use PHP `scandir` to walk it's way through your content folder. It will gather the modified timestamps with `filemtime` as well. But it will do that again and again on every request. Turbo add a caching here and replaces the `inventory()` method on your model to query its `bnomei.turbo.cache.cmd` mono file cache instead. If the cache is not existing it will try to populate it automatically. The cache will be flushed (and later recreated) every time you modify content in Kirby.
 
-If Turbo's default setting slow down the Panel to much then consider disabling the caching of content with `bnomei.turbo.cmd.content=false`. But that will also remove step 1) from the `storage` caching layer!
+If Turbo's default setting slow down the Panel to much then consider disabling the caching of content with `bnomei.turbo.cmd.content=false`. But that will also remove step 1 from the `storage` caching layer!
 
 ### 🆔 UUIDs
 
