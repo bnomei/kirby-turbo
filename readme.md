@@ -269,7 +269,7 @@ App::plugin('my/storage', [
 
 The speed of Redis and the filesystem in general are vastly different on your local setup than on your staging/production server. Evaluate performance under real conditions!
 
-To help you measure the time Turbo spends reading and Kirby spends rendering more thoroughly, you can have Turbo write HTTP headers.
+To help you measure the time Turbo spends on reading its `inventory` cache and Kirby spends on rendering more thoroughly, you can have Turbo write HTTP headers.
 
 **/index.php**
 ```php
@@ -277,17 +277,25 @@ To help you measure the time Turbo spends reading and Kirby spends rendering mor
 // require 'kirby/bootstrap.php';
 require 'vendor/autoload.php';
 
+\Bnomei\TurboStopwatch::tick('kirby:before');
 $kirby = new \Kirby\Cms\App;
 $render = $kirby->render();
-\Bnomei\Turbo::header('turbo.read');
-\Bnomei\Turbo::header('page.render');
+\Bnomei\TurboStopwatch::tick('kirby:after');
+
+\Bnomei\TurboStopwatch::header('turbo.read'); // not included in page.render
+\Bnomei\TurboStopwatch::header('page.render');
+\Bnomei\TurboStopwatch::header('kirby'); // total
+
 echo $render;
 ```
 
 ```
-X-Turbo-Read: 123ms
-X-Page-Render: 123ms
+X-Stopwatch-Turbo-Read: 77ms
+X-Stopwatch-Page-Render: 33ms
 ```
+
+> [!NOTE]
+> Turbo does not (yet) provide you with a way to measure the time Kirby spends on building its directory inventory, so right now you can only compare total time spent by Kirby.
 
 ## Settings
 

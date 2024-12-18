@@ -13,8 +13,6 @@ use ReflectionClass;
 
 final class Turbo
 {
-    use ServerTiming;
-
     private App $kirby;
 
     private ?array $data = null;
@@ -25,20 +23,21 @@ final class Turbo
     {
         $this->kirby = kirby();
         $this->options = array_merge([
-            'debug' => boolval(option('debug')),
+            'debug' => option('debug'),
             'expire' => option('bnomei.turbo.expire'),
-            'storage.compression' => boolval(option('bnomei.turbo.storage.compression')),
-            'storage.read' => boolval(option('bnomei.turbo.storage.read')),
-            'storage.write' => boolval(option('bnomei.turbo.storage.write')),
+            'storage.compression' => option('bnomei.turbo.storage.compression'),
+            'storage.read' => option('bnomei.turbo.storage.read'),
+            'storage.write' => option('bnomei.turbo.storage.write'),
             'inventory.indexer' => option('bnomei.turbo.inventory.indexer'),
-            'inventory.content' => boolval(option('bnomei.turbo.inventory.content')),
-            'inventory.modified' => boolval(option('bnomei.turbo.inventory.modified')),
-            'inventory.read' => boolval(option('bnomei.turbo.inventory.read')),
-            'inventory.compression' => boolval(option('bnomei.turbo.inventory.compression')),
+            'inventory.enabled' => option('bnomei.turbo.inventory.enabled'),
+            'inventory.content' => option('bnomei.turbo.inventory.content'),
+            'inventory.modified' => option('bnomei.turbo.inventory.modified'),
+            'inventory.read' => option('bnomei.turbo.inventory.read'),
+            'inventory.compression' => option('bnomei.turbo.inventory.compression'),
         ], $options);
 
         foreach ($this->options as $key => $value) {
-            if ($value instanceof \Closure) {
+            if ($value instanceof \Closure && ! in_array($key, ['inventory.enabled'])) {
                 $this->options[$key] = $value($this->kirby);
             }
         }
@@ -48,9 +47,15 @@ final class Turbo
     {
         // lazy load
         if ($this->data === null) {
-            Turbo::stopwatch('turbo.read:before');
-            $this->data = $this->read();
-            Turbo::stopwatch('turbo.read:after');
+            $this->data = [
+                'files' => [],
+                'dirs' => [],
+            ];
+            if ($this->smartInventory()) {
+                TurboStopwatch::tick('turbo.read:before');
+                $this->data = $this->read();
+                TurboStopwatch::tick('turbo.read:after');
+            }
         }
 
         return $this->data['files'];
@@ -125,17 +130,33 @@ final class Turbo
     {
         // no cache
         if ($this->options['expire'] === null) {
-            return $this->unwrap($this->exec());
+            TurboStopwatch::tick('turbo.inventory.exec:before');
+            $data = $this->exec();
+            TurboStopwatch::tick('turbo.inventory.exec:after');
+            TurboStopwatch::tick('turbo.inventory.unwrap:before');
+            $data = $this->unwrap($data);
+            TurboStopwatch::tick('turbo.inventory.unwrap:after');
+
+            return $data;
         }
 
         // try cache
+        TurboStopwatch::tick('turbo.inventory.cache:before');
         $data = $this->cache('inventory')?->get('output-'.basename($this->options['inventory.indexer']));
+        TurboStopwatch::tick('turbo.inventory.cache:after');
         if ($data && $this->options['inventory.compression']) {
+            TurboStopwatch::tick('turbo.inventory.uncompress:before');
             $data = json_decode(gzuncompress(base64_decode($data)), true);
+            TurboStopwatch::tick('turbo.inventory.uncompress:after');
         }
         if (! $data) {
             // update cache
-            $data = $this->unwrap($this->exec());
+            TurboStopwatch::tick('turbo.inventory.exec:before');
+            $data = $this->exec();
+            TurboStopwatch::tick('turbo.inventory.exec:after');
+            TurboStopwatch::tick('turbo.inventory.unwrap:before');
+            $data = $this->unwrap($data);
+            TurboStopwatch::tick('turbo.inventory.unwrap:after');
             $this->write($data);
         }
 
@@ -224,10 +245,16 @@ final class Turbo
             // compression is great for paths and repeated data
             // or if storing fewer data in the cache is required.
             // it comes with a delay and more memory usage as trade-off.
+            TurboStopwatch::tick('turbo.compress:before');
             $data = base64_encode(gzcompress(json_encode($data)));
+            TurboStopwatch::tick('turbo.compress:after');
         }
 
-        return $this->cache('inventory')?->set('output-'.basename($this->options['inventory.indexer']), $data, $expire);
+        TurboStopwatch::tick('turbo.inventory.write:before');
+        $r = $this->cache('inventory')?->set('output-'.basename($this->options['inventory.indexer']), $data, $expire);
+        TurboStopwatch::tick('turbo.inventory.write:after');
+
+        return $r;
     }
 
     public function cache(string $cache): ?Cache
@@ -242,7 +269,7 @@ final class Turbo
 
     public function inventory(?string $root = null): ?array
     {
-        if (! $root) {
+        if (! $root || ! $this->smartInventory()) {
             return null;
         }
 
@@ -254,6 +281,18 @@ final class Turbo
             $this->kirby->contentIgnore(),
             $this->kirby->multilang()
         );
+    }
+
+    public function smartInventory(): bool
+    {
+        $enabled = $this->options['inventory.enabled'];
+        if ($enabled instanceof \Closure) {
+            $enabled = $enabled();
+            $this->options['inventory.enabled'] = $enabled;
+            $this->options['inventory.read'] = $enabled;
+        }
+
+        return $enabled;
     }
 
     public function modified(string $root): ?int
@@ -331,5 +370,21 @@ final class Turbo
             // if given a cache that does not exist or is not flushable
             return false;
         }
+    }
+
+    public static function isUrlKirbyInternal(?string $request = null): bool
+    {
+        $request ??= kirby()->request()->url()->toString();
+        foreach ([
+            kirby()->urls()->panel(),
+            kirby()->urls()->api(),
+            kirby()->urls()->media(),
+        ] as $url) {
+            if (str_contains($request, $url)) {
+                return true;
+            }
+        }
+
+        return false;
     }
 }

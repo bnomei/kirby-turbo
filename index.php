@@ -59,6 +59,9 @@ Kirby::plugin('bnomei/turbo', [
 
                 return $cmd;
             },
+            'enabled' => function (?string $url = null) {
+                return \Bnomei\Turbo::isUrlKirbyInternal($url) === false;
+            }, // used to disable on demand (kirby internal requests), can be force set to true as well
             'modified' => true, // gather modified timestamp or default to PHP
             'content' => true, // if exec can do it fetch content
             'read' => true, // read from the cache in storage and inventory
@@ -179,6 +182,14 @@ Kirby::plugin('bnomei/turbo', [
         ],
     ],
     'hooks' => [
+        'route:before' => function (Kirby\Http\Route $route, string $path, string $method) {
+            \Bnomei\TurboStopwatch::tick('route:before');
+        },
+        'route:after' => function (\Kirby\Http\Route $route, string $path, string $method, $result, bool $final) {
+            if ($final) {
+                \Bnomei\TurboStopwatch::tick('route:after');
+            }
+        },
         'site.*:after' => function ($event, $site) {
             if ($event->action() !== 'render') {
                 \Bnomei\Turbo::flush('inventory');
@@ -200,12 +211,12 @@ Kirby::plugin('bnomei/turbo', [
             }
         },
         'page.render:before' => function (string $contentType, array $data, \Kirby\Cms\Page $page) {
-            \Bnomei\Turbo::stopwatch('page.render:before');
+            \Bnomei\TurboStopwatch::tick('page.render:before');
 
             return $data;
         },
         'page.render:after' => function (string $contentType, array $data, string $html, \Kirby\Cms\Page $page) {
-            \Bnomei\Turbo::stopwatch('page.render:after');
+            \Bnomei\TurboStopwatch::tick('page.render:after');
 
             return $html;
         },
