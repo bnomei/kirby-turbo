@@ -14,6 +14,7 @@ Speed up Kirby with caching
 ## TODOS
 
 - [ ] unit tests
+- [ ] benchmark
 
 ## Installation
 
@@ -56,11 +57,12 @@ The last step is to configure optimized cache-drivers for various caches. Turbo 
 ```php
 <?php
 return [
-    // preconfigured defaults
+    // ✅ preconfigured defaults
+    // 'bnomei.turbo.cache.inventory' => ['type' => 'file'],
     // 'bnomei.turbo.cache.storage' => ['type' => 'redis', 'database' => 0],
     // 'bnomei.turbo.cache.tub' => ['type' => 'turbo-redis', 'database' => 0],
     
-    // this one you need to set yourself
+    // ⚠️ the UUID cache-driver you need to set yourself!
     'cache' => [ 'uuid' => ['type' => 'turbo-uuid']],
     
     // ... other options
@@ -156,6 +158,8 @@ tub()->set([
 Keys and values will be serialized. If they contain Kirby Fields these will automatically be resolved to their value. Models, like Pages and Files, will be resolved to their UUIDs + language code. This will allow you to write less code when creating keys/values.
 
 ```php
+tub()->set($keyCanBeStringOrArray, $dataCanBeArrayAndContainingKirbyFields);
+
 tub()->set(
     $page/*->uuid()->toString() + kirby()->language()?->code() */, 
     $pages->toArray(fn($p) => ['title' => $p->title()/*->value()*/])
@@ -166,8 +170,6 @@ tub()->set(
 When using a closure as value you can abort setting the value on demand. This is handy if you while creating the cache value your decide to rather not store that value after all.
 
 ```php
-tub()->set($keyCanBeStringOrArray, $dataCanBeArrayAndContainingKirbyFields);
-
 $value = tub()->getOrSet($key, function() use ($page) {
     if ($page->performCheck() === false) { // up to you
         throw new \Bnomei\AbortCachingException();
@@ -199,10 +201,10 @@ Unless you wrap the collection in the following example in the `fn() => tubs($ke
 <?php
 Kirby::plugin('my/example', [
   'collections' => [
-    // collections have to return a closure, and that is why it is wrapped in a fn
-    'recent-courses' => fn() => tubs(
+    // collections have to return a closure, and that is why tubs' value is a closure
+    'recent-courses' => tubs(
         'recent-courses', // key: array|string
-        function () {   // value: closure
+        function () {     // value: closure
             return page('courses')->children()->listed()->sortBy('name')->limit(10);
         }
     )
@@ -277,10 +279,10 @@ To help you measure the time Turbo spends on reading its `inventory` cache and K
 // require 'kirby/bootstrap.php';
 require 'vendor/autoload.php';
 
-\Bnomei\TurboStopwatch::tick('kirby:before');
+\Bnomei\TurboStopwatch::before('kirby');
 $kirby = new \Kirby\Cms\App;
 $render = $kirby->render();
-\Bnomei\TurboStopwatch::tick('kirby:after');
+\Bnomei\TurboStopwatch::after('kirby');
 
 \Bnomei\TurboStopwatch::header('turbo.read'); // not included in page.render
 \Bnomei\TurboStopwatch::header('page.render');

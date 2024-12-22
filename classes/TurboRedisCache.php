@@ -32,10 +32,11 @@ class TurboRedisCache extends RedisCache
     /**
      * {@inheritDoc}
      */
-    protected function key(array|string $key): string
+    public function key(array|string $key): string
     {
         return is_array($key) ?
-            '#'.hash('xxh3', json_encode(Turbo::serialize($key))) : // @phpstan-ignore-line
+            // flatten models as well
+            '#'.hash('xxh3', json_encode(Turbo::serialize($key, true))) : // @phpstan-ignore-line
             $key; // do not alter if it's a string
     }
 
@@ -44,13 +45,8 @@ class TurboRedisCache extends RedisCache
      */
     public function set(string|array $key, mixed $value, int $minutes = 0): bool
     {
-        // flatten kirby fields and
-        // allow for abort via exception
-        try {
-            $value = Turbo::serialize($value);
-        } catch (AbortCachingException $e) {
-            return false;
-        }
+        // flatten kirby fields but not models
+        $value = Turbo::serialize($value, false);
 
         // make sure the value can be stored as json
         // if not fail here so a trace is more helpful
@@ -101,6 +97,23 @@ class TurboRedisCache extends RedisCache
     {
         // overwrite to allow for array as keys, resolved now
         return parent::get($this->key($key), $default);
+    }
+
+    public function getOrSet(string $key, \Closure $result, int $minutes = 0) {
+        $value = $this->get($key);
+
+        // allow for abort via exception
+        try {
+            $result = $value ?? $result();
+        } catch (AbortCachingException $e) {
+            return null;
+        }
+
+        if ($value === null) {
+            $this->set($key, $result, $minutes);
+        }
+
+        return $result;
     }
 
     /**

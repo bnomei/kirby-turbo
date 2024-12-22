@@ -9,9 +9,19 @@ class TurboStopwatch
 {
     public static array $timestamps = [];
 
-    public static function tick(string $event): void
+    public static function before(string $event): float
     {
-        static::$timestamps[$event] = microtime(true);
+        return static::$timestamps[$event.':before'] = microtime(true);
+    }
+
+    public static function after(string $event): float
+    {
+        return static::$timestamps[$event.':after'] = microtime(true);
+    }
+
+    public static function tick(string $event): float
+    {
+        return static::$timestamps[$event] = microtime(true);
     }
 
     public static function events(): array
@@ -34,14 +44,20 @@ class TurboStopwatch
         return (int) round(($after - $before) * 1000);
     }
 
-    public static function header(string $event): void
+    public static function header(string $event, bool $return = false): string|null
     {
         $duration = static::duration($event);
         if ($duration === null) {
-            return;
+            return null;
         }
 
-        header('X-Stopwatch-'.implode('-', array_map('ucfirst', explode('-', str_replace('.', '-', $event)))).': '.$duration.'ms');
+        $header = 'X-Stopwatch-'.implode('-', array_map('ucfirst', explode('-', str_replace('.', '-', $event)))).': '.$duration.'ms';
+        if ($return === false) {
+            header($header);
+            return null;
+        }
+
+        return $header;
     }
 
     /*

@@ -33,11 +33,11 @@ Kirby::plugin('bnomei/turbo', [
             'inventory' => ['active' => true, 'type' => 'file'],
 
             // one to store the content mirror
-            'storage' => ['active' => true, 'type' => 'turbo-redis', 'database' => 0],
+            'storage' => ['active' => true, 'type' => 'redis', 'database' => 0],
 
             // and one for anything else, but it can make use of the improved `turbo-redis`
             // with features like serialization and abort from closures
-            'tub' => ['active' => true, 'type' => 'redis', 'database' => 0],
+            'tub' => ['active' => true, 'type' => 'turbo-redis', 'database' => 0],
         ],
         'expire' => 0, // 0 = forever, null to disable caching
 

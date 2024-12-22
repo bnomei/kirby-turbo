@@ -10,6 +10,7 @@ use Kirby\Cms\File;
 use Kirby\Cms\ModelWithContent;
 use Kirby\Content\Field;
 use Kirby\Toolkit\A;
+use Kirby\Toolkit\Collection;
 use ReflectionClass;
 
 final class Turbo
@@ -304,7 +305,7 @@ final class Turbo
         return A::get($this->files(), '#'.hash('xxh3', $root).'.content', null);
     }
 
-    public static function serialize(mixed $value): mixed
+    public static function serialize(mixed $value, bool $models = false): mixed
     {
         if (! $value) {
             return null;
@@ -313,8 +314,8 @@ final class Turbo
         $value = ! is_string($value) && is_callable($value) ? $value() : $value;
 
         if (is_array($value)) {
-            return array_map(function ($item) {
-                return Turbo::serialize($item);
+            return array_map(function ($item) use ($models) {
+                return Turbo::serialize($item, $models);
             }, $value);
         }
 
@@ -322,7 +323,7 @@ final class Turbo
             return $value->value();
         }
 
-        if ($value instanceof ModelWithContent) {
+        if ($models && $value instanceof ModelWithContent) {
             $v = $value->uuid()?->toString() ?? $value->id() ?? null;
             // NOTE: do not do modified timestamp as that would make cleaning caches harder
             if (kirby()->multilang()) {

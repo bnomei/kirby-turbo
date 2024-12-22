@@ -15,6 +15,10 @@ jobs:
   test:
     runs-on: ubuntu-latest
 
+    services:
+      redis:
+        image: redis
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -41,5 +45,7 @@ jobs:
           coverageCommand: vendor/bin/pest --ci
           coverageLocations: ${{github.workspace}}/tests/clover.xml:clover
         env:
+          REDIS_HOST: 127.0.0.1
+          REDIS_PORT: 6379
           CC_TEST_REPORTER_ID: ${{ secrets.CC_TEST_REPORTER_ID }}
 
