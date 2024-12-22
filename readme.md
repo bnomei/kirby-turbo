@@ -234,7 +234,10 @@ Turbo has two built-in indexer commands, `find` and `turbo` (default). Both can 
 
 ## Site and Files
 
-Turbo will provide the `inventory` cache layer for files based on its page model. If you want the `storage` cache layer as well you would need to opt-in to have ALL models with that storage component and set the global storage component to Turbo. But unless you query the majority of all of your files in a single request, this makes no sense. Anyway, you have been warned. Here is how to do it.
+Turbo will provide the `inventory` cache layer for files based on its page model. If you want the `storage` cache layer as well you would need to opt-in to have ALL models with that storage component and set the global storage component to Turbo. But unless you query the majority of all of your files in a single request, this makes no sense. 
+
+> [!WARNING]
+> You will most certainly not have to set the global storage component to Turbo ever, unless you query the majority of all of your **files** (in addition to pages) in a single request. The global storage component in Kirby is intended for implementations to read/write all content from something like AWS-S3 or MySQL and not directly, like Turbo does, injecting a caching layer for selected models. Anyway, you have been warned. Here is how to do it.
 
 ```php
 // on app initialisation
@@ -255,9 +258,6 @@ App::plugin('my/storage', [
   ]  
 ]);
 ```
-
-> [!WARNING]
-> You will most certainly not have to do that ever, unless you query the majority of all of your files in a single request.
 
 ## Performance
 
