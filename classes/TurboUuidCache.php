@@ -17,9 +17,9 @@ class TurboUuidCache extends FileCache
         $file = $this->file(''); // does not matter which key
 
         // preload all
-        foreach (array_filter(explode(PHP_EOL, F::read($file)), fn ($v) => ! empty($v)) as $line) {
+        foreach (array_filter(explode(PHP_EOL, F::read($file) ?: ''), fn ($v) => ! empty($v)) as $line) {
             [$created, $k, $value] = explode("\t", $line);
-            $this->lines[$k] = new Value($value, 0, $created);
+            $this->lines[$k] = new Value($value, 0, intval($created));
         }
     }
 

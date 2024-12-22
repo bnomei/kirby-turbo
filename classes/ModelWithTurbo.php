@@ -17,7 +17,6 @@ trait ModelWithTurbo
      */
     public function hasTurbo(): bool
     {
-        /** @var ModelWithContent $this */
         // files have turbo if their parents do
         if ($this instanceof File && method_exists($this->parent(), 'hasTurbo')) {
             return $this->parent()?->hasTurbo() === true;
@@ -28,13 +27,11 @@ trait ModelWithTurbo
 
     public function inventory(): array
     {
-        /** @var ModelWithContent $this */
         return Turbo::singleton()->inventory($this->root()) ?? parent::inventory();
     }
 
     public function storage(): Storage
     {
-        /** @var ModelWithContent $this */
         return $this->storage ??= new TurboStorage(model: $this);
     }
 }

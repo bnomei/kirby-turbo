@@ -6,6 +6,7 @@ namespace Bnomei;
 
 use Kirby\Cache\Cache;
 use Kirby\Cms\App;
+use Kirby\Cms\File;
 use Kirby\Cms\ModelWithContent;
 use Kirby\Content\Field;
 use Kirby\Toolkit\A;
@@ -99,9 +100,7 @@ final class Turbo
         $files = [];
         $dirs = [];
         foreach ($output as $item) {
-            if (is_string($item)) {
-                $item = explode("\t", $item);
-            }
+            $item = explode("\t", $item);
             $path = $root.'/'.$item[0];
             $item = [
                 'dir' => dirname($path),
@@ -146,7 +145,7 @@ final class Turbo
         TurboStopwatch::tick('turbo.inventory.cache:after');
         if ($data && $this->options['inventory.compression']) {
             TurboStopwatch::tick('turbo.inventory.uncompress:before');
-            $data = json_decode(gzuncompress(base64_decode($data)), true);
+            $data = json_decode(gzuncompress(base64_decode($data)), true); // @phpstan-ignore-line
             TurboStopwatch::tick('turbo.inventory.uncompress:after');
         }
         if (! $data) {
@@ -211,7 +210,7 @@ final class Turbo
     {
         $models = [];
         foreach ($this->kirby->extensions('pageModels') as $model => $class) {
-            $ref = new ReflectionClass(ucfirst($class));
+            $ref = new ReflectionClass(ucfirst($class)); // @phpstan-ignore-line
             if ($ref->hasMethod('hasTurbo')) {
                 $models[] = $model;
             }
@@ -246,7 +245,7 @@ final class Turbo
             // or if storing fewer data in the cache is required.
             // it comes with a delay and more memory usage as trade-off.
             TurboStopwatch::tick('turbo.compress:before');
-            $data = base64_encode(gzcompress(json_encode($data)));
+            $data = base64_encode(gzcompress(json_encode($data))); // @phpstan-ignore-line
             TurboStopwatch::tick('turbo.compress:after');
         }
 
@@ -254,7 +253,7 @@ final class Turbo
         $r = $this->cache('inventory')?->set('output-'.basename($this->options['inventory.indexer']), $data, $expire);
         TurboStopwatch::tick('turbo.inventory.write:after');
 
-        return $r;
+        return $r === true;
     }
 
     public function cache(string $cache): ?Cache
@@ -324,7 +323,13 @@ final class Turbo
         }
 
         if ($value instanceof ModelWithContent) {
-            return $value->uuid()?->toString() ?? $value->id() ?? null;
+            $v = $value->uuid()?->toString() ?? $value->id() ?? null;
+            // NOTE: do not do modified timestamp as that would make cleaning caches harder
+            if (kirby()->multilang()) {
+                $v .= kirby()->language()?->code();
+            }
+
+            return $v;
         }
 
         return $value;

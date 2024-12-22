@@ -5,7 +5,7 @@ use Kirby\Filesystem\F;
 @include_once __DIR__.'/vendor/autoload.php';
 
 if (! function_exists('turbo')) {
-    function turbo(): ?\Bnomei\Turbo
+    function turbo(): \Bnomei\Turbo
     {
         return \Bnomei\Turbo::singleton();
     }
@@ -106,7 +106,7 @@ Kirby::plugin('bnomei/turbo', [
                     $modelFile = $modelRoot.'/'.$blueprint.'.php';
                     if (file_exists($modelFile)) {
                         // read file and see if it has the string 'ModelWithTurbo' on cli echo found or not found
-                        $content = file_get_contents($modelFile);
+                        $content = file_get_contents($modelFile) ?: '';
                         if (! str_contains($content, 'ModelWithTurbo')) {
                             $cli->out('⚠️ '.$blueprint);
                         } else {
@@ -119,8 +119,8 @@ Kirby::plugin('bnomei/turbo', [
                     F::write($modelFile, str_replace(
                         '__MODEL__',
                         ucfirst($blueprint),
-                        F::read(__DIR__.'/stubs/model.php'
-                        )));
+                        F::read(__DIR__.'/stubs/model.php') // @phpstan-ignore-line
+                    ));
                     $cli->out('✨ '.$blueprint);
                     $count++;
                 }

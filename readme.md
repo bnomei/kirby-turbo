@@ -153,11 +153,11 @@ tub()->set([
 ```
 
 ### Serialization
-Keys and values will be serialized. If they contain Kirby Fields these will automatically be resolved to their value. Models, like Pages and Files, will be resolved to their UUIDs. This will allow you to write less code when creating keys/values.
+Keys and values will be serialized. If they contain Kirby Fields these will automatically be resolved to their value. Models, like Pages and Files, will be resolved to their UUIDs + language code. This will allow you to write less code when creating keys/values.
 
 ```php
 tub()->set(
-    $page/*->uuid()->toString()*/, 
+    $page/*->uuid()->toString() + kirby()->language()?->code() */, 
     $pages->toArray(fn($p) => ['title' => $p->title()/*->value()*/])
 );
 ```
