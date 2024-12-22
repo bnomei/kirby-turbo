@@ -279,9 +279,9 @@ $kirby = new \Kirby\Cms\App;
 $render = $kirby->render();
 \Bnomei\TurboStopwatch::after('kirby');
 
-\Bnomei\TurboStopwatch::header('turbo.read'); // not included in page.render
-\Bnomei\TurboStopwatch::header('page.render');
-\Bnomei\TurboStopwatch::header('kirby'); // total
+\Bnomei\TurboStopwatch::header('turbo.read');  // not included in page.render
+\Bnomei\TurboStopwatch::header('page.render'); // turbo tracks that for you
+\Bnomei\TurboStopwatch::header('kirby');       // total time spent by Kirby
 
 echo $render;
 ```
