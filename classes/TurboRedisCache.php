@@ -99,7 +99,7 @@ class TurboRedisCache extends RedisCache
         return parent::get($this->key($key), $default);
     }
 
-    public function getOrSet(string $key, \Closure $result, int $minutes = 0)
+    public function getOrSet(string $key, \Closure $result, int $minutes = 0) // @phpstan-ignore-line
     {
         $value = $this->get($key);
 
