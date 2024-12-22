@@ -58,7 +58,7 @@ return [
     // 'bnomei.turbo.cache.tub' => ['type' => 'turbo-redis', 'database' => 0],
     
     // ⚠️ the UUID cache-driver you need to set yourself!
-    'cache' => [ 'uuid' => ['type' => 'turbo-uuid']],
+    'cache' => ['uuid' => ['type' => 'turbo-uuid']],
     
     // ... other options
 ];
@@ -186,10 +186,10 @@ While caching data beyond the current request with `tub()` is great, but it can 
 
 ### Example: Using tubs() for caching collections used in the Panel queries
 
-Unless you wrap the collection in the following example in the `fn() => tubs($key, $closure)` it's content will be evaluated again and again every time a block is evaluated. While you can easily avoid this in your frontend code, in this case the query in the panel wille be triggered multiple times when evaluating the options to show on blocks. Once for every of the same type that you added.
+Unless you wrap the collection in the following example in the `tubs($key, $closure)` it's content will be evaluated again and again every time a block is evaluated. While you can easily avoid this in your frontend code, in this case the query in the panel will be triggered multiple times when evaluating the options to show on blocks. Once for every block of the same type that you added.
 
 > [!NOTE]
-> For exactly the same reason the excellent ZeroOne Theme switched to PHP based blueprints. It needed more control over what is loaded when due to it's hugh amount of available dynamic options.
+> For exactly the same reason the excellent ZeroOne Theme switched to PHP based blueprints and added similar static caching. It needed more control over what is loaded when due to it's huge amount of available dynamic options in the blueprints.
 
 **site/plugins/my-example/index.php**
 ```php
@@ -256,12 +256,12 @@ App::plugin('my/storage', [
 ]);
 ```
 
-> [!WARNING]
+> [!CAUTION]
 > You will most certainly not have to do that ever, unless you query the majority of all of your files in a single request.
 
 ## Performance
 
-> [!TIP]
+> [!IMPORTANT]
 > "If you can not measure it, you can not improve it."<br>- Lord Kelvin
 
 The speed of Redis and the filesystem in general are vastly different on your local setup than on your staging/production server. Evaluate performance under real conditions!
@@ -289,6 +289,7 @@ echo $render;
 ```
 X-Stopwatch-Turbo-Read: 77ms
 X-Stopwatch-Page-Render: 33ms
+X-Stopwatch-Kirby: 123ms
 ```
 
 > [!NOTE]
@@ -296,20 +297,20 @@ X-Stopwatch-Page-Render: 33ms
 
 ## Settings
 
-| bnomei.turbo.                        | Default | Description                                                                                                                                          |
-|--------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| expire                               | `0`     | cache duration where `0` = infinite, `n` = in minutes, `null` = disabled                                                                             |
-| inventory.indexer                    | `fn()`  | `null/find/turbo/closure` with absolute path to indexer binary                                                                                       |
-| inventory.enabled                    | `fn()`  | automatic toggled off for all Kirby internal routes (API, Panel, Media), set `true` to enforce indexer to run                                        |
-| inventory.modified                   | `true`  | flag for indexer to retrieve modification timestamps                                                                                                 |
-| inventory.content                    | `true`  | flag for indexer to retrieve content                                                                                                                 |
-| inventory.read                       | `true`  | allow reading of data returned from indexer in inventory (directory scan and modified timestamps) and storage phase (preloaded content from indexer) |
-| inventory.compression                | `false` | compress store data from indexer                                                                                                                     |
-| storage.read                         | `true`  | read from cache in storage phase (Redis)                                                                                                             |
-| storage.write                        | `true`  | write to cache in storage phase (Redis)                                                                                                              |
-| storage.compression                  | `false` | compress data written in storage phase (Redis)                                                                                                       |
-| preload-redis.validate-value-as-json | `true`  | fail on invalid JSON, Kirby would otherwise default to writing an empty string                                                                       |
-| preload-redis.json-encode-flags      | `JSON_THROW_ON_ERROR`  | sane default for encoding, could be extended with `JSON_INVALID_UTF8_IGNORE` etc.                                                                    |
+| bnomei.turbo.                        | Default               | Description                                                                                                                                          |
+|--------------------------------------|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| expire                               | `0`                   | cache duration where `0` = infinite, `n` = in minutes, `null` = disabled                                                                             |
+| inventory.indexer                    | `fn()`                | `null/find` or `closure` with absolute path to indexer binary                                                                                        |
+| inventory.enabled                    | `fn()`                | automatic toggled off for all Kirby internal routes (API, Panel, Media), set `true` to enforce indexer to run                                        |
+| inventory.modified                   | `true`                | flag for indexer to retrieve modification timestamps                                                                                                 |
+| inventory.content                    | `true`                | flag for indexer to retrieve content                                                                                                                 |
+| inventory.read                       | `true`                | allow reading of data returned from indexer in inventory (directory scan and modified timestamps) and storage phase (preloaded content from indexer) |
+| inventory.compression                | `false`               | compress store data from indexer                                                                                                                     |
+| storage.read                         | `true`                | read from cache in storage phase (Redis)                                                                                                             |
+| storage.write                        | `true`                | write to cache in storage phase (Redis)                                                                                                              |
+| storage.compression                  | `false`               | compress data written in storage phase (Redis)                                                                                                       |
+| preload-redis.validate-value-as-json | `true`                | fail on invalid JSON, Kirby would otherwise default to writing an empty string                                                                       |
+| preload-redis.json-encode-flags      | `JSON_THROW_ON_ERROR` | sane default for encoding, could be extended with `JSON_INVALID_UTF8_IGNORE` etc.                                                                    |
 
 ## Disclaimer
 
