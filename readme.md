@@ -64,8 +64,8 @@ return [
 ];
 ```
 
-> [!TIP]
-> Using different databases in Redis based caches helps avoiding unintended flushes from one cache-driver.
+> [!CAUTION]
+> Turbo defaults to Redis database `0`. Using different databases in Redis based caches helps avoiding unintended flushes from one cache-driver to another and to production databases! Adjust as needed.
 
 ## Caching Layers
 
@@ -256,7 +256,7 @@ App::plugin('my/storage', [
 ]);
 ```
 
-> [!CAUTION]
+> [!WARNING]
 > You will most certainly not have to do that ever, unless you query the majority of all of your files in a single request.
 
 ## Performance
