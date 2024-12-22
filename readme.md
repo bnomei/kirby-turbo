@@ -299,10 +299,20 @@ X-Stopwatch-Page-Render: 33ms
 
 ## Settings
 
-| bnomei.turbo. | Default | Description |
-|---------------|---------|-------------|
-| xxx           | `xxx`   | xxx         |
-
+| bnomei.turbo.                        | Default | Description                                                                                                                                          |
+|--------------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| expire                               | `0`     | cache duration where `0` = infinite, `n` = in minutes, `null` = disabled                                                                             |
+| inventory.indexer                    | `fn()`  | `null/find/turbo/closure` with absolute path to indexer binary                                                                                       |
+| inventory.enabled                    | `fn()`  | automatic toggled off for all Kirby internal routes (API, Panel, Media), set `true` to enforce indexer to run                                        |
+| inventory.modified                   | `true`  | flag for indexer to retrieve modification timestamps                                                                                                 |
+| inventory.content                    | `true`  | flag for indexer to retrieve content                                                                                                                 |
+| inventory.read                       | `true`  | allow reading of data returned from indexer in inventory (directory scan and modified timestamps) and storage phase (preloaded content from indexer) |
+| inventory.compression                | `false` | compress store data from indexer                                                                                                                     |
+| storage.read                         | `true`  | read from cache in storage phase (Redis)                                                                                                             |
+| storage.write                        | `true`  | write to cache in storage phase (Redis)                                                                                                              |
+| storage.compression                  | `false` | compress data written in storage phase (Redis)                                                                                                       |
+| preload-redis.validate-value-as-json | `true`  | fail on invalid JSON, Kirby would otherwise default to writing an empty string                                                                       |
+| preload-redis.json-encode-flags      | `JSON_THROW_ON_ERROR`  | sane default for encoding, could be extended with `JSON_INVALID_UTF8_IGNORE` etc.                                                                    |
 
 ## Disclaimer
 
