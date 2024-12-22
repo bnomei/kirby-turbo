@@ -10,7 +10,6 @@ use Kirby\Cms\File;
 use Kirby\Cms\ModelWithContent;
 use Kirby\Content\Field;
 use Kirby\Toolkit\A;
-use Kirby\Toolkit\Collection;
 use ReflectionClass;
 
 final class Turbo
@@ -288,8 +287,13 @@ final class Turbo
         $enabled = $this->options['inventory.enabled'];
         if ($enabled instanceof \Closure) {
             $enabled = $enabled();
+            // store resolved so the closure does not trigger again
             $this->options['inventory.enabled'] = $enabled;
-            $this->options['inventory.read'] = $enabled;
+            // set the read to the detected-desired value
+            // but do not enable if was disabled!
+            if ($this->options['inventory.read'] !== false) {
+                $this->options['inventory.read'] = $enabled;
+            }
         }
 
         return $enabled;
@@ -343,9 +347,9 @@ final class Turbo
 
     private static ?self $singleton = null;
 
-    public static function singleton(array $options = []): Turbo
+    public static function singleton(array $options = [], bool $force = false): Turbo
     {
-        if (self::$singleton === null) {
+        if ($force || self::$singleton === null) {
             self::$singleton = new Turbo($options);
         }
 

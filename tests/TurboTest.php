@@ -4,15 +4,12 @@ use Bnomei\AbortCachingException;
 use Bnomei\Turbo;
 use Bnomei\TurboRedisCache;
 use Bnomei\TurboStopwatch;
+use Bnomei\TurboStorage;
 use Bnomei\TurboUuidCache;
 use Kirby\Cms\Collection;
 use Kirby\Filesystem\Dir;
 use Kirby\Filesystem\F;
 use Kirby\Uuid\Uuids;
-
-beforeEach(function () {
-    tub()->flush();
-});
 
 it('has a custom UUID cache-driver that uses a single file', function () {
     Uuids::populate();
@@ -25,9 +22,50 @@ it('has a custom UUID cache-driver that uses a single file', function () {
         ->and(F::read($cache->root().'/uuids.cache'))->toContain("page/L8/EgxOu9xdHGpzVg\t$id\n");
 });
 
-it('has a global singleton helper', function () {
+it('has a global singleton helper that know its models', function () {
     $turbo = turbo();
-    expect($turbo)->toBeInstanceOf(Turbo::class);
+    $models = $turbo->modelsWithTurbo();
+    $filenamePatterns = $turbo->modelsWithTurboFilenamePatterns();
+
+    expect($turbo)->toBeInstanceOf(Turbo::class)
+        ->and($models)->toHaveCount(20)
+        ->and($models)->toContain('actor')
+        ->and($models)->toContain('actors')
+        ->and($filenamePatterns)->toHaveCount(20)
+        ->and($filenamePatterns)->toContain('actor.txt')
+        ->and($filenamePatterns)->toContain('actors.txt');
+});
+
+it('can run the find-indexer', function () {
+    $t = new Turbo([
+        'inventory.indexer' => 'find',
+        'inventory.modified' => false,
+    ]);
+
+    $out = explode(PHP_EOL, $t->execWithFind());
+
+    expect($out)->toContain('customer/leah-curtis/customer.txt')
+        ->and($out)->toContain('film/italian-african/film.txt')
+        ->and(count($out))->toBeGreaterThanOrEqual(20_000);
+});
+
+it('can run the turbo-indexer', function () {
+    $t = new Turbo([
+        // 'inventory.indexer' => 'turbo', // use auto-detect
+        'inventory.modified' => true,
+        'inventory.content' => true,
+    ]);
+
+    $out = json_decode($t->execWithTurbo(), true);
+    $firstFile = array_shift($out['files']);
+
+    expect($t->options['inventory.indexer'])->toContain('/turbo')
+        ->and(count($out['files']))->toBeGreaterThanOrEqual(20_000)
+        ->and($firstFile['modified'])->toBeInt()
+        ->and($firstFile['content'])->toBeArray()
+        ->and(count($firstFile['content']))->toBeGreaterThan(0)
+        ->and($firstFile['dir'])->toStartWith('@/')
+        ->and($firstFile['path'])->toStartWith($firstFile['dir']);
 });
 
 it('can flush caches', function () {
@@ -65,12 +103,14 @@ it('has a global cache helper: tub', function () {
     $tub = tub();
     expect($tub)->toBeInstanceOf(TurboRedisCache::class);
 
+    tub()->flush();
     tub()->set('key', 'value');
     $value = tub()->get('key');
     expect($value)->toBe('value');
 });
 
 it('tub can use getOrSet and closures', function () {
+    tub()->flush();
     tub()->set('key', fn () => 'value');
     $value = tub()->getOrSet('key', fn () => 'value2');
     expect($value)->toBe('value');
@@ -80,6 +120,7 @@ it('tub can use getOrSet and closures', function () {
 });
 
 it('tub can serialize keys', function () {
+    tub()->flush();
     $films = page('film')->children();
     $filmTitles = $films->pluck('title', 'slug');
     $filmCount = $films->count();
@@ -90,6 +131,7 @@ it('tub can serialize keys', function () {
 });
 
 it('tub can serialize values', function () {
+    tub()->flush();
     $films = page('film')->children();
     $firstFilm = $films->first();
 
@@ -101,6 +143,7 @@ it('tub can serialize values', function () {
 });
 
 it('tub can abort', function () {
+    tub()->flush();
     $page = page('film')->children()->first();
     $value = tub()->getOrSet($page->id(), function () use ($page) {
         if ($page->title()->value() === 'ACADEMY DINOSAUR') { // up to you
@@ -144,4 +187,44 @@ it('can stop times and get duration', function () {
     expect($duration)->not()->toBeNull()
         ->and($duration)->toBeGreaterThanOrEqual(1)
         ->and(TurboStopwatch::header('abc.d', true))->toBe('X-Stopwatch-Abc-D: '.$duration.'ms');
+});
+
+it('can read from the inventory cache for a model with turbo via the storage class', function () {
+    Turbo::singleton([
+        'inventory.read' => true,
+        'storage.read' => true,
+    ], true);
+
+    $page = page('film')->children()->first();
+    expect($page->hasTurbo())->toBeTrue()
+        ->and($page->storage())->toBeInstanceOf(TurboStorage::class)
+        ->and($page->modified())->toBeInt()
+        ->and($page->title()->value())->toBe('ACADEMY DINOSAUR');
+});
+
+it('can read from the storage cache (skipping the inventory) for a model with turbo via the storage class', function () {
+    Turbo::singleton([
+        'inventory.read' => false,
+        'storage.read' => true,
+    ], true);
+
+    $page = page('film')->children()->first();
+    expect($page->hasTurbo())->toBeTrue()
+        ->and($page->storage())->toBeInstanceOf(TurboStorage::class)
+        ->and($page->modified())->toBeInt()
+        ->and($page->title()->value())->toBe('ACADEMY DINOSAUR');
+});
+
+it('can read from the raw content file (skipping storage and inventory cache) for a model with turbo via the storage class', function () {
+    Turbo::singleton([
+        'inventory.read' => false,
+        'storage.read' => false,
+    ], true);
+
+    /** @var \Bnomei\TurboPage $page */
+    $page = page('film')?->children()->first();
+    expect($page->hasTurbo())->toBeTrue()
+        ->and($page->storage())->toBeInstanceOf(TurboStorage::class)
+        ->and($page->modified())->toBeInt()
+        ->and($page->title()->value())->toBe('ACADEMY DINOSAUR');
 });

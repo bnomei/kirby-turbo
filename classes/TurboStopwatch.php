@@ -44,8 +44,11 @@ class TurboStopwatch
         return (int) round(($after - $before) * 1000);
     }
 
-    public static function header(string $event, bool $return = false): string|null
+    public static function header(string $event, bool $return = false): ?string
     {
+        // fail-safe in case someone feeds in a hook like format
+        $event = explode(':', $event)[0];
+
         $duration = static::duration($event);
         if ($duration === null) {
             return null;
@@ -54,6 +57,7 @@ class TurboStopwatch
         $header = 'X-Stopwatch-'.implode('-', array_map('ucfirst', explode('-', str_replace('.', '-', $event)))).': '.$duration.'ms';
         if ($return === false) {
             header($header);
+
             return null;
         }
 

@@ -11,11 +11,6 @@
 
 Speed up Kirby with caching
 
-## TODOS
-
-- [ ] unit tests
-- [ ] benchmark
-
 ## Installation
 
 - unzip [master.zip](https://github.com/bnomei/kirby-turbo/archive/master.zip) as folder `site/plugins/kirby-turbo` or

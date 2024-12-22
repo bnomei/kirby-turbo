@@ -99,7 +99,8 @@ class TurboRedisCache extends RedisCache
         return parent::get($this->key($key), $default);
     }
 
-    public function getOrSet(string $key, \Closure $result, int $minutes = 0) {
+    public function getOrSet(string $key, \Closure $result, int $minutes = 0)
+    {
         $value = $this->get($key);
 
         // allow for abort via exception

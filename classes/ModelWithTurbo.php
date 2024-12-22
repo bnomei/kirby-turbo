@@ -5,7 +5,6 @@ declare(strict_types=1);
 namespace Bnomei;
 
 use Kirby\Cms\File;
-use Kirby\Cms\ModelWithContent;
 use Kirby\Content\Storage;
 
 trait ModelWithTurbo
