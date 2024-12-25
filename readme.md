@@ -7,7 +7,7 @@
 [![Coverage](https://flat.badgen.net/codeclimate/coverage/bnomei/kirby-turbo?icon=codeclimate&label)](https://codeclimate.com/github/bnomei/kirby-turbo)
 [![Maintainability](https://flat.badgen.net/codeclimate/maintainability/bnomei/kirby-turbo?icon=codeclimate&label)](https://codeclimate.com/github/bnomei/kirby-turbo/issues)
 [![Discord](https://flat.badgen.net/badge/discord/bnomei?color=7289da&icon=discord&label)](https://discordapp.com/users/bnomei)
-[![Buymecoffee](https://flat.badgen.net/badge/icon/donate?icon=buymeacoffee&color=FF813F&label)](https://www.buymeacoffee.com/bnomei)
+[![Buy License](https://flat.badgen.net/badge/icon/Buy%20License?icon=lemonsqueeze&color=FFC233&label=$)](https://buy-turbo.bnomei.com)
 
 Speed up Kirby with caching
 
@@ -16,6 +16,10 @@ Speed up Kirby with caching
 - unzip [master.zip](https://github.com/bnomei/kirby-turbo/archive/master.zip) as folder `site/plugins/kirby-turbo` or
 - `git submodule add https://github.com/bnomei/kirby-turbo.git site/plugins/kirby-turbo` or
 - `composer require bnomei/kirby-turbo`
+
+## Licensing
+
+Kirby Turbo is a commercial plugin that requires a license. You can install and test the plugin locally without a license. However, production environments require a valid license. You can [purchase a license here](https://buy-turbo.bnomei.com).
 
 ## Overview
 
@@ -299,6 +303,7 @@ X-Stopwatch-Kirby: 123ms
 
 | bnomei.turbo.                        | Default               | Description                                                                                                                                          |
 |--------------------------------------|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| license                              | `string/fn()`         | Enter your license key. You need to [buy a license](https://buy-turbo.bnomei.com) for non-development environments.                                                              |
 | expire                               | `0`                   | cache duration where `0` = infinite, `n` = in minutes, `null` = disabled                                                                             |
 | inventory.indexer                    | `fn()`                | `null/find` or `closure` with absolute path to indexer binary                                                                                        |
 | inventory.enabled                    | `fn()`                | automatic toggled off for all Kirby internal routes (API, Panel, Media), set `true` to enforce indexer to run                                        |
@@ -316,8 +321,6 @@ X-Stopwatch-Kirby: 123ms
 
 This plugin is provided "as is" with no guarantee. You can use it at your own risk and always test it before using it in a production environment. If you find any issues, please [create a new issue](https://github.com/bnomei/kirby-turbo/issues/new).
 
-## License
+### License
 
-[MIT](https://opensource.org/licenses/MIT)
-
-It is discouraged to use this plugin in any project that promotes racism, sexism, homophobia, animal abuse, violence or any other form of hate speech.
+Kirby Turbo License © 2025-PRESENT Bruno Meilick

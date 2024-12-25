@@ -5,6 +5,7 @@ parameters:
         - index.php
     excludePaths:
         - tests
+        - classes/TurboLicense.php
 
     ignoreErrors:
         # - '#Undefined variable: \$this#'
