@@ -62,7 +62,7 @@ class TurboLicense extends License
             return new LicenseStatus(
                 value: 'missing',
                 icon: 'cart',
-                label: t('license.buy').' ('.t('license.status.demo.label').')',
+                label: t('license.buy'),
                 theme: 'love',
             );
         }
