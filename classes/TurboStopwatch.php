@@ -65,21 +65,25 @@ class TurboStopwatch
     }
 
     /*
- * miss|static
- */
-    public static function serverTimingHeader(string $cache = 'miss'): void
+     * miss|static
+     */
+    public static function serverTiming(string $cacheDesc = 'miss', bool $return = false): ?string
     {
-        $msg = '';
-        $data = [
-            'cache' => $cache,
-        ];
+        $header = 'Cache;desc='.$cacheDesc.',';
+        $data = [];
         foreach (static::events() as $event) {
-            $data[$event] = static::duration($event).'ms';
+            $data[$event] = static::duration($event);
         }
-        foreach ($data as $key => $value) {
-            $msg .= Str::snake(str_replace('.', '_', $key)).';desc="'.$value.'",';
+        foreach ($data as $key => $dur) {
+            $header .= Str::kebabToCamel(str_replace('.', '-', $key)).';dur='.str_replace(',', '.', $dur).',';
+        }
+        $header = 'Server-Timing: '.rtrim($header, ',');
+        if ($return === false) {
+            header($header);
+
+            return null;
         }
 
-        header('server-timing: '.rtrim($msg, ','));
+        return $header;
     }
 }

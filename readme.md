@@ -287,6 +287,9 @@ $render = $kirby->render();
 \Bnomei\TurboStopwatch::header('page.render'); // turbo tracks that for you
 \Bnomei\TurboStopwatch::header('kirby');       // total time spent by Kirby
 
+// or https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Server-Timing
+\Bnomei\TurboStopwatch::serverTiming();        // all events in a single header
+
 echo $render;
 ```
 
@@ -294,6 +297,7 @@ echo $render;
 X-Stopwatch-Turbo-Read: 77ms
 X-Stopwatch-Page-Render: 33ms
 X-Stopwatch-Kirby: 123ms
+Server-Timing: Cache;desc=miss,Kirby;dur=187,Route;dur=3,TurboRead;dur=90,TurboInventoryCache;dur=90,PageRender;dur=62
 ```
 
 > [!NOTE]
