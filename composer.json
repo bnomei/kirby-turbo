@@ -3,7 +3,7 @@
     "type": "kirby-plugin",
     "version": "5.0.0",
     "description": "Speed up Kirby with caching",
-    "license": "MIT",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Bruno Meilick",

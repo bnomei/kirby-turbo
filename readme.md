@@ -325,6 +325,6 @@ Server-Timing: Cache;desc=miss,Kirby;dur=187,Route;dur=3,TurboRead;dur=90,TurboI
 
 This plugin is provided "as is" with no guarantee. You can use it at your own risk and always test it before using it in a production environment. If you find any issues, please [create a new issue](https://github.com/bnomei/kirby-turbo/issues/new).
 
-### License
+## License
 
 Kirby Turbo License © 2025-PRESENT Bruno Meilick
