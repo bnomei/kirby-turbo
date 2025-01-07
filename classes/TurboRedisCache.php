@@ -2,6 +2,7 @@
 
 namespace Bnomei;
 
+use DateTime;
 use Kirby\Cache\RedisCache;
 use Kirby\Cache\Value;
 use Kirby\Toolkit\A;
@@ -43,7 +44,7 @@ class TurboRedisCache extends RedisCache
     /**
      * {@inheritDoc}
      */
-    public function set(string|array $key, mixed $value, int $minutes = 0): bool
+    public function set(string|array $key, mixed $value, int|string $minutes = 0): bool
     {
         // flatten kirby fields but not models
         $value = Turbo::serialize($value, false);
@@ -56,6 +57,9 @@ class TurboRedisCache extends RedisCache
         }
 
         $key = $this->key($key);
+        if (is_string($minutes)) {
+            $minutes = (int) round(((new DateTime($minutes))->getTimestamp() - time()) / 60);
+        }
         $value = new Value($value, $minutes);
 
         // store a copy in memory
@@ -99,7 +103,7 @@ class TurboRedisCache extends RedisCache
         return parent::get($this->key($key), $default);
     }
 
-    public function getOrSet(string $key, \Closure $result, int $minutes = 0) // @phpstan-ignore-line
+    public function getOrSet(string $key, \Closure $result, int|string $minutes = 0) // @phpstan-ignore-line
     {
         $value = $this->get($key);
 

@@ -165,6 +165,14 @@ tub()->set(
 );
 ```
 
+### Expiration from human-readable strings
+The `expire` parameter defaults to `0` which means storing the cached value forever. You can provide an `int` in minutes for how long you want the cache to be valid. With `tub()` you can also set human-readable strings which will be converted to minutes using the [core PHP `DateTime` class](https://www.php.net/manual/en/class.datetime.php).
+
+```php
+tub()->set('key', fn () => 'value', 'next monday');
+tub()->set('key', fn () => 'value', 'last day of this month 23:59:59');
+```
+
 ### Set abortion
 When using a closure as value you can abort setting the value on demand. This is handy if you while creating the cache value your decide to rather not store that value after all.
 
@@ -182,7 +190,7 @@ $value = tub()->getOrSet($key, function() use ($page) {
 ```
 
 ### JSON Safety
-You can double check if the data can be safely stored as JSON (see settings).
+It will double check if the data can be safely stored as JSON (see settings).
 
 ## 🛀 tubs() or the TurboStaticCache Helper
 
@@ -223,6 +231,27 @@ fields:
   type: blocks
   fieldset:
       - recent-courses
+```
+
+## Other helpers
+
+### $pages/$files->modified(): ?int
+You can get the most current modified timestamp of any Pages/Files-Collection with this helpers.
+
+```php
+echo page('film')->children()->modified();           // 1734873708
+echo page('actors/adam-grant')->files()->modified(); // 1737408738
+```
+
+### $site->modifiedTurbo(): int
+Using the Kirby core `site()->modified()` to get the most current modified timestamp is not efficient as it will recursively walk all dirs and query all files in the content folder. Turbo adds a helper that will query its inventory cache instead.
+
+```php
+// Kirby core will scan all dirs and all files
+echo site()->modified();
+
+// new helper reads from turbo inventory cache
+echo site()->modifiedTurbo(); // 1734873708
 ```
 
 ## Inventory Indexer Command(s)

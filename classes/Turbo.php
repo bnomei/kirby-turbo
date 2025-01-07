@@ -299,8 +299,21 @@ final class Turbo
         return $enabled;
     }
 
-    public function modified(string $root): ?int
+    public function modified(?string $root = null): ?int
     {
+        // site()->modified() variant
+        if (! $root) {
+            $modified = null;
+            foreach ($this->files() as $file) {
+                $m = A::get($file, 'modified');
+                if (! $modified || ($m && $m > $modified)) {
+                    $modified = $m;
+                }
+            }
+
+            return $modified;
+        }
+
         return A::get($this->files(), '#'.hash('xxh3', $root).'.modified', null);
     }
 

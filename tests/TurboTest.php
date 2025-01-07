@@ -119,6 +119,18 @@ it('tub can use getOrSet and closures', function () {
     expect($value)->toBe('value3');
 });
 
+
+it('tub can use set with an expire based on human readable strings', function () {
+    tub()->flush();
+    tub()->set('key', fn () => 'value', 'last day of this month 23:59:59');
+    $value = tub()->get('key');
+    expect($value)->toBe('value');
+
+    tub()->set('key2', fn () => 'value2', 'next monday');
+    $value = tub()->get('key2');
+    expect($value)->toBe('value2');
+});
+
 it('tub can serialize keys', function () {
     tub()->flush();
     $films = page('film')->children();
@@ -227,4 +239,18 @@ it('can read from the raw content file (skipping storage and inventory cache) fo
         ->and($page->storage())->toBeInstanceOf(TurboStorage::class)
         ->and($page->modified())->toBeInt()
         ->and($page->title()->value())->toBe('ACADEMY DINOSAUR');
+});
+
+it('has a pages method to get the most recent modified timestamp of a collection of pages', function () {
+    $pages = page('film')->children();
+    expect($pages->modified())->toBeInt();
+});
+
+it('has a files method to get the most recent modified timestamp of a collection of files', function () {
+    $files = page('film')->children()->files();
+    expect($files->modified())->toBeNull(); // test setup does not have any File Models in Pages
+});
+
+it('has a site method to get the most recent modified timestamp all files', function () {
+    expect(site()->modifiedTurbo())->toBeInt();
 });

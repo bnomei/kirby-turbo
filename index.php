@@ -225,4 +225,37 @@ Kirby::plugin(
                 return $html;
             },
         ],
+        'siteMethods' => [
+            'modifiedTurbo' => function (): int {
+                return \Bnomei\Turbo::singleton()->modified();
+            },
+        ],
+        'pagesMethods' => [
+            'modified' => function (): ?int {
+                /* @var \Kirby\Cms\Pages $this */
+                $modified = null;
+                foreach ($this as $page) {
+                    $m = $page->modified();
+                    if (! $modified || ($m && $m > $modified)) {
+                        $modified = $m;
+                    }
+                }
+
+                return $modified;
+            },
+        ],
+        'filesMethods' => [
+            'modified' => function (): ?int {
+                /* @var \Kirby\Cms\Files $this */
+                $modified = null;
+                foreach ($this as $file) {
+                    $m = $file->modified();
+                    if (! $modified || ($m && $m > $modified)) {
+                        $modified = $m;
+                    }
+                }
+
+                return $modified;
+            },
+        ],
     ]);
