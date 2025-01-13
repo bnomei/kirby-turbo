@@ -194,22 +194,22 @@ Kirby::plugin(
                     \Bnomei\TurboStopwatch::tick('route:after');
                 }
             },
-            'site.*:after' => function ($event, $site) {
+            'site.*:before' => function ($event, $site) {
                 if ($event->action() !== 'render') {
                     \Bnomei\Turbo::flush('inventory');
                 }
             },
-            'page.*:after' => function ($event, $page) {
+            'page.*:before' => function ($event, $page) {
                 if ($event->action() !== 'render') {
                     \Bnomei\Turbo::flush('inventory');
                 }
             },
-            'file.*:after' => function ($event, $file) {
+            'file.*:before' => function ($event, $file) {
                 if ($event->action() !== 'render') {
                     \Bnomei\Turbo::flush('inventory');
                 }
             },
-            'user.*:after' => function ($event, $user) {
+            'user.*:before' => function ($event, $user) {
                 if ($event->action() !== 'render') {
                     \Bnomei\Turbo::flush('inventory');
                 }
