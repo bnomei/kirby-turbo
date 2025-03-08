@@ -23,12 +23,12 @@ Kirby Turbo is a commercial plugin that requires a license. You can install and 
 
 ## Overview
 
-|        |                                                                                                                                                             |
-|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 📕     | Turbo relies on **Redis** being available.                                                                                                                  |
+|        |                                                                                                                                                          |
+|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 📕     | Turbo relies on **Redis** being available and when installed it will use the  msg_pack or igbinary PHP extensions to serialize data instead of JSON.     |
 | 🔍🗄🆔 | Turbo adds automatic caching layers to Kirby on scanning the directory inventory, reading the content files from storage and in-between the UUID lookup. |
-| 🏋️    | While you could use Turbo in almost any project, you will benefit the most, in those project where you **query 100+ pages/files in a single request**.      |
-| 🛁     | Turbo provides a global cache helpers `tub()` that has advanced features like key/value serialization, optional set-abortion and more.                      |
+| 🏋️    | While you could use Turbo in almost any project, you will benefit the most, in those project where you **query 100+ pages/files in a single request**.   |
+| 🛁     | Turbo provides a global cache helpers `tub()` that has advanced features like key/value serialization, optional set-abortion and more.                   |
 
 
 ## Quickstart
@@ -190,7 +190,10 @@ $value = tub()->getOrSet($key, function() use ($page) {
 ```
 
 ### JSON Safety
-It will double check if the data can be safely stored as JSON (see settings).
+Turbo will double check if the data can be safely stored as JSON (see settings).
+
+### msg_pack and igbinary PHP extensions
+If your server has either the [msg_pack](https://msgpack.org) and [igbinary](https://github.com/igbinary/igbinary/) PHP extensions installed (via PECL) then Turbo will use these to serialize the data and not store it as JSON. Why? Because they are a bit faster on serialization, about 2x faster when deserializing and can produce smaller output sizes.
 
 ## 🛀 tubs() or the TurboStaticCache Helper
 

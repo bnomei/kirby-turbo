@@ -49,7 +49,7 @@ Kirby::plugin(
                 // add a IO mirror cache for the content storage
                 'read' => true,
                 'write' => true,
-                'compression' => false,
+                'compression' => false, // do not use with msg_pack or igbinary
             ],
 
             // cmd to scan for files with timestamp and maybe content

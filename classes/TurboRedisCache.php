@@ -60,7 +60,7 @@ class TurboRedisCache extends RedisCache
         if (is_string($minutes)) {
             $minutes = (int) round(((new DateTime($minutes))->getTimestamp() - time()) / 60);
         }
-        $value = new Value($value, $minutes);
+        $value = new TurboValue($value, $minutes);
 
         // store a copy in memory
         $this->data[$key] = $value;
@@ -88,7 +88,8 @@ class TurboRedisCache extends RedisCache
         }
 
         // else load and store copy
-        $value = parent::retrieve($key);
+        $value = strval($this->connection->get($this->key($key))); // @phpstan-ignore-line
+        $value = TurboValue::fromJson($value);
         $this->data[$key] = $value;
 
         return $value;
