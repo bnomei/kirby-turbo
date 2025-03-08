@@ -32,9 +32,11 @@ Kirby::plugin(
         'options' => [
             'license' => '', // set your license from https://buy-turbo.bnomei.com code in the config `bnomei.turbo.license`
             'cache' => [
-                // most stuff can use the default cache but the cmd output needs its own so it can be configured
-                // to load from that with turbo-redis (preload ALL) without the rest of the caches to be on it
-                'inventory' => ['active' => true, 'type' => 'file'],
+                // most stuff can use the default cache.
+                // if you use preload-redis for the  cmd output it needs its own without the rest of the caches to be on it
+                'inventory' => ['active' => true, 'type' => 'turbo-file'],
+                // 'inventory' => ['active' => true, 'type' => 'file'],
+                // 'inventory' => ['active' => true, 'type' => 'preload-redis', 'database' => 15],
 
                 // one to store the content mirror
                 'storage' => ['active' => true, 'type' => 'redis', 'database' => 0],
@@ -80,6 +82,7 @@ Kirby::plugin(
         'cacheTypes' => [
             'preload-redis' => \Bnomei\PreloadRedisCache::class,
             'turbo-redis' => \Bnomei\TurboRedisCache::class,
+            'turbo-file' => \Bnomei\TurboFileCache::class,
             'turbo-uuid' => \Bnomei\TurboUuidCache::class,
         ],
         'commands' => [

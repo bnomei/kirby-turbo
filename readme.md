@@ -23,12 +23,12 @@ Kirby Turbo is a commercial plugin that requires a license. You can install and 
 
 ## Overview
 
-|        |                                                                                                                                                          |
-|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 📕     | Turbo relies on **Redis** being available and when installed it will use the  msg_pack or igbinary PHP extensions to serialize data instead of JSON.     |
-| 🔍🗄🆔 | Turbo adds automatic caching layers to Kirby on scanning the directory inventory, reading the content files from storage and in-between the UUID lookup. |
-| 🏋️    | While you could use Turbo in almost any project, you will benefit the most, in those project where you **query 100+ pages/files in a single request**.   |
-| 🛁     | Turbo provides a global cache helpers `tub()` that has advanced features like key/value serialization, optional set-abortion and more.                   |
+|        |                                                                                                                                                            |
+|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 📕     | Turbo relies on **Redis** being available and when installed it will use the faster msg_pack or igbinary PHP extensions to serialize data instead of JSON. |
+| 🔍🗄🆔 | Turbo adds automatic caching layers to Kirby on scanning the directory inventory, reading the content files from storage and in-between the UUID lookup.   |
+| 🏋️    | While you could use Turbo in almost any project, you will benefit the most, in those project where you **query 100+ pages/files in a single request**.     |
+| 🛁     | Turbo provides a global cache helpers `tub()` that has advanced features like key/value serialization, optional set-abortion and more.                     |
 
 
 ## Quickstart
@@ -57,7 +57,7 @@ The last step is to configure optimized cache-drivers for various caches. Turbo 
 <?php
 return [
     // ✅ preconfigured defaults
-    // 'bnomei.turbo.cache.inventory' => ['type' => 'file'],
+    // 'bnomei.turbo.cache.inventory' => ['type' => 'turbo-file'],
     // 'bnomei.turbo.cache.storage' => ['type' => 'redis', 'database' => 0],
     // 'bnomei.turbo.cache.tub' => ['type' => 'turbo-redis', 'database' => 0],
     
@@ -69,7 +69,7 @@ return [
 ```
 
 > [!CAUTION]
-> Turbo defaults to Redis database `0`. Using different databases in Redis based caches helps avoiding unintended flushes from one cache-driver to another and to production databases! Adjust as needed.
+> Turbo defaults to Redis database `0`. Using different databases in Redis based caches helps to avoid unintended flushes from one cache-driver to another and to production databases! Adjust as needed.
 
 ## Caching Layers
 
