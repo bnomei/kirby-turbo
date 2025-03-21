@@ -14,4 +14,18 @@ return [
     // 'bnomei.turbo.cache.tub' => ['type' => 'turbo-redis', 'database' => 5], // load this data on demand
 
     'cache' => ['uuid' => ['type' => 'turbo-uuid']],
+
+    'routes' => [
+        [
+            'pattern' => 'all', 'action' => function () {
+                return site()->visit(new \Kirby\Cms\Page([
+                    'slug' => 'all',
+                    'template' => 'all',
+                    'content' => [
+                        'title' => 'All',
+                    ],
+                ]));
+            }
+        ],
+    ],
 ];
