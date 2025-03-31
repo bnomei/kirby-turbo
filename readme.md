@@ -23,12 +23,12 @@ Kirby Turbo is a commercial plugin that requires a license. You can install and 
 
 ## Overview
 
-|        |                                                                                                                                                            |
-|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 📕     | Turbo relies on **Redis** being available and when installed it will use the faster msg_pack or igbinary PHP extensions to serialize data instead of JSON. |
-| 🔍🗄🆔 | Turbo adds automatic caching layers to Kirby on scanning the directory inventory, reading the content files from storage and in-between the UUID lookup.   |
-| 🏋️    | While you could use Turbo in almost any project, you will benefit the most, in those project where you **query 100+ pages/files in a single request**.     |
-| 🛁     | Turbo provides a global cache helpers `tub()` that has advanced features like key/value serialization, optional set-abortion and more.                     |
+|        |                                                                                                                                                          |
+|--------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 📕     | Turbo expects **Redis** to be available and when installed it will use the faster msg_pack or igbinary PHP extensions to serialize data instead of JSON.  |
+| 🔍🗄🆔 | Turbo adds automatic caching layers to Kirby on scanning the directory inventory, reading the content files from storage and in-between the UUID lookup. |
+| 🏋️    | While you could use Turbo in almost any project, you will benefit the most, in those project where you **query 100+ pages/files in a single request**.   |
+| 🛁     | Turbo provides a global cache helpers `tub()` that has advanced features like key/value serialization, optional set-abortion and more.                   |
 
 
 ## Quickstart
@@ -96,6 +96,9 @@ Instead of loading the content from the raw content TXT file every time, Turbo w
 The default cache for UUIDs stores one file per UUID, which is fine if you query only a few UUIDs in a single request. If you read this far you know that you want to load way more than few in your setup and need a better solution. With the `turbo-uuid` cache driver all UUIDs will be preloaded and instantly available. Adding and removing entries a marginally slower. Use it and never look back. 
 
 It requires the unix/Linux/OSX `sed` command to be available.
+
+> [!INFO]
+> Using the default configuration Turbo will find all the content in the `inventory` (which is a single file cache) and never ping Redis at the `storage` layer. Which is very fast and absolutely the intended behaviour.
 
 ### Flushing the Caches
 
