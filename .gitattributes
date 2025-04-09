@@ -12,6 +12,7 @@
 /ray.php            export-ignore
 /pint.json          export-ignore
 /tests              export-ignore
+/screenshot.png     export-ignore
 
 # no rust files
 /turbo              export-ignore

@@ -55,7 +55,7 @@
         "getkirby/composer-installer": "^1.2"
     },
     "require-dev": {
-        "getkirby/cms": "^5.0.0-beta.1",
+        "getkirby/cms": "5.0.0-beta.6",
         "larastan/larastan": "^v3.0.0",
         "laravel/pint": "^1.13",
         "pestphp/pest": "^v3.5.1",

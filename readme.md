@@ -30,7 +30,6 @@ Kirby Turbo is a commercial plugin that requires a license. You can install and 
 | 🏋️    | While you could use Turbo in almost any project, you will benefit the most, in those project where you **query 100+ pages/files in a single request**.   |
 | 🛁     | Turbo provides a global cache helpers `tub()` that has advanced features like key/value serialization, optional set-abortion and more.                   |
 
-
 ## Quickstart
 
 For each page you want Turbo's caching for `storage` and `inventory` you need to create a PageModel either manually by adding the `Bnomei\ModelWithTurbo` Trait ...
@@ -76,6 +75,9 @@ return [
 Once the cache is in place you can expect **consistent load times** independent of the request. The amount of pages/files you are using within a **single request** will not make much of an impact any more since most of the data will be preloaded. But if you use very little of the total cached data it might be slower than raw Kirby.
 
 The load times only concern the loading of content not Kirby having to handle creating less or more models in PHP - that will still have an impact and can not be avoided.
+
+<img src="https://raw.githubusercontent.com/bnomei/kirby-turbo/main/screenshot.png" alt="screenshot" style="width: 100%;" />
+
 
 ### 🔍 Inventory
 
