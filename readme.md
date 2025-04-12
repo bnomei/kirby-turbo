@@ -7,7 +7,7 @@
 [![Coverage](https://flat.badgen.net/codeclimate/coverage/bnomei/kirby-turbo?icon=codeclimate&label)](https://codeclimate.com/github/bnomei/kirby-turbo)
 [![Maintainability](https://flat.badgen.net/codeclimate/maintainability/bnomei/kirby-turbo?icon=codeclimate&label)](https://codeclimate.com/github/bnomei/kirby-turbo/issues)
 [![Discord](https://flat.badgen.net/badge/discord/bnomei?color=7289da&icon=discord&label)](https://discordapp.com/users/bnomei)
-[![Buy License](https://flat.badgen.net/badge/icon/Buy%20License?icon=lemonsqueeze&color=FFC233&label=$)](https://buy-turbo.bnomei.com)
+[![Buy License](https://flat.badgen.net/badge/icon/Buy%20License?icon=lemonsqueezy&color=FFC233&label=$)](https://buy-turbo.bnomei.com)
 
 Speed up Kirby with caching
 
@@ -76,8 +76,7 @@ Once the cache is in place you can expect **consistent load times** independent 
 
 The load times only concern the loading of content not Kirby having to handle creating less or more models in PHP - that will still have an impact and can not be avoided.
 
-<img src="https://raw.githubusercontent.com/bnomei/kirby-turbo/main/screenshot.png" alt="screenshot" style="width: 100%;" />
-
+<a title="click to open" target="_blank" style="cursor: zoom-in;" href="https://raw.githubusercontent.com/bnomei/kirby-turbo/main/screenshot.png"><img src="https://raw.githubusercontent.com/bnomei/kirby-turbo/main/screenshot.png" alt="screenshot" style="width: 100%;" /></a>
 
 ### 🔍 Inventory
 
