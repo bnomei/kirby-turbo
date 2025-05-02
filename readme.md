@@ -207,9 +207,6 @@ While caching data beyond the current request with `tub()` is great, but it can 
 
 Unless you wrap the collection in the following example in the `tubs($key, $closure)` it's content will be evaluated again and again every time a block is evaluated. While you can easily avoid this in your frontend code, in this case the query in the panel will be triggered multiple times when evaluating the options to show on blocks. Once for every block of the same type that you added.
 
-> [!NOTE]
-> For exactly the same reason the excellent ZeroOne Theme switched to PHP based blueprints and added similar static caching. It needed more control over what is loaded when due to it's huge amount of available dynamic options in the blueprints.
-
 **site/plugins/my-example/index.php**
 ```php
 <?php
@@ -221,7 +218,22 @@ Kirby::plugin('my/example', [
         function () {     // value: closure
             return page('courses')->children()->listed()->sortBy('name')->limit(10);
         }
-    )
+    ),
+    // or with an additional cache around the collection itself to minimize the lookup
+    'recent-courses' => tubs(
+        'recent-courses', // key: array|string
+        function () {     // value: closure
+            $uuids = tub()->getOrSet(
+                'recent-courses', 
+                fn() => page('courses')->children()->listed()->sortBy('name')->limit(10)->values(
+                    fn(\Kirby\Cms\Page $p) => $p->uuid()->toString()
+                ),
+                1 // in minutes
+            );
+            
+            return new \Kirby\Cms\Pages($uuids);
+        }
+    ),
 ]);
 ```
 
