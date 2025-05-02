@@ -43,13 +43,13 @@ class ExamplePage extends \Kirby\Cms\Page
 }
 ```
 
-... or in running the following [Kirby CLI](https://github.com/getkirby/cli) command, which will generate a preconfigured model for each of your existing page blueprints (`site/blueprints/pages/*.yml`-files). See further below on how to setup Turbo for Kirby's Site and File Models.
+... or in running the following [Kirby CLI](https://github.com/getkirby/cli) command, which will generate a preconfigured model for each of your existing page blueprints (`site/blueprints/pages/*.yml`-files). See further below on how to set up Turbo for Kirby's Site and File Models.
 
 ```bash
 kirby turbo:models
 ```
 
-The last step is to configure optimized cache-drivers for various caches. Turbo is intended to use in-memory caching with Redis. If you do not have Redis available, then you can not use Turbo.
+The last step is to configure optimized cache-drivers for various caches. Turbo is intended to use in-memory caching with Redis. If you do not have Redis available, then you cannot use Turbo.
 
 **site/config/config.php**
 ```php
@@ -72,17 +72,17 @@ return [
 
 ## Caching Layers
 
-Once the cache is in place you can expect **consistent load times** independent of the request. The amount of pages/files you are using within a **single request** will not make much of an impact any more since most of the data will be preloaded. But if you use very little of the total cached data it might be slower than raw Kirby.
+Once the cache is in place, you can expect **consistent load times** independent of the request. The number of pages/files you are using within a **single request** will not make much of an impact any more since most of the data will be preloaded. But if you use very little of the total cached data, it might be slower than raw Kirby.
 
-The load times only concern the loading of content not Kirby having to handle creating less or more models in PHP - that will still have an impact and can not be avoided.
+The load times only concern the loading of content, not Kirby having to handle creating fewer or more models in PHP - that will still have an impact and cannot be avoided.
 
 <a title="click to open" target="_blank" style="cursor: zoom-in;" href="https://raw.githubusercontent.com/bnomei/kirby-turbo/main/screenshot.png"><img src="https://raw.githubusercontent.com/bnomei/kirby-turbo/main/screenshot.png" alt="screenshot" style="width: 100%;" /></a>
 
 ### 🔍 Inventory
 
-Kirby would usually use PHP `scandir` to walk it's way through your content folder. It will gather the modified timestamps with `filemtime` as well. But it will do that again and again on every request. Turbo adds a cache here and replaces the `inventory()` method on your model to query its `bnomei.turbo.cache.inventory` mono file cache instead. If the cache does not exist, it will try to populate it automatically. The cache will be flushed (and later recreated) every time you modify content in Kirby.
+Kirby would usually use PHP `scandir` to walk its way through your content folder. It will gather the modified timestamps with `filemtime` as well. But it will do that again and again on every request. Turbo adds a cache here and replaces the `inventory()` method on your model to query its `bnomei.turbo.cache.inventory` mono file cache instead. If the cache does not exist, it will try to populate it automatically. The cache will be flushed (and later recreated) every time you modify content in Kirby.
 
-If Turbo's default setting slows down the Panel to much then consider disabling the caching of content with `bnomei.turbo.inventory.content=false`. But that will also remove step 1️⃣ from the `storage` caching layer!
+If Turbo's default setting slows down the Panel too much then consider disabling the caching of content with `bnomei.turbo.inventory.content=false`. But that will also remove step 1️⃣ from the `storage` caching layer!
 
 ### 🗄️ Storage
 
@@ -94,7 +94,7 @@ Instead of loading the content from the raw content TXT file every time, Turbo w
 
 ### 🆔 UUIDs
 
-The default cache for UUIDs stores one file per UUID, which is fine if you query only a few UUIDs in a single request. If you read this far you know that you want to load way more than few in your setup and need a better solution. With the `turbo-uuid` cache driver all UUIDs will be preloaded and instantly available. Adding and removing entries a marginally slower. Use it and never look back. 
+The default cache for UUIDs stores one file per UUID, which is fine if you query only a few UUIDs in a single request. If you read this far, you know that you want to load way more than a few in your setup and need a better solution. With the `turbo-uuid` cache driver all UUIDs will be preloaded and instantly available. Adding and removing entries are marginally slower. Use it and never look back. 
 
 It requires the unix/Linux/OSX `sed` command to be available.
 
@@ -158,7 +158,7 @@ tub()->set([
 ```
 
 ### Serialization
-Keys and values will be serialized. If they contain Kirby Fields these will automatically be resolved to their value. Models, like Pages and Files, will be resolved to their UUIDs + language code. This will allow you to write less code when creating keys/values.
+Keys and values will be serialized. If they contain Kirby Fields, these will automatically be resolved to their value. Models, like Pages and Files, will be resolved to their UUIDs + language code. This will allow you to write less code when creating keys/values.
 
 ```php
 tub()->set($keyCanBeStringOrArray, $dataCanBeArrayAndContainingKirbyFields);
@@ -178,7 +178,7 @@ tub()->set('key', fn () => 'value', 'last day of this month 23:59:59');
 ```
 
 ### Set abortion
-When using a closure as value you can abort setting the value on demand. This is handy if you while creating the cache value your decide to rather not store that value after all.
+When using a closure as value, you can abort setting the value on demand. This is handy, if you are while creating the cache value, you decide to rather not store that value after all.
 
 ```php
 $value = tub()->getOrSet($key, function() use ($page) {
@@ -194,14 +194,14 @@ $value = tub()->getOrSet($key, function() use ($page) {
 ```
 
 ### JSON Safety
-Turbo will double check if the data can be safely stored as JSON (see settings).
+Turbo will double-check if the data can be safely stored as JSON (see settings).
 
 ### msg_pack and igbinary PHP extensions
 If your server has either the [msg_pack](https://msgpack.org) and [igbinary](https://github.com/igbinary/igbinary/) PHP extensions installed (via PECL) then Turbo will use these to serialize the data and not store it as JSON. Why? Because they are a bit faster on serialization, about 2x faster when deserializing and can produce smaller output sizes.
 
 ## 🛀 tubs() or the TurboStaticCache Helper
 
-While caching data beyond the current request with `tub()` is great, but it can not solve one issue well and that is **repeated calls to the same data within a single request**. This might sound silly at first but it happens in a lot of places you might not be aware of. The Kirby collections and the Panel queries being prime suspects. Turbo provides the `tubs()`-helper to help you elevate these issues.
+While caching data beyond the current request with `tub()` is great, but it cannot solve one issue well and that is **repeated calls to the same data within a single request**. This might sound silly at first, but it happens in a lot of places you might not be aware of. The Kirby collections and the Panel queries are prime suspects. Turbo provides the `tubs()`-helper to help you elevate these issues.
 
 ### Example: Using tubs() for caching collections used in the Panel queries
 
@@ -282,11 +282,11 @@ Turbo has two built-in indexer commands, `find` and `turbo` (default). Both can 
 
 > [!TIP]
 > You can use the `bnomei.turbo.inventory.indexer` config option to set a custom binary location in case the automatic detection fails. <br>
-> Make sure the `turbo` binaries are executable by the user running the php-fpm or it will fail.
+> Make sure the `turbo` binaries are executable by the user running the php-fpm, or it will fail.
 
 ## Site and Files
 
-Turbo will provide the `inventory` cache layer for files based on its page model. If you want the `storage` cache layer as well you would need to opt-in to have ALL models with that storage component and set the global storage component to Turbo. But unless you query the majority of all of your files in a single request, this makes no sense. 
+Turbo will provide the `inventory` cache layer for files based on its page model. If you want the `storage` cache layer as well you would need to opt in to have ALL models with that storage component and set the global storage component to Turbo. But unless you query the majority of all of your files in a single request, this makes no sense. 
 
 > [!WARNING]
 > You will most certainly not have to set the global storage component to Turbo ever, unless you query the majority of all of your **files** (in addition to pages) in a single request. The global storage component in Kirby is intended for implementations to read/write all content from something like AWS-S3 or MySQL and not directly, like Turbo does, injecting a caching layer for selected models. Anyway, you have been warned. Here is how to do it.
