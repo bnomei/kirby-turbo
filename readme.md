@@ -255,7 +255,7 @@ fields:
 ## Other helpers
 
 ### $pages/$files->modified(): ?int
-You can get the most current modified timestamp of any Pages/Files-Collection with this helpers.
+You can get the most current modified timestamp of any Pages/Files-Collection with this helper.
 
 ```php
 echo page('film')->children()->modified();           // 1734873708
