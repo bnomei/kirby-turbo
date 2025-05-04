@@ -61,7 +61,7 @@ return [
     // 'bnomei.turbo.cache.tub' => ['type' => 'turbo-redis', 'database' => 0],
     
     // ⚠️ the UUID cache-driver you need to set yourself!
-    'cache' => ['uuid' => ['type' => 'turbo-uuid']],
+    'cache' => ['uuid' => ['type' => 'turbo-uuid']],  // exec() + sed
     
     // ... other options
 ];
