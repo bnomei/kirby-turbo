@@ -94,7 +94,8 @@ final class Turbo
             str_ends_with($output, '}')
         ) {
             $output = str_replace('"@/', '"'.$root.'/', $output);
-            if ($all = json_decode($output, true)) {
+            $all = json_decode($output, true);
+            if (is_array($all)) {
                 return [
                     'files' => A::get($all, 'files', []),
                     'dirs' => A::get($all, 'dirs', []),

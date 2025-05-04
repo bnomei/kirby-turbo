@@ -40,7 +40,7 @@ class TurboFileCache extends FileCache
 
         $key = $this->key($key);
         if (is_string($minutes)) {
-            $minutes = (int) round(((new DateTime($minutes))->getTimestamp() - time()) / 60);
+            $minutes = (int) round(((new \DateTime($minutes))->getTimestamp() - time()) / 60);
         }
         $value = new TurboValue($value, $minutes);
 

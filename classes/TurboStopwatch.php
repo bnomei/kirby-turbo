@@ -83,7 +83,17 @@ class TurboStopwatch
             $data[$event] = static::duration($event);
         }
         foreach ($data as $key => $dur) {
-            $header .= Str::kebabToCamel(str_replace('.', '-', $key)).';dur='.str_replace(',', '.', $dur).',';
+            if (! is_int($dur)) {
+                continue;
+            }
+            $dur = strval($dur);
+
+            $header .= implode('', [
+                Str::kebabToCamel(str_replace('.', '-', $key)),
+                ';dur=',
+                strval(str_replace(',', '.', $dur)),
+                ',',
+            ]);
         }
         $header = 'Server-Timing: '.rtrim($header, ',');
         if ($return === false) {

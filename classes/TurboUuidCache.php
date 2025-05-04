@@ -49,7 +49,7 @@ class TurboUuidCache extends FileCache
         $created = time();
         $this->lines[$key] = new Value($value, $minutes, $created);
 
-        $value = !is_string($value) ? serialize($value) : $value;
+        $value = ! is_string($value) ? serialize($value) : $value;
 
         return F::write($file, $created."\t$key\t$value".PHP_EOL, true) === true;
     }
@@ -74,6 +74,7 @@ class TurboUuidCache extends FileCache
         if (is_file($file) === true) {
             // return shell_exec("sed -i '' '/".preg_quote($key, '/')."/d' $file") === null;
             exec("sed -i '' '/".preg_quote($key, '/')."/d' $file", $out);
+
             return empty($out);
         }
 

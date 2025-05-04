@@ -238,14 +238,15 @@ Kirby::plugin(
         ],
         'siteMethods' => [
             'modifiedTurbo' => function (): int {
-                return \Bnomei\Turbo::singleton()->modified();
+                return \Bnomei\Turbo::singleton()->modified() ?? time();
             },
         ],
         'pagesMethods' => [
             'modified' => function (): ?int {
-                /* @var \Kirby\Cms\Pages $this */
+                /* @var \Kirby\Cms\Pages $collection */
+                $collection = $this; // @phpstan-ignore-line
                 $modified = null;
-                foreach ($this as $page) {
+                foreach ($collection as $page) {
                     $m = $page->modified();
                     if (! $modified || ($m && $m > $modified)) {
                         $modified = $m;
@@ -257,9 +258,10 @@ Kirby::plugin(
         ],
         'filesMethods' => [
             'modified' => function (): ?int {
-                /* @var \Kirby\Cms\Files $this */
+                /* @var \Kirby\Cms\Pages $collection */
+                $collection = $this; // @phpstan-ignore-line
                 $modified = null;
-                foreach ($this as $file) {
+                foreach ($collection as $file) {
                     $m = $file->modified();
                     if (! $modified || ($m && $m > $modified)) {
                         $modified = $m;

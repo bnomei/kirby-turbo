@@ -17,7 +17,7 @@ class TurboValue extends Value
     public function toJson(): string
     {
         if (extension_loaded('msgpack')) {
-            return msgpack_pack($this->toArray()); // @phpstan-ignore-line
+            return msgpack_pack($this->toArray());
         }
 
         if (extension_loaded('igbinary')) {
@@ -30,7 +30,7 @@ class TurboValue extends Value
     public static function fromJson(string $json): ?static
     {
         if (extension_loaded('msgpack')) {
-            $data = msgpack_unpack($json); // @phpstan-ignore-line
+            $data = msgpack_unpack($json);
             if (is_array($data)) {
                 return parent::fromArray($data);
             }
