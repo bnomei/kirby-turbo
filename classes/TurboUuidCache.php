@@ -72,7 +72,9 @@ class TurboUuidCache extends FileCache
         $file = $this->file($key);
 
         if (is_file($file) === true) {
-            return shell_exec("sed -i '' '/".preg_quote($key, '/')."/d' $file") === null;
+            // return shell_exec("sed -i '' '/".preg_quote($key, '/')."/d' $file") === null;
+            exec("sed -i '' '/".preg_quote($key, '/')."/d' $file", $out);
+            return empty($out);
         }
 
         return false;
