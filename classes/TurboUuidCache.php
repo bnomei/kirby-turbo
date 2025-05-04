@@ -27,6 +27,7 @@ class TurboUuidCache extends FileCache
         // preload all
         foreach (array_filter(explode(PHP_EOL, F::read($file) ?: ''), fn ($v) => ! empty($v)) as $line) {
             [$created, $k, $value] = explode("\t", $line);
+            $value = str_contains($value, ':') ? unserialize($value) : $value;
             $this->lines[$k] = new Value($value, 0, intval($created));
         }
     }
@@ -47,6 +48,8 @@ class TurboUuidCache extends FileCache
         $file = $this->file($key);
         $created = time();
         $this->lines[$key] = new Value($value, $minutes, $created);
+
+        $value = !is_string($value) ? serialize($value) : $value;
 
         return F::write($file, $created."\t$key\t$value".PHP_EOL, true) === true;
     }
