@@ -149,17 +149,20 @@ class TurboLicense extends License
             return null;
         }
 
-        $response = $this->api('validate', [
-            'license_key' => $this->license['license_key']['key'],
-            'instance_id' => $this->license['instance']['id'],
-        ]);
+        $json = kirby()->cache('bnomei.turbo')->getOrSet(md5(json_encode($this->license)), function () {
+            $response = $this->api('validate', [
+                'license_key' => $this->license['license_key']['key'],
+                'instance_id' => $this->license['instance']['id'],
+            ]);
 
-        if ($response->code() !== 200) {
-            return null;
-        }
+            if ($response->code() !== 200) {
+                return null;
+            }
 
-        $json = $response->json();
-        if (! $json['valid'] || $json['meta']['product_name'] !== static::NAME) {
+            return $response->json();
+        }, 60 * 24);
+
+        if (! $json || ! $json['valid'] || $json['meta']['product_name'] !== static::NAME) {
             return null;
         }
 
