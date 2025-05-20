@@ -253,3 +253,9 @@ it('has a files method to get the most recent modified timestamp of a collection
 it('has a site method to get the most recent modified timestamp all files', function () {
     expect(site()->modifiedTurbo())->toBeInt();
 });
+
+it('has a helper to resolve pages using the turbo-uuid cache directly', function () {
+    $actors = page('film/academy-dinosaur')?->actors()->toPagesTurbo();
+    expect($actors)->toBeInstanceOf(Collection::class)
+        ->and($actors->count())->toBe(10);
+});

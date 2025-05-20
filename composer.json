@@ -1,7 +1,7 @@
 {
     "name": "bnomei/kirby-turbo",
     "type": "kirby-plugin",
-    "version": "5.0.1",
+    "version": "5.1.0",
     "description": "Speed up Kirby with caching",
     "license": "proprietary",
     "authors": [
@@ -55,7 +55,7 @@
         "getkirby/composer-installer": "^1.2"
     },
     "require-dev": {
-        "getkirby/cms": "dev-v5/develop as 5.0.0",
+        "getkirby/cms": "5.0.0-rc.1",
         "larastan/larastan": "^v3.0.0",
         "laravel/pint": "^1.13",
         "pestphp/pest": "^v3.5.1",

@@ -258,8 +258,8 @@ fields:
 If you are using the `turbo-uuid` as your UUID cache-driver then using these helpers will speed up the resolution even more.
 
 ```php
-$actors = page('film')->actors()->toPagesTurbo();               // Pages Collection
-$images = page('actors/adam-grant')->gallery()->toFilesTurbo(); // Files Collection
+$actors = page('film/academy-dinosaur')->actors()->toPagesTurbo(); // Pages Collection
+$images = page('actors/adam-grant')->gallery()->toFilesTurbo();    // Files Collection
 ```
 
 ### $pages/$files->modified(): ?int

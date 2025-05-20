@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e7d3ff1972b2d9f822e5393d33deb1b9",
+    "content-hash": "b369d28568a2f4d068824789e1359b33",
     "packages": [
         {
             "name": "getkirby/composer-installer",
@@ -814,16 +814,16 @@
         },
         {
             "name": "getkirby/cms",
-            "version": "dev-v5/develop",
+            "version": "5.0.0-rc.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/getkirby/kirby.git",
-                "reference": "b07bf37d51b035f59a6dca5cd38fba1dca97881d"
+                "reference": "58feeb21cdeddbd41c1be6f06b3560fae5480bc0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/getkirby/kirby/zipball/b07bf37d51b035f59a6dca5cd38fba1dca97881d",
-                "reference": "b07bf37d51b035f59a6dca5cd38fba1dca97881d",
+                "url": "https://api.github.com/repos/getkirby/kirby/zipball/58feeb21cdeddbd41c1be6f06b3560fae5480bc0",
+                "reference": "58feeb21cdeddbd41c1be6f06b3560fae5480bc0",
                 "shasum": ""
             },
             "require": {
@@ -914,7 +914,7 @@
                     "type": "custom"
                 }
             ],
-            "time": "2025-05-15T10:41:48+00:00"
+            "time": "2025-05-20T10:27:49+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -8398,17 +8398,10 @@
             "time": "2022-06-03T18:03:27+00:00"
         }
     ],
-    "aliases": [
-        {
-            "package": "getkirby/cms",
-            "version": "dev-v5/develop",
-            "alias": "5.0.0",
-            "alias_normalized": "5.0.0.0"
-        }
-    ],
+    "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "getkirby/cms": 20
+        "getkirby/cms": 5
     },
     "prefer-stable": false,
     "prefer-lowest": false,
