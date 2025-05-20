@@ -37,7 +37,7 @@ if ($feature = get('feature')) {
       <details>
         <summary>Actors</summary>
         <ul>
-          <?php foreach ($film->actors()->toPages() as $actor) {
+          <?php foreach ($film->actors()->toPagesTurbo() as $actor) {
               $modelCount++;
               ?>
             <li><?= $actor->title() ?></li><?php

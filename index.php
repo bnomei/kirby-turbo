@@ -8,34 +8,48 @@
  * Unauthorized copying, modification, or distribution is prohibited.
  */
 
+use Bnomei\PreloadRedisCache;
+use Bnomei\Turbo;
+use Bnomei\TurboFileCache;
+use Bnomei\TurboLicense;
+use Bnomei\TurboRedisCache;
+use Bnomei\TurboStaticCache;
+use Bnomei\TurboStopwatch;
+use Bnomei\TurboUuidCache;
+use Kirby\Cms\App;
+use Kirby\Cms\Files;
+use Kirby\Cms\Page;
+use Kirby\Cms\Pages;
+use Kirby\Content\Field;
 use Kirby\Filesystem\F;
+use Kirby\Http\Route;
 
 @include_once __DIR__.'/vendor/autoload.php';
 
 if (! function_exists('turbo')) {
-    function turbo(): \Bnomei\Turbo
+    function turbo(): Turbo
     {
-        return \Bnomei\Turbo::singleton();
+        return Turbo::singleton();
     }
 }
 
 if (! function_exists('tub')) {
-    function tub(): \Bnomei\TurboRedisCache
+    function tub(): TurboRedisCache
     {
-        return \Bnomei\Turbo::singleton()->tub(); // @phpstan-ignore-line
+        return Turbo::singleton()->tub(); // @phpstan-ignore-line
     }
 }
 
 if (! function_exists('tubs')) {
     function tubs(array|string $key, Closure $closure): mixed
     {
-        return \Bnomei\TurboStaticCache::getOrSet($key, $closure);
+        return TurboStaticCache::getOrSet($key, $closure);
     }
 }
 
 Kirby::plugin(
     name: 'bnomei/turbo',
-    license: fn ($plugin) => new \Bnomei\TurboLicense($plugin, \Bnomei\TurboLicense::NAME),
+    license: fn ($plugin) => new TurboLicense($plugin, TurboLicense::NAME),
     extends: [
         'options' => [
             'license' => '', // set your license from https://buy-turbo.bnomei.com code in the config `bnomei.turbo.license`
@@ -65,7 +79,7 @@ Kirby::plugin(
             // cmd to scan for files with timestamp and maybe content
             'inventory' => [
                 // null|find|turbo or closure
-                'indexer' => function (\Kirby\Cms\App $kirby) {
+                'indexer' => function (App $kirby) {
                     $cmd = __DIR__.'/bin/turbo'; // musl compiled
                     if (stripos(PHP_OS_FAMILY, 'Darwin') !== false) { // macOS
                         $cmd .= '-darwin';
@@ -74,7 +88,7 @@ Kirby::plugin(
                     return $cmd;
                 },
                 'enabled' => function (?string $url = null) {
-                    return \Bnomei\Turbo::isUrlKirbyInternal($url) === false;
+                    return Turbo::isUrlKirbyInternal($url) === false;
                 }, // used to disable on demand (kirby internal requests), can be force set to true as well
                 'modified' => true, // gather modified timestamp or default to PHP
                 'content' => true, // if exec can do it fetch content
@@ -88,10 +102,10 @@ Kirby::plugin(
             ],
         ],
         'cacheTypes' => [
-            'preload-redis' => \Bnomei\PreloadRedisCache::class,
-            'turbo-redis' => \Bnomei\TurboRedisCache::class,
-            'turbo-file' => \Bnomei\TurboFileCache::class,
-            'turbo-uuid' => \Bnomei\TurboUuidCache::class,
+            'preload-redis' => PreloadRedisCache::class,
+            'turbo-redis' => TurboRedisCache::class,
+            'turbo-file' => TurboFileCache::class,
+            'turbo-uuid' => TurboUuidCache::class,
         ],
         'commands' => [
             'turbo:models' => [
@@ -109,7 +123,7 @@ Kirby::plugin(
                     $cli->out('🏗️ Creating missing page models with Turbo Trait...');
                     $ignore = array_filter(explode(',', $cli->arg('ignore')));
                     $count = 0;
-                    /** @var \Kirby\Cms\App $kirby */
+                    /** @var App $kirby */
                     $kirby = $cli->kirby();
                     $modelRoot = $kirby->roots()->models();
                     foreach ($kirby->blueprints('pages') as $blueprint) {
@@ -157,8 +171,8 @@ Kirby::plugin(
                     $name = $cli->arg('name');
                     $cli->out('🏎️ Populating the Turbo Cache...');
                     $time = microtime(true);
-                    \Bnomei\Turbo::flush('inventory');
-                    \Bnomei\Turbo::singleton()->files(); // access files/dirs to populate
+                    Turbo::flush('inventory');
+                    Turbo::singleton()->files(); // access files/dirs to populate
                     $duration = round((microtime(true) - $time) * 1000);
                     $cli->success("✅ Done. {$duration}ms ");
 
@@ -184,7 +198,7 @@ Kirby::plugin(
                 'command' => static function ($cli): void {
                     $name = $cli->arg('name');
                     $cli->out("🚽 Flushing Turbo Cache [$name]...");
-                    \Bnomei\Turbo::flush($name);
+                    Turbo::flush($name);
                     $cli->success('✅ Done.');
 
                     if (function_exists('janitor')) {
@@ -198,52 +212,52 @@ Kirby::plugin(
         ],
         'hooks' => [
             'route:before' => function (Kirby\Http\Route $route, string $path, string $method) {
-                \Bnomei\TurboStopwatch::tick('route:before');
+                TurboStopwatch::tick('route:before');
             },
-            'route:after' => function (\Kirby\Http\Route $route, string $path, string $method, $result, bool $final) {
+            'route:after' => function (Route $route, string $path, string $method, $result, bool $final) {
                 if ($final) {
-                    \Bnomei\TurboStopwatch::tick('route:after');
+                    TurboStopwatch::tick('route:after');
                 }
             },
             'site.*:before' => function ($event, $site) {
                 if ($event->action() !== 'render') {
-                    \Bnomei\Turbo::flush('inventory');
+                    Turbo::flush('inventory');
                 }
             },
             'page.*:before' => function ($event, $page) {
                 if ($event->action() !== 'render') {
-                    \Bnomei\Turbo::flush('inventory');
+                    Turbo::flush('inventory');
                 }
             },
             'file.*:before' => function ($event, $file) {
                 if ($event->action() !== 'render') {
-                    \Bnomei\Turbo::flush('inventory');
+                    Turbo::flush('inventory');
                 }
             },
             'user.*:before' => function ($event, $user) {
                 if ($event->action() !== 'render') {
-                    \Bnomei\Turbo::flush('inventory');
+                    Turbo::flush('inventory');
                 }
             },
-            'page.render:before' => function (string $contentType, array $data, \Kirby\Cms\Page $page) {
-                \Bnomei\TurboStopwatch::tick('page.render:before');
+            'page.render:before' => function (string $contentType, array $data, Page $page) {
+                TurboStopwatch::tick('page.render:before');
 
                 return $data;
             },
-            'page.render:after' => function (string $contentType, array $data, string $html, \Kirby\Cms\Page $page) {
-                \Bnomei\TurboStopwatch::tick('page.render:after');
+            'page.render:after' => function (string $contentType, array $data, string $html, Page $page) {
+                TurboStopwatch::tick('page.render:after');
 
                 return $html;
             },
         ],
         'siteMethods' => [
             'modifiedTurbo' => function (): int {
-                return \Bnomei\Turbo::singleton()->modified() ?? time();
+                return Turbo::singleton()->modified() ?? time();
             },
         ],
         'pagesMethods' => [
             'modified' => function (): ?int {
-                /* @var \Kirby\Cms\Pages $collection */
+                /* @var Pages $collection */
                 $collection = $this; // @phpstan-ignore-line
                 $modified = null;
                 foreach ($collection as $page) {
@@ -258,7 +272,7 @@ Kirby::plugin(
         ],
         'filesMethods' => [
             'modified' => function (): ?int {
-                /* @var \Kirby\Cms\Pages $collection */
+                /* @var Pages $collection */
                 $collection = $this; // @phpstan-ignore-line
                 $modified = null;
                 foreach ($collection as $file) {
@@ -269,6 +283,36 @@ Kirby::plugin(
                 }
 
                 return $modified;
+            },
+        ],
+        'fieldMethods' => [
+            'toFilesTurbo' => function (Field $field): Files {
+                if (kirby()->option('cache.uuid.type') === 'turbo-uuid') {
+                    $ids = [];
+                    foreach ($field->yaml() as $uuid) { // @phpstan-ignore-line
+                        $uuid = 'file/'.substr($uuid, 7, 2).'/'.substr($uuid, 9);
+                        $ids[] = kirby()->cache('uuid')->get($uuid);
+                    }
+
+                    return new Files(array_filter($ids));
+                }
+
+                // default
+                return $field->toFiles(); // @phpstan-ignore-line
+            },
+            'toPagesTurbo' => function (Field $field): Pages {
+                if (kirby()->option('cache.uuid.type') === 'turbo-uuid') {
+                    $ids = [];
+                    foreach ($field->yaml() as $uuid) {  // @phpstan-ignore-line
+                        $uuid = 'page/'.substr($uuid, 7, 2).'/'.substr($uuid, 9);
+                        $ids[] = kirby()->cache('uuid')->get($uuid);
+                    }
+
+                    return new Pages(array_filter($ids));
+                }
+
+                // default
+                return $field->toPages(); // @phpstan-ignore-line
             },
         ],
     ]);

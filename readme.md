@@ -205,7 +205,7 @@ While caching data beyond the current request with `tub()` is great, but it cann
 
 ### Example: Using tubs() for caching collections used in the Panel queries
 
-Unless you wrap the collection in the following example in the `tubs($key, $closure)` it's content will be evaluated again and again every time a block is evaluated. While you can easily avoid this in your frontend code, in this case the query in the panel will be triggered multiple times when evaluating the options to show on blocks. Once for every block of the same type that you added.
+Unless you wrap the collection in the following example in the `tubs($key, $closure)` it's content will be evaluated again and again every time a block is evaluated. While you can easily avoid this in your frontend code, in this case the query in the panel will be triggered multiple times when evaluating the options to show on blocks. Once for every block of the same type that you added. Note that `tubs()` is always returning a Closure.
 
 **site/plugins/my-example/index.php**
 ```php
@@ -253,6 +253,14 @@ fields:
 ```
 
 ## Other helpers
+
+### $field->toFilesTurbo()/$field->toPagesTurbo()
+If you are using the `turbo-uuid` as your UUID cache-driver then using these helpers will speed up the resolution even more.
+
+```php
+$actors = page('film')->actors()->toPagesTurbo();               // Pages Collection
+$images = page('actors/adam-grant')->gallery()->toFilesTurbo(); // Files Collection
+```
 
 ### $pages/$files->modified(): ?int
 You can get the most current modified timestamp of any Pages/Files-Collection with this helper.
