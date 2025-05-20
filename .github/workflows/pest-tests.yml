@@ -37,7 +37,7 @@ jobs:
           key: composer-${{ hashFiles('composer.lock') }}
 
       - name: Start Redis
-        uses: supercharge/redis-github-action@1.7.0
+        uses: supercharge/redis-github-action@1.8.0
 
       - name: Install
         run: composer kirby
