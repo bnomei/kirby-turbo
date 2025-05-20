@@ -1,0 +1,25 @@
+Title: Rental 3613
+
+----
+
+Rental-id: 3613
+
+----
+
+Rental-date: 2005-07-06 05:45:53
+
+----
+
+Return-date: 2005-07-07 10:02:53
+
+----
+
+Inventory: page://gebohdxyinOTC9EY
+
+----
+
+Uuid: faTk70Exhkr5bCmv
+
+----
+
+Customer: page://DxMKPSznn9C2XI5l

@@ -1,0 +1,17 @@
+Title: Yinchuan
+
+----
+
+City-id: 587
+
+----
+
+City: Yinchuan
+
+----
+
+Country: page://iDQ7mLAZL5dqng9j
+
+----
+
+Uuid: 6xTAhxsrz769V9B2

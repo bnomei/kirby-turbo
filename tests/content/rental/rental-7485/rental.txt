@@ -1,0 +1,25 @@
+Title: Rental 7485
+
+----
+
+Rental-id: 7485
+
+----
+
+Rental-date: 2005-07-27 19:29:09
+
+----
+
+Return-date: 2005-07-30 16:28:09
+
+----
+
+Inventory: page://HX42Ri5f4U3PQphh
+
+----
+
+Customer: page://6AfyzE8pXJJyjhny
+
+----
+
+Uuid: kmEPwHR9tolRTBar

@@ -1,0 +1,45 @@
+Title: GORGEOUS BINGO
+
+----
+
+Actors:
+
+- 'page://q71V781JfgIPJGVL'
+- 'page://RW4ixiF3bbh7oXkH'
+- 'page://MG1O0zMGGcgzh2YX'
+- 'page://FSTBtYrNkVQnDKPa'
+- 'page://isKOKKisNfJh2ta1'
+- 'page://m11q5cdDfIefOEY5'
+- 'page://vMUybiWmK5EriDRU'
+
+----
+
+Film-id: 370
+
+----
+
+Description: A Action-Packed Display of a Sumo Wrestler And a Car who must Overcome a Waitress in A Baloon Factory
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 108
+
+----
+
+Rating: R
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: bCaKrzrFoyWGdG2h
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

@@ -1,0 +1,25 @@
+Title: Rental 8162
+
+----
+
+Rental-id: 8162
+
+----
+
+Rental-date: 2005-07-28 21:11:46
+
+----
+
+Return-date: 2005-08-04 18:26:46
+
+----
+
+Inventory: page://1l7JWcbRFJ3POQCB
+
+----
+
+Customer: page://daiDyhYRb8z7fkl0
+
+----
+
+Uuid: NqGjUwTEzIpADGHt

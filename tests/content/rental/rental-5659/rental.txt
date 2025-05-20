@@ -1,0 +1,25 @@
+Title: Rental 5659
+
+----
+
+Rental-id: 5659
+
+----
+
+Rental-date: 2005-07-10 07:45:40
+
+----
+
+Return-date: 2005-07-15 05:20:40
+
+----
+
+Inventory: page://6yMAWUlXE6bRe9p6
+
+----
+
+Uuid: MJDA0ELg5YgyqSMv
+
+----
+
+Customer: page://woNj5GQ9VpxY7M5X

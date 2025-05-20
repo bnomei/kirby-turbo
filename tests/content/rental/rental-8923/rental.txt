@@ -1,0 +1,25 @@
+Title: Rental 8923
+
+----
+
+Rental-id: 8923
+
+----
+
+Rental-date: 2005-07-30 02:08:49
+
+----
+
+Return-date: 2005-08-03 23:45:49
+
+----
+
+Inventory: page://44qmEUCllKHsmsiF
+
+----
+
+Customer: page://LxYXYVT8Su7lX0Xb
+
+----
+
+Uuid: B6aB88UNlpIwszaD

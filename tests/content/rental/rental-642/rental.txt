@@ -1,0 +1,25 @@
+Title: Rental 642
+
+----
+
+Rental-id: 642
+
+----
+
+Rental-date: 2005-05-28 18:49:12
+
+----
+
+Return-date: 2005-06-01 20:50:12
+
+----
+
+Inventory: page://kJkeEEeGBQA0D4jn
+
+----
+
+Uuid: n9bfwUSV0I0LbWCH
+
+----
+
+Customer: page://AkaRCOxNSCiOcy32

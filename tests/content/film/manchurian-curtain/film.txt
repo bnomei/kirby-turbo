@@ -1,0 +1,40 @@
+Title: MANCHURIAN CURTAIN
+
+----
+
+Actors:
+
+- 'page://Bfp6QX9U0O1ZLM64'
+- 'page://DJVklNozM1l2RK0x'
+
+----
+
+Film-id: 557
+
+----
+
+Description: A Stunning Tale of a Mad Cow And a Boy who must Battle a Boy in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 177
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: RR4tJ3Dd2mPzL73Q
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

@@ -1,0 +1,17 @@
+Title: Inv 3751
+
+----
+
+Inventory-id: 3751
+
+----
+
+Film: page://rVwGkWkqe4ZfFnJo
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: m22ENcP7BZYYz987

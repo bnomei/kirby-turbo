@@ -1,0 +1,25 @@
+Title: Rental 3979
+
+----
+
+Rental-id: 3979
+
+----
+
+Rental-date: 2005-07-06 23:04:35
+
+----
+
+Return-date: 2005-07-13 01:38:35
+
+----
+
+Inventory: page://KAPNP4E9Hkzbl8Sw
+
+----
+
+Uuid: ES8WUOYoIdslVWlV
+
+----
+
+Customer: page://x8Y8aJxOEpTBihF2

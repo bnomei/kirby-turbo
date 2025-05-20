@@ -1,0 +1,17 @@
+Title: Inv 255
+
+----
+
+Inventory-id: 255
+
+----
+
+Film: page://uIAfqGHSVpJWsHsT
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: yzygYCYBI8b5WHcy

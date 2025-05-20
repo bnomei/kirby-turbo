@@ -1,0 +1,17 @@
+Title: Bern
+
+----
+
+City-id: 72
+
+----
+
+City: Bern
+
+----
+
+Country: page://N8RrlrKSia7IGhAa
+
+----
+
+Uuid: jf4Ktm3oGxmzeDPV

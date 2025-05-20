@@ -1,0 +1,25 @@
+Title: Rental 7938
+
+----
+
+Rental-id: 7938
+
+----
+
+Rental-date: 2005-07-28 12:39:11
+
+----
+
+Return-date: 2005-08-04 16:56:11
+
+----
+
+Inventory: page://TdXhwEqQrtwVLThh
+
+----
+
+Customer: page://tmz3xyyMIWwOAlZu
+
+----
+
+Uuid: PQfh3x4655bDOD7C

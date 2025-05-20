@@ -1,0 +1,25 @@
+Title: Rental 357
+
+----
+
+Rental-id: 357
+
+----
+
+Rental-date: 2005-05-27 06:37:15
+
+----
+
+Return-date: 2005-05-30 07:04:15
+
+----
+
+Inventory: page://2VNDcAk3tatR21KD
+
+----
+
+Uuid: XH695xg04CGKAI5X
+
+----
+
+Customer: page://RoYFWCky1f4iZ5Q3

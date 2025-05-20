@@ -1,0 +1,25 @@
+Title: Rental 1029
+
+----
+
+Rental-id: 1029
+
+----
+
+Rental-date: 2005-05-31 03:52:02
+
+----
+
+Return-date: 2005-06-06 08:10:02
+
+----
+
+Inventory: page://RbO3N33JRtvKgbRE
+
+----
+
+Uuid: 0O5u8tT8AVzv7NkV
+
+----
+
+Customer: page://SGDmUxNER90s6kyU

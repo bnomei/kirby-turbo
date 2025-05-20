@@ -1,0 +1,25 @@
+Title: Rental 4124
+
+----
+
+Rental-id: 4124
+
+----
+
+Rental-date: 2005-07-07 07:19:54
+
+----
+
+Return-date: 2005-07-11 05:54:54
+
+----
+
+Inventory: page://oqQdseiQCXDW0zYG
+
+----
+
+Uuid: TzWrGXno2KJYyt0J
+
+----
+
+Customer: page://INrXMEKuIOKn9hxK

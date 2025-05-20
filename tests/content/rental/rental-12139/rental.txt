@@ -1,0 +1,25 @@
+Title: Rental 12139
+
+----
+
+Rental-id: 12139
+
+----
+
+Rental-date: 2005-08-17 23:57:13
+
+----
+
+Return-date: 2005-08-24 19:13:13
+
+----
+
+Inventory: page://lNjBwX9R1KYrRY2p
+
+----
+
+Customer: page://zmCabsBB5k9OFLQt
+
+----
+
+Uuid: bVJsYx323IHSvCvB

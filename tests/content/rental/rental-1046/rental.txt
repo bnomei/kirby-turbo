@@ -1,0 +1,25 @@
+Title: Rental 1046
+
+----
+
+Rental-id: 1046
+
+----
+
+Rental-date: 2005-05-31 06:42:30
+
+----
+
+Return-date: 2005-06-03 04:33:30
+
+----
+
+Inventory: page://p3eIFdvaX9asGt1V
+
+----
+
+Uuid: NwUs6wHBFtOkLZbv
+
+----
+
+Customer: page://28btFRqxUbpYMux2

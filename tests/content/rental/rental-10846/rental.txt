@@ -1,0 +1,25 @@
+Title: Rental 10846
+
+----
+
+Rental-id: 10846
+
+----
+
+Rental-date: 2005-08-01 23:47:54
+
+----
+
+Return-date: 2005-08-08 01:10:54
+
+----
+
+Inventory: page://YCkSl2nxMestasad
+
+----
+
+Customer: page://kLc3AfN8siSKFtqK
+
+----
+
+Uuid: hsDY7TFoQOq05J1D

@@ -1,0 +1,17 @@
+Title: Inv 3655
+
+----
+
+Inventory-id: 3655
+
+----
+
+Film: page://l8i9ReOs1BxdlzGc
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ELSwDQ5nrGT5Ngu8

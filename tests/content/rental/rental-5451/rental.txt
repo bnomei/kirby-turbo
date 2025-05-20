@@ -1,0 +1,25 @@
+Title: Rental 5451
+
+----
+
+Rental-id: 5451
+
+----
+
+Rental-date: 2005-07-09 22:22:10
+
+----
+
+Return-date: 2005-07-11 02:43:10
+
+----
+
+Inventory: page://Cnc85OaMRHzR8jVc
+
+----
+
+Uuid: cPCLQuLwazEKkawr
+
+----
+
+Customer: page://JebvRlPdouQGnPtA

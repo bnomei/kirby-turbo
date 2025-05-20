@@ -1,0 +1,17 @@
+Title: Inv 2098
+
+----
+
+Inventory-id: 2098
+
+----
+
+Film: page://5aTOisKICzy67XBf
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: i1DXnN9DNqXS7MmD

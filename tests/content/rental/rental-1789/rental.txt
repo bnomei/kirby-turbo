@@ -1,0 +1,25 @@
+Title: Rental 1789
+
+----
+
+Rental-id: 1789
+
+----
+
+Rental-date: 2005-06-16 19:49:18
+
+----
+
+Return-date: 2005-06-23 17:07:18
+
+----
+
+Inventory: page://SGXIWo14JUslBPx2
+
+----
+
+Uuid: 0RiQlxv1pslpB1Lb
+
+----
+
+Customer: page://Pif8NPYHuv0Na4Zs

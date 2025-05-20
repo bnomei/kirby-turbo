@@ -1,0 +1,25 @@
+Title: Rental 9199
+
+----
+
+Rental-id: 9199
+
+----
+
+Rental-date: 2005-07-30 12:38:00
+
+----
+
+Return-date: 2005-08-01 07:09:00
+
+----
+
+Inventory: page://fJznhHUgkMlDnNYU
+
+----
+
+Customer: page://BEkVvrNrXDjHfDO4
+
+----
+
+Uuid: dSbW7LC526KUQGCM

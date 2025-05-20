@@ -1,0 +1,25 @@
+Title: Rental 899
+
+----
+
+Rental-id: 899
+
+----
+
+Rental-date: 2005-05-30 09:29:30
+
+----
+
+Return-date: 2005-06-06 12:39:30
+
+----
+
+Inventory: page://pTy9tBejwHjRtfuc
+
+----
+
+Uuid: YEw8o4qXoiDsU06C
+
+----
+
+Customer: page://rcuufatqxgEb3aDf

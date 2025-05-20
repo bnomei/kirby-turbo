@@ -1,0 +1,43 @@
+Title: SATISFACTION CONFIDENTIAL
+
+----
+
+Actors:
+
+- 'page://RdhM2Q1bNuSOC3ck'
+- 'page://twoON2iToIZq1akt'
+- 'page://gELBLdH4G3cmVmcs'
+- 'page://lltihsMvjhDqCGFK'
+- 'page://zDG4LP4a8BGDrQEW'
+
+----
+
+Film-id: 763
+
+----
+
+Description: A Lacklusture Yarn of a Dentist And a Butler who must Meet a Secret Agent in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 75
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: 8fmBpMOzKmm842Su
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

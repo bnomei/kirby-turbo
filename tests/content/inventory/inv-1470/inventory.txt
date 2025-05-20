@@ -1,0 +1,17 @@
+Title: Inv 1470
+
+----
+
+Inventory-id: 1470
+
+----
+
+Film: page://apGFh4DxG5Qe6AtP
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: fhl08dsmOtLhryIy

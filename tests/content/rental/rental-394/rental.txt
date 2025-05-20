@@ -1,0 +1,25 @@
+Title: Rental 394
+
+----
+
+Rental-id: 394
+
+----
+
+Rental-date: 2005-05-27 11:26:11
+
+----
+
+Return-date: 2005-06-03 16:44:11
+
+----
+
+Inventory: page://llF0EPmUsfUktPxK
+
+----
+
+Uuid: 0QSb5m3cXJjNovW3
+
+----
+
+Customer: page://9bJXvFRudHnbyDta

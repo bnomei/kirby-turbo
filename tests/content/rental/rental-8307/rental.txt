@@ -1,0 +1,25 @@
+Title: Rental 8307
+
+----
+
+Rental-id: 8307
+
+----
+
+Rental-date: 2005-07-29 03:18:34
+
+----
+
+Return-date: 2005-08-06 05:51:34
+
+----
+
+Inventory: page://vvmdxUaMxIOjKEIm
+
+----
+
+Customer: page://JebvRlPdouQGnPtA
+
+----
+
+Uuid: LcJJ2JvzAx1F1JUN

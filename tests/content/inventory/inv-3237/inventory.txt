@@ -1,0 +1,17 @@
+Title: Inv 3237
+
+----
+
+Inventory-id: 3237
+
+----
+
+Film: page://ZL9HkYxNYQdRpf1u
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: P2PQDQEsIB7v39ZM

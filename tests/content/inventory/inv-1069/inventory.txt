@@ -1,0 +1,17 @@
+Title: Inv 1069
+
+----
+
+Inventory-id: 1069
+
+----
+
+Film: page://cIUV5g7wlc27Eqrh
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: nvSSHNh3JVZAriui

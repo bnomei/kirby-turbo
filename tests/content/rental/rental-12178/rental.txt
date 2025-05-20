@@ -1,0 +1,25 @@
+Title: Rental 12178
+
+----
+
+Rental-id: 12178
+
+----
+
+Rental-date: 2005-08-18 01:17:32
+
+----
+
+Return-date: 2005-08-25 19:32:32
+
+----
+
+Inventory: page://dcIplzHBA5KLEPKB
+
+----
+
+Customer: page://ITr0DtQiC8vNX3ax
+
+----
+
+Uuid: kw18dAZ1JUILHSry

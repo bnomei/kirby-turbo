@@ -1,0 +1,25 @@
+Title: Rental 13723
+
+----
+
+Rental-id: 13723
+
+----
+
+Rental-date: 2005-08-20 10:05:30
+
+----
+
+Return-date: 2005-08-27 07:43:30
+
+----
+
+Inventory: page://XObYajF8eh0jx5vP
+
+----
+
+Customer: page://XZqTxsNej50wJ3aq
+
+----
+
+Uuid: sCaaaOSb5rEvwFtY

@@ -1,0 +1,25 @@
+Title: Rental 2111
+
+----
+
+Rental-id: 2111
+
+----
+
+Rental-date: 2005-06-17 19:47:21
+
+----
+
+Return-date: 2005-06-19 22:46:21
+
+----
+
+Inventory: page://AOF9KAFhfOPoVV66
+
+----
+
+Uuid: 4PtM7wedCqBiDhRZ
+
+----
+
+Customer: page://6QgFvPw1AynCQ7UR

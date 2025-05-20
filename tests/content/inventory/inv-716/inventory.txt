@@ -1,0 +1,17 @@
+Title: Inv 716
+
+----
+
+Inventory-id: 716
+
+----
+
+Film: page://VmZM1BKcaPN8hbfP
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: GQu32JmrUgJDoy0f

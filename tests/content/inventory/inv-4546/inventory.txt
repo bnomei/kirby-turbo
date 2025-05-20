@@ -1,0 +1,17 @@
+Title: Inv 4546
+
+----
+
+Inventory-id: 4546
+
+----
+
+Film: page://agTVEuggZySkD3Np
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: wOR6RImfPyFAgeYa

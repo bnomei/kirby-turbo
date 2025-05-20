@@ -1,0 +1,33 @@
+Title: AGNES BISHOP
+
+----
+
+Customer-id: 217
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: AGNES
+
+----
+
+Last-name: BISHOP
+
+----
+
+Email: AGNES.BISHOP@sakilacustomer.org
+
+----
+
+Address: page://20h6ZT1lskN1jTfB
+
+----
+
+Active: 1
+
+----
+
+Uuid: OfFxp4O7RmY8sd3L

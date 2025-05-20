@@ -1,0 +1,25 @@
+Title: Rental 4985
+
+----
+
+Rental-id: 4985
+
+----
+
+Rental-date: 2005-07-09 00:36:02
+
+----
+
+Return-date: 2005-07-14 04:06:02
+
+----
+
+Inventory: page://wiYpAbrvJUcIX60w
+
+----
+
+Uuid: 10Nn92QukmSdeLN2
+
+----
+
+Customer: page://cnvPsOJZCE8gIQ4P

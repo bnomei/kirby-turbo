@@ -1,0 +1,25 @@
+Title: Rental 3622
+
+----
+
+Rental-id: 3622
+
+----
+
+Rental-date: 2005-07-06 06:05:04
+
+----
+
+Return-date: 2005-07-12 03:14:04
+
+----
+
+Inventory: page://HcBZTJMVA0LPk1jg
+
+----
+
+Uuid: HS3BVoSAl9LFKE3l
+
+----
+
+Customer: page://2QCpyeeQilmvnk6g

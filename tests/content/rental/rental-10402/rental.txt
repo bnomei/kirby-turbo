@@ -1,0 +1,25 @@
+Title: Rental 10402
+
+----
+
+Rental-id: 10402
+
+----
+
+Rental-date: 2005-08-01 07:27:19
+
+----
+
+Return-date: 2005-08-04 12:30:19
+
+----
+
+Inventory: page://8RPuji5hOA7YmQz3
+
+----
+
+Customer: page://qq0m1YSvvt7HbeBW
+
+----
+
+Uuid: 1ybazruqxPJCWMW4

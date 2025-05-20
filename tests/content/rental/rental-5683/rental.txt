@@ -1,0 +1,25 @@
+Title: Rental 5683
+
+----
+
+Rental-id: 5683
+
+----
+
+Rental-date: 2005-07-10 08:52:13
+
+----
+
+Return-date: 2005-07-19 10:25:13
+
+----
+
+Inventory: page://8xJJU3Q0WBx9Iwi3
+
+----
+
+Uuid: s5h7eICAceNHPjTe
+
+----
+
+Customer: page://lur9c4IA9ICHuaKZ

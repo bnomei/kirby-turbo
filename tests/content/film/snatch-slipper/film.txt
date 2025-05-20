@@ -1,0 +1,41 @@
+Title: SNATCH SLIPPER
+
+----
+
+Actors:
+
+- 'page://QXMalcumIlXeK8Z2'
+- 'page://q6i5HOIdG8dGz8Im'
+- 'page://1JHTierDMQdVCXSe'
+
+----
+
+Film-id: 814
+
+----
+
+Description: A Insightful Panorama of a Woman And a Feminist who must Defeat a Forensic Psychologist in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 110
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Commentaries
+
+----
+
+Uuid: ercNXUBP8HnWiyFR
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

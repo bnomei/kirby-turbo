@@ -1,0 +1,25 @@
+Title: Rental 13782
+
+----
+
+Rental-id: 13782
+
+----
+
+Rental-date: 2005-08-20 12:09:26
+
+----
+
+Return-date: 2005-08-23 08:31:26
+
+----
+
+Inventory: page://yhlMnKlX9m0HxQDW
+
+----
+
+Customer: page://7iGZLGyiqgYlIYqZ
+
+----
+
+Uuid: M2EbrLpcUOSdCtFT

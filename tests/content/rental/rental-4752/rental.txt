@@ -1,0 +1,25 @@
+Title: Rental 4752
+
+----
+
+Rental-id: 4752
+
+----
+
+Rental-date: 2005-07-08 14:15:20
+
+----
+
+Return-date: 2005-07-12 13:22:20
+
+----
+
+Inventory: page://tr0lKT5cIoAEBhpq
+
+----
+
+Uuid: hXlaZyQnMqgKIfn5
+
+----
+
+Customer: page://8819Gek69PVTaJvT

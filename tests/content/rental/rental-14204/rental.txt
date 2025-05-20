@@ -1,0 +1,21 @@
+Title: Rental 14204
+
+----
+
+Rental-id: 14204
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://fo13y2W85NaczwSw
+
+----
+
+Customer: page://LhqM4KCNZrbdEpfZ
+
+----
+
+Uuid: L6gYwzDerKhQ60bF

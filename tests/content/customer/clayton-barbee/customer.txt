@@ -1,0 +1,33 @@
+Title: CLAYTON BARBEE
+
+----
+
+Customer-id: 551
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: CLAYTON
+
+----
+
+Last-name: BARBEE
+
+----
+
+Email: CLAYTON.BARBEE@sakilacustomer.org
+
+----
+
+Address: page://5FJ6vmCtqECm0wF8
+
+----
+
+Active: 1
+
+----
+
+Uuid: nT5wjEgKoa1UOpc8

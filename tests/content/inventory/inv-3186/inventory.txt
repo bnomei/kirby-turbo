@@ -1,0 +1,17 @@
+Title: Inv 3186
+
+----
+
+Inventory-id: 3186
+
+----
+
+Film: page://BUqNPi4yEVE1H3K4
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: FuJwnfXIIn43H6nJ

@@ -1,0 +1,17 @@
+Title: Inv 274
+
+----
+
+Inventory-id: 274
+
+----
+
+Film: page://IyZ5AziWSQmMWUFP
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 8RPuji5hOA7YmQz3

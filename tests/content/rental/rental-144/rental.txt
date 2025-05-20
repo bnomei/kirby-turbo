@@ -1,0 +1,25 @@
+Title: Rental 144
+
+----
+
+Rental-id: 144
+
+----
+
+Rental-date: 2005-05-25 23:49:56
+
+----
+
+Return-date: 2005-06-01 21:41:56
+
+----
+
+Inventory: page://fKwyXYQvhlF9Xh6M
+
+----
+
+Uuid: PJTzjsXZNFshYgXm
+
+----
+
+Customer: page://CTF6K45F9gpJS5GA

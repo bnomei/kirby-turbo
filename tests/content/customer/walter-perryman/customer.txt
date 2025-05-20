@@ -1,0 +1,33 @@
+Title: WALTER PERRYMAN
+
+----
+
+Customer-id: 339
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: WALTER
+
+----
+
+Last-name: PERRYMAN
+
+----
+
+Email: WALTER.PERRYMAN@sakilacustomer.org
+
+----
+
+Address: page://gKh66150XvZSdBrJ
+
+----
+
+Active: 1
+
+----
+
+Uuid: bG9DDgWMAFbLUMhy

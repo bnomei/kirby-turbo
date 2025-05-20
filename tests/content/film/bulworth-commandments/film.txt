@@ -1,0 +1,42 @@
+Title: BULWORTH COMMANDMENTS
+
+----
+
+Actors:
+
+- 'page://NhPOWxCYnyDlMqLk'
+- 'page://Ppjj85F3dapvXsi8'
+- 'page://QXMalcumIlXeK8Z2'
+- 'page://j4GwVyPWyXE95Bdj'
+
+----
+
+Film-id: 106
+
+----
+
+Description: A Amazing Display of a Mad Cow And a Pioneer who must Redeem a Sumo Wrestler in The Outback
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 61
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: vvOAsvB9JAMRppph
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

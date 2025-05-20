@@ -1,0 +1,21 @@
+Title: BURT TEMPLE
+
+----
+
+Actors: []
+
+----
+
+Actor-id: 193
+
+----
+
+First-name: BURT
+
+----
+
+Last-name: TEMPLE
+
+----
+
+Uuid: h9gp2o2uGocb4AUV

@@ -1,0 +1,25 @@
+Title: Rental 363
+
+----
+
+Rental-id: 363
+
+----
+
+Rental-date: 2005-05-27 07:14:00
+
+----
+
+Return-date: 2005-05-28 12:22:00
+
+----
+
+Inventory: page://StwfQL0AqfVmWNr7
+
+----
+
+Uuid: qvotdOad0trF8vLX
+
+----
+
+Customer: page://hSOBI3AqQMwJph8C

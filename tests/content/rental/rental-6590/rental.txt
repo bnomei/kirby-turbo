@@ -1,0 +1,25 @@
+Title: Rental 6590
+
+----
+
+Rental-id: 6590
+
+----
+
+Rental-date: 2005-07-12 07:08:21
+
+----
+
+Return-date: 2005-07-18 06:16:21
+
+----
+
+Inventory: page://82obQt8fSAXOUvH1
+
+----
+
+Uuid: Xcmg7GokavQPaTV2
+
+----
+
+Customer: page://eYENgXyv63Ee6XxS

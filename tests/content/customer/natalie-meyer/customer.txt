@@ -1,0 +1,33 @@
+Title: NATALIE MEYER
+
+----
+
+Customer-id: 216
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: NATALIE
+
+----
+
+Last-name: MEYER
+
+----
+
+Email: NATALIE.MEYER@sakilacustomer.org
+
+----
+
+Address: page://FVbUVRblr97FRm6q
+
+----
+
+Active: 1
+
+----
+
+Uuid: 6JTzEhgDMKDUF6HS

@@ -1,0 +1,17 @@
+Title: Inv 3756
+
+----
+
+Inventory-id: 3756
+
+----
+
+Film: page://XXn9gIwk15jLHu0o
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: rWItqgNoTkYhhGh9

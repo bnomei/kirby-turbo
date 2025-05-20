@@ -1,0 +1,17 @@
+Title: Inv 283
+
+----
+
+Inventory-id: 283
+
+----
+
+Film: page://n2gHXe96ti092q2R
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: GIKd8SPBFwvym6D5

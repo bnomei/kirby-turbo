@@ -1,0 +1,17 @@
+Title: Inv 3739
+
+----
+
+Inventory-id: 3739
+
+----
+
+Film: page://qiTCdevnusoszKmv
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: UGZCId1P3Om6oI37

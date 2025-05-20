@@ -1,0 +1,25 @@
+Title: Rental 477
+
+----
+
+Rental-id: 477
+
+----
+
+Rental-date: 2005-05-27 22:33:33
+
+----
+
+Return-date: 2005-06-02 18:35:33
+
+----
+
+Inventory: page://jnnRzEcYAjZRY2M5
+
+----
+
+Uuid: QojJwuBu61lbXM5K
+
+----
+
+Customer: page://QJJkyq57XaTH2VdS

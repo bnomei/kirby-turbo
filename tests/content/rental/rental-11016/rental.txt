@@ -1,0 +1,25 @@
+Title: Rental 11016
+
+----
+
+Rental-id: 11016
+
+----
+
+Rental-date: 2005-08-02 05:19:13
+
+----
+
+Return-date: 2005-08-05 05:31:13
+
+----
+
+Inventory: page://LIpNA99s3aQD3Jk8
+
+----
+
+Customer: page://T9Zm4dl6jOmrQnrt
+
+----
+
+Uuid: LsfWDdzVdzBe3dGW

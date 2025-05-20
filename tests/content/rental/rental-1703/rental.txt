@@ -1,0 +1,25 @@
+Title: Rental 1703
+
+----
+
+Rental-id: 1703
+
+----
+
+Rental-date: 2005-06-16 13:28:44
+
+----
+
+Return-date: 2005-06-17 11:03:44
+
+----
+
+Inventory: page://y1xiSH00QLyXz7tU
+
+----
+
+Uuid: lJOinDC4ofkEWHHb
+
+----
+
+Customer: page://781kVzIovJEOwBVl

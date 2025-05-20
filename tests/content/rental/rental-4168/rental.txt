@@ -1,0 +1,25 @@
+Title: Rental 4168
+
+----
+
+Rental-id: 4168
+
+----
+
+Rental-date: 2005-07-07 09:37:24
+
+----
+
+Return-date: 2005-07-09 14:32:24
+
+----
+
+Inventory: page://MAtjdg2KZqzPq1G3
+
+----
+
+Uuid: jiSg9kNi1WOmXver
+
+----
+
+Customer: page://D2Jts8sZKuP5Z8RH

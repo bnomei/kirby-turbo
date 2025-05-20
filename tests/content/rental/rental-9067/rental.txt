@@ -1,0 +1,25 @@
+Title: Rental 9067
+
+----
+
+Rental-id: 9067
+
+----
+
+Rental-date: 2005-07-30 07:31:01
+
+----
+
+Return-date: 2005-08-04 11:44:01
+
+----
+
+Inventory: page://k4wcQYuhEH7gqFTB
+
+----
+
+Customer: page://ZuUWmxbKilRmIFgl
+
+----
+
+Uuid: aqA6kYy4bq19q6xq

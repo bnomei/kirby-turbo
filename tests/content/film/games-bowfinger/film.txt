@@ -1,0 +1,46 @@
+Title: GAMES BOWFINGER
+
+----
+
+Actors:
+
+- 'page://oEbdYNCKFrP9NVLv'
+- 'page://Ppjj85F3dapvXsi8'
+- 'page://8DAvKBc0CuAdRfXU'
+- 'page://GA1ldK0BGihIEfd4'
+- 'page://6jpBKUOTpGMSQxJe'
+- 'page://FSTBtYrNkVQnDKPa'
+- 'page://nGhJyQbze3rAAH9v'
+- 'page://FLMpVB5CVJFKSGVy'
+
+----
+
+Film-id: 347
+
+----
+
+Description: A Astounding Documentary of a Butler And a Explorer who must Challenge a Butler in A Monastery
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 119
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: xdcOxBl4eg2mFGa8
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

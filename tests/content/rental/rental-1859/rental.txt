@@ -1,0 +1,25 @@
+Title: Rental 1859
+
+----
+
+Rental-id: 1859
+
+----
+
+Rental-date: 2005-06-17 01:13:38
+
+----
+
+Return-date: 2005-06-18 03:13:38
+
+----
+
+Inventory: page://EbTsnBz2gV7YZLrD
+
+----
+
+Uuid: 5QF0jZr3fOKAvwiQ
+
+----
+
+Customer: page://oltj71DespIyD8V2

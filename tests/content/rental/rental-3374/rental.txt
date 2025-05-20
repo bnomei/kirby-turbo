@@ -1,0 +1,25 @@
+Title: Rental 3374
+
+----
+
+Rental-id: 3374
+
+----
+
+Rental-date: 2005-06-21 13:36:30
+
+----
+
+Return-date: 2005-06-23 15:10:30
+
+----
+
+Inventory: page://82obQt8fSAXOUvH1
+
+----
+
+Uuid: 0KrUjoN1ahEnXv49
+
+----
+
+Customer: page://TqDbE1YY8IbS4H7K

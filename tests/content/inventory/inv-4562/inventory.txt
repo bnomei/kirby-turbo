@@ -1,0 +1,17 @@
+Title: Inv 4562
+
+----
+
+Inventory-id: 4562
+
+----
+
+Film: page://RcOr8ZCcMtDQ1SoL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: B2n4IMTPb0Do8mlI

@@ -1,0 +1,25 @@
+Title: Rental 3956
+
+----
+
+Rental-id: 3956
+
+----
+
+Rental-date: 2005-07-06 22:01:51
+
+----
+
+Return-date: 2005-07-12 21:35:51
+
+----
+
+Inventory: page://gquSwHCaBtURjQMC
+
+----
+
+Uuid: RSQ6ulHucKRSpzru
+
+----
+
+Customer: page://cT1ATboviBoOP1VF

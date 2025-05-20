@@ -1,0 +1,25 @@
+Title: Rental 918
+
+----
+
+Rental-id: 918
+
+----
+
+Rental-date: 2005-05-30 11:32:24
+
+----
+
+Return-date: 2005-05-31 07:55:24
+
+----
+
+Inventory: page://rfd24aHrvwWc1igB
+
+----
+
+Uuid: yyBIzlVPcfkYHmlk
+
+----
+
+Customer: page://CcA8b6iqpwFbs801

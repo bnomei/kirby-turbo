@@ -1,0 +1,33 @@
+Title: MARK RINEHART
+
+----
+
+Customer-id: 312
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: MARK
+
+----
+
+Last-name: RINEHART
+
+----
+
+Email: MARK.RINEHART@sakilacustomer.org
+
+----
+
+Address: page://NB5QtvClEdIwJYUS
+
+----
+
+Active: 1
+
+----
+
+Uuid: ppv8UwyuW8pv2cNH

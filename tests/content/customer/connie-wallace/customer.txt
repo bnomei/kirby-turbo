@@ -1,0 +1,33 @@
+Title: CONNIE WALLACE
+
+----
+
+Customer-id: 106
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CONNIE
+
+----
+
+Last-name: WALLACE
+
+----
+
+Email: CONNIE.WALLACE@sakilacustomer.org
+
+----
+
+Address: page://qyydIs3G5AFmWI9A
+
+----
+
+Active: 1
+
+----
+
+Uuid: eJUwVKxCunZWV9Rg

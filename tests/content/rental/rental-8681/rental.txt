@@ -1,0 +1,25 @@
+Title: Rental 8681
+
+----
+
+Rental-id: 8681
+
+----
+
+Rental-date: 2005-07-29 16:12:01
+
+----
+
+Return-date: 2005-08-01 18:14:01
+
+----
+
+Inventory: page://mQuFV5mDiffeirLX
+
+----
+
+Customer: page://6W4MNt60QNzdOkOf
+
+----
+
+Uuid: shw50Mv3tVX6EKot

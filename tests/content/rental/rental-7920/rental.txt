@@ -1,0 +1,25 @@
+Title: Rental 7920
+
+----
+
+Rental-id: 7920
+
+----
+
+Rental-date: 2005-07-28 12:01:19
+
+----
+
+Return-date: 2005-08-05 07:08:19
+
+----
+
+Inventory: page://hLfzfTuRSf3vmNqz
+
+----
+
+Customer: page://nZVFUQsoyO1MvhAU
+
+----
+
+Uuid: P0yfThw8vpY604RT

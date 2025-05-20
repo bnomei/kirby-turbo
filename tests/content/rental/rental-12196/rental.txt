@@ -1,0 +1,25 @@
+Title: Rental 12196
+
+----
+
+Rental-id: 12196
+
+----
+
+Rental-date: 2005-08-18 02:08:48
+
+----
+
+Return-date: 2005-08-26 00:39:48
+
+----
+
+Inventory: page://VNSVP6C1F5AJp1Q2
+
+----
+
+Customer: page://3oDVHadirwJKNUrH
+
+----
+
+Uuid: hIZo6sqMjRCz4BxQ

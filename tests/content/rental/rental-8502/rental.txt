@@ -1,0 +1,25 @@
+Title: Rental 8502
+
+----
+
+Rental-id: 8502
+
+----
+
+Rental-date: 2005-07-29 09:15:41
+
+----
+
+Return-date: 2005-07-30 10:41:41
+
+----
+
+Inventory: page://sM4G0D1FWQNjJNpw
+
+----
+
+Customer: page://ssKfVmN07XGOgIXz
+
+----
+
+Uuid: pDAR4zeGSgtukrmG

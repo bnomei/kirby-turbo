@@ -1,0 +1,17 @@
+Title: Inv 618
+
+----
+
+Inventory-id: 618
+
+----
+
+Film: page://DQ7GLrje14JDMtPw
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: XVuKEoNOMjrg6IJo

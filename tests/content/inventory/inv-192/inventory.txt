@@ -1,0 +1,17 @@
+Title: Inv 192
+
+----
+
+Inventory-id: 192
+
+----
+
+Film: page://FcPqvIV6WvjtaVaK
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Y9lG1dVFirMP9BhF

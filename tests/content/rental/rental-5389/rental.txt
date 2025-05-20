@@ -1,0 +1,25 @@
+Title: Rental 5389
+
+----
+
+Rental-id: 5389
+
+----
+
+Rental-date: 2005-07-09 19:25:45
+
+----
+
+Return-date: 2005-07-17 13:31:45
+
+----
+
+Inventory: page://WBGL1BOw8Cg6CkIA
+
+----
+
+Uuid: S5MAk8p8ZsZzNlTD
+
+----
+
+Customer: page://rMm0jN6bFHVs2tRk

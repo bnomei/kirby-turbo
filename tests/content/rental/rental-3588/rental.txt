@@ -1,0 +1,25 @@
+Title: Rental 3588
+
+----
+
+Rental-id: 3588
+
+----
+
+Rental-date: 2005-07-06 04:29:13
+
+----
+
+Return-date: 2005-07-07 23:49:13
+
+----
+
+Inventory: page://h3pamG8Q0z9VrQZe
+
+----
+
+Uuid: dXP7401yHTMCojAC
+
+----
+
+Customer: page://6AKt4qOv738O4v4p

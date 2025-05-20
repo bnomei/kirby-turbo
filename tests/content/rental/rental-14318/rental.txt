@@ -1,0 +1,21 @@
+Title: Rental 14318
+
+----
+
+Rental-id: 14318
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://fkUBIoAeoAVXfx6B
+
+----
+
+Customer: page://mLxfpdMHHBnZwV7B
+
+----
+
+Uuid: gvLKu3ltfaMe9KAU

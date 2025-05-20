@@ -1,0 +1,33 @@
+Title: WENDY HARRISON
+
+----
+
+Customer-id: 115
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: WENDY
+
+----
+
+Last-name: HARRISON
+
+----
+
+Email: WENDY.HARRISON@sakilacustomer.org
+
+----
+
+Address: page://Ly6ymTdxVxG0rnex
+
+----
+
+Active: 1
+
+----
+
+Uuid: j8uyjiPeUtgzKjW3

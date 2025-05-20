@@ -1,0 +1,17 @@
+Title: Hiroshima
+
+----
+
+City-id: 205
+
+----
+
+City: Hiroshima
+
+----
+
+Country: page://XEyP9uxOgFESeyaK
+
+----
+
+Uuid: 91b14fEl6wShpeQX

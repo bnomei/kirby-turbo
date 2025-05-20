@@ -1,0 +1,33 @@
+Title: JULIE SANCHEZ
+
+----
+
+Customer-id: 52
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JULIE
+
+----
+
+Last-name: SANCHEZ
+
+----
+
+Email: JULIE.SANCHEZ@sakilacustomer.org
+
+----
+
+Address: page://Th8biey3IdujmuBG
+
+----
+
+Active: 1
+
+----
+
+Uuid: 3Ykof1YEOYPBKag8

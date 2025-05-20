@@ -1,0 +1,21 @@
+Title: Rental 11909
+
+----
+
+Rental-id: 11909
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://sOcto306rFjh2UEm
+
+----
+
+Customer: page://MfhMnukEGd8RhsqE
+
+----
+
+Uuid: dKv8YMyZo30U10QM

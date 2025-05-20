@@ -1,0 +1,25 @@
+Title: Rental 8921
+
+----
+
+Rental-id: 8921
+
+----
+
+Rental-date: 2005-07-30 02:04:02
+
+----
+
+Return-date: 2005-07-31 06:18:02
+
+----
+
+Inventory: page://iVcIWji4uhHbhl1R
+
+----
+
+Customer: page://hZOnCp7oVBUSijBw
+
+----
+
+Uuid: hD2J7SoyAjtk9hkw

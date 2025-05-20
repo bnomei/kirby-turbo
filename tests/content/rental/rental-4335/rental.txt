@@ -1,0 +1,25 @@
+Title: Rental 4335
+
+----
+
+Rental-id: 4335
+
+----
+
+Rental-date: 2005-07-07 18:33:57
+
+----
+
+Return-date: 2005-07-11 13:23:57
+
+----
+
+Inventory: page://tkAdUPPNPBvVMYFt
+
+----
+
+Uuid: cIVdC9d0vJv6lJdZ
+
+----
+
+Customer: page://sXFRFNABQAAwfZCO

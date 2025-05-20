@@ -1,0 +1,25 @@
+Title: Rental 8365
+
+----
+
+Rental-id: 8365
+
+----
+
+Rental-date: 2005-07-29 05:11:00
+
+----
+
+Return-date: 2005-07-30 05:30:00
+
+----
+
+Inventory: page://G9ZMCag02hWQue8W
+
+----
+
+Customer: page://Vns4RDWjccDhVJJe
+
+----
+
+Uuid: MiHmhP6dkOgenn4Z

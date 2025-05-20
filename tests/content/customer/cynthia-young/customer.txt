@@ -1,0 +1,33 @@
+Title: CYNTHIA YOUNG
+
+----
+
+Customer-id: 28
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CYNTHIA
+
+----
+
+Last-name: YOUNG
+
+----
+
+Email: CYNTHIA.YOUNG@sakilacustomer.org
+
+----
+
+Address: page://2tclOnjDgqr8sREK
+
+----
+
+Active: 1
+
+----
+
+Uuid: 9GMMxk4OJQFuLIWJ

@@ -1,0 +1,17 @@
+Title: Inv 832
+
+----
+
+Inventory-id: 832
+
+----
+
+Film: page://ktHlY2PLVWH1cLkh
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: BWB1gYSVHxrGzlQg

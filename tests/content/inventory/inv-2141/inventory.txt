@@ -1,0 +1,17 @@
+Title: Inv 2141
+
+----
+
+Inventory-id: 2141
+
+----
+
+Film: page://MwEc1yDNYlaXrAmA
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: l4zsI7O2bNyLE5oJ

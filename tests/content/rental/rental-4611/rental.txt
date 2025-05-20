@@ -1,0 +1,25 @@
+Title: Rental 4611
+
+----
+
+Rental-id: 4611
+
+----
+
+Rental-date: 2005-07-08 07:33:56
+
+----
+
+Return-date: 2005-07-12 13:25:56
+
+----
+
+Inventory: page://Y58iedzeNhj5Ljlf
+
+----
+
+Uuid: m97OJA0MyxiHlmt5
+
+----
+
+Customer: page://XT1tDVBbJppqjfak

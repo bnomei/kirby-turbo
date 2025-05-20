@@ -1,0 +1,25 @@
+Title: Rental 2318
+
+----
+
+Rental-id: 2318
+
+----
+
+Rental-date: 2005-06-18 09:13:54
+
+----
+
+Return-date: 2005-06-23 07:19:54
+
+----
+
+Inventory: page://yC7doINTfuz0Vjee
+
+----
+
+Uuid: ioN1ozVyPdB9ZTFd
+
+----
+
+Customer: page://4AtPAY3CI88EjmxK

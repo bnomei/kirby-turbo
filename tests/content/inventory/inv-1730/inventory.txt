@@ -1,0 +1,17 @@
+Title: Inv 1730
+
+----
+
+Inventory-id: 1730
+
+----
+
+Film: page://A286H6tUxQ3OzhwJ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: by5t6kw8yWaWpU4t

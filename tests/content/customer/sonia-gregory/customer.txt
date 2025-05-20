@@ -1,0 +1,33 @@
+Title: SONIA GREGORY
+
+----
+
+Customer-id: 284
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: SONIA
+
+----
+
+Last-name: GREGORY
+
+----
+
+Email: SONIA.GREGORY@sakilacustomer.org
+
+----
+
+Address: page://22GbUSCEoP8TflLE
+
+----
+
+Active: 1
+
+----
+
+Uuid: DQdRudB4hPmZIfVZ

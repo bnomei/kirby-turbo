@@ -1,0 +1,25 @@
+Title: Rental 14341
+
+----
+
+Rental-id: 14341
+
+----
+
+Rental-date: 2005-08-21 08:38:24
+
+----
+
+Return-date: 2005-08-26 12:36:24
+
+----
+
+Inventory: page://a07Er8Ozy3tJajlF
+
+----
+
+Customer: page://HpeLAHrM5mtnQogB
+
+----
+
+Uuid: FO5Q8O6RCxXZFgag

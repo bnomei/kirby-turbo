@@ -1,0 +1,25 @@
+Title: Rental 5036
+
+----
+
+Rental-id: 5036
+
+----
+
+Rental-date: 2005-07-09 02:58:41
+
+----
+
+Return-date: 2005-07-17 04:09:41
+
+----
+
+Inventory: page://aN6sM8hLWJuYM8FB
+
+----
+
+Uuid: WLw06FYU1yhWBD7a
+
+----
+
+Customer: page://fh18zcKIesBiok66

@@ -1,0 +1,44 @@
+Title: OPPOSITE NECKLACE
+
+----
+
+Actors:
+
+- 'page://JrsbillMdFUVLTOe'
+- 'page://6jpBKUOTpGMSQxJe'
+- 'page://twoON2iToIZq1akt'
+- 'page://WFF82auh2AgpYPoL'
+- 'page://V93xbOGPlOsB9ymO'
+- 'page://OGjAu4hPWyVISsAa'
+
+----
+
+Film-id: 639
+
+----
+
+Description: A Fateful Epistle of a Crocodile And a Moose who must Kill a Explorer in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 92
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: RKzq7UbAidbmMr9D
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

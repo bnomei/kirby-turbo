@@ -1,0 +1,17 @@
+Title: Inv 4386
+
+----
+
+Inventory-id: 4386
+
+----
+
+Film: page://E0HFh9eHbYsvXG9C
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 048Pe4776rj3HMln

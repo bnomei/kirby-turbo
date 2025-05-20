@@ -1,0 +1,17 @@
+Title: Inv 3180
+
+----
+
+Inventory-id: 3180
+
+----
+
+Film: page://BUqNPi4yEVE1H3K4
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: bSBphohJutvrCAYS

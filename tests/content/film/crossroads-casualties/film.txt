@@ -1,0 +1,46 @@
+Title: CROSSROADS CASUALTIES
+
+----
+
+Actors:
+
+- 'page://qGB9wRd16f9YwbHn'
+- 'page://yhATHnZqo4RzYS83'
+- 'page://nN3rIVkI7hNgoDlp'
+- 'page://FSTBtYrNkVQnDKPa'
+- 'page://SR0Aks2aA1YgkZ1s'
+- 'page://3BcvBP3gfacEDPsU'
+- 'page://nfzjlyLmEQ6Q1S80'
+- 'page://NRH2DcjJcFwzgjEd'
+
+----
+
+Film-id: 193
+
+----
+
+Description: A Intrepid Documentary of a Sumo Wrestler And a Astronaut who must Battle a Composer in The Outback
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 153
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: bjcVvf6Bq6N3Umgg
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

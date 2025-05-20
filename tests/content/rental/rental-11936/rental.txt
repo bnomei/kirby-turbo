@@ -1,0 +1,25 @@
+Title: Rental 11936
+
+----
+
+Rental-id: 11936
+
+----
+
+Rental-date: 2005-08-17 16:45:34
+
+----
+
+Return-date: 2005-08-21 13:33:34
+
+----
+
+Inventory: page://trXUBs7L6gaFCvZW
+
+----
+
+Customer: page://9nmXEbNtguZWpwtU
+
+----
+
+Uuid: LjuwMklBJ8p2ps66

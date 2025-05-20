@@ -1,0 +1,17 @@
+Title: Inv 790
+
+----
+
+Inventory-id: 790
+
+----
+
+Film: page://0JrPDqhvTbVdpCV2
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ujzyTii7aHjYqdbL

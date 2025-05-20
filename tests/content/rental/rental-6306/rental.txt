@@ -1,0 +1,25 @@
+Title: Rental 6306
+
+----
+
+Rental-id: 6306
+
+----
+
+Rental-date: 2005-07-11 18:04:26
+
+----
+
+Return-date: 2005-07-20 14:22:26
+
+----
+
+Inventory: page://OGB8iFIS4nfFXc8p
+
+----
+
+Uuid: dG7SV4YPqrcAuhuk
+
+----
+
+Customer: page://cnvPsOJZCE8gIQ4P

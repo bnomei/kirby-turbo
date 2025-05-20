@@ -1,0 +1,25 @@
+Title: Rental 601
+
+----
+
+Rental-id: 601
+
+----
+
+Rental-date: 2005-05-28 14:08:22
+
+----
+
+Return-date: 2005-06-04 10:50:22
+
+----
+
+Inventory: page://u0BcW87fbivLpkDu
+
+----
+
+Uuid: PewyjgMYztrBzoB7
+
+----
+
+Customer: page://j2E1ltZ4ghv3z4iP

@@ -1,0 +1,33 @@
+Title: ROSA REYNOLDS
+
+----
+
+Customer-id: 112
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ROSA
+
+----
+
+Last-name: REYNOLDS
+
+----
+
+Email: ROSA.REYNOLDS@sakilacustomer.org
+
+----
+
+Address: page://q9J7p7UcaovulcpS
+
+----
+
+Active: 1
+
+----
+
+Uuid: azB08HSjJtUYxOM2

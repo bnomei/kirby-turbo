@@ -1,0 +1,45 @@
+Title: WANDA CHAMBER
+
+----
+
+Actors:
+
+- 'page://xuTGKKs3dxu4jXhx'
+- 'page://L8EgxOu9xdHGpzVg'
+- 'page://3oaBypMbXEPYhgeK'
+- 'page://I440rKCeu4AX6xcF'
+- 'page://6jpBKUOTpGMSQxJe'
+- 'page://r6UF6pUyhmwAPzIH'
+- 'page://lltihsMvjhDqCGFK'
+
+----
+
+Film-id: 956
+
+----
+
+Description: A Insightful Drama of a A Shark And a Pioneer who must Find a Womanizer in The Outback
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 107
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: RS5u8QarUfg8hpku
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

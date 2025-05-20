@@ -1,0 +1,17 @@
+Title: Inv 3133
+
+----
+
+Inventory-id: 3133
+
+----
+
+Film: page://CD9fFwCtutbqOSyK
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: WXUSPC3yjVwPs5n6

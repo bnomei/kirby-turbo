@@ -1,0 +1,25 @@
+Title: Rental 3314
+
+----
+
+Rental-id: 3314
+
+----
+
+Rental-date: 2005-06-21 08:17:00
+
+----
+
+Return-date: 2005-06-22 06:00:00
+
+----
+
+Inventory: page://67FINaQzdIa4oB2P
+
+----
+
+Uuid: AP0hKt6DC93fkSpT
+
+----
+
+Customer: page://FVBT09sa4x7FnbO2

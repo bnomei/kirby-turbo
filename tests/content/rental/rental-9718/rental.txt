@@ -1,0 +1,25 @@
+Title: Rental 9718
+
+----
+
+Rental-id: 9718
+
+----
+
+Rental-date: 2005-07-31 08:25:03
+
+----
+
+Return-date: 2005-08-08 04:16:03
+
+----
+
+Inventory: page://F0KxxkJ3A3tFCnuI
+
+----
+
+Customer: page://z6KsbN8IOhSoB7GT
+
+----
+
+Uuid: iDxKeopgf5JiYUAs

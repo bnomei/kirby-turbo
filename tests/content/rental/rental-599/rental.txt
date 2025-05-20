@@ -1,0 +1,25 @@
+Title: Rental 599
+
+----
+
+Rental-id: 599
+
+----
+
+Rental-date: 2005-05-28 14:05:57
+
+----
+
+Return-date: 2005-06-01 16:41:57
+
+----
+
+Inventory: page://ASyGDzPmlkrTzsxF
+
+----
+
+Uuid: egX0T1bHW2yIwQz7
+
+----
+
+Customer: page://yO6kHtaF5LxeJoOU

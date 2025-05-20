@@ -1,0 +1,17 @@
+Title: Inv 1375
+
+----
+
+Inventory-id: 1375
+
+----
+
+Film: page://N1NgQspUnkYqDyaj
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: HRvlKf5C7f1peWi8

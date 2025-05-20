@@ -1,0 +1,17 @@
+Title: Inv 2661
+
+----
+
+Inventory-id: 2661
+
+----
+
+Film: page://Wwfl2hjQEXGQp9qZ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: pVzYGoHJr6OvY5bh

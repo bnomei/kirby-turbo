@@ -1,0 +1,40 @@
+Title: MENAGERIE RUSHMORE
+
+----
+
+Actors:
+
+- 'page://xuTGKKs3dxu4jXhx'
+- 'page://Bfp6QX9U0O1ZLM64'
+
+----
+
+Film-id: 569
+
+----
+
+Description: A Unbelieveable Panorama of a Composer And a Butler who must Overcome a Database Administrator in The First Manned Space Station
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 147
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: RojNnnvjd8ANbIQ3
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

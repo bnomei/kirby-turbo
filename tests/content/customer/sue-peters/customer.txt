@@ -1,0 +1,33 @@
+Title: SUE PETERS
+
+----
+
+Customer-id: 197
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: SUE
+
+----
+
+Last-name: PETERS
+
+----
+
+Email: SUE.PETERS@sakilacustomer.org
+
+----
+
+Address: page://xa5GzWn17uFY9Itz
+
+----
+
+Active: 1
+
+----
+
+Uuid: CcA8b6iqpwFbs801

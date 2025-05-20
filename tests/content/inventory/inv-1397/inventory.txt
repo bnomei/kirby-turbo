@@ -1,0 +1,17 @@
+Title: Inv 1397
+
+----
+
+Inventory-id: 1397
+
+----
+
+Film: page://y1xbqPCqXzAv4zdQ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 23b5CQvItJwm6qCm

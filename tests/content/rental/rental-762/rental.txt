@@ -1,0 +1,25 @@
+Title: Rental 762
+
+----
+
+Rental-id: 762
+
+----
+
+Rental-date: 2005-05-29 11:15:51
+
+----
+
+Return-date: 2005-06-06 07:48:51
+
+----
+
+Inventory: page://n35IL6cfDewhpsFD
+
+----
+
+Uuid: oa8Y8xZeXLCz6a4r
+
+----
+
+Customer: page://BHogzYqJMJV97w4u

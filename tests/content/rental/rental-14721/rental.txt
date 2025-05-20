@@ -1,0 +1,25 @@
+Title: Rental 14721
+
+----
+
+Rental-id: 14721
+
+----
+
+Rental-date: 2005-08-21 21:50:51
+
+----
+
+Return-date: 2005-08-30 19:21:51
+
+----
+
+Inventory: page://ObQMCakKPUajiTQx
+
+----
+
+Customer: page://Gi5FRT3pzixrT86D
+
+----
+
+Uuid: w5SBewZs19vF0Oer

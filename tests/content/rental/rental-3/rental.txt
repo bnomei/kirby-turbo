@@ -1,0 +1,25 @@
+Title: Rental 3
+
+----
+
+Rental-id: 3
+
+----
+
+Rental-date: 2005-05-24 23:03:39
+
+----
+
+Return-date: 2005-06-01 22:12:39
+
+----
+
+Inventory: page://ADZOPbQQeaD8IqK6
+
+----
+
+Uuid: ZIuv5xVP6dX2jrwH
+
+----
+
+Customer: page://X8y0Q9Q9rEkii7ym

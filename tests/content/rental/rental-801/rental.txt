@@ -1,0 +1,25 @@
+Title: Rental 801
+
+----
+
+Rental-id: 801
+
+----
+
+Rental-date: 2005-05-29 17:35:50
+
+----
+
+Return-date: 2005-06-04 17:05:50
+
+----
+
+Inventory: page://UnxidhJY3Ul3fh6p
+
+----
+
+Uuid: fCwL8nrynL6RxuWR
+
+----
+
+Customer: page://MHsTo5Inth1qIcsX

@@ -1,0 +1,17 @@
+Title: Inv 2494
+
+----
+
+Inventory-id: 2494
+
+----
+
+Film: page://zK1GtkhFkOxz6SvY
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: sa0WBPjkU2o5QNRd

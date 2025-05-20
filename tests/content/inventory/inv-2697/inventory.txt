@@ -1,0 +1,17 @@
+Title: Inv 2697
+
+----
+
+Inventory-id: 2697
+
+----
+
+Film: page://wYQDxxZ9z7n1xG4t
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: a1xjXFmPSAA7v47Z

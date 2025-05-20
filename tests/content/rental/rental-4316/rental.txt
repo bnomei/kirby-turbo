@@ -1,0 +1,25 @@
+Title: Rental 4316
+
+----
+
+Rental-id: 4316
+
+----
+
+Rental-date: 2005-07-07 17:44:22
+
+----
+
+Return-date: 2005-07-14 15:12:22
+
+----
+
+Inventory: page://k9kTJ8wnERbZfmaj
+
+----
+
+Uuid: CvbmxiL8lpzlqnsV
+
+----
+
+Customer: page://d4uyJxb6OPu5hZso

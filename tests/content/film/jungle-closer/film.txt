@@ -1,0 +1,44 @@
+Title: JUNGLE CLOSER
+
+----
+
+Actors:
+
+- 'page://5ruVLAhmJBWUKPci'
+- 'page://NlhyBSq5UemRMvfg'
+- 'page://GA1ldK0BGihIEfd4'
+- 'page://r6UF6pUyhmwAPzIH'
+- 'page://HBk8OpEyVf68VCvH'
+- 'page://Q7LFBcb3oEdhSO9W'
+
+----
+
+Film-id: 492
+
+----
+
+Description: A Boring Character Study of a Boy And a Woman who must Battle a Astronaut in Australia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 134
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: uHOwKV5TNPbFhhbe
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

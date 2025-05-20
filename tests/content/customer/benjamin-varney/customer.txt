@@ -1,0 +1,33 @@
+Title: BENJAMIN VARNEY
+
+----
+
+Customer-id: 364
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: BENJAMIN
+
+----
+
+Last-name: VARNEY
+
+----
+
+Email: BENJAMIN.VARNEY@sakilacustomer.org
+
+----
+
+Address: page://hx4TILEmJ60G1oD9
+
+----
+
+Active: 1
+
+----
+
+Uuid: G7aBBPXnsH9z6xIt

@@ -1,0 +1,25 @@
+Title: Rental 6981
+
+----
+
+Rental-id: 6981
+
+----
+
+Rental-date: 2005-07-27 00:51:38
+
+----
+
+Return-date: 2005-07-28 01:06:38
+
+----
+
+Inventory: page://Ea568WtJbCw5mUNS
+
+----
+
+Customer: page://6AfyzE8pXJJyjhny
+
+----
+
+Uuid: uVFFQ60aE6ChOHZv

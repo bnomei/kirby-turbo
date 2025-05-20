@@ -1,0 +1,25 @@
+Title: Rental 6339
+
+----
+
+Rental-id: 6339
+
+----
+
+Rental-date: 2005-07-11 19:45:32
+
+----
+
+Return-date: 2005-07-18 22:34:32
+
+----
+
+Inventory: page://uj4pcD1JjjIaa0hx
+
+----
+
+Uuid: IgFGJaA1RGfY21Qr
+
+----
+
+Customer: page://yjYvst4Pui2DtNsv

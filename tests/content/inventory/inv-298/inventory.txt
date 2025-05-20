@@ -1,0 +1,17 @@
+Title: Inv 298
+
+----
+
+Inventory-id: 298
+
+----
+
+Film: page://Dfv0e5Nc8Xyf5wF3
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: b5ZQJGootKs0F278

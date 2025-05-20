@@ -1,0 +1,25 @@
+Title: Rental 2071
+
+----
+
+Rental-id: 2071
+
+----
+
+Rental-date: 2005-06-17 16:33:17
+
+----
+
+Return-date: 2005-06-23 21:51:17
+
+----
+
+Inventory: page://rRvXIMWuAxwmB3IS
+
+----
+
+Uuid: zlIcbMLOwyLQJGHw
+
+----
+
+Customer: page://fEgNYhgaLDG3CQLU

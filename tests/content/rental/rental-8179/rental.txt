@@ -1,0 +1,25 @@
+Title: Rental 8179
+
+----
+
+Rental-id: 8179
+
+----
+
+Rental-date: 2005-07-28 22:05:13
+
+----
+
+Return-date: 2005-07-30 21:57:13
+
+----
+
+Inventory: page://y4qIJR1bZbs8Ev3Z
+
+----
+
+Customer: page://cVyeNQ8g1rAU35Mi
+
+----
+
+Uuid: 5fgVMwklvzhub4UM

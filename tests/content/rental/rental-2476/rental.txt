@@ -1,0 +1,25 @@
+Title: Rental 2476
+
+----
+
+Rental-id: 2476
+
+----
+
+Rental-date: 2005-06-18 20:57:12
+
+----
+
+Return-date: 2005-06-20 15:42:12
+
+----
+
+Inventory: page://1ZEKTHw5JWysw8ia
+
+----
+
+Uuid: egibUUkmctLbS0ju
+
+----
+
+Customer: page://1lV61pgXzMTI9zGL

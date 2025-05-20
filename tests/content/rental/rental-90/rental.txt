@@ -1,0 +1,25 @@
+Title: Rental 90
+
+----
+
+Rental-id: 90
+
+----
+
+Rental-date: 2005-05-25 14:31:25
+
+----
+
+Return-date: 2005-06-01 10:07:25
+
+----
+
+Inventory: page://sCmb2LLBexNpMYnF
+
+----
+
+Uuid: W2Dsqc71SgytpUjI
+
+----
+
+Customer: page://UPEEX9gIWkqOHeie

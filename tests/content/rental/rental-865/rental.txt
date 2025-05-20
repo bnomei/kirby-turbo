@@ -1,0 +1,25 @@
+Title: Rental 865
+
+----
+
+Rental-id: 865
+
+----
+
+Rental-date: 2005-05-30 03:39:44
+
+----
+
+Return-date: 2005-06-07 08:10:44
+
+----
+
+Inventory: page://5CGu3VKmkYMXS1Ev
+
+----
+
+Uuid: QYnDRQwQadpBhhCt
+
+----
+
+Customer: page://cUF1fk2bBpJmuvzJ

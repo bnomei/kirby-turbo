@@ -1,0 +1,33 @@
+Title: VICTORIA GIBSON
+
+----
+
+Customer-id: 116
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: VICTORIA
+
+----
+
+Last-name: GIBSON
+
+----
+
+Email: VICTORIA.GIBSON@sakilacustomer.org
+
+----
+
+Address: page://gBRUpmLYYes93kwI
+
+----
+
+Active: 1
+
+----
+
+Uuid: T9Zm4dl6jOmrQnrt

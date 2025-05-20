@@ -1,0 +1,45 @@
+Title: SPOILERS HELLFIGHTERS
+
+----
+
+Actors:
+
+- 'page://8DAvKBc0CuAdRfXU'
+- 'page://l9F1V32tlG60bBdO'
+- 'page://I440rKCeu4AX6xcF'
+- 'page://RHCn9jMuVT1ewFhv'
+- 'page://nGhJyQbze3rAAH9v'
+- 'page://zrJrW5pbY6A6t722'
+- 'page://h9gp2o2uGocb4AUV'
+
+----
+
+Film-id: 834
+
+----
+
+Description: A Fanciful Story of a Technical Writer And a Squirrel who must Defeat a Dog in The Gulf of Mexico
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 151
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: Rvrqa9MKpxBulY85
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

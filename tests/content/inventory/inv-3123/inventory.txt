@@ -1,0 +1,17 @@
+Title: Inv 3123
+
+----
+
+Inventory-id: 3123
+
+----
+
+Film: page://ZIJygfycgSQH5kxt
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: cfh1tY7BESOST2Qa

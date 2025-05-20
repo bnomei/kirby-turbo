@@ -1,0 +1,33 @@
+Title: ISAAC OGLESBY
+
+----
+
+Customer-id: 575
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ISAAC
+
+----
+
+Last-name: OGLESBY
+
+----
+
+Email: ISAAC.OGLESBY@sakilacustomer.org
+
+----
+
+Address: page://4PsCocQpVk0Spl3o
+
+----
+
+Active: 1
+
+----
+
+Uuid: rrY2EqqBMU56rgxn

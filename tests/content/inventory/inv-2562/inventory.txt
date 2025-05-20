@@ -1,0 +1,17 @@
+Title: Inv 2562
+
+----
+
+Inventory-id: 2562
+
+----
+
+Film: page://z0R1w2WeUBW0GKtB
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 74Y3SIr2WXG96tjo

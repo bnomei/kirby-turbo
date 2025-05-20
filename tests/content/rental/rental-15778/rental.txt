@@ -1,0 +1,21 @@
+Title: Rental 15778
+
+----
+
+Rental-id: 15778
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://ykwd68OzpRTFvf9R
+
+----
+
+Customer: page://tXU6KMhmykXTBWCU
+
+----
+
+Uuid: SewwqBcifgd1To4W

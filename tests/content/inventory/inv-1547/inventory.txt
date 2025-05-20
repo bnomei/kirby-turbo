@@ -1,0 +1,17 @@
+Title: Inv 1547
+
+----
+
+Inventory-id: 1547
+
+----
+
+Film: page://FrgMikucjaFCqAyi
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 4qtdDaIHcn336LcV

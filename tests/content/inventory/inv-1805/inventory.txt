@@ -1,0 +1,17 @@
+Title: Inv 1805
+
+----
+
+Inventory-id: 1805
+
+----
+
+Film: page://8wDEgH9F2alyHozl
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: BMdPg370FIBzxpRS

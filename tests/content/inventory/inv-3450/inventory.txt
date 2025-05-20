@@ -1,0 +1,17 @@
+Title: Inv 3450
+
+----
+
+Inventory-id: 3450
+
+----
+
+Film: page://nyCfKOvGgbQX5kHu
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: WJjCG7igk7Goc3i2

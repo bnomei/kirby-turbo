@@ -1,0 +1,17 @@
+Title: Inv 763
+
+----
+
+Inventory-id: 763
+
+----
+
+Film: page://eHq1c3vcaeybCh3j
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: AvlDJFaKve3MTNRO

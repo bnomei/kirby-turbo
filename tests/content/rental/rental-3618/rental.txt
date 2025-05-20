@@ -1,0 +1,25 @@
+Title: Rental 3618
+
+----
+
+Rental-id: 3618
+
+----
+
+Rental-date: 2005-07-06 05:58:45
+
+----
+
+Return-date: 2005-07-15 09:13:45
+
+----
+
+Inventory: page://BmtxrdliwACuhQ1o
+
+----
+
+Uuid: mX6Jv9A1Vybgg4Qp
+
+----
+
+Customer: page://PTRh5UK45MCW3LWn

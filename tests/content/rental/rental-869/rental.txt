@@ -1,0 +1,25 @@
+Title: Rental 869
+
+----
+
+Rental-id: 869
+
+----
+
+Rental-date: 2005-05-30 04:22:06
+
+----
+
+Return-date: 2005-06-03 09:18:06
+
+----
+
+Inventory: page://bGWmuJNEqHNP2d2Y
+
+----
+
+Uuid: 3ZOonyz2xpZynmjZ
+
+----
+
+Customer: page://UxrVUUMWkjZpGsKW

@@ -1,0 +1,25 @@
+Title: Rental 7336
+
+----
+
+Rental-id: 7336
+
+----
+
+Rental-date: 2005-07-27 14:11:45
+
+----
+
+Return-date: 2005-07-28 11:00:45
+
+----
+
+Inventory: page://oaSJZalRrKJ8Cj8B
+
+----
+
+Customer: page://uTsl9Wlh901HIAgF
+
+----
+
+Uuid: D7XCazWKEUANroN7

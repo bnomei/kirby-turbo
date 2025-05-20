@@ -1,0 +1,25 @@
+Title: Rental 259
+
+----
+
+Rental-id: 259
+
+----
+
+Rental-date: 2005-05-26 15:32:46
+
+----
+
+Return-date: 2005-06-04 15:27:46
+
+----
+
+Inventory: page://TnE3Y5H4TLBPzMYZ
+
+----
+
+Uuid: rC3VBnYtvqTrAxWp
+
+----
+
+Customer: page://rKjnon1qwpzbv3fn

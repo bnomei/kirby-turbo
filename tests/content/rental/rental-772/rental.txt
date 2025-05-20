@@ -1,0 +1,25 @@
+Title: Rental 772
+
+----
+
+Rental-id: 772
+
+----
+
+Rental-date: 2005-05-29 13:08:06
+
+----
+
+Return-date: 2005-06-06 08:19:06
+
+----
+
+Inventory: page://F0Cv6thh9nCM9cPP
+
+----
+
+Uuid: 9RPo3Y6ft2DC3e2n
+
+----
+
+Customer: page://jvfTUTQTIh7rD2Pp

@@ -1,0 +1,33 @@
+Title: SCOTT SHELLEY
+
+----
+
+Customer-id: 330
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: SCOTT
+
+----
+
+Last-name: SHELLEY
+
+----
+
+Email: SCOTT.SHELLEY@sakilacustomer.org
+
+----
+
+Address: page://2HQjNI1KuLgx7FUm
+
+----
+
+Active: 1
+
+----
+
+Uuid: INrXMEKuIOKn9hxK

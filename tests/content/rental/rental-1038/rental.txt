@@ -1,0 +1,25 @@
+Title: Rental 1038
+
+----
+
+Rental-id: 1038
+
+----
+
+Rental-date: 2005-05-31 05:23:47
+
+----
+
+Return-date: 2005-06-02 03:57:47
+
+----
+
+Inventory: page://MKlbJxdnfnaCFvqx
+
+----
+
+Uuid: utwvHrYddGy7OCOm
+
+----
+
+Customer: page://Touuz3iduKG3abAU

@@ -1,0 +1,33 @@
+Title: DANIEL CABRAL
+
+----
+
+Customer-id: 310
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: DANIEL
+
+----
+
+Last-name: CABRAL
+
+----
+
+Email: DANIEL.CABRAL@sakilacustomer.org
+
+----
+
+Address: page://ih2i61O4fZlUSC5K
+
+----
+
+Active: 1
+
+----
+
+Uuid: Tgto21f29ojBzgwB

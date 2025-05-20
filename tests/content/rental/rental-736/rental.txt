@@ -1,0 +1,25 @@
+Title: Rental 736
+
+----
+
+Rental-id: 736
+
+----
+
+Rental-date: 2005-05-29 08:10:07
+
+----
+
+Return-date: 2005-06-05 10:21:07
+
+----
+
+Inventory: page://6Z7BeszZKJLWsBvS
+
+----
+
+Uuid: xO6e0YSv3wLDhZ2e
+
+----
+
+Customer: page://ITr0DtQiC8vNX3ax

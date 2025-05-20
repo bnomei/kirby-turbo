@@ -1,0 +1,25 @@
+Title: Rental 705
+
+----
+
+Rental-id: 705
+
+----
+
+Rental-date: 2005-05-29 02:48:52
+
+----
+
+Return-date: 2005-05-30 06:21:52
+
+----
+
+Inventory: page://cogdYVhD2wpxeZus
+
+----
+
+Uuid: vTZMGxe5Ls8XBYCK
+
+----
+
+Customer: page://RjuxtMHbOY6NJALL

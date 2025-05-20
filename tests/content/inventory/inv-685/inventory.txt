@@ -1,0 +1,17 @@
+Title: Inv 685
+
+----
+
+Inventory-id: 685
+
+----
+
+Film: page://VgaqjUQcQdq5w9OH
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: epx5bqiq4D8bciwK

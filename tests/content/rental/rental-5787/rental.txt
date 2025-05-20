@@ -1,0 +1,25 @@
+Title: Rental 5787
+
+----
+
+Rental-id: 5787
+
+----
+
+Rental-date: 2005-07-10 14:08:49
+
+----
+
+Return-date: 2005-07-19 18:29:49
+
+----
+
+Inventory: page://2WPcGHhOQZPZ9fjm
+
+----
+
+Uuid: N0jYw0jwGc15RB90
+
+----
+
+Customer: page://074m4vQayjqUygEq

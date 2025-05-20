@@ -1,0 +1,33 @@
+Title: VIVIAN RUIZ
+
+----
+
+Customer-id: 184
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: VIVIAN
+
+----
+
+Last-name: RUIZ
+
+----
+
+Email: VIVIAN.RUIZ@sakilacustomer.org
+
+----
+
+Address: page://yfU12JUzEbQsEGyR
+
+----
+
+Active: 1
+
+----
+
+Uuid: lbp1BbLq7Ei9MNWx

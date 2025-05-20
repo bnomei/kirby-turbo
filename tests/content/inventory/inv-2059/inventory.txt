@@ -1,0 +1,17 @@
+Title: Inv 2059
+
+----
+
+Inventory-id: 2059
+
+----
+
+Film: page://Xvezg1HAGLbTRKmJ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: uT9v54YiWnB6LfKF

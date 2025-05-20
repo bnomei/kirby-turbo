@@ -1,0 +1,25 @@
+Title: Rental 8795
+
+----
+
+Rental-id: 8795
+
+----
+
+Rental-date: 2005-07-29 21:04:14
+
+----
+
+Return-date: 2005-07-31 02:58:14
+
+----
+
+Inventory: page://tVcJyAjPP0XlcaNp
+
+----
+
+Customer: page://EN43JZfYCm84hq5t
+
+----
+
+Uuid: Jk1THqgyd7ywgi4C

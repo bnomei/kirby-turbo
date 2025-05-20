@@ -1,0 +1,17 @@
+Title: Inv 1297
+
+----
+
+Inventory-id: 1297
+
+----
+
+Film: page://JnBVTiYjE406f6Ty
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 6QToMIEwxqaEgWaP

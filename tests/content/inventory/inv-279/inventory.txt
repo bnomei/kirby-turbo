@@ -1,0 +1,17 @@
+Title: Inv 279
+
+----
+
+Inventory-id: 279
+
+----
+
+Film: page://qeZApx9fSZJK9mfS
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 1jZ2c48dzg43yVFw

@@ -1,0 +1,42 @@
+Title: WORST BANGER
+
+----
+
+Actors:
+
+- 'page://y29OJNxDr3yTLShi'
+- 'page://YBKuIiLT3VizSQRI'
+- 'page://KWXiI33RIY2Yllal'
+- 'page://nNLtL91vUU653tYz'
+
+----
+
+Film-id: 991
+
+----
+
+Description: A Thrilling Drama of a Madman And a Dentist who must Conquer a Boy in The Outback
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 185
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: ZXTM7tsCkXieNdvb
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

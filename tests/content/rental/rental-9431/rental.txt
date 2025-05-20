@@ -1,0 +1,25 @@
+Title: Rental 9431
+
+----
+
+Rental-id: 9431
+
+----
+
+Rental-date: 2005-07-30 21:24:22
+
+----
+
+Return-date: 2005-08-03 01:22:22
+
+----
+
+Inventory: page://W2hVp4sqlmKI205T
+
+----
+
+Customer: page://JebvRlPdouQGnPtA
+
+----
+
+Uuid: 3Q0Yqz0erxiqMDLL

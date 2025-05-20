@@ -1,0 +1,33 @@
+Title: LEWIS LYMAN
+
+----
+
+Customer-id: 478
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: LEWIS
+
+----
+
+Last-name: LYMAN
+
+----
+
+Email: LEWIS.LYMAN@sakilacustomer.org
+
+----
+
+Address: page://MFpRtd8qt6QuvfTG
+
+----
+
+Active: 1
+
+----
+
+Uuid: FHiywQ5Ofsh5PWoq

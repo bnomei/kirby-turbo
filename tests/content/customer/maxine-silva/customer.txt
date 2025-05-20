@@ -1,0 +1,33 @@
+Title: MAXINE SILVA
+
+----
+
+Customer-id: 254
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: MAXINE
+
+----
+
+Last-name: SILVA
+
+----
+
+Email: MAXINE.SILVA@sakilacustomer.org
+
+----
+
+Address: page://KUNOFvm5jSwP7ue3
+
+----
+
+Active: 1
+
+----
+
+Uuid: v2N94muKJ3uhMCtA

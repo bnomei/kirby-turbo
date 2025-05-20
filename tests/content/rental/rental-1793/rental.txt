@@ -1,0 +1,25 @@
+Title: Rental 1793
+
+----
+
+Rental-id: 1793
+
+----
+
+Rental-date: 2005-06-16 20:07:27
+
+----
+
+Return-date: 2005-06-19 20:55:27
+
+----
+
+Inventory: page://4HnM2f8LHCzmG7Ww
+
+----
+
+Uuid: RiQP3cBfTRw0K8w5
+
+----
+
+Customer: page://ltxKpaFHuKcnO7ee

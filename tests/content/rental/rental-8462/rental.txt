@@ -1,0 +1,25 @@
+Title: Rental 8462
+
+----
+
+Rental-id: 8462
+
+----
+
+Rental-date: 2005-07-29 08:15:42
+
+----
+
+Return-date: 2005-08-04 03:57:42
+
+----
+
+Inventory: page://rilqvqgk03Ae2PHY
+
+----
+
+Customer: page://9M7WmMyIHxnO6lL5
+
+----
+
+Uuid: z2lnMzFhSgNr0ZDJ

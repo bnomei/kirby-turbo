@@ -1,0 +1,17 @@
+Title: Inv 1705
+
+----
+
+Inventory-id: 1705
+
+----
+
+Film: page://kFqayhEGFkFDzx5M
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: qzXPde2yVufoDZ3o

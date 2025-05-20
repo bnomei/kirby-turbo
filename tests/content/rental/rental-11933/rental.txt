@@ -1,0 +1,25 @@
+Title: Rental 11933
+
+----
+
+Rental-id: 11933
+
+----
+
+Rental-date: 2005-08-17 16:38:20
+
+----
+
+Return-date: 2005-08-22 14:31:20
+
+----
+
+Inventory: page://xZMQVZYUmdSrLL76
+
+----
+
+Customer: page://GsCMla3dLxvFaycH
+
+----
+
+Uuid: JKAolbZoTOHQ2YK3

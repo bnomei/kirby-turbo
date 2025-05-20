@@ -1,0 +1,17 @@
+Title: Inv 2701
+
+----
+
+Inventory-id: 2701
+
+----
+
+Film: page://YhpwaSeGCZssd2Qj
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: LD3cRk0dQdf5oYsm

@@ -1,0 +1,33 @@
+Title: MANUEL MURRELL
+
+----
+
+Customer-id: 408
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MANUEL
+
+----
+
+Last-name: MURRELL
+
+----
+
+Email: MANUEL.MURRELL@sakilacustomer.org
+
+----
+
+Address: page://6icCo8YJFeztYPbH
+
+----
+
+Active: 1
+
+----
+
+Uuid: X8y0Q9Q9rEkii7ym

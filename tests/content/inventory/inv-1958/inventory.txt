@@ -1,0 +1,17 @@
+Title: Inv 1958
+
+----
+
+Inventory-id: 1958
+
+----
+
+Film: page://YwoyS9HpnX8WupTn
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: wawudtz2vguh76ct

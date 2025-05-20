@@ -1,0 +1,33 @@
+Title: RICHARD MCCRARY
+
+----
+
+Customer-id: 305
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: RICHARD
+
+----
+
+Last-name: MCCRARY
+
+----
+
+Email: RICHARD.MCCRARY@sakilacustomer.org
+
+----
+
+Address: page://ngmgXfSx8XZuysvj
+
+----
+
+Active: 1
+
+----
+
+Uuid: 7iGZLGyiqgYlIYqZ

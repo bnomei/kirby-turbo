@@ -1,0 +1,25 @@
+Title: Rental 7205
+
+----
+
+Rental-id: 7205
+
+----
+
+Rental-date: 2005-07-27 09:06:13
+
+----
+
+Return-date: 2005-08-05 07:11:13
+
+----
+
+Inventory: page://oxlw5udt0NtKsuX2
+
+----
+
+Customer: page://qeEo6FrEXh8ohhLi
+
+----
+
+Uuid: 1fJ3DMpHws2dqkpY

@@ -1,0 +1,42 @@
+Title: TRAINSPOTTING STRANGERS
+
+----
+
+Actors:
+
+- 'page://s69sG8lNdmqtvA7p'
+- 'page://wxM7fPnQeVIlPpuJ'
+- 'page://1JHTierDMQdVCXSe'
+- 'page://3BcvBP3gfacEDPsU'
+
+----
+
+Film-id: 905
+
+----
+
+Description: A Fast-Paced Drama of a Pioneer And a Mad Cow who must Challenge a Madman in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 132
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: I28aAptXi3bWMm6Q
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

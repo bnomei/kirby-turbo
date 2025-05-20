@@ -1,0 +1,17 @@
+Title: Inv 1738
+
+----
+
+Inventory-id: 1738
+
+----
+
+Film: page://X9U4Fq1hpLRWz6uH
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: kT521QvCpaNCQcHW

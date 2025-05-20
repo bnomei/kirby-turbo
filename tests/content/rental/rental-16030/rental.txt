@@ -1,0 +1,25 @@
+Title: Rental 16030
+
+----
+
+Rental-id: 16030
+
+----
+
+Rental-date: 2005-08-23 21:56:04
+
+----
+
+Return-date: 2005-08-31 01:24:04
+
+----
+
+Inventory: page://XxRDeQfX2l6QtH5c
+
+----
+
+Customer: page://JGObmqCrrIzDgkRb
+
+----
+
+Uuid: kAV9QnnrOo17iVoD

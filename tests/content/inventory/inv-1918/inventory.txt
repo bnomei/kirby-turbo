@@ -1,0 +1,17 @@
+Title: Inv 1918
+
+----
+
+Inventory-id: 1918
+
+----
+
+Film: page://AUYUSAlHslxGZN9K
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: kvjcaNYvJTFMmJMs

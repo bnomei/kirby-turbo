@@ -1,0 +1,25 @@
+Title: Rental 10443
+
+----
+
+Rental-id: 10443
+
+----
+
+Rental-date: 2005-08-01 09:01:04
+
+----
+
+Return-date: 2005-08-04 09:07:04
+
+----
+
+Inventory: page://zpvuvvWUY42QPKcv
+
+----
+
+Customer: page://sNiE3u2o38XV820m
+
+----
+
+Uuid: igRHBk3J3iVEp5qr

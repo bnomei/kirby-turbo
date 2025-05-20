@@ -1,0 +1,46 @@
+Title: FLYING HOOK
+
+----
+
+Actors:
+
+- 'page://9zoYPXEbxK6liKqc'
+- 'page://JR0gbBMz8ekt1gGa'
+- 'page://xfLW2h8D6Ci3k3ux'
+- 'page://q6i5HOIdG8dGz8Im'
+- 'page://Sl1QfOYn2gZWMd2L'
+- 'page://CI649GdI5JvIKbQ1'
+- 'page://4H5a71re4eGpTLKc'
+- 'page://xXgVj4FQPZ59wjBk'
+
+----
+
+Film-id: 326
+
+----
+
+Description: A Thrilling Display of a Mad Cow And a Dog who must Challenge a Frisbee in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 69
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: oezWSCFfJShYLNTc
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

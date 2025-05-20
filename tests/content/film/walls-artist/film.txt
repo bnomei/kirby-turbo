@@ -1,0 +1,43 @@
+Title: WALLS ARTIST
+
+----
+
+Actors:
+
+- 'page://f54gdCyL7WpJ8aUr'
+- 'page://75IrF5RezCSzGKrx'
+- 'page://T2A5mLQSqhcfEEMm'
+- 'page://0h8tQJYts8gmFWwG'
+- 'page://jSbKN9X4MDWI1G5U'
+
+----
+
+Film-id: 955
+
+----
+
+Description: A Insightful Panorama of a Teacher And a Teacher who must Overcome a Mad Cow in An Abandoned Fun House
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 135
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: ElxgSl88cUlMXjzZ
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

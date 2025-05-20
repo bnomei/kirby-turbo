@@ -1,0 +1,25 @@
+Title: Rental 880
+
+----
+
+Rental-id: 880
+
+----
+
+Rental-date: 2005-05-30 06:12:33
+
+----
+
+Return-date: 2005-06-02 04:35:33
+
+----
+
+Inventory: page://x6L2SBpJJXTya7Tx
+
+----
+
+Uuid: QtorbbipHizv65jG
+
+----
+
+Customer: page://8rYUMFeo4rjtDGSj

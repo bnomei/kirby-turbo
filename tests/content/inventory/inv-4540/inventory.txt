@@ -1,0 +1,17 @@
+Title: Inv 4540
+
+----
+
+Inventory-id: 4540
+
+----
+
+Film: page://ZXTM7tsCkXieNdvb
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: M99CjiQ3cKqwD8pV

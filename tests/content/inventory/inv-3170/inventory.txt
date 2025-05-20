@@ -1,0 +1,17 @@
+Title: Inv 3170
+
+----
+
+Inventory-id: 3170
+
+----
+
+Film: page://Ns11e990ZKcb5jfW
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: YTtoqdCQKUkPT9pz

@@ -1,0 +1,25 @@
+Title: Rental 14844
+
+----
+
+Rental-id: 14844
+
+----
+
+Rental-date: 2005-08-22 02:09:12
+
+----
+
+Return-date: 2005-08-31 05:43:12
+
+----
+
+Inventory: page://ZX0WKL0nWtHhhgLM
+
+----
+
+Customer: page://i7YOMN6TypeotXP0
+
+----
+
+Uuid: GKaWDXAnM984paqp

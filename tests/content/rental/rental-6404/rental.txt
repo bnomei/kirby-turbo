@@ -1,0 +1,25 @@
+Title: Rental 6404
+
+----
+
+Rental-id: 6404
+
+----
+
+Rental-date: 2005-07-11 22:49:50
+
+----
+
+Return-date: 2005-07-14 18:29:50
+
+----
+
+Inventory: page://hnh17gLXQfUZPxwT
+
+----
+
+Uuid: OdidWIOHGxipELs0
+
+----
+
+Customer: page://yQcQ1eHjHG2TC2t0

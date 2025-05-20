@@ -1,0 +1,17 @@
+Title: Inv 2508
+
+----
+
+Inventory-id: 2508
+
+----
+
+Film: page://rYznzisOhkTNSdBa
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 2VF1vvCUMeFGRcRU

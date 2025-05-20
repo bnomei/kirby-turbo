@@ -1,0 +1,33 @@
+Title: TONYA CHAPMAN
+
+----
+
+Customer-id: 209
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: TONYA
+
+----
+
+Last-name: CHAPMAN
+
+----
+
+Email: TONYA.CHAPMAN@sakilacustomer.org
+
+----
+
+Address: page://aJQECnkQBWsdqjdt
+
+----
+
+Active: 1
+
+----
+
+Uuid: 7xbkabb9oALGCtIT

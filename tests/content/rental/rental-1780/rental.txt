@@ -1,0 +1,25 @@
+Title: Rental 1780
+
+----
+
+Rental-id: 1780
+
+----
+
+Rental-date: 2005-06-16 19:11:45
+
+----
+
+Return-date: 2005-06-19 15:34:45
+
+----
+
+Inventory: page://45mLNyVKi1eyNpvw
+
+----
+
+Uuid: TpzYtie5Depzqx1c
+
+----
+
+Customer: page://alzSQpRBPNGWEUd4

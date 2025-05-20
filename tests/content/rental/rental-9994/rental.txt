@@ -1,0 +1,25 @@
+Title: Rental 9994
+
+----
+
+Rental-id: 9994
+
+----
+
+Rental-date: 2005-07-31 17:30:31
+
+----
+
+Return-date: 2005-08-01 11:35:31
+
+----
+
+Inventory: page://Ocyzvquh6sfmdT9y
+
+----
+
+Customer: page://KVKe37M7cjhEl7hH
+
+----
+
+Uuid: MPZk7oIqJ9W2w8ah

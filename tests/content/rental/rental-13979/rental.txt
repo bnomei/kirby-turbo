@@ -1,0 +1,25 @@
+Title: Rental 13979
+
+----
+
+Rental-id: 13979
+
+----
+
+Rental-date: 2005-08-20 19:03:49
+
+----
+
+Return-date: 2005-08-24 21:23:49
+
+----
+
+Inventory: page://ciIJoVpEHki4Xsid
+
+----
+
+Customer: page://2MJV1ploMc8lFO2Z
+
+----
+
+Uuid: vMypPcBDZQM8hneQ

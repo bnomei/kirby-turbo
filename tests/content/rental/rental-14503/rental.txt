@@ -1,0 +1,21 @@
+Title: Rental 14503
+
+----
+
+Rental-id: 14503
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://w5epcep7HEgf7QS4
+
+----
+
+Customer: page://6zbsFStjd2wpvc1C
+
+----
+
+Uuid: n80PYDyB2HBOV8tP

@@ -1,0 +1,25 @@
+Title: Rental 11916
+
+----
+
+Rental-id: 11916
+
+----
+
+Rental-date: 2005-08-17 16:05:51
+
+----
+
+Return-date: 2005-08-20 10:23:51
+
+----
+
+Inventory: page://HMBAFcn4LgbM2eT7
+
+----
+
+Customer: page://jQgJTEFW0ApOfR1S
+
+----
+
+Uuid: v3nzhWZYQjj4jI3Y

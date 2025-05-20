@@ -1,0 +1,45 @@
+Title: MADNESS ATTACKS
+
+----
+
+Actors:
+
+- 'page://8uCKHWVFS7qGgYjl'
+- 'page://u0N0ozPCYMgg4oo9'
+- 'page://YBKuIiLT3VizSQRI'
+- 'page://VQ2tezOinyzNJNH4'
+- 'page://FSTBtYrNkVQnDKPa'
+- 'page://nGhJyQbze3rAAH9v'
+- 'page://FLMpVB5CVJFKSGVy'
+
+----
+
+Film-id: 545
+
+----
+
+Description: A Fanciful Tale of a Squirrel And a Boat who must Defeat a Crocodile in The Gulf of Mexico
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 178
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: 0ut8BCJFwRNCJRYS
+
+----
+
+Categories: - 'page://1zSlwtq2IyzVh9Hs'

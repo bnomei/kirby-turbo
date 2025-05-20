@@ -1,0 +1,17 @@
+Title: Inv 820
+
+----
+
+Inventory-id: 820
+
+----
+
+Film: page://oDl4KWwIRECh8CaC
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 8gP9g4hk7bA3yiHW

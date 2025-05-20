@@ -1,0 +1,33 @@
+Title: JESSE SCHILLING
+
+----
+
+Customer-id: 387
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JESSE
+
+----
+
+Last-name: SCHILLING
+
+----
+
+Email: JESSE.SCHILLING@sakilacustomer.org
+
+----
+
+Address: page://toR1IobTxHPTJKIQ
+
+----
+
+Active: 1
+
+----
+
+Uuid: F6pL0bxX1YRyvGAo

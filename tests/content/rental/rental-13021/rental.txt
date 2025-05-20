@@ -1,0 +1,25 @@
+Title: Rental 13021
+
+----
+
+Rental-id: 13021
+
+----
+
+Rental-date: 2005-08-19 08:08:04
+
+----
+
+Return-date: 2005-08-26 12:04:04
+
+----
+
+Inventory: page://9QtXRZY0bPFP4KAO
+
+----
+
+Customer: page://6W4MNt60QNzdOkOf
+
+----
+
+Uuid: p6hBtMApBZbfBsGd

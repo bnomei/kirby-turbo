@@ -1,0 +1,33 @@
+Title: TINA SIMMONS
+
+----
+
+Customer-id: 92
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: TINA
+
+----
+
+Last-name: SIMMONS
+
+----
+
+Email: TINA.SIMMONS@sakilacustomer.org
+
+----
+
+Address: page://LmkQh5KoxZA7KbOC
+
+----
+
+Active: 1
+
+----
+
+Uuid: 4x9Op7aGVprxBkqV

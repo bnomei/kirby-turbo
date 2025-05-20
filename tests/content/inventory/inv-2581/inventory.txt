@@ -1,0 +1,17 @@
+Title: Inv 2581
+
+----
+
+Inventory-id: 2581
+
+----
+
+Film: page://jMhMNQqlA8C8Kpo0
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: YZaCSQuNmNVSliUC

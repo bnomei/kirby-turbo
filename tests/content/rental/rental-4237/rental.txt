@@ -1,0 +1,25 @@
+Title: Rental 4237
+
+----
+
+Rental-id: 4237
+
+----
+
+Rental-date: 2005-07-07 13:16:55
+
+----
+
+Return-date: 2005-07-15 16:33:55
+
+----
+
+Inventory: page://Kdt1moeQyOlpqbVN
+
+----
+
+Uuid: OpbQDO3sQDyX82gw
+
+----
+
+Customer: page://0oAUPq4K85BBzcfb

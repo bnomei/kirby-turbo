@@ -1,0 +1,41 @@
+Title: LEBOWSKI SOLDIERS
+
+----
+
+Actors:
+
+- 'page://Tc5O2MboD06L5UFn'
+- 'page://3O7lqRPKBygXUoTl'
+- 'page://0h8tQJYts8gmFWwG'
+
+----
+
+Film-id: 514
+
+----
+
+Description: A Beautiful Epistle of a Secret Agent And a Pioneer who must Chase a Astronaut in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 69
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: EaSM2LRmuOtGg6lI
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

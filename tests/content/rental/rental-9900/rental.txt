@@ -1,0 +1,25 @@
+Title: Rental 9900
+
+----
+
+Rental-id: 9900
+
+----
+
+Rental-date: 2005-07-31 14:15:05
+
+----
+
+Return-date: 2005-08-07 11:58:05
+
+----
+
+Inventory: page://zIw94bY09CIlU38b
+
+----
+
+Customer: page://KtdUvW4BiY66VFBy
+
+----
+
+Uuid: OuEGxTOo3eYn47Jw

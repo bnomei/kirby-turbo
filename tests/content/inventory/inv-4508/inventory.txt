@@ -1,0 +1,17 @@
+Title: Inv 4508
+
+----
+
+Inventory-id: 4508
+
+----
+
+Film: page://j44nFK3M0tKa4wzG
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: OOBZozBgrrPGroi2

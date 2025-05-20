@@ -1,0 +1,25 @@
+Title: Rental 3987
+
+----
+
+Rental-id: 3987
+
+----
+
+Rental-date: 2005-07-06 23:28:24
+
+----
+
+Return-date: 2005-07-15 00:52:24
+
+----
+
+Inventory: page://rwmzbgAniSLXCbEh
+
+----
+
+Uuid: 0JcqKZHIUssqqtcZ
+
+----
+
+Customer: page://YNtCpMJMomhTZceJ

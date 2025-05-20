@@ -1,0 +1,17 @@
+Title: Inv 1203
+
+----
+
+Inventory-id: 1203
+
+----
+
+Film: page://JL8NNhjpnRA2lPaC
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: v1iKluoCRqRUcdie

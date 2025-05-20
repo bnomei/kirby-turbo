@@ -1,0 +1,25 @@
+Title: Rental 2332
+
+----
+
+Rental-id: 2332
+
+----
+
+Rental-date: 2005-06-18 10:53:51
+
+----
+
+Return-date: 2005-06-24 12:06:51
+
+----
+
+Inventory: page://YH5SAXf86BTMnglf
+
+----
+
+Uuid: dmo32lcwk3B2YmkU
+
+----
+
+Customer: page://mCddyJpSaBf2Pnai

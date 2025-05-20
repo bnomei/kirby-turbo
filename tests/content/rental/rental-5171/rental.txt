@@ -1,0 +1,25 @@
+Title: Rental 5171
+
+----
+
+Rental-id: 5171
+
+----
+
+Rental-date: 2005-07-09 09:26:55
+
+----
+
+Return-date: 2005-07-10 10:34:55
+
+----
+
+Inventory: page://VhsSFnHjUSUQyljb
+
+----
+
+Uuid: a6UYLrTifqee4VBc
+
+----
+
+Customer: page://CWfw6rX3ydLvFm4G

@@ -1,0 +1,25 @@
+Title: Rental 9530
+
+----
+
+Rental-id: 9530
+
+----
+
+Rental-date: 2005-07-31 01:09:06
+
+----
+
+Return-date: 2005-08-04 23:47:06
+
+----
+
+Inventory: page://kixMSWNH2qXB0KdQ
+
+----
+
+Customer: page://bp3076yXkpG6TsZ7
+
+----
+
+Uuid: BUOnSNOe3IL8qaAF

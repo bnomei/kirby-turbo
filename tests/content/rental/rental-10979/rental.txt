@@ -1,0 +1,25 @@
+Title: Rental 10979
+
+----
+
+Rental-id: 10979
+
+----
+
+Rental-date: 2005-08-02 04:16:37
+
+----
+
+Return-date: 2005-08-06 00:01:37
+
+----
+
+Inventory: page://HdoWA9uekOAPPv6Y
+
+----
+
+Customer: page://r0DHyZYSnncl7RM1
+
+----
+
+Uuid: xfLAfQdnb9lCQXKr

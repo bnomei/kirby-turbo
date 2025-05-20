@@ -1,0 +1,25 @@
+Title: Rental 10877
+
+----
+
+Rental-id: 10877
+
+----
+
+Rental-date: 2005-08-02 00:32:04
+
+----
+
+Return-date: 2005-08-07 19:44:04
+
+----
+
+Inventory: page://eOBKRYL9fpfUBaQO
+
+----
+
+Customer: page://z84M1eOE64VO5Dm4
+
+----
+
+Uuid: ZBAVJ9R6Zk2t8Le3

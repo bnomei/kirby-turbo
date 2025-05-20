@@ -1,0 +1,25 @@
+Title: Rental 14711
+
+----
+
+Rental-id: 14711
+
+----
+
+Rental-date: 2005-08-21 21:22:07
+
+----
+
+Return-date: 2005-08-30 16:24:07
+
+----
+
+Inventory: page://KDaBJNwxU0L9vhnl
+
+----
+
+Customer: page://J2P0f5RgZsLYfwfF
+
+----
+
+Uuid: xDtrPUA2a5TJqadl

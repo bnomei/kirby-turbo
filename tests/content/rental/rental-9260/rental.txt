@@ -1,0 +1,25 @@
+Title: Rental 9260
+
+----
+
+Rental-id: 9260
+
+----
+
+Rental-date: 2005-07-30 14:38:22
+
+----
+
+Return-date: 2005-08-07 18:47:22
+
+----
+
+Inventory: page://5Z1yfKgIzSPaAxdH
+
+----
+
+Customer: page://xpGeSpKewe1fsRYQ
+
+----
+
+Uuid: RgCBuVHbdtuYiuhl

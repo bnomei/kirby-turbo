@@ -1,0 +1,33 @@
+Title: BRENDA WRIGHT
+
+----
+
+Customer-id: 31
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: BRENDA
+
+----
+
+Last-name: WRIGHT
+
+----
+
+Email: BRENDA.WRIGHT@sakilacustomer.org
+
+----
+
+Address: page://rv6w2OgRYX6GcoqJ
+
+----
+
+Active: 1
+
+----
+
+Uuid: l2Jzx2MX7M9qrgyM

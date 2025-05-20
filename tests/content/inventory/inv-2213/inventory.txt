@@ -1,0 +1,17 @@
+Title: Inv 2213
+
+----
+
+Inventory-id: 2213
+
+----
+
+Film: page://Q1ki6GVflXeLx7Ws
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Y83kKGwBNyXzdIQ2

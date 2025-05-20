@@ -1,0 +1,17 @@
+Title: Inv 3785
+
+----
+
+Inventory-id: 3785
+
+----
+
+Film: page://ZMhLCoZXlzYKInCX
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: HlEGqTyT2rdntMiL

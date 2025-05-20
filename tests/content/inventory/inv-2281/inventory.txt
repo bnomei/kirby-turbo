@@ -1,0 +1,17 @@
+Title: Inv 2281
+
+----
+
+Inventory-id: 2281
+
+----
+
+Film: page://PEK8sWT3kE8dfwN1
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: MKJiASiYlGWTpB4V

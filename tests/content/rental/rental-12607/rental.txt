@@ -1,0 +1,25 @@
+Title: Rental 12607
+
+----
+
+Rental-id: 12607
+
+----
+
+Rental-date: 2005-08-18 17:03:49
+
+----
+
+Return-date: 2005-08-19 18:29:49
+
+----
+
+Inventory: page://AJePcoYssVQR7mJj
+
+----
+
+Customer: page://yQcQ1eHjHG2TC2t0
+
+----
+
+Uuid: mpPS5BiPLM8RvqsW

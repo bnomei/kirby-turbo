@@ -1,0 +1,33 @@
+Title: HEATHER MORRIS
+
+----
+
+Customer-id: 53
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: HEATHER
+
+----
+
+Last-name: MORRIS
+
+----
+
+Email: HEATHER.MORRIS@sakilacustomer.org
+
+----
+
+Address: page://EcTtZIVYAISNnB0p
+
+----
+
+Active: 1
+
+----
+
+Uuid: 4gdcUTd8Bs7vlXxm

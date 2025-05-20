@@ -1,0 +1,25 @@
+Title: Rental 911
+
+----
+
+Rental-id: 911
+
+----
+
+Rental-date: 2005-05-30 10:50:22
+
+----
+
+Return-date: 2005-06-07 12:26:22
+
+----
+
+Inventory: page://MQBHyeNmcvoVnwJA
+
+----
+
+Uuid: pzlEWP6xa2Cx2ogg
+
+----
+
+Customer: page://YQtY5BLLYVMlkjV2

@@ -1,0 +1,17 @@
+Title: Inv 256
+
+----
+
+Inventory-id: 256
+
+----
+
+Film: page://uIAfqGHSVpJWsHsT
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: OhJ3EmJMjIkWc3py

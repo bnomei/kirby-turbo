@@ -1,0 +1,25 @@
+Title: Rental 7567
+
+----
+
+Rental-id: 7567
+
+----
+
+Rental-date: 2005-07-27 22:38:05
+
+----
+
+Return-date: 2005-07-30 17:20:05
+
+----
+
+Inventory: page://xCvCFLtpFzS005eF
+
+----
+
+Customer: page://3TbKsrXXeDJmJc4J
+
+----
+
+Uuid: ZkRIWFx3RWb120kq

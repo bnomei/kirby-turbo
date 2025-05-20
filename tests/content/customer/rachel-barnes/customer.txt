@@ -1,0 +1,33 @@
+Title: RACHEL BARNES
+
+----
+
+Customer-id: 79
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: RACHEL
+
+----
+
+Last-name: BARNES
+
+----
+
+Email: RACHEL.BARNES@sakilacustomer.org
+
+----
+
+Address: page://EDFqzlwCER0Mk4ZB
+
+----
+
+Active: 1
+
+----
+
+Uuid: bZY1vsN3giMcQSdf

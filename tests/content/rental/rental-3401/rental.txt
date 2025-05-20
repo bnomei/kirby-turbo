@@ -1,0 +1,25 @@
+Title: Rental 3401
+
+----
+
+Rental-id: 3401
+
+----
+
+Rental-date: 2005-06-21 15:52:43
+
+----
+
+Return-date: 2005-06-30 21:09:43
+
+----
+
+Inventory: page://8bIwH0WdwV16pFQ7
+
+----
+
+Uuid: QiB9j47YpE8mAllj
+
+----
+
+Customer: page://M9liVKyqTs6BXoqT

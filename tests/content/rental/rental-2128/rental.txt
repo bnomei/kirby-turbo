@@ -1,0 +1,25 @@
+Title: Rental 2128
+
+----
+
+Rental-id: 2128
+
+----
+
+Rental-date: 2005-06-17 20:54:58
+
+----
+
+Return-date: 2005-06-24 00:41:58
+
+----
+
+Inventory: page://c4GMkTjlOq7eYYk1
+
+----
+
+Uuid: VQlJ49j6u4CEYjPi
+
+----
+
+Customer: page://FiEjPjAVk9G7zTXB

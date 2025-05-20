@@ -1,0 +1,17 @@
+Title: Inv 1842
+
+----
+
+Inventory-id: 1842
+
+----
+
+Film: page://JjidP6lSaa8M8qWs
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: jL7Ux016eGQfgvn7

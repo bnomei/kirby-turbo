@@ -1,0 +1,25 @@
+Title: Rental 7752
+
+----
+
+Rental-id: 7752
+
+----
+
+Rental-date: 2005-07-28 06:01:00
+
+----
+
+Return-date: 2005-08-03 06:09:00
+
+----
+
+Inventory: page://UyaH0OkSiE86v4Xd
+
+----
+
+Customer: page://7xbkabb9oALGCtIT
+
+----
+
+Uuid: wQDvGfJdWVVzbtbE

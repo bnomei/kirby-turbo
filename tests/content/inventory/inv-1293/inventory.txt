@@ -1,0 +1,17 @@
+Title: Inv 1293
+
+----
+
+Inventory-id: 1293
+
+----
+
+Film: page://FdO70OChefMPnCgJ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: rMFIVyyxoCXgY81U

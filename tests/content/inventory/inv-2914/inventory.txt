@@ -1,0 +1,17 @@
+Title: Inv 2914
+
+----
+
+Inventory-id: 2914
+
+----
+
+Film: page://Eus5x1mFT3JhBb84
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 9PnHwN2xNKW16QwB

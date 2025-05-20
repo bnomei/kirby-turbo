@@ -1,0 +1,25 @@
+Title: Rental 10743
+
+----
+
+Rental-id: 10743
+
+----
+
+Rental-date: 2005-08-01 19:55:09
+
+----
+
+Return-date: 2005-08-03 19:29:09
+
+----
+
+Inventory: page://QO3v1QLR0zwbYZ38
+
+----
+
+Customer: page://CcA8b6iqpwFbs801
+
+----
+
+Uuid: SOLBYiDzJU7J7SQn

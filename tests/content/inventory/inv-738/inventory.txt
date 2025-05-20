@@ -1,0 +1,17 @@
+Title: Inv 738
+
+----
+
+Inventory-id: 738
+
+----
+
+Film: page://b3WR2wrdQ8FGZBtm
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: tOQtdCcNdLzfc9sG

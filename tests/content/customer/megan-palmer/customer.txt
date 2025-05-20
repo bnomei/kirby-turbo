@@ -1,0 +1,33 @@
+Title: MEGAN PALMER
+
+----
+
+Customer-id: 151
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: MEGAN
+
+----
+
+Last-name: PALMER
+
+----
+
+Email: MEGAN.PALMER@sakilacustomer.org
+
+----
+
+Address: page://uJXnaaRRwFe7lZaJ
+
+----
+
+Active: 1
+
+----
+
+Uuid: NRpZQOvTU2QBVcZc

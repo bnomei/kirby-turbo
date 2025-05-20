@@ -1,0 +1,25 @@
+Title: Rental 9069
+
+----
+
+Rental-id: 9069
+
+----
+
+Rental-date: 2005-07-30 07:39:59
+
+----
+
+Return-date: 2005-08-02 04:10:59
+
+----
+
+Inventory: page://4Oy6TVMsgNsxyoHr
+
+----
+
+Customer: page://zIZEZREf483r6GLp
+
+----
+
+Uuid: FmtVTcIVrzR9mcaV

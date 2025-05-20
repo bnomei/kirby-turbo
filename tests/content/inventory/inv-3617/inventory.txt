@@ -1,0 +1,17 @@
+Title: Inv 3617
+
+----
+
+Inventory-id: 3617
+
+----
+
+Film: page://8fqUuJnM1g7cWwBp
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: KxlKcL8HxLWtzpNC

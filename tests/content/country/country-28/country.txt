@@ -1,0 +1,13 @@
+Title: Ecuador
+
+----
+
+Country-id: 28
+
+----
+
+Country: Ecuador
+
+----
+
+Uuid: CdWOWyfYrUpbxsG8

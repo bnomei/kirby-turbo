@@ -1,0 +1,25 @@
+Title: Rental 760
+
+----
+
+Rental-id: 760
+
+----
+
+Rental-date: 2005-05-29 11:07:25
+
+----
+
+Return-date: 2005-06-02 14:16:25
+
+----
+
+Inventory: page://tr0lKT5cIoAEBhpq
+
+----
+
+Uuid: CQcX8B63nyyQM7Yu
+
+----
+
+Customer: page://ssRpWEJq6gKOyUIh

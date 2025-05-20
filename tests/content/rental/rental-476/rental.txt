@@ -1,0 +1,25 @@
+Title: Rental 476
+
+----
+
+Rental-id: 476
+
+----
+
+Rental-date: 2005-05-27 22:31:36
+
+----
+
+Return-date: 2005-06-03 19:12:36
+
+----
+
+Inventory: page://6vPPI5jkQc8vTlOr
+
+----
+
+Uuid: uBtIrJZNbQ0egZOy
+
+----
+
+Customer: page://DmLqAKJqqCmbO2QP

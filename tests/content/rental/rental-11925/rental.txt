@@ -1,0 +1,25 @@
+Title: Rental 11925
+
+----
+
+Rental-id: 11925
+
+----
+
+Rental-date: 2005-08-17 16:23:04
+
+----
+
+Return-date: 2005-08-21 11:38:04
+
+----
+
+Inventory: page://Ev1EoGdPS8KiFVQP
+
+----
+
+Customer: page://e47avKEtCcZjXaKK
+
+----
+
+Uuid: JxuDbbCY8wdfP41l

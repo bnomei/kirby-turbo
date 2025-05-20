@@ -1,0 +1,25 @@
+Title: Rental 11975
+
+----
+
+Rental-id: 11975
+
+----
+
+Rental-date: 2005-08-17 17:58:39
+
+----
+
+Return-date: 2005-08-20 19:11:39
+
+----
+
+Inventory: page://335WnmBEkHo9dkvo
+
+----
+
+Customer: page://rl5FWdN2ozFFNyzY
+
+----
+
+Uuid: DeJFRANX86otYxnz

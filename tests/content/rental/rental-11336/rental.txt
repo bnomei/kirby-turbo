@@ -1,0 +1,25 @@
+Title: Rental 11336
+
+----
+
+Rental-id: 11336
+
+----
+
+Rental-date: 2005-08-02 16:58:56
+
+----
+
+Return-date: 2005-08-06 16:56:56
+
+----
+
+Inventory: page://hcxjtMnr4VEuCK7E
+
+----
+
+Customer: page://2Ez2viSHVAxcAVWy
+
+----
+
+Uuid: YAcugdA6J6uGPS5F

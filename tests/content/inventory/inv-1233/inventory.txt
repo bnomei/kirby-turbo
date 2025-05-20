@@ -1,0 +1,17 @@
+Title: Inv 1233
+
+----
+
+Inventory-id: 1233
+
+----
+
+Film: page://dUaroWhMD6Ug8PIq
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: g1il43Ubw5ryrWqg

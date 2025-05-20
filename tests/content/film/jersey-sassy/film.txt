@@ -1,0 +1,47 @@
+Title: JERSEY SASSY
+
+----
+
+Actors:
+
+- 'page://8goemlF34STteVIR'
+- 'page://osa3qsECAnV3MAu4'
+- 'page://JA85uxdb8uiPNO2i'
+- 'page://CcQ0grF6yUDI2k9n'
+- 'page://xfLW2h8D6Ci3k3ux'
+- 'page://q6i5HOIdG8dGz8Im'
+- 'page://SR0Aks2aA1YgkZ1s'
+- 'page://K0t8PMh78EXVZHC5'
+- 'page://zDG4LP4a8BGDrQEW'
+
+----
+
+Film-id: 485
+
+----
+
+Description: A Lacklusture Documentary of a Madman And a Mad Cow who must Find a Feminist in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 60
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: hCDXIChY04aSaSHE
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

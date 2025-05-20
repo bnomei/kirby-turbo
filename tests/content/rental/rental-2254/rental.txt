@@ -1,0 +1,25 @@
+Title: Rental 2254
+
+----
+
+Rental-id: 2254
+
+----
+
+Rental-date: 2005-06-18 05:15:14
+
+----
+
+Return-date: 2005-06-27 04:10:14
+
+----
+
+Inventory: page://rz1BqEwyIDx61UCb
+
+----
+
+Uuid: OySQoGtn7WWOlr8A
+
+----
+
+Customer: page://NbDJ85z6Kfifcrsu

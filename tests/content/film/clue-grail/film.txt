@@ -1,0 +1,44 @@
+Title: CLUE GRAIL
+
+----
+
+Actors:
+
+- 'page://4hDC3FM6lySlQjxW'
+- 'page://8DAvKBc0CuAdRfXU'
+- 'page://RaBnN0JojPRLBj7c'
+- 'page://IR4s9CmH1R8G51Ej'
+- 'page://C462ZyZJYhtiRgJM'
+- 'page://QybR1sXOQQQZIPXG'
+
+----
+
+Film-id: 161
+
+----
+
+Description: A Taut Tale of a Butler And a Mad Scientist who must Build a Crocodile in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 70
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: 4drRiZybSd3sRdQO
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

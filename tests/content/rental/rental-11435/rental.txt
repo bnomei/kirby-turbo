@@ -1,0 +1,25 @@
+Title: Rental 11435
+
+----
+
+Rental-id: 11435
+
+----
+
+Rental-date: 2005-08-02 20:14:23
+
+----
+
+Return-date: 2005-08-05 20:40:23
+
+----
+
+Inventory: page://hRDMDY9m7u9bttQz
+
+----
+
+Customer: page://9bRTDRu3HEwd7H8l
+
+----
+
+Uuid: mNY4E1XxcM1lKYd8

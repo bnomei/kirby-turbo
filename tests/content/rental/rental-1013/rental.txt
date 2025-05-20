@@ -1,0 +1,25 @@
+Title: Rental 1013
+
+----
+
+Rental-id: 1013
+
+----
+
+Rental-date: 2005-05-31 02:37:00
+
+----
+
+Return-date: 2005-06-02 06:39:00
+
+----
+
+Inventory: page://h7oea1b0iBTq9jFp
+
+----
+
+Uuid: bAx9KzT97YWJ5YVU
+
+----
+
+Customer: page://0DViNB8AjR6M3Kvz

@@ -1,0 +1,25 @@
+Title: Rental 4319
+
+----
+
+Rental-id: 4319
+
+----
+
+Rental-date: 2005-07-07 17:50:27
+
+----
+
+Return-date: 2005-07-10 13:53:27
+
+----
+
+Inventory: page://8o0g7yBupYgr1xXa
+
+----
+
+Uuid: ijw5Wpdp1QOEnh0O
+
+----
+
+Customer: page://UPEEX9gIWkqOHeie

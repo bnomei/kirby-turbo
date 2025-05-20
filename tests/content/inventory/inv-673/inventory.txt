@@ -1,0 +1,17 @@
+Title: Inv 673
+
+----
+
+Inventory-id: 673
+
+----
+
+Film: page://xt5YPKk96VRGo1KN
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 06ayueXbd0V7DC7a

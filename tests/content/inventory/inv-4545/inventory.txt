@@ -1,0 +1,17 @@
+Title: Inv 4545
+
+----
+
+Inventory-id: 4545
+
+----
+
+Film: page://agTVEuggZySkD3Np
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: DTF1P0cTif51JZBS

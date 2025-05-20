@@ -1,0 +1,49 @@
+Title: SUBMARINE BED
+
+----
+
+Actors:
+
+- 'page://lzPNV2QlqjXMSB7U'
+- 'page://eJszhRe2rjIvWjny'
+- 'page://2VTI7EzGP0O1IYVh'
+- 'page://Gz114ojbruPqLOSY'
+- 'page://kIGWs86teYEK5yIM'
+- 'page://if8hfrmRoIODgwSa'
+- 'page://twoON2iToIZq1akt'
+- 'page://ltHX2Lf4QT72ZiqX'
+- 'page://QXMalcumIlXeK8Z2'
+- 'page://zrJrW5pbY6A6t722'
+- 'page://FLMpVB5CVJFKSGVy'
+
+----
+
+Film-id: 858
+
+----
+
+Description: A Amazing Display of a Car And a Monkey who must Fight a Teacher in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 127
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: x1ui97TqXAH2TdXk
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

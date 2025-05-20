@@ -1,0 +1,25 @@
+Title: Rental 6599
+
+----
+
+Rental-id: 6599
+
+----
+
+Rental-date: 2005-07-12 07:41:14
+
+----
+
+Return-date: 2005-07-21 02:45:14
+
+----
+
+Inventory: page://ID3kb7WPZWcz1ZYH
+
+----
+
+Uuid: vKLWgyEoprRiR6V4
+
+----
+
+Customer: page://irfr6sLBx1gfJ688

@@ -1,0 +1,25 @@
+Title: Rental 12416
+
+----
+
+Rental-id: 12416
+
+----
+
+Rental-date: 2005-08-18 09:56:48
+
+----
+
+Return-date: 2005-08-22 12:34:48
+
+----
+
+Inventory: page://dhodv8PBZ8JA2Chq
+
+----
+
+Customer: page://JRYbP7gqVkCUmiP0
+
+----
+
+Uuid: ZbY0649IYMU4r49g

@@ -1,0 +1,25 @@
+Title: Rental 4125
+
+----
+
+Rental-id: 4125
+
+----
+
+Rental-date: 2005-07-07 07:20:29
+
+----
+
+Return-date: 2005-07-15 06:41:29
+
+----
+
+Inventory: page://3XDw4AfB8XeqXB69
+
+----
+
+Uuid: 2JcyccmsNC18aCvI
+
+----
+
+Customer: page://Cko87GK3ShDjUK4Q

@@ -1,0 +1,25 @@
+Title: Rental 849
+
+----
+
+Rental-id: 849
+
+----
+
+Rental-date: 2005-05-30 01:23:07
+
+----
+
+Return-date: 2005-06-07 01:50:07
+
+----
+
+Inventory: page://VT5OW5CW02sWJUqX
+
+----
+
+Uuid: 3mhFinBXKlwut2Ro
+
+----
+
+Customer: page://qJJ8JizjbgmdQ5eD

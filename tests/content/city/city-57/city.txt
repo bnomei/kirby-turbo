@@ -1,0 +1,17 @@
+Title: Bat Yam
+
+----
+
+City-id: 57
+
+----
+
+City: Bat Yam
+
+----
+
+Country: page://D6Ts7nElkvbRYovk
+
+----
+
+Uuid: vuShDWkW1TNG59EY

@@ -1,0 +1,25 @@
+Title: Rental 10553
+
+----
+
+Rental-id: 10553
+
+----
+
+Rental-date: 2005-08-01 12:54:06
+
+----
+
+Return-date: 2005-08-06 15:27:06
+
+----
+
+Inventory: page://9pvxUVuE44soic7f
+
+----
+
+Customer: page://A7gLRZtZiSgkz8K8
+
+----
+
+Uuid: ytuhtdB9VcfWXWhk

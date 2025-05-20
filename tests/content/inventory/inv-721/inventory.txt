@@ -1,0 +1,17 @@
+Title: Inv 721
+
+----
+
+Inventory-id: 721
+
+----
+
+Film: page://ngy47YPsc0wCrBpL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: TCiEgdRBIT3fhjSi

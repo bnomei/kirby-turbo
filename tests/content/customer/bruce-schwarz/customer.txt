@@ -1,0 +1,33 @@
+Title: BRUCE SCHWARZ
+
+----
+
+Customer-id: 365
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: BRUCE
+
+----
+
+Last-name: SCHWARZ
+
+----
+
+Email: BRUCE.SCHWARZ@sakilacustomer.org
+
+----
+
+Address: page://l0uMM2ZNO79gTVtx
+
+----
+
+Active: 1
+
+----
+
+Uuid: qwoOdpywLcCQ6lEX

@@ -1,0 +1,33 @@
+Title: RUSSELL BRINSON
+
+----
+
+Customer-id: 380
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: RUSSELL
+
+----
+
+Last-name: BRINSON
+
+----
+
+Email: RUSSELL.BRINSON@sakilacustomer.org
+
+----
+
+Address: page://otUYhd4nr9GT3azj
+
+----
+
+Active: 1
+
+----
+
+Uuid: 9nmXEbNtguZWpwtU

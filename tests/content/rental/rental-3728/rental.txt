@@ -1,0 +1,25 @@
+Title: Rental 3728
+
+----
+
+Rental-id: 3728
+
+----
+
+Rental-date: 2005-07-06 11:29:00
+
+----
+
+Return-date: 2005-07-11 06:28:00
+
+----
+
+Inventory: page://ktzSYgFa3ojZQ92p
+
+----
+
+Uuid: x08jxeHhMHEMbhe6
+
+----
+
+Customer: page://kggfDZMvkg2kYXlE

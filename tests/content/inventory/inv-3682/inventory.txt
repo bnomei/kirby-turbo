@@ -1,0 +1,17 @@
+Title: Inv 3682
+
+----
+
+Inventory-id: 3682
+
+----
+
+Film: page://5q4rZtKl8oeNGLJr
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Z7Kbvlaxxh9H9GwR

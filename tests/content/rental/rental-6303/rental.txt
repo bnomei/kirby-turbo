@@ -1,0 +1,25 @@
+Title: Rental 6303
+
+----
+
+Rental-id: 6303
+
+----
+
+Rental-date: 2005-07-11 17:55:43
+
+----
+
+Return-date: 2005-07-13 12:50:43
+
+----
+
+Inventory: page://9NylBkFNsbBVSOyn
+
+----
+
+Uuid: KLCMWwXpDpR4i3Bl
+
+----
+
+Customer: page://HQxscLHxuDjEVXyk

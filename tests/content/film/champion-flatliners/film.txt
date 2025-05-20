@@ -1,0 +1,42 @@
+Title: CHAMPION FLATLINERS
+
+----
+
+Actors:
+
+- 'page://8uCKHWVFS7qGgYjl'
+- 'page://9NAEa97MvjisWbzN'
+- 'page://RdhM2Q1bNuSOC3ck'
+- 'page://wedufH6fwkxwowcr'
+
+----
+
+Film-id: 134
+
+----
+
+Description: A Amazing Story of a Mad Cow And a Dog who must Kill a Husband in A Monastery
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 51
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: DQ7GLrje14JDMtPw
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

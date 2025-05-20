@@ -1,0 +1,25 @@
+Title: Rental 5902
+
+----
+
+Rental-id: 5902
+
+----
+
+Rental-date: 2005-07-10 20:31:24
+
+----
+
+Return-date: 2005-07-11 20:50:24
+
+----
+
+Inventory: page://KsFX78eDp2J7opg0
+
+----
+
+Uuid: Rf0gTItV6YDG2Gnv
+
+----
+
+Customer: page://1oyElH1fZadoyZ04

@@ -1,0 +1,17 @@
+Title: Inv 1282
+
+----
+
+Inventory-id: 1282
+
+----
+
+Film: page://EQSADmhd1pq4x4wf
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 5Au90vUe4mulle3V

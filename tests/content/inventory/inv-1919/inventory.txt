@@ -1,0 +1,17 @@
+Title: Inv 1919
+
+----
+
+Inventory-id: 1919
+
+----
+
+Film: page://AUYUSAlHslxGZN9K
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: PkBw92zahlioJz6w

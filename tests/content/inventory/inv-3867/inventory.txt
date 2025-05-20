@@ -1,0 +1,17 @@
+Title: Inv 3867
+
+----
+
+Inventory-id: 3867
+
+----
+
+Film: page://bpyP3hyHEFde02iy
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: tYtHEC98nELlAk93

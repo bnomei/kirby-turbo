@@ -1,0 +1,17 @@
+Title: Inv 2542
+
+----
+
+Inventory-id: 2542
+
+----
+
+Film: page://RR4tJ3Dd2mPzL73Q
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: KPILG9Z32gGuNB9p

@@ -1,0 +1,25 @@
+Title: Rental 1933
+
+----
+
+Rental-id: 1933
+
+----
+
+Rental-date: 2005-06-17 06:54:42
+
+----
+
+Return-date: 2005-06-26 02:00:42
+
+----
+
+Inventory: page://srVRUxkZw90I55wi
+
+----
+
+Uuid: 1XMQu2gIcQIaTP5t
+
+----
+
+Customer: page://xpGeSpKewe1fsRYQ

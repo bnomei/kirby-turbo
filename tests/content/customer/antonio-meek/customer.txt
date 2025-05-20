@@ -1,0 +1,33 @@
+Title: ANTONIO MEEK
+
+----
+
+Customer-id: 398
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ANTONIO
+
+----
+
+Last-name: MEEK
+
+----
+
+Email: ANTONIO.MEEK@sakilacustomer.org
+
+----
+
+Address: page://8NtJqR4EK7zjQD5A
+
+----
+
+Active: 1
+
+----
+
+Uuid: YZl5AjKSw8qG2iij

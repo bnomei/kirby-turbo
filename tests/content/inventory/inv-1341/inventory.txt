@@ -1,0 +1,17 @@
+Title: Inv 1341
+
+----
+
+Inventory-id: 1341
+
+----
+
+Film: page://JzN7Qzaiqb6MmLE7
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: PBtShBThPPZ4QNXb

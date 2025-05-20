@@ -1,0 +1,25 @@
+Title: Rental 1173
+
+----
+
+Rental-id: 1173
+
+----
+
+Rental-date: 2005-06-14 23:54:46
+
+----
+
+Return-date: 2005-06-19 23:26:46
+
+----
+
+Inventory: page://Xa4ZIeW3rc1MJw8h
+
+----
+
+Uuid: UswODDDpfz5pa8v8
+
+----
+
+Customer: page://bHbo1PFIkaygpNBz

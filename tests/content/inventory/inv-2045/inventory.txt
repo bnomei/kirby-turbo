@@ -1,0 +1,17 @@
+Title: Inv 2045
+
+----
+
+Inventory-id: 2045
+
+----
+
+Film: page://tpjPaLgK24c3JWm2
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 5oxZ6CH7Az3DAp86

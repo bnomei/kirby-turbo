@@ -1,0 +1,25 @@
+Title: Rental 7429
+
+----
+
+Rental-id: 7429
+
+----
+
+Rental-date: 2005-07-27 17:24:50
+
+----
+
+Return-date: 2005-08-05 23:02:50
+
+----
+
+Inventory: page://1Y3RDFP4rDtsBqcF
+
+----
+
+Customer: page://JRYbP7gqVkCUmiP0
+
+----
+
+Uuid: SK7eEsXQlKu7WRBK

@@ -1,0 +1,33 @@
+Title: TERRY GRISSOM
+
+----
+
+Customer-id: 355
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: TERRY
+
+----
+
+Last-name: GRISSOM
+
+----
+
+Email: TERRY.GRISSOM@sakilacustomer.org
+
+----
+
+Address: page://uECFEgJTbq6lvFX1
+
+----
+
+Active: 1
+
+----
+
+Uuid: lgbKkp1lML4CzpHP

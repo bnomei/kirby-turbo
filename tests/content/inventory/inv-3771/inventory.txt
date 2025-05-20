@@ -1,0 +1,17 @@
+Title: Inv 3771
+
+----
+
+Inventory-id: 3771
+
+----
+
+Film: page://B47pc300dBObDlEY
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: z1WlSCi6LtrMiDqY

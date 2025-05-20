@@ -1,0 +1,17 @@
+Title: Inv 2438
+
+----
+
+Inventory-id: 2438
+
+----
+
+Film: page://BCNeXqov8cBtM76b
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ic6nDgLCzu5oLUqg

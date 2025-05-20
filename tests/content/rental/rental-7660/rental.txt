@@ -1,0 +1,25 @@
+Title: Rental 7660
+
+----
+
+Rental-id: 7660
+
+----
+
+Rental-date: 2005-07-28 02:10:10
+
+----
+
+Return-date: 2005-07-30 04:29:10
+
+----
+
+Inventory: page://OAsApkdeWGJRLqMm
+
+----
+
+Customer: page://ftEMvnSK11uTw7qY
+
+----
+
+Uuid: ziOoh1K0VEZzHneS

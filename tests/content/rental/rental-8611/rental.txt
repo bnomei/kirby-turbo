@@ -1,0 +1,25 @@
+Title: Rental 8611
+
+----
+
+Rental-id: 8611
+
+----
+
+Rental-date: 2005-07-29 13:26:21
+
+----
+
+Return-date: 2005-08-07 18:20:21
+
+----
+
+Inventory: page://ye3IKeltGGzwW3ZU
+
+----
+
+Customer: page://rpWI4a1QTMW5t3NZ
+
+----
+
+Uuid: nwbzyCZ1EUD1Qa0v

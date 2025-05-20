@@ -1,0 +1,21 @@
+Title: Rental 12915
+
+----
+
+Rental-id: 12915
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://jqpx0rm2FbMHiwcd
+
+----
+
+Customer: page://5hIhacgiGD4GRrE2
+
+----
+
+Uuid: NnjNcquDvZJHjOzp

@@ -1,0 +1,33 @@
+Title: EVA RAMOS
+
+----
+
+Customer-id: 140
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: EVA
+
+----
+
+Last-name: RAMOS
+
+----
+
+Email: EVA.RAMOS@sakilacustomer.org
+
+----
+
+Address: page://4vwjFjv51ohmqVRe
+
+----
+
+Active: 1
+
+----
+
+Uuid: mCddyJpSaBf2Pnai

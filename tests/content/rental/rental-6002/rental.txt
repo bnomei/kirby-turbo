@@ -1,0 +1,25 @@
+Title: Rental 6002
+
+----
+
+Rental-id: 6002
+
+----
+
+Rental-date: 2005-07-11 01:27:49
+
+----
+
+Return-date: 2005-07-12 06:02:49
+
+----
+
+Inventory: page://Dw4JYXi5O6qNkpm6
+
+----
+
+Uuid: vE6akg9ULJ7m5Xnm
+
+----
+
+Customer: page://zuaErOZUavOIvBK9

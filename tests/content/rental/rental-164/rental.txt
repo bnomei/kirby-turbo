@@ -1,0 +1,25 @@
+Title: Rental 164
+
+----
+
+Rental-id: 164
+
+----
+
+Rental-date: 2005-05-26 02:26:49
+
+----
+
+Return-date: 2005-05-28 00:32:49
+
+----
+
+Inventory: page://714Z4KEkLG4zungR
+
+----
+
+Uuid: vi34u9NY4xbiqGLq
+
+----
+
+Customer: page://NRpZQOvTU2QBVcZc

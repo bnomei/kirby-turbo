@@ -1,0 +1,25 @@
+Title: Rental 3016
+
+----
+
+Rental-id: 3016
+
+----
+
+Rental-date: 2005-06-20 10:55:08
+
+----
+
+Return-date: 2005-06-24 14:05:08
+
+----
+
+Inventory: page://ZG09EE8lgnMw4X7P
+
+----
+
+Uuid: hmuRypuQPAWntoN3
+
+----
+
+Customer: page://t04yCyxM4vXd29Pl

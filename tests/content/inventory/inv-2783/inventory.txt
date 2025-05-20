@@ -1,0 +1,17 @@
+Title: Inv 2783
+
+----
+
+Inventory-id: 2783
+
+----
+
+Film: page://ST9ip5PSHdw6JvAf
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: CmKoe0EBX9aoDrXt

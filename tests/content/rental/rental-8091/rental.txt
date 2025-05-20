@@ -1,0 +1,25 @@
+Title: Rental 8091
+
+----
+
+Rental-id: 8091
+
+----
+
+Rental-date: 2005-07-28 18:27:29
+
+----
+
+Return-date: 2005-08-01 19:45:29
+
+----
+
+Inventory: page://PLLbGELh3ibazXai
+
+----
+
+Customer: page://4XMwdFimnTGUEo5B
+
+----
+
+Uuid: GUJKALx11BJp1M4b

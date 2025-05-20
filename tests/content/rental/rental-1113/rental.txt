@@ -1,0 +1,25 @@
+Title: Rental 1113
+
+----
+
+Rental-id: 1113
+
+----
+
+Rental-date: 2005-05-31 15:58:44
+
+----
+
+Return-date: 2005-06-05 18:05:44
+
+----
+
+Inventory: page://o9sHJqG8rjowuI9D
+
+----
+
+Uuid: ysB0AheMp1y721yx
+
+----
+
+Customer: page://JG06E1zPSAEHpqss

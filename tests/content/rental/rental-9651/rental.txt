@@ -1,0 +1,25 @@
+Title: Rental 9651
+
+----
+
+Rental-id: 9651
+
+----
+
+Rental-date: 2005-07-31 05:48:49
+
+----
+
+Return-date: 2005-08-04 06:53:49
+
+----
+
+Inventory: page://31x2qqislkGXF664
+
+----
+
+Customer: page://SII6Y5UXijGLUgXD
+
+----
+
+Uuid: 1TIzTpkKArI8mXGf

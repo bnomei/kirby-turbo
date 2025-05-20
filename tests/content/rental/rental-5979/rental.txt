@@ -1,0 +1,25 @@
+Title: Rental 5979
+
+----
+
+Rental-id: 5979
+
+----
+
+Rental-date: 2005-07-11 00:17:09
+
+----
+
+Return-date: 2005-07-14 00:38:09
+
+----
+
+Inventory: page://Ci3wLIlcnLoT7WeR
+
+----
+
+Uuid: PZ1G211HTSbSSm19
+
+----
+
+Customer: page://cRRGmCnzUGugZdVF

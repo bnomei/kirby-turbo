@@ -1,0 +1,25 @@
+Title: Rental 15365
+
+----
+
+Rental-id: 15365
+
+----
+
+Rental-date: 2005-08-22 21:42:17
+
+----
+
+Return-date: 2005-09-01 03:14:17
+
+----
+
+Inventory: page://z0KalTXGqVBRRyoA
+
+----
+
+Customer: page://wFOjfrR0gpP7jV9B
+
+----
+
+Uuid: LgwJZSeFqiDjU3TR

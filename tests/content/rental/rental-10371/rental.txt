@@ -1,0 +1,25 @@
+Title: Rental 10371
+
+----
+
+Rental-id: 10371
+
+----
+
+Rental-date: 2005-08-01 06:20:29
+
+----
+
+Return-date: 2005-08-04 00:31:29
+
+----
+
+Inventory: page://ralX326DIaSnapmj
+
+----
+
+Customer: page://wFOjfrR0gpP7jV9B
+
+----
+
+Uuid: wLa6Xt2UyiSd9Yvc

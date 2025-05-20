@@ -1,0 +1,45 @@
+Title: ARMY FLINTSTONES
+
+----
+
+Actors:
+
+- 'page://NQADDP2SQLBL6U9D'
+- 'page://GwUKN9N7u1wbNu4w'
+- 'page://I7tdxqtamjxgIUCW'
+- 'page://wedufH6fwkxwowcr'
+- 'page://pokjngmFMjrhDsLQ'
+- 'page://nNLtL91vUU653tYz'
+- 'page://Vt3bRByOUSEypvV6'
+
+----
+
+Film-id: 40
+
+----
+
+Description: A Boring Saga of a Database Administrator And a Womanizer who must Battle a Waitress in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 148
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: WDoMU2Z7C639uL7o
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

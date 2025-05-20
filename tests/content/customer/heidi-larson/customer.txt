@@ -1,0 +1,33 @@
+Title: HEIDI LARSON
+
+----
+
+Customer-id: 241
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: HEIDI
+
+----
+
+Last-name: LARSON
+
+----
+
+Email: HEIDI.LARSON@sakilacustomer.org
+
+----
+
+Address: page://RaAO1CWXc4UNKnBT
+
+----
+
+Active: 0
+
+----
+
+Uuid: rmOh3yVOFYLI9fTa

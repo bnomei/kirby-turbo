@@ -1,0 +1,25 @@
+Title: Rental 10707
+
+----
+
+Rental-id: 10707
+
+----
+
+Rental-date: 2005-08-01 18:41:34
+
+----
+
+Return-date: 2005-08-06 12:41:34
+
+----
+
+Inventory: page://UD71W41ARPPJnsSX
+
+----
+
+Customer: page://t04yCyxM4vXd29Pl
+
+----
+
+Uuid: faYAOWmZkfkds1lN

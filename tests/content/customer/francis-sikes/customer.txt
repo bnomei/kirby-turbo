@@ -1,0 +1,33 @@
+Title: FRANCIS SIKES
+
+----
+
+Customer-id: 425
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: FRANCIS
+
+----
+
+Last-name: SIKES
+
+----
+
+Email: FRANCIS.SIKES@sakilacustomer.org
+
+----
+
+Address: page://tzlKmcSnGMB7AWMN
+
+----
+
+Active: 1
+
+----
+
+Uuid: Tk6dRJV6KbPM8ESQ

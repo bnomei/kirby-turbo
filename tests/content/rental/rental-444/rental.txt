@@ -1,0 +1,25 @@
+Title: Rental 444
+
+----
+
+Rental-id: 444
+
+----
+
+Rental-date: 2005-05-27 18:39:15
+
+----
+
+Return-date: 2005-06-01 15:56:15
+
+----
+
+Inventory: page://FOGmGW6RCJDOHmLJ
+
+----
+
+Uuid: 07aDAhtPwVgmVucz
+
+----
+
+Customer: page://0Qiks8V78Ua8rTtk

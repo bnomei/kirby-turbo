@@ -1,0 +1,17 @@
+Title: Inv 4503
+
+----
+
+Inventory-id: 4503
+
+----
+
+Film: page://5OGaw2AxZPbLFQ2S
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 2SptgNrrC8VPnH9D

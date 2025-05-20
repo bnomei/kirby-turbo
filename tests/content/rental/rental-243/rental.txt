@@ -1,0 +1,25 @@
+Title: Rental 243
+
+----
+
+Rental-id: 243
+
+----
+
+Rental-date: 2005-05-26 13:06:05
+
+----
+
+Return-date: 2005-06-03 17:28:05
+
+----
+
+Inventory: page://62hlkSwADXRLKstK
+
+----
+
+Uuid: Fq3TsKVR4T313SRR
+
+----
+
+Customer: page://DmLqAKJqqCmbO2QP

@@ -1,0 +1,46 @@
+Title: MOVIE SHAKESPEARE
+
+----
+
+Actors:
+
+- 'page://H5yhLtWBsWi35xuK'
+- 'page://huljhPJQohi6UE64'
+- 'page://CcQ0grF6yUDI2k9n'
+- 'page://wxM7fPnQeVIlPpuJ'
+- 'page://rTdvG0vGkNN8iJpQ'
+- 'page://64SCw7TVQ1KFgpJt'
+- 'page://qCm78VMzP14zbmIL'
+- 'page://K0t8PMh78EXVZHC5'
+
+----
+
+Film-id: 603
+
+----
+
+Description: A Insightful Display of a Database Administrator And a Student who must Build a Hunter in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 53
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: S36rO7YzPhvQcg67
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

@@ -1,0 +1,17 @@
+Title: Inv 2417
+
+----
+
+Inventory-id: 2417
+
+----
+
+Film: page://YUzfc16cDD1MlAAL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: D1XcsvhR2KlXBQoy

@@ -1,0 +1,25 @@
+Title: Rental 9617
+
+----
+
+Rental-id: 9617
+
+----
+
+Rental-date: 2005-07-31 04:15:38
+
+----
+
+Return-date: 2005-08-02 04:24:38
+
+----
+
+Inventory: page://XHeCPqkgZVbdzq99
+
+----
+
+Customer: page://2XFuHwmZmBm0kuQs
+
+----
+
+Uuid: SWqXyzOvbUnFt8ns

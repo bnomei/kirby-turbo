@@ -1,0 +1,21 @@
+Title: Rental 14278
+
+----
+
+Rental-id: 14278
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://x0noKgqOcrc8MjQ6
+
+----
+
+Customer: page://vvb7rjkZaY4UCatA
+
+----
+
+Uuid: Qcq5bAVBh5hVuzow

@@ -1,0 +1,41 @@
+Title: MASKED BUBBLE
+
+----
+
+Actors:
+
+- 'page://HMQFYCzd6sL7s9te'
+- 'page://KV54RGx9NMbLtwi4'
+- 'page://EIh5zoCTJV7UmSi4'
+
+----
+
+Film-id: 562
+
+----
+
+Description: A Fanciful Documentary of a Pioneer And a Boat who must Pursue a Pioneer in An Abandoned Mine Shaft
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 151
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: w2bpdhuzsB1qaQ7b
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

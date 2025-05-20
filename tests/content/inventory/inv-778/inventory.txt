@@ -1,0 +1,17 @@
+Title: Inv 778
+
+----
+
+Inventory-id: 778
+
+----
+
+Film: page://JkW7m02yeXJO7TMU
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: TkH88EF8HeiEr8nH

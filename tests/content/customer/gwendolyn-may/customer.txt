@@ -1,0 +1,33 @@
+Title: GWENDOLYN MAY
+
+----
+
+Customer-id: 264
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: GWENDOLYN
+
+----
+
+Last-name: MAY
+
+----
+
+Email: GWENDOLYN.MAY@sakilacustomer.org
+
+----
+
+Address: page://FsYylRGUufCs48gr
+
+----
+
+Active: 1
+
+----
+
+Uuid: PTRh5UK45MCW3LWn

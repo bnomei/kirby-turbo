@@ -1,0 +1,17 @@
+Title: Inv 3108
+
+----
+
+Inventory-id: 3108
+
+----
+
+Film: page://Uv6y0sZSse06wXNU
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 7bRCuhujqZSlcdYZ

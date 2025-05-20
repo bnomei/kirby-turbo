@@ -1,0 +1,25 @@
+Title: Rental 2125
+
+----
+
+Rental-id: 2125
+
+----
+
+Rental-date: 2005-06-17 20:53:42
+
+----
+
+Return-date: 2005-06-19 01:53:42
+
+----
+
+Inventory: page://sZpUH237unQUzFzh
+
+----
+
+Uuid: i8lnRfkPeWExNNiL
+
+----
+
+Customer: page://2Ez2viSHVAxcAVWy

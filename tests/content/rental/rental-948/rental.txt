@@ -1,0 +1,25 @@
+Title: Rental 948
+
+----
+
+Rental-id: 948
+
+----
+
+Rental-date: 2005-05-30 15:44:27
+
+----
+
+Return-date: 2005-06-08 17:30:27
+
+----
+
+Inventory: page://vFpbHB8eWySiEWMs
+
+----
+
+Uuid: FYcOyIrAeKFlX4EK
+
+----
+
+Customer: page://pb7ZrH0vPEWpfLP3

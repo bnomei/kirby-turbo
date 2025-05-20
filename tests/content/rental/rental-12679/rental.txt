@@ -1,0 +1,25 @@
+Title: Rental 12679
+
+----
+
+Rental-id: 12679
+
+----
+
+Rental-date: 2005-08-18 19:42:11
+
+----
+
+Return-date: 2005-08-25 01:01:11
+
+----
+
+Inventory: page://qOf6UPWuXJIPq0lR
+
+----
+
+Customer: page://zhBBNcqh1xiZ57GZ
+
+----
+
+Uuid: Gn5KhalNcl9xNGNs

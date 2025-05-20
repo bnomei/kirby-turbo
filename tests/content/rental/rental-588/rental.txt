@@ -1,0 +1,25 @@
+Title: Rental 588
+
+----
+
+Rental-id: 588
+
+----
+
+Rental-date: 2005-05-28 12:08:37
+
+----
+
+Return-date: 2005-05-29 16:25:37
+
+----
+
+Inventory: page://3fAoZIgytAu5YYNs
+
+----
+
+Uuid: v0puBbxEepsel6cZ
+
+----
+
+Customer: page://62MZSyLkLyVVQ5Cs

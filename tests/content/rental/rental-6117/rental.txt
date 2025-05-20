@@ -1,0 +1,25 @@
+Title: Rental 6117
+
+----
+
+Rental-id: 6117
+
+----
+
+Rental-date: 2005-07-11 07:39:38
+
+----
+
+Return-date: 2005-07-18 12:07:38
+
+----
+
+Inventory: page://3nQkC0TKzIPOyvVM
+
+----
+
+Uuid: xG19JBlRDxbTTNJQ
+
+----
+
+Customer: page://85ovZXEWpqXAx1KN

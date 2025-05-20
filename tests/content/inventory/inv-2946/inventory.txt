@@ -1,0 +1,17 @@
+Title: Inv 2946
+
+----
+
+Inventory-id: 2946
+
+----
+
+Film: page://2dXtH8Q2OCod0eku
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: LllXxHJDgM5BRiTE

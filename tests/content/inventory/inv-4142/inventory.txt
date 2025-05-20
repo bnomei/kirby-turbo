@@ -1,0 +1,17 @@
+Title: Inv 4142
+
+----
+
+Inventory-id: 4142
+
+----
+
+Film: page://8KAig5NTOPeD4UOv
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 3GdWzwLhVD3ImP2j

@@ -1,0 +1,17 @@
+Title: Inv 4195
+
+----
+
+Inventory-id: 4195
+
+----
+
+Film: page://xfZxnJ2rP9EOtzuD
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: uv3zNpdTSRQDuaDI

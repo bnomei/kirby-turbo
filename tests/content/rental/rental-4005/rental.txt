@@ -1,0 +1,25 @@
+Title: Rental 4005
+
+----
+
+Rental-id: 4005
+
+----
+
+Rental-date: 2005-07-07 00:22:26
+
+----
+
+Return-date: 2005-07-15 04:34:26
+
+----
+
+Inventory: page://DGuY9m0hgyRGNrKc
+
+----
+
+Uuid: SNGQPYrWrUazguhh
+
+----
+
+Customer: page://6kK9aIjaQGPeA4BK

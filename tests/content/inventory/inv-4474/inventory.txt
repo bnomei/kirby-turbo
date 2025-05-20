@@ -1,0 +1,17 @@
+Title: Inv 4474
+
+----
+
+Inventory-id: 4474
+
+----
+
+Film: page://FPrjCJWi1SXCx5st
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: EOUs8fTeyia8w3SL

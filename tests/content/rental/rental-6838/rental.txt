@@ -1,0 +1,25 @@
+Title: Rental 6838
+
+----
+
+Rental-id: 6838
+
+----
+
+Rental-date: 2005-07-12 19:01:30
+
+----
+
+Return-date: 2005-07-17 23:42:30
+
+----
+
+Inventory: page://CFOXOzcZfqSnSZtD
+
+----
+
+Customer: page://hZOnCp7oVBUSijBw
+
+----
+
+Uuid: bLA0UzTMDrQ7R3U5

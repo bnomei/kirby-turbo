@@ -1,0 +1,17 @@
+Title: Inv 4133
+
+----
+
+Inventory-id: 4133
+
+----
+
+Film: page://sV23YpqeUmbQaYoT
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: k7011Hkgt1UoxRgs

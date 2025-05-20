@@ -1,0 +1,17 @@
+Title: Inv 666
+
+----
+
+Inventory-id: 666
+
+----
+
+Film: page://TLayTvyjZh2ATF04
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: kYCY4yBfUxeaUD0l

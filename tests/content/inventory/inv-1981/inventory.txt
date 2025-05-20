@@ -1,0 +1,17 @@
+Title: Inv 1981
+
+----
+
+Inventory-id: 1981
+
+----
+
+Film: page://I7OIMvs65BrrSs7w
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: NTdncmpT1RM9IfiD

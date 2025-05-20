@@ -1,0 +1,25 @@
+Title: Rental 5773
+
+----
+
+Rental-id: 5773
+
+----
+
+Rental-date: 2005-07-10 13:31:09
+
+----
+
+Return-date: 2005-07-15 08:21:09
+
+----
+
+Inventory: page://yR2um7KZEKLPdrX8
+
+----
+
+Uuid: 12TeBNSkKPYXrq8k
+
+----
+
+Customer: page://SJshmeMOxYgLWdbx

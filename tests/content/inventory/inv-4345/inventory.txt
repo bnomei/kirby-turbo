@@ -1,0 +1,17 @@
+Title: Inv 4345
+
+----
+
+Inventory-id: 4345
+
+----
+
+Film: page://04IMPhIRUUqZZxqR
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: T8mr3EacPJ0QCaSk

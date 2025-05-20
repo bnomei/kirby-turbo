@@ -1,0 +1,25 @@
+Title: Rental 4071
+
+----
+
+Rental-id: 4071
+
+----
+
+Rental-date: 2005-07-07 04:37:26
+
+----
+
+Return-date: 2005-07-13 06:45:26
+
+----
+
+Inventory: page://BBReiOotRjcFCoxh
+
+----
+
+Uuid: x0QfWLiaC543DTWW
+
+----
+
+Customer: page://7xbkabb9oALGCtIT

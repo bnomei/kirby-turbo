@@ -1,0 +1,17 @@
+Title: Inv 2335
+
+----
+
+Inventory-id: 2335
+
+----
+
+Film: page://O4FLi65MGp5Irle2
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: RpKonbph7tC2ryrq

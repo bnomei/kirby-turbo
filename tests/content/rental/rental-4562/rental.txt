@@ -1,0 +1,25 @@
+Title: Rental 4562
+
+----
+
+Rental-id: 4562
+
+----
+
+Rental-date: 2005-07-08 05:08:32
+
+----
+
+Return-date: 2005-07-12 08:16:32
+
+----
+
+Inventory: page://nkzckCuxQC0l4rON
+
+----
+
+Uuid: thYg23JwOShBmBvz
+
+----
+
+Customer: page://2QCpyeeQilmvnk6g

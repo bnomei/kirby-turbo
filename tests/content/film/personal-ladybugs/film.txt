@@ -1,0 +1,47 @@
+Title: PERSONAL LADYBUGS
+
+----
+
+Actors:
+
+- 'page://7FlTvfT4DDNge34z'
+- 'page://RW4ixiF3bbh7oXkH'
+- 'page://JbsPWnOXBNKX1tM5'
+- 'page://RvgM0TLzgQDo6vY7'
+- 'page://rnDcbekdB8oOqt97'
+- 'page://c9RVWbTiHNxSUsUJ'
+- 'page://nGhJyQbze3rAAH9v'
+- 'page://xXgVj4FQPZ59wjBk'
+- 'page://s3p9MagWJdWouacJ'
+
+----
+
+Film-id: 673
+
+----
+
+Description: A Epic Saga of a Hunter And a Technical Writer who must Conquer a Cat in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 118
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: lRnaVZnJyi0xMqk0
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

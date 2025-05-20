@@ -1,0 +1,25 @@
+Title: Rental 450
+
+----
+
+Rental-id: 450
+
+----
+
+Rental-date: 2005-05-27 19:18:54
+
+----
+
+Return-date: 2005-06-05 23:52:54
+
+----
+
+Inventory: page://zOScUSA3n4y3HzfT
+
+----
+
+Uuid: u6KVjy7ABCpbZU9P
+
+----
+
+Customer: page://Z0SLCRZPQYYmETgw

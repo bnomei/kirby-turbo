@@ -1,0 +1,17 @@
+Title: Inv 4286
+
+----
+
+Inventory-id: 4286
+
+----
+
+Film: page://XLpffK1Bpo0GE1jm
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: zyF1OmuDP7F709nO

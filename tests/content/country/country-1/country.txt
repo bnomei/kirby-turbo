@@ -1,0 +1,13 @@
+Title: Afghanistan
+
+----
+
+Country-id: 1
+
+----
+
+Country: Afghanistan
+
+----
+
+Uuid: bPR63ivWg24TIVkC

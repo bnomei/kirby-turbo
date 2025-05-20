@@ -1,0 +1,33 @@
+Title: MARC OUTLAW
+
+----
+
+Customer-id: 499
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: MARC
+
+----
+
+Last-name: OUTLAW
+
+----
+
+Email: MARC.OUTLAW@sakilacustomer.org
+
+----
+
+Address: page://iy8sylCkwuEth6yc
+
+----
+
+Active: 1
+
+----
+
+Uuid: uRdLZLKD6zhz7xZm

@@ -1,0 +1,17 @@
+Title: Inv 2464
+
+----
+
+Inventory-id: 2464
+
+----
+
+Film: page://CdiE8JY8Ix0qPv3a
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: v02Go2lblWFgxPRK

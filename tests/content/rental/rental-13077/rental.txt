@@ -1,0 +1,25 @@
+Title: Rental 13077
+
+----
+
+Rental-id: 13077
+
+----
+
+Rental-date: 2005-08-19 10:15:19
+
+----
+
+Return-date: 2005-08-21 06:51:19
+
+----
+
+Inventory: page://41cEElet6yAGPsvH
+
+----
+
+Customer: page://rmOh3yVOFYLI9fTa
+
+----
+
+Uuid: ZtqhNGNAg6Vu2V55

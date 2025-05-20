@@ -1,0 +1,25 @@
+Title: Rental 9243
+
+----
+
+Rental-id: 9243
+
+----
+
+Rental-date: 2005-07-30 14:06:27
+
+----
+
+Return-date: 2005-08-06 09:26:27
+
+----
+
+Inventory: page://jTRxP7vm9FVkgiTW
+
+----
+
+Customer: page://5hIhacgiGD4GRrE2
+
+----
+
+Uuid: 4OhPPK9uVUK6sY26

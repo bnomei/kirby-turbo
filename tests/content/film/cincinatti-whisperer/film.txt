@@ -1,0 +1,42 @@
+Title: CINCINATTI WHISPERER
+
+----
+
+Actors:
+
+- 'page://NmIbTpy4ZSHrHfnI'
+- 'page://64SCw7TVQ1KFgpJt'
+- 'page://8sAZxgGEUjJot3JV'
+- 'page://dRscV8wJJ6wok0jq'
+
+----
+
+Film-id: 151
+
+----
+
+Description: A Brilliant Saga of a Pastry Chef And a Hunter who must Confront a Butler in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 143
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: 13qK81Dnma4SNs5a
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

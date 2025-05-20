@@ -1,0 +1,17 @@
+Title: Inv 406
+
+----
+
+Inventory-id: 406
+
+----
+
+Film: page://YwHDEXoq4La36FCX
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 8GAd3h5vif5M5qdR

@@ -1,0 +1,40 @@
+Title: DETAILS PACKER
+
+----
+
+Actors:
+
+- 'page://l9F1V32tlG60bBdO'
+- 'page://rnDcbekdB8oOqt97'
+
+----
+
+Film-id: 227
+
+----
+
+Description: A Epic Saga of a Waitress And a Composer who must Face a Boat in A U-Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 88
+
+----
+
+Rating: R
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: fMLEgaiXF2S6ow1C
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

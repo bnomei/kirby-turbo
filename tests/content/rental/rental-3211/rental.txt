@@ -1,0 +1,25 @@
+Title: Rental 3211
+
+----
+
+Rental-id: 3211
+
+----
+
+Rental-date: 2005-06-21 01:01:29
+
+----
+
+Return-date: 2005-06-23 04:05:29
+
+----
+
+Inventory: page://G08rk3ThP1kyPICE
+
+----
+
+Uuid: KW6EIWCe9KqG0KvL
+
+----
+
+Customer: page://A7gLRZtZiSgkz8K8

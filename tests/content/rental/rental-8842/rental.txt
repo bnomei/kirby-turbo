@@ -1,0 +1,25 @@
+Title: Rental 8842
+
+----
+
+Rental-id: 8842
+
+----
+
+Rental-date: 2005-07-29 23:03:40
+
+----
+
+Return-date: 2005-08-06 23:23:40
+
+----
+
+Inventory: page://GBcg5xMUkrsEkziw
+
+----
+
+Customer: page://TxY88rwk6w3N9jKC
+
+----
+
+Uuid: dfmpfdp0epzjFEyQ

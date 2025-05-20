@@ -1,0 +1,17 @@
+Title: Inv 1995
+
+----
+
+Inventory-id: 1995
+
+----
+
+Film: page://lSHzFr9XueOGDlZL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: XcWdoFJkHWcZIG3f

@@ -1,0 +1,25 @@
+Title: Rental 14491
+
+----
+
+Rental-id: 14491
+
+----
+
+Rental-date: 2005-08-21 13:55:39
+
+----
+
+Return-date: 2005-08-29 17:51:39
+
+----
+
+Inventory: page://W8ZPNkRg8wB5QsID
+
+----
+
+Customer: page://9Iscnwps7hF64rUC
+
+----
+
+Uuid: FaIvDHoi1lcsVV6i

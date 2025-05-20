@@ -1,0 +1,25 @@
+Title: Rental 8338
+
+----
+
+Rental-id: 8338
+
+----
+
+Rental-date: 2005-07-29 04:40:39
+
+----
+
+Return-date: 2005-08-07 04:40:39
+
+----
+
+Inventory: page://UW038rf34r57uJog
+
+----
+
+Customer: page://3MkHP5Qqv8Lg3Njc
+
+----
+
+Uuid: 7OnYeuQGcwCs8mzS

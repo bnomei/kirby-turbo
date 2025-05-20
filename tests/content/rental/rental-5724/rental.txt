@@ -1,0 +1,25 @@
+Title: Rental 5724
+
+----
+
+Rental-id: 5724
+
+----
+
+Rental-date: 2005-07-10 11:18:12
+
+----
+
+Return-date: 2005-07-16 14:53:12
+
+----
+
+Inventory: page://BNt9UhdiD6Rw8ksf
+
+----
+
+Uuid: AysWJQfWLr2cJGk9
+
+----
+
+Customer: page://6AKt4qOv738O4v4p

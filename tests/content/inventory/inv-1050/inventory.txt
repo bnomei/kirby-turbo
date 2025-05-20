@@ -1,0 +1,17 @@
+Title: Inv 1050
+
+----
+
+Inventory-id: 1050
+
+----
+
+Film: page://ubTxi0o1gyywndg2
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Xa4ZIeW3rc1MJw8h

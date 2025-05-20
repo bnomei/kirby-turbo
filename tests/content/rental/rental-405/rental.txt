@@ -1,0 +1,25 @@
+Title: Rental 405
+
+----
+
+Rental-id: 405
+
+----
+
+Rental-date: 2005-05-27 13:32:39
+
+----
+
+Return-date: 2005-06-05 18:53:39
+
+----
+
+Inventory: page://XvdorEcAuMNOhWWe
+
+----
+
+Uuid: 4sksZgzEqzuUba9P
+
+----
+
+Customer: page://ZOo5G7TWezJJco39

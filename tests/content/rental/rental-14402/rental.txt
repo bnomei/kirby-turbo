@@ -1,0 +1,25 @@
+Title: Rental 14402
+
+----
+
+Rental-id: 14402
+
+----
+
+Rental-date: 2005-08-21 10:38:17
+
+----
+
+Return-date: 2005-08-27 08:36:17
+
+----
+
+Inventory: page://xGrgtYMAHP6zoymv
+
+----
+
+Customer: page://xoXdL5AbyoKMncLp
+
+----
+
+Uuid: NicTXsmSKqmssOxv

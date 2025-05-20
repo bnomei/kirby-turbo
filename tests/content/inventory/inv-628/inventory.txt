@@ -1,0 +1,17 @@
+Title: Inv 628
+
+----
+
+Inventory-id: 628
+
+----
+
+Film: page://6kIA2KfOqXm8EJSj
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ZNl932zYUBKN6F37

@@ -1,0 +1,17 @@
+Title: Inv 2192
+
+----
+
+Inventory-id: 2192
+
+----
+
+Film: page://4x94RIU678e1HCRO
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: wdVHOy6Vx43LmlHS

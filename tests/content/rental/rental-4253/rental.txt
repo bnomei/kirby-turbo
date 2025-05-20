@@ -1,0 +1,25 @@
+Title: Rental 4253
+
+----
+
+Rental-id: 4253
+
+----
+
+Rental-date: 2005-07-07 14:13:13
+
+----
+
+Return-date: 2005-07-16 18:55:13
+
+----
+
+Inventory: page://FD5WELG731JNTJtw
+
+----
+
+Uuid: zueIdKV7gjP4A6yu
+
+----
+
+Customer: page://AkaRCOxNSCiOcy32

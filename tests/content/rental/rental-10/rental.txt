@@ -1,0 +1,25 @@
+Title: Rental 10
+
+----
+
+Rental-id: 10
+
+----
+
+Rental-date: 2005-05-25 00:02:21
+
+----
+
+Return-date: 2005-05-31 22:44:21
+
+----
+
+Inventory: page://UvTGrwsZ9iJ9hrvs
+
+----
+
+Uuid: VTKHAPTN71GWzOBs
+
+----
+
+Customer: page://Lk1Hh6BTSOpo0Syr

@@ -1,0 +1,25 @@
+Title: Rental 6066
+
+----
+
+Rental-id: 6066
+
+----
+
+Rental-date: 2005-07-11 04:32:42
+
+----
+
+Return-date: 2005-07-15 03:56:42
+
+----
+
+Inventory: page://sM5P6x0aVTi2gtGf
+
+----
+
+Uuid: vtQY3pReiupHryHZ
+
+----
+
+Customer: page://NYz6xFh3YMDJXr29

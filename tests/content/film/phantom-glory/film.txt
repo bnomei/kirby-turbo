@@ -1,0 +1,40 @@
+Title: PHANTOM GLORY
+
+----
+
+Actors:
+
+- 'page://6YS8rkTURbcXafoi'
+- 'page://twoON2iToIZq1akt'
+
+----
+
+Film-id: 675
+
+----
+
+Description: A Beautiful Documentary of a Astronaut And a Crocodile who must Discover a Madman in A Monastery
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 60
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: 2mbiyabaoecpPjXL
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

@@ -1,0 +1,25 @@
+Title: Rental 4536
+
+----
+
+Rental-id: 4536
+
+----
+
+Rental-date: 2005-07-08 03:43:22
+
+----
+
+Return-date: 2005-07-15 08:44:22
+
+----
+
+Inventory: page://flowXbmRa8DkKLv7
+
+----
+
+Uuid: ZVsOJbDRzZCbr551
+
+----
+
+Customer: page://M0U3K1RrRahNRLAP

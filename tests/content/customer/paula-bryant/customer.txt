@@ -1,0 +1,33 @@
+Title: PAULA BRYANT
+
+----
+
+Customer-id: 95
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: PAULA
+
+----
+
+Last-name: BRYANT
+
+----
+
+Email: PAULA.BRYANT@sakilacustomer.org
+
+----
+
+Address: page://Rib74tWi2pQio6pE
+
+----
+
+Active: 1
+
+----
+
+Uuid: mwfSblMIE7KuBiux

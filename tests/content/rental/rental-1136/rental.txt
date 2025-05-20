@@ -1,0 +1,25 @@
+Title: Rental 1136
+
+----
+
+Rental-id: 1136
+
+----
+
+Rental-date: 2005-05-31 19:19:36
+
+----
+
+Return-date: 2005-06-09 16:04:36
+
+----
+
+Inventory: page://PzTISto3Qi3VIJQ8
+
+----
+
+Uuid: 7JvOxGjpSjDTMQRL
+
+----
+
+Customer: page://SGDmUxNER90s6kyU

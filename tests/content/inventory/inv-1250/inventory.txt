@@ -1,0 +1,17 @@
+Title: Inv 1250
+
+----
+
+Inventory-id: 1250
+
+----
+
+Film: page://f0EGvOfdhLE3kABW
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: qed8bf4O2uE2paN6

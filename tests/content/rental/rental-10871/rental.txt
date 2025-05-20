@@ -1,0 +1,25 @@
+Title: Rental 10871
+
+----
+
+Rental-id: 10871
+
+----
+
+Rental-date: 2005-08-02 00:27:24
+
+----
+
+Return-date: 2005-08-05 06:25:24
+
+----
+
+Inventory: page://lAlhwee4v3fm3lkW
+
+----
+
+Customer: page://x5SWKXQpXhzjUJdL
+
+----
+
+Uuid: kt2iUlOUHCpaziOk

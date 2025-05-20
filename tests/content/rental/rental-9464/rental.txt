@@ -1,0 +1,25 @@
+Title: Rental 9464
+
+----
+
+Rental-id: 9464
+
+----
+
+Rental-date: 2005-07-30 22:31:31
+
+----
+
+Return-date: 2005-08-07 01:10:31
+
+----
+
+Inventory: page://35H6c1KuDecQijWY
+
+----
+
+Customer: page://5cEtw749lfuLkqIc
+
+----
+
+Uuid: XdGHVIxJxLP2PK92

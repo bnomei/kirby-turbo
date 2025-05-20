@@ -1,0 +1,17 @@
+Title: Inv 3819
+
+----
+
+Inventory-id: 3819
+
+----
+
+Film: page://kdQnfgZoojMubXvE
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: fzcC2giTQHhe6yOt

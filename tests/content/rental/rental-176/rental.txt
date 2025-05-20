@@ -1,0 +1,25 @@
+Title: Rental 176
+
+----
+
+Rental-id: 176
+
+----
+
+Rental-date: 2005-05-26 03:47:39
+
+----
+
+Return-date: 2005-06-01 02:36:39
+
+----
+
+Inventory: page://S6HfNpXp1uXGh9X2
+
+----
+
+Uuid: zgVxe4RepCHpJOdv
+
+----
+
+Customer: page://VWOoBtkgAHj7sget

@@ -1,0 +1,17 @@
+Title: Inv 543
+
+----
+
+Inventory-id: 543
+
+----
+
+Film: page://Ga7GnSDxWvI9JbF3
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: LHtTtABgogJLvqxb

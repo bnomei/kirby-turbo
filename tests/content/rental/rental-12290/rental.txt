@@ -1,0 +1,25 @@
+Title: Rental 12290
+
+----
+
+Rental-id: 12290
+
+----
+
+Rental-date: 2005-08-18 05:08:03
+
+----
+
+Return-date: 2005-08-23 08:10:03
+
+----
+
+Inventory: page://Ma06TJCVlGgMhNSe
+
+----
+
+Customer: page://4Gfo2urzQMaaaZ4t
+
+----
+
+Uuid: tHC7NTBlMG2LnPBB

@@ -1,0 +1,33 @@
+Title: PHYLLIS FOSTER
+
+----
+
+Customer-id: 93
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: PHYLLIS
+
+----
+
+Last-name: FOSTER
+
+----
+
+Email: PHYLLIS.FOSTER@sakilacustomer.org
+
+----
+
+Address: page://dhxOaQvpYLcLhR0O
+
+----
+
+Active: 1
+
+----
+
+Uuid: 1apdIukT0MghUchq

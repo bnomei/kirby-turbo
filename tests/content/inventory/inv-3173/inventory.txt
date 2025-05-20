@@ -1,0 +1,17 @@
+Title: Inv 3173
+
+----
+
+Inventory-id: 3173
+
+----
+
+Film: page://HKxuHa3KHwkKVhLB
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: bSBjnRSpoAlUK2kP

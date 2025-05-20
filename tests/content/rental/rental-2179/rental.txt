@@ -1,0 +1,25 @@
+Title: Rental 2179
+
+----
+
+Rental-id: 2179
+
+----
+
+Rental-date: 2005-06-18 00:41:36
+
+----
+
+Return-date: 2005-06-19 02:17:36
+
+----
+
+Inventory: page://fo13y2W85NaczwSw
+
+----
+
+Uuid: 6iHKMaqDpOFFsCAe
+
+----
+
+Customer: page://e5QOScWwwaP51UiZ

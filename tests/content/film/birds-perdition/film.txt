@@ -1,0 +1,42 @@
+Title: BIRDS PERDITION
+
+----
+
+Actors:
+
+- 'page://ikhz1wEjJMz3vCm4'
+- 'page://HMQFYCzd6sL7s9te'
+- 'page://75IrF5RezCSzGKrx'
+- 'page://isKOKKisNfJh2ta1'
+
+----
+
+Film-id: 77
+
+----
+
+Description: A Boring Story of a Womanizer And a Pioneer who must Face a Dog in California
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 61
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: zkaGJ3SbarbsB3af
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

@@ -1,0 +1,25 @@
+Title: Rental 9749
+
+----
+
+Rental-id: 9749
+
+----
+
+Rental-date: 2005-07-31 09:18:33
+
+----
+
+Return-date: 2005-08-06 07:41:33
+
+----
+
+Inventory: page://jv2b1F59ULxyawy8
+
+----
+
+Customer: page://3Ykof1YEOYPBKag8
+
+----
+
+Uuid: U3fIbmaQ5aq507sJ

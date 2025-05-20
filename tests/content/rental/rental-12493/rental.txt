@@ -1,0 +1,25 @@
+Title: Rental 12493
+
+----
+
+Rental-id: 12493
+
+----
+
+Rental-date: 2005-08-18 12:53:38
+
+----
+
+Return-date: 2005-08-27 13:15:38
+
+----
+
+Inventory: page://yUHOu2LUUGFLybVm
+
+----
+
+Customer: page://z84M1eOE64VO5Dm4
+
+----
+
+Uuid: nZWEhhqMqlT9f9Da

@@ -1,0 +1,21 @@
+Title: JOHN SUVARI
+
+----
+
+Actors: []
+
+----
+
+Actor-id: 192
+
+----
+
+First-name: JOHN
+
+----
+
+Last-name: SUVARI
+
+----
+
+Uuid: zDG4LP4a8BGDrQEW

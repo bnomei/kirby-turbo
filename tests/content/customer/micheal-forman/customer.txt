@@ -1,0 +1,33 @@
+Title: MICHEAL FORMAN
+
+----
+
+Customer-id: 445
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MICHEAL
+
+----
+
+Last-name: FORMAN
+
+----
+
+Email: MICHEAL.FORMAN@sakilacustomer.org
+
+----
+
+Address: page://OTNuSCAHe2CigQcI
+
+----
+
+Active: 1
+
+----
+
+Uuid: vuC49kOilMI2crhA

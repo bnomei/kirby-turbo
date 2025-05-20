@@ -1,0 +1,25 @@
+Title: Rental 8580
+
+----
+
+Rental-id: 8580
+
+----
+
+Rental-date: 2005-07-29 12:00:27
+
+----
+
+Return-date: 2005-08-04 16:39:27
+
+----
+
+Inventory: page://xudB6OAv5qQXtY4o
+
+----
+
+Customer: page://DmLqAKJqqCmbO2QP
+
+----
+
+Uuid: lOjuEOPvd2AXxryN

@@ -1,0 +1,25 @@
+Title: Rental 10950
+
+----
+
+Rental-id: 10950
+
+----
+
+Rental-date: 2005-08-02 03:25:08
+
+----
+
+Return-date: 2005-08-07 23:11:08
+
+----
+
+Inventory: page://mGFdettf4av8Onty
+
+----
+
+Customer: page://JG06E1zPSAEHpqss
+
+----
+
+Uuid: oJLRVECDh2yrOm5S

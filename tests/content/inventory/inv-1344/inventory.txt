@@ -1,0 +1,17 @@
+Title: Inv 1344
+
+----
+
+Inventory-id: 1344
+
+----
+
+Film: page://xop717uobQ0PNzJg
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: LWn8LYxAmDwLdVD2

@@ -1,0 +1,33 @@
+Title: JASON MORRISSEY
+
+----
+
+Customer-id: 322
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JASON
+
+----
+
+Last-name: MORRISSEY
+
+----
+
+Email: JASON.MORRISSEY@sakilacustomer.org
+
+----
+
+Address: page://vj6kpgfAKnYuP64T
+
+----
+
+Active: 1
+
+----
+
+Uuid: oJcvcv4yGdx8WGkJ

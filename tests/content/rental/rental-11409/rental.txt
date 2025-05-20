@@ -1,0 +1,25 @@
+Title: Rental 11409
+
+----
+
+Rental-id: 11409
+
+----
+
+Rental-date: 2005-08-02 19:26:51
+
+----
+
+Return-date: 2005-08-07 19:55:51
+
+----
+
+Inventory: page://TIhabxpJYbrjOnmv
+
+----
+
+Customer: page://CLy4VJRr6odVQPmO
+
+----
+
+Uuid: SNymS7TMVn96Jku0

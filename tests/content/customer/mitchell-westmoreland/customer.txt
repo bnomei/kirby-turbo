@@ -1,0 +1,33 @@
+Title: MITCHELL WESTMORELAND
+
+----
+
+Customer-id: 520
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: MITCHELL
+
+----
+
+Last-name: WESTMORELAND
+
+----
+
+Email: MITCHELL.WESTMORELAND@sakilacustomer.org
+
+----
+
+Address: page://cK2VdWvFsrkA6iXF
+
+----
+
+Active: 1
+
+----
+
+Uuid: JT1tmXlVRPRvOsLK

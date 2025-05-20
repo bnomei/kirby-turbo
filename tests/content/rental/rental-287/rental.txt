@@ -1,0 +1,25 @@
+Title: Rental 287
+
+----
+
+Rental-id: 287
+
+----
+
+Rental-date: 2005-05-26 19:44:54
+
+----
+
+Return-date: 2005-06-02 01:10:54
+
+----
+
+Inventory: page://B8Cdlu9X2f5Ph7K4
+
+----
+
+Uuid: 1C8FaIjltbGIM8Jz
+
+----
+
+Customer: page://RShdmMICVp8lAUwL

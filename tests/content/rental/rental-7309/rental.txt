@@ -1,0 +1,25 @@
+Title: Rental 7309
+
+----
+
+Rental-id: 7309
+
+----
+
+Rental-date: 2005-07-27 13:00:29
+
+----
+
+Return-date: 2005-07-29 12:15:29
+
+----
+
+Inventory: page://NW4RQjPds1ieaCi9
+
+----
+
+Customer: page://LjRXWt8yhDRV7QH6
+
+----
+
+Uuid: lDbaqNmY24KsZLjd

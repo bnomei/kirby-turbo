@@ -1,0 +1,25 @@
+Title: Rental 8680
+
+----
+
+Rental-id: 8680
+
+----
+
+Rental-date: 2005-07-29 16:08:03
+
+----
+
+Return-date: 2005-07-31 17:26:03
+
+----
+
+Inventory: page://DYhR45NboflLIGBS
+
+----
+
+Customer: page://INrXMEKuIOKn9hxK
+
+----
+
+Uuid: cK5fe10qbN19Vfcx

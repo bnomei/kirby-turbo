@@ -1,0 +1,25 @@
+Title: Rental 4768
+
+----
+
+Rental-id: 4768
+
+----
+
+Rental-date: 2005-07-08 15:28:20
+
+----
+
+Return-date: 2005-07-09 11:46:20
+
+----
+
+Inventory: page://5ETzqkyJ2YM7Tb2u
+
+----
+
+Uuid: cGVFwz0CRqD4ryK1
+
+----
+
+Customer: page://rKjnon1qwpzbv3fn

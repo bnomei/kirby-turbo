@@ -1,0 +1,17 @@
+Title: Inv 1481
+
+----
+
+Inventory-id: 1481
+
+----
+
+Film: page://4qllX4lclo3VoZcl
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: GaEV8BypFKkBoUkL

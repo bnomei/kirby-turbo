@@ -1,0 +1,25 @@
+Title: Rental 13227
+
+----
+
+Rental-id: 13227
+
+----
+
+Rental-date: 2005-08-19 16:05:38
+
+----
+
+Return-date: 2005-08-20 21:39:38
+
+----
+
+Inventory: page://eYTAO00iKcvieXAq
+
+----
+
+Customer: page://YIsKp7gtJEruQjWD
+
+----
+
+Uuid: xvVdc291MWSbphhO

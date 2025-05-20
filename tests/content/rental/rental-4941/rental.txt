@@ -1,0 +1,25 @@
+Title: Rental 4941
+
+----
+
+Rental-id: 4941
+
+----
+
+Rental-date: 2005-07-08 22:39:10
+
+----
+
+Return-date: 2005-07-15 17:49:10
+
+----
+
+Inventory: page://wgG6T09hcAZh9dAJ
+
+----
+
+Uuid: uRQuEspWJeVJ8O5N
+
+----
+
+Customer: page://3ZP9ENxbl27URSN0

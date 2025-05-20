@@ -1,0 +1,17 @@
+Title: Inv 3822
+
+----
+
+Inventory-id: 3822
+
+----
+
+Film: page://skK0aeeoPpJBf53T
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 2c7rxSEO9BZk88Cn

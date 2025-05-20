@@ -1,0 +1,33 @@
+Title: DARYL LARUE
+
+----
+
+Customer-id: 579
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: DARYL
+
+----
+
+Last-name: LARUE
+
+----
+
+Email: DARYL.LARUE@sakilacustomer.org
+
+----
+
+Address: page://FluQzN3oGHEZquhy
+
+----
+
+Active: 1
+
+----
+
+Uuid: 35iZEOLpVXBoxDMB

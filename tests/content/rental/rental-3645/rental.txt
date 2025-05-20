@@ -1,0 +1,25 @@
+Title: Rental 3645
+
+----
+
+Rental-id: 3645
+
+----
+
+Rental-date: 2005-07-06 07:22:09
+
+----
+
+Return-date: 2005-07-10 11:45:09
+
+----
+
+Inventory: page://pZ31go53avCwCC4v
+
+----
+
+Uuid: Jd6zbN6X8npq55Dw
+
+----
+
+Customer: page://HQxscLHxuDjEVXyk

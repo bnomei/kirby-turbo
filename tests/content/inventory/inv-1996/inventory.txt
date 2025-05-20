@@ -1,0 +1,17 @@
+Title: Inv 1996
+
+----
+
+Inventory-id: 1996
+
+----
+
+Film: page://lSHzFr9XueOGDlZL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 2i01tbGY7C0kz7HZ

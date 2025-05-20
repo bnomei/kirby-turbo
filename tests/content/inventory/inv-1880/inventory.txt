@@ -1,0 +1,17 @@
+Title: Inv 1880
+
+----
+
+Inventory-id: 1880
+
+----
+
+Film: page://WcPezxIt8eTUWQ2G
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: e4kDDV9MVFWp3nmF

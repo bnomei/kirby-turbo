@@ -1,0 +1,25 @@
+Title: Rental 7020
+
+----
+
+Rental-id: 7020
+
+----
+
+Rental-date: 2005-07-27 02:24:27
+
+----
+
+Return-date: 2005-07-29 01:27:27
+
+----
+
+Inventory: page://SA5wiCCbW7F2ZpDP
+
+----
+
+Customer: page://R8IxBa5hez4twrqS
+
+----
+
+Uuid: QC5mI1BwYMzrR47R

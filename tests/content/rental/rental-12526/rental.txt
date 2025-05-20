@@ -1,0 +1,25 @@
+Title: Rental 12526
+
+----
+
+Rental-id: 12526
+
+----
+
+Rental-date: 2005-08-18 13:48:43
+
+----
+
+Return-date: 2005-08-19 10:05:43
+
+----
+
+Inventory: page://o1YqWbRrVTqaWHnF
+
+----
+
+Customer: page://DCfm6V0az1u3cAdq
+
+----
+
+Uuid: UGA8cDH7CqtPUvPj

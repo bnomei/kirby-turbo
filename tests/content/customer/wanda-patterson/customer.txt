@@ -1,0 +1,33 @@
+Title: WANDA PATTERSON
+
+----
+
+Customer-id: 87
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: WANDA
+
+----
+
+Last-name: PATTERSON
+
+----
+
+Email: WANDA.PATTERSON@sakilacustomer.org
+
+----
+
+Address: page://HNHm2HfwHEzboLKv
+
+----
+
+Active: 1
+
+----
+
+Uuid: AbMvWlf35GZBBoZ3

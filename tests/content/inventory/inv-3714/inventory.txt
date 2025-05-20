@@ -1,0 +1,17 @@
+Title: Inv 3714
+
+----
+
+Inventory-id: 3714
+
+----
+
+Film: page://wRP0xWifgqOiaUfB
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 6a7R3mzjIIo4mLGf

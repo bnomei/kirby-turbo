@@ -1,0 +1,21 @@
+Title: GOLDIE BRODY
+
+----
+
+Actors: []
+
+----
+
+Actor-id: 39
+
+----
+
+First-name: GOLDIE
+
+----
+
+Last-name: BRODY
+
+----
+
+Uuid: e0jga56TJCBrOXvD

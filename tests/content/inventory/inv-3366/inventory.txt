@@ -1,0 +1,17 @@
+Title: Inv 3366
+
+----
+
+Inventory-id: 3366
+
+----
+
+Film: page://lkKdCwh67Enn29M2
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: BYTF7qdTVxsfwfw5

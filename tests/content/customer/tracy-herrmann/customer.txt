@@ -1,0 +1,33 @@
+Title: TRACY HERRMANN
+
+----
+
+Customer-id: 589
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: TRACY
+
+----
+
+Last-name: HERRMANN
+
+----
+
+Email: TRACY.HERRMANN@sakilacustomer.org
+
+----
+
+Address: page://c9XzAxfQdoKizeEO
+
+----
+
+Active: 1
+
+----
+
+Uuid: 781kVzIovJEOwBVl

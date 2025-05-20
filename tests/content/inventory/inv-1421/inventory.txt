@@ -1,0 +1,17 @@
+Title: Inv 1421
+
+----
+
+Inventory-id: 1421
+
+----
+
+Film: page://HVileugisimUJPvj
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: eqSx8tS8XxSDcUOU

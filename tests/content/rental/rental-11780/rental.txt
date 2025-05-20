@@ -1,0 +1,25 @@
+Title: Rental 11780
+
+----
+
+Rental-id: 11780
+
+----
+
+Rental-date: 2005-08-17 10:34:24
+
+----
+
+Return-date: 2005-08-21 04:55:24
+
+----
+
+Inventory: page://MGmwGekaZ01TvHEl
+
+----
+
+Customer: page://OuCE5gs5Pt217cWx
+
+----
+
+Uuid: gRW0jkrCDKMzeiJ5

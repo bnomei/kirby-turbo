@@ -1,0 +1,17 @@
+Title: Inv 1216
+
+----
+
+Inventory-id: 1216
+
+----
+
+Film: page://PJ7bhn1I2shBev24
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: AOTb4CXEImgtO1EX

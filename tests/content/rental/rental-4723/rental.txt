@@ -1,0 +1,25 @@
+Title: Rental 4723
+
+----
+
+Rental-id: 4723
+
+----
+
+Rental-date: 2005-07-08 12:44:59
+
+----
+
+Return-date: 2005-07-17 07:22:59
+
+----
+
+Inventory: page://s4soVYkqPtQv0hkN
+
+----
+
+Uuid: 1cm83cpOWfGyPAQX
+
+----
+
+Customer: page://074m4vQayjqUygEq

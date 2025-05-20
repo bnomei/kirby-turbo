@@ -1,0 +1,33 @@
+Title: WILLIE HOWELL
+
+----
+
+Customer-id: 219
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: WILLIE
+
+----
+
+Last-name: HOWELL
+
+----
+
+Email: WILLIE.HOWELL@sakilacustomer.org
+
+----
+
+Address: page://h9DoIjA7DoHxXrL9
+
+----
+
+Active: 1
+
+----
+
+Uuid: zjLEkMGR4HRu3jti

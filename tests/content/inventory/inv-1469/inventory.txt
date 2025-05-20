@@ -1,0 +1,17 @@
+Title: Inv 1469
+
+----
+
+Inventory-id: 1469
+
+----
+
+Film: page://5uHlj28uErIU8MhB
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ZZfZoXIvhO13VuZr

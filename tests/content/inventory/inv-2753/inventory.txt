@@ -1,0 +1,17 @@
+Title: Inv 2753
+
+----
+
+Inventory-id: 2753
+
+----
+
+Film: page://S36rO7YzPhvQcg67
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: NDcv8WNWQ52BaSPB

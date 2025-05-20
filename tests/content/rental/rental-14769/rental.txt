@@ -1,0 +1,21 @@
+Title: Rental 14769
+
+----
+
+Rental-id: 14769
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://4Dqdj6pXROJSthP9
+
+----
+
+Customer: page://LGMzuvWnmjAofA2U
+
+----
+
+Uuid: DIynTzyLgLYgjdsX

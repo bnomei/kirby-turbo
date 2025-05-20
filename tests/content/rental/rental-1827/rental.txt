@@ -1,0 +1,25 @@
+Title: Rental 1827
+
+----
+
+Rental-id: 1827
+
+----
+
+Rental-date: 2005-06-16 21:54:40
+
+----
+
+Return-date: 2005-06-19 21:28:40
+
+----
+
+Inventory: page://FUvVHJ6Me7SBIxTO
+
+----
+
+Uuid: JtvIs5o6cJQ4fjbv
+
+----
+
+Customer: page://yiLH1F5ptBYYkAUt

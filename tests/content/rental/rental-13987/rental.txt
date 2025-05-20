@@ -1,0 +1,25 @@
+Title: Rental 13987
+
+----
+
+Rental-id: 13987
+
+----
+
+Rental-date: 2005-08-20 19:19:30
+
+----
+
+Return-date: 2005-08-23 15:37:30
+
+----
+
+Inventory: page://8XtFYDLHAJQjkZ8i
+
+----
+
+Customer: page://SnGdQyKh3vyTvpek
+
+----
+
+Uuid: pJsVOMAiYKWwbr5z

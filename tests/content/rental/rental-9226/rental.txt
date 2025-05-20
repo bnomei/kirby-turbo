@@ -1,0 +1,25 @@
+Title: Rental 9226
+
+----
+
+Rental-id: 9226
+
+----
+
+Rental-date: 2005-07-30 13:31:20
+
+----
+
+Return-date: 2005-08-06 16:42:20
+
+----
+
+Inventory: page://etE8vDD5oC9ISsmJ
+
+----
+
+Customer: page://zr15m47K6VY9URjq
+
+----
+
+Uuid: UVTBZts6Csv3dQ8n

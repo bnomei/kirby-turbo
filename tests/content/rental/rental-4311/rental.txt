@@ -1,0 +1,25 @@
+Title: Rental 4311
+
+----
+
+Rental-id: 4311
+
+----
+
+Rental-date: 2005-07-07 17:31:14
+
+----
+
+Return-date: 2005-07-11 19:21:14
+
+----
+
+Inventory: page://Gyd9tYia7O835bWh
+
+----
+
+Uuid: 42Cfw8wrpSBsM8Yk
+
+----
+
+Customer: page://2lQ4vbsZnRXuEptp

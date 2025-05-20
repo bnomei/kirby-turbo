@@ -1,0 +1,47 @@
+Title: LUKE MUMMY
+
+----
+
+Actors:
+
+- 'page://9zoYPXEbxK6liKqc'
+- 'page://2VTI7EzGP0O1IYVh'
+- 'page://Ppjj85F3dapvXsi8'
+- 'page://GA1ldK0BGihIEfd4'
+- 'page://1JHTierDMQdVCXSe'
+- 'page://zDG4LP4a8BGDrQEW'
+- 'page://IUEdThBjLk8TNUwy'
+- 'page://FLMpVB5CVJFKSGVy'
+- 'page://V7i97wxdkXKwKdBD'
+
+----
+
+Film-id: 541
+
+----
+
+Description: A Taut Character Study of a Boy And a Robot who must Redeem a Mad Scientist in Ancient India
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 74
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: j57IDZCK6rdV8InC
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

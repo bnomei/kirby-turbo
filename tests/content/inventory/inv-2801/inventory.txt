@@ -1,0 +1,17 @@
+Title: Inv 2801
+
+----
+
+Inventory-id: 2801
+
+----
+
+Film: page://Hup94TT5NKjIsBKd
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: XW5KHYpMsqJJOuNt

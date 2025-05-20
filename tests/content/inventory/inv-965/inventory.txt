@@ -1,0 +1,17 @@
+Title: Inv 965
+
+----
+
+Inventory-id: 965
+
+----
+
+Film: page://YmWE87FyAY8q9lnG
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: s4soVYkqPtQv0hkN

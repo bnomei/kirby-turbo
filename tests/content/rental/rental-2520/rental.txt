@@ -1,0 +1,25 @@
+Title: Rental 2520
+
+----
+
+Rental-id: 2520
+
+----
+
+Rental-date: 2005-06-19 00:29:00
+
+----
+
+Return-date: 2005-06-28 04:36:00
+
+----
+
+Inventory: page://Tf9EvOmrhQP9kcOP
+
+----
+
+Uuid: essIVKvlLuwmlKht
+
+----
+
+Customer: page://LxYXYVT8Su7lX0Xb

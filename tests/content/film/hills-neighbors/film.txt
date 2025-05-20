@@ -1,0 +1,44 @@
+Title: HILLS NEIGHBORS
+
+----
+
+Actors:
+
+- 'page://q71V781JfgIPJGVL'
+- 'page://OwcwI2sE5Nr5L1Ju'
+- 'page://fpycclHxIOPEPbuu'
+- 'page://2VTI7EzGP0O1IYVh'
+- 'page://CBtLT02Rklp5i11L'
+- 'page://EMAJfjeYpdsSEXq5'
+
+----
+
+Film-id: 417
+
+----
+
+Description: A Epic Display of a Hunter And a Feminist who must Sink a Car in A U-Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 93
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: AUYUSAlHslxGZN9K
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

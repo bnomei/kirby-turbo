@@ -1,0 +1,17 @@
+Title: Inv 4362
+
+----
+
+Inventory-id: 4362
+
+----
+
+Film: page://kp3ua5P6dV1jZMjo
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 7vXcdHHE0jluXDP9

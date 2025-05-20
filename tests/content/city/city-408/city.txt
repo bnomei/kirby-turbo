@@ -1,0 +1,17 @@
+Title: Pjatigorsk
+
+----
+
+City-id: 408
+
+----
+
+City: Pjatigorsk
+
+----
+
+Country: page://NzIpdEh2BMlexUr9
+
+----
+
+Uuid: HxlPGmS16oaBxFxk

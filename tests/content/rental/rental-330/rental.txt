@@ -1,0 +1,25 @@
+Title: Rental 330
+
+----
+
+Rental-id: 330
+
+----
+
+Rental-date: 2005-05-27 02:15:30
+
+----
+
+Return-date: 2005-06-04 05:09:30
+
+----
+
+Inventory: page://YopfVSeWHRXEhlBd
+
+----
+
+Uuid: y6qSaPjXCQkHdG4Z
+
+----
+
+Customer: page://Qi4JrRnZX0esVTiK

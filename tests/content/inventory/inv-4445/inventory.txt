@@ -1,0 +1,17 @@
+Title: Inv 4445
+
+----
+
+Inventory-id: 4445
+
+----
+
+Film: page://QFSGrPbD3LHGcdUU
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: NS77LkQ0gma5HS1X

@@ -1,0 +1,17 @@
+Title: Inv 818
+
+----
+
+Inventory-id: 818
+
+----
+
+Film: page://hcfM16EVFV0qdR8I
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: rfd24aHrvwWc1igB

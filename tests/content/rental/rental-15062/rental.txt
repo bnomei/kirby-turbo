@@ -1,0 +1,25 @@
+Title: Rental 15062
+
+----
+
+Rental-id: 15062
+
+----
+
+Rental-date: 2005-08-22 10:34:39
+
+----
+
+Return-date: 2005-08-26 13:09:39
+
+----
+
+Inventory: page://1l7JWcbRFJ3POQCB
+
+----
+
+Customer: page://IASgNEvWFJebynwM
+
+----
+
+Uuid: 0wtPROckWJ7sdnNA

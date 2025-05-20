@@ -1,0 +1,17 @@
+Title: Inv 2619
+
+----
+
+Inventory-id: 2619
+
+----
+
+Film: page://TFXc8fRfSEakHd9C
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 6Zy1mIlCWrNDKZf0

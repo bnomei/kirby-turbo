@@ -1,0 +1,33 @@
+Title: ALEXANDER FENNELL
+
+----
+
+Customer-id: 439
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ALEXANDER
+
+----
+
+Last-name: FENNELL
+
+----
+
+Email: ALEXANDER.FENNELL@sakilacustomer.org
+
+----
+
+Address: page://oLFGq3vwedTsTNVR
+
+----
+
+Active: 1
+
+----
+
+Uuid: KliCwmxco9DJ4eNi

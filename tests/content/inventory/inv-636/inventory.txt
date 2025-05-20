@@ -1,0 +1,17 @@
+Title: Inv 636
+
+----
+
+Inventory-id: 636
+
+----
+
+Film: page://T8zdzO8YJpZWbgG9
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: gLrTVxG2pIPsOKT3

@@ -1,0 +1,41 @@
+Title: GREASE YOUTH
+
+----
+
+Actors:
+
+- 'page://4hDC3FM6lySlQjxW'
+- 'page://if8hfrmRoIODgwSa'
+- 'page://KV54RGx9NMbLtwi4'
+
+----
+
+Film-id: 377
+
+----
+
+Description: A Emotional Panorama of a Secret Agent And a Waitress who must Escape a Composer in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 135
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: A286H6tUxQ3OzhwJ
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

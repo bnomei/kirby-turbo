@@ -1,0 +1,17 @@
+Title: Inv 337
+
+----
+
+Inventory-id: 337
+
+----
+
+Film: page://wdCsKfGhTxJGSS4q
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: x48Av2mOEmHkfuFC

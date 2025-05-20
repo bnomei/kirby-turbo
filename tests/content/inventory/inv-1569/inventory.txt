@@ -1,0 +1,17 @@
+Title: Inv 1569
+
+----
+
+Inventory-id: 1569
+
+----
+
+Film: page://B0vxWhm921pRGixJ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: EM1O2NjFROZJy5RS

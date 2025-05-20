@@ -1,0 +1,25 @@
+Title: Rental 12614
+
+----
+
+Rental-id: 12614
+
+----
+
+Rental-date: 2005-08-18 17:16:03
+
+----
+
+Return-date: 2005-08-26 16:56:03
+
+----
+
+Inventory: page://wfdpRanE1LU07xQE
+
+----
+
+Customer: page://wPyg9sLQxXlxD9Q9
+
+----
+
+Uuid: 4mgtThb5NBAE2bdd

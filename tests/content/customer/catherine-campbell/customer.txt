@@ -1,0 +1,33 @@
+Title: CATHERINE CAMPBELL
+
+----
+
+Customer-id: 46
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: CATHERINE
+
+----
+
+Last-name: CAMPBELL
+
+----
+
+Email: CATHERINE.CAMPBELL@sakilacustomer.org
+
+----
+
+Address: page://9kvWkrfGQxnK2TeN
+
+----
+
+Active: 1
+
+----
+
+Uuid: uTsl9Wlh901HIAgF

@@ -1,0 +1,17 @@
+Title: Sogamoso
+
+----
+
+City-id: 487
+
+----
+
+City: Sogamoso
+
+----
+
+Country: page://pSRJJ2hhUPuDqXth
+
+----
+
+Uuid: BW4918DH7baqNhhj

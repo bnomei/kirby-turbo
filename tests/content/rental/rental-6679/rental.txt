@@ -1,0 +1,25 @@
+Title: Rental 6679
+
+----
+
+Rental-id: 6679
+
+----
+
+Rental-date: 2005-07-12 12:01:07
+
+----
+
+Return-date: 2005-07-14 11:36:07
+
+----
+
+Inventory: page://lidAXGOWzLUYIv3p
+
+----
+
+Uuid: EB5S9CeUywsruBRV
+
+----
+
+Customer: page://BepniifsBA7v57Xe

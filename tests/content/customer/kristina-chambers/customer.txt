@@ -1,0 +1,33 @@
+Title: KRISTINA CHAMBERS
+
+----
+
+Customer-id: 290
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: KRISTINA
+
+----
+
+Last-name: CHAMBERS
+
+----
+
+Email: KRISTINA.CHAMBERS@sakilacustomer.org
+
+----
+
+Address: page://AkiYFJwnzsX6uwud
+
+----
+
+Active: 1
+
+----
+
+Uuid: 88ZpPvHuxTFZYKCY

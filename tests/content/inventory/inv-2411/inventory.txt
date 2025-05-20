@@ -1,0 +1,17 @@
+Title: Inv 2411
+
+----
+
+Inventory-id: 2411
+
+----
+
+Film: page://x5HL2MOSU2AnxXms
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 3mCMa5aTQt3emcLG

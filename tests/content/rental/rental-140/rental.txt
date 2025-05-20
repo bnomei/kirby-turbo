@@ -1,0 +1,25 @@
+Title: Rental 140
+
+----
+
+Rental-id: 140
+
+----
+
+Rental-date: 2005-05-25 23:34:22
+
+----
+
+Return-date: 2005-05-27 01:10:22
+
+----
+
+Inventory: page://d5tBkNWUdDtN6w2n
+
+----
+
+Uuid: lc3MZpy3sFh83GOq
+
+----
+
+Customer: page://hZOnCp7oVBUSijBw

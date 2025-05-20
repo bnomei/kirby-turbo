@@ -1,0 +1,25 @@
+Title: Rental 5993
+
+----
+
+Rental-id: 5993
+
+----
+
+Rental-date: 2005-07-11 01:06:41
+
+----
+
+Return-date: 2005-07-14 19:19:41
+
+----
+
+Inventory: page://7JFS7SWYhamfXoH0
+
+----
+
+Uuid: YZ5XcGYbjpy7p5kT
+
+----
+
+Customer: page://6T1yeRwVMaJSaTXA

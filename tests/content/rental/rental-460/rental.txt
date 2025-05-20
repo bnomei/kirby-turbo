@@ -1,0 +1,25 @@
+Title: Rental 460
+
+----
+
+Rental-id: 460
+
+----
+
+Rental-date: 2005-05-27 20:02:03
+
+----
+
+Return-date: 2005-05-28 16:14:03
+
+----
+
+Inventory: page://jeu6wb3xQGXdDMdE
+
+----
+
+Uuid: k6N25y1GxTrcayjN
+
+----
+
+Customer: page://Cu40qk5iMNg9WfrC

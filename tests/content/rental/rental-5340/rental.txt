@@ -1,0 +1,25 @@
+Title: Rental 5340
+
+----
+
+Rental-id: 5340
+
+----
+
+Rental-date: 2005-07-09 17:11:35
+
+----
+
+Return-date: 2005-07-17 17:59:35
+
+----
+
+Inventory: page://j0okfv9FmtBdbYS4
+
+----
+
+Uuid: lAjUJKUL1M3zP4fn
+
+----
+
+Customer: page://YC1uNdmmt4LG2OJc

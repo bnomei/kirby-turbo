@@ -1,0 +1,17 @@
+Title: Inv 4233
+
+----
+
+Inventory-id: 4233
+
+----
+
+Film: page://EGBbhwexVKfnd31B
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: rnAS9hkx9k5rZdkc

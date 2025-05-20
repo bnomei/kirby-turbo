@@ -1,0 +1,17 @@
+Title: Inv 3433
+
+----
+
+Inventory-id: 3433
+
+----
+
+Film: page://qWX4AUrS1elOCyrn
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: A5wy2U1oYU4hdCeF

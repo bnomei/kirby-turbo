@@ -1,0 +1,33 @@
+Title: PEDRO CHESTNUT
+
+----
+
+Customer-id: 475
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: PEDRO
+
+----
+
+Last-name: CHESTNUT
+
+----
+
+Email: PEDRO.CHESTNUT@sakilacustomer.org
+
+----
+
+Address: page://KHhtorb5diQQv5bM
+
+----
+
+Active: 1
+
+----
+
+Uuid: Np0KqTwajD8FvaQR

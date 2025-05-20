@@ -1,0 +1,33 @@
+Title: CECIL VINES
+
+----
+
+Customer-id: 512
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CECIL
+
+----
+
+Last-name: VINES
+
+----
+
+Email: CECIL.VINES@sakilacustomer.org
+
+----
+
+Address: page://bRjg7fiiCJCZqyIT
+
+----
+
+Active: 1
+
+----
+
+Uuid: 8819Gek69PVTaJvT

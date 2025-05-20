@@ -1,0 +1,25 @@
+Title: Rental 606
+
+----
+
+Rental-id: 606
+
+----
+
+Rental-date: 2005-05-28 14:48:39
+
+----
+
+Return-date: 2005-06-04 09:44:39
+
+----
+
+Inventory: page://CspHrLh9U0AlsHoG
+
+----
+
+Uuid: 7SaOpRHq2ltFSkM2
+
+----
+
+Customer: page://igxQ7vxPZAcLSAoP

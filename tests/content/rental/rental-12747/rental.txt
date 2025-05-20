@@ -1,0 +1,25 @@
+Title: Rental 12747
+
+----
+
+Rental-id: 12747
+
+----
+
+Rental-date: 2005-08-18 22:28:22
+
+----
+
+Return-date: 2005-08-22 22:25:22
+
+----
+
+Inventory: page://CF4V4H60U226yxpp
+
+----
+
+Customer: page://HkTANTgi9H03vQyM
+
+----
+
+Uuid: FJ1FQ1wrhK8PQ0sF

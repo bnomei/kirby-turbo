@@ -1,0 +1,41 @@
+Title: UNDEFEATED DALMATIONS
+
+----
+
+Actors:
+
+- 'page://JbsPWnOXBNKX1tM5'
+- 'page://8uCKHWVFS7qGgYjl'
+- 'page://0h8tQJYts8gmFWwG'
+
+----
+
+Film-id: 922
+
+----
+
+Description: A Unbelieveable Display of a Crocodile And a Feminist who must Overcome a Moose in An Abandoned Amusement Park
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 107
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Commentaries
+
+----
+
+Uuid: gWkrLVVJCniy6zzt
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

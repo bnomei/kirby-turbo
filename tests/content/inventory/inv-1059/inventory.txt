@@ -1,0 +1,17 @@
+Title: Inv 1059
+
+----
+
+Inventory-id: 1059
+
+----
+
+Film: page://GZr09fgrQ6Y1eFWR
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: j5JaLMf1cRO2Cory

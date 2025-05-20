@@ -1,0 +1,17 @@
+Title: Inv 2682
+
+----
+
+Inventory-id: 2682
+
+----
+
+Film: page://Pg9XTbWioTSw0dxQ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: sUNGQV7aPoUnL8pa

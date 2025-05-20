@@ -1,0 +1,17 @@
+Title: Inv 2273
+
+----
+
+Inventory-id: 2273
+
+----
+
+Film: page://jGmVHtV5VR5Nsg4l
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: GtrtbJDcI2Xn36ji

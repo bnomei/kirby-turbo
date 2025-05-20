@@ -1,0 +1,17 @@
+Title: Inv 4323
+
+----
+
+Inventory-id: 4323
+
+----
+
+Film: page://dyZxxsuprh3PBLXD
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: IFEwTTGkPMxRR3JZ

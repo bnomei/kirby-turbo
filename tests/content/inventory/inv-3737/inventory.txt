@@ -1,0 +1,17 @@
+Title: Inv 3737
+
+----
+
+Inventory-id: 3737
+
+----
+
+Film: page://noCRdaE1g1oSh4j5
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ro8TB9fEdNskFj8Q

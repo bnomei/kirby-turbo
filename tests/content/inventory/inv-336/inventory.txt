@@ -1,0 +1,17 @@
+Title: Inv 336
+
+----
+
+Inventory-id: 336
+
+----
+
+Film: page://wdCsKfGhTxJGSS4q
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 1LoaGaIrsfQWvjfR

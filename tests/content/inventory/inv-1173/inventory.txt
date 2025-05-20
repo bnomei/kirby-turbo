@@ -1,0 +1,17 @@
+Title: Inv 1173
+
+----
+
+Inventory-id: 1173
+
+----
+
+Film: page://ZKewGEraEtLTZY2Z
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 4LGJ52dWcKZUyUhW

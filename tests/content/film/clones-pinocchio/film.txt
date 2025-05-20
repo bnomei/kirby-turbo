@@ -1,0 +1,43 @@
+Title: CLONES PINOCCHIO
+
+----
+
+Actors:
+
+- 'page://K3jNN1L9qHT9bFIC'
+- 'page://Ppjj85F3dapvXsi8'
+- 'page://if8hfrmRoIODgwSa'
+- 'page://rnDcbekdB8oOqt97'
+- 'page://nfzjlyLmEQ6Q1S80'
+
+----
+
+Film-id: 158
+
+----
+
+Description: A Amazing Drama of a Car And a Robot who must Pursue a Dentist in New Orleans
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 124
+
+----
+
+Rating: R
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: ngy47YPsc0wCrBpL
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

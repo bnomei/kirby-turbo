@@ -1,0 +1,33 @@
+Title: CLAUDIA FULLER
+
+----
+
+Customer-id: 234
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CLAUDIA
+
+----
+
+Last-name: FULLER
+
+----
+
+Email: CLAUDIA.FULLER@sakilacustomer.org
+
+----
+
+Address: page://BNim75g2e5gHd1DS
+
+----
+
+Active: 1
+
+----
+
+Uuid: tXU6KMhmykXTBWCU

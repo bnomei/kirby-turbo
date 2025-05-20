@@ -1,0 +1,25 @@
+Title: Rental 11618
+
+----
+
+Rental-id: 11618
+
+----
+
+Rental-date: 2005-08-17 04:01:36
+
+----
+
+Return-date: 2005-08-23 01:02:36
+
+----
+
+Inventory: page://oGh9C7ar3Xdel0XL
+
+----
+
+Customer: page://pxFnJpraXIkoHiiZ
+
+----
+
+Uuid: NG8ma2uTb8Vr7EEw

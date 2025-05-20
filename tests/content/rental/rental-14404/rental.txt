@@ -1,0 +1,25 @@
+Title: Rental 14404
+
+----
+
+Rental-id: 14404
+
+----
+
+Rental-date: 2005-08-21 10:43:04
+
+----
+
+Return-date: 2005-08-30 10:00:04
+
+----
+
+Inventory: page://tgFIOfMtvrwJKqCF
+
+----
+
+Customer: page://S6wnyWLyFa5056NX
+
+----
+
+Uuid: MToj7LSvVpaAg3xF

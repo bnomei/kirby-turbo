@@ -1,0 +1,17 @@
+Title: Inv 2998
+
+----
+
+Inventory-id: 2998
+
+----
+
+Film: page://IgiUwsTJqOx9tguK
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ciIJoVpEHki4Xsid

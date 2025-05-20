@@ -1,0 +1,25 @@
+Title: Rental 7892
+
+----
+
+Rental-id: 7892
+
+----
+
+Rental-date: 2005-07-28 10:46:58
+
+----
+
+Return-date: 2005-07-30 16:03:58
+
+----
+
+Inventory: page://NznAuc7aaDWAJ2Mv
+
+----
+
+Customer: page://C7Yyvdwc8g6atULR
+
+----
+
+Uuid: uxh9YLMg1MqT0PEt

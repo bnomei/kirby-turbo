@@ -1,0 +1,25 @@
+Title: Rental 2154
+
+----
+
+Rental-id: 2154
+
+----
+
+Rental-date: 2005-06-17 22:59:42
+
+----
+
+Return-date: 2005-06-24 04:11:42
+
+----
+
+Inventory: page://1MSheNSMZ193LNs0
+
+----
+
+Uuid: FVq8D3dYLWKR8lYV
+
+----
+
+Customer: page://bZxKFtO3mqYYQdiA

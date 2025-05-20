@@ -1,0 +1,33 @@
+Title: CHRISTINE ROBERTS
+
+----
+
+Customer-id: 43
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: CHRISTINE
+
+----
+
+Last-name: ROBERTS
+
+----
+
+Email: CHRISTINE.ROBERTS@sakilacustomer.org
+
+----
+
+Address: page://3Mh0D5fG3ouesoK2
+
+----
+
+Active: 1
+
+----
+
+Uuid: 4bqmvXdivlrT2tgo

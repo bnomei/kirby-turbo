@@ -1,0 +1,25 @@
+Title: Rental 10250
+
+----
+
+Rental-id: 10250
+
+----
+
+Rental-date: 2005-08-01 02:38:42
+
+----
+
+Return-date: 2005-08-07 03:59:42
+
+----
+
+Inventory: page://8ihczbm9kd74l6FJ
+
+----
+
+Customer: page://T9Zm4dl6jOmrQnrt
+
+----
+
+Uuid: oepBA1SPZZeJGc0Z

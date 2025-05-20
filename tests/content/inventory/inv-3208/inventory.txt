@@ -1,0 +1,17 @@
+Title: Inv 3208
+
+----
+
+Inventory-id: 3208
+
+----
+
+Film: page://1LIf1DaCQFAKfsoP
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: hDgFcM5dzC77Awlg

@@ -1,0 +1,25 @@
+Title: Rental 6727
+
+----
+
+Rental-id: 6727
+
+----
+
+Rental-date: 2005-07-12 13:54:25
+
+----
+
+Return-date: 2005-07-14 17:29:25
+
+----
+
+Inventory: page://PB6J28sI77jS6kvI
+
+----
+
+Uuid: XXzckIo7NaFFuDLP
+
+----
+
+Customer: page://UvN7vXxqD6JnHXLQ

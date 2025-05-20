@@ -1,0 +1,17 @@
+Title: Inv 569
+
+----
+
+Inventory-id: 569
+
+----
+
+Film: page://WT5NcgnYasVoDuDy
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: PTvGywgMOVZ3RPsY

@@ -1,0 +1,33 @@
+Title: ALFRED CASILLAS
+
+----
+
+Customer-id: 423
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ALFRED
+
+----
+
+Last-name: CASILLAS
+
+----
+
+Email: ALFRED.CASILLAS@sakilacustomer.org
+
+----
+
+Address: page://OsoC5GeoDLkh4Jnh
+
+----
+
+Active: 1
+
+----
+
+Uuid: yiLH1F5ptBYYkAUt

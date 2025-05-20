@@ -1,0 +1,43 @@
+Title: ANALYZE HOOSIERS
+
+----
+
+Actors:
+
+- 'page://Kx231VrTuxlFk3Xg'
+- 'page://JbsPWnOXBNKX1tM5'
+- 'page://ZyRQLJXso6IqRkwR'
+- 'page://CI649GdI5JvIKbQ1'
+- 'page://NRH2DcjJcFwzgjEd'
+
+----
+
+Film-id: 24
+
+----
+
+Description: A Thoughtful Display of a Explorer And a Pastry Chef who must Overcome a Feminist in The Sahara Desert
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 181
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: kkvuGDIMjxCHN4Nb
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

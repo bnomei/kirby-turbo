@@ -1,0 +1,17 @@
+Title: Inv 1500
+
+----
+
+Inventory-id: 1500
+
+----
+
+Film: page://zI1WCPL0wtu2p6Wh
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ujPiUUqIUEEJDXlO

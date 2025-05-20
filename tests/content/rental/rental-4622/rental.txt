@@ -1,0 +1,25 @@
+Title: Rental 4622
+
+----
+
+Rental-id: 4622
+
+----
+
+Rental-date: 2005-07-08 08:02:42
+
+----
+
+Return-date: 2005-07-10 07:46:42
+
+----
+
+Inventory: page://6O5L7ishEbaTcLud
+
+----
+
+Uuid: 5NX23jW05Iv7MoHl
+
+----
+
+Customer: page://6AKt4qOv738O4v4p

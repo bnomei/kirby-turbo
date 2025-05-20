@@ -1,0 +1,21 @@
+Title: Rental 15167
+
+----
+
+Rental-id: 15167
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://3H36CqzA6QgVbVX4
+
+----
+
+Customer: page://6kK9aIjaQGPeA4BK
+
+----
+
+Uuid: azkZL94fP6FzxkSS

@@ -1,0 +1,33 @@
+Title: MAURICE CRAWLEY
+
+----
+
+Customer-id: 482
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MAURICE
+
+----
+
+Last-name: CRAWLEY
+
+----
+
+Email: MAURICE.CRAWLEY@sakilacustomer.org
+
+----
+
+Address: page://TZLTWS2MUi4qWPim
+
+----
+
+Active: 0
+
+----
+
+Uuid: rKjnon1qwpzbv3fn

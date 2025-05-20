@@ -1,0 +1,25 @@
+Title: Rental 8963
+
+----
+
+Rental-id: 8963
+
+----
+
+Rental-date: 2005-07-30 03:46:26
+
+----
+
+Return-date: 2005-08-08 06:12:26
+
+----
+
+Inventory: page://IOB3Us2k50c9y9WX
+
+----
+
+Customer: page://T9MMayXBdDHCkZUr
+
+----
+
+Uuid: EmcCrSoiW8YCZF2c

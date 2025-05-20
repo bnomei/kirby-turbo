@@ -1,0 +1,25 @@
+Title: Rental 2102
+
+----
+
+Rental-id: 2102
+
+----
+
+Rental-date: 2005-06-17 19:05:22
+
+----
+
+Return-date: 2005-06-23 23:21:22
+
+----
+
+Inventory: page://rizWOhFFD8YPpHcv
+
+----
+
+Uuid: O1xvipoKHFGut2N0
+
+----
+
+Customer: page://JrFUnPiIScwISMV4

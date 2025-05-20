@@ -1,0 +1,25 @@
+Title: Rental 8373
+
+----
+
+Rental-id: 8373
+
+----
+
+Rental-date: 2005-07-29 05:19:53
+
+----
+
+Return-date: 2005-08-04 04:39:53
+
+----
+
+Inventory: page://kDddTyf92ETYh3z7
+
+----
+
+Customer: page://ssKfVmN07XGOgIXz
+
+----
+
+Uuid: 4hYxAqEUX3twDbAX

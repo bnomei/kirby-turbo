@@ -1,0 +1,17 @@
+Title: Inv 4415
+
+----
+
+Inventory-id: 4415
+
+----
+
+Film: page://x5ur8aF8PTYCWH29
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 0Ph6I2FoG4ohRfYT

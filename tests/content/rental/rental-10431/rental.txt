@@ -1,0 +1,25 @@
+Title: Rental 10431
+
+----
+
+Rental-id: 10431
+
+----
+
+Rental-date: 2005-08-01 08:41:54
+
+----
+
+Return-date: 2005-08-07 09:44:54
+
+----
+
+Inventory: page://F66y1xeKE5pmzMM0
+
+----
+
+Customer: page://d4Qzzmipb5Xdc54C
+
+----
+
+Uuid: nwkmGRgxntY8mcCR

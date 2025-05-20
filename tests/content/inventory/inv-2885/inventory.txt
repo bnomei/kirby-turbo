@@ -1,0 +1,17 @@
+Title: Inv 2885
+
+----
+
+Inventory-id: 2885
+
+----
+
+Film: page://RvwLAVJjdulWhdsI
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: EdHTCYmgxwRk3nLm

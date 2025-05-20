@@ -1,0 +1,17 @@
+Title: Inv 3141
+
+----
+
+Inventory-id: 3141
+
+----
+
+Film: page://EKJk2VIywYlYORwF
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: PIiqId7JB07Mukj4

@@ -1,0 +1,17 @@
+Title: Inv 3744
+
+----
+
+Inventory-id: 3744
+
+----
+
+Film: page://dzN50rhrpVWyqRRr
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: FEkQIzUSw3XXA0ea

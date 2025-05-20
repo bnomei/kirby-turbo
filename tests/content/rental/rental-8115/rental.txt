@@ -1,0 +1,25 @@
+Title: Rental 8115
+
+----
+
+Rental-id: 8115
+
+----
+
+Rental-date: 2005-07-28 19:14:17
+
+----
+
+Return-date: 2005-08-03 14:58:17
+
+----
+
+Inventory: page://eFLZL7luVnisqd0O
+
+----
+
+Customer: page://eJUwVKxCunZWV9Rg
+
+----
+
+Uuid: 5QuOpVYam49Op8yS

@@ -1,0 +1,21 @@
+Title: Rental 14160
+
+----
+
+Rental-id: 14160
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://n9loZRUyOiYpL2LY
+
+----
+
+Customer: page://frnhXD3aQVG6hXRV
+
+----
+
+Uuid: 4jmMjUr7VB8kJJF7

@@ -1,0 +1,17 @@
+Title: Inv 2831
+
+----
+
+Inventory-id: 2831
+
+----
+
+Film: page://4YjV52Bu2TZvs5UN
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: H8PqF71IxsGoowof

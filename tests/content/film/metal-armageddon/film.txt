@@ -1,0 +1,46 @@
+Title: METAL ARMAGEDDON
+
+----
+
+Actors:
+
+- 'page://S52CrIK06oYgWrwP'
+- 'page://xbVuFnPKikNsqVkK'
+- 'page://Ppjj85F3dapvXsi8'
+- 'page://wxM7fPnQeVIlPpuJ'
+- 'page://0h8tQJYts8gmFWwG'
+- 'page://xXgVj4FQPZ59wjBk'
+- 'page://j4GwVyPWyXE95Bdj'
+- 'page://nVYE704vdPRRS8fI'
+
+----
+
+Film-id: 571
+
+----
+
+Description: A Thrilling Display of a Lumberjack And a Crocodile who must Meet a Monkey in A Baloon Factory
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 161
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: z0paQc40h4auQZis
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

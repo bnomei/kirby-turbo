@@ -1,0 +1,25 @@
+Title: Rental 7213
+
+----
+
+Rental-id: 7213
+
+----
+
+Rental-date: 2005-07-27 09:22:29
+
+----
+
+Return-date: 2005-08-03 13:53:29
+
+----
+
+Inventory: page://aLh0sZMfH07yRvm3
+
+----
+
+Customer: page://9bRTDRu3HEwd7H8l
+
+----
+
+Uuid: IxU6Hlo2r3estPaP

@@ -1,0 +1,25 @@
+Title: Rental 4584
+
+----
+
+Rental-id: 4584
+
+----
+
+Rental-date: 2005-07-08 06:11:02
+
+----
+
+Return-date: 2005-07-11 05:14:02
+
+----
+
+Inventory: page://bhsl7aVp8AotNuBU
+
+----
+
+Uuid: 3IXvNZQ7SQiXtbGA
+
+----
+
+Customer: page://iYFUE0tzXJVxueTP

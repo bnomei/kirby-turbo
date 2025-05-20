@@ -1,0 +1,33 @@
+Title: JESSIE BANKS
+
+----
+
+Customer-id: 215
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JESSIE
+
+----
+
+Last-name: BANKS
+
+----
+
+Email: JESSIE.BANKS@sakilacustomer.org
+
+----
+
+Address: page://DbOZilzXQo0xbuZY
+
+----
+
+Active: 1
+
+----
+
+Uuid: Waos8TO100plOpAg

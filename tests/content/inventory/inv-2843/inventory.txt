@@ -1,0 +1,17 @@
+Title: Inv 2843
+
+----
+
+Inventory-id: 2843
+
+----
+
+Film: page://gPEX0I5EBV8IWWWY
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: zNYS34MztsmPZTkL

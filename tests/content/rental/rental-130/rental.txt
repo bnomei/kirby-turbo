@@ -1,0 +1,25 @@
+Title: Rental 130
+
+----
+
+Rental-id: 130
+
+----
+
+Rental-date: 2005-05-25 21:21:56
+
+----
+
+Return-date: 2005-05-30 22:41:56
+
+----
+
+Inventory: page://2zZZAPDruN7pKEJa
+
+----
+
+Uuid: qfUq3kJsda4fx8kw
+
+----
+
+Customer: page://BRlxR8jBrlgBWqGm

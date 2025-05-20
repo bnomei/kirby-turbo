@@ -1,0 +1,33 @@
+Title: JOANN GARDNER
+
+----
+
+Customer-id: 164
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JOANN
+
+----
+
+Last-name: GARDNER
+
+----
+
+Email: JOANN.GARDNER@sakilacustomer.org
+
+----
+
+Address: page://82jby42edjmNB082
+
+----
+
+Active: 1
+
+----
+
+Uuid: psNaEAJbImBLLUq8

@@ -1,0 +1,25 @@
+Title: Rental 7292
+
+----
+
+Rental-id: 7292
+
+----
+
+Rental-date: 2005-07-27 12:34:14
+
+----
+
+Return-date: 2005-08-01 18:16:14
+
+----
+
+Inventory: page://Kom5jilTao8JNmA4
+
+----
+
+Customer: page://tS8tZAomHzcsij8a
+
+----
+
+Uuid: pRQeC6uUCdEJaqZd

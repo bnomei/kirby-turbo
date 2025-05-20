@@ -1,0 +1,25 @@
+Title: Rental 8119
+
+----
+
+Rental-id: 8119
+
+----
+
+Rental-date: 2005-07-28 19:23:15
+
+----
+
+Return-date: 2005-08-04 15:53:15
+
+----
+
+Inventory: page://FEuvz3jMbyA0n61b
+
+----
+
+Customer: page://YZl5AjKSw8qG2iij
+
+----
+
+Uuid: VYd3JcQ4bWVwi1x1

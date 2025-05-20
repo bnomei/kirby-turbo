@@ -1,0 +1,25 @@
+Title: Rental 4019
+
+----
+
+Rental-id: 4019
+
+----
+
+Rental-date: 2005-07-07 01:27:44
+
+----
+
+Return-date: 2005-07-10 21:30:44
+
+----
+
+Inventory: page://W9PQlInHaelWCkUZ
+
+----
+
+Uuid: Sad87PjUNbfJshz0
+
+----
+
+Customer: page://lFmyRUfgnuMLYrme

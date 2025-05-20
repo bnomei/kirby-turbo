@@ -1,0 +1,25 @@
+Title: Rental 3023
+
+----
+
+Rental-id: 3023
+
+----
+
+Rental-date: 2005-06-20 11:18:11
+
+----
+
+Return-date: 2005-06-21 12:43:11
+
+----
+
+Inventory: page://PkakwpiWWo31a39R
+
+----
+
+Uuid: ifFaCrqJEHaiCt2m
+
+----
+
+Customer: page://eJUwVKxCunZWV9Rg

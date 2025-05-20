@@ -1,0 +1,17 @@
+Title: Inv 3573
+
+----
+
+Inventory-id: 3573
+
+----
+
+Film: page://6SZrpAues6NbdpfF
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 5run77WJkEXf5qyp

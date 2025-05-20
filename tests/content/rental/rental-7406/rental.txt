@@ -1,0 +1,25 @@
+Title: Rental 7406
+
+----
+
+Rental-id: 7406
+
+----
+
+Rental-date: 2005-07-27 16:25:45
+
+----
+
+Return-date: 2005-08-05 20:39:45
+
+----
+
+Inventory: page://Ax4Bvzq2770flJvJ
+
+----
+
+Customer: page://ssRpWEJq6gKOyUIh
+
+----
+
+Uuid: gWFTBnJ5lrPY782s

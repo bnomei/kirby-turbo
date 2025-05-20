@@ -1,0 +1,33 @@
+Title: JUDY GRAY
+
+----
+
+Customer-id: 69
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JUDY
+
+----
+
+Last-name: GRAY
+
+----
+
+Email: JUDY.GRAY@sakilacustomer.org
+
+----
+
+Address: page://eRH3Y6XdEXcICbFA
+
+----
+
+Active: 1
+
+----
+
+Uuid: THfMzLFg9xGh6L0X

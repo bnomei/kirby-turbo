@@ -1,0 +1,33 @@
+Title: JOE GILLILAND
+
+----
+
+Customer-id: 349
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JOE
+
+----
+
+Last-name: GILLILAND
+
+----
+
+Email: JOE.GILLILAND@sakilacustomer.org
+
+----
+
+Address: page://fVZFoAyN50dllonv
+
+----
+
+Active: 1
+
+----
+
+Uuid: Gi5FRT3pzixrT86D

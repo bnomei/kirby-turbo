@@ -1,0 +1,41 @@
+Title: MASSACRE USUAL
+
+----
+
+Actors:
+
+- 'page://KWXiI33RIY2Yllal'
+- 'page://pW1gtWYG8hgYIJM4'
+- 'page://lltihsMvjhDqCGFK'
+
+----
+
+Film-id: 563
+
+----
+
+Description: A Fateful Reflection of a Waitress And a Crocodile who must Challenge a Forensic Psychologist in California
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 165
+
+----
+
+Rating: R
+
+----
+
+Special-features: Commentaries
+
+----
+
+Uuid: f5yjsxVf2dF8Dw1L
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

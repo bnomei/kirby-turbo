@@ -1,0 +1,25 @@
+Title: Rental 8692
+
+----
+
+Rental-id: 8692
+
+----
+
+Rental-date: 2005-07-29 16:43:39
+
+----
+
+Return-date: 2005-08-01 15:54:39
+
+----
+
+Inventory: page://B3p0VcKj5hALHbH5
+
+----
+
+Customer: page://f1BLMiQFWjWGI1Fh
+
+----
+
+Uuid: nP6jRnjwtcus8hl6

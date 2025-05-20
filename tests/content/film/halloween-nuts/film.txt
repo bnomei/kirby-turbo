@@ -1,0 +1,45 @@
+Title: HALLOWEEN NUTS
+
+----
+
+Actors:
+
+- 'page://NQADDP2SQLBL6U9D'
+- 'page://MKZPC2AFXFjwPRw8'
+- 'page://9NAEa97MvjisWbzN'
+- 'page://ixmDbcb5VXh1c8bc'
+- 'page://WmeC1S3wVV4gdFE4'
+- 'page://75IrF5RezCSzGKrx'
+- 'page://k43wur9uhLztfZOP'
+
+----
+
+Film-id: 393
+
+----
+
+Description: A Amazing Panorama of a Forensic Psychologist And a Technical Writer who must Fight a Dentist in A U-Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 47
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: RdFFMkLYc0bcFmi1
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

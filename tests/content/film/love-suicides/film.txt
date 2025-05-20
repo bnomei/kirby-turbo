@@ -1,0 +1,42 @@
+Title: LOVE SUICIDES
+
+----
+
+Actors:
+
+- 'page://S52CrIK06oYgWrwP'
+- 'page://JbsPWnOXBNKX1tM5'
+- 'page://JrsbillMdFUVLTOe'
+- 'page://CI649GdI5JvIKbQ1'
+
+----
+
+Film-id: 535
+
+----
+
+Description: A Brilliant Panorama of a Hunter And a Explorer who must Pursue a Dentist in An Abandoned Fun House
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 181
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: Xlyu5TAdYaCmurqW
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

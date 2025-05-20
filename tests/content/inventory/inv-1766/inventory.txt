@@ -1,0 +1,17 @@
+Title: Inv 1766
+
+----
+
+Inventory-id: 1766
+
+----
+
+Film: page://6u7cclpzdri98KSA
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: omiMchKEMlHOvj9X

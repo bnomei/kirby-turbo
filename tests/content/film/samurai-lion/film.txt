@@ -1,0 +1,40 @@
+Title: SAMURAI LION
+
+----
+
+Actors:
+
+- 'page://rrHZ6f6sSm29JuNB'
+- 'page://s69sG8lNdmqtvA7p'
+
+----
+
+Film-id: 760
+
+----
+
+Description: A Fast-Paced Story of a Pioneer And a Astronaut who must Reach a Boat in A Baloon
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 110
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries
+
+----
+
+Uuid: QkPR08jHprrRWEr9
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

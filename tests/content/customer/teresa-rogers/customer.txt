@@ -1,0 +1,33 @@
+Title: TERESA ROGERS
+
+----
+
+Customer-id: 54
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: TERESA
+
+----
+
+Last-name: ROGERS
+
+----
+
+Email: TERESA.ROGERS@sakilacustomer.org
+
+----
+
+Address: page://GG2b86IjkXibCp7C
+
+----
+
+Active: 1
+
+----
+
+Uuid: DCfm6V0az1u3cAdq

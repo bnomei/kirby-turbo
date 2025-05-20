@@ -1,0 +1,25 @@
+Title: Rental 2119
+
+----
+
+Rental-id: 2119
+
+----
+
+Rental-date: 2005-06-17 20:34:42
+
+----
+
+Return-date: 2005-06-22 00:05:42
+
+----
+
+Inventory: page://33CvUlmlpR4yNgWs
+
+----
+
+Uuid: rs560DmxTvWVzaoy
+
+----
+
+Customer: page://xiuePi4NIEUJXUwz

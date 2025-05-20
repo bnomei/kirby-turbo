@@ -1,0 +1,25 @@
+Title: Rental 1445
+
+----
+
+Rental-id: 1445
+
+----
+
+Rental-date: 2005-06-15 19:10:07
+
+----
+
+Return-date: 2005-06-19 20:27:07
+
+----
+
+Inventory: page://elA5gDtDNOssvcnt
+
+----
+
+Uuid: RkDKI2w0J9bhkMW4
+
+----
+
+Customer: page://0y5yemyZQcpl64rZ

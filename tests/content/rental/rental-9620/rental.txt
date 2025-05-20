@@ -1,0 +1,25 @@
+Title: Rental 9620
+
+----
+
+Rental-id: 9620
+
+----
+
+Rental-date: 2005-07-31 04:19:18
+
+----
+
+Return-date: 2005-08-08 09:20:18
+
+----
+
+Inventory: page://moeTZe8bFJXdYFLu
+
+----
+
+Customer: page://XIaKK8hOYK8JJ3Lj
+
+----
+
+Uuid: I0n65r0lR5jigqRQ

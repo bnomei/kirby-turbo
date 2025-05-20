@@ -1,0 +1,17 @@
+Title: Inv 1575
+
+----
+
+Inventory-id: 1575
+
+----
+
+Film: page://TdN5H8oupvm1ySSj
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Nlz2R9czQOeVVFI3

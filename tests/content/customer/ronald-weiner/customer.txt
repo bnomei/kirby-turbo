@@ -1,0 +1,33 @@
+Title: RONALD WEINER
+
+----
+
+Customer-id: 319
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: RONALD
+
+----
+
+Last-name: WEINER
+
+----
+
+Email: RONALD.WEINER@sakilacustomer.org
+
+----
+
+Address: page://KFihbAtL8AG4fkj9
+
+----
+
+Active: 1
+
+----
+
+Uuid: cfEQjWDHZTFukeSP

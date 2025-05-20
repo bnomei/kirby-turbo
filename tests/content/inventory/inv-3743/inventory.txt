@@ -1,0 +1,17 @@
+Title: Inv 3743
+
+----
+
+Inventory-id: 3743
+
+----
+
+Film: page://qiTCdevnusoszKmv
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: E9luOejZT4qNpyYd

@@ -1,0 +1,40 @@
+Title: SMOOCHY CONTROL
+
+----
+
+Actors:
+
+- 'page://lWEFCFc3fpMkkCVm'
+- 'page://s3p9MagWJdWouacJ'
+
+----
+
+Film-id: 813
+
+----
+
+Description: A Thrilling Documentary of a Husband And a Feminist who must Face a Mad Scientist in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 184
+
+----
+
+Rating: R
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: EoaTSoqYKv778Eh3
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

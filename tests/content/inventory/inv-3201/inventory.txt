@@ -1,0 +1,17 @@
+Title: Inv 3201
+
+----
+
+Inventory-id: 3201
+
+----
+
+Film: page://P4DSJ06AP2DRsgeV
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 3XBKLIA0M0nPjuib

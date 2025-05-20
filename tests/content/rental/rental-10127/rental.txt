@@ -1,0 +1,25 @@
+Title: Rental 10127
+
+----
+
+Rental-id: 10127
+
+----
+
+Rental-date: 2005-07-31 21:39:48
+
+----
+
+Return-date: 2005-08-06 00:10:48
+
+----
+
+Inventory: page://teMKusRvdyr4RDZu
+
+----
+
+Customer: page://FHiywQ5Ofsh5PWoq
+
+----
+
+Uuid: G8J8NXIgwX0HK65e

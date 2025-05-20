@@ -1,0 +1,25 @@
+Title: Rental 2906
+
+----
+
+Rental-id: 2906
+
+----
+
+Rental-date: 2005-06-20 03:04:56
+
+----
+
+Return-date: 2005-06-23 05:57:56
+
+----
+
+Inventory: page://p6lKNzs5pQyJTnkG
+
+----
+
+Uuid: WxiXWnn0h2uIBExP
+
+----
+
+Customer: page://Q7dhYbg8UImMpiau

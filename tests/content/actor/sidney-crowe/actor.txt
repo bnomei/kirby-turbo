@@ -1,0 +1,21 @@
+Title: SIDNEY CROWE
+
+----
+
+Actors: []
+
+----
+
+Actor-id: 105
+
+----
+
+First-name: SIDNEY
+
+----
+
+Last-name: CROWE
+
+----
+
+Uuid: if8hfrmRoIODgwSa

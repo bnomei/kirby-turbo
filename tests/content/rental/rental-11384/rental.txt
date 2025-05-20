@@ -1,0 +1,25 @@
+Title: Rental 11384
+
+----
+
+Rental-id: 11384
+
+----
+
+Rental-date: 2005-08-02 18:23:01
+
+----
+
+Return-date: 2005-08-05 17:59:01
+
+----
+
+Inventory: page://Lr3xC8n2UXotGkSk
+
+----
+
+Customer: page://hiI1XI5RUVwa5yqD
+
+----
+
+Uuid: jiH1DHl2Uirv2jzo

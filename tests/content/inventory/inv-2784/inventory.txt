@@ -1,0 +1,17 @@
+Title: Inv 2784
+
+----
+
+Inventory-id: 2784
+
+----
+
+Film: page://3UBsgfesYaEE18sw
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: SKSVD1xI1fH3l79H

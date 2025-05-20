@@ -1,0 +1,17 @@
+Title: Inv 1418
+
+----
+
+Inventory-id: 1418
+
+----
+
+Film: page://HVileugisimUJPvj
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: VjZl7auNjNRsUUFs

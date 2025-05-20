@@ -1,0 +1,25 @@
+Title: Rental 741
+
+----
+
+Rental-id: 741
+
+----
+
+Rental-date: 2005-05-29 08:35:49
+
+----
+
+Return-date: 2005-06-04 11:55:49
+
+----
+
+Inventory: page://elA5gDtDNOssvcnt
+
+----
+
+Uuid: fSxTHpRhjJik6tAX
+
+----
+
+Customer: page://ozuA7F23YyJylO9U

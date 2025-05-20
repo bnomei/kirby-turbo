@@ -1,0 +1,25 @@
+Title: Rental 6440
+
+----
+
+Rental-id: 6440
+
+----
+
+Rental-date: 2005-07-12 00:25:04
+
+----
+
+Return-date: 2005-07-13 04:52:04
+
+----
+
+Inventory: page://6V88TMArJwQtkEa5
+
+----
+
+Uuid: okhdC5Jr995SQ4Gb
+
+----
+
+Customer: page://Cko87GK3ShDjUK4Q

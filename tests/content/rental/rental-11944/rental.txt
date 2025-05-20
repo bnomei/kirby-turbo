@@ -1,0 +1,25 @@
+Title: Rental 11944
+
+----
+
+Rental-id: 11944
+
+----
+
+Rental-date: 2005-08-17 17:02:42
+
+----
+
+Return-date: 2005-08-21 16:40:42
+
+----
+
+Inventory: page://eYCt3MZiR3b8HBU4
+
+----
+
+Customer: page://3MkHP5Qqv8Lg3Njc
+
+----
+
+Uuid: keqKfSQ6DySQRX8R

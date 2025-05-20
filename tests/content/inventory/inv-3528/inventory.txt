@@ -1,0 +1,17 @@
+Title: Inv 3528
+
+----
+
+Inventory-id: 3528
+
+----
+
+Film: page://Ynj7XwfJrRqE5Bc6
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 7aOh3b7IFMM429lo

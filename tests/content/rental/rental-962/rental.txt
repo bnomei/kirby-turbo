@@ -1,0 +1,25 @@
+Title: Rental 962
+
+----
+
+Rental-id: 962
+
+----
+
+Rental-date: 2005-05-30 18:45:17
+
+----
+
+Return-date: 2005-06-05 22:47:17
+
+----
+
+Inventory: page://Q9K9UKKLa19axn1V
+
+----
+
+Uuid: SWyD4daPR63zSVfG
+
+----
+
+Customer: page://JT1tmXlVRPRvOsLK

@@ -1,0 +1,21 @@
+Title: Rental 13108
+
+----
+
+Rental-id: 13108
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://oDytYCQjArv7yHtA
+
+----
+
+Customer: page://j6w051LSx5dWYnKn
+
+----
+
+Uuid: AZfPAfN5Pm9Fmwfo

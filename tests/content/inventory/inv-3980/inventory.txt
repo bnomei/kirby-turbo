@@ -1,0 +1,17 @@
+Title: Inv 3980
+
+----
+
+Inventory-id: 3980
+
+----
+
+Film: page://zSN9mWRbcQlkweJ3
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: eHEXPDsfEsFng4Kv

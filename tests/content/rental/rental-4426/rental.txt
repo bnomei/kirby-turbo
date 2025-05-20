@@ -1,0 +1,25 @@
+Title: Rental 4426
+
+----
+
+Rental-id: 4426
+
+----
+
+Rental-date: 2005-07-07 22:28:32
+
+----
+
+Return-date: 2005-07-16 02:04:32
+
+----
+
+Inventory: page://RERyfM0kyBJiHxPs
+
+----
+
+Uuid: PV5ByjQHU8wHU0A9
+
+----
+
+Customer: page://Q5O2bHZdTW7BhoOc

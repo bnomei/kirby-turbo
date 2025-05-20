@@ -1,0 +1,17 @@
+Title: Inv 1589
+
+----
+
+Inventory-id: 1589
+
+----
+
+Film: page://XD5QBWqpn1v751Tc
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: FUxUxSVSCaiAdJIF

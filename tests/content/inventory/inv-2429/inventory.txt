@@ -1,0 +1,17 @@
+Title: Inv 2429
+
+----
+
+Inventory-id: 2429
+
+----
+
+Film: page://L2z7f35aAXCyKGgv
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: NNYkVs7EgURkmYvr

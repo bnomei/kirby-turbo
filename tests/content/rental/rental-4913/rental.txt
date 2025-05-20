@@ -1,0 +1,25 @@
+Title: Rental 4913
+
+----
+
+Rental-id: 4913
+
+----
+
+Rental-date: 2005-07-08 21:27:48
+
+----
+
+Return-date: 2005-07-18 02:51:48
+
+----
+
+Inventory: page://OaqVmwHlJa8FrHMT
+
+----
+
+Uuid: NXLNA714cdFtMQLi
+
+----
+
+Customer: page://iYFUE0tzXJVxueTP

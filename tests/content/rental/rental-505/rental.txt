@@ -1,0 +1,25 @@
+Title: Rental 505
+
+----
+
+Rental-id: 505
+
+----
+
+Rental-date: 2005-05-28 02:06:37
+
+----
+
+Return-date: 2005-05-29 06:57:37
+
+----
+
+Inventory: page://VtvevhKJkWZquKEM
+
+----
+
+Uuid: HlaZNOahjZwc2iqc
+
+----
+
+Customer: page://3oDVHadirwJKNUrH

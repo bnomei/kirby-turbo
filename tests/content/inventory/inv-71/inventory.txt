@@ -1,0 +1,17 @@
+Title: Inv 71
+
+----
+
+Inventory-id: 71
+
+----
+
+Film: page://Ex6gdFZk9Qmk97Wd
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: VtvevhKJkWZquKEM

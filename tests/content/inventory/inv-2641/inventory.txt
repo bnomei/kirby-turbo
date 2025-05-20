@@ -1,0 +1,17 @@
+Title: Inv 2641
+
+----
+
+Inventory-id: 2641
+
+----
+
+Film: page://oZYFoTbpvPwLRK4u
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: g7GU8a1KDFH2D2et

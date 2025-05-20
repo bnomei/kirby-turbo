@@ -1,0 +1,43 @@
+Title: FREAKY POCUS
+
+----
+
+Actors:
+
+- 'page://JbsPWnOXBNKX1tM5'
+- 'page://6jpBKUOTpGMSQxJe'
+- 'page://if8hfrmRoIODgwSa'
+- 'page://gELBLdH4G3cmVmcs'
+- 'page://pW1gtWYG8hgYIJM4'
+
+----
+
+Film-id: 333
+
+----
+
+Description: A Fast-Paced Documentary of a Pastry Chef And a Crocodile who must Chase a Squirrel in The Gulf of Mexico
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 126
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: hYhmJ2sn0NMkdf5O
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

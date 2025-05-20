@@ -1,0 +1,48 @@
+Title: WEEKEND PERSONAL
+
+----
+
+Actors:
+
+- 'page://NQADDP2SQLBL6U9D'
+- 'page://EfT0PAFDrVUk4H1Y'
+- 'page://oEbdYNCKFrP9NVLv'
+- 'page://f3T5R3qlMgXii7Oj'
+- 'page://KWXiI33RIY2Yllal'
+- 'page://75IrF5RezCSzGKrx'
+- 'page://CI649GdI5JvIKbQ1'
+- 'page://G2CRwpBQJFawgg9Y'
+- 'page://HBk8OpEyVf68VCvH'
+- 'page://vMUybiWmK5EriDRU'
+
+----
+
+Film-id: 967
+
+----
+
+Description: A Fast-Paced Documentary of a Car And a Butler who must Find a Frisbee in A Jet Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 134
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: pbIEh5sLoxmlO4jK
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

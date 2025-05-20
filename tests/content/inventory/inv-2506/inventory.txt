@@ -1,0 +1,17 @@
+Title: Inv 2506
+
+----
+
+Inventory-id: 2506
+
+----
+
+Film: page://rYznzisOhkTNSdBa
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: wRKFhWM7pmS2LGnp

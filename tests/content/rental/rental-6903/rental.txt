@@ -1,0 +1,25 @@
+Title: Rental 6903
+
+----
+
+Rental-id: 6903
+
+----
+
+Rental-date: 2005-07-12 21:58:15
+
+----
+
+Return-date: 2005-07-14 01:38:15
+
+----
+
+Inventory: page://vZ3jBtkeitS0x17k
+
+----
+
+Customer: page://gLPYzE6xdxqOoEJZ
+
+----
+
+Uuid: x36r8jzesECgAX3T

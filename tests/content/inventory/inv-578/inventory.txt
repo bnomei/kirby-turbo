@@ -1,0 +1,17 @@
+Title: Inv 578
+
+----
+
+Inventory-id: 578
+
+----
+
+Film: page://3Kg27h9Ipxuj3bgA
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: qc4viE6gU2CzdFuW

@@ -1,0 +1,17 @@
+Title: Inv 4528
+
+----
+
+Inventory-id: 4528
+
+----
+
+Film: page://2WrWVuDwLaDCOlID
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: v6BCAHF6E1mgl2HK

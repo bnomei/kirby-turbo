@@ -1,0 +1,17 @@
+Title: Inv 204
+
+----
+
+Inventory-id: 204
+
+----
+
+Film: page://gF8Ib5R1eOp5F3sY
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: oQxM5TkOmSoFMIjp

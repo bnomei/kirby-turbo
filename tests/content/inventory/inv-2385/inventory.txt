@@ -1,0 +1,17 @@
+Title: Inv 2385
+
+----
+
+Inventory-id: 2385
+
+----
+
+Film: page://OWB0rIhbbXIitcLz
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: MM4HTzkaDfg1aJ4a

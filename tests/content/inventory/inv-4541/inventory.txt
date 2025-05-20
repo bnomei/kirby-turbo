@@ -1,0 +1,17 @@
+Title: Inv 4541
+
+----
+
+Inventory-id: 4541
+
+----
+
+Film: page://ZXTM7tsCkXieNdvb
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Iujt1mMKY0NIrD8Y

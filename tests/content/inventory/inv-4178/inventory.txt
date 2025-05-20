@@ -1,0 +1,17 @@
+Title: Inv 4178
+
+----
+
+Inventory-id: 4178
+
+----
+
+Film: page://ihAjgoglo2GIkEtL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 32Ng0G9MxI4SPBE4

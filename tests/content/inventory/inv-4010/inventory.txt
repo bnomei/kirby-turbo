@@ -1,0 +1,17 @@
+Title: Inv 4010
+
+----
+
+Inventory-id: 4010
+
+----
+
+Film: page://cn9AOQAnZeZdaw2T
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 9jHKy3DpluISOMrp

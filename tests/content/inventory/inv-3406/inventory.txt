@@ -1,0 +1,17 @@
+Title: Inv 3406
+
+----
+
+Inventory-id: 3406
+
+----
+
+Film: page://s9z9cfGKYkxSj2oG
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: aNYJJJAk040RK6ZV

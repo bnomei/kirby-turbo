@@ -1,0 +1,25 @@
+Title: Rental 10257
+
+----
+
+Rental-id: 10257
+
+----
+
+Rental-date: 2005-08-01 02:49:43
+
+----
+
+Return-date: 2005-08-04 04:45:43
+
+----
+
+Inventory: page://hbPLSD5MYmPsmVmr
+
+----
+
+Customer: page://DmLqAKJqqCmbO2QP
+
+----
+
+Uuid: hT6aLiUSMozmNL96

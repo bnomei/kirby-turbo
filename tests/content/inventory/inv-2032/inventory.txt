@@ -1,0 +1,17 @@
+Title: Inv 2032
+
+----
+
+Inventory-id: 2032
+
+----
+
+Film: page://6O0xV5RIQ9ud4tXV
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: CeBSPrENUbHeU6vx

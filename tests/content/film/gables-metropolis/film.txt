@@ -1,0 +1,46 @@
+Title: GABLES METROPOLIS
+
+----
+
+Actors:
+
+- 'page://EfT0PAFDrVUk4H1Y'
+- 'page://jG0aUFRzU1eFlO8R'
+- 'page://8uCKHWVFS7qGgYjl'
+- 'page://Bfp6QX9U0O1ZLM64'
+- 'page://twoON2iToIZq1akt'
+- 'page://q6i5HOIdG8dGz8Im'
+- 'page://KV54RGx9NMbLtwi4'
+- 'page://V93xbOGPlOsB9ymO'
+
+----
+
+Film-id: 345
+
+----
+
+Description: A Fateful Display of a Cat And a Pioneer who must Challenge a Pastry Chef in A Baloon Factory
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 161
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: aoPjx0rsVDrGLVuM
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

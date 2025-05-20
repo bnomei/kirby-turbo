@@ -1,0 +1,25 @@
+Title: Rental 10985
+
+----
+
+Rental-id: 10985
+
+----
+
+Rental-date: 2005-08-02 04:30:19
+
+----
+
+Return-date: 2005-08-03 05:18:19
+
+----
+
+Inventory: page://tSeMHBDh8kv5HUlV
+
+----
+
+Customer: page://ZYRwcsL569LnKKWi
+
+----
+
+Uuid: NTUBPnpSfp4H78DQ

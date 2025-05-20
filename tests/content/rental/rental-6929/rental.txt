@@ -1,0 +1,25 @@
+Title: Rental 6929
+
+----
+
+Rental-id: 6929
+
+----
+
+Rental-date: 2005-07-26 22:59:19
+
+----
+
+Return-date: 2005-08-03 22:40:19
+
+----
+
+Inventory: page://0E5W0QrKYZCNZtAp
+
+----
+
+Customer: page://mLxfpdMHHBnZwV7B
+
+----
+
+Uuid: FKAzMXEbzpDc15K0

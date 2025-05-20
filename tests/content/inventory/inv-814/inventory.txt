@@ -1,0 +1,17 @@
+Title: Inv 814
+
+----
+
+Inventory-id: 814
+
+----
+
+Film: page://VU95TWUnWuaRHDOy
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Y1cnxjEgJxIPLF1V

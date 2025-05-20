@@ -1,0 +1,17 @@
+Title: Inv 1038
+
+----
+
+Inventory-id: 1038
+
+----
+
+Film: page://lcEu05g561SkYnmL
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: aKCZUQbQ4MCWiALe

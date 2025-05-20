@@ -1,0 +1,25 @@
+Title: Rental 10183
+
+----
+
+Rental-id: 10183
+
+----
+
+Rental-date: 2005-08-01 00:08:01
+
+----
+
+Return-date: 2005-08-09 20:41:01
+
+----
+
+Inventory: page://1eRhTVQdQtxbYX9P
+
+----
+
+Customer: page://zLiLkW2YJgd9qzFC
+
+----
+
+Uuid: 3dc5Plz255AGGd9i

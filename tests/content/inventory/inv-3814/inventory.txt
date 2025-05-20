@@ -1,0 +1,17 @@
+Title: Inv 3814
+
+----
+
+Inventory-id: 3814
+
+----
+
+Film: page://55vGON9GLR96M3OI
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: GJ2w6v3cbt1Qu20x

@@ -1,0 +1,25 @@
+Title: Rental 10160
+
+----
+
+Rental-id: 10160
+
+----
+
+Rental-date: 2005-07-31 23:07:40
+
+----
+
+Return-date: 2005-08-05 23:34:40
+
+----
+
+Inventory: page://Xfs1Oqu03o4Dlb4e
+
+----
+
+Customer: page://MMjN8znOj5ltCet6
+
+----
+
+Uuid: DVv09BbwKHW8Lnt9

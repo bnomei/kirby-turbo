@@ -1,0 +1,42 @@
+Title: REMEMBER DIARY
+
+----
+
+Actors:
+
+- 'page://nkFKurUJ9w7y8omW'
+- 'page://nN3rIVkI7hNgoDlp'
+- 'page://jSbKN9X4MDWI1G5U'
+- 'page://vMUybiWmK5EriDRU'
+
+----
+
+Film-id: 724
+
+----
+
+Description: A Insightful Tale of a Technical Writer And a Waitress who must Conquer a Monkey in Ancient India
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 110
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: p0F4vP5OPkHLp7XI
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

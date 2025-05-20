@@ -1,0 +1,25 @@
+Title: Rental 10798
+
+----
+
+Rental-id: 10798
+
+----
+
+Rental-date: 2005-08-01 22:03:10
+
+----
+
+Return-date: 2005-08-08 01:34:10
+
+----
+
+Inventory: page://u7BPX6mrr9CchGxN
+
+----
+
+Customer: page://CBjxjbIdtlQzauUw
+
+----
+
+Uuid: Z3Yfh2xP1vOAvaRV

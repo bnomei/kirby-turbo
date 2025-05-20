@@ -1,0 +1,25 @@
+Title: Rental 5991
+
+----
+
+Rental-id: 5991
+
+----
+
+Rental-date: 2005-07-11 01:03:38
+
+----
+
+Return-date: 2005-07-12 22:32:38
+
+----
+
+Inventory: page://EiqMruaZa7DICkqg
+
+----
+
+Uuid: 4O0q1N7V9JnhXbw4
+
+----
+
+Customer: page://wxusBiuOww6HZZuQ

@@ -1,0 +1,25 @@
+Title: Rental 10106
+
+----
+
+Rental-id: 10106
+
+----
+
+Rental-date: 2005-07-31 21:00:47
+
+----
+
+Return-date: 2005-08-02 20:11:47
+
+----
+
+Inventory: page://OsPVEN0sul9amBiz
+
+----
+
+Customer: page://jvfTUTQTIh7rD2Pp
+
+----
+
+Uuid: uKcXFGIQg455T2uc

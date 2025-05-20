@@ -1,0 +1,17 @@
+Title: Inv 4201
+
+----
+
+Inventory-id: 4201
+
+----
+
+Film: page://4DJfx08RDOiusw3S
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: vzpFbZOMmtZXEFct

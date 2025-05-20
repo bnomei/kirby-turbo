@@ -1,0 +1,33 @@
+Title: JEFF EAST
+
+----
+
+Customer-id: 418
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JEFF
+
+----
+
+Last-name: EAST
+
+----
+
+Email: JEFF.EAST@sakilacustomer.org
+
+----
+
+Address: page://hSCbErkhQYXZ066p
+
+----
+
+Active: 1
+
+----
+
+Uuid: CLy4VJRr6odVQPmO

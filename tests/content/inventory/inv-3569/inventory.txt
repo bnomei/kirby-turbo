@@ -1,0 +1,17 @@
+Title: Inv 3569
+
+----
+
+Inventory-id: 3569
+
+----
+
+Film: page://iBs3sowedbV8CX1C
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: hkyA0H1y2oqCyRGL

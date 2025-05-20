@@ -1,0 +1,25 @@
+Title: Rental 9071
+
+----
+
+Rental-id: 9071
+
+----
+
+Rental-date: 2005-07-30 07:40:58
+
+----
+
+Return-date: 2005-08-01 06:59:58
+
+----
+
+Inventory: page://7KMTEBdCRtYtMajb
+
+----
+
+Customer: page://KvtWcYY1YyV3aYsM
+
+----
+
+Uuid: G5QtI0iPa9DeF1II

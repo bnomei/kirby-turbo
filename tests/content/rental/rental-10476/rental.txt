@@ -1,0 +1,25 @@
+Title: Rental 10476
+
+----
+
+Rental-id: 10476
+
+----
+
+Rental-date: 2005-08-01 10:03:20
+
+----
+
+Return-date: 2005-08-10 06:52:20
+
+----
+
+Inventory: page://4YEIqwiEpZMAvdS3
+
+----
+
+Customer: page://LkVYh5o7IeTTcWDZ
+
+----
+
+Uuid: C1tnrxuGkJCv2GRJ

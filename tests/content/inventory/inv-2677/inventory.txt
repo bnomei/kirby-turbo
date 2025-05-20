@@ -1,0 +1,17 @@
+Title: Inv 2677
+
+----
+
+Inventory-id: 2677
+
+----
+
+Film: page://TYUy617eVrVScKZ3
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 3ODnPtBzX29CaHZz

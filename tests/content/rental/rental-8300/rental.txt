@@ -1,0 +1,25 @@
+Title: Rental 8300
+
+----
+
+Rental-id: 8300
+
+----
+
+Rental-date: 2005-07-29 02:57:59
+
+----
+
+Return-date: 2005-08-05 01:12:59
+
+----
+
+Inventory: page://5pf8DwvCiQ8MqEjv
+
+----
+
+Customer: page://Y16ImlJTc5Q7Tqiw
+
+----
+
+Uuid: xHS08cS89gzgACXx

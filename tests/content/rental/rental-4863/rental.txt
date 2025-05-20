@@ -1,0 +1,25 @@
+Title: Rental 4863
+
+----
+
+Rental-id: 4863
+
+----
+
+Rental-date: 2005-07-08 19:03:15
+
+----
+
+Return-date: 2005-07-11 21:29:15
+
+----
+
+Inventory: page://NGkMYB5E4hRdTjHg
+
+----
+
+Uuid: yXuB74YGvftKRZLU
+
+----
+
+Customer: page://0AtuJCBei0DLVh5W

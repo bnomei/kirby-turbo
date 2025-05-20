@@ -1,0 +1,25 @@
+Title: Rental 6292
+
+----
+
+Rental-id: 6292
+
+----
+
+Rental-date: 2005-07-11 17:23:33
+
+----
+
+Return-date: 2005-07-12 16:27:33
+
+----
+
+Inventory: page://1REgarsTCpGt8TCc
+
+----
+
+Uuid: ciZ3GxMjdIM9lwza
+
+----
+
+Customer: page://kIByXaqyonxT2CUq

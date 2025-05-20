@@ -1,0 +1,25 @@
+Title: Rental 10385
+
+----
+
+Rental-id: 10385
+
+----
+
+Rental-date: 2005-08-01 06:39:55
+
+----
+
+Return-date: 2005-08-06 02:16:55
+
+----
+
+Inventory: page://TkH88EF8HeiEr8nH
+
+----
+
+Customer: page://28btFRqxUbpYMux2
+
+----
+
+Uuid: Vio86e40pxxssInZ

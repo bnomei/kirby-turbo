@@ -1,0 +1,17 @@
+Title: Inv 3010
+
+----
+
+Inventory-id: 3010
+
+----
+
+Film: page://CmDa2gY3RvcHtsBZ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: qxGVNJEAMY74jgV1

@@ -1,0 +1,17 @@
+Title: Inv 2386
+
+----
+
+Inventory-id: 2386
+
+----
+
+Film: page://OWB0rIhbbXIitcLz
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: I9dWTVjw4ae4YqUe

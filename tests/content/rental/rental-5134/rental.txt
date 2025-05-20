@@ -1,0 +1,25 @@
+Title: Rental 5134
+
+----
+
+Rental-id: 5134
+
+----
+
+Rental-date: 2005-07-09 07:53:12
+
+----
+
+Return-date: 2005-07-16 05:30:12
+
+----
+
+Inventory: page://6JAhfbtI56ixGk1p
+
+----
+
+Uuid: sUCMk5hpy3MBWsDz
+
+----
+
+Customer: page://kAtIvC3GuVrHNW6C

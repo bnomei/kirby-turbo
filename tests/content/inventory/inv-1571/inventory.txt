@@ -1,0 +1,17 @@
+Title: Inv 1571
+
+----
+
+Inventory-id: 1571
+
+----
+
+Film: page://aoPjx0rsVDrGLVuM
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: uH3PUbZqNLQrtF7U

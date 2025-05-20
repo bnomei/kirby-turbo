@@ -1,0 +1,25 @@
+Title: Rental 4920
+
+----
+
+Rental-id: 4920
+
+----
+
+Rental-date: 2005-07-08 21:42:10
+
+----
+
+Return-date: 2005-07-15 03:08:10
+
+----
+
+Inventory: page://7ywPpIBiAy0rlCCN
+
+----
+
+Uuid: 73ErQgeeCHNdnavd
+
+----
+
+Customer: page://0Qiks8V78Ua8rTtk

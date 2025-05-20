@@ -1,0 +1,37 @@
+Title: DOLLS RAGE
+
+----
+
+Actors: - 'page://GwUKN9N7u1wbNu4w'
+
+----
+
+Film-id: 240
+
+----
+
+Description: A Thrilling Display of a Pioneer And a Frisbee who must Escape a Teacher in The Outback
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 120
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: yBE2T3llHrX4lt3E
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

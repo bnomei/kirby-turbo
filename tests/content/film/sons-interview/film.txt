@@ -1,0 +1,44 @@
+Title: SONS INTERVIEW
+
+----
+
+Actors:
+
+- 'page://RW4ixiF3bbh7oXkH'
+- 'page://y29OJNxDr3yTLShi'
+- 'page://isKOKKisNfJh2ta1'
+- 'page://nGhJyQbze3rAAH9v'
+- 'page://jSbKN9X4MDWI1G5U'
+- 'page://Q7LFBcb3oEdhSO9W'
+
+----
+
+Film-id: 820
+
+----
+
+Description: A Taut Character Study of a Explorer And a Mad Cow who must Battle a Hunter in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 184
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: rVwGkWkqe4ZfFnJo
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

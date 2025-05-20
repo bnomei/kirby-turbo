@@ -1,0 +1,25 @@
+Title: Rental 173
+
+----
+
+Rental-id: 173
+
+----
+
+Rental-date: 2005-05-26 03:42:10
+
+----
+
+Return-date: 2005-05-28 01:37:10
+
+----
+
+Inventory: page://dLRt0r5e9JWrePKb
+
+----
+
+Uuid: cWCuJEDrpNI75tde
+
+----
+
+Customer: page://oltj71DespIyD8V2

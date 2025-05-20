@@ -1,0 +1,25 @@
+Title: Rental 7170
+
+----
+
+Rental-id: 7170
+
+----
+
+Rental-date: 2005-07-27 07:58:26
+
+----
+
+Return-date: 2005-07-28 02:30:26
+
+----
+
+Inventory: page://8UhSUrH0b2KeYeGz
+
+----
+
+Customer: page://mCddyJpSaBf2Pnai
+
+----
+
+Uuid: 3Ix3ENvc3AiCqOSt

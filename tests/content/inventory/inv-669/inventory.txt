@@ -1,0 +1,17 @@
+Title: Inv 669
+
+----
+
+Inventory-id: 669
+
+----
+
+Film: page://NuVGP2Z1dYriqtlg
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: oq49mDG0YJksEHON

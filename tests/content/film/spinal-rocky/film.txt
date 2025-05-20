@@ -1,0 +1,46 @@
+Title: SPINAL ROCKY
+
+----
+
+Actors:
+
+- 'page://huljhPJQohi6UE64'
+- 'page://y29OJNxDr3yTLShi'
+- 'page://OwcwI2sE5Nr5L1Ju'
+- 'page://9dZ7pytlckFxJvGe'
+- 'page://m4qBDyQ4vBdo5EcB'
+- 'page://f54gdCyL7WpJ8aUr'
+- 'page://64SCw7TVQ1KFgpJt'
+- 'page://c9RVWbTiHNxSUsUJ'
+
+----
+
+Film-id: 829
+
+----
+
+Description: A Lacklusture Epistle of a Sumo Wrestler And a Squirrel who must Defeat a Explorer in California
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 138
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: ZMhLCoZXlzYKInCX
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

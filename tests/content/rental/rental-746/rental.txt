@@ -1,0 +1,25 @@
+Title: Rental 746
+
+----
+
+Rental-id: 746
+
+----
+
+Rental-date: 2005-05-29 09:25:10
+
+----
+
+Return-date: 2005-06-02 04:20:10
+
+----
+
+Inventory: page://2TSGWxE9WaGzS66N
+
+----
+
+Uuid: wi70R3KqrcXTFHrY
+
+----
+
+Customer: page://pDfW2rdiEx3al4Ty

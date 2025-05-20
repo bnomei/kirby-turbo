@@ -1,0 +1,25 @@
+Title: Rental 14944
+
+----
+
+Rental-id: 14944
+
+----
+
+Rental-date: 2005-08-22 06:01:26
+
+----
+
+Return-date: 2005-08-24 10:33:26
+
+----
+
+Inventory: page://gsgqiuqiEo1Mrlo4
+
+----
+
+Customer: page://1pdzc851na0nGZ94
+
+----
+
+Uuid: I2d7CPq2PLQMLkoc

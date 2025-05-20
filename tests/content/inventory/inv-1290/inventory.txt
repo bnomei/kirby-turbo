@@ -1,0 +1,17 @@
+Title: Inv 1290
+
+----
+
+Inventory-id: 1290
+
+----
+
+Film: page://FdO70OChefMPnCgJ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 8d0BfsDDb469Kyqe

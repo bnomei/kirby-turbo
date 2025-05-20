@@ -1,0 +1,25 @@
+Title: Rental 4456
+
+----
+
+Rental-id: 4456
+
+----
+
+Rental-date: 2005-07-07 23:45:21
+
+----
+
+Return-date: 2005-07-13 23:03:21
+
+----
+
+Inventory: page://SIugUTxtjlYVNWej
+
+----
+
+Uuid: mio9SG3x4VoH2e6l
+
+----
+
+Customer: page://B3L4KGTOB2xEaMbu

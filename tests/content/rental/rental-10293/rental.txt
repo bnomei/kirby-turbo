@@ -1,0 +1,25 @@
+Title: Rental 10293
+
+----
+
+Rental-id: 10293
+
+----
+
+Rental-date: 2005-08-01 03:44:26
+
+----
+
+Return-date: 2005-08-05 04:16:26
+
+----
+
+Inventory: page://WblUBnty3qMDDsSU
+
+----
+
+Customer: page://zIZEZREf483r6GLp
+
+----
+
+Uuid: vnK9uN1QEFLTWFm9

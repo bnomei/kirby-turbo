@@ -1,0 +1,25 @@
+Title: Rental 3495
+
+----
+
+Rental-id: 3495
+
+----
+
+Rental-date: 2005-07-05 23:50:04
+
+----
+
+Return-date: 2005-07-10 01:06:04
+
+----
+
+Inventory: page://6Gcd16XPZRjks1po
+
+----
+
+Uuid: MxEn4qg6qEioxVNe
+
+----
+
+Customer: page://3ZP9ENxbl27URSN0

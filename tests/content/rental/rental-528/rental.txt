@@ -1,0 +1,25 @@
+Title: Rental 528
+
+----
+
+Rental-id: 528
+
+----
+
+Rental-date: 2005-05-28 04:30:05
+
+----
+
+Return-date: 2005-06-03 10:01:05
+
+----
+
+Inventory: page://1MSheNSMZ193LNs0
+
+----
+
+Uuid: qso9hcaY7tqeNFwI
+
+----
+
+Customer: page://OIjTAayisIN6Xq6v

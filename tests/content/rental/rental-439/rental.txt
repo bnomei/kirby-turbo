@@ -1,0 +1,25 @@
+Title: Rental 439
+
+----
+
+Rental-id: 439
+
+----
+
+Rental-date: 2005-05-27 17:54:48
+
+----
+
+Return-date: 2005-06-02 23:01:48
+
+----
+
+Inventory: page://VJhU3z6vXC8aozD1
+
+----
+
+Uuid: xcgc4MRm5tAlJ2MA
+
+----
+
+Customer: page://cfEQjWDHZTFukeSP

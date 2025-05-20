@@ -1,0 +1,25 @@
+Title: Rental 8419
+
+----
+
+Rental-id: 8419
+
+----
+
+Rental-date: 2005-07-29 06:54:48
+
+----
+
+Return-date: 2005-08-06 05:02:48
+
+----
+
+Inventory: page://LcK4V2OGSUxc9Yqi
+
+----
+
+Customer: page://RH9TtdXlc9gxe8gh
+
+----
+
+Uuid: T2KjPsFfQat5VdMK

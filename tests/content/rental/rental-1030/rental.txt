@@ -1,0 +1,25 @@
+Title: Rental 1030
+
+----
+
+Rental-id: 1030
+
+----
+
+Rental-date: 2005-05-31 04:06:47
+
+----
+
+Return-date: 2005-06-02 02:59:47
+
+----
+
+Inventory: page://5QOmfXRhOiqfuRVV
+
+----
+
+Uuid: DYL2Rm2se305iHv1
+
+----
+
+Customer: page://YC1uNdmmt4LG2OJc

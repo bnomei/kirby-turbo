@@ -1,0 +1,33 @@
+Title: LOUISE JENKINS
+
+----
+
+Customer-id: 83
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: LOUISE
+
+----
+
+Last-name: JENKINS
+
+----
+
+Email: LOUISE.JENKINS@sakilacustomer.org
+
+----
+
+Address: page://XN4Hz93AdP3kiY0d
+
+----
+
+Active: 1
+
+----
+
+Uuid: QhHb9hdgHPArUJss

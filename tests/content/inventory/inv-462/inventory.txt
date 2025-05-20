@@ -1,0 +1,17 @@
+Title: Inv 462
+
+----
+
+Inventory-id: 462
+
+----
+
+Film: page://9PENRrI3UrKDEBrj
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: bnSV2yvLI9O1Qcde

@@ -1,0 +1,25 @@
+Title: Rental 1183
+
+----
+
+Rental-id: 1183
+
+----
+
+Rental-date: 2005-06-15 00:49:19
+
+----
+
+Return-date: 2005-06-20 04:33:19
+
+----
+
+Inventory: page://gmCQTlyWW6B6cIUt
+
+----
+
+Uuid: tm0AbBlUnEyJ6Sq1
+
+----
+
+Customer: page://uPhvBTY0GbGPCouW

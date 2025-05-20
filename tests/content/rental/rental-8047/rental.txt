@@ -1,0 +1,25 @@
+Title: Rental 8047
+
+----
+
+Rental-id: 8047
+
+----
+
+Rental-date: 2005-07-28 16:49:43
+
+----
+
+Return-date: 2005-08-03 14:48:43
+
+----
+
+Inventory: page://gms69fcbIpnOhv2x
+
+----
+
+Customer: page://TxY88rwk6w3N9jKC
+
+----
+
+Uuid: wuEkN98LxPGNja9n

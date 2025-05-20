@@ -1,0 +1,25 @@
+Title: Rental 7293
+
+----
+
+Rental-id: 7293
+
+----
+
+Rental-date: 2005-07-27 12:37:28
+
+----
+
+Return-date: 2005-07-30 15:12:28
+
+----
+
+Inventory: page://fDJLI0HiBgAPWuwG
+
+----
+
+Customer: page://stFkFNmIWPMkzEB2
+
+----
+
+Uuid: pW8qqKzp14ryKagR

@@ -1,0 +1,33 @@
+Title: CORY MEEHAN
+
+----
+
+Customer-id: 527
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CORY
+
+----
+
+Last-name: MEEHAN
+
+----
+
+Email: CORY.MEEHAN@sakilacustomer.org
+
+----
+
+Address: page://qkzC5XbFB9cFbjUG
+
+----
+
+Active: 1
+
+----
+
+Uuid: 3XFZHBoh0C1DUN6p

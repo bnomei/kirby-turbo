@@ -1,0 +1,17 @@
+Title: Inv 1404
+
+----
+
+Inventory-id: 1404
+
+----
+
+Film: page://XJugsuEEg8ZcYdOC
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: MQBHyeNmcvoVnwJA

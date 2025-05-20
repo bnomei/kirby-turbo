@@ -1,0 +1,25 @@
+Title: Rental 2616
+
+----
+
+Rental-id: 2616
+
+----
+
+Rental-date: 2005-06-19 07:33:00
+
+----
+
+Return-date: 2005-06-28 03:05:00
+
+----
+
+Inventory: page://618XxO8ms5fnnHYu
+
+----
+
+Uuid: 9Gfdc4NTKa66TCqJ
+
+----
+
+Customer: page://FHiywQ5Ofsh5PWoq

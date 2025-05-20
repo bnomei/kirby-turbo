@@ -1,0 +1,17 @@
+Title: Inv 2186
+
+----
+
+Inventory-id: 2186
+
+----
+
+Film: page://R2wvTa4x8TmzD8Lq
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: KBprhdjgfxauCzDb

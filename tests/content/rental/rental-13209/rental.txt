@@ -1,0 +1,21 @@
+Title: Rental 13209
+
+----
+
+Rental-id: 13209
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://6jgS6Ra6cIno8qES
+
+----
+
+Customer: page://stFkFNmIWPMkzEB2
+
+----
+
+Uuid: HGwXWGih35j1vvge

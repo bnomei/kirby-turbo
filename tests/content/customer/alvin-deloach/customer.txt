@@ -1,0 +1,33 @@
+Title: ALVIN DELOACH
+
+----
+
+Customer-id: 467
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ALVIN
+
+----
+
+Last-name: DELOACH
+
+----
+
+Email: ALVIN.DELOACH@sakilacustomer.org
+
+----
+
+Address: page://FZGUwU6OVAG3Jm4n
+
+----
+
+Active: 1
+
+----
+
+Uuid: xoXdL5AbyoKMncLp

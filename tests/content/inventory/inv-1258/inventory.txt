@@ -1,0 +1,17 @@
+Title: Inv 1258
+
+----
+
+Inventory-id: 1258
+
+----
+
+Film: page://djPn0BlHrbuXVXUy
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: yFQ15SOOq2OmP5rz

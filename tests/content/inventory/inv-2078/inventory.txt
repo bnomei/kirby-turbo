@@ -1,0 +1,17 @@
+Title: Inv 2078
+
+----
+
+Inventory-id: 2078
+
+----
+
+Film: page://lyaPuzFBKAqATiG8
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: o9sHJqG8rjowuI9D

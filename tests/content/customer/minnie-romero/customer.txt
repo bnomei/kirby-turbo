@@ -1,0 +1,33 @@
+Title: MINNIE ROMERO
+
+----
+
+Customer-id: 239
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: MINNIE
+
+----
+
+Last-name: ROMERO
+
+----
+
+Email: MINNIE.ROMERO@sakilacustomer.org
+
+----
+
+Address: page://yxgDd1o4mDtWm75n
+
+----
+
+Active: 1
+
+----
+
+Uuid: 0Qiks8V78Ua8rTtk

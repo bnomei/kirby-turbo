@@ -1,0 +1,17 @@
+Title: Inv 1758
+
+----
+
+Inventory-id: 1758
+
+----
+
+Film: page://0MfWh6FVARMvO6ca
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 2rCmaV15388vwMcm

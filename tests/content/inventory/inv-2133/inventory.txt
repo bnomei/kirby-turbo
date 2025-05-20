@@ -1,0 +1,17 @@
+Title: Inv 2133
+
+----
+
+Inventory-id: 2133
+
+----
+
+Film: page://Rn5g2YUTKyFz0znU
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: hCHA2rGBihoEElD9

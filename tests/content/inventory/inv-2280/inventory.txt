@@ -1,0 +1,17 @@
+Title: Inv 2280
+
+----
+
+Inventory-id: 2280
+
+----
+
+Film: page://4vIUTrvVPhpnfFf4
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Rfc9f6bvUFL4iSSX

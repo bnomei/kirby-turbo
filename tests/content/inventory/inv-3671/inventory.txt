@@ -1,0 +1,17 @@
+Title: Inv 3671
+
+----
+
+Inventory-id: 3671
+
+----
+
+Film: page://1pDJmtGDeGf9MiJW
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: k53jO9WN3yXAyknP

@@ -1,0 +1,33 @@
+Title: JENNIE TERRY
+
+----
+
+Customer-id: 265
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JENNIE
+
+----
+
+Last-name: TERRY
+
+----
+
+Email: JENNIE.TERRY@sakilacustomer.org
+
+----
+
+Address: page://l7EoSVntUrpHoZGf
+
+----
+
+Active: 1
+
+----
+
+Uuid: EuCelU8WBhgPVGZL

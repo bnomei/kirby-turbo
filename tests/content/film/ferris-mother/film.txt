@@ -1,0 +1,37 @@
+Title: FERRIS MOTHER
+
+----
+
+Actors: - 'page://xjeqCa9sjC8UxwnG'
+
+----
+
+Film-id: 308
+
+----
+
+Description: A Touching Display of a Frisbee And a Frisbee who must Kill a Girl in The Gulf of Mexico
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 142
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: 15obrm4OByu6GdYh
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

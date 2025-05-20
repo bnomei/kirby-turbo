@@ -1,0 +1,17 @@
+Title: Inv 1671
+
+----
+
+Inventory-id: 1671
+
+----
+
+Film: page://XaFb2ccssA5iFSfu
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: oS7jjyYjOb1iaS7u

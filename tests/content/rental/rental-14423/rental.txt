@@ -1,0 +1,25 @@
+Title: Rental 14423
+
+----
+
+Rental-id: 14423
+
+----
+
+Rental-date: 2005-08-21 11:23:59
+
+----
+
+Return-date: 2005-08-26 11:52:59
+
+----
+
+Inventory: page://tMI2UigxEbk6dPgP
+
+----
+
+Customer: page://n1tj3686KMQn13h6
+
+----
+
+Uuid: HKhctnMzHKj0axao

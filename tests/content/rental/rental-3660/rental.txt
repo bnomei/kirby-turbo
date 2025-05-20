@@ -1,0 +1,25 @@
+Title: Rental 3660
+
+----
+
+Rental-id: 3660
+
+----
+
+Rental-date: 2005-07-06 08:07:29
+
+----
+
+Return-date: 2005-07-14 08:46:29
+
+----
+
+Inventory: page://4htgUOXzFtPMGnXO
+
+----
+
+Uuid: hm0pQ4ejO2NSQlrU
+
+----
+
+Customer: page://Avue2EhXksh2zAWH

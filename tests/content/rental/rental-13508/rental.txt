@@ -1,0 +1,25 @@
+Title: Rental 13508
+
+----
+
+Rental-id: 13508
+
+----
+
+Rental-date: 2005-08-20 02:12:54
+
+----
+
+Return-date: 2005-08-28 21:47:54
+
+----
+
+Inventory: page://LYJqbNdbxjGACxbt
+
+----
+
+Customer: page://X8y0Q9Q9rEkii7ym
+
+----
+
+Uuid: Fplz7xZkRbSzYNfv

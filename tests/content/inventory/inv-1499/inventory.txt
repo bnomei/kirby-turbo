@@ -1,0 +1,17 @@
+Title: Inv 1499
+
+----
+
+Inventory-id: 1499
+
+----
+
+Film: page://zI1WCPL0wtu2p6Wh
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 0hoeKa9A6fXOs2wU

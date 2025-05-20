@@ -1,0 +1,17 @@
+Title: Inv 867
+
+----
+
+Inventory-id: 867
+
+----
+
+Film: page://ZSXqqaLbxYSE5Hwx
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: F7Jp0H2ao8A6NvDw

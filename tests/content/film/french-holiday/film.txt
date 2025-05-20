@@ -1,0 +1,45 @@
+Title: FRENCH HOLIDAY
+
+----
+
+Actors:
+
+- 'page://NQADDP2SQLBL6U9D'
+- 'page://MKZPC2AFXFjwPRw8'
+- 'page://nkFKurUJ9w7y8omW'
+- 'page://r6UF6pUyhmwAPzIH'
+- 'page://q6i5HOIdG8dGz8Im'
+- 'page://18rsmrxh7jfYQ50K'
+- 'page://HBk8OpEyVf68VCvH'
+
+----
+
+Film-id: 336
+
+----
+
+Description: A Thrilling Epistle of a Dog And a Feminist who must Kill a Madman in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 99
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: 0rCBtFgTBU5lFT4Z
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

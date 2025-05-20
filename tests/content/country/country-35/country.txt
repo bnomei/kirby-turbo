@@ -1,0 +1,13 @@
+Title: French Guiana
+
+----
+
+Country-id: 35
+
+----
+
+Country: French Guiana
+
+----
+
+Uuid: drYHOWtOUjHzvxix

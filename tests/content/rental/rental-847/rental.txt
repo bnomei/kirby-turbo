@@ -1,0 +1,25 @@
+Title: Rental 847
+
+----
+
+Rental-id: 847
+
+----
+
+Rental-date: 2005-05-30 01:18:15
+
+----
+
+Return-date: 2005-06-06 20:20:15
+
+----
+
+Inventory: page://b3GG8WtXBpsg9Uq7
+
+----
+
+Uuid: nIHTUfIalK39CBy2
+
+----
+
+Customer: page://9nmXEbNtguZWpwtU

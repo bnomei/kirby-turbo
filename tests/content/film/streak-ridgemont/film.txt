@@ -1,0 +1,41 @@
+Title: STREAK RIDGEMONT
+
+----
+
+Actors:
+
+- 'page://RW4ixiF3bbh7oXkH'
+- 'page://kIGWs86teYEK5yIM'
+- 'page://lWEFCFc3fpMkkCVm'
+
+----
+
+Film-id: 855
+
+----
+
+Description: A Astounding Character Study of a Hunter And a Waitress who must Sink a Man in New Orleans
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 132
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: c0ASMjM9iHb8dRVM
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

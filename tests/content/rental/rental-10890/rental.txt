@@ -1,0 +1,25 @@
+Title: Rental 10890
+
+----
+
+Rental-id: 10890
+
+----
+
+Rental-date: 2005-08-02 00:58:46
+
+----
+
+Return-date: 2005-08-10 02:13:46
+
+----
+
+Inventory: page://ww4hNno1exUvFlod
+
+----
+
+Customer: page://1WQt30TIXN0K56Ie
+
+----
+
+Uuid: FhAycanND1BLKWdh

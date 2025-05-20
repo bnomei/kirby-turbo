@@ -1,0 +1,33 @@
+Title: JANICE WARD
+
+----
+
+Customer-id: 66
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JANICE
+
+----
+
+Last-name: WARD
+
+----
+
+Email: JANICE.WARD@sakilacustomer.org
+
+----
+
+Address: page://HpkwEbJMY7HROZQB
+
+----
+
+Active: 1
+
+----
+
+Uuid: rtPPzvWhh7zAFt5a

@@ -1,0 +1,17 @@
+Title: Inv 3660
+
+----
+
+Inventory-id: 3660
+
+----
+
+Film: page://VfePIjEhPcDkrGU8
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: tgFIOfMtvrwJKqCF

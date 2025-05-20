@@ -1,0 +1,43 @@
+Title: HOLOCAUST HIGHBALL
+
+----
+
+Actors:
+
+- 'page://6YS8rkTURbcXafoi'
+- 'page://9dZ7pytlckFxJvGe'
+- 'page://lWEFCFc3fpMkkCVm'
+- 'page://MokGIRk1MnOR5ecX'
+- 'page://ohgPd8XBH6s5Q55J'
+
+----
+
+Film-id: 424
+
+----
+
+Description: A Awe-Inspiring Yarn of a Composer And a Man who must Find a Robot in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 149
+
+----
+
+Rating: R
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: CBx5LMg6ZlhPo5mQ
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

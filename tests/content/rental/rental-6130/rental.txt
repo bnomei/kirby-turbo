@@ -1,0 +1,25 @@
+Title: Rental 6130
+
+----
+
+Rental-id: 6130
+
+----
+
+Rental-date: 2005-07-11 08:19:56
+
+----
+
+Return-date: 2005-07-16 12:02:56
+
+----
+
+Inventory: page://67f2S63PNDtFs7Sb
+
+----
+
+Uuid: 99JeQJfjXID24l7c
+
+----
+
+Customer: page://gyF67nPwxWbRqkYZ

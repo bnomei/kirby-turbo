@@ -1,0 +1,33 @@
+Title: TIMOTHY BUNN
+
+----
+
+Customer-id: 325
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: TIMOTHY
+
+----
+
+Last-name: BUNN
+
+----
+
+Email: TIMOTHY.BUNN@sakilacustomer.org
+
+----
+
+Address: page://Mw71BliTq0nPP9CS
+
+----
+
+Active: 1
+
+----
+
+Uuid: AA7ZNxlWuFGguRuP

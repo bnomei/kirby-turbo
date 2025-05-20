@@ -1,0 +1,17 @@
+Title: Inv 1304
+
+----
+
+Inventory-id: 1304
+
+----
+
+Film: page://XoJ7wKbaZ3Y7kJw7
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: pitLnBdNVrzOemgC

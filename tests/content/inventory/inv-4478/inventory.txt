@@ -1,0 +1,17 @@
+Title: Inv 4478
+
+----
+
+Inventory-id: 4478
+
+----
+
+Film: page://zieBHsHWeKZUZGj4
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: VNB6x4nF6KPp7tAI

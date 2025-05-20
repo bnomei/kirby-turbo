@@ -1,0 +1,25 @@
+Title: Rental 4321
+
+----
+
+Rental-id: 4321
+
+----
+
+Rental-date: 2005-07-07 17:52:38
+
+----
+
+Return-date: 2005-07-11 23:37:38
+
+----
+
+Inventory: page://YVlDQXy7SjU9xLa8
+
+----
+
+Uuid: vqGuzYRXv7J5tLdQ
+
+----
+
+Customer: page://OukV1G0vQXX07Xku

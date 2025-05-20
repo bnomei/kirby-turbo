@@ -1,0 +1,33 @@
+Title: GERALDINE PERKINS
+
+----
+
+Customer-id: 161
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: GERALDINE
+
+----
+
+Last-name: PERKINS
+
+----
+
+Email: GERALDINE.PERKINS@sakilacustomer.org
+
+----
+
+Address: page://BYwWLsNDhCMpREiO
+
+----
+
+Active: 1
+
+----
+
+Uuid: QJJkyq57XaTH2VdS

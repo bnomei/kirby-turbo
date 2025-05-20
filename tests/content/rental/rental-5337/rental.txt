@@ -1,0 +1,25 @@
+Title: Rental 5337
+
+----
+
+Rental-id: 5337
+
+----
+
+Rental-date: 2005-07-09 17:03:50
+
+----
+
+Return-date: 2005-07-16 22:25:50
+
+----
+
+Inventory: page://yygK0laHKbvYpTtP
+
+----
+
+Uuid: KHJQgDBOHXphREVY
+
+----
+
+Customer: page://yuQ0ATSAaA5g7ZDj

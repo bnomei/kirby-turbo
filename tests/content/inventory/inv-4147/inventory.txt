@@ -1,0 +1,17 @@
+Title: Inv 4147
+
+----
+
+Inventory-id: 4147
+
+----
+
+Film: page://ivcBCnogVDbkdoOv
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: PzUYBcyTfOHKkrkA

@@ -1,0 +1,42 @@
+Title: BIRDCAGE CASPER
+
+----
+
+Actors:
+
+- 'page://yhATHnZqo4RzYS83'
+- 'page://nN3rIVkI7hNgoDlp'
+- 'page://rnDcbekdB8oOqt97'
+- 'page://EMAJfjeYpdsSEXq5'
+
+----
+
+Film-id: 76
+
+----
+
+Description: A Fast-Paced Saga of a Frisbee And a Astronaut who must Overcome a Feminist in Ancient India
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 103
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: vfc11ZgBybQZrKfm
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

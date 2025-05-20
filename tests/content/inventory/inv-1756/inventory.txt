@@ -1,0 +1,17 @@
+Title: Inv 1756
+
+----
+
+Inventory-id: 1756
+
+----
+
+Film: page://YjBQm06MKjTjvtNn
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 65nXbMY91yJyJ5OX

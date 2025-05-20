@@ -1,0 +1,17 @@
+Title: Inv 405
+
+----
+
+Inventory-id: 405
+
+----
+
+Film: page://YwHDEXoq4La36FCX
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: iERjT22PzfQ9txfN

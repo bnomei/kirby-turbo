@@ -1,0 +1,25 @@
+Title: Rental 10145
+
+----
+
+Rental-id: 10145
+
+----
+
+Rental-date: 2005-07-31 22:15:13
+
+----
+
+Return-date: 2005-08-06 23:26:13
+
+----
+
+Inventory: page://A0Hrr8p1HD011mRJ
+
+----
+
+Customer: page://LGMzuvWnmjAofA2U
+
+----
+
+Uuid: IYxFRcbIzYMc4Ohk

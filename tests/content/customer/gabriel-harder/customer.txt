@@ -1,0 +1,33 @@
+Title: GABRIEL HARDER
+
+----
+
+Customer-id: 518
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: GABRIEL
+
+----
+
+Last-name: HARDER
+
+----
+
+Email: GABRIEL.HARDER@sakilacustomer.org
+
+----
+
+Address: page://bIEV8EFlcM2Fc0Sr
+
+----
+
+Active: 1
+
+----
+
+Uuid: C3xdWMfnsFmTRrLo

@@ -1,0 +1,25 @@
+Title: Rental 558
+
+----
+
+Rental-id: 558
+
+----
+
+Rental-date: 2005-05-28 08:38:43
+
+----
+
+Return-date: 2005-06-06 13:52:43
+
+----
+
+Inventory: page://e4RSDJ3ExbS3WRAT
+
+----
+
+Uuid: wSMLgpTGbGqL6LmB
+
+----
+
+Customer: page://eYENgXyv63Ee6XxS

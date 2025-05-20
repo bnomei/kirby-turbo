@@ -1,0 +1,45 @@
+Title: JUMPING WRATH
+
+----
+
+Actors:
+
+- 'page://RdNo3TYVhV9JmDu6'
+- 'page://RW4ixiF3bbh7oXkH'
+- 'page://Ppjj85F3dapvXsi8'
+- 'page://nx1fXkDUW4gS66DW'
+- 'page://rnDcbekdB8oOqt97'
+- 'page://c9RVWbTiHNxSUsUJ'
+- 'page://j4GwVyPWyXE95Bdj'
+
+----
+
+Film-id: 491
+
+----
+
+Description: A Touching Epistle of a Monkey And a Feminist who must Discover a Boat in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 74
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: jGmVHtV5VR5Nsg4l
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

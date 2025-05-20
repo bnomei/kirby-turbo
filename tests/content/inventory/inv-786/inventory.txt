@@ -1,0 +1,17 @@
+Title: Inv 786
+
+----
+
+Inventory-id: 786
+
+----
+
+Film: page://wgGSeQQNIgIH75fJ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: YOmAnBZbbRvGgFgZ

@@ -1,0 +1,17 @@
+Title: Inv 1856
+
+----
+
+Inventory-id: 1856
+
+----
+
+Film: page://k5CyzCLS8YJyub7p
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: BkFs2EbrP7CIQdea

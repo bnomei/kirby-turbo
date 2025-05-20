@@ -1,0 +1,25 @@
+Title: Rental 113
+
+----
+
+Rental-id: 113
+
+----
+
+Rental-date: 2005-05-25 19:07:40
+
+----
+
+Return-date: 2005-05-27 22:16:40
+
+----
+
+Inventory: page://B4bCdLyKmV6F97Jw
+
+----
+
+Uuid: SEMcGj4MJhobNqWW
+
+----
+
+Customer: page://1apdIukT0MghUchq

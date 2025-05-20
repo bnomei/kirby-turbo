@@ -1,0 +1,25 @@
+Title: Rental 3498
+
+----
+
+Rental-id: 3498
+
+----
+
+Rental-date: 2005-07-06 00:02:08
+
+----
+
+Return-date: 2005-07-10 00:19:08
+
+----
+
+Inventory: page://5wkimoc40shkKqI1
+
+----
+
+Uuid: PxQCswZ2dDZvZcLn
+
+----
+
+Customer: page://P5692hWxDSp2ZLGu

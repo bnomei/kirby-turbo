@@ -1,0 +1,17 @@
+Title: Inv 1905
+
+----
+
+Inventory-id: 1905
+
+----
+
+Film: page://s7ivWgguXN0zexZS
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: rozEe8C0GQc5X3J4

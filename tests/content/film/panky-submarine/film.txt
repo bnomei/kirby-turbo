@@ -1,0 +1,46 @@
+Title: PANKY SUBMARINE
+
+----
+
+Actors:
+
+- 'page://8DAvKBc0CuAdRfXU'
+- 'page://l9F1V32tlG60bBdO'
+- 'page://RaBnN0JojPRLBj7c'
+- 'page://twoON2iToIZq1akt'
+- 'page://64SCw7TVQ1KFgpJt'
+- 'page://IR4s9CmH1R8G51Ej'
+- 'page://rnDcbekdB8oOqt97'
+- 'page://WNZ5mNUGrC10JaZI'
+
+----
+
+Film-id: 654
+
+----
+
+Description: A Touching Documentary of a Dentist And a Sumo Wrestler who must Overcome a Boy in The Gulf of Mexico
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 93
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: O4op0hItRcW5nck7
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

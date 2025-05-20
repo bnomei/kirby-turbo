@@ -1,0 +1,17 @@
+Title: Inv 2689
+
+----
+
+Inventory-id: 2689
+
+----
+
+Film: page://IlxVnWFJz6N2jShF
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: P4cIz2G0gFIKqKFQ

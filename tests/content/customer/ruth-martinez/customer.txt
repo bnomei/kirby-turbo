@@ -1,0 +1,33 @@
+Title: RUTH MARTINEZ
+
+----
+
+Customer-id: 19
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: RUTH
+
+----
+
+Last-name: MARTINEZ
+
+----
+
+Email: RUTH.MARTINEZ@sakilacustomer.org
+
+----
+
+Address: page://ZGezRdNg4jBZLJhx
+
+----
+
+Active: 1
+
+----
+
+Uuid: DP2nFBlcxJIrLJzp

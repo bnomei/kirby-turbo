@@ -1,0 +1,33 @@
+Title: JOHNNY TURPIN
+
+----
+
+Customer-id: 395
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JOHNNY
+
+----
+
+Last-name: TURPIN
+
+----
+
+Email: JOHNNY.TURPIN@sakilacustomer.org
+
+----
+
+Address: page://wLx85h9rHlydVLe0
+
+----
+
+Active: 1
+
+----
+
+Uuid: VN0nTajbysCGd16r

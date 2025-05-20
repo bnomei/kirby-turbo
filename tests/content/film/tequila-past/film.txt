@@ -1,0 +1,41 @@
+Title: TEQUILA PAST
+
+----
+
+Actors:
+
+- 'page://NkG0QBqlgfweHNxN'
+- 'page://JeeyeDJ3FmxSMbIy'
+- 'page://X4t5CWB88ooC26Na'
+
+----
+
+Film-id: 883
+
+----
+
+Description: A Action-Packed Panorama of a Mad Scientist And a Robot who must Challenge a Student in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 53
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: 6fjacN79GdCySlpQ
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

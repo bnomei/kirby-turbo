@@ -1,0 +1,25 @@
+Title: Rental 7718
+
+----
+
+Rental-id: 7718
+
+----
+
+Rental-date: 2005-07-28 04:37:59
+
+----
+
+Return-date: 2005-07-29 09:20:59
+
+----
+
+Inventory: page://v2NKfwfACbTpAMNR
+
+----
+
+Customer: page://ftEMvnSK11uTw7qY
+
+----
+
+Uuid: dNuEpjcGuU3ezEUH

@@ -1,0 +1,25 @@
+Title: Rental 8718
+
+----
+
+Rental-id: 8718
+
+----
+
+Rental-date: 2005-07-29 17:41:14
+
+----
+
+Return-date: 2005-08-01 18:22:14
+
+----
+
+Inventory: page://m3aNWDTUe0So7HFe
+
+----
+
+Customer: page://z6KsbN8IOhSoB7GT
+
+----
+
+Uuid: LMSOfkXuHTNCPIqa

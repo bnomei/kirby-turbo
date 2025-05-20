@@ -1,0 +1,17 @@
+Title: Inv 2345
+
+----
+
+Inventory-id: 2345
+
+----
+
+Film: page://FYjzIqhWEasX3iU3
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: SfHSMq7njpZrGaXQ

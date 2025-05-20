@@ -1,0 +1,33 @@
+Title: ANDRE RAPP
+
+----
+
+Customer-id: 515
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ANDRE
+
+----
+
+Last-name: RAPP
+
+----
+
+Email: ANDRE.RAPP@sakilacustomer.org
+
+----
+
+Address: page://74MqebFBzgKzcblz
+
+----
+
+Active: 1
+
+----
+
+Uuid: JRYbP7gqVkCUmiP0

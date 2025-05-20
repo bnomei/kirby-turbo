@@ -1,0 +1,33 @@
+Title: CHARLES KOWALSKI
+
+----
+
+Customer-id: 306
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CHARLES
+
+----
+
+Last-name: KOWALSKI
+
+----
+
+Email: CHARLES.KOWALSKI@sakilacustomer.org
+
+----
+
+Address: page://TxvmMlXcWZqSvMN9
+
+----
+
+Active: 1
+
+----
+
+Uuid: 2C8Z04rPFee2aFn8

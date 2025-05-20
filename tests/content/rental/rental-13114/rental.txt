@@ -1,0 +1,25 @@
+Title: Rental 13114
+
+----
+
+Rental-id: 13114
+
+----
+
+Rental-date: 2005-08-19 11:27:32
+
+----
+
+Return-date: 2005-08-28 11:21:32
+
+----
+
+Inventory: page://ps6KIfmmtLWAw8Oh
+
+----
+
+Customer: page://x8Y8aJxOEpTBihF2
+
+----
+
+Uuid: 81AGGD3Ulm5viM01

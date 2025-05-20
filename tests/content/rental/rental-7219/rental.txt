@@ -1,0 +1,25 @@
+Title: Rental 7219
+
+----
+
+Rental-id: 7219
+
+----
+
+Rental-date: 2005-07-27 09:35:36
+
+----
+
+Return-date: 2005-07-29 04:44:36
+
+----
+
+Inventory: page://6N6269FWjdZmev9E
+
+----
+
+Customer: page://8819Gek69PVTaJvT
+
+----
+
+Uuid: Hsrs102l04R79b2Z

@@ -1,0 +1,25 @@
+Title: Rental 6937
+
+----
+
+Rental-id: 6937
+
+----
+
+Rental-date: 2005-07-26 23:15:50
+
+----
+
+Return-date: 2005-07-27 19:14:50
+
+----
+
+Inventory: page://t7H7jDKJZTX34zJb
+
+----
+
+Customer: page://YaIz0DYOIEnfvgdw
+
+----
+
+Uuid: XvQDlw2FbZ8vU6gH

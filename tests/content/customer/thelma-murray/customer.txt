@@ -1,0 +1,33 @@
+Title: THELMA MURRAY
+
+----
+
+Customer-id: 122
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: THELMA
+
+----
+
+Last-name: MURRAY
+
+----
+
+Email: THELMA.MURRAY@sakilacustomer.org
+
+----
+
+Address: page://Inxmwsm6hg5dSICV
+
+----
+
+Active: 1
+
+----
+
+Uuid: 0WnExrtDVR9K4b8X

@@ -1,0 +1,25 @@
+Title: Rental 2387
+
+----
+
+Rental-id: 2387
+
+----
+
+Rental-date: 2005-06-18 15:24:19
+
+----
+
+Return-date: 2005-06-25 17:41:19
+
+----
+
+Inventory: page://P0NAlNovByP6Ephl
+
+----
+
+Uuid: EKFQjGcoDyYsh19O
+
+----
+
+Customer: page://6AKt4qOv738O4v4p

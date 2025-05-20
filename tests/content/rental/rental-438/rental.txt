@@ -1,0 +1,25 @@
+Title: Rental 438
+
+----
+
+Rental-id: 438
+
+----
+
+Rental-date: 2005-05-27 17:52:34
+
+----
+
+Return-date: 2005-06-05 22:23:34
+
+----
+
+Inventory: page://siqOOLwRALrrXLAW
+
+----
+
+Uuid: cVsKadKZ4q1wABmh
+
+----
+
+Customer: page://2o7Ua8bnQm0l3GDC

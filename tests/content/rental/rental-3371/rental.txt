@@ -1,0 +1,25 @@
+Title: Rental 3371
+
+----
+
+Rental-id: 3371
+
+----
+
+Rental-date: 2005-06-21 13:27:22
+
+----
+
+Return-date: 2005-06-29 14:04:22
+
+----
+
+Inventory: page://2gwtrYV7vzkLXZqJ
+
+----
+
+Uuid: bVEfz954R2FzurID
+
+----
+
+Customer: page://dAwe6HV7cqMe4xEm

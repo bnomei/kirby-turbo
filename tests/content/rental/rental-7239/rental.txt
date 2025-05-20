@@ -1,0 +1,25 @@
+Title: Rental 7239
+
+----
+
+Rental-id: 7239
+
+----
+
+Rental-date: 2005-07-27 10:20:27
+
+----
+
+Return-date: 2005-07-29 10:15:27
+
+----
+
+Inventory: page://ZFalzkCpqRhiKl2b
+
+----
+
+Customer: page://vaqk23hYrE8PQvH5
+
+----
+
+Uuid: wDZRzZhfXf2wUrDc

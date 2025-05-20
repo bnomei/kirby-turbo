@@ -1,0 +1,25 @@
+Title: Rental 4600
+
+----
+
+Rental-id: 4600
+
+----
+
+Rental-date: 2005-07-08 06:48:37
+
+----
+
+Return-date: 2005-07-15 10:11:37
+
+----
+
+Inventory: page://XCoYqFU8lLWhsg1M
+
+----
+
+Uuid: pznGK00W4vkbkdtY
+
+----
+
+Customer: page://ssKfVmN07XGOgIXz

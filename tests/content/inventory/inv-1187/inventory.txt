@@ -1,0 +1,17 @@
+Title: Inv 1187
+
+----
+
+Inventory-id: 1187
+
+----
+
+Film: page://ATc1gPDHk8zJP1s6
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: wTh9MeJfdn2kKLCU

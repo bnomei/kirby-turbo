@@ -1,0 +1,21 @@
+Title: Rental 12716
+
+----
+
+Rental-id: 12716
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://iwTkV7PCVwqzk4Zg
+
+----
+
+Customer: page://mOuqyzmE17YrV1yV
+
+----
+
+Uuid: V2lhUgpD2ZjwL20X

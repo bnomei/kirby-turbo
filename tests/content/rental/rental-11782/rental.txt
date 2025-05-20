@@ -1,0 +1,21 @@
+Title: Rental 11782
+
+----
+
+Rental-id: 11782
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://CD86xUCGujiMwpxO
+
+----
+
+Customer: page://hZOnCp7oVBUSijBw
+
+----
+
+Uuid: DCfYcHTgC7BuCpNt

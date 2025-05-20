@@ -1,0 +1,25 @@
+Title: Rental 9022
+
+----
+
+Rental-id: 9022
+
+----
+
+Rental-date: 2005-07-30 05:34:45
+
+----
+
+Return-date: 2005-08-03 23:57:45
+
+----
+
+Inventory: page://9EajkKjOThUMogG8
+
+----
+
+Customer: page://q1NfZkNoffXnWY4c
+
+----
+
+Uuid: JNvBAtY7i8qvK22K

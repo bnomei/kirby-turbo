@@ -1,0 +1,17 @@
+Title: Inv 3483
+
+----
+
+Inventory-id: 3483
+
+----
+
+Film: page://8fmBpMOzKmm842Su
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: kVNKZVOMUzINgbdr

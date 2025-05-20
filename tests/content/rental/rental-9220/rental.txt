@@ -1,0 +1,25 @@
+Title: Rental 9220
+
+----
+
+Rental-id: 9220
+
+----
+
+Rental-date: 2005-07-30 13:17:27
+
+----
+
+Return-date: 2005-08-07 11:34:27
+
+----
+
+Inventory: page://FmDCMw1I4ZCMS5iU
+
+----
+
+Customer: page://yvKogFHQVJDnr873
+
+----
+
+Uuid: sVDq18u8GyXUGNsd

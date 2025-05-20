@@ -1,0 +1,33 @@
+Title: MISTY LAMBERT
+
+----
+
+Customer-id: 292
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: MISTY
+
+----
+
+Last-name: LAMBERT
+
+----
+
+Email: MISTY.LAMBERT@sakilacustomer.org
+
+----
+
+Address: page://4SkbiS3X3B9CN40i
+
+----
+
+Active: 1
+
+----
+
+Uuid: TxY88rwk6w3N9jKC

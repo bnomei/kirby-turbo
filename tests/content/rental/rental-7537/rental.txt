@@ -1,0 +1,25 @@
+Title: Rental 7537
+
+----
+
+Rental-id: 7537
+
+----
+
+Rental-date: 2005-07-27 21:36:09
+
+----
+
+Return-date: 2005-08-01 01:51:09
+
+----
+
+Inventory: page://bOMDHeKkzfrrr6us
+
+----
+
+Customer: page://Cko87GK3ShDjUK4Q
+
+----
+
+Uuid: GqmphqtStL1RZEBM

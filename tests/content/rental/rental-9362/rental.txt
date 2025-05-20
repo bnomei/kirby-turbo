@@ -1,0 +1,25 @@
+Title: Rental 9362
+
+----
+
+Rental-id: 9362
+
+----
+
+Rental-date: 2005-07-30 18:44:16
+
+----
+
+Return-date: 2005-08-01 20:14:16
+
+----
+
+Inventory: page://EX4SZYmAhJfPiR72
+
+----
+
+Customer: page://Yq4RWbQHVX6jLqbx
+
+----
+
+Uuid: Ye6066U0PmPMbcjL

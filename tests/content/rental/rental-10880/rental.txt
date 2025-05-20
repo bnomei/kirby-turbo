@@ -1,0 +1,25 @@
+Title: Rental 10880
+
+----
+
+Rental-id: 10880
+
+----
+
+Rental-date: 2005-08-02 00:34:12
+
+----
+
+Return-date: 2005-08-06 21:15:12
+
+----
+
+Inventory: page://XYBZsWCtAC9ipPng
+
+----
+
+Customer: page://JY1mPZSxratt4tn6
+
+----
+
+Uuid: 75BZsddteZXcuhqf

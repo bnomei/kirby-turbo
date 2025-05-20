@@ -1,0 +1,25 @@
+Title: Rental 6714
+
+----
+
+Rental-id: 6714
+
+----
+
+Rental-date: 2005-07-12 13:29:06
+
+----
+
+Return-date: 2005-07-18 16:02:06
+
+----
+
+Inventory: page://aVkZaPNqtctVfEMW
+
+----
+
+Uuid: aCzT6T5ugsrULEop
+
+----
+
+Customer: page://e47avKEtCcZjXaKK

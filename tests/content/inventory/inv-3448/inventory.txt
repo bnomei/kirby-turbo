@@ -1,0 +1,17 @@
+Title: Inv 3448
+
+----
+
+Inventory-id: 3448
+
+----
+
+Film: page://nyCfKOvGgbQX5kHu
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: AtUX5eyS3RqwGVJU

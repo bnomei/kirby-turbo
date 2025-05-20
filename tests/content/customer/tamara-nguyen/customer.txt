@@ -1,0 +1,33 @@
+Title: TAMARA NGUYEN
+
+----
+
+Customer-id: 229
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: TAMARA
+
+----
+
+Last-name: NGUYEN
+
+----
+
+Email: TAMARA.NGUYEN@sakilacustomer.org
+
+----
+
+Address: page://x6MWpQtid7c5gbnY
+
+----
+
+Active: 1
+
+----
+
+Uuid: PbJRKou2oblU77A7

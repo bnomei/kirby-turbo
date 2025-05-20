@@ -1,0 +1,45 @@
+Title: INTRIGUE WORST
+
+----
+
+Actors:
+
+- 'page://JA85uxdb8uiPNO2i'
+- 'page://8Pmn5SWwDYgkHBaA'
+- 'page://HMQFYCzd6sL7s9te'
+- 'page://wxM7fPnQeVIlPpuJ'
+- 'page://c9RVWbTiHNxSUsUJ'
+- 'page://nfzjlyLmEQ6Q1S80'
+- 'page://qXajFtQVbGpQUZAN'
+
+----
+
+Film-id: 467
+
+----
+
+Description: A Fanciful Character Study of a Explorer And a Mad Scientist who must Vanquish a Squirrel in A Jet Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 181
+
+----
+
+Rating: G
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: XNRQ9Jcn95sa8WID
+
+----
+
+Categories: - 'page://1zSlwtq2IyzVh9Hs'

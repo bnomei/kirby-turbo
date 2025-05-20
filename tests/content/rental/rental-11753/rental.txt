@@ -1,0 +1,25 @@
+Title: Rental 11753
+
+----
+
+Rental-id: 11753
+
+----
+
+Rental-date: 2005-08-17 09:11:52
+
+----
+
+Return-date: 2005-08-25 05:03:52
+
+----
+
+Inventory: page://YsM9RE1LtaDIzOYP
+
+----
+
+Customer: page://4bqmvXdivlrT2tgo
+
+----
+
+Uuid: tfcCjrmLTWI1e100

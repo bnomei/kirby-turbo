@@ -1,0 +1,25 @@
+Title: Rental 6124
+
+----
+
+Rental-id: 6124
+
+----
+
+Rental-date: 2005-07-11 08:02:32
+
+----
+
+Return-date: 2005-07-12 05:58:32
+
+----
+
+Inventory: page://2Peku3YUsb2UykEl
+
+----
+
+Uuid: rLMLthSzLbxAgtLF
+
+----
+
+Customer: page://iYFUE0tzXJVxueTP

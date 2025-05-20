@@ -1,0 +1,17 @@
+Title: Inv 1084
+
+----
+
+Inventory-id: 1084
+
+----
+
+Film: page://uNXT5DOP9sXQU2Io
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: rz1BqEwyIDx61UCb

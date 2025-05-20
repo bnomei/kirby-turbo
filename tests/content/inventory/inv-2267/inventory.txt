@@ -1,0 +1,17 @@
+Title: Inv 2267
+
+----
+
+Inventory-id: 2267
+
+----
+
+Film: page://miWTKbUjegsQcVMu
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: vNjkc6bvJdA3vMTa

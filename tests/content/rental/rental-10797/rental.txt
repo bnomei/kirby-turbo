@@ -1,0 +1,25 @@
+Title: Rental 10797
+
+----
+
+Rental-id: 10797
+
+----
+
+Rental-date: 2005-08-01 22:02:51
+
+----
+
+Return-date: 2005-08-03 23:07:51
+
+----
+
+Inventory: page://NoMNsOzJweVdAwrx
+
+----
+
+Customer: page://ngKtnxHdAXVpAIrL
+
+----
+
+Uuid: Du3ClKNsBTJ1PX18

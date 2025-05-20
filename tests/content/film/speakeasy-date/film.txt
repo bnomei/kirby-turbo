@@ -1,0 +1,41 @@
+Title: SPEAKEASY DATE
+
+----
+
+Actors:
+
+- 'page://JeeyeDJ3FmxSMbIy'
+- 'page://YBKuIiLT3VizSQRI'
+- 'page://yg3e89enY7SGtRB6'
+
+----
+
+Film-id: 825
+
+----
+
+Description: A Lacklusture Drama of a Forensic Psychologist And a Car who must Redeem a Man in A Manhattan Penthouse
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 165
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: B47pc300dBObDlEY
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

@@ -1,0 +1,25 @@
+Title: Rental 1217
+
+----
+
+Rental-id: 1217
+
+----
+
+Rental-date: 2005-06-15 03:24:14
+
+----
+
+Return-date: 2005-06-18 22:37:14
+
+----
+
+Inventory: page://Uz1pLVydnE7SPxBB
+
+----
+
+Uuid: dTOoi1N64xDtViPC
+
+----
+
+Customer: page://9zYzK9WI4NUQdKUP

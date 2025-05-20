@@ -1,0 +1,44 @@
+Title: BILL OTHERS
+
+----
+
+Actors:
+
+- 'page://8v9dhLSIQd0NpUQl'
+- 'page://qiUMbGq5mbDqGQZm'
+- 'page://f54gdCyL7WpJ8aUr'
+- 'page://3BcvBP3gfacEDPsU'
+- 'page://X3dUYAbt0AiREsIH'
+- 'page://1lkqFZByE2squnG7'
+
+----
+
+Film-id: 72
+
+----
+
+Description: A Stunning Saga of a Mad Scientist And a Forensic Psychologist who must Challenge a Squirrel in A MySQL Convention
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 93
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: 1cDd3tLyJcgnY5J3
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

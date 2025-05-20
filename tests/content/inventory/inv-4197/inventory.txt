@@ -1,0 +1,17 @@
+Title: Inv 4197
+
+----
+
+Inventory-id: 4197
+
+----
+
+Film: page://xfZxnJ2rP9EOtzuD
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: YS3idUf9iX4HK8VU

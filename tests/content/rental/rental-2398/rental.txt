@@ -1,0 +1,25 @@
+Title: Rental 2398
+
+----
+
+Rental-id: 2398
+
+----
+
+Rental-date: 2005-06-18 15:56:53
+
+----
+
+Return-date: 2005-06-27 14:25:53
+
+----
+
+Inventory: page://LEV258u0HaDHBDNq
+
+----
+
+Uuid: 3Cs9Uo2GKH1h4ZSM
+
+----
+
+Customer: page://yQcQ1eHjHG2TC2t0

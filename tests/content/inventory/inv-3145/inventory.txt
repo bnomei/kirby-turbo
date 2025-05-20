@@ -1,0 +1,17 @@
+Title: Inv 3145
+
+----
+
+Inventory-id: 3145
+
+----
+
+Film: page://EKJk2VIywYlYORwF
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: iqdqEfeYX40xxBgQ

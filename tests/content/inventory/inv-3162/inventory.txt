@@ -1,0 +1,17 @@
+Title: Inv 3162
+
+----
+
+Inventory-id: 3162
+
+----
+
+Film: page://JtyLOAlTokfhBZp4
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 5bmHFRV01RH1bxRZ

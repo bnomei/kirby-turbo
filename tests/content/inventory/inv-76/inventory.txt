@@ -1,0 +1,17 @@
+Title: Inv 76
+
+----
+
+Inventory-id: 76
+
+----
+
+Film: page://Ex6gdFZk9Qmk97Wd
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Xgo59YCNs8ZA7fvf

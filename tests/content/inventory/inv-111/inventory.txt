@@ -1,0 +1,17 @@
+Title: Inv 111
+
+----
+
+Inventory-id: 111
+
+----
+
+Film: page://b1Jwkyx0EgqGxI7i
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: YAKj3aAUwdoQ11j3

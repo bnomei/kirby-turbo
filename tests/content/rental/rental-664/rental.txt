@@ -1,0 +1,25 @@
+Title: Rental 664
+
+----
+
+Rental-id: 664
+
+----
+
+Rental-date: 2005-05-28 21:31:08
+
+----
+
+Return-date: 2005-06-02 20:56:08
+
+----
+
+Inventory: page://QzAC4ODMvaOYLf4Q
+
+----
+
+Uuid: hJfynQoBuPPaoPpE
+
+----
+
+Customer: page://KvtWcYY1YyV3aYsM

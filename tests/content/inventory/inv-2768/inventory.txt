@@ -1,0 +1,17 @@
+Title: Inv 2768
+
+----
+
+Inventory-id: 2768
+
+----
+
+Film: page://Ot6UtgoqLM35goYk
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 9pvxUVuE44soic7f

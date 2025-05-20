@@ -1,0 +1,17 @@
+Title: Inv 520
+
+----
+
+Inventory-id: 520
+
+----
+
+Film: page://iMI1430ry8gA5yc2
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 2LktUQdINYZQM1Ih

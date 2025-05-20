@@ -1,0 +1,41 @@
+Title: BLINDNESS GUN
+
+----
+
+Actors:
+
+- 'page://xuTGKKs3dxu4jXhx'
+- 'page://f54gdCyL7WpJ8aUr'
+- 'page://KV54RGx9NMbLtwi4'
+
+----
+
+Film-id: 81
+
+----
+
+Description: A Touching Drama of a Robot And a Dentist who must Meet a Hunter in A Jet Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 103
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: HbEpEiQHOXmkFnCF
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

@@ -1,0 +1,17 @@
+Title: Inv 1820
+
+----
+
+Inventory-id: 1820
+
+----
+
+Film: page://9xGJfbXF8aoV5B2N
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 2GkamSFZn6aaDfLi

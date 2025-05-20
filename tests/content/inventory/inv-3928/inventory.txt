@@ -1,0 +1,17 @@
+Title: Inv 3928
+
+----
+
+Inventory-id: 3928
+
+----
+
+Film: page://49OxLFvwrrHYZnmn
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 6cRojPqiOAfTwxjP

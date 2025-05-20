@@ -1,0 +1,48 @@
+Title: OLEANDER CLUE
+
+----
+
+Actors:
+
+- 'page://osa3qsECAnV3MAu4'
+- 'page://RW4ixiF3bbh7oXkH'
+- 'page://eJszhRe2rjIvWjny'
+- 'page://3oaBypMbXEPYhgeK'
+- 'page://s69sG8lNdmqtvA7p'
+- 'page://f3T5R3qlMgXii7Oj'
+- 'page://ltHX2Lf4QT72ZiqX'
+- 'page://Gsxc5TuqHyoQn1c1'
+- 'page://1a2BLQivFz3Ch6Lx'
+- 'page://Vt3bRByOUSEypvV6'
+
+----
+
+Film-id: 636
+
+----
+
+Description: A Boring Story of a Teacher And a Monkey who must Succumb a Forensic Psychologist in A Jet Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 161
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: Qud30oiBIuQBFrMY
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

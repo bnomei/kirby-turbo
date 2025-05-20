@@ -1,0 +1,25 @@
+Title: Rental 14010
+
+----
+
+Rental-id: 14010
+
+----
+
+Rental-date: 2005-08-20 20:29:46
+
+----
+
+Return-date: 2005-08-26 17:37:46
+
+----
+
+Inventory: page://4dOe8rUunA0QgUDS
+
+----
+
+Customer: page://0y5yemyZQcpl64rZ
+
+----
+
+Uuid: KcOL6gZ5rRbr9j9F

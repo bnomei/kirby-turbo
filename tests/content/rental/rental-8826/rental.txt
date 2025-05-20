@@ -1,0 +1,25 @@
+Title: Rental 8826
+
+----
+
+Rental-id: 8826
+
+----
+
+Rental-date: 2005-07-29 22:30:16
+
+----
+
+Return-date: 2005-07-30 19:43:16
+
+----
+
+Inventory: page://4Dqdj6pXROJSthP9
+
+----
+
+Customer: page://J9AjFYg5VoQ4Yy04
+
+----
+
+Uuid: jkuviHLWqXok6fDl

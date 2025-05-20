@@ -1,0 +1,25 @@
+Title: Rental 6969
+
+----
+
+Rental-id: 6969
+
+----
+
+Rental-date: 2005-07-27 00:23:54
+
+----
+
+Return-date: 2005-08-03 04:34:54
+
+----
+
+Inventory: page://N7waSjdQYgJ29HKm
+
+----
+
+Customer: page://35iZEOLpVXBoxDMB
+
+----
+
+Uuid: zX1qWWvrnXp94gZQ

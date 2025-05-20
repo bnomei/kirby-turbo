@@ -1,0 +1,42 @@
+Title: PATRIOT ROMAN
+
+----
+
+Actors:
+
+- 'page://6YS8rkTURbcXafoi'
+- 'page://DJVklNozM1l2RK0x'
+- 'page://eZEz0vHTFLlEKlUs'
+- 'page://EMAJfjeYpdsSEXq5'
+
+----
+
+Film-id: 664
+
+----
+
+Description: A Taut Saga of a Robot And a Database Administrator who must Challenge a Astronaut in California
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 65
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: EfESDft6aS0p6RpC
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

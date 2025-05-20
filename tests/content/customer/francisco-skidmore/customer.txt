@@ -1,0 +1,33 @@
+Title: FRANCISCO SKIDMORE
+
+----
+
+Customer-id: 443
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: FRANCISCO
+
+----
+
+Last-name: SKIDMORE
+
+----
+
+Email: FRANCISCO.SKIDMORE@sakilacustomer.org
+
+----
+
+Address: page://cKyJMaq52dOPuJ0Z
+
+----
+
+Active: 1
+
+----
+
+Uuid: 0IaV7NUIhxhKgfNm

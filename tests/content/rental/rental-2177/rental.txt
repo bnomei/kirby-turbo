@@ -1,0 +1,25 @@
+Title: Rental 2177
+
+----
+
+Rental-id: 2177
+
+----
+
+Rental-date: 2005-06-18 00:34:45
+
+----
+
+Return-date: 2005-06-26 18:40:45
+
+----
+
+Inventory: page://23jXuxFryKyn6GWq
+
+----
+
+Uuid: FDC37JpmeZNW44JA
+
+----
+
+Customer: page://alglU4WYiFaY0W4O

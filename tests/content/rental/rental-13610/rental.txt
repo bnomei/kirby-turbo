@@ -1,0 +1,25 @@
+Title: Rental 13610
+
+----
+
+Rental-id: 13610
+
+----
+
+Rental-date: 2005-08-20 06:14:12
+
+----
+
+Return-date: 2005-08-26 00:44:12
+
+----
+
+Inventory: page://2gwtrYV7vzkLXZqJ
+
+----
+
+Customer: page://zr15m47K6VY9URjq
+
+----
+
+Uuid: DkacxSyeYoEANdyu

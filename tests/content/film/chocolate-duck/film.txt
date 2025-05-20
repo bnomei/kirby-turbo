@@ -1,0 +1,45 @@
+Title: CHOCOLATE DUCK
+
+----
+
+Actors:
+
+- 'page://Tc5O2MboD06L5UFn'
+- 'page://huljhPJQohi6UE64'
+- 'page://HMQFYCzd6sL7s9te'
+- 'page://qiUMbGq5mbDqGQZm'
+- 'page://dRscV8wJJ6wok0jq'
+- 'page://nGhJyQbze3rAAH9v'
+- 'page://V93xbOGPlOsB9ymO'
+
+----
+
+Film-id: 148
+
+----
+
+Description: A Unbelieveable Story of a Mad Scientist And a Technical Writer who must Discover a Composer in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 132
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: JdQgewYmFFTpEkio
+
+----
+
+Categories: - 'page://1zSlwtq2IyzVh9Hs'

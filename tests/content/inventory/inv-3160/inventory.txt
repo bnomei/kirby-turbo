@@ -1,0 +1,17 @@
+Title: Inv 3160
+
+----
+
+Inventory-id: 3160
+
+----
+
+Film: page://JtyLOAlTokfhBZp4
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: y3gyHBuRaJ5bnuWB

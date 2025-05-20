@@ -1,0 +1,17 @@
+Title: Tabora
+
+----
+
+City-id: 513
+
+----
+
+City: Tabora
+
+----
+
+Country: page://ciYl0LKvVVH1HO1B
+
+----
+
+Uuid: ZY4sXLOScvWuV85r

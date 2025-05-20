@@ -1,0 +1,25 @@
+Title: Rental 860
+
+----
+
+Rental-id: 860
+
+----
+
+Rental-date: 2005-05-30 02:45:16
+
+----
+
+Return-date: 2005-06-08 07:28:16
+
+----
+
+Inventory: page://qc4viE6gU2CzdFuW
+
+----
+
+Uuid: 6Yb7GX9P4UA7DU56
+
+----
+
+Customer: page://ITr0DtQiC8vNX3ax

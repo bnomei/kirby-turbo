@@ -1,0 +1,17 @@
+Title: Inv 3032
+
+----
+
+Inventory-id: 3032
+
+----
+
+Film: page://ZRcxw3WRQdNjZuEq
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: FCoV74MmmC0XgnRK

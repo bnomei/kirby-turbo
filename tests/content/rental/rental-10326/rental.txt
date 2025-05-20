@@ -1,0 +1,25 @@
+Title: Rental 10326
+
+----
+
+Rental-id: 10326
+
+----
+
+Rental-date: 2005-08-01 04:55:34
+
+----
+
+Return-date: 2005-08-02 05:18:34
+
+----
+
+Inventory: page://ytFPDwDkUCaRhJtk
+
+----
+
+Customer: page://AA7ZNxlWuFGguRuP
+
+----
+
+Uuid: hLLsmp4ErF5vrNsY

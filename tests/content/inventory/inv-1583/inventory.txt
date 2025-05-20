@@ -1,0 +1,17 @@
+Title: Inv 1583
+
+----
+
+Inventory-id: 1583
+
+----
+
+Film: page://xdcOxBl4eg2mFGa8
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 2hVal6lYZwTpAMUl

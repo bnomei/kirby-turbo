@@ -1,0 +1,25 @@
+Title: Rental 12002
+
+----
+
+Rental-id: 12002
+
+----
+
+Rental-date: 2005-08-17 18:56:02
+
+----
+
+Return-date: 2005-08-20 17:36:02
+
+----
+
+Inventory: page://d6uxdISCBdIItj9Y
+
+----
+
+Customer: page://x5SWKXQpXhzjUJdL
+
+----
+
+Uuid: J1EYTfwhJuhSknav

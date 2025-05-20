@@ -1,0 +1,43 @@
+Title: PIZZA JUMANJI
+
+----
+
+Actors:
+
+- 'page://RHCn9jMuVT1ewFhv'
+- 'page://yg3e89enY7SGtRB6'
+- 'page://lltihsMvjhDqCGFK'
+- 'page://HBk8OpEyVf68VCvH'
+- 'page://IUEdThBjLk8TNUwy'
+
+----
+
+Film-id: 684
+
+----
+
+Description: A Epic Saga of a Cat And a Squirrel who must Outgun a Robot in A U-Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 173
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries
+
+----
+
+Uuid: DEzGws0FPgVzoxr0
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

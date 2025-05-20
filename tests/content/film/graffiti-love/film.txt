@@ -1,0 +1,44 @@
+Title: GRAFFITI LOVE
+
+----
+
+Actors:
+
+- 'page://JR0gbBMz8ekt1gGa'
+- 'page://JrsbillMdFUVLTOe'
+- 'page://sDEWocF2a3nQjJMo'
+- 'page://HMQFYCzd6sL7s9te'
+- 'page://kIGWs86teYEK5yIM'
+- 'page://EIh5zoCTJV7UmSi4'
+
+----
+
+Film-id: 374
+
+----
+
+Description: A Unbelieveable Epistle of a Sumo Wrestler And a Hunter who must Build a Composer in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 117
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: hzLknIz6iEXqG2Qw
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

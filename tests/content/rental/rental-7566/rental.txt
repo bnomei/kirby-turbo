@@ -1,0 +1,25 @@
+Title: Rental 7566
+
+----
+
+Rental-id: 7566
+
+----
+
+Rental-date: 2005-07-27 22:34:45
+
+----
+
+Return-date: 2005-08-01 22:20:45
+
+----
+
+Inventory: page://GXUyqt2neGPrQrbg
+
+----
+
+Customer: page://rug4r6NdvQakm9EC
+
+----
+
+Uuid: u9mShsyP0XHwwEEs

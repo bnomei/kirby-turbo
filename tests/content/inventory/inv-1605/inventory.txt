@@ -1,0 +1,17 @@
+Title: Inv 1605
+
+----
+
+Inventory-id: 1605
+
+----
+
+Film: page://mtoWYsIKavCxrGqP
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Vx4hpHeHcxs4D764

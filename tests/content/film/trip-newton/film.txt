@@ -1,0 +1,42 @@
+Title: TRIP NEWTON
+
+----
+
+Actors:
+
+- 'page://Xu2nMG4ojUoJI7CN'
+- 'page://MokGIRk1MnOR5ecX'
+- 'page://gELBLdH4G3cmVmcs'
+- 'page://nNLtL91vUU653tYz'
+
+----
+
+Film-id: 911
+
+----
+
+Description: A Fanciful Character Study of a Lumberjack And a Car who must Discover a Cat in An Abandoned Amusement Park
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 64
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: QvNu1O2zbVjfsjFw
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

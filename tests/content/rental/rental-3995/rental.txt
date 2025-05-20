@@ -1,0 +1,25 @@
+Title: Rental 3995
+
+----
+
+Rental-id: 3995
+
+----
+
+Rental-date: 2005-07-06 23:43:03
+
+----
+
+Return-date: 2005-07-13 04:13:03
+
+----
+
+Inventory: page://2zZZAPDruN7pKEJa
+
+----
+
+Uuid: R7eFvIn5JNTaDpEo
+
+----
+
+Customer: page://F0Kktb9GQCAISqtj

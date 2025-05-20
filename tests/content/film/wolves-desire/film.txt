@@ -1,0 +1,44 @@
+Title: WOLVES DESIRE
+
+----
+
+Actors:
+
+- 'page://RW4ixiF3bbh7oXkH'
+- 'page://ixmDbcb5VXh1c8bc'
+- 'page://RdhM2Q1bNuSOC3ck'
+- 'page://ZyRQLJXso6IqRkwR'
+- 'page://DC9iJim4HlVvOiTH'
+- 'page://Sl1QfOYn2gZWMd2L'
+
+----
+
+Film-id: 981
+
+----
+
+Description: A Fast-Paced Drama of a Squirrel And a Robot who must Succumb a Technical Writer in A Manhattan Penthouse
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 55
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: ScohjcbuN4KJUFR9
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

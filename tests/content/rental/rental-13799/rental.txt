@@ -1,0 +1,25 @@
+Title: Rental 13799
+
+----
+
+Rental-id: 13799
+
+----
+
+Rental-date: 2005-08-20 12:36:42
+
+----
+
+Return-date: 2005-08-28 08:47:42
+
+----
+
+Inventory: page://aw4AhfFtMBEeaZo4
+
+----
+
+Customer: page://TCHvKARcBg3R487d
+
+----
+
+Uuid: mwvjNr6LNx6XOnlX

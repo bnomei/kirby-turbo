@@ -1,0 +1,25 @@
+Title: Rental 9340
+
+----
+
+Rental-id: 9340
+
+----
+
+Rental-date: 2005-07-30 18:07:16
+
+----
+
+Return-date: 2005-08-04 14:33:16
+
+----
+
+Inventory: page://cYRcxci8qspEA3gE
+
+----
+
+Customer: page://SXP8ih15ziLTUonG
+
+----
+
+Uuid: mrMpZHXcAJ2DaV7E

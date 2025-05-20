@@ -1,0 +1,17 @@
+Title: Inv 1675
+
+----
+
+Inventory-id: 1675
+
+----
+
+Film: page://yyRGFoXZxZZSiUak
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: KPL1OKMdwv2owYgU

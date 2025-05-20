@@ -1,0 +1,25 @@
+Title: Rental 10970
+
+----
+
+Rental-id: 10970
+
+----
+
+Rental-date: 2005-08-02 04:06:46
+
+----
+
+Return-date: 2005-08-10 04:27:46
+
+----
+
+Inventory: page://IjOKLHZkSEXNBusq
+
+----
+
+Customer: page://rCrCpCNcHKJui2E7
+
+----
+
+Uuid: 27kXGQ8CMFLkgWZQ

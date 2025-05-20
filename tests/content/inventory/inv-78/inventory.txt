@@ -1,0 +1,17 @@
+Title: Inv 78
+
+----
+
+Inventory-id: 78
+
+----
+
+Film: page://mdhbOqFgjCraCy5l
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ww4hNno1exUvFlod

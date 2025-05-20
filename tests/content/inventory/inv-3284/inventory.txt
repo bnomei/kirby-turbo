@@ -1,0 +1,17 @@
+Title: Inv 3284
+
+----
+
+Inventory-id: 3284
+
+----
+
+Film: page://0kAw1PNKkjKg2Rgu
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: JpnOrw30U9vrSxni

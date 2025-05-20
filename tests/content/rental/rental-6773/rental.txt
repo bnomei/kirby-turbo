@@ -1,0 +1,25 @@
+Title: Rental 6773
+
+----
+
+Rental-id: 6773
+
+----
+
+Rental-date: 2005-07-12 15:55:39
+
+----
+
+Return-date: 2005-07-18 17:52:39
+
+----
+
+Inventory: page://wGj3zkWYQYUi6uKS
+
+----
+
+Uuid: FOH1Y8ZQAvdAZaWp
+
+----
+
+Customer: page://CGZMdA6lJNzUzePV

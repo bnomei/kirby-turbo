@@ -1,0 +1,17 @@
+Title: Inv 1063
+
+----
+
+Inventory-id: 1063
+
+----
+
+Film: page://uwgrdBpdfZ9uRtKs
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: fDw3tHATvSGtSr4N

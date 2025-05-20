@@ -1,0 +1,17 @@
+Title: Inv 708
+
+----
+
+Inventory-id: 708
+
+----
+
+Film: page://7iG7iKaB1YUU3AaN
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: dK0CSBUycmieLgKI

@@ -1,0 +1,17 @@
+Title: Inv 280
+
+----
+
+Inventory-id: 280
+
+----
+
+Film: page://n2gHXe96ti092q2R
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Tj2W0VA81VlAT4VP

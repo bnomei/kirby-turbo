@@ -1,0 +1,25 @@
+Title: Rental 15625
+
+----
+
+Rental-id: 15625
+
+----
+
+Rental-date: 2005-08-23 07:25:29
+
+----
+
+Return-date: 2005-08-27 13:17:29
+
+----
+
+Inventory: page://nX4YomDFYW47IxsE
+
+----
+
+Customer: page://wMkYUds0NaSHubNn
+
+----
+
+Uuid: eDVHqb89XynjfRfn

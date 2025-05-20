@@ -1,0 +1,25 @@
+Title: Rental 10816
+
+----
+
+Rental-id: 10816
+
+----
+
+Rental-date: 2005-08-01 22:48:57
+
+----
+
+Return-date: 2005-08-10 04:39:57
+
+----
+
+Inventory: page://N0gqkDPGvdocts8L
+
+----
+
+Customer: page://JdfsXlrnw5D9Ezlr
+
+----
+
+Uuid: cx2b9v5tbE2kiDwj

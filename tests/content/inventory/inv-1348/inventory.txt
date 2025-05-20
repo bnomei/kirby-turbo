@@ -1,0 +1,17 @@
+Title: Inv 1348
+
+----
+
+Inventory-id: 1348
+
+----
+
+Film: page://X7eSV1ibzb8Qiws1
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: tZPzaQM19kO7uDFS

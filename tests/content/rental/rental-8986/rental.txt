@@ -1,0 +1,25 @@
+Title: Rental 8986
+
+----
+
+Rental-id: 8986
+
+----
+
+Rental-date: 2005-07-30 04:37:20
+
+----
+
+Return-date: 2005-07-31 23:54:20
+
+----
+
+Inventory: page://UQLjDSBf54MHugPE
+
+----
+
+Customer: page://nT5wjEgKoa1UOpc8
+
+----
+
+Uuid: qcna1NNtMSO6PPtm

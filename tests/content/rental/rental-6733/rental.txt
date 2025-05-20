@@ -1,0 +1,25 @@
+Title: Rental 6733
+
+----
+
+Rental-id: 6733
+
+----
+
+Rental-date: 2005-07-12 14:04:01
+
+----
+
+Return-date: 2005-07-21 18:57:01
+
+----
+
+Inventory: page://EchM66OBtOVhqjeZ
+
+----
+
+Uuid: MfILx4Qphqs4omw0
+
+----
+
+Customer: page://SKKb5efZdNtiX2jG

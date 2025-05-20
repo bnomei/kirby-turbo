@@ -1,0 +1,25 @@
+Title: Rental 155
+
+----
+
+Rental-id: 155
+
+----
+
+Rental-date: 2005-05-26 01:15:05
+
+----
+
+Return-date: 2005-06-01 00:03:05
+
+----
+
+Inventory: page://WA7KSoh0MYqpifR6
+
+----
+
+Uuid: BXijvWGMuhzz8H9G
+
+----
+
+Customer: page://nT5wjEgKoa1UOpc8

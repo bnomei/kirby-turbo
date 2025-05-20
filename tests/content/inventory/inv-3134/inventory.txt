@@ -1,0 +1,17 @@
+Title: Inv 3134
+
+----
+
+Inventory-id: 3134
+
+----
+
+Film: page://jSpC3WqD5XmjfIWw
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Z4pPSTPxUWD1ArKh

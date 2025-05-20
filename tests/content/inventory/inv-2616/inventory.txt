@@ -1,0 +1,17 @@
+Title: Inv 2616
+
+----
+
+Inventory-id: 2616
+
+----
+
+Film: page://TFXc8fRfSEakHd9C
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: xrwGvnBuGeWKfmoa

@@ -1,0 +1,17 @@
+Title: Inv 2498
+
+----
+
+Inventory-id: 2498
+
+----
+
+Film: page://ye42nC8g5oTVQ0ZU
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ivBVa8fwp5mdYCLC

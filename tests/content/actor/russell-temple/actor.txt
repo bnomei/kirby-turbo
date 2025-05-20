@@ -1,0 +1,21 @@
+Title: RUSSELL TEMPLE
+
+----
+
+Actors: []
+
+----
+
+Actor-id: 149
+
+----
+
+First-name: RUSSELL
+
+----
+
+Last-name: TEMPLE
+
+----
+
+Uuid: 3BcvBP3gfacEDPsU

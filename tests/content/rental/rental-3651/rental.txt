@@ -1,0 +1,25 @@
+Title: Rental 3651
+
+----
+
+Rental-id: 3651
+
+----
+
+Rental-date: 2005-07-06 07:40:31
+
+----
+
+Return-date: 2005-07-08 03:39:31
+
+----
+
+Inventory: page://9N4O4CohUeGxx2V7
+
+----
+
+Uuid: ZsP4FvX5owCSYolw
+
+----
+
+Customer: page://rLSUHhRJgJCY5Nmr

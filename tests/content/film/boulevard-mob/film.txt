@@ -1,0 +1,46 @@
+Title: BOULEVARD MOB
+
+----
+
+Actors:
+
+- 'page://jG0aUFRzU1eFlO8R'
+- 'page://MKZPC2AFXFjwPRw8'
+- 'page://YBKuIiLT3VizSQRI'
+- 'page://LYJoMM1yt0Pr5l4j'
+- 'page://r6UF6pUyhmwAPzIH'
+- 'page://Gsxc5TuqHyoQn1c1'
+- 'page://k43wur9uhLztfZOP'
+- 'page://yg3e89enY7SGtRB6'
+
+----
+
+Film-id: 90
+
+----
+
+Description: A Fateful Epistle of a Moose And a Monkey who must Confront a Lumberjack in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 63
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: YwHDEXoq4La36FCX
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

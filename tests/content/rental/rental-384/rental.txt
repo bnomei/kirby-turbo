@@ -1,0 +1,25 @@
+Title: Rental 384
+
+----
+
+Rental-id: 384
+
+----
+
+Rental-date: 2005-05-27 10:18:20
+
+----
+
+Return-date: 2005-06-02 09:21:20
+
+----
+
+Inventory: page://OKpT3Kl7gXvKmJU8
+
+----
+
+Uuid: 2TPGiEgOLvC92vaQ
+
+----
+
+Customer: page://CWfw6rX3ydLvFm4G

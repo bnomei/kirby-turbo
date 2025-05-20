@@ -1,0 +1,17 @@
+Title: Inv 35
+
+----
+
+Inventory-id: 35
+
+----
+
+Film: page://nmYHiDwDPPC3rX1p
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: pdp6QcHMFAuAzueA

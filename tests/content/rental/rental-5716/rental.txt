@@ -1,0 +1,25 @@
+Title: Rental 5716
+
+----
+
+Rental-id: 5716
+
+----
+
+Rental-date: 2005-07-10 10:59:23
+
+----
+
+Return-date: 2005-07-16 12:25:23
+
+----
+
+Inventory: page://ZFKWu2TCdJ5dBsyd
+
+----
+
+Uuid: HktEzsCyqhu5JcJX
+
+----
+
+Customer: page://2XFuHwmZmBm0kuQs

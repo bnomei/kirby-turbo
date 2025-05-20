@@ -1,0 +1,25 @@
+Title: Rental 8800
+
+----
+
+Rental-id: 8800
+
+----
+
+Rental-date: 2005-07-29 21:18:59
+
+----
+
+Return-date: 2005-08-06 19:59:59
+
+----
+
+Inventory: page://RbO3N33JRtvKgbRE
+
+----
+
+Customer: page://wMkYUds0NaSHubNn
+
+----
+
+Uuid: x3uikuFPce7SSZzF

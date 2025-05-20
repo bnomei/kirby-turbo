@@ -1,0 +1,17 @@
+Title: Inv 1435
+
+----
+
+Inventory-id: 1435
+
+----
+
+Film: page://Fmj4TUluZlJEgCnU
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 4fCrxpFVm9xXakmo

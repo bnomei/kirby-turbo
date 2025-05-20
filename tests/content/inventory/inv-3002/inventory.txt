@@ -1,0 +1,17 @@
+Title: Inv 3002
+
+----
+
+Inventory-id: 3002
+
+----
+
+Film: page://KOYLfJgzTKApEtFJ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: zhUyXpRjMRHfHXci

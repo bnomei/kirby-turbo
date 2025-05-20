@@ -1,0 +1,17 @@
+Title: Inv 1975
+
+----
+
+Inventory-id: 1975
+
+----
+
+Film: page://Ub4ojo390AAS6GUT
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 91OY8OwCO8gL6QHW

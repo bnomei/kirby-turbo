@@ -1,0 +1,25 @@
+Title: Rental 429
+
+----
+
+Rental-id: 429
+
+----
+
+Rental-date: 2005-05-27 16:21:26
+
+----
+
+Return-date: 2005-06-05 20:23:26
+
+----
+
+Inventory: page://Czs341PWvU2X9GhZ
+
+----
+
+Uuid: ZVpp9ufZK6pSnaHD
+
+----
+
+Customer: page://2lQ4vbsZnRXuEptp

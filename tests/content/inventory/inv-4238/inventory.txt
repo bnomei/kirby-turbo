@@ -1,0 +1,17 @@
+Title: Inv 4238
+
+----
+
+Inventory-id: 4238
+
+----
+
+Film: page://y8BuDfsEAT5aJhE5
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: jeu6wb3xQGXdDMdE

@@ -1,0 +1,44 @@
+Title: DOCTOR GRAIL
+
+----
+
+Actors:
+
+- 'page://nx1fXkDUW4gS66DW'
+- 'page://MokGIRk1MnOR5ecX'
+- 'page://rnDcbekdB8oOqt97'
+- 'page://DJVklNozM1l2RK0x'
+- 'page://q6i5HOIdG8dGz8Im'
+- 'page://CBtLT02Rklp5i11L'
+
+----
+
+Film-id: 238
+
+----
+
+Description: A Insightful Drama of a Womanizer And a Waitress who must Reach a Forensic Psychologist in The Outback
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 57
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: GSA3cw3HVidSJ3u3
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

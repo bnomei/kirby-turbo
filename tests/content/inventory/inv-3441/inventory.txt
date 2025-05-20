@@ -1,0 +1,17 @@
+Title: Inv 3441
+
+----
+
+Inventory-id: 3441
+
+----
+
+Film: page://A95ARFcGJfxAChNi
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: FYT6iUCojzvhmfaD

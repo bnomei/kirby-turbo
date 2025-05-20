@@ -1,0 +1,17 @@
+Title: Inv 3911
+
+----
+
+Inventory-id: 3911
+
+----
+
+Film: page://DXa4uoi0vrBz7pFV
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: bDayyafnJYs3dkkE

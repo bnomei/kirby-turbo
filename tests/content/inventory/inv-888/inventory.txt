@@ -1,0 +1,17 @@
+Title: Inv 888
+
+----
+
+Inventory-id: 888
+
+----
+
+Film: page://DDFWUj57QnR4PLle
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: yNJufj3oj405sAD2

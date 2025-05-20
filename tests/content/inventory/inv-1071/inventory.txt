@@ -1,0 +1,17 @@
+Title: Inv 1071
+
+----
+
+Inventory-id: 1071
+
+----
+
+Film: page://cIUV5g7wlc27Eqrh
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: tWISP8EaaugrV5aV

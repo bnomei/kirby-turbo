@@ -1,0 +1,33 @@
+Title: RANDALL NEUMANN
+
+----
+
+Customer-id: 437
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: RANDALL
+
+----
+
+Last-name: NEUMANN
+
+----
+
+Email: RANDALL.NEUMANN@sakilacustomer.org
+
+----
+
+Address: page://axTubnaTvCe0zJCW
+
+----
+
+Active: 1
+
+----
+
+Uuid: PRxS4w02V4uKvZWV

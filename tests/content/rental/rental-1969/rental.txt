@@ -1,0 +1,25 @@
+Title: Rental 1969
+
+----
+
+Rental-id: 1969
+
+----
+
+Rental-date: 2005-06-17 09:22:22
+
+----
+
+Return-date: 2005-06-21 05:31:22
+
+----
+
+Inventory: page://iRbKISfHpaKtXRxJ
+
+----
+
+Uuid: S6w3SqdCGEqX20dQ
+
+----
+
+Customer: page://ZMPHt1kBgzua3Tmb

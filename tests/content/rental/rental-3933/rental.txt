@@ -1,0 +1,25 @@
+Title: Rental 3933
+
+----
+
+Rental-id: 3933
+
+----
+
+Rental-date: 2005-07-06 21:06:37
+
+----
+
+Return-date: 2005-07-08 20:23:37
+
+----
+
+Inventory: page://IjOKLHZkSEXNBusq
+
+----
+
+Uuid: VeMYhutLY91vQRu5
+
+----
+
+Customer: page://PbJRKou2oblU77A7

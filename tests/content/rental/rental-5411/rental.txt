@@ -1,0 +1,25 @@
+Title: Rental 5411
+
+----
+
+Rental-id: 5411
+
+----
+
+Rental-date: 2005-07-09 20:23:38
+
+----
+
+Return-date: 2005-07-16 01:17:38
+
+----
+
+Inventory: page://VCR93IyjfBpHuuvU
+
+----
+
+Uuid: gv9VMNExX7fr7PDY
+
+----
+
+Customer: page://MpSgiAIrJd9YlrCV

@@ -1,0 +1,17 @@
+Title: Inv 2815
+
+----
+
+Inventory-id: 2815
+
+----
+
+Film: page://XpqKP1d8q1RYw2NO
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: m9OarvghnjQQHSiR

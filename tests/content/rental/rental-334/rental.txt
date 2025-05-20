@@ -1,0 +1,25 @@
+Title: Rental 334
+
+----
+
+Rental-id: 334
+
+----
+
+Rental-date: 2005-05-27 03:03:07
+
+----
+
+Return-date: 2005-05-29 03:54:07
+
+----
+
+Inventory: page://z5gGyUW0piDLVi5b
+
+----
+
+Uuid: mXKRb4O3RroNeCUg
+
+----
+
+Customer: page://3WUOY4VXzpqWI6NO

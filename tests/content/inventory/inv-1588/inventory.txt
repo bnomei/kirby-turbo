@@ -1,0 +1,17 @@
+Title: Inv 1588
+
+----
+
+Inventory-id: 1588
+
+----
+
+Film: page://tYaxzq7TFpNqD90b
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: nW8d3y9MgoFZhAAq

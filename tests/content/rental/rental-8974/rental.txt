@@ -1,0 +1,25 @@
+Title: Rental 8974
+
+----
+
+Rental-id: 8974
+
+----
+
+Rental-date: 2005-07-30 04:09:16
+
+----
+
+Return-date: 2005-08-04 06:55:16
+
+----
+
+Inventory: page://E9wDvXvakidlQYhE
+
+----
+
+Customer: page://Tk6dRJV6KbPM8ESQ
+
+----
+
+Uuid: svzgAAu06SFjQs4j

@@ -1,0 +1,17 @@
+Title: Inv 1009
+
+----
+
+Inventory-id: 1009
+
+----
+
+Film: page://mISz5LfGO1wZEfg8
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: LxsxeEjr28CRQ6oe

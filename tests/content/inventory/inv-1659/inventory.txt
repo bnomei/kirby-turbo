@@ -1,0 +1,17 @@
+Title: Inv 1659
+
+----
+
+Inventory-id: 1659
+
+----
+
+Film: page://5cKWlk3wYX2mi6As
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: r9jaFL1m2kVMduZJ

@@ -1,0 +1,25 @@
+Title: Rental 456
+
+----
+
+Rental-id: 456
+
+----
+
+Rental-date: 2005-05-27 19:50:06
+
+----
+
+Return-date: 2005-06-02 22:14:06
+
+----
+
+Inventory: page://ANQlT2Rvvtkd3HCO
+
+----
+
+Uuid: LbOMuDS63Sr444wf
+
+----
+
+Customer: page://4x9Op7aGVprxBkqV

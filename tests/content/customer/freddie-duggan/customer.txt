@@ -1,0 +1,33 @@
+Title: FREDDIE DUGGAN
+
+----
+
+Customer-id: 597
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: FREDDIE
+
+----
+
+Last-name: DUGGAN
+
+----
+
+Email: FREDDIE.DUGGAN@sakilacustomer.org
+
+----
+
+Address: page://4xSjwzLhM2GN0XCZ
+
+----
+
+Active: 1
+
+----
+
+Uuid: zIyxrm1tFzZPIrxF

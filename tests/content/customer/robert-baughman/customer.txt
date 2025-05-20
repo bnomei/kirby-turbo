@@ -1,0 +1,33 @@
+Title: ROBERT BAUGHMAN
+
+----
+
+Customer-id: 301
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ROBERT
+
+----
+
+Last-name: BAUGHMAN
+
+----
+
+Email: ROBERT.BAUGHMAN@sakilacustomer.org
+
+----
+
+Address: page://ClYTNVRcUbPeUjh6
+
+----
+
+Active: 1
+
+----
+
+Uuid: d4uyJxb6OPu5hZso

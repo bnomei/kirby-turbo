@@ -1,0 +1,25 @@
+Title: Rental 8273
+
+----
+
+Rental-id: 8273
+
+----
+
+Rental-date: 2005-07-29 01:33:16
+
+----
+
+Return-date: 2005-08-06 04:26:16
+
+----
+
+Inventory: page://zTTUbzb6FAIZ0zW5
+
+----
+
+Customer: page://jNinHUxNSvO3KbCp
+
+----
+
+Uuid: SXKMDhiZ6fAkNttf

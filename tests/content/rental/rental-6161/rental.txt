@@ -1,0 +1,25 @@
+Title: Rental 6161
+
+----
+
+Rental-id: 6161
+
+----
+
+Rental-date: 2005-07-11 10:11:54
+
+----
+
+Return-date: 2005-07-15 12:12:54
+
+----
+
+Inventory: page://6oYr2xqc6i2OTSIe
+
+----
+
+Uuid: gWhRHfriCwh8926c
+
+----
+
+Customer: page://DVIVTmAM0LOCEI7a

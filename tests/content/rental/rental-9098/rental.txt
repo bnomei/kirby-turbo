@@ -1,0 +1,25 @@
+Title: Rental 9098
+
+----
+
+Rental-id: 9098
+
+----
+
+Rental-date: 2005-07-30 08:44:21
+
+----
+
+Return-date: 2005-08-08 12:31:21
+
+----
+
+Inventory: page://dwPmMR8U7JjoKY0z
+
+----
+
+Customer: page://rug4r6NdvQakm9EC
+
+----
+
+Uuid: bwtBBZGxZs470kpa

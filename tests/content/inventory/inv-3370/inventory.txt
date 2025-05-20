@@ -1,0 +1,17 @@
+Title: Inv 3370
+
+----
+
+Inventory-id: 3370
+
+----
+
+Film: page://2pmbZu2tomx861FS
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 2zbJP0pyUtHcfnrd

@@ -1,0 +1,33 @@
+Title: CLYDE TOBIAS
+
+----
+
+Customer-id: 485
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CLYDE
+
+----
+
+Last-name: TOBIAS
+
+----
+
+Email: CLYDE.TOBIAS@sakilacustomer.org
+
+----
+
+Address: page://FbRoJiy2n1fHuVK0
+
+----
+
+Active: 1
+
+----
+
+Uuid: HENTXL1iEV8LJg7f

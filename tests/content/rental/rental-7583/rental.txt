@@ -1,0 +1,25 @@
+Title: Rental 7583
+
+----
+
+Rental-id: 7583
+
+----
+
+Rental-date: 2005-07-27 23:15:22
+
+----
+
+Return-date: 2005-08-04 04:39:22
+
+----
+
+Inventory: page://DU9D0wUPYgmU7Pm8
+
+----
+
+Customer: page://RoYFWCky1f4iZ5Q3
+
+----
+
+Uuid: QS2NSzqdvPG1uQlc

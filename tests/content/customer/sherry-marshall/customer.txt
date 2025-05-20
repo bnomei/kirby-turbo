@@ -1,0 +1,33 @@
+Title: SHERRY MARSHALL
+
+----
+
+Customer-id: 119
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: SHERRY
+
+----
+
+Last-name: MARSHALL
+
+----
+
+Email: SHERRY.MARSHALL@sakilacustomer.org
+
+----
+
+Address: page://nexV6Mnc4VvHDS3O
+
+----
+
+Active: 1
+
+----
+
+Uuid: 9bytxFo8pm9kA4Nc

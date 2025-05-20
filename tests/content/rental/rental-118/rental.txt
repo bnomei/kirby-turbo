@@ -1,0 +1,25 @@
+Title: Rental 118
+
+----
+
+Rental-id: 118
+
+----
+
+Rental-date: 2005-05-25 19:31:18
+
+----
+
+Return-date: 2005-05-31 15:00:18
+
+----
+
+Inventory: page://P7sj64uVvkK7HXKT
+
+----
+
+Uuid: l9pIVbc3U7kgswLn
+
+----
+
+Customer: page://DVIVTmAM0LOCEI7a

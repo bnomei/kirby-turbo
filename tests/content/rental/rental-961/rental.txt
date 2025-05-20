@@ -1,0 +1,25 @@
+Title: Rental 961
+
+----
+
+Rental-id: 961
+
+----
+
+Rental-date: 2005-05-30 18:16:44
+
+----
+
+Return-date: 2005-06-04 23:40:44
+
+----
+
+Inventory: page://ThvoI0SasrVo7V3V
+
+----
+
+Uuid: TnVXIMKwQ6FpHmop
+
+----
+
+Customer: page://cxaxfUF1lmAT9qO9

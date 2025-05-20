@@ -1,0 +1,25 @@
+Title: Rental 5686
+
+----
+
+Rental-id: 5686
+
+----
+
+Rental-date: 2005-07-10 09:06:03
+
+----
+
+Return-date: 2005-07-11 10:59:03
+
+----
+
+Inventory: page://teMKusRvdyr4RDZu
+
+----
+
+Uuid: 53UsGbkqwlPavTkr
+
+----
+
+Customer: page://n1tj3686KMQn13h6

@@ -1,0 +1,25 @@
+Title: Rental 6957
+
+----
+
+Rental-id: 6957
+
+----
+
+Rental-date: 2005-07-27 00:00:00
+
+----
+
+Return-date: 2005-07-29 19:32:00
+
+----
+
+Inventory: page://A46cuOS0AMvm7Tob
+
+----
+
+Customer: page://C3xdWMfnsFmTRrLo
+
+----
+
+Uuid: uWp9oqSsjpCbAAV5

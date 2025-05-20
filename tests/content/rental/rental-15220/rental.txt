@@ -1,0 +1,25 @@
+Title: Rental 15220
+
+----
+
+Rental-id: 15220
+
+----
+
+Rental-date: 2005-08-22 17:02:23
+
+----
+
+Return-date: 2005-08-28 21:02:23
+
+----
+
+Inventory: page://hqf2106WBwPWhf7s
+
+----
+
+Customer: page://F0Kktb9GQCAISqtj
+
+----
+
+Uuid: HNQnDaNOZLbh8iTi

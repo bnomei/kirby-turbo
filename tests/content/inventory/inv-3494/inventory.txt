@@ -1,0 +1,17 @@
+Title: Inv 3494
+
+----
+
+Inventory-id: 3494
+
+----
+
+Film: page://VlPZniHiSztz1Eiy
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Jt8QCgiBbGfjg67Y

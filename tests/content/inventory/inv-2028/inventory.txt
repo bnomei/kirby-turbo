@@ -1,0 +1,17 @@
+Title: Inv 2028
+
+----
+
+Inventory-id: 2028
+
+----
+
+Film: page://4I4kXi91waqF1W2k
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: jkHJLEhWNOn354KC

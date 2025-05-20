@@ -1,0 +1,33 @@
+Title: BILLIE HORTON
+
+----
+
+Customer-id: 278
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: BILLIE
+
+----
+
+Last-name: HORTON
+
+----
+
+Email: BILLIE.HORTON@sakilacustomer.org
+
+----
+
+Address: page://wd0uYzMn5cDSnTvV
+
+----
+
+Active: 1
+
+----
+
+Uuid: vaqk23hYrE8PQvH5

@@ -1,0 +1,25 @@
+Title: Rental 15366
+
+----
+
+Rental-id: 15366
+
+----
+
+Rental-date: 2005-08-22 21:45:57
+
+----
+
+Return-date: 2005-08-30 16:35:57
+
+----
+
+Inventory: page://BXQbD6xXJg9l0dOd
+
+----
+
+Customer: page://T8FvGnbHYCWqhKEc
+
+----
+
+Uuid: KOEUyQTcBs7c4UIW

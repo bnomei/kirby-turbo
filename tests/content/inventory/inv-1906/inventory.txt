@@ -1,0 +1,17 @@
+Title: Inv 1906
+
+----
+
+Inventory-id: 1906
+
+----
+
+Film: page://s7ivWgguXN0zexZS
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: kuP8TzFw0thXVF6R

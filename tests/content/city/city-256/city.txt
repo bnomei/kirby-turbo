@@ -1,0 +1,17 @@
+Title: Kamakura
+
+----
+
+City-id: 256
+
+----
+
+City: Kamakura
+
+----
+
+Country: page://XEyP9uxOgFESeyaK
+
+----
+
+Uuid: IaKW77U7mQPhMQDj

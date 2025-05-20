@@ -1,0 +1,25 @@
+Title: Rental 6843
+
+----
+
+Rental-id: 6843
+
+----
+
+Rental-date: 2005-07-12 19:14:05
+
+----
+
+Return-date: 2005-07-20 23:15:05
+
+----
+
+Inventory: page://LUnREA7JMltzhFHn
+
+----
+
+Customer: page://xiuePi4NIEUJXUwz
+
+----
+
+Uuid: hawSMZk64Qrnw7n1

@@ -1,0 +1,25 @@
+Title: Rental 2506
+
+----
+
+Rental-id: 2506
+
+----
+
+Rental-date: 2005-06-18 23:29:53
+
+----
+
+Return-date: 2005-06-25 18:11:53
+
+----
+
+Inventory: page://YtEhxyDDVjLgTGeK
+
+----
+
+Uuid: khC0LSFi0DMUBYvb
+
+----
+
+Customer: page://HwY6ZsDzzk6bcaJh

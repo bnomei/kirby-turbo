@@ -1,0 +1,25 @@
+Title: Rental 4107
+
+----
+
+Rental-id: 4107
+
+----
+
+Rental-date: 2005-07-07 06:36:32
+
+----
+
+Return-date: 2005-07-14 03:36:32
+
+----
+
+Inventory: page://mc4Qhhkt4FPtQNda
+
+----
+
+Uuid: 4S0I5P0105UwyPPy
+
+----
+
+Customer: page://sGInB7tHdn5ONvtH

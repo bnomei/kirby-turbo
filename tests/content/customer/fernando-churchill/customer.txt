@@ -1,0 +1,33 @@
+Title: FERNANDO CHURCHILL
+
+----
+
+Customer-id: 536
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: FERNANDO
+
+----
+
+Last-name: CHURCHILL
+
+----
+
+Email: FERNANDO.CHURCHILL@sakilacustomer.org
+
+----
+
+Address: page://akpRexXF1g5oC90g
+
+----
+
+Active: 1
+
+----
+
+Uuid: lw8mwYqihkZrAQDL

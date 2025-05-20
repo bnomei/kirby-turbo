@@ -1,0 +1,25 @@
+Title: Rental 1387
+
+----
+
+Rental-id: 1387
+
+----
+
+Rental-date: 2005-06-15 15:40:56
+
+----
+
+Return-date: 2005-06-17 10:39:56
+
+----
+
+Inventory: page://nUp8hf1Eq4IKRPyN
+
+----
+
+Uuid: hK1fsX8sQ4gR0m41
+
+----
+
+Customer: page://vaqk23hYrE8PQvH5

@@ -1,0 +1,25 @@
+Title: Rental 5680
+
+----
+
+Rental-id: 5680
+
+----
+
+Rental-date: 2005-07-10 08:47:36
+
+----
+
+Return-date: 2005-07-17 06:10:36
+
+----
+
+Inventory: page://xuCHOg41kQKQncwD
+
+----
+
+Uuid: dm6nKGvPtTMTyXQ9
+
+----
+
+Customer: page://aR5C6yOEP2AWS3bi

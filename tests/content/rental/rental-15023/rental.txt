@@ -1,0 +1,25 @@
+Title: Rental 15023
+
+----
+
+Rental-id: 15023
+
+----
+
+Rental-date: 2005-08-22 08:56:48
+
+----
+
+Return-date: 2005-08-29 08:13:48
+
+----
+
+Inventory: page://hnmFc2b3ATqDY1Dc
+
+----
+
+Customer: page://UxrVUUMWkjZpGsKW
+
+----
+
+Uuid: LBVvGGCW1aIw6nWc

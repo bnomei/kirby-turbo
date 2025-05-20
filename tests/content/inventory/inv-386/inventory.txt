@@ -1,0 +1,17 @@
+Title: Inv 386
+
+----
+
+Inventory-id: 386
+
+----
+
+Film: page://fmg4eBmcOyFDSDag
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: g7C3TXuzn8K9L9pi

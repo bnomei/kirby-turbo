@@ -1,0 +1,17 @@
+Title: Shahr-e Kord
+
+----
+
+City-id: 467
+
+----
+
+City: Shahr-e Kord
+
+----
+
+Country: page://I2v5b5XJbf0y6bi3
+
+----
+
+Uuid: ucJhWOHQpy6jXJKI

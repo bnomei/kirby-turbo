@@ -1,0 +1,25 @@
+Title: Rental 497
+
+----
+
+Rental-id: 497
+
+----
+
+Rental-date: 2005-05-28 00:54:39
+
+----
+
+Return-date: 2005-06-03 20:47:39
+
+----
+
+Inventory: page://Dy5I8Uf2G8h51uP7
+
+----
+
+Uuid: X33b1LTK3JCFnVJm
+
+----
+
+Customer: page://M8eRI142xjYReqze

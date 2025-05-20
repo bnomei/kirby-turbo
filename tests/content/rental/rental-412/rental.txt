@@ -1,0 +1,25 @@
+Title: Rental 412
+
+----
+
+Rental-id: 412
+
+----
+
+Rental-date: 2005-05-27 14:17:23
+
+----
+
+Return-date: 2005-05-29 15:07:23
+
+----
+
+Inventory: page://dfvDjq27tIr98D9y
+
+----
+
+Uuid: gsXPcNSmMWyuq9Vg
+
+----
+
+Customer: page://sXFRFNABQAAwfZCO

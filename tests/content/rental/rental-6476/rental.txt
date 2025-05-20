@@ -1,0 +1,25 @@
+Title: Rental 6476
+
+----
+
+Rental-id: 6476
+
+----
+
+Rental-date: 2005-07-12 01:37:48
+
+----
+
+Return-date: 2005-07-12 20:21:48
+
+----
+
+Inventory: page://rp9HC2n2OnhiLn4U
+
+----
+
+Uuid: jjwxX7ZJugsNe7Z2
+
+----
+
+Customer: page://9GMMxk4OJQFuLIWJ

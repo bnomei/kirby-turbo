@@ -1,0 +1,17 @@
+Title: Inv 3665
+
+----
+
+Inventory-id: 3665
+
+----
+
+Film: page://VfePIjEhPcDkrGU8
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: umhSa03k7cMOf7qw

@@ -1,0 +1,25 @@
+Title: Rental 10480
+
+----
+
+Rental-id: 10480
+
+----
+
+Rental-date: 2005-08-01 10:13:41
+
+----
+
+Return-date: 2005-08-03 10:27:41
+
+----
+
+Inventory: page://XPBwMLHaZx4vY77u
+
+----
+
+Customer: page://HpeLAHrM5mtnQogB
+
+----
+
+Uuid: OMvJ2DiWegxYrHJs

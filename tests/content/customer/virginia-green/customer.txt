@@ -1,0 +1,33 @@
+Title: VIRGINIA GREEN
+
+----
+
+Customer-id: 35
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: VIRGINIA
+
+----
+
+Last-name: GREEN
+
+----
+
+Email: VIRGINIA.GREEN@sakilacustomer.org
+
+----
+
+Address: page://c011khysdHPbstFM
+
+----
+
+Active: 1
+
+----
+
+Uuid: G5MahFW7vTJhSf6a

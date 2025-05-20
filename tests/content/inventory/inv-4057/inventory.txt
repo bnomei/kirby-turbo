@@ -1,0 +1,17 @@
+Title: Inv 4057
+
+----
+
+Inventory-id: 4057
+
+----
+
+Film: page://6fjacN79GdCySlpQ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: sdlfnPPLLRc4ez5j

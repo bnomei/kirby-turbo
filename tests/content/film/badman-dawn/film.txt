@@ -1,0 +1,46 @@
+Title: BADMAN DAWN
+
+----
+
+Actors:
+
+- 'page://S8UoUinBIsjzumVd'
+- 'page://T2A5mLQSqhcfEEMm'
+- 'page://8sAZxgGEUjJot3JV'
+- 'page://ltHX2Lf4QT72ZiqX'
+- 'page://Sl1QfOYn2gZWMd2L'
+- 'page://hzpjO6QvzfyB1LBD'
+- 'page://j4GwVyPWyXE95Bdj'
+- 'page://DwMOxcgjVYPNg15d'
+
+----
+
+Film-id: 49
+
+----
+
+Description: A Emotional Panorama of a Pioneer And a Composer who must Escape a Mad Scientist in A Jet Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 162
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: WXq95CIaw2UE281Z
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

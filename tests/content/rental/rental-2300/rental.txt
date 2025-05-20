@@ -1,0 +1,25 @@
+Title: Rental 2300
+
+----
+
+Rental-id: 2300
+
+----
+
+Rental-date: 2005-06-18 08:22:34
+
+----
+
+Return-date: 2005-06-24 04:51:34
+
+----
+
+Inventory: page://6lws4sqUuxHFlkDu
+
+----
+
+Uuid: uqZ4crZ9vyP5WtUf
+
+----
+
+Customer: page://nUS9IDqP0XmLpG9F

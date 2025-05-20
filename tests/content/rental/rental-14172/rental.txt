@@ -1,0 +1,21 @@
+Title: Rental 14172
+
+----
+
+Rental-id: 14172
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://U669juOsgSeP5gs2
+
+----
+
+Customer: page://iEI8EkTsORmGUdqi
+
+----
+
+Uuid: mTgk7LI4KAvpKrX2

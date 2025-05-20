@@ -1,0 +1,45 @@
+Title: LIBERTY MAGNIFICENT
+
+----
+
+Actors:
+
+- 'page://qGB9wRd16f9YwbHn'
+- 'page://AvkKtwk9lLurZvzW'
+- 'page://JrsbillMdFUVLTOe'
+- 'page://S8UoUinBIsjzumVd'
+- 'page://s69sG8lNdmqtvA7p'
+- 'page://18rsmrxh7jfYQ50K'
+- 'page://Q7LFBcb3oEdhSO9W'
+
+----
+
+Film-id: 519
+
+----
+
+Description: A Boring Drama of a Student And a Cat who must Sink a Technical Writer in A Baloon
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 138
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: 7yHz5H1jX29qUYgS
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

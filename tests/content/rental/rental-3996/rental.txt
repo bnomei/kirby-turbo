@@ -1,0 +1,25 @@
+Title: Rental 3996
+
+----
+
+Rental-id: 3996
+
+----
+
+Rental-date: 2005-07-06 23:46:43
+
+----
+
+Return-date: 2005-07-14 22:34:43
+
+----
+
+Inventory: page://GnbZANndiVV0aRbo
+
+----
+
+Uuid: ICTEzG5TpAjb1Ubi
+
+----
+
+Customer: page://nT5wjEgKoa1UOpc8

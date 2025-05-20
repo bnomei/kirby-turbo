@@ -1,0 +1,17 @@
+Title: Inv 36
+
+----
+
+Inventory-id: 36
+
+----
+
+Film: page://nmYHiDwDPPC3rX1p
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: nRqv9YtoYLi3Uuux

@@ -1,0 +1,46 @@
+Title: COMMAND DARLING
+
+----
+
+Actors:
+
+- 'page://V2PTX56N00hKjCOa'
+- 'page://GA1ldK0BGihIEfd4'
+- 'page://yhATHnZqo4RzYS83'
+- 'page://IR4s9CmH1R8G51Ej'
+- 'page://1JHTierDMQdVCXSe'
+- 'page://Gsxc5TuqHyoQn1c1'
+- 'page://m11q5cdDfIefOEY5'
+- 'page://nfzjlyLmEQ6Q1S80'
+
+----
+
+Film-id: 170
+
+----
+
+Description: A Awe-Inspiring Tale of a Forensic Psychologist And a Woman who must Challenge a Database Administrator in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 120
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: JkW7m02yeXJO7TMU
+
+----
+
+Categories: - 'page://1zSlwtq2IyzVh9Hs'

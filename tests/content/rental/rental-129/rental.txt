@@ -1,0 +1,25 @@
+Title: Rental 129
+
+----
+
+Rental-id: 129
+
+----
+
+Rental-date: 2005-05-25 21:20:03
+
+----
+
+Return-date: 2005-06-04 01:25:03
+
+----
+
+Inventory: page://IIh5x8GN2mpJZQkN
+
+----
+
+Uuid: nX4GAAouj5HehsIz
+
+----
+
+Customer: page://z6KsbN8IOhSoB7GT

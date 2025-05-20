@@ -1,0 +1,25 @@
+Title: Rental 1847
+
+----
+
+Rental-id: 1847
+
+----
+
+Rental-date: 2005-06-17 00:05:22
+
+----
+
+Return-date: 2005-06-20 21:09:22
+
+----
+
+Inventory: page://VAoe281CjxbcQeBQ
+
+----
+
+Uuid: tmo0FaWHWWQYC4z6
+
+----
+
+Customer: page://qWf2WdBnN3xSlT1B

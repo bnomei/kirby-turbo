@@ -1,0 +1,40 @@
+Title: SOUP WISDOM
+
+----
+
+Actors:
+
+- 'page://6jpBKUOTpGMSQxJe'
+- 'page://eZEz0vHTFLlEKlUs'
+
+----
+
+Film-id: 822
+
+----
+
+Description: A Fast-Paced Display of a Robot And a Butler who must Defeat a Butler in A MySQL Convention
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 169
+
+----
+
+Rating: R
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: 1O3L2VmhuZbhRQxQ
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

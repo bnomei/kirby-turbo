@@ -1,0 +1,25 @@
+Title: Rental 7178
+
+----
+
+Rental-id: 7178
+
+----
+
+Rental-date: 2005-07-27 08:09:25
+
+----
+
+Return-date: 2005-07-29 13:00:25
+
+----
+
+Inventory: page://M9ElCHp9akwbonCF
+
+----
+
+Customer: page://l2Jzx2MX7M9qrgyM
+
+----
+
+Uuid: zbEsh5dqsvQ585Qv

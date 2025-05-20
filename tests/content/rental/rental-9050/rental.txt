@@ -1,0 +1,25 @@
+Title: Rental 9050
+
+----
+
+Rental-id: 9050
+
+----
+
+Rental-date: 2005-07-30 06:59:55
+
+----
+
+Return-date: 2005-08-06 06:37:55
+
+----
+
+Inventory: page://HpQneDW4w9J99tLL
+
+----
+
+Customer: page://mKUSHxTkOIWhbbql
+
+----
+
+Uuid: xZkFdPxq0w5fgNQP

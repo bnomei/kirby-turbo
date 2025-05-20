@@ -1,0 +1,25 @@
+Title: Rental 12646
+
+----
+
+Rental-id: 12646
+
+----
+
+Rental-date: 2005-08-18 18:25:06
+
+----
+
+Return-date: 2005-08-24 18:45:06
+
+----
+
+Inventory: page://H7uLFezufdfucRL2
+
+----
+
+Customer: page://dkuwbLEfkaF29Y6o
+
+----
+
+Uuid: 5ezuL4mhZ2xQ4G6V

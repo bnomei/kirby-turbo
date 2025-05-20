@@ -1,0 +1,17 @@
+Title: Inv 4349
+
+----
+
+Inventory-id: 4349
+
+----
+
+Film: page://z5ZmTXM5Y5iCD3Pc
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: xJoIivaikIFpyZnH

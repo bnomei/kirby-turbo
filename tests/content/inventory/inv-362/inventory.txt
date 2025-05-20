@@ -1,0 +1,17 @@
+Title: Inv 362
+
+----
+
+Inventory-id: 362
+
+----
+
+Film: page://5Uu2aOKmthpeLUbJ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 9fyHSJ8NgICZvFak

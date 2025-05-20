@@ -1,0 +1,45 @@
+Title: THIEF PELICAN
+
+----
+
+Actors:
+
+- 'page://rWwSmn6uTovtpXae'
+- 'page://JR0gbBMz8ekt1gGa'
+- 'page://nx1fXkDUW4gS66DW'
+- 'page://RvgM0TLzgQDo6vY7'
+- 'page://T2A5mLQSqhcfEEMm'
+- 'page://6LG8mbCuu1aKuRcl'
+- 'page://uyiPyWfxhKFdwYKL'
+
+----
+
+Film-id: 887
+
+----
+
+Description: A Touching Documentary of a Madman And a Mad Scientist who must Outrace a Feminist in An Abandoned Mine Shaft
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 135
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: Mk00fN7mmOAZR9j4
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

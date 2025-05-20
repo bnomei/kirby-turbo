@@ -1,0 +1,25 @@
+Title: Rental 6436
+
+----
+
+Rental-id: 6436
+
+----
+
+Rental-date: 2005-07-12 00:18:42
+
+----
+
+Return-date: 2005-07-13 03:57:42
+
+----
+
+Inventory: page://9odJsMRMPUcwjKCW
+
+----
+
+Uuid: LqPdAT1fU9ksLvGK
+
+----
+
+Customer: page://0WnExrtDVR9K4b8X

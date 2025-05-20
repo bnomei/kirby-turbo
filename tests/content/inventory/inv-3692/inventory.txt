@@ -1,0 +1,17 @@
+Title: Inv 3692
+
+----
+
+Inventory-id: 3692
+
+----
+
+Film: page://5oG1iQBEBTq5Gusj
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: wam2tjEmXbGKGJmy

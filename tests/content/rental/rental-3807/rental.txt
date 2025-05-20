@@ -1,0 +1,25 @@
+Title: Rental 3807
+
+----
+
+Rental-id: 3807
+
+----
+
+Rental-date: 2005-07-06 15:11:44
+
+----
+
+Return-date: 2005-07-10 09:20:44
+
+----
+
+Inventory: page://ShI34z0i75iEpPXa
+
+----
+
+Uuid: 7AZMBObBcqaPpzHG
+
+----
+
+Customer: page://Tk6dRJV6KbPM8ESQ

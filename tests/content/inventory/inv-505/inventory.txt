@@ -1,0 +1,17 @@
+Title: Inv 505
+
+----
+
+Inventory-id: 505
+
+----
+
+Film: page://24vIA343bLpsgbSu
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: XizqESn1V568nWHL

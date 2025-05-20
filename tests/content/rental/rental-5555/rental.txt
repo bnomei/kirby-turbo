@@ -1,0 +1,25 @@
+Title: Rental 5555
+
+----
+
+Rental-id: 5555
+
+----
+
+Rental-date: 2005-07-10 03:08:55
+
+----
+
+Return-date: 2005-07-11 01:36:55
+
+----
+
+Inventory: page://IltFFHJ7u0qkM5J7
+
+----
+
+Uuid: AmB3mFHEFy26UQ8s
+
+----
+
+Customer: page://bZY1vsN3giMcQSdf

@@ -1,0 +1,25 @@
+Title: Rental 1643
+
+----
+
+Rental-id: 1643
+
+----
+
+Rental-date: 2005-06-16 08:55:35
+
+----
+
+Return-date: 2005-06-21 05:36:35
+
+----
+
+Inventory: page://TIBcjzFVHUNB8Gcx
+
+----
+
+Uuid: mb0iRnczJGFn0ntF
+
+----
+
+Customer: page://rMm0jN6bFHVs2tRk

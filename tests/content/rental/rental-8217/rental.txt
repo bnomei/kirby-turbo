@@ -1,0 +1,25 @@
+Title: Rental 8217
+
+----
+
+Rental-id: 8217
+
+----
+
+Rental-date: 2005-07-28 23:44:13
+
+----
+
+Return-date: 2005-08-03 21:27:13
+
+----
+
+Inventory: page://FDT64qBtBVD9GndE
+
+----
+
+Customer: page://sGInB7tHdn5ONvtH
+
+----
+
+Uuid: XtUihuZMVtZaWs8j

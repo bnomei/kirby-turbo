@@ -1,0 +1,17 @@
+Title: Inv 1888
+
+----
+
+Inventory-id: 1888
+
+----
+
+Film: page://aUafI4t8XSgIFtTE
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: CJjAQTHtInebwpqp

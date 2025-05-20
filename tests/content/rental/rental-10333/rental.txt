@@ -1,0 +1,25 @@
+Title: Rental 10333
+
+----
+
+Rental-id: 10333
+
+----
+
+Rental-date: 2005-08-01 04:58:32
+
+----
+
+Return-date: 2005-08-04 00:51:32
+
+----
+
+Inventory: page://GBHW7fdNjNme9aLG
+
+----
+
+Customer: page://uRdLZLKD6zhz7xZm
+
+----
+
+Uuid: fjUguUuIfNsr8xwO

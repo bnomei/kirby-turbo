@@ -1,0 +1,17 @@
+Title: Inv 4485
+
+----
+
+Inventory-id: 4485
+
+----
+
+Film: page://EYk6slPKy8me46Pf
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: GhU2raRSULhQdrq9

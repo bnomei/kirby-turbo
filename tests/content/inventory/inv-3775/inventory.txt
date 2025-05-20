@@ -1,0 +1,17 @@
+Title: Inv 3775
+
+----
+
+Inventory-id: 3775
+
+----
+
+Film: page://XkYdTumKc3zQL718
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: pIAD2TfJ8xXttmNj

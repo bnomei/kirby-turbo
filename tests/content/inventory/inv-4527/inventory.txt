@@ -1,0 +1,17 @@
+Title: Inv 4527
+
+----
+
+Inventory-id: 4527
+
+----
+
+Film: page://2WrWVuDwLaDCOlID
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: N0YGExqz9VfAAJMW

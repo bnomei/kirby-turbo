@@ -1,0 +1,33 @@
+Title: EDGAR RHOADS
+
+----
+
+Customer-id: 507
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: EDGAR
+
+----
+
+Last-name: RHOADS
+
+----
+
+Email: EDGAR.RHOADS@sakilacustomer.org
+
+----
+
+Address: page://sFNOYy8bda8mHlPA
+
+----
+
+Active: 1
+
+----
+
+Uuid: Avue2EhXksh2zAWH

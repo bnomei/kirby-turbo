@@ -1,0 +1,25 @@
+Title: Rental 3363
+
+----
+
+Rental-id: 3363
+
+----
+
+Rental-date: 2005-06-21 12:25:07
+
+----
+
+Return-date: 2005-06-27 11:52:07
+
+----
+
+Inventory: page://q60iI4nkoHgMNOUR
+
+----
+
+Uuid: M7vFBhr3LcmZt5Mf
+
+----
+
+Customer: page://hKCKx3YFHHjehyrG

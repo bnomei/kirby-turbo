@@ -1,0 +1,33 @@
+Title: TRACEY BARRETT
+
+----
+
+Customer-id: 280
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: TRACEY
+
+----
+
+Last-name: BARRETT
+
+----
+
+Email: TRACEY.BARRETT@sakilacustomer.org
+
+----
+
+Address: page://sJtPZacj4vRkZWw1
+
+----
+
+Active: 1
+
+----
+
+Uuid: Vns4RDWjccDhVJJe

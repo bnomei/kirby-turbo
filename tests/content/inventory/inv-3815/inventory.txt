@@ -1,0 +1,17 @@
+Title: Inv 3815
+
+----
+
+Inventory-id: 3815
+
+----
+
+Film: page://55vGON9GLR96M3OI
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: LeAZjbRj8dSAm2ma

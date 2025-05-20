@@ -1,0 +1,25 @@
+Title: Rental 4639
+
+----
+
+Rental-id: 4639
+
+----
+
+Rental-date: 2005-07-08 08:57:21
+
+----
+
+Return-date: 2005-07-14 11:22:21
+
+----
+
+Inventory: page://oVWQEZNDmArXow2i
+
+----
+
+Uuid: MipPbOw6raXfYZ5i
+
+----
+
+Customer: page://x5SWKXQpXhzjUJdL

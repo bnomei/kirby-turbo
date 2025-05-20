@@ -1,0 +1,17 @@
+Title: Inv 3394
+
+----
+
+Inventory-id: 3394
+
+----
+
+Film: page://fvcS3Vnuhg3KHjnx
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: bXSj45vgLSDBv6iX

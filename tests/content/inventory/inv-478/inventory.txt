@@ -1,0 +1,17 @@
+Title: Inv 478
+
+----
+
+Inventory-id: 478
+
+----
+
+Film: page://DOtC9jr927fiH9Lg
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: f9reY6btzhv3vguj

@@ -1,0 +1,17 @@
+Title: Inv 471
+
+----
+
+Inventory-id: 471
+
+----
+
+Film: page://9yDVnskpaehT7Njf
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 5ggJuvhG4sfOXki8

@@ -1,0 +1,25 @@
+Title: Rental 2133
+
+----
+
+Rental-id: 2133
+
+----
+
+Rental-date: 2005-06-17 21:10:05
+
+----
+
+Return-date: 2005-06-23 22:41:05
+
+----
+
+Inventory: page://fyUSWgchvJT7Wb1E
+
+----
+
+Uuid: SWTAnCIsLJfgB1xP
+
+----
+
+Customer: page://VeTDo26Y3oPKF7Sh

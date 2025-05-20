@@ -1,0 +1,17 @@
+Title: Inv 3169
+
+----
+
+Inventory-id: 3169
+
+----
+
+Film: page://Ns11e990ZKcb5jfW
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: iDkhhj4fCLj5JL7n

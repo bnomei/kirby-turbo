@@ -1,0 +1,33 @@
+Title: RICARDO MEADOR
+
+----
+
+Customer-id: 489
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: RICARDO
+
+----
+
+Last-name: MEADOR
+
+----
+
+Email: RICARDO.MEADOR@sakilacustomer.org
+
+----
+
+Address: page://YdSrYD4ICJLAB2sG
+
+----
+
+Active: 1
+
+----
+
+Uuid: Wo2cU6s6b3fySp3g

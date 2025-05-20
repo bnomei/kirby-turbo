@@ -1,0 +1,25 @@
+Title: Rental 11493
+
+----
+
+Rental-id: 11493
+
+----
+
+Rental-date: 2005-08-02 22:47:00
+
+----
+
+Return-date: 2005-08-10 20:53:00
+
+----
+
+Inventory: page://6urAftVk3xTadLiY
+
+----
+
+Customer: page://PRYZKLCz6ndr3bge
+
+----
+
+Uuid: Fhr0FftHU1N0OGE0

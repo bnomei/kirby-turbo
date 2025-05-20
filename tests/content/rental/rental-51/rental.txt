@@ -1,0 +1,25 @@
+Title: Rental 51
+
+----
+
+Rental-id: 51
+
+----
+
+Rental-date: 2005-05-25 06:49:10
+
+----
+
+Return-date: 2005-05-26 06:42:10
+
+----
+
+Inventory: page://EfEub8T9afcs9qWN
+
+----
+
+Uuid: GxKFRCwQpD5X7JtW
+
+----
+
+Customer: page://Nq991akaEgNmdCHy

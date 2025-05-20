@@ -1,0 +1,25 @@
+Title: Rental 6730
+
+----
+
+Rental-id: 6730
+
+----
+
+Rental-date: 2005-07-12 13:58:25
+
+----
+
+Return-date: 2005-07-20 13:01:25
+
+----
+
+Inventory: page://hEi2GOw8K3M3vcL0
+
+----
+
+Uuid: wBXUchYJ1QKXoiT7
+
+----
+
+Customer: page://jNinHUxNSvO3KbCp

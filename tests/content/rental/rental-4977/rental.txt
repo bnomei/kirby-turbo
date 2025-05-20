@@ -1,0 +1,25 @@
+Title: Rental 4977
+
+----
+
+Rental-id: 4977
+
+----
+
+Rental-date: 2005-07-09 00:15:50
+
+----
+
+Return-date: 2005-07-10 00:34:50
+
+----
+
+Inventory: page://P28Smdwuy5VYqFYP
+
+----
+
+Uuid: d2qNjfr3QS0PRoZb
+
+----
+
+Customer: page://39hvxMFvUZi2TOlv

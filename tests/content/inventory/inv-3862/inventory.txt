@@ -1,0 +1,17 @@
+Title: Inv 3862
+
+----
+
+Inventory-id: 3862
+
+----
+
+Film: page://trBfVok5w8tQjZwd
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: on8ohsCA4zXHCqdq

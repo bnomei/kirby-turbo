@@ -1,0 +1,25 @@
+Title: Rental 13175
+
+----
+
+Rental-id: 13175
+
+----
+
+Rental-date: 2005-08-19 13:54:53
+
+----
+
+Return-date: 2005-08-20 16:25:53
+
+----
+
+Inventory: page://4TL4DAkNWqgXGMi9
+
+----
+
+Customer: page://0Qiks8V78Ua8rTtk
+
+----
+
+Uuid: ue5pqCx2chSWBQGx

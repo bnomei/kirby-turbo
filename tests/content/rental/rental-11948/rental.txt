@@ -1,0 +1,25 @@
+Title: Rental 11948
+
+----
+
+Rental-id: 11948
+
+----
+
+Rental-date: 2005-08-17 17:11:05
+
+----
+
+Return-date: 2005-08-25 21:16:05
+
+----
+
+Inventory: page://heoWm8towAihVOcs
+
+----
+
+Customer: page://mKUSHxTkOIWhbbql
+
+----
+
+Uuid: Q96gYcEthMgZg11m

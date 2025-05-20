@@ -1,0 +1,17 @@
+Title: Inv 4018
+
+----
+
+Inventory-id: 4018
+
+----
+
+Film: page://CKCoA588LLOvH6sL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 70ZwtgG3zeCTYM4X

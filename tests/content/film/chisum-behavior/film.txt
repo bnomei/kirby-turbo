@@ -1,0 +1,42 @@
+Title: CHISUM BEHAVIOR
+
+----
+
+Actors:
+
+- 'page://8goemlF34STteVIR'
+- 'page://C462ZyZJYhtiRgJM'
+- 'page://pW1gtWYG8hgYIJM4'
+- 'page://V7i97wxdkXKwKdBD'
+
+----
+
+Film-id: 145
+
+----
+
+Description: A Epic Documentary of a Sumo Wrestler And a Butler who must Kill a Car in Ancient India
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 124
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: TLayTvyjZh2ATF04
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

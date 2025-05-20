@@ -1,0 +1,25 @@
+Title: Rental 12752
+
+----
+
+Rental-id: 12752
+
+----
+
+Rental-date: 2005-08-18 22:33:36
+
+----
+
+Return-date: 2005-08-27 23:55:36
+
+----
+
+Inventory: page://bHbfdzTuPdipcbZg
+
+----
+
+Customer: page://cyMlL5yPpoS1G4BT
+
+----
+
+Uuid: xY68AiE8FBfIwLJC

@@ -1,0 +1,33 @@
+Title: STEVE MACKENZIE
+
+----
+
+Customer-id: 372
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: STEVE
+
+----
+
+Last-name: MACKENZIE
+
+----
+
+Email: STEVE.MACKENZIE@sakilacustomer.org
+
+----
+
+Address: page://mqgntq32JFXS149M
+
+----
+
+Active: 1
+
+----
+
+Uuid: bw4m0tZ1D4xQh5s8

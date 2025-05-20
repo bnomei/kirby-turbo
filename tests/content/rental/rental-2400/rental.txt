@@ -1,0 +1,25 @@
+Title: Rental 2400
+
+----
+
+Rental-id: 2400
+
+----
+
+Rental-date: 2005-06-18 16:10:46
+
+----
+
+Return-date: 2005-06-25 20:34:46
+
+----
+
+Inventory: page://1QnPCeYSB9x0wujJ
+
+----
+
+Uuid: qq2g8GwC8nJdmDqs
+
+----
+
+Customer: page://qq0m1YSvvt7HbeBW

@@ -1,0 +1,25 @@
+Title: Rental 3726
+
+----
+
+Rental-id: 3726
+
+----
+
+Rental-date: 2005-07-06 11:15:49
+
+----
+
+Return-date: 2005-07-11 05:54:49
+
+----
+
+Inventory: page://TuWMw5JgrkOL25xV
+
+----
+
+Uuid: Rwu9I6t4KdLOEo8e
+
+----
+
+Customer: page://qWf2WdBnN3xSlT1B

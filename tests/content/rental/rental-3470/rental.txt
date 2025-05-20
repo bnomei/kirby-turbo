@@ -1,0 +1,25 @@
+Title: Rental 3470
+
+----
+
+Rental-id: 3470
+
+----
+
+Rental-date: 2005-07-05 22:49:24
+
+----
+
+Return-date: 2005-07-07 19:36:24
+
+----
+
+Inventory: page://Eb4H9cmRaK5M6Alf
+
+----
+
+Uuid: BPBK7XsHdjWoRAZC
+
+----
+
+Customer: page://7AM12dZR8dD0mO7c

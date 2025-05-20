@@ -1,0 +1,25 @@
+Title: Rental 792
+
+----
+
+Rental-id: 792
+
+----
+
+Rental-date: 2005-05-29 16:32:10
+
+----
+
+Return-date: 2005-05-31 18:01:10
+
+----
+
+Inventory: page://tA5vLxoAMeuodoBj
+
+----
+
+Uuid: n5EHm5FrZj5o80Fp
+
+----
+
+Customer: page://hKCKx3YFHHjehyrG

@@ -1,0 +1,17 @@
+Title: Inv 4069
+
+----
+
+Inventory-id: 4069
+
+----
+
+Film: page://Mk00fN7mmOAZR9j4
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: o5ZIfnfTB1qP4FBs

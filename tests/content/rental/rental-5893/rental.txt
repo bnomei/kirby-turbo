@@ -1,0 +1,25 @@
+Title: Rental 5893
+
+----
+
+Rental-id: 5893
+
+----
+
+Rental-date: 2005-07-10 20:05:30
+
+----
+
+Return-date: 2005-07-14 23:05:30
+
+----
+
+Inventory: page://fKwyXYQvhlF9Xh6M
+
+----
+
+Uuid: Wz98NmsLh5TRaWGJ
+
+----
+
+Customer: page://KliCwmxco9DJ4eNi

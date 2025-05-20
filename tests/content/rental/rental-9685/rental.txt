@@ -1,0 +1,25 @@
+Title: Rental 9685
+
+----
+
+Rental-id: 9685
+
+----
+
+Rental-date: 2005-07-31 06:49:18
+
+----
+
+Return-date: 2005-08-04 03:19:18
+
+----
+
+Inventory: page://Ic112IkmrOQbfWnU
+
+----
+
+Customer: page://V0viosrFvqcsWPKv
+
+----
+
+Uuid: 1pSSONuQrnjDBr0e

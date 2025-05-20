@@ -1,0 +1,33 @@
+Title: KYLE SPURLOCK
+
+----
+
+Customer-id: 424
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: KYLE
+
+----
+
+Last-name: SPURLOCK
+
+----
+
+Email: KYLE.SPURLOCK@sakilacustomer.org
+
+----
+
+Address: page://idsg7jaI82nXQDT6
+
+----
+
+Active: 1
+
+----
+
+Uuid: sVIdcOA4yjcw5Z24

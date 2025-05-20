@@ -1,0 +1,21 @@
+Title: Rental 14760
+
+----
+
+Rental-id: 14760
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://cnjoEZCLuXbUVqai
+
+----
+
+Customer: page://lgbKkp1lML4CzpHP
+
+----
+
+Uuid: 647mDcDNQvR6J6lK

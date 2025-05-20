@@ -1,0 +1,17 @@
+Title: Inv 3056
+
+----
+
+Inventory-id: 3056
+
+----
+
+Film: page://kGbNpCoyrIROVvsU
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: rCj6BanEoLa9jog2

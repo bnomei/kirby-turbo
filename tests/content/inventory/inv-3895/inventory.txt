@@ -1,0 +1,17 @@
+Title: Inv 3895
+
+----
+
+Inventory-id: 3895
+
+----
+
+Film: page://kCQk0Lz7pqypJ6Wf
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: djkIFIjBWTn5dnCN

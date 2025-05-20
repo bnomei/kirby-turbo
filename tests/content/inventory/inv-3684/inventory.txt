@@ -1,0 +1,17 @@
+Title: Inv 3684
+
+----
+
+Inventory-id: 3684
+
+----
+
+Film: page://xw4k1JDJPGiAkoYR
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: pwZDWPVpJM0ibxSv

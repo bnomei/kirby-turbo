@@ -1,0 +1,25 @@
+Title: Rental 9582
+
+----
+
+Rental-id: 9582
+
+----
+
+Rental-date: 2005-07-31 03:05:19
+
+----
+
+Return-date: 2005-08-04 07:26:19
+
+----
+
+Inventory: page://3AbcUgtuCc7Nt2pN
+
+----
+
+Customer: page://biqDPcEyu5xA9fNA
+
+----
+
+Uuid: LlytX8Pwk5JqPc45

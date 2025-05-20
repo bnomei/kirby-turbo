@@ -1,0 +1,25 @@
+Title: Rental 1366
+
+----
+
+Rental-id: 1366
+
+----
+
+Rental-date: 2005-06-15 14:21:00
+
+----
+
+Return-date: 2005-06-24 17:36:00
+
+----
+
+Inventory: page://jeu6wb3xQGXdDMdE
+
+----
+
+Uuid: AFaQFqtV9bHDSFZk
+
+----
+
+Customer: page://XIaKK8hOYK8JJ3Lj

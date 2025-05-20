@@ -1,0 +1,17 @@
+Title: Inv 1892
+
+----
+
+Inventory-id: 1892
+
+----
+
+Film: page://aUafI4t8XSgIFtTE
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: BdfK1Jg8sj81KDIm

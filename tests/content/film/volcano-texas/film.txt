@@ -1,0 +1,43 @@
+Title: VOLCANO TEXAS
+
+----
+
+Actors:
+
+- 'page://9zoYPXEbxK6liKqc'
+- 'page://DJVklNozM1l2RK0x'
+- 'page://q6i5HOIdG8dGz8Im'
+- 'page://3BcvBP3gfacEDPsU'
+- 'page://Vt3bRByOUSEypvV6'
+
+----
+
+Film-id: 949
+
+----
+
+Description: A Awe-Inspiring Yarn of a Hunter And a Feminist who must Challenge a Dentist in The Outback
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 157
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: JiFN89QIpjfUYw88
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

@@ -1,0 +1,17 @@
+Title: Inv 1536
+
+----
+
+Inventory-id: 1536
+
+----
+
+Film: page://0rCBtFgTBU5lFT4Z
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: YopfVSeWHRXEhlBd

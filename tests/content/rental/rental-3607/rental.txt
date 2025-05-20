@@ -1,0 +1,25 @@
+Title: Rental 3607
+
+----
+
+Rental-id: 3607
+
+----
+
+Rental-date: 2005-07-06 05:30:09
+
+----
+
+Return-date: 2005-07-08 01:36:09
+
+----
+
+Inventory: page://dgG41EBnl4kip1zf
+
+----
+
+Uuid: Yb6iL2Cqz1yhQECi
+
+----
+
+Customer: page://oE79ihefnb125Y1I

@@ -1,0 +1,25 @@
+Title: Rental 3911
+
+----
+
+Rental-id: 3911
+
+----
+
+Rental-date: 2005-07-06 20:09:11
+
+----
+
+Return-date: 2005-07-08 23:53:11
+
+----
+
+Inventory: page://zzk3AEjaFRtYygmO
+
+----
+
+Uuid: CuM14znD2X6e9PQC
+
+----
+
+Customer: page://meRS5ZpTiS6VB9kT

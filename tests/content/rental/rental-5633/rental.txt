@@ -1,0 +1,25 @@
+Title: Rental 5633
+
+----
+
+Rental-id: 5633
+
+----
+
+Rental-date: 2005-07-10 06:22:24
+
+----
+
+Return-date: 2005-07-11 05:59:24
+
+----
+
+Inventory: page://HjJqzqpgimToX3YW
+
+----
+
+Uuid: VkBtRkuznAff6diK
+
+----
+
+Customer: page://VhNFaZVA09U1QRJB

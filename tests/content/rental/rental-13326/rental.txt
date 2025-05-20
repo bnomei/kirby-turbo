@@ -1,0 +1,25 @@
+Title: Rental 13326
+
+----
+
+Rental-id: 13326
+
+----
+
+Rental-date: 2005-08-19 19:52:52
+
+----
+
+Return-date: 2005-08-20 18:56:52
+
+----
+
+Inventory: page://RZbNWL6MqjGuWHOR
+
+----
+
+Customer: page://XIaKK8hOYK8JJ3Lj
+
+----
+
+Uuid: LqFMi5GP6fKPIqux

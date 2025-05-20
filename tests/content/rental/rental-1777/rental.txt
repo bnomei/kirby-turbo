@@ -1,0 +1,25 @@
+Title: Rental 1777
+
+----
+
+Rental-id: 1777
+
+----
+
+Rental-date: 2005-06-16 18:52:12
+
+----
+
+Return-date: 2005-06-25 13:55:12
+
+----
+
+Inventory: page://V5Worm1S55eDaudW
+
+----
+
+Uuid: FmQLFCaymQ1S3mI1
+
+----
+
+Customer: page://94UnL6NulGJKXEIF

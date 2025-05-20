@@ -1,0 +1,33 @@
+Title: JACOB LANCE
+
+----
+
+Customer-id: 420
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JACOB
+
+----
+
+Last-name: LANCE
+
+----
+
+Email: JACOB.LANCE@sakilacustomer.org
+
+----
+
+Address: page://JtDKAWsG5yNTR4Qy
+
+----
+
+Active: 1
+
+----
+
+Uuid: Yq4RWbQHVX6jLqbx

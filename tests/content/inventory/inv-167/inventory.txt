@@ -1,0 +1,17 @@
+Title: Inv 167
+
+----
+
+Inventory-id: 167
+
+----
+
+Film: page://GIkJBpMC2uMaQWis
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: FDVAR3b6sV8WH3uo

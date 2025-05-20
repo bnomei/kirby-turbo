@@ -1,0 +1,17 @@
+Title: Inv 4370
+
+----
+
+Inventory-id: 4370
+
+----
+
+Film: page://RNxkBPBss9uNhMri
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 9SoF07A0Lf4QzNIR

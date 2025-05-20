@@ -1,0 +1,25 @@
+Title: Rental 15665
+
+----
+
+Rental-id: 15665
+
+----
+
+Rental-date: 2005-08-23 08:59:12
+
+----
+
+Return-date: 2005-08-24 12:50:12
+
+----
+
+Inventory: page://kafrIjdT7c00Q1MD
+
+----
+
+Customer: page://z84M1eOE64VO5Dm4
+
+----
+
+Uuid: i7QnZ3GtdsD7WAOH

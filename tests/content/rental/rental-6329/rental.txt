@@ -1,0 +1,25 @@
+Title: Rental 6329
+
+----
+
+Rental-id: 6329
+
+----
+
+Rental-date: 2005-07-11 19:10:38
+
+----
+
+Return-date: 2005-07-19 14:46:38
+
+----
+
+Inventory: page://EaSxAuTyPxh98FYn
+
+----
+
+Uuid: hMubE3le0O9VMObQ
+
+----
+
+Customer: page://alzSQpRBPNGWEUd4

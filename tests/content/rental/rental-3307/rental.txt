@@ -1,0 +1,25 @@
+Title: Rental 3307
+
+----
+
+Rental-id: 3307
+
+----
+
+Rental-date: 2005-06-21 07:52:30
+
+----
+
+Return-date: 2005-06-25 02:36:30
+
+----
+
+Inventory: page://bnSV2yvLI9O1Qcde
+
+----
+
+Uuid: mXfxsxyWXVjNfLGi
+
+----
+
+Customer: page://31oQldQUu6n6nMkk

@@ -1,0 +1,25 @@
+Title: Rental 2798
+
+----
+
+Rental-id: 2798
+
+----
+
+Rental-date: 2005-06-19 19:07:48
+
+----
+
+Return-date: 2005-06-23 00:09:48
+
+----
+
+Inventory: page://zOScUSA3n4y3HzfT
+
+----
+
+Uuid: bwI56qfyYI61lFUX
+
+----
+
+Customer: page://SJshmeMOxYgLWdbx

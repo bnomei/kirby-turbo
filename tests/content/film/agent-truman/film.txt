@@ -1,0 +1,45 @@
+Title: AGENT TRUMAN
+
+----
+
+Actors:
+
+- 'page://rWwSmn6uTovtpXae'
+- 'page://RW4ixiF3bbh7oXkH'
+- 'page://ixmDbcb5VXh1c8bc'
+- 'page://RvgM0TLzgQDo6vY7'
+- 'page://qCm78VMzP14zbmIL'
+- 'page://xXgVj4FQPZ59wjBk'
+- 'page://vMUybiWmK5EriDRU'
+
+----
+
+Film-id: 6
+
+----
+
+Description: A Intrepid Panorama of a Robot And a Boy who must Escape a Sumo Wrestler in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 169
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: jPUSIoHLxunFFFgu
+
+----
+
+Categories: - 'page://1zSlwtq2IyzVh9Hs'

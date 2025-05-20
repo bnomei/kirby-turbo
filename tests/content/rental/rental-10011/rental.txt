@@ -1,0 +1,25 @@
+Title: Rental 10011
+
+----
+
+Rental-id: 10011
+
+----
+
+Rental-date: 2005-07-31 18:02:41
+
+----
+
+Return-date: 2005-08-08 17:04:41
+
+----
+
+Inventory: page://0o5auWSYxQQ45vCV
+
+----
+
+Customer: page://F0Kktb9GQCAISqtj
+
+----
+
+Uuid: DYBZiGuRUthtZi7s

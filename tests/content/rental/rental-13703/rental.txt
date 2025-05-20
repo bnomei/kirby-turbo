@@ -1,0 +1,25 @@
+Title: Rental 13703
+
+----
+
+Rental-id: 13703
+
+----
+
+Rental-date: 2005-08-20 09:29:35
+
+----
+
+Return-date: 2005-08-27 08:03:35
+
+----
+
+Inventory: page://z2DNHRDjWhgF7Jz0
+
+----
+
+Customer: page://fXUgmXqRtLO0PH1c
+
+----
+
+Uuid: cldVIZOhUDVE4tv4

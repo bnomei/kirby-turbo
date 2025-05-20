@@ -1,0 +1,17 @@
+Title: Inv 1269
+
+----
+
+Inventory-id: 1269
+
+----
+
+Film: page://cpIunvgzQdLa04s5
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ykwd68OzpRTFvf9R

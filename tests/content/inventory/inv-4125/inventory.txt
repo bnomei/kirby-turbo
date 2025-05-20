@@ -1,0 +1,17 @@
+Title: Inv 4125
+
+----
+
+Inventory-id: 4125
+
+----
+
+Film: page://vAOVQlW5bz9Di45k
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: mjMRiDvh3MfoslbQ

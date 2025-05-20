@@ -1,0 +1,33 @@
+Title: WAYNE TRUONG
+
+----
+
+Customer-id: 370
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: WAYNE
+
+----
+
+Last-name: TRUONG
+
+----
+
+Email: WAYNE.TRUONG@sakilacustomer.org
+
+----
+
+Address: page://gNjeoVBq1c7Ae2u2
+
+----
+
+Active: 1
+
+----
+
+Uuid: e47avKEtCcZjXaKK

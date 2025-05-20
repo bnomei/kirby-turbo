@@ -1,0 +1,43 @@
+Title: TEMPLE ATTRACTION
+
+----
+
+Actors:
+
+- 'page://gxNf949gkwS5ks3A'
+- 'page://yhATHnZqo4RzYS83'
+- 'page://twoON2iToIZq1akt'
+- 'page://iZwJlBg8wszU4t4i'
+- 'page://OqV4tbW7WtFrMtYI'
+
+----
+
+Film-id: 881
+
+----
+
+Description: A Action-Packed Saga of a Forensic Psychologist And a Woman who must Battle a Womanizer in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 71
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: pHwSEDG9xLV6IG7H
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

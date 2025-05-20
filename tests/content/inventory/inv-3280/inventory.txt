@@ -1,0 +1,17 @@
+Title: Inv 3280
+
+----
+
+Inventory-id: 3280
+
+----
+
+Film: page://0kAw1PNKkjKg2Rgu
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: p6fYuqGlGRBSyNTk

@@ -1,0 +1,33 @@
+Title: MARSHA DOUGLAS
+
+----
+
+Customer-id: 257
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: MARSHA
+
+----
+
+Last-name: DOUGLAS
+
+----
+
+Email: MARSHA.DOUGLAS@sakilacustomer.org
+
+----
+
+Address: page://iElhKBz4009Qb0P0
+
+----
+
+Active: 1
+
+----
+
+Uuid: RjuxtMHbOY6NJALL

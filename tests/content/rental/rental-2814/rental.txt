@@ -1,0 +1,25 @@
+Title: Rental 2814
+
+----
+
+Rental-id: 2814
+
+----
+
+Rental-date: 2005-06-19 20:01:59
+
+----
+
+Return-date: 2005-06-26 01:28:59
+
+----
+
+Inventory: page://rJqBpVeJCYDjkDNM
+
+----
+
+Uuid: R0wFQ7TYc60wokIv
+
+----
+
+Customer: page://hkYVD2f74BBcnfGT

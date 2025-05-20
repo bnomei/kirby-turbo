@@ -1,0 +1,25 @@
+Title: Rental 12800
+
+----
+
+Rental-id: 12800
+
+----
+
+Rental-date: 2005-08-19 00:27:11
+
+----
+
+Return-date: 2005-08-22 01:08:11
+
+----
+
+Inventory: page://6KnY0JNgV4bbtLgl
+
+----
+
+Customer: page://Yh1wxvDrPfYOmxl5
+
+----
+
+Uuid: L2K8V5gSt95Ja9D5

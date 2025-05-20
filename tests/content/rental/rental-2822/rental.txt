@@ -1,0 +1,25 @@
+Title: Rental 2822
+
+----
+
+Rental-id: 2822
+
+----
+
+Rental-date: 2005-06-19 20:29:24
+
+----
+
+Return-date: 2005-06-23 02:21:24
+
+----
+
+Inventory: page://DJ5bajpiyHS0rBgC
+
+----
+
+Uuid: 5g7kTj7ejHdZVDVT
+
+----
+
+Customer: page://nZVFUQsoyO1MvhAU

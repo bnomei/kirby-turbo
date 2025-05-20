@@ -1,0 +1,25 @@
+Title: Rental 8090
+
+----
+
+Rental-id: 8090
+
+----
+
+Rental-date: 2005-07-28 18:27:29
+
+----
+
+Return-date: 2005-08-02 14:08:29
+
+----
+
+Inventory: page://gyiDiSbXjnpeEZ8X
+
+----
+
+Customer: page://F6pL0bxX1YRyvGAo
+
+----
+
+Uuid: Gnf5L1SBq2eo731D

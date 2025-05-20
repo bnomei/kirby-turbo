@@ -1,0 +1,17 @@
+Title: Inv 4435
+
+----
+
+Inventory-id: 4435
+
+----
+
+Film: page://2ox845aHAlq9RkP9
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: HjK2OExh4IDuUO0g

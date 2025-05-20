@@ -1,0 +1,25 @@
+Title: Rental 5378
+
+----
+
+Rental-id: 5378
+
+----
+
+Rental-date: 2005-07-09 19:05:56
+
+----
+
+Return-date: 2005-07-10 18:03:56
+
+----
+
+Inventory: page://WblUBnty3qMDDsSU
+
+----
+
+Uuid: e1Js1nYJxaAGEdW3
+
+----
+
+Customer: page://d4Qzzmipb5Xdc54C

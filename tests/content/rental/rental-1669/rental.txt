@@ -1,0 +1,25 @@
+Title: Rental 1669
+
+----
+
+Rental-id: 1669
+
+----
+
+Rental-date: 2005-06-16 10:20:20
+
+----
+
+Return-date: 2005-06-18 04:26:20
+
+----
+
+Inventory: page://ZV0oUPQ9BiFi2RAI
+
+----
+
+Uuid: SLVrahPTo6xeJKKR
+
+----
+
+Customer: page://j6w051LSx5dWYnKn

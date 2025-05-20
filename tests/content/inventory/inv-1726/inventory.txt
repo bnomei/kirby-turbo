@@ -1,0 +1,17 @@
+Title: Inv 1726
+
+----
+
+Inventory-id: 1726
+
+----
+
+Film: page://aIzeDPhb5b1oNOHo
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: adXT8LlD9MLWXWh7

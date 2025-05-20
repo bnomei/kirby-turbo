@@ -1,0 +1,17 @@
+Title: Inv 2062
+
+----
+
+Inventory-id: 2062
+
+----
+
+Film: page://Xvezg1HAGLbTRKmJ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: tjIlDLlj1QMFiKxO

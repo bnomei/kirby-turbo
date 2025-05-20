@@ -1,0 +1,25 @@
+Title: Rental 11996
+
+----
+
+Rental-id: 11996
+
+----
+
+Rental-date: 2005-08-17 18:34:37
+
+----
+
+Return-date: 2005-08-20 22:25:37
+
+----
+
+Inventory: page://JxLBCxlsVtRkcb8b
+
+----
+
+Customer: page://4dgC5GQYx4NZ72Ge
+
+----
+
+Uuid: TJRbirLVtb77VQyy

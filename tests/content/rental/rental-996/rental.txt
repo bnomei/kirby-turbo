@@ -1,0 +1,25 @@
+Title: Rental 996
+
+----
+
+Rental-id: 996
+
+----
+
+Rental-date: 2005-05-31 00:06:20
+
+----
+
+Return-date: 2005-05-31 21:29:20
+
+----
+
+Inventory: page://Q14D2Pb9lOIuTkel
+
+----
+
+Uuid: cJp5LpmU9bC5B7y3
+
+----
+
+Customer: page://DxMKPSznn9C2XI5l

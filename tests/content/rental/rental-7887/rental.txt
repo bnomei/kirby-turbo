@@ -1,0 +1,25 @@
+Title: Rental 7887
+
+----
+
+Rental-id: 7887
+
+----
+
+Rental-date: 2005-07-28 10:40:12
+
+----
+
+Return-date: 2005-08-02 06:09:12
+
+----
+
+Inventory: page://MfhLLfigOVgsvuch
+
+----
+
+Customer: page://hd1gRLl3i3JFAUfJ
+
+----
+
+Uuid: 9oHvx1Wj6BOKdOGS

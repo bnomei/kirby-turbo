@@ -1,0 +1,25 @@
+Title: Rental 1631
+
+----
+
+Rental-id: 1631
+
+----
+
+Rental-date: 2005-06-16 08:01:02
+
+----
+
+Return-date: 2005-06-19 09:04:02
+
+----
+
+Inventory: page://ak2Nr2HrWmU1bTNY
+
+----
+
+Uuid: cYooBZadM1Mtfl8T
+
+----
+
+Customer: page://stFkFNmIWPMkzEB2

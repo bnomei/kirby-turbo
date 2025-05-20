@@ -1,0 +1,25 @@
+Title: Rental 6150
+
+----
+
+Rental-id: 6150
+
+----
+
+Rental-date: 2005-07-11 09:23:56
+
+----
+
+Return-date: 2005-07-15 10:56:56
+
+----
+
+Inventory: page://kJ2zGr7fNufybiwB
+
+----
+
+Uuid: TfFPmnW9VvSD07vI
+
+----
+
+Customer: page://CLy4VJRr6odVQPmO

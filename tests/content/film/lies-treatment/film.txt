@@ -1,0 +1,45 @@
+Title: LIES TREATMENT
+
+----
+
+Actors:
+
+- 'page://H5yhLtWBsWi35xuK'
+- 'page://JR0gbBMz8ekt1gGa'
+- 'page://fpycclHxIOPEPbuu'
+- 'page://nN3rIVkI7hNgoDlp'
+- 'page://xfLW2h8D6Ci3k3ux'
+- 'page://ltHX2Lf4QT72ZiqX'
+- 'page://CBtLT02Rklp5i11L'
+
+----
+
+Film-id: 521
+
+----
+
+Description: A Fast-Paced Character Study of a Dentist And a Moose who must Defeat a Composer in The First Manned Space Station
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 147
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: OWB0rIhbbXIitcLz
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

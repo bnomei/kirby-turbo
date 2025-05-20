@@ -1,0 +1,25 @@
+Title: Rental 13451
+
+----
+
+Rental-id: 13451
+
+----
+
+Rental-date: 2005-08-20 00:18:25
+
+----
+
+Return-date: 2005-08-29 01:08:25
+
+----
+
+Inventory: page://wzH2jXPeCLNQDti0
+
+----
+
+Customer: page://X3AjzgBdF3VXBSFO
+
+----
+
+Uuid: MqfVeAwcSJ5mctNc

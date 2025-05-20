@@ -1,0 +1,17 @@
+Title: Inv 416
+
+----
+
+Inventory-id: 416
+
+----
+
+Film: page://JrgFunZeT85yBhXi
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 6wPTTdYbtsMLhNkJ

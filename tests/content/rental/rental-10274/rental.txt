@@ -1,0 +1,25 @@
+Title: Rental 10274
+
+----
+
+Rental-id: 10274
+
+----
+
+Rental-date: 2005-08-01 03:16:51
+
+----
+
+Return-date: 2005-08-04 22:22:51
+
+----
+
+Inventory: page://s6vA3PjqAIJUbTfz
+
+----
+
+Customer: page://sXFRFNABQAAwfZCO
+
+----
+
+Uuid: zJ7JHQcxb2xde4Uy

@@ -1,0 +1,25 @@
+Title: Rental 2346
+
+----
+
+Rental-id: 2346
+
+----
+
+Rental-date: 2005-06-18 12:08:16
+
+----
+
+Return-date: 2005-06-27 15:02:16
+
+----
+
+Inventory: page://I0faECPhLQnZjZDu
+
+----
+
+Uuid: 9RkbIxEffqYqs2zQ
+
+----
+
+Customer: page://ngKtnxHdAXVpAIrL

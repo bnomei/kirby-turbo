@@ -1,0 +1,25 @@
+Title: Rental 6593
+
+----
+
+Rental-id: 6593
+
+----
+
+Rental-date: 2005-07-12 07:21:17
+
+----
+
+Return-date: 2005-07-14 02:35:17
+
+----
+
+Inventory: page://FYT6iUCojzvhmfaD
+
+----
+
+Uuid: V1wKE8pgJW4bWot0
+
+----
+
+Customer: page://fXUgmXqRtLO0PH1c

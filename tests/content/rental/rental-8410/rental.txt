@@ -1,0 +1,25 @@
+Title: Rental 8410
+
+----
+
+Rental-id: 8410
+
+----
+
+Rental-date: 2005-07-29 06:41:36
+
+----
+
+Return-date: 2005-08-02 08:38:36
+
+----
+
+Inventory: page://AtUX5eyS3RqwGVJU
+
+----
+
+Customer: page://zHX2zrjQSr6qaLsM
+
+----
+
+Uuid: iuJTD4EnsWvtzQUj

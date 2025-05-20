@@ -1,0 +1,17 @@
+Title: Inv 2487
+
+----
+
+Inventory-id: 2487
+
+----
+
+Film: page://0ut8BCJFwRNCJRYS
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: lX8K9XjEvxf4NTxR

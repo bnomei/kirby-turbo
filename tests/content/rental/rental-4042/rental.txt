@@ -1,0 +1,25 @@
+Title: Rental 4042
+
+----
+
+Rental-id: 4042
+
+----
+
+Rental-date: 2005-07-07 03:06:40
+
+----
+
+Return-date: 2005-07-10 02:37:40
+
+----
+
+Inventory: page://UAKG8mdPiQVL1EsA
+
+----
+
+Uuid: VojA7krngV8tg7GY
+
+----
+
+Customer: page://hkYVD2f74BBcnfGT

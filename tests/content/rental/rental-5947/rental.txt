@@ -1,0 +1,25 @@
+Title: Rental 5947
+
+----
+
+Rental-id: 5947
+
+----
+
+Rental-date: 2005-07-10 23:07:42
+
+----
+
+Return-date: 2005-07-18 23:13:42
+
+----
+
+Inventory: page://8bvdnfs2Ulw9o7MT
+
+----
+
+Uuid: 3uAiq6EDkGZpcArl
+
+----
+
+Customer: page://DxMKPSznn9C2XI5l

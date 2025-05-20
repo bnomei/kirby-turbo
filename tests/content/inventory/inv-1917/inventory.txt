@@ -1,0 +1,17 @@
+Title: Inv 1917
+
+----
+
+Inventory-id: 1917
+
+----
+
+Film: page://AUYUSAlHslxGZN9K
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: MfxgguiD8p5t8yKW

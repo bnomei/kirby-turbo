@@ -1,0 +1,17 @@
+Title: Inv 2545
+
+----
+
+Inventory-id: 2545
+
+----
+
+Film: page://rAplbkHtAr4ImLYN
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: l806vO1C3bG8PTlq

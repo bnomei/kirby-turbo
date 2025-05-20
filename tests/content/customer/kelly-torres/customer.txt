@@ -1,0 +1,33 @@
+Title: KELLY TORRES
+
+----
+
+Customer-id: 67
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: KELLY
+
+----
+
+Last-name: TORRES
+
+----
+
+Email: KELLY.TORRES@sakilacustomer.org
+
+----
+
+Address: page://daSmx1Jf2HqPxGx2
+
+----
+
+Active: 1
+
+----
+
+Uuid: qwuyaWIZTC7pwwND

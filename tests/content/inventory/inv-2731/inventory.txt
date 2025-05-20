@@ -1,0 +1,17 @@
+Title: Inv 2731
+
+----
+
+Inventory-id: 2731
+
+----
+
+Film: page://APdUMlzxiJFwZpAj
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: s5DWydeRMFYtSEyW

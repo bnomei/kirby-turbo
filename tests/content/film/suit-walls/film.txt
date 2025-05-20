@@ -1,0 +1,43 @@
+Title: SUIT WALLS
+
+----
+
+Actors:
+
+- 'page://JbsPWnOXBNKX1tM5'
+- 'page://eJszhRe2rjIvWjny'
+- 'page://ZyRQLJXso6IqRkwR'
+- 'page://LYJoMM1yt0Pr5l4j'
+- 'page://C462ZyZJYhtiRgJM'
+
+----
+
+Film-id: 861
+
+----
+
+Description: A Touching Panorama of a Lumberjack And a Frisbee who must Build a Dog in Australia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 111
+
+----
+
+Rating: R
+
+----
+
+Special-features: Commentaries
+
+----
+
+Uuid: nhD9EWKAgQt71xtX
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

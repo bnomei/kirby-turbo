@@ -1,0 +1,17 @@
+Title: Inv 1049
+
+----
+
+Inventory-id: 1049
+
+----
+
+Film: page://ubTxi0o1gyywndg2
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: M4WBx5Zuoc5Ax2Yn

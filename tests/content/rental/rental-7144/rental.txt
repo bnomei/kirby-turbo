@@ -1,0 +1,25 @@
+Title: Rental 7144
+
+----
+
+Rental-id: 7144
+
+----
+
+Rental-date: 2005-07-27 07:00:37
+
+----
+
+Return-date: 2005-08-01 06:57:37
+
+----
+
+Inventory: page://NHyXk39T0tkJU4GX
+
+----
+
+Customer: page://HENTXL1iEV8LJg7f
+
+----
+
+Uuid: BBnDOe4vchEh8Okq

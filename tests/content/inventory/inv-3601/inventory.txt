@@ -1,0 +1,17 @@
+Title: Inv 3601
+
+----
+
+Inventory-id: 3601
+
+----
+
+Film: page://Tq8Lml2BrDEFFog2
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 72jS1rUEKGc9GeTY

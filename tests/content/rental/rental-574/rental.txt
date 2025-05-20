@@ -1,0 +1,25 @@
+Title: Rental 574
+
+----
+
+Rental-id: 574
+
+----
+
+Rental-date: 2005-05-28 10:44:28
+
+----
+
+Return-date: 2005-06-04 11:42:28
+
+----
+
+Inventory: page://mrnxrUyxSxT6R8Ya
+
+----
+
+Uuid: egr06Br2FlnDPgUF
+
+----
+
+Customer: page://6QgFvPw1AynCQ7UR

@@ -1,0 +1,25 @@
+Title: Rental 6777
+
+----
+
+Rental-id: 6777
+
+----
+
+Rental-date: 2005-07-12 16:04:40
+
+----
+
+Return-date: 2005-07-20 15:05:40
+
+----
+
+Inventory: page://93NKdGxuMHQ9JY75
+
+----
+
+Uuid: D28O6CNe8ew4ghQm
+
+----
+
+Customer: page://UaSNpTp6KioYmoei

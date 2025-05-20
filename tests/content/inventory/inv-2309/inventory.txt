@@ -1,0 +1,17 @@
+Title: Inv 2309
+
+----
+
+Inventory-id: 2309
+
+----
+
+Film: page://blzE5PZiY9bBh7xH
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: fCbkh0DxHe7jN1Fk

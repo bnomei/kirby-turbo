@@ -1,0 +1,40 @@
+Title: TERMINATOR CLUB
+
+----
+
+Actors:
+
+- 'page://IR4s9CmH1R8G51Ej'
+- 'page://nGhJyQbze3rAAH9v'
+
+----
+
+Film-id: 884
+
+----
+
+Description: A Touching Story of a Crocodile And a Girl who must Sink a Man in The Gulf of Mexico
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 88
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: UpRNXe26gkV4haai
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

@@ -1,0 +1,17 @@
+Title: Inv 4198
+
+----
+
+Inventory-id: 4198
+
+----
+
+Film: page://xfZxnJ2rP9EOtzuD
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: pC8I1cxZnQD2JV78

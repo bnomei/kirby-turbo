@@ -1,0 +1,25 @@
+Title: Rental 15876
+
+----
+
+Rental-id: 15876
+
+----
+
+Rental-date: 2005-08-23 16:32:10
+
+----
+
+Return-date: 2005-08-24 18:16:10
+
+----
+
+Inventory: page://y7u7g6812UeoLyPi
+
+----
+
+Customer: page://AbMvWlf35GZBBoZ3
+
+----
+
+Uuid: FddEtgdBM36sRdLB

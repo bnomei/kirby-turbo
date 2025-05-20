@@ -1,0 +1,25 @@
+Title: Rental 4804
+
+----
+
+Rental-id: 4804
+
+----
+
+Rental-date: 2005-07-08 16:57:30
+
+----
+
+Return-date: 2005-07-10 18:25:30
+
+----
+
+Inventory: page://rWItqgNoTkYhhGh9
+
+----
+
+Uuid: zpys1XJpgCYGsWis
+
+----
+
+Customer: page://Cko87GK3ShDjUK4Q

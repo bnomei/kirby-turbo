@@ -1,0 +1,25 @@
+Title: Rental 2327
+
+----
+
+Rental-id: 2327
+
+----
+
+Rental-date: 2005-06-18 10:16:40
+
+----
+
+Return-date: 2005-06-20 15:06:40
+
+----
+
+Inventory: page://W377CHx93cmPljCZ
+
+----
+
+Uuid: JQIbQRLmicSjSLmc
+
+----
+
+Customer: page://NrH2ag1h7sBRKnqA

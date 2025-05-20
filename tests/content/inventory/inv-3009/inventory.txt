@@ -1,0 +1,17 @@
+Title: Inv 3009
+
+----
+
+Inventory-id: 3009
+
+----
+
+Film: page://vXH73fvVYrQ6QbzQ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: tKBpMn1aWEmL2vRs

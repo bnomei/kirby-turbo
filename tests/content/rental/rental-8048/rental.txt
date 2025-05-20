@@ -1,0 +1,25 @@
+Title: Rental 8048
+
+----
+
+Rental-id: 8048
+
+----
+
+Rental-date: 2005-07-28 16:50:26
+
+----
+
+Return-date: 2005-08-06 19:20:26
+
+----
+
+Inventory: page://5aRi0NxYMmtdq1mW
+
+----
+
+Customer: page://WanceI8LSemC0lzf
+
+----
+
+Uuid: Wxpr77cjhNKMqYio

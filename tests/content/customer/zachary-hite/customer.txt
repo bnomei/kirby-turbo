@@ -1,0 +1,33 @@
+Title: ZACHARY HITE
+
+----
+
+Customer-id: 479
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ZACHARY
+
+----
+
+Last-name: HITE
+
+----
+
+Email: ZACHARY.HITE@sakilacustomer.org
+
+----
+
+Address: page://8EiER3c61XV7d62J
+
+----
+
+Active: 1
+
+----
+
+Uuid: fEgNYhgaLDG3CQLU

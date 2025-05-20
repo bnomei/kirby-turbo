@@ -1,0 +1,33 @@
+Title: HARVEY GUAJARDO
+
+----
+
+Customer-id: 523
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: HARVEY
+
+----
+
+Last-name: GUAJARDO
+
+----
+
+Email: HARVEY.GUAJARDO@sakilacustomer.org
+
+----
+
+Address: page://n9KQLJ4mMigbHW10
+
+----
+
+Active: 1
+
+----
+
+Uuid: KvtWcYY1YyV3aYsM

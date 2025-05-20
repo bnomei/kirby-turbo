@@ -1,0 +1,17 @@
+Title: Inv 1887
+
+----
+
+Inventory-id: 1887
+
+----
+
+Film: page://eoJzkRB0SYjrYU75
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: hyyXBuEwPAOstH9s

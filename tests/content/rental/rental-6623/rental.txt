@@ -1,0 +1,25 @@
+Title: Rental 6623
+
+----
+
+Rental-id: 6623
+
+----
+
+Rental-date: 2005-07-12 09:05:34
+
+----
+
+Return-date: 2005-07-19 13:54:34
+
+----
+
+Inventory: page://xPkRh6JvNjqQjdTp
+
+----
+
+Uuid: zrpsNaY76ii3UdYv
+
+----
+
+Customer: page://EN43JZfYCm84hq5t

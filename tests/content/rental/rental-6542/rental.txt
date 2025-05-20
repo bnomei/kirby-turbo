@@ -1,0 +1,25 @@
+Title: Rental 6542
+
+----
+
+Rental-id: 6542
+
+----
+
+Rental-date: 2005-07-12 04:53:49
+
+----
+
+Return-date: 2005-07-13 01:48:49
+
+----
+
+Inventory: page://Z3OhtKeys2SjoX45
+
+----
+
+Uuid: klQJJ4hQygphJUj2
+
+----
+
+Customer: page://OIjTAayisIN6Xq6v

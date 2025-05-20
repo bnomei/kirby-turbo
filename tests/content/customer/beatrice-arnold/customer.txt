@@ -1,0 +1,33 @@
+Title: BEATRICE ARNOLD
+
+----
+
+Customer-id: 170
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: BEATRICE
+
+----
+
+Last-name: ARNOLD
+
+----
+
+Email: BEATRICE.ARNOLD@sakilacustomer.org
+
+----
+
+Address: page://FY5VFIVpj5YGsRUE
+
+----
+
+Active: 1
+
+----
+
+Uuid: rLSUHhRJgJCY5Nmr

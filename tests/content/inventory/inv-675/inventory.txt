@@ -1,0 +1,17 @@
+Title: Inv 675
+
+----
+
+Inventory-id: 675
+
+----
+
+Film: page://xt5YPKk96VRGo1KN
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: LtVfP4xUK95ElACv

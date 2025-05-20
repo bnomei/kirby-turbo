@@ -1,0 +1,25 @@
+Title: Rental 5010
+
+----
+
+Rental-id: 5010
+
+----
+
+Rental-date: 2005-07-09 01:33:23
+
+----
+
+Return-date: 2005-07-14 04:00:23
+
+----
+
+Inventory: page://7RqgKo0eBB4L2hlt
+
+----
+
+Uuid: ZpDFFc97oBVj863K
+
+----
+
+Customer: page://ezKQFYnXPCOgLSXF

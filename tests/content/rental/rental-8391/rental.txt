@@ -1,0 +1,25 @@
+Title: Rental 8391
+
+----
+
+Rental-id: 8391
+
+----
+
+Rental-date: 2005-07-29 05:52:50
+
+----
+
+Return-date: 2005-08-03 04:45:50
+
+----
+
+Inventory: page://KB6IWvnOY5c2sYbN
+
+----
+
+Customer: page://qeEo6FrEXh8ohhLi
+
+----
+
+Uuid: 1FAgASma9ug6WWvH

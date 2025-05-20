@@ -1,0 +1,25 @@
+Title: Rental 4935
+
+----
+
+Rental-id: 4935
+
+----
+
+Rental-date: 2005-07-08 22:20:56
+
+----
+
+Return-date: 2005-07-12 01:01:56
+
+----
+
+Inventory: page://E8a2tlD3JuDKAaK1
+
+----
+
+Uuid: Vf95SXFhrB7mCent
+
+----
+
+Customer: page://ltxKpaFHuKcnO7ee

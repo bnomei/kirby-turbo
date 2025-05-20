@@ -1,0 +1,42 @@
+Title: CLYDE THEORY
+
+----
+
+Actors:
+
+- 'page://xjeqCa9sjC8UxwnG'
+- 'page://JR0gbBMz8ekt1gGa'
+- 'page://s69sG8lNdmqtvA7p'
+- 'page://QybR1sXOQQQZIPXG'
+
+----
+
+Film-id: 163
+
+----
+
+Description: A Beautiful Yarn of a Astronaut And a Frisbee who must Overcome a Explorer in A Jet Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 139
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: OHnDiDEdYHsPNVrg
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

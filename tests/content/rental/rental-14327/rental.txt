@@ -1,0 +1,25 @@
+Title: Rental 14327
+
+----
+
+Rental-id: 14327
+
+----
+
+Rental-date: 2005-08-21 08:18:18
+
+----
+
+Return-date: 2005-08-30 02:21:18
+
+----
+
+Inventory: page://XPBwMLHaZx4vY77u
+
+----
+
+Customer: page://ssKfVmN07XGOgIXz
+
+----
+
+Uuid: neQIwnTtaZNLTZtq

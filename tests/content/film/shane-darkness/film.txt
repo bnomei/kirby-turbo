@@ -1,0 +1,41 @@
+Title: SHANE DARKNESS
+
+----
+
+Actors:
+
+- 'page://9zoYPXEbxK6liKqc'
+- 'page://ovAz2jwmaTIz5ph9'
+- 'page://6LG8mbCuu1aKuRcl'
+
+----
+
+Film-id: 783
+
+----
+
+Description: A Action-Packed Saga of a Moose And a Lumberjack who must Find a Woman in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 93
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: szugAdlnH49KsCFa
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

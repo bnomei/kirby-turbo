@@ -1,0 +1,42 @@
+Title: FIDELITY DEVIL
+
+----
+
+Actors:
+
+- 'page://H5yhLtWBsWi35xuK'
+- 'page://pokjngmFMjrhDsLQ'
+- 'page://j4GwVyPWyXE95Bdj'
+- 'page://Vt3bRByOUSEypvV6'
+
+----
+
+Film-id: 313
+
+----
+
+Description: A Awe-Inspiring Drama of a Technical Writer And a Composer who must Reach a Pastry Chef in A U-Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 118
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: uuu5q1T1bVer0EUX
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

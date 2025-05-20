@@ -1,0 +1,25 @@
+Title: Rental 6849
+
+----
+
+Rental-id: 6849
+
+----
+
+Rental-date: 2005-07-12 19:29:19
+
+----
+
+Return-date: 2005-07-19 22:03:19
+
+----
+
+Inventory: page://3c3FhH3UVmQq44bh
+
+----
+
+Customer: page://fEgNYhgaLDG3CQLU
+
+----
+
+Uuid: dKDH6krID5yFuceU

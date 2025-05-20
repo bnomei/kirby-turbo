@@ -1,0 +1,17 @@
+Title: Inv 2622
+
+----
+
+Inventory-id: 2622
+
+----
+
+Film: page://9ZSq3jsPFNUmTNqD
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: HqUWBRSpGdZCczGl

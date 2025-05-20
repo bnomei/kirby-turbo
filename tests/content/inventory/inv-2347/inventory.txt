@@ -1,0 +1,17 @@
+Title: Inv 2347
+
+----
+
+Inventory-id: 2347
+
+----
+
+Film: page://7WCQXs9LnFovxfXj
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ZjRI5Arckx2fExBp

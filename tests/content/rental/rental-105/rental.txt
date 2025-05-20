@@ -1,0 +1,25 @@
+Title: Rental 105
+
+----
+
+Rental-id: 105
+
+----
+
+Rental-date: 2005-05-25 17:54:12
+
+----
+
+Return-date: 2005-05-30 12:03:12
+
+----
+
+Inventory: page://KAPNP4E9Hkzbl8Sw
+
+----
+
+Uuid: uBg3BITJlYYxpZp7
+
+----
+
+Customer: page://VPA8X8lftFbJP7Oh

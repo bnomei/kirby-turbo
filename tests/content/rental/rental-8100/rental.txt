@@ -1,0 +1,25 @@
+Title: Rental 8100
+
+----
+
+Rental-id: 8100
+
+----
+
+Rental-date: 2005-07-28 18:43:11
+
+----
+
+Return-date: 2005-08-02 15:56:11
+
+----
+
+Inventory: page://mXpv9VKr66yoKh6D
+
+----
+
+Customer: page://siq3em0WWnT86bTU
+
+----
+
+Uuid: JAnMA4RJvmZ8IhlV

@@ -1,0 +1,25 @@
+Title: Rental 8200
+
+----
+
+Rental-id: 8200
+
+----
+
+Rental-date: 2005-07-28 23:10:46
+
+----
+
+Return-date: 2005-07-29 18:35:46
+
+----
+
+Inventory: page://98QhjJ2lZ7hPTzPz
+
+----
+
+Customer: page://FVBT09sa4x7FnbO2
+
+----
+
+Uuid: OkfI0lEED1JoHOlK

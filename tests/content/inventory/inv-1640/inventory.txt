@@ -1,0 +1,17 @@
+Title: Inv 1640
+
+----
+
+Inventory-id: 1640
+
+----
+
+Film: page://w9l9UyxtC5FkGl4s
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 0ZivTayYLWQ8fxu6

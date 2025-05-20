@@ -1,0 +1,25 @@
+Title: Rental 1705
+
+----
+
+Rental-id: 1705
+
+----
+
+Rental-date: 2005-06-16 13:59:42
+
+----
+
+Return-date: 2005-06-18 19:54:42
+
+----
+
+Inventory: page://HuXHp6vyd6OHkZm6
+
+----
+
+Uuid: V1XmFT6SgnMcvnWQ
+
+----
+
+Customer: page://IRu2BC3kihoj0lej

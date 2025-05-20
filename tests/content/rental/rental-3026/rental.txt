@@ -1,0 +1,25 @@
+Title: Rental 3026
+
+----
+
+Rental-id: 3026
+
+----
+
+Rental-date: 2005-06-20 11:48:00
+
+----
+
+Return-date: 2005-06-21 12:51:00
+
+----
+
+Inventory: page://E7e9o5P03OJOYfms
+
+----
+
+Uuid: l07jUAXbqD7aGhl7
+
+----
+
+Customer: page://biqDPcEyu5xA9fNA

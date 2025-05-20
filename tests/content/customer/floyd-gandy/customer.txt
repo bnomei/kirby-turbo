@@ -1,0 +1,33 @@
+Title: FLOYD GANDY
+
+----
+
+Customer-id: 465
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: FLOYD
+
+----
+
+Last-name: GANDY
+
+----
+
+Email: FLOYD.GANDY@sakilacustomer.org
+
+----
+
+Address: page://zrkn5C1P9yQ6KKzV
+
+----
+
+Active: 1
+
+----
+
+Uuid: 6GC3Hgx1HgV9Jfdp

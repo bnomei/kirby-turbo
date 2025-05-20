@@ -1,0 +1,17 @@
+Title: Inv 2182
+
+----
+
+Inventory-id: 2182
+
+----
+
+Film: page://Bv6L95VodOf07txg
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: kQf03XRsUfEYXoZr

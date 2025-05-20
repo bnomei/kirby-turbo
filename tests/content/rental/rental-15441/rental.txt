@@ -1,0 +1,21 @@
+Title: Rental 15441
+
+----
+
+Rental-id: 15441
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://W5baC8GFn0Mdy9rl
+
+----
+
+Customer: page://B6FDvvDBHRaKmtPn
+
+----
+
+Uuid: Uvoh7Tk7gTT4TsSh

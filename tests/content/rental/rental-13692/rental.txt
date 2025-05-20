@@ -1,0 +1,25 @@
+Title: Rental 13692
+
+----
+
+Rental-id: 13692
+
+----
+
+Rental-date: 2005-08-20 09:07:52
+
+----
+
+Return-date: 2005-08-21 05:17:52
+
+----
+
+Inventory: page://HBT7LiadvpL17q7o
+
+----
+
+Customer: page://kWd5QCzRzfjxEGaD
+
+----
+
+Uuid: kekEslw4I3QXyzK9

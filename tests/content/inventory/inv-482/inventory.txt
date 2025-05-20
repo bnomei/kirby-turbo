@@ -1,0 +1,17 @@
+Title: Inv 482
+
+----
+
+Inventory-id: 482
+
+----
+
+Film: page://vvOAsvB9JAMRppph
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: b2TggOOjKyZi1zag

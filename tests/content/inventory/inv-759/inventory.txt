@@ -1,0 +1,17 @@
+Title: Inv 759
+
+----
+
+Inventory-id: 759
+
+----
+
+Film: page://eHq1c3vcaeybCh3j
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: EMYv1B2yj23qEV1s

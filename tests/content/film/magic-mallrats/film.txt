@@ -1,0 +1,42 @@
+Title: MAGIC MALLRATS
+
+----
+
+Actors:
+
+- 'page://AvkKtwk9lLurZvzW'
+- 'page://Kx231VrTuxlFk3Xg'
+- 'page://GA1ldK0BGihIEfd4'
+- 'page://YBKuIiLT3VizSQRI'
+
+----
+
+Film-id: 547
+
+----
+
+Description: A Touching Documentary of a Pastry Chef And a Pastry Chef who must Build a Mad Scientist in California
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 117
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: zK1GtkhFkOxz6SvY
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

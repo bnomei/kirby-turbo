@@ -1,0 +1,17 @@
+Title: Inv 999
+
+----
+
+Inventory-id: 999
+
+----
+
+Film: page://qZwhOJmBqcMJ3mz8
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: oBN9eCPVb32gMJtv

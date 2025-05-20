@@ -1,0 +1,25 @@
+Title: Rental 11210
+
+----
+
+Rental-id: 11210
+
+----
+
+Rental-date: 2005-08-02 12:15:54
+
+----
+
+Return-date: 2005-08-04 16:18:54
+
+----
+
+Inventory: page://ouWzjmQgFc4eHGw8
+
+----
+
+Customer: page://xf0Razr3zNGtiAuD
+
+----
+
+Uuid: LkP2Afo4AkLKQ3O6

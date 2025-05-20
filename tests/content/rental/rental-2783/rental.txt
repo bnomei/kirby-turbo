@@ -1,0 +1,25 @@
+Title: Rental 2783
+
+----
+
+Rental-id: 2783
+
+----
+
+Rental-date: 2005-06-19 18:29:10
+
+----
+
+Return-date: 2005-06-21 22:09:10
+
+----
+
+Inventory: page://9BhwemC4wYwLyhrf
+
+----
+
+Uuid: r5nLDtMloLmtdlW9
+
+----
+
+Customer: page://f9IsYLta6d6VDgIZ

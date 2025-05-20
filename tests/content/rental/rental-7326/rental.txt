@@ -1,0 +1,25 @@
+Title: Rental 7326
+
+----
+
+Rental-id: 7326
+
+----
+
+Rental-date: 2005-07-27 13:50:40
+
+----
+
+Return-date: 2005-07-30 08:16:40
+
+----
+
+Inventory: page://1ODo1acCfIDaUTYL
+
+----
+
+Customer: page://UUq0CNtGhFxoj9KF
+
+----
+
+Uuid: kyeFcSMW2JRErmr7

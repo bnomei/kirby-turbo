@@ -1,0 +1,25 @@
+Title: Rental 5258
+
+----
+
+Rental-id: 5258
+
+----
+
+Rental-date: 2005-07-09 13:56:56
+
+----
+
+Return-date: 2005-07-11 16:01:56
+
+----
+
+Inventory: page://g53wM5ISC0zRKNqQ
+
+----
+
+Uuid: 2WtF5MfiRqaJM8WR
+
+----
+
+Customer: page://wMkYUds0NaSHubNn

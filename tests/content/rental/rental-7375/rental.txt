@@ -1,0 +1,25 @@
+Title: Rental 7375
+
+----
+
+Rental-id: 7375
+
+----
+
+Rental-date: 2005-07-27 15:22:33
+
+----
+
+Return-date: 2005-08-01 20:06:33
+
+----
+
+Inventory: page://qIFobm2O3jZXdPBU
+
+----
+
+Customer: page://gKmpQHO21X5bYTQe
+
+----
+
+Uuid: PUdOBEODitDvyHiW

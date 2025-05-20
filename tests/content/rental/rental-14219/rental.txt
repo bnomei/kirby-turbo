@@ -1,0 +1,21 @@
+Title: Rental 14219
+
+----
+
+Rental-id: 14219
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://VF3B9roFQcc5y8mk
+
+----
+
+Customer: page://1lV61pgXzMTI9zGL
+
+----
+
+Uuid: n1lkFqbrhgRN8I4G

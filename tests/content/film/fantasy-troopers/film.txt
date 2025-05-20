@@ -1,0 +1,47 @@
+Title: FANTASY TROOPERS
+
+----
+
+Actors:
+
+- 'page://OwcwI2sE5Nr5L1Ju'
+- 'page://s69sG8lNdmqtvA7p'
+- 'page://kIGWs86teYEK5yIM'
+- 'page://humVtsLQfFTV2gvC'
+- 'page://CI649GdI5JvIKbQ1'
+- 'page://OqV4tbW7WtFrMtYI'
+- 'page://CBtLT02Rklp5i11L'
+- 'page://IUEdThBjLk8TNUwy'
+- 'page://FLMpVB5CVJFKSGVy'
+
+----
+
+Film-id: 303
+
+----
+
+Description: A Touching Saga of a Teacher And a Monkey who must Overcome a Secret Agent in A MySQL Convention
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 58
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: SfVKFITCqVw73PWG
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

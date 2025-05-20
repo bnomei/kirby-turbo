@@ -1,0 +1,25 @@
+Title: Rental 9650
+
+----
+
+Rental-id: 9650
+
+----
+
+Rental-date: 2005-07-31 05:47:32
+
+----
+
+Return-date: 2005-08-04 00:50:32
+
+----
+
+Inventory: page://kxytW8CLRcYehVLi
+
+----
+
+Customer: page://0ErgJ6kLkZUKKYCI
+
+----
+
+Uuid: CGK9xnEGkYMrNju1

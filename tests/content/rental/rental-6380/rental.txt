@@ -1,0 +1,25 @@
+Title: Rental 6380
+
+----
+
+Rental-id: 6380
+
+----
+
+Rental-date: 2005-07-11 21:55:40
+
+----
+
+Return-date: 2005-07-17 20:42:40
+
+----
+
+Inventory: page://1MHW9t1P0EBJOTve
+
+----
+
+Uuid: nmHTpUBElVzfHCCJ
+
+----
+
+Customer: page://EyDPLO3Eg43hOXws

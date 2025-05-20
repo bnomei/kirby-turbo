@@ -1,0 +1,25 @@
+Title: Rental 6363
+
+----
+
+Rental-id: 6363
+
+----
+
+Rental-date: 2005-07-11 21:13:19
+
+----
+
+Return-date: 2005-07-20 15:44:19
+
+----
+
+Inventory: page://FQfr8sa69sevPq8O
+
+----
+
+Uuid: eAft6O4UmsfJMpjn
+
+----
+
+Customer: page://gEZ3qN9Yi6NtmTSr

@@ -1,0 +1,17 @@
+Title: Araçatuba
+
+----
+
+City-id: 30
+
+----
+
+City: Araçatuba
+
+----
+
+Country: page://jIqa2ZvYow6Egqhx
+
+----
+
+Uuid: Q8wsMXtcJqJERs2Z

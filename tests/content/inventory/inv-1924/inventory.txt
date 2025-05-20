@@ -1,0 +1,17 @@
+Title: Inv 1924
+
+----
+
+Inventory-id: 1924
+
+----
+
+Film: page://843vIja6ZhhXNEBy
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: JMotHJ6flxvVl6vT

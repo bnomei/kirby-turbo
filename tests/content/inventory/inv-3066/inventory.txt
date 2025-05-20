@@ -1,0 +1,17 @@
+Title: Inv 3066
+
+----
+
+Inventory-id: 3066
+
+----
+
+Film: page://NMgpIxCSBMF6DTpT
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 2pYYxASkVTdbtgxV

@@ -1,0 +1,33 @@
+Title: JESSICA HALL
+
+----
+
+Customer-id: 26
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JESSICA
+
+----
+
+Last-name: HALL
+
+----
+
+Email: JESSICA.HALL@sakilacustomer.org
+
+----
+
+Address: page://auW2v2IYSfVWGi4J
+
+----
+
+Active: 1
+
+----
+
+Uuid: M0U3K1RrRahNRLAP

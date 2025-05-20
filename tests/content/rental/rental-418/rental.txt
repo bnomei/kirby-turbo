@@ -1,0 +1,25 @@
+Title: Rental 418
+
+----
+
+Rental-id: 418
+
+----
+
+Rental-date: 2005-05-27 15:13:17
+
+----
+
+Return-date: 2005-06-04 12:05:17
+
+----
+
+Inventory: page://mIgMpDQyZx1Dvin9
+
+----
+
+Uuid: JbE4SvUO9EUS5OGX
+
+----
+
+Customer: page://NRpZQOvTU2QBVcZc

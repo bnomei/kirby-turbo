@@ -1,0 +1,25 @@
+Title: Rental 2026
+
+----
+
+Rental-id: 2026
+
+----
+
+Rental-date: 2005-06-17 13:05:38
+
+----
+
+Return-date: 2005-06-21 17:19:38
+
+----
+
+Inventory: page://6oYr2xqc6i2OTSIe
+
+----
+
+Uuid: uM4x8nRj37rldODL
+
+----
+
+Customer: page://kAtIvC3GuVrHNW6C

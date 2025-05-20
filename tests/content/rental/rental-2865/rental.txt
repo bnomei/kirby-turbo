@@ -1,0 +1,25 @@
+Title: Rental 2865
+
+----
+
+Rental-id: 2865
+
+----
+
+Rental-date: 2005-06-20 00:00:55
+
+----
+
+Return-date: 2005-06-21 02:20:55
+
+----
+
+Inventory: page://EM1O2NjFROZJy5RS
+
+----
+
+Uuid: Lipa2l61gNiZe6rB
+
+----
+
+Customer: page://hkYVD2f74BBcnfGT

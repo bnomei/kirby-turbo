@@ -1,0 +1,33 @@
+Title: JULIO NOLAND
+
+----
+
+Customer-id: 545
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JULIO
+
+----
+
+Last-name: NOLAND
+
+----
+
+Email: JULIO.NOLAND@sakilacustomer.org
+
+----
+
+Address: page://89ANJiX5DDJNI0T5
+
+----
+
+Active: 1
+
+----
+
+Uuid: Yh1wxvDrPfYOmxl5

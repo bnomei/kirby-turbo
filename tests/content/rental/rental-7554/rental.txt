@@ -1,0 +1,25 @@
+Title: Rental 7554
+
+----
+
+Rental-id: 7554
+
+----
+
+Rental-date: 2005-07-27 22:12:41
+
+----
+
+Return-date: 2005-08-04 01:34:41
+
+----
+
+Inventory: page://BMdPg370FIBzxpRS
+
+----
+
+Customer: page://85ovZXEWpqXAx1KN
+
+----
+
+Uuid: qrp3oR1GwTRAmrMV

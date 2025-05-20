@@ -1,0 +1,17 @@
+Title: Inv 296
+
+----
+
+Inventory-id: 296
+
+----
+
+Film: page://Dfv0e5Nc8Xyf5wF3
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: V14pCEfn2dUQlrnS

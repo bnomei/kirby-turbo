@@ -1,0 +1,25 @@
+Title: Rental 737
+
+----
+
+Rental-id: 737
+
+----
+
+Rental-date: 2005-05-29 08:11:31
+
+----
+
+Return-date: 2005-06-04 11:18:31
+
+----
+
+Inventory: page://FTlNvtk00mSFrD6K
+
+----
+
+Uuid: UmLEhJLIBfV8zPc7
+
+----
+
+Customer: page://781kVzIovJEOwBVl

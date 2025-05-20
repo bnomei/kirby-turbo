@@ -1,0 +1,25 @@
+Title: Rental 3052
+
+----
+
+Rental-id: 3052
+
+----
+
+Rental-date: 2005-06-20 13:09:19
+
+----
+
+Return-date: 2005-06-29 11:55:19
+
+----
+
+Inventory: page://WnwhYhcfBbMhXjCi
+
+----
+
+Uuid: k4YNKoDXlnOQlN7I
+
+----
+
+Customer: page://uPhvBTY0GbGPCouW

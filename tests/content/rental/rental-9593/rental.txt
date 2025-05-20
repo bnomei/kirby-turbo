@@ -1,0 +1,25 @@
+Title: Rental 9593
+
+----
+
+Rental-id: 9593
+
+----
+
+Rental-date: 2005-07-31 03:22:30
+
+----
+
+Return-date: 2005-08-05 08:23:30
+
+----
+
+Inventory: page://sCNqk1P2k6xx2c7O
+
+----
+
+Customer: page://9GMMxk4OJQFuLIWJ
+
+----
+
+Uuid: GCjVr2hZ1JFBFDrl

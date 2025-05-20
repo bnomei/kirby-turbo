@@ -1,0 +1,46 @@
+Title: IDOLS SNATCHERS
+
+----
+
+Actors:
+
+- 'page://Kx231VrTuxlFk3Xg'
+- 'page://L8EgxOu9xdHGpzVg'
+- 'page://3oaBypMbXEPYhgeK'
+- 'page://64SCw7TVQ1KFgpJt'
+- 'page://DJVklNozM1l2RK0x'
+- 'page://iZwJlBg8wszU4t4i'
+- 'page://hzpjO6QvzfyB1LBD'
+- 'page://FLMpVB5CVJFKSGVy'
+
+----
+
+Film-id: 450
+
+----
+
+Description: A Insightful Drama of a Car And a Composer who must Fight a Man in A Monastery
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 84
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: lyaPuzFBKAqATiG8
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

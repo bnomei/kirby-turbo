@@ -1,0 +1,25 @@
+Title: Rental 453
+
+----
+
+Rental-id: 453
+
+----
+
+Rental-date: 2005-05-27 19:31:16
+
+----
+
+Return-date: 2005-05-29 23:06:16
+
+----
+
+Inventory: page://d2xtR3AcMkMDHCBy
+
+----
+
+Uuid: JiHN5iINQQUo9IBY
+
+----
+
+Customer: page://6T1yeRwVMaJSaTXA

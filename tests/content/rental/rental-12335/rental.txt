@@ -1,0 +1,25 @@
+Title: Rental 12335
+
+----
+
+Rental-id: 12335
+
+----
+
+Rental-date: 2005-08-18 06:59:15
+
+----
+
+Return-date: 2005-08-20 06:47:15
+
+----
+
+Inventory: page://jsJkNLWEfTAnI71s
+
+----
+
+Customer: page://qnkS0qeAEHNLa6TI
+
+----
+
+Uuid: Vq9ichE5SOyv5Tyd

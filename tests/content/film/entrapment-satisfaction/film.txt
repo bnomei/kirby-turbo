@@ -1,0 +1,42 @@
+Title: ENTRAPMENT SATISFACTION
+
+----
+
+Actors:
+
+- 'page://EfT0PAFDrVUk4H1Y'
+- 'page://pAFoAtJmRtH6ome4'
+- 'page://8uCKHWVFS7qGgYjl'
+- 'page://pokjngmFMjrhDsLQ'
+
+----
+
+Film-id: 287
+
+----
+
+Description: A Thoughtful Panorama of a Hunter And a Teacher who must Reach a Mad Cow in A U-Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 176
+
+----
+
+Rating: R
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: DEUkTtv2K51Zdcvf
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

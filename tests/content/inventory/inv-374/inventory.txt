@@ -1,0 +1,17 @@
+Title: Inv 374
+
+----
+
+Inventory-id: 374
+
+----
+
+Film: page://wsVJXNfnbxmaVfQ6
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: QJBoxkrl5m4JOdTC

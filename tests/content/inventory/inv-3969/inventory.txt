@@ -1,0 +1,17 @@
+Title: Inv 3969
+
+----
+
+Inventory-id: 3969
+
+----
+
+Film: page://d3ucrSFTIamNJlRe
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 5Z1yfKgIzSPaAxdH

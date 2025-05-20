@@ -1,0 +1,33 @@
+Title: JONATHAN SCARBOROUGH
+
+----
+
+Customer-id: 353
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JONATHAN
+
+----
+
+Last-name: SCARBOROUGH
+
+----
+
+Email: JONATHAN.SCARBOROUGH@sakilacustomer.org
+
+----
+
+Address: page://DE3CIMOKsfmebS8Q
+
+----
+
+Active: 1
+
+----
+
+Uuid: wXKEkL0tNBt3nJ5m

@@ -1,0 +1,25 @@
+Title: Rental 10216
+
+----
+
+Rental-id: 10216
+
+----
+
+Rental-date: 2005-08-01 01:06:27
+
+----
+
+Return-date: 2005-08-08 22:41:27
+
+----
+
+Inventory: page://9cL5SRA6SvlXqTPF
+
+----
+
+Customer: page://bsdF0qup1RBkJReP
+
+----
+
+Uuid: mn5UZWOK1lxK0Nmq

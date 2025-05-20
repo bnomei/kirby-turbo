@@ -1,0 +1,25 @@
+Title: Rental 4543
+
+----
+
+Rental-id: 4543
+
+----
+
+Rental-date: 2005-07-08 04:06:55
+
+----
+
+Return-date: 2005-07-12 23:17:55
+
+----
+
+Inventory: page://x82SoaBeVn0lql64
+
+----
+
+Uuid: K70H3ZxbDL7dobBm
+
+----
+
+Customer: page://uE84jSPn6fUxfq6A

@@ -1,0 +1,43 @@
+Title: BREAKFAST GOLDFINGER
+
+----
+
+Actors:
+
+- 'page://rrHZ6f6sSm29JuNB'
+- 'page://3BcvBP3gfacEDPsU'
+- 'page://X3dUYAbt0AiREsIH'
+- 'page://nVYE704vdPRRS8fI'
+- 'page://WNZ5mNUGrC10JaZI'
+
+----
+
+Film-id: 95
+
+----
+
+Description: A Beautiful Reflection of a Student And a Student who must Fight a Moose in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 123
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: UDRzcOuLrnysidLO
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

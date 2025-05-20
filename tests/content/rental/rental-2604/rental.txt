@@ -1,0 +1,25 @@
+Title: Rental 2604
+
+----
+
+Rental-id: 2604
+
+----
+
+Rental-date: 2005-06-19 06:30:10
+
+----
+
+Return-date: 2005-06-25 11:16:10
+
+----
+
+Inventory: page://KGD3LXq65CTrNLaU
+
+----
+
+Uuid: HCdhLIGfd2aAFzSl
+
+----
+
+Customer: page://9GMMxk4OJQFuLIWJ

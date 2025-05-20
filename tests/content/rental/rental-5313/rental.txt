@@ -1,0 +1,25 @@
+Title: Rental 5313
+
+----
+
+Rental-id: 5313
+
+----
+
+Rental-date: 2005-07-09 16:04:45
+
+----
+
+Return-date: 2005-07-17 18:53:45
+
+----
+
+Inventory: page://4VosnWJpwY9oPBhy
+
+----
+
+Uuid: yOfjPqnK51omAyAB
+
+----
+
+Customer: page://3Ykof1YEOYPBKag8

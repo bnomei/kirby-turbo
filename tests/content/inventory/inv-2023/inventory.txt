@@ -1,0 +1,17 @@
+Title: Inv 2023
+
+----
+
+Inventory-id: 2023
+
+----
+
+Film: page://mfTWEAUghnDLo5qx
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: z4I3wSjnDEyg9tmm

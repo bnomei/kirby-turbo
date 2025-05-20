@@ -1,0 +1,25 @@
+Title: Rental 995
+
+----
+
+Rental-id: 995
+
+----
+
+Rental-date: 2005-05-31 00:06:02
+
+----
+
+Return-date: 2005-06-06 02:30:02
+
+----
+
+Inventory: page://2zg5BtbJvoRneIDz
+
+----
+
+Uuid: l8iKPR39e9kfEgID
+
+----
+
+Customer: page://qnkS0qeAEHNLa6TI

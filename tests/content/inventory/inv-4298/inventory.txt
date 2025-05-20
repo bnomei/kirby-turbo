@@ -1,0 +1,17 @@
+Title: Inv 4298
+
+----
+
+Inventory-id: 4298
+
+----
+
+Film: page://9cdDMs1GwB0y1Px9
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: M6pjFy8hVBzxFQlH

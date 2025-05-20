@@ -1,0 +1,25 @@
+Title: Rental 10125
+
+----
+
+Rental-id: 10125
+
+----
+
+Rental-date: 2005-07-31 21:33:03
+
+----
+
+Return-date: 2005-08-01 19:10:03
+
+----
+
+Inventory: page://RNVWEhSxmznyBKfN
+
+----
+
+Customer: page://julxqmzKuY3KPZ0W
+
+----
+
+Uuid: e3ypqLLr5iVlzOz3

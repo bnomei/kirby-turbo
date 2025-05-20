@@ -1,0 +1,17 @@
+Title: Inv 4007
+
+----
+
+Inventory-id: 4007
+
+----
+
+Film: page://cn9AOQAnZeZdaw2T
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: xpE3VMYvlkeiizkw

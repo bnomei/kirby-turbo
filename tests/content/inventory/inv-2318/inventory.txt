@@ -1,0 +1,17 @@
+Title: Inv 2318
+
+----
+
+Inventory-id: 2318
+
+----
+
+Film: page://sfkJXJixgW6wCSbl
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: TuQjZB02Zj8nis8D

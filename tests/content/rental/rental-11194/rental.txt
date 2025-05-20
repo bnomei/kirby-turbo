@@ -1,0 +1,25 @@
+Title: Rental 11194
+
+----
+
+Rental-id: 11194
+
+----
+
+Rental-date: 2005-08-02 11:35:53
+
+----
+
+Return-date: 2005-08-10 11:28:53
+
+----
+
+Inventory: page://X7ZGc6P7vpFlrklc
+
+----
+
+Customer: page://85ovZXEWpqXAx1KN
+
+----
+
+Uuid: 7pdQVnmfdsRpW3gD

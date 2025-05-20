@@ -1,0 +1,25 @@
+Title: Rental 4164
+
+----
+
+Rental-id: 4164
+
+----
+
+Rental-date: 2005-07-07 09:20:11
+
+----
+
+Return-date: 2005-07-14 09:35:11
+
+----
+
+Inventory: page://WXUSPC3yjVwPs5n6
+
+----
+
+Uuid: W4a8eYNHzsrEVUWt
+
+----
+
+Customer: page://MMjN8znOj5ltCet6

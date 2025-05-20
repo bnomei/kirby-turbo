@@ -1,0 +1,21 @@
+Title: Rental 14933
+
+----
+
+Rental-id: 14933
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://nWW6XOG3qq94BnOR
+
+----
+
+Customer: page://KYkY8aG06K2r16Xn
+
+----
+
+Uuid: 2zLOsaiVXyEbKYUb

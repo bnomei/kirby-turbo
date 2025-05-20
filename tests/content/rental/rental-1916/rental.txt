@@ -1,0 +1,25 @@
+Title: Rental 1916
+
+----
+
+Rental-id: 1916
+
+----
+
+Rental-date: 2005-06-17 05:29:59
+
+----
+
+Return-date: 2005-06-26 05:35:59
+
+----
+
+Inventory: page://ly8XRn38TUP55YBi
+
+----
+
+Uuid: P4y8dMzVUBPUcZpu
+
+----
+
+Customer: page://j2E1ltZ4ghv3z4iP

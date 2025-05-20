@@ -1,0 +1,33 @@
+Title: MARTIN BALES
+
+----
+
+Customer-id: 383
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MARTIN
+
+----
+
+Last-name: BALES
+
+----
+
+Email: MARTIN.BALES@sakilacustomer.org
+
+----
+
+Address: page://PpUOUaknWdirLJ3w
+
+----
+
+Active: 1
+
+----
+
+Uuid: 4AtPAY3CI88EjmxK

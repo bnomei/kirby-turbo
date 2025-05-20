@@ -1,0 +1,33 @@
+Title: ALICE STEWART
+
+----
+
+Customer-id: 51
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ALICE
+
+----
+
+Last-name: STEWART
+
+----
+
+Email: ALICE.STEWART@sakilacustomer.org
+
+----
+
+Address: page://Rh9bnC1IsuWW9KdM
+
+----
+
+Active: 1
+
+----
+
+Uuid: zknldlKtd93y9Xrm

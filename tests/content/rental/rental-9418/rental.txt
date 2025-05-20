@@ -1,0 +1,25 @@
+Title: Rental 9418
+
+----
+
+Rental-id: 9418
+
+----
+
+Rental-date: 2005-07-30 21:00:52
+
+----
+
+Return-date: 2005-08-08 15:56:52
+
+----
+
+Inventory: page://nQQkSKaxeJhZwZRQ
+
+----
+
+Customer: page://kgSm33zdyJ1gD7mK
+
+----
+
+Uuid: hOILWXrR8iUsa37S

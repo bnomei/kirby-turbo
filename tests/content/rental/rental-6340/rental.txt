@@ -1,0 +1,25 @@
+Title: Rental 6340
+
+----
+
+Rental-id: 6340
+
+----
+
+Rental-date: 2005-07-11 19:46:05
+
+----
+
+Return-date: 2005-07-20 16:51:05
+
+----
+
+Inventory: page://Tx6Z0ASraZ10fAad
+
+----
+
+Uuid: 79FKLW3SsrtKVAGB
+
+----
+
+Customer: page://PTRh5UK45MCW3LWn

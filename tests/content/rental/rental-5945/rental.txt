@@ -1,0 +1,25 @@
+Title: Rental 5945
+
+----
+
+Rental-id: 5945
+
+----
+
+Rental-date: 2005-07-10 22:52:42
+
+----
+
+Return-date: 2005-07-11 21:52:42
+
+----
+
+Inventory: page://v1BV4HV04L24UG89
+
+----
+
+Uuid: 9kwZkzFg7ZyOFKX0
+
+----
+
+Customer: page://T8FvGnbHYCWqhKEc

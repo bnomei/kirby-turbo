@@ -1,0 +1,25 @@
+Title: Rental 15517
+
+----
+
+Rental-id: 15517
+
+----
+
+Rental-date: 2005-08-23 03:13:01
+
+----
+
+Return-date: 2005-08-25 21:14:01
+
+----
+
+Inventory: page://09sEYrzqXQuZ6kiw
+
+----
+
+Customer: page://Hch3ic6HbUBQQHSI
+
+----
+
+Uuid: K2RcjHV2zROGw2W9

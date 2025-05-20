@@ -1,0 +1,17 @@
+Title: Inv 3975
+
+----
+
+Inventory-id: 3975
+
+----
+
+Film: page://fYRc36rW8POmF0Wx
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: uQjEIhfjL3327MC6

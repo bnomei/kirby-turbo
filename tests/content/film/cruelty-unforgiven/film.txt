@@ -1,0 +1,40 @@
+Title: CRUELTY UNFORGIVEN
+
+----
+
+Actors:
+
+- 'page://s69sG8lNdmqtvA7p'
+- 'page://18rsmrxh7jfYQ50K'
+
+----
+
+Film-id: 196
+
+----
+
+Description: A Brilliant Tale of a Car And a Moose who must Battle a Dentist in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 69
+
+----
+
+Rating: G
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: uzY3tO1BBupFfBYF
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

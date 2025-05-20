@@ -1,0 +1,33 @@
+Title: GLENDA FRAZIER
+
+----
+
+Customer-id: 242
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: GLENDA
+
+----
+
+Last-name: FRAZIER
+
+----
+
+Email: GLENDA.FRAZIER@sakilacustomer.org
+
+----
+
+Address: page://kHL22QWD5AgI9E3q
+
+----
+
+Active: 1
+
+----
+
+Uuid: Q5O2bHZdTW7BhoOc

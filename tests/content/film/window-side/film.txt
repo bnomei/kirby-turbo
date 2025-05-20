@@ -1,0 +1,42 @@
+Title: WINDOW SIDE
+
+----
+
+Actors:
+
+- 'page://5ruVLAhmJBWUKPci'
+- 'page://NmIbTpy4ZSHrHfnI'
+- 'page://wxM7fPnQeVIlPpuJ'
+- 'page://ohgPd8XBH6s5Q55J'
+
+----
+
+Film-id: 977
+
+----
+
+Description: A Astounding Character Study of a Womanizer And a Hunter who must Escape a Robot in A Monastery
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 85
+
+----
+
+Rating: R
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: FPrjCJWi1SXCx5st
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

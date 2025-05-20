@@ -1,0 +1,25 @@
+Title: Rental 6695
+
+----
+
+Rental-id: 6695
+
+----
+
+Rental-date: 2005-07-12 12:39:39
+
+----
+
+Return-date: 2005-07-17 13:36:39
+
+----
+
+Inventory: page://HXrWpUVu502ic7On
+
+----
+
+Uuid: XaBRVpghubeOB82R
+
+----
+
+Customer: page://x8Y8aJxOEpTBihF2

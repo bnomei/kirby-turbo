@@ -1,0 +1,17 @@
+Title: Inv 2230
+
+----
+
+Inventory-id: 2230
+
+----
+
+Film: page://jsCmt8ncHfsHlTnL
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: pfUP4sGPSIZlhQH6

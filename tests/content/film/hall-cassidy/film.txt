@@ -1,0 +1,43 @@
+Title: HALL CASSIDY
+
+----
+
+Actors:
+
+- 'page://S52CrIK06oYgWrwP'
+- 'page://jG0aUFRzU1eFlO8R'
+- 'page://RdhM2Q1bNuSOC3ck'
+- 'page://wxM7fPnQeVIlPpuJ'
+- 'page://s3p9MagWJdWouacJ'
+
+----
+
+Film-id: 392
+
+----
+
+Description: A Beautiful Panorama of a Pastry Chef And a A Shark who must Battle a Pioneer in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 51
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: 8wDEgH9F2alyHozl
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

@@ -1,0 +1,25 @@
+Title: Rental 913
+
+----
+
+Rental-id: 913
+
+----
+
+Rental-date: 2005-05-30 11:04:58
+
+----
+
+Return-date: 2005-06-07 13:22:58
+
+----
+
+Inventory: page://DfItss2wxtnEk675
+
+----
+
+Uuid: U5BgNfuU3cVlpl1u
+
+----
+
+Customer: page://J9AjFYg5VoQ4Yy04

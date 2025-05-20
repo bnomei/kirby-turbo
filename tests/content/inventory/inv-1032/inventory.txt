@@ -1,0 +1,17 @@
+Title: Inv 1032
+
+----
+
+Inventory-id: 1032
+
+----
+
+Film: page://MRli9sa1iLQi2MPV
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Mdwt5HbrTJito7yi

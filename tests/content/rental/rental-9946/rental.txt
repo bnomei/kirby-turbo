@@ -1,0 +1,25 @@
+Title: Rental 9946
+
+----
+
+Rental-id: 9946
+
+----
+
+Rental-date: 2005-07-31 15:48:54
+
+----
+
+Return-date: 2005-08-03 12:42:54
+
+----
+
+Inventory: page://XVz8QX3UlrqDwXsM
+
+----
+
+Customer: page://c7lkRFQFPsFgIejg
+
+----
+
+Uuid: NzGw6FoeTK5nW22a

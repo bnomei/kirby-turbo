@@ -1,0 +1,17 @@
+Title: Inv 2672
+
+----
+
+Inventory-id: 2672
+
+----
+
+Film: page://5g6zKOX9LThAZKIY
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: pFW9d8WmJMFS87TF

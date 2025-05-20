@@ -1,0 +1,25 @@
+Title: Rental 2070
+
+----
+
+Rental-id: 2070
+
+----
+
+Rental-date: 2005-06-17 16:27:51
+
+----
+
+Return-date: 2005-06-20 20:46:51
+
+----
+
+Inventory: page://OxD3JVnxUNj96yNS
+
+----
+
+Uuid: avtRVswiY54mfr56
+
+----
+
+Customer: page://uQ3yoFTPxzlyQ9oP

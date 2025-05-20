@@ -1,0 +1,33 @@
+Title: JAY ROBB
+
+----
+
+Customer-id: 450
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JAY
+
+----
+
+Last-name: ROBB
+
+----
+
+Email: JAY.ROBB@sakilacustomer.org
+
+----
+
+Address: page://px04SQ1S6nIDIBeU
+
+----
+
+Active: 1
+
+----
+
+Uuid: iEI8EkTsORmGUdqi

@@ -1,0 +1,25 @@
+Title: Rental 4043
+
+----
+
+Rental-id: 4043
+
+----
+
+Rental-date: 2005-07-07 03:09:50
+
+----
+
+Return-date: 2005-07-10 07:49:50
+
+----
+
+Inventory: page://hrEO67fXUp8j2HQm
+
+----
+
+Uuid: r4VaDu5QEcUsOo2I
+
+----
+
+Customer: page://EHG1KPde4Qz7eHkw

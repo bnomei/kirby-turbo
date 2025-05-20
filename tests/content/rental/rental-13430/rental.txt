@@ -1,0 +1,25 @@
+Title: Rental 13430
+
+----
+
+Rental-id: 13430
+
+----
+
+Rental-date: 2005-08-19 23:25:43
+
+----
+
+Return-date: 2005-08-22 18:41:43
+
+----
+
+Inventory: page://hYwvP86QBAthTPpn
+
+----
+
+Customer: page://gKmpQHO21X5bYTQe
+
+----
+
+Uuid: OipVjV7JeM1g56zL

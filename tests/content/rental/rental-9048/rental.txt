@@ -1,0 +1,25 @@
+Title: Rental 9048
+
+----
+
+Rental-id: 9048
+
+----
+
+Rental-date: 2005-07-30 06:57:07
+
+----
+
+Return-date: 2005-08-05 00:57:07
+
+----
+
+Inventory: page://guieI4eCFWgPkMcr
+
+----
+
+Customer: page://QeuxX9yTBxjOmAeR
+
+----
+
+Uuid: EMG96H1D4GawqUrJ

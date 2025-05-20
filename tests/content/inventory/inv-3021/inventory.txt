@@ -1,0 +1,17 @@
+Title: Inv 3021
+
+----
+
+Inventory-id: 3021
+
+----
+
+Film: page://kZs95FwsP3In7Yk1
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: pGBWVDa2kzPbhuy8

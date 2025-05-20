@@ -1,0 +1,25 @@
+Title: Rental 116
+
+----
+
+Rental-id: 116
+
+----
+
+Rental-date: 2005-05-25 19:27:51
+
+----
+
+Return-date: 2005-05-26 16:23:51
+
+----
+
+Inventory: page://fqW89h7yDCyFBTmW
+
+----
+
+Uuid: 2gvJYE03wsFZ3J6e
+
+----
+
+Customer: page://4PvCN4u0ZNDQjU3C

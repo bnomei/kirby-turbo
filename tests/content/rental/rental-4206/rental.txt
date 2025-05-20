@@ -1,0 +1,25 @@
+Title: Rental 4206
+
+----
+
+Rental-id: 4206
+
+----
+
+Rental-date: 2005-07-07 11:32:16
+
+----
+
+Return-date: 2005-07-14 13:07:16
+
+----
+
+Inventory: page://RprTImMFDtYr2vBe
+
+----
+
+Uuid: KAtno9hM38Dp6VcG
+
+----
+
+Customer: page://J2P0f5RgZsLYfwfF

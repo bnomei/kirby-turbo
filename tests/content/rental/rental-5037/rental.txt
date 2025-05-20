@@ -1,0 +1,25 @@
+Title: Rental 5037
+
+----
+
+Rental-id: 5037
+
+----
+
+Rental-date: 2005-07-09 02:59:10
+
+----
+
+Return-date: 2005-07-15 07:54:10
+
+----
+
+Inventory: page://MCgC6Way5f0Mph8f
+
+----
+
+Uuid: TzwU73qoj6l9GB7N
+
+----
+
+Customer: page://DVIVTmAM0LOCEI7a

@@ -1,0 +1,17 @@
+Title: Inv 664
+
+----
+
+Inventory-id: 664
+
+----
+
+Film: page://1iyJBIlxuR9BDdK6
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: U3RmUz9X8Rsm1V0R

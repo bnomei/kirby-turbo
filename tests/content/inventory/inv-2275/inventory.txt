@@ -1,0 +1,17 @@
+Title: Inv 2275
+
+----
+
+Inventory-id: 2275
+
+----
+
+Film: page://jGmVHtV5VR5Nsg4l
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: cuDNcQO9Ar4TSVBc

@@ -1,0 +1,25 @@
+Title: Rental 10131
+
+----
+
+Rental-id: 10131
+
+----
+
+Rental-date: 2005-07-31 21:45:28
+
+----
+
+Return-date: 2005-08-04 00:19:28
+
+----
+
+Inventory: page://LmucoCZELDK8ojz8
+
+----
+
+Customer: page://4dgC5GQYx4NZ72Ge
+
+----
+
+Uuid: nReYrc9UohRxnO3q

@@ -1,0 +1,17 @@
+Title: Inv 4048
+
+----
+
+Inventory-id: 4048
+
+----
+
+Film: page://pHwSEDG9xLV6IG7H
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: BXkhAdCbVQSn4yTV

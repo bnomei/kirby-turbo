@@ -1,0 +1,25 @@
+Title: Rental 6424
+
+----
+
+Rental-id: 6424
+
+----
+
+Rental-date: 2005-07-11 23:49:37
+
+----
+
+Return-date: 2005-07-21 00:53:37
+
+----
+
+Inventory: page://omsYrcxU8BnEZnAu
+
+----
+
+Uuid: AJWidWRmss9F5ELI
+
+----
+
+Customer: page://OIjTAayisIN6Xq6v

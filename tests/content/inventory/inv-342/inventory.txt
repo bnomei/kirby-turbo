@@ -1,0 +1,17 @@
+Title: Inv 342
+
+----
+
+Inventory-id: 342
+
+----
+
+Film: page://vfc11ZgBybQZrKfm
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: MfsFTM62Yqk7Z15A

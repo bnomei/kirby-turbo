@@ -1,0 +1,17 @@
+Title: Inv 779
+
+----
+
+Inventory-id: 779
+
+----
+
+Film: page://JkW7m02yeXJO7TMU
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: JPSoFBjLiQLtiWk4

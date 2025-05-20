@@ -1,0 +1,17 @@
+Title: Inv 2996
+
+----
+
+Inventory-id: 2996
+
+----
+
+Film: page://IgiUwsTJqOx9tguK
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: GbgrREXMcADnGZ6m

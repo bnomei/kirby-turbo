@@ -1,0 +1,17 @@
+Title: Inv 2000
+
+----
+
+Inventory-id: 2000
+
+----
+
+Film: page://E7QUwUT5dMIom8aL
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: oL6eW6A2R66TEVRC

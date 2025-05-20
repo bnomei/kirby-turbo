@@ -1,0 +1,33 @@
+Title: WILLIE MARKHAM
+
+----
+
+Customer-id: 359
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: WILLIE
+
+----
+
+Last-name: MARKHAM
+
+----
+
+Email: WILLIE.MARKHAM@sakilacustomer.org
+
+----
+
+Address: page://ikmy72Z2w1iPc8kG
+
+----
+
+Active: 1
+
+----
+
+Uuid: OIjTAayisIN6Xq6v

@@ -1,0 +1,25 @@
+Title: Rental 9344
+
+----
+
+Rental-id: 9344
+
+----
+
+Rental-date: 2005-07-30 18:13:45
+
+----
+
+Return-date: 2005-08-07 15:23:45
+
+----
+
+Inventory: page://HXhWNIVRppxkTALH
+
+----
+
+Customer: page://FypwLDxElvzTV30Q
+
+----
+
+Uuid: AT8eLh0Z1NAP6rmu

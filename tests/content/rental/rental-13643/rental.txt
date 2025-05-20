@@ -1,0 +1,25 @@
+Title: Rental 13643
+
+----
+
+Rental-id: 13643
+
+----
+
+Rental-date: 2005-08-20 07:42:24
+
+----
+
+Return-date: 2005-08-26 09:13:24
+
+----
+
+Inventory: page://Lj0OYQ9Vssa1VApc
+
+----
+
+Customer: page://YZl5AjKSw8qG2iij
+
+----
+
+Uuid: nbitNqrNBflByZCE

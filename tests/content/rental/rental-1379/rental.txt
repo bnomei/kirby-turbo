@@ -1,0 +1,25 @@
+Title: Rental 1379
+
+----
+
+Rental-id: 1379
+
+----
+
+Rental-date: 2005-06-15 15:05:10
+
+----
+
+Return-date: 2005-06-18 12:11:10
+
+----
+
+Inventory: page://RucAFjOa0HSaSt8O
+
+----
+
+Uuid: b0FJXPvZtB67ujAP
+
+----
+
+Customer: page://66OVCYFZ1KPdAPEm

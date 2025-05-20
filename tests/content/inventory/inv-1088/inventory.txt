@@ -1,0 +1,17 @@
+Title: Inv 1088
+
+----
+
+Inventory-id: 1088
+
+----
+
+Film: page://uNXT5DOP9sXQU2Io
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: O2wQaUvuTzzNQcA0

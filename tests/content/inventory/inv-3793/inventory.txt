@@ -1,0 +1,17 @@
+Title: Inv 3793
+
+----
+
+Inventory-id: 3793
+
+----
+
+Film: page://nVsp8NsJoTTROYU1
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: PB6J28sI77jS6kvI

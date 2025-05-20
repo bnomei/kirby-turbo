@@ -1,0 +1,25 @@
+Title: Rental 1140
+
+----
+
+Rental-id: 1140
+
+----
+
+Rental-date: 2005-05-31 19:36:30
+
+----
+
+Return-date: 2005-06-07 18:33:30
+
+----
+
+Inventory: page://szkxhBSJhFLt7AAN
+
+----
+
+Uuid: XPiga7m9DI9R8GyQ
+
+----
+
+Customer: page://hkYVD2f74BBcnfGT

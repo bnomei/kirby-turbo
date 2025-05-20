@@ -1,0 +1,25 @@
+Title: Rental 9402
+
+----
+
+Rental-id: 9402
+
+----
+
+Rental-date: 2005-07-30 20:18:27
+
+----
+
+Return-date: 2005-08-07 21:29:27
+
+----
+
+Inventory: page://VT5OW5CW02sWJUqX
+
+----
+
+Customer: page://nZVFUQsoyO1MvhAU
+
+----
+
+Uuid: 7vqqilYHQk60dH1z

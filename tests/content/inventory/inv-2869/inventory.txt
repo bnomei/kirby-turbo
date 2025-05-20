@@ -1,0 +1,17 @@
+Title: Inv 2869
+
+----
+
+Inventory-id: 2869
+
+----
+
+Film: page://5uaTmMonsHZ6txcK
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: DGpMzlUzU6lTff6T

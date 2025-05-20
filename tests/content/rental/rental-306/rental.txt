@@ -1,0 +1,25 @@
+Title: Rental 306
+
+----
+
+Rental-id: 306
+
+----
+
+Rental-date: 2005-05-26 21:31:57
+
+----
+
+Return-date: 2005-05-28 19:37:57
+
+----
+
+Inventory: page://P5JlxYvCga22VjXa
+
+----
+
+Uuid: lbSFDfeAQmO2OoxJ
+
+----
+
+Customer: page://RTsWat8aWp87UcBi

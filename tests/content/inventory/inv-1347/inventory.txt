@@ -1,0 +1,17 @@
+Title: Inv 1347
+
+----
+
+Inventory-id: 1347
+
+----
+
+Film: page://X7eSV1ibzb8Qiws1
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: JSfcxqfGgCTS9RA3

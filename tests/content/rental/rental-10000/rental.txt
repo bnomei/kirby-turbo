@@ -1,0 +1,25 @@
+Title: Rental 10000
+
+----
+
+Rental-id: 10000
+
+----
+
+Rental-date: 2005-07-31 17:41:05
+
+----
+
+Return-date: 2005-08-02 20:51:05
+
+----
+
+Inventory: page://0u2NW7dTpryrfrkH
+
+----
+
+Customer: page://XIaKK8hOYK8JJ3Lj
+
+----
+
+Uuid: cZHdj5irqhViWY19

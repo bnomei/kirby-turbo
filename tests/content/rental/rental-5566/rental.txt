@@ -1,0 +1,25 @@
+Title: Rental 5566
+
+----
+
+Rental-id: 5566
+
+----
+
+Rental-date: 2005-07-10 03:30:17
+
+----
+
+Return-date: 2005-07-13 06:32:17
+
+----
+
+Inventory: page://zOScUSA3n4y3HzfT
+
+----
+
+Uuid: kmgazxWbAIc6yvwT
+
+----
+
+Customer: page://PRYZKLCz6ndr3bge

@@ -1,0 +1,21 @@
+Title: Rental 14107
+
+----
+
+Rental-id: 14107
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://1ZEKTHw5JWysw8ia
+
+----
+
+Customer: page://cRRGmCnzUGugZdVF
+
+----
+
+Uuid: IWKkWKwFBF9AYkpm

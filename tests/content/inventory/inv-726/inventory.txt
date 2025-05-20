@@ -1,0 +1,17 @@
+Title: Inv 726
+
+----
+
+Inventory-id: 726
+
+----
+
+Film: page://rYU3xQcgKGdlwLY7
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: YgtQoqUv26ZboZrU

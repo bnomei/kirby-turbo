@@ -1,0 +1,17 @@
+Title: Inv 4006
+
+----
+
+Inventory-id: 4006
+
+----
+
+Film: page://YzbrhGwubNUJ4lvQ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: tvt4FXadIBcSuSYc

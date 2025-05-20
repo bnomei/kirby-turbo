@@ -1,0 +1,17 @@
+Title: Inv 4293
+
+----
+
+Inventory-id: 4293
+
+----
+
+Film: page://9cdDMs1GwB0y1Px9
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: OiM2YIY6RKJ7Unsw

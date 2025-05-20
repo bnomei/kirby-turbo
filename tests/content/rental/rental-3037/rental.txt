@@ -1,0 +1,25 @@
+Title: Rental 3037
+
+----
+
+Rental-id: 3037
+
+----
+
+Rental-date: 2005-06-20 12:28:03
+
+----
+
+Return-date: 2005-06-21 08:21:03
+
+----
+
+Inventory: page://jbN8cIaiZzfNv3NK
+
+----
+
+Uuid: arKanRtmO3fhD4CK
+
+----
+
+Customer: page://XnsJqH5poBI9AFGR

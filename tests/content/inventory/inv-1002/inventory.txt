@@ -1,0 +1,17 @@
+Title: Inv 1002
+
+----
+
+Inventory-id: 1002
+
+----
+
+Film: page://zjJUqdFekT0tOcpD
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: bj2CygTuuBdaRyXn

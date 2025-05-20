@@ -1,0 +1,17 @@
+Title: Inv 2839
+
+----
+
+Inventory-id: 2839
+
+----
+
+Film: page://5CdYCb2KW4MABn1p
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: rrTaeuEmhIkwSBOh

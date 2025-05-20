@@ -1,0 +1,25 @@
+Title: Rental 9413
+
+----
+
+Rental-id: 9413
+
+----
+
+Rental-date: 2005-07-30 20:44:39
+
+----
+
+Return-date: 2005-08-01 01:56:39
+
+----
+
+Inventory: page://A7i15fW5XujAU1dA
+
+----
+
+Customer: page://88ZpPvHuxTFZYKCY
+
+----
+
+Uuid: EDlgP22dsGlQTmAi

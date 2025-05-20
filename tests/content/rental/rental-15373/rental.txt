@@ -1,0 +1,25 @@
+Title: Rental 15373
+
+----
+
+Rental-id: 15373
+
+----
+
+Rental-date: 2005-08-22 22:08:11
+
+----
+
+Return-date: 2005-08-24 01:05:11
+
+----
+
+Inventory: page://viVEs2EMu6aNpvz2
+
+----
+
+Customer: page://aFkGopCOghEK7p34
+
+----
+
+Uuid: RS2hFHohe800KdZs

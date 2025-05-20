@@ -1,0 +1,25 @@
+Title: Rental 7265
+
+----
+
+Rental-id: 7265
+
+----
+
+Rental-date: 2005-07-27 11:19:01
+
+----
+
+Return-date: 2005-08-01 09:29:01
+
+----
+
+Inventory: page://XDlHhJKHkPowVXLe
+
+----
+
+Customer: page://88ZpPvHuxTFZYKCY
+
+----
+
+Uuid: ECWcbkGhxlAIt8bW

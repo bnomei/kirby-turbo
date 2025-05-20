@@ -1,0 +1,25 @@
+Title: Rental 9544
+
+----
+
+Rental-id: 9544
+
+----
+
+Rental-date: 2005-07-31 01:44:51
+
+----
+
+Return-date: 2005-08-05 05:25:51
+
+----
+
+Inventory: page://dc21ZxxUtPNIiBmK
+
+----
+
+Customer: page://9GMMxk4OJQFuLIWJ
+
+----
+
+Uuid: n2buDERTKbo045Pk

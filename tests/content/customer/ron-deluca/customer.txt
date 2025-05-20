@@ -1,0 +1,33 @@
+Title: RON DELUCA
+
+----
+
+Customer-id: 519
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: RON
+
+----
+
+Last-name: DELUCA
+
+----
+
+Email: RON.DELUCA@sakilacustomer.org
+
+----
+
+Address: page://l4BAUh5YPzsjhHuB
+
+----
+
+Active: 1
+
+----
+
+Uuid: irfr6sLBx1gfJ688

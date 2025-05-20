@@ -1,0 +1,25 @@
+Title: Rental 2434
+
+----
+
+Rental-id: 2434
+
+----
+
+Rental-date: 2005-06-18 18:11:51
+
+----
+
+Return-date: 2005-06-23 12:52:51
+
+----
+
+Inventory: page://UGZCId1P3Om6oI37
+
+----
+
+Uuid: gBoi6nN3e58Wv10t
+
+----
+
+Customer: page://CGZMdA6lJNzUzePV

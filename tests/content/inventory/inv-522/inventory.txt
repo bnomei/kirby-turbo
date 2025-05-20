@@ -1,0 +1,17 @@
+Title: Inv 522
+
+----
+
+Inventory-id: 522
+
+----
+
+Film: page://iMI1430ry8gA5yc2
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: XLmXyPtN4ovJ4Kv2

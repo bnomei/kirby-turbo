@@ -1,0 +1,25 @@
+Title: Rental 4210
+
+----
+
+Rental-id: 4210
+
+----
+
+Rental-date: 2005-07-07 11:36:20
+
+----
+
+Return-date: 2005-07-16 12:38:20
+
+----
+
+Inventory: page://7o7WXKbEMiDSsBHc
+
+----
+
+Uuid: TtTZ1xp3CcGAOWEO
+
+----
+
+Customer: page://WkdWOiV7wx4C2nmh

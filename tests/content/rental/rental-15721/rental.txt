@@ -1,0 +1,25 @@
+Title: Rental 15721
+
+----
+
+Rental-id: 15721
+
+----
+
+Rental-date: 2005-08-23 11:16:16
+
+----
+
+Return-date: 2005-08-28 10:21:16
+
+----
+
+Inventory: page://epx5bqiq4D8bciwK
+
+----
+
+Customer: page://cUF1fk2bBpJmuvzJ
+
+----
+
+Uuid: 0C9rkMhmCeW2uy55

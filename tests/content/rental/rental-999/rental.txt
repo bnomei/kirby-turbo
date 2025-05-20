@@ -1,0 +1,25 @@
+Title: Rental 999
+
+----
+
+Rental-id: 999
+
+----
+
+Rental-date: 2005-05-31 00:25:10
+
+----
+
+Return-date: 2005-06-03 06:05:10
+
+----
+
+Inventory: page://8xJJU3Q0WBx9Iwi3
+
+----
+
+Uuid: ws4brdXxI3TLxjxd
+
+----
+
+Customer: page://RnVJUD7kCw5r9OCn

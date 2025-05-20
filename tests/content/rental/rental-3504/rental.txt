@@ -1,0 +1,25 @@
+Title: Rental 3504
+
+----
+
+Rental-id: 3504
+
+----
+
+Rental-date: 2005-07-06 00:18:29
+
+----
+
+Return-date: 2005-07-10 00:24:29
+
+----
+
+Inventory: page://E5kh1Cjnum43bWd8
+
+----
+
+Uuid: cdRuzSHkxQztqaZy
+
+----
+
+Customer: page://7xbkabb9oALGCtIT

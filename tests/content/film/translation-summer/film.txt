@@ -1,0 +1,41 @@
+Title: TRANSLATION SUMMER
+
+----
+
+Actors:
+
+- 'page://JbsPWnOXBNKX1tM5'
+- 'page://r5vfuwK7SifeGhUs'
+- 'page://nNLtL91vUU653tYz'
+
+----
+
+Film-id: 907
+
+----
+
+Description: A Touching Reflection of a Man And a Monkey who must Pursue a Womanizer in A MySQL Convention
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 168
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: C0Cy1IyrmkeBtlTR
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

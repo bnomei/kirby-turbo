@@ -1,0 +1,25 @@
+Title: Rental 6767
+
+----
+
+Rental-id: 6767
+
+----
+
+Rental-date: 2005-07-12 15:46:55
+
+----
+
+Return-date: 2005-07-17 17:36:55
+
+----
+
+Inventory: page://x6L2SBpJJXTya7Tx
+
+----
+
+Uuid: TloQtfAV4TfXuTa4
+
+----
+
+Customer: page://cnvPsOJZCE8gIQ4P

@@ -1,0 +1,33 @@
+Title: VERA MCCOY
+
+----
+
+Customer-id: 218
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: VERA
+
+----
+
+Last-name: MCCOY
+
+----
+
+Email: VERA.MCCOY@sakilacustomer.org
+
+----
+
+Address: page://s9fjGRd1v5wS4Df4
+
+----
+
+Active: 1
+
+----
+
+Uuid: eZFCmYeb5Dlpr7fN

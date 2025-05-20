@@ -1,0 +1,25 @@
+Title: Rental 2509
+
+----
+
+Rental-id: 2509
+
+----
+
+Rental-date: 2005-06-18 23:44:08
+
+----
+
+Return-date: 2005-06-20 01:36:08
+
+----
+
+Inventory: page://QlWhZrfwIvC1Pl8W
+
+----
+
+Uuid: Y2EHBgRKklxVqkBC
+
+----
+
+Customer: page://SXP8ih15ziLTUonG

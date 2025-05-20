@@ -1,0 +1,45 @@
+Title: POTTER CONNECTICUT
+
+----
+
+Actors:
+
+- 'page://RvgM0TLzgQDo6vY7'
+- 'page://ltHX2Lf4QT72ZiqX'
+- 'page://q6i5HOIdG8dGz8Im'
+- 'page://iZwJlBg8wszU4t4i'
+- 'page://isKOKKisNfJh2ta1'
+- 'page://X3dUYAbt0AiREsIH'
+- 'page://EIh5zoCTJV7UmSi4'
+
+----
+
+Film-id: 693
+
+----
+
+Description: A Thrilling Epistle of a Frisbee And a Cat who must Fight a Technical Writer in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 115
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: fcp1yQnZSaRrQuHd
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

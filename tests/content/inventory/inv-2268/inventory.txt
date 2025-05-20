@@ -1,0 +1,17 @@
+Title: Inv 2268
+
+----
+
+Inventory-id: 2268
+
+----
+
+Film: page://huGAmDq8r7HfOMSX
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: MGmwGekaZ01TvHEl

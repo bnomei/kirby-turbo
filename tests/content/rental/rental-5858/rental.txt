@@ -1,0 +1,25 @@
+Title: Rental 5858
+
+----
+
+Rental-id: 5858
+
+----
+
+Rental-date: 2005-07-10 18:00:07
+
+----
+
+Return-date: 2005-07-11 20:01:07
+
+----
+
+Inventory: page://5aTkADe6u0IErObm
+
+----
+
+Uuid: ZYJbEjSbqBL2QQxp
+
+----
+
+Customer: page://RjuxtMHbOY6NJALL

@@ -1,0 +1,33 @@
+Title: WARREN SHERROD
+
+----
+
+Customer-id: 462
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: WARREN
+
+----
+
+Last-name: SHERROD
+
+----
+
+Email: WARREN.SHERROD@sakilacustomer.org
+
+----
+
+Address: page://8Icxl0BiDDTvH4fu
+
+----
+
+Active: 1
+
+----
+
+Uuid: nYhpEPDMjzk9g7hI

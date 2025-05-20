@@ -1,0 +1,17 @@
+Title: Inv 571
+
+----
+
+Inventory-id: 571
+
+----
+
+Film: page://WT5NcgnYasVoDuDy
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: uXtaM2gW9gxvx7gZ

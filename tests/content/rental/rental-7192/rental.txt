@@ -1,0 +1,25 @@
+Title: Rental 7192
+
+----
+
+Rental-id: 7192
+
+----
+
+Rental-date: 2005-07-27 08:36:55
+
+----
+
+Return-date: 2005-07-30 11:58:55
+
+----
+
+Inventory: page://qy8EgsXgzxtEM91w
+
+----
+
+Customer: page://jNinHUxNSvO3KbCp
+
+----
+
+Uuid: fQK1BfVD4DyBPTPZ

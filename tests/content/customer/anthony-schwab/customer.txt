@@ -1,0 +1,33 @@
+Title: ANTHONY SCHWAB
+
+----
+
+Customer-id: 320
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ANTHONY
+
+----
+
+Last-name: SCHWAB
+
+----
+
+Email: ANTHONY.SCHWAB@sakilacustomer.org
+
+----
+
+Address: page://LVk3ceyuLMCJ6uUB
+
+----
+
+Active: 1
+
+----
+
+Uuid: f8De5bhXCAHFGrbE

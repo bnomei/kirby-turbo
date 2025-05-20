@@ -1,0 +1,17 @@
+Title: Inv 658
+
+----
+
+Inventory-id: 658
+
+----
+
+Film: page://KDZLBGmL5muBYMZ5
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: jv2b1F59ULxyawy8

@@ -1,0 +1,17 @@
+Title: Inv 4166
+
+----
+
+Inventory-id: 4166
+
+----
+
+Film: page://AvK1JlmUKZyBlB5N
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ewuzE3zh4gKHRb3g

@@ -1,0 +1,17 @@
+Title: Inv 240
+
+----
+
+Inventory-id: 240
+
+----
+
+Film: page://U9GJySbiwP3Ad0w2
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: eIClNCZN0m49Wawn

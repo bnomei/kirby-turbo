@@ -1,0 +1,25 @@
+Title: Rental 9392
+
+----
+
+Rental-id: 9392
+
+----
+
+Rental-date: 2005-07-30 19:50:13
+
+----
+
+Return-date: 2005-08-03 22:38:13
+
+----
+
+Inventory: page://878O8T5tz1iHct3q
+
+----
+
+Customer: page://c7lkRFQFPsFgIejg
+
+----
+
+Uuid: vaHAQYCMeBhDemT3

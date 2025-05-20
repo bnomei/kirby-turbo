@@ -1,0 +1,21 @@
+Title: Rental 13333
+
+----
+
+Rental-id: 13333
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://mDnsSzS49Oa5uxsf
+
+----
+
+Customer: page://3MFUDX6nFKFz0caB
+
+----
+
+Uuid: 3XhPOOt0B7L7IwZ9

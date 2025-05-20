@@ -1,0 +1,25 @@
+Title: Rental 13239
+
+----
+
+Rental-id: 13239
+
+----
+
+Rental-date: 2005-08-19 16:22:13
+
+----
+
+Return-date: 2005-08-23 19:26:13
+
+----
+
+Inventory: page://KIMTPW22FGoNi9Xo
+
+----
+
+Customer: page://ySJHEKSdmqJXUMT3
+
+----
+
+Uuid: PDlUkXHVfqsBGLFS

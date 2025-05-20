@@ -1,0 +1,33 @@
+Title: JILL HAWKINS
+
+----
+
+Customer-id: 159
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JILL
+
+----
+
+Last-name: HAWKINS
+
+----
+
+Email: JILL.HAWKINS@sakilacustomer.org
+
+----
+
+Address: page://BgNw4VBV3uxnQsho
+
+----
+
+Active: 1
+
+----
+
+Uuid: q1NfZkNoffXnWY4c

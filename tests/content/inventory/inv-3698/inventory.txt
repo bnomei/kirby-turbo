@@ -1,0 +1,17 @@
+Title: Inv 3698
+
+----
+
+Inventory-id: 3698
+
+----
+
+Film: page://pLWWf84HXTSSEGAv
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 5dvagKqXQlSFmzl0

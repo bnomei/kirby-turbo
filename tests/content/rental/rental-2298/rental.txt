@@ -1,0 +1,25 @@
+Title: Rental 2298
+
+----
+
+Rental-id: 2298
+
+----
+
+Rental-date: 2005-06-18 08:18:29
+
+----
+
+Return-date: 2005-06-24 11:51:29
+
+----
+
+Inventory: page://DYhR45NboflLIGBS
+
+----
+
+Uuid: Ons4gR4hPoUxGYgs
+
+----
+
+Customer: page://2MUlemyyzPeXt7QE

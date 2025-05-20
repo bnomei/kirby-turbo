@@ -1,0 +1,17 @@
+Title: Inv 3006
+
+----
+
+Inventory-id: 3006
+
+----
+
+Film: page://vXH73fvVYrQ6QbzQ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: N3By2yIYnYb7L8vf

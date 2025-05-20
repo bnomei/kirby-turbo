@@ -1,0 +1,25 @@
+Title: Rental 12538
+
+----
+
+Rental-id: 12538
+
+----
+
+Rental-date: 2005-08-18 14:09:09
+
+----
+
+Return-date: 2005-08-23 19:12:09
+
+----
+
+Inventory: page://PhOofSM9Ob3prbrT
+
+----
+
+Customer: page://DHCFR43GioKyqCUN
+
+----
+
+Uuid: ybam1m27i7EH08VI

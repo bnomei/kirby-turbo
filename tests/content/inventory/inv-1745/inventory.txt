@@ -1,0 +1,17 @@
+Title: Inv 1745
+
+----
+
+Inventory-id: 1745
+
+----
+
+Film: page://g4dp4eGNZ1bFLnGu
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: tDW1A695GjfOvROr

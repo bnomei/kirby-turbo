@@ -1,0 +1,25 @@
+Title: Rental 8637
+
+----
+
+Rental-id: 8637
+
+----
+
+Rental-date: 2005-07-29 14:30:11
+
+----
+
+Return-date: 2005-08-04 14:00:11
+
+----
+
+Inventory: page://nvSSHNh3JVZAriui
+
+----
+
+Customer: page://Tgto21f29ojBzgwB
+
+----
+
+Uuid: XHPRzjHfY57J5z4t

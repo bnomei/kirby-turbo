@@ -1,0 +1,17 @@
+Title: Inv 2504
+
+----
+
+Inventory-id: 2504
+
+----
+
+Film: page://ApdoAoAD5i8H3Dfz
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Y9tQhMpqOCllJZjL

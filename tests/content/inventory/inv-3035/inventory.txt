@@ -1,0 +1,17 @@
+Title: Inv 3035
+
+----
+
+Inventory-id: 3035
+
+----
+
+Film: page://A0ozKMrIP6DmhW4Z
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 8sRmKvu4OBLw6uqa

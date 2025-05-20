@@ -1,0 +1,25 @@
+Title: Rental 30
+
+----
+
+Rental-id: 30
+
+----
+
+Rental-date: 2005-05-25 04:01:32
+
+----
+
+Return-date: 2005-05-30 03:12:32
+
+----
+
+Inventory: page://FEkQIzUSw3XXA0ea
+
+----
+
+Uuid: ElmsPJaxQEi1RkvN
+
+----
+
+Customer: page://0fWIE3b7YqBRG1Jt

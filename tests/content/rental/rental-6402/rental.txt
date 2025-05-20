@@ -1,0 +1,25 @@
+Title: Rental 6402
+
+----
+
+Rental-id: 6402
+
+----
+
+Rental-date: 2005-07-11 22:46:10
+
+----
+
+Return-date: 2005-07-16 04:02:10
+
+----
+
+Inventory: page://U73IfqGvaPISHSOW
+
+----
+
+Uuid: KErRyHn0qnAF7Cne
+
+----
+
+Customer: page://rtPPzvWhh7zAFt5a

@@ -1,0 +1,25 @@
+Title: Rental 10483
+
+----
+
+Rental-id: 10483
+
+----
+
+Rental-date: 2005-08-01 10:19:45
+
+----
+
+Return-date: 2005-08-04 09:29:45
+
+----
+
+Inventory: page://qFELfLOuSE6Grp7c
+
+----
+
+Customer: page://JdfsXlrnw5D9Ezlr
+
+----
+
+Uuid: gR51g8k4sgSu8B7Y

@@ -1,0 +1,25 @@
+Title: Rental 10687
+
+----
+
+Rental-id: 10687
+
+----
+
+Rental-date: 2005-08-01 17:53:02
+
+----
+
+Return-date: 2005-08-05 19:16:02
+
+----
+
+Inventory: page://k5mQpIVl1kiOt5Yi
+
+----
+
+Customer: page://ZOdnteCiIgjV8qei
+
+----
+
+Uuid: ILF7o0NM7ikYSqMi

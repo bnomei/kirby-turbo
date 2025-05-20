@@ -1,0 +1,43 @@
+Title: VISION TORQUE
+
+----
+
+Actors:
+
+- 'page://NlhyBSq5UemRMvfg'
+- 'page://MG1O0zMGGcgzh2YX'
+- 'page://3BcvBP3gfacEDPsU'
+- 'page://OqV4tbW7WtFrMtYI'
+- 'page://X3dUYAbt0AiREsIH'
+
+----
+
+Film-id: 947
+
+----
+
+Description: A Thoughtful Documentary of a Dog And a Man who must Sink a Man in A Shark Tank
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 59
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: 04IMPhIRUUqZZxqR
+
+----
+
+Categories: - 'page://1zSlwtq2IyzVh9Hs'

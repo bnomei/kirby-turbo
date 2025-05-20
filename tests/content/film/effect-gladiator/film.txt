@@ -1,0 +1,45 @@
+Title: EFFECT GLADIATOR
+
+----
+
+Actors:
+
+- 'page://oEbdYNCKFrP9NVLv'
+- 'page://AvkKtwk9lLurZvzW'
+- 'page://JeeyeDJ3FmxSMbIy'
+- 'page://EHffowmlWDEyJ7Ij'
+- 'page://6LG8mbCuu1aKuRcl'
+- 'page://hzpjO6QvzfyB1LBD'
+- 'page://kglHBUzvM27ekW4e'
+
+----
+
+Film-id: 273
+
+----
+
+Description: A Beautiful Display of a Pastry Chef And a Pastry Chef who must Outgun a Forensic Psychologist in A Manhattan Penthouse
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 107
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Commentaries
+
+----
+
+Uuid: dUaroWhMD6Ug8PIq
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

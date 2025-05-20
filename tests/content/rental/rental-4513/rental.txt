@@ -1,0 +1,25 @@
+Title: Rental 4513
+
+----
+
+Rental-id: 4513
+
+----
+
+Rental-date: 2005-07-08 02:39:59
+
+----
+
+Return-date: 2005-07-14 07:48:59
+
+----
+
+Inventory: page://Xz9Cna7gwvWSKvaQ
+
+----
+
+Uuid: dtHPaXz9gXvvm3OF
+
+----
+
+Customer: page://WanceI8LSemC0lzf

@@ -1,0 +1,17 @@
+Title: Inv 1898
+
+----
+
+Inventory-id: 1898
+
+----
+
+Film: page://k188edW72m4nSif8
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 3Mwah1ryaRq0XubE

@@ -1,0 +1,17 @@
+Title: Inv 3000
+
+----
+
+Inventory-id: 3000
+
+----
+
+Film: page://KOYLfJgzTKApEtFJ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: aV8XZiUeK6GGOZZl

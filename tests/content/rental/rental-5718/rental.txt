@@ -1,0 +1,25 @@
+Title: Rental 5718
+
+----
+
+Rental-id: 5718
+
+----
+
+Rental-date: 2005-07-10 11:03:20
+
+----
+
+Return-date: 2005-07-19 15:38:20
+
+----
+
+Inventory: page://kfiaKa43nJDidrOc
+
+----
+
+Uuid: JnxGMMrnPtLtyT8D
+
+----
+
+Customer: page://M8eRI142xjYReqze

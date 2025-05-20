@@ -1,0 +1,25 @@
+Title: Rental 514
+
+----
+
+Rental-id: 514
+
+----
+
+Rental-date: 2005-05-28 03:09:28
+
+----
+
+Return-date: 2005-06-05 00:49:28
+
+----
+
+Inventory: page://GVro3rFkjthpPssu
+
+----
+
+Uuid: gVe5tjS9QiSDfBbL
+
+----
+
+Customer: page://zIyxrm1tFzZPIrxF

@@ -1,0 +1,25 @@
+Title: Rental 3705
+
+----
+
+Rental-id: 3705
+
+----
+
+Rental-date: 2005-07-06 10:17:59
+
+----
+
+Return-date: 2005-07-10 15:31:59
+
+----
+
+Inventory: page://J1v0se9GbC0ieNCr
+
+----
+
+Uuid: rW4qlzRHNWRVwEY5
+
+----
+
+Customer: page://EcxXI702tDu4xH3y

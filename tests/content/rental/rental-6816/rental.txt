@@ -1,0 +1,25 @@
+Title: Rental 6816
+
+----
+
+Rental-id: 6816
+
+----
+
+Rental-date: 2005-07-12 18:18:50
+
+----
+
+Return-date: 2005-07-18 21:09:50
+
+----
+
+Inventory: page://B4bCdLyKmV6F97Jw
+
+----
+
+Customer: page://88ZpPvHuxTFZYKCY
+
+----
+
+Uuid: Jh3QIFuBYW1J0D3b

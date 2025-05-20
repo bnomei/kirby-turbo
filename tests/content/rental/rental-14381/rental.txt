@@ -1,0 +1,25 @@
+Title: Rental 14381
+
+----
+
+Rental-id: 14381
+
+----
+
+Rental-date: 2005-08-21 09:55:47
+
+----
+
+Return-date: 2005-08-25 08:23:47
+
+----
+
+Inventory: page://1ijidYEYfs1Acmyw
+
+----
+
+Customer: page://PkN2CyC6PbKojoAi
+
+----
+
+Uuid: xdRpImwEjjSKOFsc

@@ -1,0 +1,17 @@
+Title: Inv 1967
+
+----
+
+Inventory-id: 1967
+
+----
+
+Film: page://KEPRmmZ3KEJaDCbq
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: euzL1xJghQ39RWtK

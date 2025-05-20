@@ -1,0 +1,25 @@
+Title: Rental 6223
+
+----
+
+Rental-id: 6223
+
+----
+
+Rental-date: 2005-07-11 13:27:09
+
+----
+
+Return-date: 2005-07-12 14:02:09
+
+----
+
+Inventory: page://maLDMhQ1QTTM0Zwb
+
+----
+
+Uuid: wgFA2qB5kJ4pA7Fd
+
+----
+
+Customer: page://S6wnyWLyFa5056NX

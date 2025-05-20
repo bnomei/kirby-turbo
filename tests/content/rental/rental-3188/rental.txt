@@ -1,0 +1,25 @@
+Title: Rental 3188
+
+----
+
+Rental-id: 3188
+
+----
+
+Rental-date: 2005-06-20 23:10:27
+
+----
+
+Return-date: 2005-06-25 19:37:27
+
+----
+
+Inventory: page://aVmyWwr9ejxNCsxp
+
+----
+
+Uuid: wNpGcJm84bW4KOWE
+
+----
+
+Customer: page://azLzg4bnImGnXayq

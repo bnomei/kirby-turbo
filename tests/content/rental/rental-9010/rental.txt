@@ -1,0 +1,25 @@
+Title: Rental 9010
+
+----
+
+Rental-id: 9010
+
+----
+
+Rental-date: 2005-07-30 05:12:04
+
+----
+
+Return-date: 2005-08-06 02:54:04
+
+----
+
+Inventory: page://J7AoDO35NQyNs0CO
+
+----
+
+Customer: page://mEEAl0d4gMjFDZVU
+
+----
+
+Uuid: CKJC88NFZLRYKIon

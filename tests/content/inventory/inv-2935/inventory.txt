@@ -1,0 +1,17 @@
+Title: Inv 2935
+
+----
+
+Inventory-id: 2935
+
+----
+
+Film: page://GQ2XElfoSILD5DVR
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: XjImRF7fVCzs3tz2

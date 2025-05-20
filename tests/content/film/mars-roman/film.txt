@@ -1,0 +1,45 @@
+Title: MARS ROMAN
+
+----
+
+Actors:
+
+- 'page://L8EgxOu9xdHGpzVg'
+- 'page://K0t8PMh78EXVZHC5'
+- 'page://hzpjO6QvzfyB1LBD'
+- 'page://nVYE704vdPRRS8fI'
+- 'page://Q7LFBcb3oEdhSO9W'
+- 'page://s3p9MagWJdWouacJ'
+- 'page://IUEdThBjLk8TNUwy'
+
+----
+
+Film-id: 560
+
+----
+
+Description: A Boring Drama of a Car And a Dog who must Succumb a Madman in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 62
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: oWhGPWtWAyxt0NWE
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

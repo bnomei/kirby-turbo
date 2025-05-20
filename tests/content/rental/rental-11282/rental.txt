@@ -1,0 +1,25 @@
+Title: Rental 11282
+
+----
+
+Rental-id: 11282
+
+----
+
+Rental-date: 2005-08-02 14:35:03
+
+----
+
+Return-date: 2005-08-03 16:02:03
+
+----
+
+Inventory: page://UvTGrwsZ9iJ9hrvs
+
+----
+
+Customer: page://B4FRgaimwSexVazW
+
+----
+
+Uuid: 3dzW5vue5HMIwBCc

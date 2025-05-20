@@ -1,0 +1,33 @@
+Title: CLARA SHAW
+
+----
+
+Customer-id: 144
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CLARA
+
+----
+
+Last-name: SHAW
+
+----
+
+Email: CLARA.SHAW@sakilacustomer.org
+
+----
+
+Address: page://b04kgKCdIQaYEv33
+
+----
+
+Active: 1
+
+----
+
+Uuid: rug4r6NdvQakm9EC

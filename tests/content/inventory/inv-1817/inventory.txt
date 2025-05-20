@@ -1,0 +1,17 @@
+Title: Inv 1817
+
+----
+
+Inventory-id: 1817
+
+----
+
+Film: page://9xGJfbXF8aoV5B2N
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: HuHXYAXtcB7j1VAw

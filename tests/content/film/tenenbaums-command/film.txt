@@ -1,0 +1,43 @@
+Title: TENENBAUMS COMMAND
+
+----
+
+Actors:
+
+- 'page://QXMalcumIlXeK8Z2'
+- 'page://3O7lqRPKBygXUoTl'
+- 'page://1lkqFZByE2squnG7'
+- 'page://nVYE704vdPRRS8fI'
+- 'page://Q7LFBcb3oEdhSO9W'
+
+----
+
+Film-id: 882
+
+----
+
+Description: A Taut Display of a Pioneer And a Man who must Reach a Girl in The Gulf of Mexico
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 99
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: 7tXnbFOTIjSd1tQd
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

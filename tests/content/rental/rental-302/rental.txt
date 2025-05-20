@@ -1,0 +1,25 @@
+Title: Rental 302
+
+----
+
+Rental-id: 302
+
+----
+
+Rental-date: 2005-05-26 21:13:46
+
+----
+
+Return-date: 2005-06-03 15:49:46
+
+----
+
+Inventory: page://kGzwzAP9p0jaBi1i
+
+----
+
+Uuid: ePFMfdxS8D6ySFxu
+
+----
+
+Customer: page://F6pL0bxX1YRyvGAo

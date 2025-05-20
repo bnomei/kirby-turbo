@@ -1,0 +1,25 @@
+Title: Rental 8873
+
+----
+
+Rental-id: 8873
+
+----
+
+Rental-date: 2005-07-30 00:14:32
+
+----
+
+Return-date: 2005-08-04 20:42:32
+
+----
+
+Inventory: page://0TRZnnwE1bqyersi
+
+----
+
+Customer: page://OukV1G0vQXX07Xku
+
+----
+
+Uuid: Kb1yGZXHz2nOfksl

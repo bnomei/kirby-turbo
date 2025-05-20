@@ -1,0 +1,43 @@
+Title: NEMO CAMPUS
+
+----
+
+Actors:
+
+- 'page://CcQ0grF6yUDI2k9n'
+- 'page://yhATHnZqo4RzYS83'
+- 'page://f3T5R3qlMgXii7Oj'
+- 'page://rnDcbekdB8oOqt97'
+- 'page://SR0Aks2aA1YgkZ1s'
+
+----
+
+Film-id: 620
+
+----
+
+Description: A Lacklusture Reflection of a Monkey And a Squirrel who must Outrace a Womanizer in A Manhattan Penthouse
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 131
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: mkWoeGh7AKqZpfaB
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

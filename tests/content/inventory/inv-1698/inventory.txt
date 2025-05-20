@@ -1,0 +1,17 @@
+Title: Inv 1698
+
+----
+
+Inventory-id: 1698
+
+----
+
+Film: page://bCaKrzrFoyWGdG2h
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: J7AoDO35NQyNs0CO

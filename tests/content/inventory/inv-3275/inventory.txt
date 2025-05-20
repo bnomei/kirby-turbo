@@ -1,0 +1,17 @@
+Title: Inv 3275
+
+----
+
+Inventory-id: 3275
+
+----
+
+Film: page://SOGubtObTY7V7FqY
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: jQpd3BMGJhxX4vfr

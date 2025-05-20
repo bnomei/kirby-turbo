@@ -1,0 +1,25 @@
+Title: Rental 10959
+
+----
+
+Rental-id: 10959
+
+----
+
+Rental-date: 2005-08-02 03:39:39
+
+----
+
+Return-date: 2005-08-11 07:20:39
+
+----
+
+Inventory: page://rnAS9hkx9k5rZdkc
+
+----
+
+Customer: page://0AtuJCBei0DLVh5W
+
+----
+
+Uuid: qhUnDbFe3JVNRMJX

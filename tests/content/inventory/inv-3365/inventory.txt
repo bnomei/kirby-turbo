@@ -1,0 +1,17 @@
+Title: Inv 3365
+
+----
+
+Inventory-id: 3365
+
+----
+
+Film: page://lkKdCwh67Enn29M2
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 7znVDDBd3NhEP7gT

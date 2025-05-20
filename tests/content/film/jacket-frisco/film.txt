@@ -1,0 +1,48 @@
+Title: JACKET FRISCO
+
+----
+
+Actors:
+
+- 'page://7FlTvfT4DDNge34z'
+- 'page://gxNf949gkwS5ks3A'
+- 'page://I7tdxqtamjxgIUCW'
+- 'page://CsoOTyxORoAs7uZy'
+- 'page://xtyCW5dEHcrv0QRa'
+- 'page://nN3rIVkI7hNgoDlp'
+- 'page://k43wur9uhLztfZOP'
+- 'page://G2CRwpBQJFawgg9Y'
+- 'page://X3dUYAbt0AiREsIH'
+- 'page://IUEdThBjLk8TNUwy'
+
+----
+
+Film-id: 473
+
+----
+
+Description: A Insightful Reflection of a Womanizer And a Husband who must Conquer a Pastry Chef in A Baloon
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 181
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: WmfMWnRHX0rwpqYM
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

@@ -1,0 +1,25 @@
+Title: Rental 4884
+
+----
+
+Rental-id: 4884
+
+----
+
+Rental-date: 2005-07-08 19:49:17
+
+----
+
+Return-date: 2005-07-15 23:14:17
+
+----
+
+Inventory: page://lehSOyEiBkeImnOK
+
+----
+
+Uuid: K8nzp6nB5oQYIZFm
+
+----
+
+Customer: page://Tk6dRJV6KbPM8ESQ

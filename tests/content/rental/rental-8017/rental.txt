@@ -1,0 +1,25 @@
+Title: Rental 8017
+
+----
+
+Rental-id: 8017
+
+----
+
+Rental-date: 2005-07-28 15:35:41
+
+----
+
+Return-date: 2005-08-01 19:12:41
+
+----
+
+Inventory: page://h5KvAldEBLW7OTPF
+
+----
+
+Customer: page://sbXQhVfx2HJ5Lrqi
+
+----
+
+Uuid: kNixHjGDksN5LBUc

@@ -1,0 +1,17 @@
+Title: Inv 288
+
+----
+
+Inventory-id: 288
+
+----
+
+Film: page://tmiG1zjz4CYX7mH0
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: WA7KSoh0MYqpifR6

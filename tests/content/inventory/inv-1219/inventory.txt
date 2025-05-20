@@ -1,0 +1,17 @@
+Title: Inv 1219
+
+----
+
+Inventory-id: 1219
+
+----
+
+Film: page://PJ7bhn1I2shBev24
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ZPIJaziRLnKYBTQj

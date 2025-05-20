@@ -1,0 +1,17 @@
+Title: Inv 1732
+
+----
+
+Inventory-id: 1732
+
+----
+
+Film: page://A286H6tUxQ3OzhwJ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: mgd3mRR84goAs3Ob

@@ -1,0 +1,17 @@
+Title: Inv 3929
+
+----
+
+Inventory-id: 3929
+
+----
+
+Film: page://49OxLFvwrrHYZnmn
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: guieI4eCFWgPkMcr

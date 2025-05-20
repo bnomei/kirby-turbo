@@ -1,0 +1,43 @@
+Title: DYNAMITE TARZAN
+
+----
+
+Actors:
+
+- 'page://7FlTvfT4DDNge34z'
+- 'page://CsoOTyxORoAs7uZy'
+- 'page://dRscV8wJJ6wok0jq'
+- 'page://Gsxc5TuqHyoQn1c1'
+- 'page://Q7LFBcb3oEdhSO9W'
+
+----
+
+Film-id: 266
+
+----
+
+Description: A Intrepid Documentary of a Forensic Psychologist And a Mad Scientist who must Face a Explorer in A U-Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 141
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: 9wVld7gJLsuDCDGi
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

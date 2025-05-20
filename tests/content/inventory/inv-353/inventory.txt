@@ -1,0 +1,17 @@
+Title: Inv 353
+
+----
+
+Inventory-id: 353
+
+----
+
+Film: page://iy0a104HjhjHKgsH
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 98QhjJ2lZ7hPTzPz

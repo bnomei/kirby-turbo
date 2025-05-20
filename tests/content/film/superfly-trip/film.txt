@@ -1,0 +1,45 @@
+Title: SUPERFLY TRIP
+
+----
+
+Actors:
+
+- 'page://JR0gbBMz8ekt1gGa'
+- 'page://fpycclHxIOPEPbuu'
+- 'page://kIGWs86teYEK5yIM'
+- 'page://ltHX2Lf4QT72ZiqX'
+- 'page://3O7lqRPKBygXUoTl'
+- 'page://VNoe1uWzYd7QHUzW'
+- 'page://nNLtL91vUU653tYz'
+
+----
+
+Film-id: 868
+
+----
+
+Description: A Beautiful Saga of a Lumberjack And a Teacher who must Build a Technical Writer in An Abandoned Fun House
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 114
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: jW80a4n13RGdsS4C
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

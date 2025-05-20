@@ -1,0 +1,25 @@
+Title: Rental 682
+
+----
+
+Rental-id: 682
+
+----
+
+Rental-date: 2005-05-28 23:53:18
+
+----
+
+Return-date: 2005-05-29 19:14:18
+
+----
+
+Inventory: page://y3gyHBuRaJ5bnuWB
+
+----
+
+Uuid: pwNoPRESsG7R1Qy6
+
+----
+
+Customer: page://bp3076yXkpG6TsZ7

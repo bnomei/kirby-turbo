@@ -1,0 +1,17 @@
+Title: Inv 932
+
+----
+
+Inventory-id: 932
+
+----
+
+Film: page://njs6WR15ox1MwRJf
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: fyUSWgchvJT7Wb1E

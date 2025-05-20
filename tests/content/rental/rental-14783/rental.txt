@@ -1,0 +1,25 @@
+Title: Rental 14783
+
+----
+
+Rental-id: 14783
+
+----
+
+Rental-date: 2005-08-22 00:21:57
+
+----
+
+Return-date: 2005-08-28 01:27:57
+
+----
+
+Inventory: page://AyIrVf8yxfMOCS3c
+
+----
+
+Customer: page://JF86ERvhL0BUaSoR
+
+----
+
+Uuid: QH1zqaLU7cKOoTph

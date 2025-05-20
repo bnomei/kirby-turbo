@@ -1,0 +1,17 @@
+Title: Inv 219
+
+----
+
+Inventory-id: 219
+
+----
+
+Film: page://WXq95CIaw2UE281Z
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 7JidA9YM7v1fsYCQ

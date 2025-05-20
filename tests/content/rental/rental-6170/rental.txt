@@ -1,0 +1,25 @@
+Title: Rental 6170
+
+----
+
+Rental-id: 6170
+
+----
+
+Rental-date: 2005-07-11 10:29:21
+
+----
+
+Return-date: 2005-07-16 05:13:21
+
+----
+
+Inventory: page://EETKPhvrdaXjXC9j
+
+----
+
+Uuid: pPAksVidbCH25a82
+
+----
+
+Customer: page://BEkVvrNrXDjHfDO4

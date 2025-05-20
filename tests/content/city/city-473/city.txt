@@ -1,0 +1,17 @@
+Title: Shimoga
+
+----
+
+City-id: 473
+
+----
+
+City: Shimoga
+
+----
+
+Country: page://gZf7IokVJwDfjozc
+
+----
+
+Uuid: XQCPsHUQ5UoN42tY

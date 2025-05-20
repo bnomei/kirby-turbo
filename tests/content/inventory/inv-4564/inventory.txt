@@ -1,0 +1,17 @@
+Title: Inv 4564
+
+----
+
+Inventory-id: 4564
+
+----
+
+Film: page://ABo1OKSwTKwjbYRN
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 9JnMDMW7BWvshpAa

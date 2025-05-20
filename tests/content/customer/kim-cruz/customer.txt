@@ -1,0 +1,33 @@
+Title: KIM CRUZ
+
+----
+
+Customer-id: 118
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: KIM
+
+----
+
+Last-name: CRUZ
+
+----
+
+Email: KIM.CRUZ@sakilacustomer.org
+
+----
+
+Address: page://FdggBSlZyERuT71T
+
+----
+
+Active: 1
+
+----
+
+Uuid: DHCFR43GioKyqCUN

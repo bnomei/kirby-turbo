@@ -1,0 +1,25 @@
+Title: Rental 556
+
+----
+
+Rental-id: 556
+
+----
+
+Rental-date: 2005-05-28 08:31:36
+
+----
+
+Return-date: 2005-06-06 07:29:36
+
+----
+
+Inventory: page://qkLa2BS7qBOA1b2e
+
+----
+
+Uuid: bhuOwXpoVRzBZNic
+
+----
+
+Customer: page://WYN3R1xdu8tNVx9R

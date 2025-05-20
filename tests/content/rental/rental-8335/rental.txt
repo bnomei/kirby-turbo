@@ -1,0 +1,25 @@
+Title: Rental 8335
+
+----
+
+Rental-id: 8335
+
+----
+
+Rental-date: 2005-07-29 04:18:25
+
+----
+
+Return-date: 2005-07-31 08:12:25
+
+----
+
+Inventory: page://QE1tEV3Vmn7nJM81
+
+----
+
+Customer: page://o07yBM7EP4XLPfD9
+
+----
+
+Uuid: kDJjEmMkZkyEnPpk

@@ -1,0 +1,17 @@
+Title: Inv 3480
+
+----
+
+Inventory-id: 3480
+
+----
+
+Film: page://8fmBpMOzKmm842Su
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: GUcqAZH8jRJ5T6Rk

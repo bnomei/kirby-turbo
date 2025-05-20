@@ -1,0 +1,25 @@
+Title: Rental 10327
+
+----
+
+Rental-id: 10327
+
+----
+
+Rental-date: 2005-08-01 04:55:35
+
+----
+
+Return-date: 2005-08-07 08:17:35
+
+----
+
+Inventory: page://VmmlWNWdZGqEyKla
+
+----
+
+Customer: page://ZuUWmxbKilRmIFgl
+
+----
+
+Uuid: PIlC0McIQMvDcdVZ

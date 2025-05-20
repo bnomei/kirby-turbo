@@ -1,0 +1,25 @@
+Title: Rental 1978
+
+----
+
+Rental-id: 1978
+
+----
+
+Rental-date: 2005-06-17 09:42:34
+
+----
+
+Return-date: 2005-06-20 09:13:34
+
+----
+
+Inventory: page://Vb5zVyZnhMUcW1Dv
+
+----
+
+Uuid: I2Bek0vtI0QN1lmQ
+
+----
+
+Customer: page://vaqk23hYrE8PQvH5

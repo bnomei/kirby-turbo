@@ -1,0 +1,41 @@
+Title: IMPOSSIBLE PREJUDICE
+
+----
+
+Actors:
+
+- 'page://EfT0PAFDrVUk4H1Y'
+- 'page://1JHTierDMQdVCXSe'
+- 'page://X4t5CWB88ooC26Na'
+
+----
+
+Film-id: 455
+
+----
+
+Description: A Awe-Inspiring Yarn of a Monkey And a Hunter who must Chase a Teacher in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 103
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: 5aTOisKICzy67XBf
+
+----
+
+Categories: - 'page://1zSlwtq2IyzVh9Hs'

@@ -1,0 +1,33 @@
+Title: DELORES HANSEN
+
+----
+
+Customer-id: 222
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: DELORES
+
+----
+
+Last-name: HANSEN
+
+----
+
+Email: DELORES.HANSEN@sakilacustomer.org
+
+----
+
+Address: page://Im0KeCp168XY6XqG
+
+----
+
+Active: 1
+
+----
+
+Uuid: Y16ImlJTc5Q7Tqiw

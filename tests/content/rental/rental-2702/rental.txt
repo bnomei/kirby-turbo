@@ -1,0 +1,25 @@
+Title: Rental 2702
+
+----
+
+Rental-id: 2702
+
+----
+
+Rental-date: 2005-06-19 13:35:56
+
+----
+
+Return-date: 2005-06-20 14:07:56
+
+----
+
+Inventory: page://Ci3wLIlcnLoT7WeR
+
+----
+
+Uuid: xxw1r2yaujuHMGkJ
+
+----
+
+Customer: page://uPhvBTY0GbGPCouW

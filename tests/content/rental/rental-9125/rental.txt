@@ -1,0 +1,25 @@
+Title: Rental 9125
+
+----
+
+Rental-id: 9125
+
+----
+
+Rental-date: 2005-07-30 09:43:39
+
+----
+
+Return-date: 2005-08-07 14:02:39
+
+----
+
+Inventory: page://kA341SEJzb5ZuHlB
+
+----
+
+Customer: page://oE79ihefnb125Y1I
+
+----
+
+Uuid: V9LmqlcBxFvcb30F

@@ -1,0 +1,17 @@
+Title: Inv 683
+
+----
+
+Inventory-id: 683
+
+----
+
+Film: page://gcI22iZfI8heb4EI
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: zyKYb6EaQzVWLzEA

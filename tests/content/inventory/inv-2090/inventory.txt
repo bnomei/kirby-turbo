@@ -1,0 +1,17 @@
+Title: Inv 2090
+
+----
+
+Inventory-id: 2090
+
+----
+
+Film: page://L3AM3WvARkVbH2oW
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ppsenhAOspTY7YEz

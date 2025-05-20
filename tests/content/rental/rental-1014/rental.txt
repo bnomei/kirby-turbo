@@ -1,0 +1,25 @@
+Title: Rental 1014
+
+----
+
+Rental-id: 1014
+
+----
+
+Rental-date: 2005-05-31 02:39:16
+
+----
+
+Return-date: 2005-06-01 06:03:16
+
+----
+
+Inventory: page://Stn2Hc1vgjTDmLgP
+
+----
+
+Uuid: Tfl5pDjSPM2eVr3b
+
+----
+
+Customer: page://Vns4RDWjccDhVJJe

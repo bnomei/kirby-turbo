@@ -1,0 +1,17 @@
+Title: Inv 1280
+
+----
+
+Inventory-id: 1280
+
+----
+
+Film: page://N0oZDtfQfAD4q3Nb
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: K74IOuNzYNu2xsgp

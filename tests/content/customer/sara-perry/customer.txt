@@ -1,0 +1,33 @@
+Title: SARA PERRY
+
+----
+
+Customer-id: 84
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: SARA
+
+----
+
+Last-name: PERRY
+
+----
+
+Email: SARA.PERRY@sakilacustomer.org
+
+----
+
+Address: page://D9WJMrdYw4kLMvcO
+
+----
+
+Active: 1
+
+----
+
+Uuid: cwgSUWzYLMDqVZzh

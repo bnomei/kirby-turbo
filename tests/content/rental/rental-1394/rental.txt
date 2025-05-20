@@ -1,0 +1,25 @@
+Title: Rental 1394
+
+----
+
+Rental-id: 1394
+
+----
+
+Rental-date: 2005-06-15 16:17:21
+
+----
+
+Return-date: 2005-06-21 20:44:21
+
+----
+
+Inventory: page://XqM0PnroSJ6BXI4B
+
+----
+
+Uuid: 3L5urKrVfVh4QMC5
+
+----
+
+Customer: page://VeTDo26Y3oPKF7Sh

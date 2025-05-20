@@ -1,0 +1,25 @@
+Title: Rental 4012
+
+----
+
+Rental-id: 4012
+
+----
+
+Rental-date: 2005-07-07 00:56:09
+
+----
+
+Return-date: 2005-07-10 21:49:09
+
+----
+
+Inventory: page://dfvDjq27tIr98D9y
+
+----
+
+Uuid: MJOQFF2M6t7iTKIm
+
+----
+
+Customer: page://BnkjNKRbR7N7yyga

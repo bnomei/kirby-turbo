@@ -1,0 +1,33 @@
+Title: KATHRYN COLEMAN
+
+----
+
+Customer-id: 82
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: KATHRYN
+
+----
+
+Last-name: COLEMAN
+
+----
+
+Email: KATHRYN.COLEMAN@sakilacustomer.org
+
+----
+
+Address: page://gjJSjpLkbpX7dP2T
+
+----
+
+Active: 1
+
+----
+
+Uuid: HwY6ZsDzzk6bcaJh

@@ -1,0 +1,33 @@
+Title: ALBERTO HENNING
+
+----
+
+Customer-id: 568
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ALBERTO
+
+----
+
+Last-name: HENNING
+
+----
+
+Email: ALBERTO.HENNING@sakilacustomer.org
+
+----
+
+Address: page://sHRSSTPgeykTcpIO
+
+----
+
+Active: 1
+
+----
+
+Uuid: FbxMu5KvBZejM5Ly

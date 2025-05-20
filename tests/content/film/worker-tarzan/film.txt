@@ -1,0 +1,46 @@
+Title: WORKER TARZAN
+
+----
+
+Actors:
+
+- 'page://osa3qsECAnV3MAu4'
+- 'page://eJszhRe2rjIvWjny'
+- 'page://ixmDbcb5VXh1c8bc'
+- 'page://64SCw7TVQ1KFgpJt'
+- 'page://dRscV8wJJ6wok0jq'
+- 'page://zYYZnzancmv0SOT5'
+- 'page://nfzjlyLmEQ6Q1S80'
+- 'page://9XqCStEtXKdxVnPM'
+
+----
+
+Film-id: 988
+
+----
+
+Description: A Action-Packed Yarn of a Secret Agent And a Technical Writer who must Battle a Sumo Wrestler in The First Manned Space Station
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 139
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: 2WrWVuDwLaDCOlID
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

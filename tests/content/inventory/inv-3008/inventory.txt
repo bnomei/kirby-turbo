@@ -1,0 +1,17 @@
+Title: Inv 3008
+
+----
+
+Inventory-id: 3008
+
+----
+
+Film: page://vXH73fvVYrQ6QbzQ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: cwgFrDE7TkNJ8yGT

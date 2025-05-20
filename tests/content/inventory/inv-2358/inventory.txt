@@ -1,0 +1,17 @@
+Title: Inv 2358
+
+----
+
+Inventory-id: 2358
+
+----
+
+Film: page://HfpKeXF5qcaHkuXX
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 5QwioNqD72pDHwrQ

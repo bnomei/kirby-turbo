@@ -1,0 +1,17 @@
+Title: Inv 3278
+
+----
+
+Inventory-id: 3278
+
+----
+
+Film: page://SOGubtObTY7V7FqY
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 6iuMdI9FyOpuY2gC

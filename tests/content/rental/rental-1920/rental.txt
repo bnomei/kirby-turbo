@@ -1,0 +1,25 @@
+Title: Rental 1920
+
+----
+
+Rental-id: 1920
+
+----
+
+Rental-date: 2005-06-17 06:00:23
+
+----
+
+Return-date: 2005-06-24 04:49:23
+
+----
+
+Inventory: page://bhG6FfcRot2HgCYz
+
+----
+
+Uuid: vfh34RpdqEkSzQRJ
+
+----
+
+Customer: page://x5SWKXQpXhzjUJdL

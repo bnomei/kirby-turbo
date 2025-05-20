@@ -1,0 +1,25 @@
+Title: Rental 1093
+
+----
+
+Rental-id: 1093
+
+----
+
+Rental-date: 2005-05-31 12:32:26
+
+----
+
+Return-date: 2005-06-03 07:51:26
+
+----
+
+Inventory: page://WlWoMkNApuYuPKDV
+
+----
+
+Uuid: bsypcuSrGd5mKmm1
+
+----
+
+Customer: page://ZbOznINloPtmkvNK

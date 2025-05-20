@@ -1,0 +1,17 @@
+Title: Inv 2918
+
+----
+
+Inventory-id: 2918
+
+----
+
+Film: page://PZ0xMmk7jbAU2oQZ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: UP2REhrzEHmugDaw

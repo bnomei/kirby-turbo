@@ -1,0 +1,25 @@
+Title: Rental 13409
+
+----
+
+Rental-id: 13409
+
+----
+
+Rental-date: 2005-08-19 22:36:26
+
+----
+
+Return-date: 2005-08-22 01:52:26
+
+----
+
+Inventory: page://4CFtqvgYgmRzymnb
+
+----
+
+Customer: page://ZbOznINloPtmkvNK
+
+----
+
+Uuid: KSDs52crjGBKRqjD

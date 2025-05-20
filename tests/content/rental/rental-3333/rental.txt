@@ -1,0 +1,25 @@
+Title: Rental 3333
+
+----
+
+Rental-id: 3333
+
+----
+
+Rental-date: 2005-06-21 10:01:36
+
+----
+
+Return-date: 2005-06-25 10:27:36
+
+----
+
+Inventory: page://fwFvFP16h6Limgx1
+
+----
+
+Uuid: QYK2vvemXnwLO1rx
+
+----
+
+Customer: page://3oDVHadirwJKNUrH

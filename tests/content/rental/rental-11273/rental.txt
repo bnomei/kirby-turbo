@@ -1,0 +1,25 @@
+Title: Rental 11273
+
+----
+
+Rental-id: 11273
+
+----
+
+Rental-date: 2005-08-02 14:20:55
+
+----
+
+Return-date: 2005-08-07 12:57:55
+
+----
+
+Inventory: page://cH3BSnPQQ6PkgUab
+
+----
+
+Customer: page://ySJHEKSdmqJXUMT3
+
+----
+
+Uuid: P3r8luSQgmoMvcqf

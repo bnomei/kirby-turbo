@@ -1,0 +1,25 @@
+Title: Rental 725
+
+----
+
+Rental-id: 725
+
+----
+
+Rental-date: 2005-05-29 06:03:41
+
+----
+
+Return-date: 2005-06-03 08:52:41
+
+----
+
+Inventory: page://EPXzIP4lULti3vFm
+
+----
+
+Uuid: E7T0AMgDnYGzitFo
+
+----
+
+Customer: page://pb7ZrH0vPEWpfLP3

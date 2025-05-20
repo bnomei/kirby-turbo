@@ -1,0 +1,17 @@
+Title: Inv 1024
+
+----
+
+Inventory-id: 1024
+
+----
+
+Film: page://oflhBCkeFO0XcxrB
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: PsQp2biVwlHTiFQe

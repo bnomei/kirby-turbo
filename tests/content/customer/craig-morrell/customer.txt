@@ -1,0 +1,33 @@
+Title: CRAIG MORRELL
+
+----
+
+Customer-id: 388
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: CRAIG
+
+----
+
+Last-name: MORRELL
+
+----
+
+Email: CRAIG.MORRELL@sakilacustomer.org
+
+----
+
+Address: page://AoeTSlqNlz1abxUc
+
+----
+
+Active: 1
+
+----
+
+Uuid: dkuwbLEfkaF29Y6o

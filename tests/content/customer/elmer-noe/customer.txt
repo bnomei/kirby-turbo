@@ -1,0 +1,33 @@
+Title: ELMER NOE
+
+----
+
+Customer-id: 516
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ELMER
+
+----
+
+Last-name: NOE
+
+----
+
+Email: ELMER.NOE@sakilacustomer.org
+
+----
+
+Address: page://wa3RXkRydTJ8j7kI
+
+----
+
+Active: 1
+
+----
+
+Uuid: 5hIhacgiGD4GRrE2

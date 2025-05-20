@@ -1,0 +1,17 @@
+Title: Inv 3805
+
+----
+
+Inventory-id: 3805
+
+----
+
+Film: page://BMtazaGmS6oQnaij
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 2K8TxJZLMLODXq4f

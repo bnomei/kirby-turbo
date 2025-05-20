@@ -1,0 +1,25 @@
+Title: Rental 8157
+
+----
+
+Rental-id: 8157
+
+----
+
+Rental-date: 2005-07-28 21:06:45
+
+----
+
+Return-date: 2005-08-04 16:06:45
+
+----
+
+Inventory: page://GiTx8Bns7TaTG8Ma
+
+----
+
+Customer: page://kiN3u3DN0FkdJzU9
+
+----
+
+Uuid: gU8DxKAM0mNujmyo

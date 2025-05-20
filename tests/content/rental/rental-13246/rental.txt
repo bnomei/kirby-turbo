@@ -1,0 +1,21 @@
+Title: Rental 13246
+
+----
+
+Rental-id: 13246
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://3oWspYQbixrMGOiv
+
+----
+
+Customer: page://QLQpAHNndEIHvGr2
+
+----
+
+Uuid: PWejnQh4tqISTBdx

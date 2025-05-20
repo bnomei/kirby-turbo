@@ -1,0 +1,25 @@
+Title: Rental 717
+
+----
+
+Rental-id: 717
+
+----
+
+Rental-date: 2005-05-29 04:37:44
+
+----
+
+Return-date: 2005-05-30 05:48:44
+
+----
+
+Inventory: page://LVAxUvMqG3MlMJb8
+
+----
+
+Uuid: 7mRxHLhGt2jaxFFY
+
+----
+
+Customer: page://7L8rEdWDVFlYJ1mL

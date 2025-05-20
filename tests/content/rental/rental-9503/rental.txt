@@ -1,0 +1,25 @@
+Title: Rental 9503
+
+----
+
+Rental-id: 9503
+
+----
+
+Rental-date: 2005-07-31 00:02:38
+
+----
+
+Return-date: 2005-08-06 06:01:38
+
+----
+
+Inventory: page://JPMUJOVF1C42eEG1
+
+----
+
+Customer: page://W7ZJXAG7NuFuJZ2S
+
+----
+
+Uuid: i3JER6hcV70AG4px

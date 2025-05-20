@@ -1,0 +1,25 @@
+Title: Rental 2632
+
+----
+
+Rental-id: 2632
+
+----
+
+Rental-date: 2005-06-19 08:51:47
+
+----
+
+Return-date: 2005-06-23 07:13:47
+
+----
+
+Inventory: page://e5fS4jddlU6jf6p0
+
+----
+
+Uuid: SP053ydp8cyay1Tk
+
+----
+
+Customer: page://ezKQFYnXPCOgLSXF

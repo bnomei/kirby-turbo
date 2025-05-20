@@ -1,0 +1,25 @@
+Title: Rental 6384
+
+----
+
+Rental-id: 6384
+
+----
+
+Rental-date: 2005-07-11 22:07:26
+
+----
+
+Return-date: 2005-07-16 22:39:26
+
+----
+
+Inventory: page://e0RT8nh074H5VAXZ
+
+----
+
+Uuid: 4mpxhBxrbBE0zfak
+
+----
+
+Customer: page://4ds5KktMOLHXcWuW

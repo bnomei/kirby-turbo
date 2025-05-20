@@ -1,0 +1,25 @@
+Title: Rental 10736
+
+----
+
+Rental-id: 10736
+
+----
+
+Rental-date: 2005-08-01 19:30:21
+
+----
+
+Return-date: 2005-08-02 22:37:21
+
+----
+
+Inventory: page://4kqgn2uoahjLSyZt
+
+----
+
+Customer: page://ZOo5G7TWezJJco39
+
+----
+
+Uuid: CWQK4ivfdcazIfmH

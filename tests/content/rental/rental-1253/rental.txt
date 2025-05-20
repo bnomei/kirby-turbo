@@ -1,0 +1,25 @@
+Title: Rental 1253
+
+----
+
+Rental-id: 1253
+
+----
+
+Rental-date: 2005-06-15 06:06:33
+
+----
+
+Return-date: 2005-06-21 04:13:33
+
+----
+
+Inventory: page://zyvfKDCl22ASQLFc
+
+----
+
+Uuid: TTfhB9UATUCaQ7PH
+
+----
+
+Customer: page://2lQ4vbsZnRXuEptp

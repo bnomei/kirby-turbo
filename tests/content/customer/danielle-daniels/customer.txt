@@ -1,0 +1,33 @@
+Title: DANIELLE DANIELS
+
+----
+
+Customer-id: 150
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: DANIELLE
+
+----
+
+Last-name: DANIELS
+
+----
+
+Email: DANIELLE.DANIELS@sakilacustomer.org
+
+----
+
+Address: page://i8cS8mvPaAw1Fyam
+
+----
+
+Active: 1
+
+----
+
+Uuid: qnkS0qeAEHNLa6TI

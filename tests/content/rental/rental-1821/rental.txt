@@ -1,0 +1,25 @@
+Title: Rental 1821
+
+----
+
+Rental-id: 1821
+
+----
+
+Rental-date: 2005-06-16 21:42:49
+
+----
+
+Return-date: 2005-06-20 16:25:49
+
+----
+
+Inventory: page://JFDF5SDZA88eeP8x
+
+----
+
+Uuid: 5KwTRlO3MF1JFYS8
+
+----
+
+Customer: page://tS8tZAomHzcsij8a

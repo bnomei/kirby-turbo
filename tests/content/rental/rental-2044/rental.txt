@@ -1,0 +1,25 @@
+Title: Rental 2044
+
+----
+
+Rental-id: 2044
+
+----
+
+Rental-date: 2005-06-17 14:37:57
+
+----
+
+Return-date: 2005-06-22 17:15:57
+
+----
+
+Inventory: page://86yqb5xAKjR9Mg6N
+
+----
+
+Uuid: sqqJh7QvWlxhTHEt
+
+----
+
+Customer: page://rMm0jN6bFHVs2tRk

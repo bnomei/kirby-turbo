@@ -1,0 +1,33 @@
+Title: SAMANTHA DUNCAN
+
+----
+
+Customer-id: 177
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: SAMANTHA
+
+----
+
+Last-name: DUNCAN
+
+----
+
+Email: SAMANTHA.DUNCAN@sakilacustomer.org
+
+----
+
+Address: page://E6PxMsnkNsJyAtdC
+
+----
+
+Active: 1
+
+----
+
+Uuid: 2QRxABR23Jfbr6gF

@@ -1,0 +1,25 @@
+Title: Rental 434
+
+----
+
+Rental-id: 434
+
+----
+
+Rental-date: 2005-05-27 16:54:27
+
+----
+
+Return-date: 2005-06-04 22:26:27
+
+----
+
+Inventory: page://iwJVK3yjdSjeU97G
+
+----
+
+Uuid: qxU9DQUpGB3xaT7z
+
+----
+
+Customer: page://SnGdQyKh3vyTvpek

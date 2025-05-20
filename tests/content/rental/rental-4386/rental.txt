@@ -1,0 +1,25 @@
+Title: Rental 4386
+
+----
+
+Rental-id: 4386
+
+----
+
+Rental-date: 2005-07-07 20:55:19
+
+----
+
+Return-date: 2005-07-10 21:51:19
+
+----
+
+Inventory: page://HF7V4jOdqSzPqkdQ
+
+----
+
+Uuid: XgM3MITzF3OEm4S5
+
+----
+
+Customer: page://Ouab56J6iNBuj7fa

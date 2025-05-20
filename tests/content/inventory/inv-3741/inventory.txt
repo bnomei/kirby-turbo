@@ -1,0 +1,17 @@
+Title: Inv 3741
+
+----
+
+Inventory-id: 3741
+
+----
+
+Film: page://qiTCdevnusoszKmv
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 5maCLoDnQrMVfejq

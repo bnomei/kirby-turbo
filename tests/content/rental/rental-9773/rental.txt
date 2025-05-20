@@ -1,0 +1,25 @@
+Title: Rental 9773
+
+----
+
+Rental-id: 9773
+
+----
+
+Rental-date: 2005-07-31 09:56:56
+
+----
+
+Return-date: 2005-08-04 09:38:56
+
+----
+
+Inventory: page://owPsgBEhUQ6VVafh
+
+----
+
+Customer: page://20Yola6tVbTLAtmZ
+
+----
+
+Uuid: QAa4PEaDeH4nyKfI

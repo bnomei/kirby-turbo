@@ -1,0 +1,17 @@
+Title: Inv 1231
+
+----
+
+Inventory-id: 1231
+
+----
+
+Film: page://dUaroWhMD6Ug8PIq
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: za5PhUgH3da1hL8A

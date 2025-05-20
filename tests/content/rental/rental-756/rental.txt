@@ -1,0 +1,25 @@
+Title: Rental 756
+
+----
+
+Rental-id: 756
+
+----
+
+Rental-date: 2005-05-29 10:28:45
+
+----
+
+Return-date: 2005-06-04 12:50:45
+
+----
+
+Inventory: page://flqrucv8uLMCAN7O
+
+----
+
+Uuid: 2HbNJRaD7itsxgr9
+
+----
+
+Customer: page://cJydH6wkvuH04KQt

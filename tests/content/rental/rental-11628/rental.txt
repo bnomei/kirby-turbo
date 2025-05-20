@@ -1,0 +1,25 @@
+Title: Rental 11628
+
+----
+
+Rental-id: 11628
+
+----
+
+Rental-date: 2005-08-17 04:27:18
+
+----
+
+Return-date: 2005-08-25 01:12:18
+
+----
+
+Inventory: page://60UEpdDDLBB0dxtA
+
+----
+
+Customer: page://Nq991akaEgNmdCHy
+
+----
+
+Uuid: aTP45eNYQ2wpfdC8

@@ -1,0 +1,25 @@
+Title: Rental 6437
+
+----
+
+Rental-id: 6437
+
+----
+
+Rental-date: 2005-07-12 00:20:29
+
+----
+
+Return-date: 2005-07-12 22:26:29
+
+----
+
+Inventory: page://PSbvtSZUAWTbyHnC
+
+----
+
+Uuid: QitfnpiZTW1OwH6i
+
+----
+
+Customer: page://lgbKkp1lML4CzpHP

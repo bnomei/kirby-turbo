@@ -1,0 +1,25 @@
+Title: Rental 14634
+
+----
+
+Rental-id: 14634
+
+----
+
+Rental-date: 2005-08-21 18:51:28
+
+----
+
+Return-date: 2005-08-29 19:30:28
+
+----
+
+Inventory: page://OGB8iFIS4nfFXc8p
+
+----
+
+Customer: page://wPjJI94k63sf9tIo
+
+----
+
+Uuid: Md7t7nf9uZAlkShj

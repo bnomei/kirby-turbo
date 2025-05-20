@@ -1,0 +1,25 @@
+Title: Rental 7121
+
+----
+
+Rental-id: 7121
+
+----
+
+Rental-date: 2005-07-27 05:58:32
+
+----
+
+Return-date: 2005-07-29 06:14:32
+
+----
+
+Inventory: page://94TrgBS9lpwHBM7C
+
+----
+
+Customer: page://wnNII2TCsO0AokjP
+
+----
+
+Uuid: 8BgxCjWpR5WXk9Dd

@@ -1,0 +1,33 @@
+Title: GERALD FULTZ
+
+----
+
+Customer-id: 356
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: GERALD
+
+----
+
+Last-name: FULTZ
+
+----
+
+Email: GERALD.FULTZ@sakilacustomer.org
+
+----
+
+Address: page://HliS3YMaTOLVmgS5
+
+----
+
+Active: 1
+
+----
+
+Uuid: fXUgmXqRtLO0PH1c

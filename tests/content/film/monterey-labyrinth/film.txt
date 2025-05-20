@@ -1,0 +1,44 @@
+Title: MONTEREY LABYRINTH
+
+----
+
+Actors:
+
+- 'page://qd0io4mUKZ4KUkyk'
+- 'page://oEbdYNCKFrP9NVLv'
+- 'page://fpycclHxIOPEPbuu'
+- 'page://dRscV8wJJ6wok0jq'
+- 'page://qXajFtQVbGpQUZAN'
+- 'page://9XqCStEtXKdxVnPM'
+
+----
+
+Film-id: 593
+
+----
+
+Description: A Awe-Inspiring Drama of a Monkey And a Composer who must Escape a Feminist in A U-Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 158
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: YhpwaSeGCZssd2Qj
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

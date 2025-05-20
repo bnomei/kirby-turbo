@@ -1,0 +1,44 @@
+Title: PARK CITIZEN
+
+----
+
+Actors:
+
+- 'page://twoON2iToIZq1akt'
+- 'page://MokGIRk1MnOR5ecX'
+- 'page://K0t8PMh78EXVZHC5'
+- 'page://1a2BLQivFz3Ch6Lx'
+- 'page://X3dUYAbt0AiREsIH'
+- 'page://gLWxCWOnObb0fT65'
+
+----
+
+Film-id: 659
+
+----
+
+Description: A Taut Epistle of a Sumo Wrestler And a Girl who must Face a Husband in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 109
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: ZBMBy0rCVBWBK5bQ
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

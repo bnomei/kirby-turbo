@@ -1,0 +1,21 @@
+Title: Rental 14216
+
+----
+
+Rental-id: 14216
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://qQyPyQiLPPwz7MYY
+
+----
+
+Customer: page://ZYRwcsL569LnKKWi
+
+----
+
+Uuid: AlTU28v9VTQcmK7o

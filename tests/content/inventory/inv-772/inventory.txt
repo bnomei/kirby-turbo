@@ -1,0 +1,17 @@
+Title: Inv 772
+
+----
+
+Inventory-id: 772
+
+----
+
+Film: page://aw00Hi0tBVlwX0SQ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: bCRQ3iFmkpS7ngHM

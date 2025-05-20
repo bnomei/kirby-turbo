@@ -1,0 +1,25 @@
+Title: Rental 11503
+
+----
+
+Rental-id: 11503
+
+----
+
+Rental-date: 2005-08-16 23:10:34
+
+----
+
+Return-date: 2005-08-25 03:55:34
+
+----
+
+Inventory: page://RpG6Tf8IO141QOA5
+
+----
+
+Customer: page://yQcQ1eHjHG2TC2t0
+
+----
+
+Uuid: f8Hs17dS2wDqdpca

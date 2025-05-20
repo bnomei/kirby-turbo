@@ -1,0 +1,17 @@
+Title: Inv 4134
+
+----
+
+Inventory-id: 4134
+
+----
+
+Film: page://sV23YpqeUmbQaYoT
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: cguGumQtNLPSXJGy

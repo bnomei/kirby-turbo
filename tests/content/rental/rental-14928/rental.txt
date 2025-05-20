@@ -1,0 +1,21 @@
+Title: Rental 14928
+
+----
+
+Rental-id: 14928
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://1REgarsTCpGt8TCc
+
+----
+
+Customer: page://LJEK6IMnfzlMyzBj
+
+----
+
+Uuid: SXpRkC5JMaJY5CJk

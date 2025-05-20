@@ -1,0 +1,25 @@
+Title: Rental 4923
+
+----
+
+Rental-id: 4923
+
+----
+
+Rental-date: 2005-07-08 21:44:39
+
+----
+
+Return-date: 2005-07-17 15:50:39
+
+----
+
+Inventory: page://fyUSWgchvJT7Wb1E
+
+----
+
+Uuid: mtjNqbTSN8vNxSD4
+
+----
+
+Customer: page://4PvCN4u0ZNDQjU3C

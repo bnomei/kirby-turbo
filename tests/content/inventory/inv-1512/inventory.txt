@@ -1,0 +1,17 @@
+Title: Inv 1512
+
+----
+
+Inventory-id: 1512
+
+----
+
+Film: page://3zUpBphLbjRXt0MB
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: IYpylVWjHkatJGRN

@@ -1,0 +1,17 @@
+Title: Inv 4302
+
+----
+
+Inventory-id: 4302
+
+----
+
+Film: page://MILGhCJg92KmiUZL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: VNSVP6C1F5AJp1Q2

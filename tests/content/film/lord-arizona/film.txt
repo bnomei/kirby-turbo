@@ -1,0 +1,44 @@
+Title: LORD ARIZONA
+
+----
+
+Actors:
+
+- 'page://EOOflmfeZlmBOGUJ'
+- 'page://rWwSmn6uTovtpXae'
+- 'page://WmeC1S3wVV4gdFE4'
+- 'page://if8hfrmRoIODgwSa'
+- 'page://dRscV8wJJ6wok0jq'
+- 'page://qCm78VMzP14zbmIL'
+
+----
+
+Film-id: 530
+
+----
+
+Description: A Action-Packed Display of a Frisbee And a Pastry Chef who must Pursue a Crocodile in A Jet Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 108
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: L2z7f35aAXCyKGgv
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

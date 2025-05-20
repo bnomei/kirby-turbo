@@ -1,0 +1,17 @@
+Title: Inv 2114
+
+----
+
+Inventory-id: 2114
+
+----
+
+Film: page://V5dPFsZeLXM2dQEc
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 8meA2NtqF1FCCeBT

@@ -1,0 +1,25 @@
+Title: Rental 9671
+
+----
+
+Rental-id: 9671
+
+----
+
+Rental-date: 2005-07-31 06:33:41
+
+----
+
+Return-date: 2005-08-02 07:50:41
+
+----
+
+Inventory: page://r4yNnLUa3NnQLGm9
+
+----
+
+Customer: page://YTXWnGj3tTFKF9yc
+
+----
+
+Uuid: mWVbEmABA3EzNLkL

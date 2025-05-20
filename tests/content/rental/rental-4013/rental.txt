@@ -1,0 +1,25 @@
+Title: Rental 4013
+
+----
+
+Rental-id: 4013
+
+----
+
+Rental-date: 2005-07-07 00:58:00
+
+----
+
+Return-date: 2005-07-15 19:42:00
+
+----
+
+Inventory: page://1Lk5OXGuXM1swqN3
+
+----
+
+Uuid: eixPS5CDkgSp7xT9
+
+----
+
+Customer: page://Np0KqTwajD8FvaQR

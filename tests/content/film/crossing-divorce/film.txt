@@ -1,0 +1,40 @@
+Title: CROSSING DIVORCE
+
+----
+
+Actors:
+
+- 'page://9NAEa97MvjisWbzN'
+- 'page://I440rKCeu4AX6xcF'
+
+----
+
+Film-id: 192
+
+----
+
+Description: A Beautiful Documentary of a Dog And a Robot who must Redeem a Womanizer in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 50
+
+----
+
+Rating: R
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: INa6KvG6wW3mYlXP
+
+----
+
+Categories: - 'page://1zSlwtq2IyzVh9Hs'

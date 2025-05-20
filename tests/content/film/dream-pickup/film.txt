@@ -1,0 +1,42 @@
+Title: DREAM PICKUP
+
+----
+
+Actors:
+
+- 'page://gxNf949gkwS5ks3A'
+- 'page://nkFKurUJ9w7y8omW'
+- 'page://nGhJyQbze3rAAH9v'
+- 'page://CBtLT02Rklp5i11L'
+
+----
+
+Film-id: 252
+
+----
+
+Description: A Epic Display of a Car And a Composer who must Overcome a Forensic Psychologist in The Gulf of Mexico
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 135
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: s6vC2ZaK9LqmAaJK
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

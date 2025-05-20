@@ -1,0 +1,17 @@
+Title: Inv 1087
+
+----
+
+Inventory-id: 1087
+
+----
+
+Film: page://uNXT5DOP9sXQU2Io
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: p6lKNzs5pQyJTnkG

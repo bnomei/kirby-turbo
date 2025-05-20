@@ -1,0 +1,25 @@
+Title: Rental 10771
+
+----
+
+Rental-id: 10771
+
+----
+
+Rental-date: 2005-08-01 20:49:35
+
+----
+
+Return-date: 2005-08-10 16:58:35
+
+----
+
+Inventory: page://HbG2mhwLA2qy7vrL
+
+----
+
+Customer: page://HENTXL1iEV8LJg7f
+
+----
+
+Uuid: yJvLDlE78oD3N9Da

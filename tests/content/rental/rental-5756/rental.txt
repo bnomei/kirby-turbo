@@ -1,0 +1,25 @@
+Title: Rental 5756
+
+----
+
+Rental-id: 5756
+
+----
+
+Rental-date: 2005-07-10 12:39:28
+
+----
+
+Return-date: 2005-07-11 14:08:28
+
+----
+
+Inventory: page://L1rbNKxgbXHUXX3o
+
+----
+
+Uuid: TYZKmyCIBcpLr3FU
+
+----
+
+Customer: page://DMcOFvIGwUGtGqRT

@@ -1,0 +1,17 @@
+Title: Inv 2621
+
+----
+
+Inventory-id: 2621
+
+----
+
+Film: page://9ZSq3jsPFNUmTNqD
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: RYKgVmHuLkuuIwSU

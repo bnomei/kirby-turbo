@@ -1,0 +1,17 @@
+Title: Inv 497
+
+----
+
+Inventory-id: 497
+
+----
+
+Film: page://dz5sVOmAKPQNMBEj
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: m3D3g7gj2yEyBUIc

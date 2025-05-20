@@ -1,0 +1,25 @@
+Title: Rental 7262
+
+----
+
+Rental-id: 7262
+
+----
+
+Rental-date: 2005-07-27 11:15:36
+
+----
+
+Return-date: 2005-07-30 10:49:36
+
+----
+
+Inventory: page://76JcQ7chMlF1h1GK
+
+----
+
+Customer: page://azLzg4bnImGnXayq
+
+----
+
+Uuid: mvSzpkcGxcbhWDT4

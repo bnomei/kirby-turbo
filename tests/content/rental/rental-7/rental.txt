@@ -1,0 +1,25 @@
+Title: Rental 7
+
+----
+
+Rental-id: 7
+
+----
+
+Rental-date: 2005-05-24 23:11:53
+
+----
+
+Return-date: 2005-05-29 20:34:53
+
+----
+
+Inventory: page://fWtP7meb4S62ROwg
+
+----
+
+Uuid: sAZn0m3lLKv9fQil
+
+----
+
+Customer: page://Cko87GK3ShDjUK4Q

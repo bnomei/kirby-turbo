@@ -1,0 +1,33 @@
+Title: JUNE CARROLL
+
+----
+
+Customer-id: 176
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JUNE
+
+----
+
+Last-name: CARROLL
+
+----
+
+Email: JUNE.CARROLL@sakilacustomer.org
+
+----
+
+Address: page://nVd0PSNPL38Pl71c
+
+----
+
+Active: 1
+
+----
+
+Uuid: 8I9W8oDFPxssbhIJ

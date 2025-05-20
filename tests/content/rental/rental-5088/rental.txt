@@ -1,0 +1,25 @@
+Title: Rental 5088
+
+----
+
+Rental-id: 5088
+
+----
+
+Rental-date: 2005-07-09 05:45:16
+
+----
+
+Return-date: 2005-07-15 00:41:16
+
+----
+
+Inventory: page://yXNVv9uyxVp7wMpm
+
+----
+
+Uuid: YtIS6GPwv7uALyFj
+
+----
+
+Customer: page://2QCpyeeQilmvnk6g

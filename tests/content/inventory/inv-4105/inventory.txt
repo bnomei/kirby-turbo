@@ -1,0 +1,17 @@
+Title: Inv 4105
+
+----
+
+Inventory-id: 4105
+
+----
+
+Film: page://TA76R8F61TYUcZhH
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: pqInFpQRqZNzloB1

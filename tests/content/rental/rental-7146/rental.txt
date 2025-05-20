@@ -1,0 +1,25 @@
+Title: Rental 7146
+
+----
+
+Rental-id: 7146
+
+----
+
+Rental-date: 2005-07-27 07:02:30
+
+----
+
+Return-date: 2005-08-05 10:29:30
+
+----
+
+Inventory: page://RY7uwxoPmhulNij4
+
+----
+
+Customer: page://Br6nNDFY9PURatbb
+
+----
+
+Uuid: aKLdbl0PoFdtyCLU

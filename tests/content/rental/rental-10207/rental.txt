@@ -1,0 +1,25 @@
+Title: Rental 10207
+
+----
+
+Rental-id: 10207
+
+----
+
+Rental-date: 2005-08-01 00:53:01
+
+----
+
+Return-date: 2005-08-05 05:51:01
+
+----
+
+Inventory: page://DUZNBYrM3xxkvDjW
+
+----
+
+Customer: page://1lV61pgXzMTI9zGL
+
+----
+
+Uuid: 14nVG4eqwyMuvs9o

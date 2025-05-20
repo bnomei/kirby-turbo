@@ -1,0 +1,25 @@
+Title: Rental 4360
+
+----
+
+Rental-id: 4360
+
+----
+
+Rental-date: 2005-07-07 19:31:12
+
+----
+
+Return-date: 2005-07-10 23:11:12
+
+----
+
+Inventory: page://UFDeBEXLEddvzNpr
+
+----
+
+Uuid: hqX1crdheSSRDfti
+
+----
+
+Customer: page://4x9Op7aGVprxBkqV

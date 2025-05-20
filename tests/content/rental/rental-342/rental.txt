@@ -1,0 +1,25 @@
+Title: Rental 342
+
+----
+
+Rental-id: 342
+
+----
+
+Rental-date: 2005-05-27 04:11:04
+
+----
+
+Return-date: 2005-05-29 01:28:04
+
+----
+
+Inventory: page://3wpC3NPJAX1pxRRY
+
+----
+
+Uuid: xpTxb5yCzpoREIvj
+
+----
+
+Customer: page://QOClXserCz22nvYn

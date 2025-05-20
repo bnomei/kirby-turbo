@@ -1,0 +1,17 @@
+Title: Inv 1416
+
+----
+
+Inventory-id: 1416
+
+----
+
+Film: page://zPaxErPfA20yyka9
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: C2oeoUR8a1gfMTwa

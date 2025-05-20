@@ -1,0 +1,17 @@
+Title: Inv 2979
+
+----
+
+Inventory-id: 2979
+
+----
+
+Film: page://OfDK32XwcLOgr9JV
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: yQkERvJ0yRhke3Z5

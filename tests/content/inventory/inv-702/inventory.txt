@@ -1,0 +1,17 @@
+Title: Inv 702
+
+----
+
+Inventory-id: 702
+
+----
+
+Film: page://7iG7iKaB1YUU3AaN
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: fKqGcPP3RnTMYNnL

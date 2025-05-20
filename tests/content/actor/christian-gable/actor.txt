@@ -1,0 +1,21 @@
+Title: CHRISTIAN GABLE
+
+----
+
+Actors: []
+
+----
+
+Actor-id: 10
+
+----
+
+First-name: CHRISTIAN
+
+----
+
+Last-name: GABLE
+
+----
+
+Uuid: EOOflmfeZlmBOGUJ

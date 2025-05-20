@@ -1,0 +1,21 @@
+Title: Rental 14741
+
+----
+
+Rental-id: 14741
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://YVlDQXy7SjU9xLa8
+
+----
+
+Customer: page://wPyg9sLQxXlxD9Q9
+
+----
+
+Uuid: uGm0Z94dqHijRO9d

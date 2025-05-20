@@ -1,0 +1,33 @@
+Title: HERMAN DEVORE
+
+----
+
+Customer-id: 481
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: HERMAN
+
+----
+
+Last-name: DEVORE
+
+----
+
+Email: HERMAN.DEVORE@sakilacustomer.org
+
+----
+
+Address: page://4UpgSGoMKgXUATcG
+
+----
+
+Active: 1
+
+----
+
+Uuid: 6B5jExq3JyrPdaga

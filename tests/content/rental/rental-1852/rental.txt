@@ -1,0 +1,25 @@
+Title: Rental 1852
+
+----
+
+Rental-id: 1852
+
+----
+
+Rental-date: 2005-06-17 00:38:20
+
+----
+
+Return-date: 2005-06-22 20:04:20
+
+----
+
+Inventory: page://RatFWtj98u7P4DIY
+
+----
+
+Uuid: fnFHCp0cnTaetS3A
+
+----
+
+Customer: page://2LSdRoTDkGNKivkh

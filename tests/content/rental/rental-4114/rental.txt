@@ -1,0 +1,25 @@
+Title: Rental 4114
+
+----
+
+Rental-id: 4114
+
+----
+
+Rental-date: 2005-07-07 06:51:12
+
+----
+
+Return-date: 2005-07-15 01:36:12
+
+----
+
+Inventory: page://xQc3lyobgof67UdT
+
+----
+
+Uuid: JXBS6couYpt9qrL9
+
+----
+
+Customer: page://bm01Zh4gvYAGmd89

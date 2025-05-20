@@ -1,0 +1,17 @@
+Title: Inv 2728
+
+----
+
+Inventory-id: 2728
+
+----
+
+Film: page://vora5sVe9reu6u3d
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: PJNamzV8e0J6Z0XJ

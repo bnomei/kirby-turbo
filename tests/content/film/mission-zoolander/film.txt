@@ -1,0 +1,43 @@
+Title: MISSION ZOOLANDER
+
+----
+
+Actors:
+
+- 'page://EfT0PAFDrVUk4H1Y'
+- 'page://I2QUzWEQkTiY7Ba5'
+- 'page://Kx231VrTuxlFk3Xg'
+- 'page://pokjngmFMjrhDsLQ'
+- 'page://WFF82auh2AgpYPoL'
+
+----
+
+Film-id: 583
+
+----
+
+Description: A Intrepid Story of a Sumo Wrestler And a Teacher who must Meet a A Shark in An Abandoned Fun House
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 164
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: TOKyEYVeTRjIWeQl
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

@@ -1,0 +1,21 @@
+Title: Rental 13182
+
+----
+
+Rental-id: 13182
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://RERyfM0kyBJiHxPs
+
+----
+
+Customer: page://GOt9TBIxUNbbEEg5
+
+----
+
+Uuid: X0HvDfEntWWwawyC

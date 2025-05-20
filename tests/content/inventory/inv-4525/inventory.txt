@@ -1,0 +1,17 @@
+Title: Inv 4525
+
+----
+
+Inventory-id: 4525
+
+----
+
+Film: page://2WrWVuDwLaDCOlID
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: LCRPIbna1BN9Zkh5

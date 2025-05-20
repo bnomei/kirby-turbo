@@ -1,0 +1,25 @@
+Title: Rental 5973
+
+----
+
+Rental-id: 5973
+
+----
+
+Rental-date: 2005-07-11 00:09:17
+
+----
+
+Return-date: 2005-07-14 19:18:17
+
+----
+
+Inventory: page://OO8CuOSYe65fvhCq
+
+----
+
+Uuid: S2c1TWG2MJJxEXlS
+
+----
+
+Customer: page://V0viosrFvqcsWPKv

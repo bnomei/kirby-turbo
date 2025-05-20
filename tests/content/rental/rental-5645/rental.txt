@@ -1,0 +1,25 @@
+Title: Rental 5645
+
+----
+
+Rental-id: 5645
+
+----
+
+Rental-date: 2005-07-10 06:58:21
+
+----
+
+Return-date: 2005-07-18 04:19:21
+
+----
+
+Inventory: page://Gqkq7lJIcgYmpWQk
+
+----
+
+Uuid: nrl7QtYTWWHwhECE
+
+----
+
+Customer: page://CsIYfAHiugAHCCPA

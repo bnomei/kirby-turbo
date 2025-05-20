@@ -1,0 +1,17 @@
+Title: Inv 800
+
+----
+
+Inventory-id: 800
+
+----
+
+Film: page://VGG6oep9Cae1K7dP
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: IF1aLFvqk33bp4iF

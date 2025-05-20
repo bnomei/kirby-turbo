@@ -1,0 +1,45 @@
+Title: MURDER ANTITRUST
+
+----
+
+Actors:
+
+- 'page://4hDC3FM6lySlQjxW'
+- 'page://9dZ7pytlckFxJvGe'
+- 'page://m4qBDyQ4vBdo5EcB'
+- 'page://rTdvG0vGkNN8iJpQ'
+- 'page://isKOKKisNfJh2ta1'
+- 'page://3XS33oPl7qwaYDh3'
+- 'page://hzpjO6QvzfyB1LBD'
+
+----
+
+Film-id: 608
+
+----
+
+Description: A Brilliant Yarn of a Car And a Database Administrator who must Escape a Boy in A MySQL Convention
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 166
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: Ot6UtgoqLM35goYk
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

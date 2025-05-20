@@ -1,0 +1,17 @@
+Title: Inv 1823
+
+----
+
+Inventory-id: 1823
+
+----
+
+Film: page://ZFhQca1uNlG8itxk
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: gU9VnoHwXY2TG46t

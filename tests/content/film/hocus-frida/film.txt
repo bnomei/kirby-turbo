@@ -1,0 +1,41 @@
+Title: HOCUS FRIDA
+
+----
+
+Actors:
+
+- 'page://RW4ixiF3bbh7oXkH'
+- 'page://FSTBtYrNkVQnDKPa'
+- 'page://DwMOxcgjVYPNg15d'
+
+----
+
+Film-id: 419
+
+----
+
+Description: A Awe-Inspiring Tale of a Girl And a Madman who must Outgun a Student in A Shark Tank
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 141
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: ea2OLEF2MRJ0t832
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

@@ -1,0 +1,25 @@
+Title: Rental 540
+
+----
+
+Rental-id: 540
+
+----
+
+Rental-date: 2005-05-28 06:40:25
+
+----
+
+Return-date: 2005-06-06 00:47:25
+
+----
+
+Inventory: page://39JGyuKW4iPqaCYL
+
+----
+
+Uuid: SZFaYUQG2oRwiv7V
+
+----
+
+Customer: page://9bytxFo8pm9kA4Nc

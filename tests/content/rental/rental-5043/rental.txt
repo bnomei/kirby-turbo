@@ -1,0 +1,25 @@
+Title: Rental 5043
+
+----
+
+Rental-id: 5043
+
+----
+
+Rental-date: 2005-07-09 03:25:18
+
+----
+
+Return-date: 2005-07-13 00:57:18
+
+----
+
+Inventory: page://yQkERvJ0yRhke3Z5
+
+----
+
+Uuid: M2BrmEUSAd21I3VF
+
+----
+
+Customer: page://J9AjFYg5VoQ4Yy04

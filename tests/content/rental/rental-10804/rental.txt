@@ -1,0 +1,25 @@
+Title: Rental 10804
+
+----
+
+Rental-id: 10804
+
+----
+
+Rental-date: 2005-08-01 22:22:11
+
+----
+
+Return-date: 2005-08-03 03:42:11
+
+----
+
+Inventory: page://DH4rOMdOMIHCCrUK
+
+----
+
+Customer: page://cximYF0fTdcPdV2q
+
+----
+
+Uuid: DqglBKFd2UwfOqhR

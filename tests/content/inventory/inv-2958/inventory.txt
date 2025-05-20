@@ -1,0 +1,17 @@
+Title: Inv 2958
+
+----
+
+Inventory-id: 2958
+
+----
+
+Film: page://t8wcbVNGROFbv4t3
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: vhYFDZQVoMosD4OY

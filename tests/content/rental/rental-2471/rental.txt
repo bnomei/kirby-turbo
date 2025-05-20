@@ -1,0 +1,25 @@
+Title: Rental 2471
+
+----
+
+Rental-id: 2471
+
+----
+
+Rental-date: 2005-06-18 20:31:00
+
+----
+
+Return-date: 2005-06-24 18:01:00
+
+----
+
+Inventory: page://bGWmuJNEqHNP2d2Y
+
+----
+
+Uuid: 3ZewjDNCV7pM2eZj
+
+----
+
+Customer: page://DMcOFvIGwUGtGqRT

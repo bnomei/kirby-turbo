@@ -1,0 +1,25 @@
+Title: Rental 633
+
+----
+
+Rental-id: 633
+
+----
+
+Rental-date: 2005-05-28 17:37:59
+
+----
+
+Return-date: 2005-06-03 22:49:59
+
+----
+
+Inventory: page://vt3lRBJhHGb1ZKnP
+
+----
+
+Uuid: fFqGts2L6TSy6eE3
+
+----
+
+Customer: page://7SY2KMPnL0FSeq6W

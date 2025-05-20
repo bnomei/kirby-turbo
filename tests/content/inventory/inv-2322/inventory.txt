@@ -1,0 +1,17 @@
+Title: Inv 2322
+
+----
+
+Inventory-id: 2322
+
+----
+
+Film: page://vnd4rT8AXXoPv80H
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: bhsl7aVp8AotNuBU

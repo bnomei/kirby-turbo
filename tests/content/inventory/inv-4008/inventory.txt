@@ -1,0 +1,17 @@
+Title: Inv 4008
+
+----
+
+Inventory-id: 4008
+
+----
+
+Film: page://cn9AOQAnZeZdaw2T
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: hD75kNWfthyvgMoJ

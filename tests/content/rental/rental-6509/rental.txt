@@ -1,0 +1,25 @@
+Title: Rental 6509
+
+----
+
+Rental-id: 6509
+
+----
+
+Rental-date: 2005-07-12 03:35:01
+
+----
+
+Return-date: 2005-07-13 06:50:01
+
+----
+
+Inventory: page://oPU4S74h7z9VIzU4
+
+----
+
+Uuid: znvoSh2vKAITz1ku
+
+----
+
+Customer: page://H1iYUUjd9JG1DGh7

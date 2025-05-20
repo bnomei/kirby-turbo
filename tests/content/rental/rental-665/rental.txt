@@ -1,0 +1,25 @@
+Title: Rental 665
+
+----
+
+Rental-id: 665
+
+----
+
+Rental-date: 2005-05-28 21:38:39
+
+----
+
+Return-date: 2005-05-29 21:37:39
+
+----
+
+Inventory: page://xwQo2A3B66GTxb8p
+
+----
+
+Uuid: oOVspqOGYT7y20Ld
+
+----
+
+Customer: page://A7gLRZtZiSgkz8K8

@@ -1,0 +1,17 @@
+Title: Inv 3942
+
+----
+
+Inventory-id: 3942
+
+----
+
+Film: page://2rBW20Ia4u0OwFK9
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 3Tt980kqC5ILeGHu

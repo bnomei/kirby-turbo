@@ -1,0 +1,45 @@
+Title: CLASH FREDDY
+
+----
+
+Actors:
+
+- 'page://xbVuFnPKikNsqVkK'
+- 'page://q71V781JfgIPJGVL'
+- 'page://H5yhLtWBsWi35xuK'
+- 'page://gxNf949gkwS5ks3A'
+- 'page://IR4s9CmH1R8G51Ej'
+- 'page://eZEz0vHTFLlEKlUs'
+- 'page://j4GwVyPWyXE95Bdj'
+
+----
+
+Film-id: 154
+
+----
+
+Description: A Amazing Yarn of a Composer And a Squirrel who must Escape a Astronaut in Australia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 81
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: 7iG7iKaB1YUU3AaN
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

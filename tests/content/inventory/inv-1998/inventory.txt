@@ -1,0 +1,17 @@
+Title: Inv 1998
+
+----
+
+Inventory-id: 1998
+
+----
+
+Film: page://kMrmpCl3M7gR9cMD
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: hn4JN3vADdNRi8lI

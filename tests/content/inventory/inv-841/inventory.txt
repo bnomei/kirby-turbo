@@ -1,0 +1,17 @@
+Title: Inv 841
+
+----
+
+Inventory-id: 841
+
+----
+
+Film: page://hTvm7SDwmXNti9YK
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: zsJHGAQImOqFRLMi

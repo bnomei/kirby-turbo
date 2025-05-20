@@ -1,0 +1,17 @@
+Title: Kursk
+
+----
+
+City-id: 286
+
+----
+
+City: Kursk
+
+----
+
+Country: page://NzIpdEh2BMlexUr9
+
+----
+
+Uuid: HCHS06nMG8BlLnrm

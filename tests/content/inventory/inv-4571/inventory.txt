@@ -1,0 +1,17 @@
+Title: Inv 4571
+
+----
+
+Inventory-id: 4571
+
+----
+
+Film: page://xsl9RHv93yeclUCw
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 8Ywk2IHeYGLM34oF

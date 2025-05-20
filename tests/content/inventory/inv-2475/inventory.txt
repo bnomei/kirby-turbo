@@ -1,0 +1,17 @@
+Title: Inv 2475
+
+----
+
+Inventory-id: 2475
+
+----
+
+Film: page://Aim29pukRwUcIrKl
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: HiOFRrzG1PzThBEc

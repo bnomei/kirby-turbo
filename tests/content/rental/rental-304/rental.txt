@@ -1,0 +1,25 @@
+Title: Rental 304
+
+----
+
+Rental-id: 304
+
+----
+
+Rental-date: 2005-05-26 21:21:28
+
+----
+
+Return-date: 2005-06-02 00:05:28
+
+----
+
+Inventory: page://zQpLqqnFhsGkN4sc
+
+----
+
+Uuid: 4TlONTPu0gdS6IuQ
+
+----
+
+Customer: page://5cEtw749lfuLkqIc

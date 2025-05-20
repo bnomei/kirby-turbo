@@ -1,0 +1,17 @@
+Title: Inv 527
+
+----
+
+Inventory-id: 527
+
+----
+
+Film: page://MG4xW581D3Ms4xgN
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: guaVleAy0OUb7k8y

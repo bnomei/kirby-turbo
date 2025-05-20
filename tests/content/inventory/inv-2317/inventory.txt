@@ -1,0 +1,17 @@
+Title: Inv 2317
+
+----
+
+Inventory-id: 2317
+
+----
+
+Film: page://sfkJXJixgW6wCSbl
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Qgyw2Dh4XpDh0o36

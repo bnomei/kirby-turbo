@@ -1,0 +1,17 @@
+Title: Inv 3187
+
+----
+
+Inventory-id: 3187
+
+----
+
+Film: page://pg2oyWrxNdKdgfmX
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 4TL4DAkNWqgXGMi9

@@ -1,0 +1,25 @@
+Title: Rental 8666
+
+----
+
+Rental-id: 8666
+
+----
+
+Rental-date: 2005-07-29 15:39:38
+
+----
+
+Return-date: 2005-08-06 17:12:38
+
+----
+
+Inventory: page://Xvivdy6popzK2aKS
+
+----
+
+Customer: page://dkYED9p0YUgsDhXs
+
+----
+
+Uuid: sUax6zJO8ukPmNJP

@@ -1,0 +1,21 @@
+Title: Rental 12141
+
+----
+
+Rental-id: 12141
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://NedOU0P9v6AGDo8z
+
+----
+
+Customer: page://uLTcc5I1Ow2yuWNp
+
+----
+
+Uuid: oXYDgeMavozQv3Py

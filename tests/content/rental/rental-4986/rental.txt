@@ -1,0 +1,25 @@
+Title: Rental 4986
+
+----
+
+Rental-id: 4986
+
+----
+
+Rental-date: 2005-07-09 00:44:33
+
+----
+
+Return-date: 2005-07-09 19:45:33
+
+----
+
+Inventory: page://0g7rhFnWiyQ88itz
+
+----
+
+Uuid: VGV34fuZUu6ZcUtk
+
+----
+
+Customer: page://781kVzIovJEOwBVl

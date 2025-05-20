@@ -1,0 +1,25 @@
+Title: Rental 15700
+
+----
+
+Rental-id: 15700
+
+----
+
+Rental-date: 2005-08-23 10:21:21
+
+----
+
+Return-date: 2005-08-24 15:37:21
+
+----
+
+Inventory: page://XjImRF7fVCzs3tz2
+
+----
+
+Customer: page://B2GGWZGpzqZm6Gp7
+
+----
+
+Uuid: GMrnMEwivU8tQ732

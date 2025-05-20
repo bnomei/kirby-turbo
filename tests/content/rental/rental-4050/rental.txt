@@ -1,0 +1,25 @@
+Title: Rental 4050
+
+----
+
+Rental-id: 4050
+
+----
+
+Rental-date: 2005-07-07 03:35:33
+
+----
+
+Return-date: 2005-07-15 03:11:33
+
+----
+
+Inventory: page://lAlhwee4v3fm3lkW
+
+----
+
+Uuid: kb43kqx2gsznDwfo
+
+----
+
+Customer: page://JY1mPZSxratt4tn6

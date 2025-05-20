@@ -1,0 +1,25 @@
+Title: Rental 4183
+
+----
+
+Rental-id: 4183
+
+----
+
+Rental-date: 2005-07-07 10:28:33
+
+----
+
+Return-date: 2005-07-15 12:29:33
+
+----
+
+Inventory: page://iNHY3JtmB4fbzgVL
+
+----
+
+Uuid: kChudO3AqQnSQzZv
+
+----
+
+Customer: page://fEgNYhgaLDG3CQLU

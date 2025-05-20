@@ -1,0 +1,33 @@
+Title: ALFREDO MCADAMS
+
+----
+
+Customer-id: 567
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ALFREDO
+
+----
+
+Last-name: MCADAMS
+
+----
+
+Email: ALFREDO.MCADAMS@sakilacustomer.org
+
+----
+
+Address: page://NNQMRWZwT8tJ9Unw
+
+----
+
+Active: 1
+
+----
+
+Uuid: myqxA7OhmdzooYH2

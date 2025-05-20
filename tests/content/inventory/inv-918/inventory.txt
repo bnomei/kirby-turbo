@@ -1,0 +1,17 @@
+Title: Inv 918
+
+----
+
+Inventory-id: 918
+
+----
+
+Film: page://hA8gBsJZ3UKwY7vG
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: jSIzioHZfP89gxRK

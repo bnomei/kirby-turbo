@@ -1,0 +1,17 @@
+Title: Inv 4388
+
+----
+
+Inventory-id: 4388
+
+----
+
+Film: page://E0HFh9eHbYsvXG9C
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 5Bf04L9ds9qGkdX9

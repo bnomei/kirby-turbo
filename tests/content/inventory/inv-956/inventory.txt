@@ -1,0 +1,17 @@
+Title: Inv 956
+
+----
+
+Inventory-id: 956
+
+----
+
+Film: page://smOmCo2RQh857Ata
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: XjQvOm5J6wQiNyi9

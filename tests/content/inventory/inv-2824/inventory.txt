@@ -1,0 +1,17 @@
+Title: Inv 2824
+
+----
+
+Inventory-id: 2824
+
+----
+
+Film: page://mkWoeGh7AKqZpfaB
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: pYBqqGMYaZRt6frC

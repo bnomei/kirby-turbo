@@ -1,0 +1,17 @@
+Title: Inv 1819
+
+----
+
+Inventory-id: 1819
+
+----
+
+Film: page://9xGJfbXF8aoV5B2N
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: x6L2SBpJJXTya7Tx

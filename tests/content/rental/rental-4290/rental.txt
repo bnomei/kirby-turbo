@@ -1,0 +1,25 @@
+Title: Rental 4290
+
+----
+
+Rental-id: 4290
+
+----
+
+Rental-date: 2005-07-07 15:47:10
+
+----
+
+Return-date: 2005-07-15 15:03:10
+
+----
+
+Inventory: page://XDUn6kiET9MFvMVe
+
+----
+
+Uuid: HdLID3E97EiHuTpi
+
+----
+
+Customer: page://zHX2zrjQSr6qaLsM

@@ -1,0 +1,25 @@
+Title: Rental 4946
+
+----
+
+Rental-id: 4946
+
+----
+
+Rental-date: 2005-07-08 22:46:23
+
+----
+
+Return-date: 2005-07-16 17:19:23
+
+----
+
+Inventory: page://ThwkBERfiOv2Pp6D
+
+----
+
+Uuid: TjO1Q60YUHrCfPBT
+
+----
+
+Customer: page://sGF0A1vUMDn16Llg

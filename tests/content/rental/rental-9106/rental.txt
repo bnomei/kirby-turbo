@@ -1,0 +1,25 @@
+Title: Rental 9106
+
+----
+
+Rental-id: 9106
+
+----
+
+Rental-date: 2005-07-30 08:52:34
+
+----
+
+Return-date: 2005-08-02 07:38:34
+
+----
+
+Inventory: page://XjImRF7fVCzs3tz2
+
+----
+
+Customer: page://bp3076yXkpG6TsZ7
+
+----
+
+Uuid: NqY6UQEjf0O9VYON

@@ -1,0 +1,17 @@
+Title: Inv 1930
+
+----
+
+Inventory-id: 1930
+
+----
+
+Film: page://843vIja6ZhhXNEBy
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: D9lk6qYvNczSG9YH

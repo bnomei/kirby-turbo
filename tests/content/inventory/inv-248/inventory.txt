@@ -1,0 +1,17 @@
+Title: Inv 248
+
+----
+
+Inventory-id: 248
+
+----
+
+Film: page://sMBADBLgBLbvJNSb
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ApyF7PAzwSgHtQl8

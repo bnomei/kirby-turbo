@@ -1,0 +1,25 @@
+Title: Rental 7690
+
+----
+
+Rental-id: 7690
+
+----
+
+Rental-date: 2005-07-28 03:26:21
+
+----
+
+Return-date: 2005-07-29 00:08:21
+
+----
+
+Inventory: page://b4UNxA8Tmda4qzDz
+
+----
+
+Customer: page://qnkS0qeAEHNLa6TI
+
+----
+
+Uuid: 1AWjIxcK3pO1LXKJ

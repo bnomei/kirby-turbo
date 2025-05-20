@@ -1,0 +1,33 @@
+Title: KIRK STCLAIR
+
+----
+
+Customer-id: 586
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: KIRK
+
+----
+
+Last-name: STCLAIR
+
+----
+
+Email: KIRK.STCLAIR@sakilacustomer.org
+
+----
+
+Address: page://MDP6lUCBYNv0B71v
+
+----
+
+Active: 1
+
+----
+
+Uuid: BepniifsBA7v57Xe

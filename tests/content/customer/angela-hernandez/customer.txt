@@ -1,0 +1,33 @@
+Title: ANGELA HERNANDEZ
+
+----
+
+Customer-id: 29
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ANGELA
+
+----
+
+Last-name: HERNANDEZ
+
+----
+
+Email: ANGELA.HERNANDEZ@sakilacustomer.org
+
+----
+
+Address: page://GpTgJVDvml9dARcL
+
+----
+
+Active: 1
+
+----
+
+Uuid: c7lkRFQFPsFgIejg

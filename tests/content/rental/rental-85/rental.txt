@@ -1,0 +1,25 @@
+Title: Rental 85
+
+----
+
+Rental-id: 85
+
+----
+
+Rental-date: 2005-05-25 13:05:34
+
+----
+
+Return-date: 2005-05-29 16:53:34
+
+----
+
+Inventory: page://Z9PWOTWlFFegrzYC
+
+----
+
+Uuid: mI5C0w9Kxk9NgmoW
+
+----
+
+Customer: page://0ErgJ6kLkZUKKYCI

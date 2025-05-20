@@ -1,0 +1,25 @@
+Title: Rental 3339
+
+----
+
+Rental-id: 3339
+
+----
+
+Rental-date: 2005-06-21 10:37:11
+
+----
+
+Return-date: 2005-06-30 05:04:11
+
+----
+
+Inventory: page://xrrEYEcAhOVyP0o8
+
+----
+
+Uuid: wnbOuIW2VMnGpxSZ
+
+----
+
+Customer: page://yQcQ1eHjHG2TC2t0

@@ -1,0 +1,25 @@
+Title: Rental 14843
+
+----
+
+Rental-id: 14843
+
+----
+
+Rental-date: 2005-08-22 02:05:25
+
+----
+
+Return-date: 2005-08-28 22:11:25
+
+----
+
+Inventory: page://aV8XZiUeK6GGOZZl
+
+----
+
+Customer: page://2QCpyeeQilmvnk6g
+
+----
+
+Uuid: Igf0IB0vSuD2nxEL

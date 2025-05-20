@@ -1,0 +1,25 @@
+Title: Rental 1923
+
+----
+
+Rental-id: 1923
+
+----
+
+Rental-date: 2005-06-17 06:06:10
+
+----
+
+Return-date: 2005-06-24 04:29:10
+
+----
+
+Inventory: page://FtkQ7jQePXQwP9VT
+
+----
+
+Uuid: 2D3xZjx8AqQM22H8
+
+----
+
+Customer: page://NE2vG7J7KOOmGrbQ

@@ -1,0 +1,17 @@
+Title: Inv 1190
+
+----
+
+Inventory-id: 1190
+
+----
+
+Film: page://mi7mSNR85rwSJUbX
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: bX5LQaumy5x8PwWJ

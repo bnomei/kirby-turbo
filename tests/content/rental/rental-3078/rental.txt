@@ -1,0 +1,25 @@
+Title: Rental 3078
+
+----
+
+Rental-id: 3078
+
+----
+
+Rental-date: 2005-06-20 15:09:48
+
+----
+
+Return-date: 2005-06-24 16:54:48
+
+----
+
+Inventory: page://mrKd64UgYS6TbE6X
+
+----
+
+Uuid: o7w8m3cyQHOcEgLS
+
+----
+
+Customer: page://1Uz8TMpklCxhdMmv

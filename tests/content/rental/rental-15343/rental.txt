@@ -1,0 +1,25 @@
+Title: Rental 15343
+
+----
+
+Rental-id: 15343
+
+----
+
+Rental-date: 2005-08-22 21:01:25
+
+----
+
+Return-date: 2005-08-28 16:15:25
+
+----
+
+Inventory: page://CfnBFoNEA3U095IG
+
+----
+
+Customer: page://gyF67nPwxWbRqkYZ
+
+----
+
+Uuid: ncyhyz5ww7p5WszN

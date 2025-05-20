@@ -1,0 +1,25 @@
+Title: Rental 3900
+
+----
+
+Rental-id: 3900
+
+----
+
+Rental-date: 2005-07-06 19:21:28
+
+----
+
+Return-date: 2005-07-15 21:06:28
+
+----
+
+Inventory: page://GBBMnQMTX3px0xQd
+
+----
+
+Uuid: OYMaGU7HiyOamQfK
+
+----
+
+Customer: page://JdfsXlrnw5D9Ezlr

@@ -1,0 +1,25 @@
+Title: Rental 3752
+
+----
+
+Rental-id: 3752
+
+----
+
+Rental-date: 2005-07-06 12:30:12
+
+----
+
+Return-date: 2005-07-13 12:13:12
+
+----
+
+Inventory: page://JsOXXytPQxzFHnaY
+
+----
+
+Uuid: lpUUOaQV2YeDFQHb
+
+----
+
+Customer: page://U0fmtb7mDA7lmArJ

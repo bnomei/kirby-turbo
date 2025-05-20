@@ -1,0 +1,17 @@
+Title: Inv 1544
+
+----
+
+Inventory-id: 1544
+
+----
+
+Film: page://B0Ss8TCY0mWwHbp8
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: eI8eIQzHSlrX1k9o

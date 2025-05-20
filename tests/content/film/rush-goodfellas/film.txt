@@ -1,0 +1,43 @@
+Title: RUSH GOODFELLAS
+
+----
+
+Actors:
+
+- 'page://4hDC3FM6lySlQjxW'
+- 'page://I7tdxqtamjxgIUCW'
+- 'page://75IrF5RezCSzGKrx'
+- 'page://k43wur9uhLztfZOP'
+- 'page://j4GwVyPWyXE95Bdj'
+
+----
+
+Film-id: 753
+
+----
+
+Description: A Emotional Display of a Man And a Dentist who must Challenge a Squirrel in Australia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 48
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: qWX4AUrS1elOCyrn
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

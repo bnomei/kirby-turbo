@@ -1,0 +1,25 @@
+Title: Rental 14266
+
+----
+
+Rental-id: 14266
+
+----
+
+Rental-date: 2005-08-21 06:20:51
+
+----
+
+Return-date: 2005-08-23 00:44:51
+
+----
+
+Inventory: page://lehSOyEiBkeImnOK
+
+----
+
+Customer: page://Cko87GK3ShDjUK4Q
+
+----
+
+Uuid: 4msxX3qogDeMkC7E

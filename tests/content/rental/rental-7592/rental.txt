@@ -1,0 +1,25 @@
+Title: Rental 7592
+
+----
+
+Rental-id: 7592
+
+----
+
+Rental-date: 2005-07-27 23:26:04
+
+----
+
+Return-date: 2005-07-29 23:48:04
+
+----
+
+Inventory: page://pqInFpQRqZNzloB1
+
+----
+
+Customer: page://W2vSpda0fGwDYgAa
+
+----
+
+Uuid: cnBIcU984pupOadb

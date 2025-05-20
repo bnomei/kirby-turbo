@@ -1,0 +1,41 @@
+Title: GOSFORD DONNIE
+
+----
+
+Actors:
+
+- 'page://Ppjj85F3dapvXsi8'
+- 'page://3XS33oPl7qwaYDh3'
+- 'page://HBk8OpEyVf68VCvH'
+
+----
+
+Film-id: 371
+
+----
+
+Description: A Epic Panorama of a Mad Scientist And a Monkey who must Redeem a Secret Agent in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 129
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries
+
+----
+
+Uuid: kFqayhEGFkFDzx5M
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

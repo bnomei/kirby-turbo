@@ -1,0 +1,25 @@
+Title: Rental 15142
+
+----
+
+Rental-id: 15142
+
+----
+
+Rental-date: 2005-08-22 13:44:32
+
+----
+
+Return-date: 2005-08-29 14:19:32
+
+----
+
+Inventory: page://Gsfomb4ZmBMwVd4J
+
+----
+
+Customer: page://UaSNpTp6KioYmoei
+
+----
+
+Uuid: PqgEjMqEkCn97Xlx

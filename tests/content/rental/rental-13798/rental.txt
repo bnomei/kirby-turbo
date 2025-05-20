@@ -1,0 +1,21 @@
+Title: Rental 13798
+
+----
+
+Rental-id: 13798
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://QjpPiyNC4anVutkQ
+
+----
+
+Customer: page://Np9oOnG3vThj8OAU
+
+----
+
+Uuid: AL3hL5t0cJZkr4GQ

@@ -1,0 +1,25 @@
+Title: Rental 2637
+
+----
+
+Rental-id: 2637
+
+----
+
+Rental-date: 2005-06-19 09:20:56
+
+----
+
+Return-date: 2005-06-27 10:09:56
+
+----
+
+Inventory: page://FOAz27bmxQgqj5bW
+
+----
+
+Uuid: eVl94AmVprE0egLd
+
+----
+
+Customer: page://wFOjfrR0gpP7jV9B

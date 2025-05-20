@@ -1,0 +1,21 @@
+Title: Rental 11942
+
+----
+
+Rental-id: 11942
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://SpKD91f8YZ6Jxx8L
+
+----
+
+Customer: page://XIaKK8hOYK8JJ3Lj
+
+----
+
+Uuid: ugHRQKV0MttPqmwf

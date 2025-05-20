@@ -1,0 +1,17 @@
+Title: Inv 1761
+
+----
+
+Inventory-id: 1761
+
+----
+
+Film: page://0MfWh6FVARMvO6ca
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: GrACzsKpk5uHjX7l

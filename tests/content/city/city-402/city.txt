@@ -1,0 +1,17 @@
+Title: Pavlodar
+
+----
+
+City-id: 402
+
+----
+
+City: Pavlodar
+
+----
+
+Country: page://1zMqdolsNtvXGRr9
+
+----
+
+Uuid: vUNZgI7R3LkyH8Iw

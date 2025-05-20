@@ -1,0 +1,17 @@
+Title: Inv 3337
+
+----
+
+Inventory-id: 3337
+
+----
+
+Film: page://zEMMiN7dAzWhBlxB
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: eOBKRYL9fpfUBaQO

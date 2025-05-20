@@ -1,0 +1,25 @@
+Title: Rental 7520
+
+----
+
+Rental-id: 7520
+
+----
+
+Rental-date: 2005-07-27 21:02:02
+
+----
+
+Return-date: 2005-07-28 18:18:02
+
+----
+
+Inventory: page://gcefKwUKYx46e0EA
+
+----
+
+Customer: page://bHbo1PFIkaygpNBz
+
+----
+
+Uuid: wSjWuDKHnEi5UqE0

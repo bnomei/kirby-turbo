@@ -1,0 +1,17 @@
+Title: Inv 1078
+
+----
+
+Inventory-id: 1078
+
+----
+
+Film: page://yBE2T3llHrX4lt3E
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: QdlF9s3UqeAChDz4

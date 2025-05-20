@@ -1,0 +1,25 @@
+Title: Rental 5238
+
+----
+
+Rental-id: 5238
+
+----
+
+Rental-date: 2005-07-09 13:11:14
+
+----
+
+Return-date: 2005-07-10 07:27:14
+
+----
+
+Inventory: page://tC87WKb8RcmisO8I
+
+----
+
+Uuid: GG22Zip3nsyGYTIw
+
+----
+
+Customer: page://QeuxX9yTBxjOmAeR

@@ -1,0 +1,17 @@
+Title: Ashgabat
+
+----
+
+City-id: 35
+
+----
+
+City: Ashgabat
+
+----
+
+Country: page://3WWpIJ1r09ima8fY
+
+----
+
+Uuid: MNTTq1V01GnnVH1u

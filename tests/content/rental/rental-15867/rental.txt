@@ -1,0 +1,21 @@
+Title: Rental 15867
+
+----
+
+Rental-id: 15867
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://uWsHTl9dKBcNQBpq
+
+----
+
+Customer: page://kIByXaqyonxT2CUq
+
+----
+
+Uuid: 5MnzZiHP5Aukg5Lz

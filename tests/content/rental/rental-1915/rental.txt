@@ -1,0 +1,25 @@
+Title: Rental 1915
+
+----
+
+Rental-id: 1915
+
+----
+
+Rental-date: 2005-06-17 05:28:28
+
+----
+
+Return-date: 2005-06-21 07:12:28
+
+----
+
+Inventory: page://Wt8Nl23myAvCmukk
+
+----
+
+Uuid: 5BYGaYT5ICL5oIdQ
+
+----
+
+Customer: page://yO6kHtaF5LxeJoOU

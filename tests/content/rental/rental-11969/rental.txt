@@ -1,0 +1,25 @@
+Title: Rental 11969
+
+----
+
+Rental-id: 11969
+
+----
+
+Rental-date: 2005-08-17 17:49:37
+
+----
+
+Return-date: 2005-08-19 19:45:37
+
+----
+
+Inventory: page://1Zjh5aWDEwOUGWo3
+
+----
+
+Customer: page://x8Y8aJxOEpTBihF2
+
+----
+
+Uuid: lqtnlZUxEKW6bmn8

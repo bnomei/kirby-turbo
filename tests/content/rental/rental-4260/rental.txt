@@ -1,0 +1,25 @@
+Title: Rental 4260
+
+----
+
+Rental-id: 4260
+
+----
+
+Rental-date: 2005-07-07 14:22:45
+
+----
+
+Return-date: 2005-07-08 15:10:45
+
+----
+
+Inventory: page://rMRkmACPSfJ3nyaI
+
+----
+
+Uuid: xLaHqZgB6OF6EOle
+
+----
+
+Customer: page://7iGZLGyiqgYlIYqZ

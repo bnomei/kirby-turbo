@@ -1,0 +1,25 @@
+Title: Rental 16041
+
+----
+
+Rental-id: 16041
+
+----
+
+Rental-date: 2005-08-23 22:20:26
+
+----
+
+Return-date: 2005-08-25 20:14:26
+
+----
+
+Inventory: page://oVRRMXSqmyN0S14P
+
+----
+
+Customer: page://okaJqGigURtGJrFE
+
+----
+
+Uuid: GIK7AdgCt9aVLn7F

@@ -1,0 +1,17 @@
+Title: Inv 2970
+
+----
+
+Inventory-id: 2970
+
+----
+
+Film: page://hrSkNvW22T3x3Hg1
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: qIFobm2O3jZXdPBU

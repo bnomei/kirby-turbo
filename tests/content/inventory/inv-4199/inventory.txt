@@ -1,0 +1,17 @@
+Title: Inv 4199
+
+----
+
+Inventory-id: 4199
+
+----
+
+Film: page://xfZxnJ2rP9EOtzuD
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: AfeOqhpLvk3bFnEU

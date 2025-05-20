@@ -1,0 +1,25 @@
+Title: Rental 4268
+
+----
+
+Rental-id: 4268
+
+----
+
+Rental-date: 2005-07-07 14:36:05
+
+----
+
+Return-date: 2005-07-16 14:36:05
+
+----
+
+Inventory: page://j0FC2R3xjGjmB08f
+
+----
+
+Uuid: vvA6UBqO7ELu0FsA
+
+----
+
+Customer: page://Kfg59yZzb8JuYq1o

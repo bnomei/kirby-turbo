@@ -1,0 +1,17 @@
+Title: Inv 1697
+
+----
+
+Inventory-id: 1697
+
+----
+
+Film: page://BFGasPoqtLyEFozz
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: GVro3rFkjthpPssu

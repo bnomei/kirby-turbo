@@ -1,0 +1,33 @@
+Title: JEANETTE GREENE
+
+----
+
+Customer-id: 191
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JEANETTE
+
+----
+
+Last-name: GREENE
+
+----
+
+Email: JEANETTE.GREENE@sakilacustomer.org
+
+----
+
+Address: page://tzJOVNo63a8QgPoD
+
+----
+
+Active: 1
+
+----
+
+Uuid: bHbo1PFIkaygpNBz

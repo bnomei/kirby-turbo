@@ -1,0 +1,25 @@
+Title: Rental 8054
+
+----
+
+Rental-id: 8054
+
+----
+
+Rental-date: 2005-07-28 17:02:18
+
+----
+
+Return-date: 2005-08-06 11:55:18
+
+----
+
+Inventory: page://ZzJBG3qi0UXS1NmH
+
+----
+
+Customer: page://hiI1XI5RUVwa5yqD
+
+----
+
+Uuid: rISK5LxbVcR0qBwa

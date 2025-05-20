@@ -1,0 +1,43 @@
+Title: FREEDOM CLEOPATRA
+
+----
+
+Actors:
+
+- 'page://huljhPJQohi6UE64'
+- 'page://AvkKtwk9lLurZvzW'
+- 'page://Kx231VrTuxlFk3Xg'
+- 'page://Bfp6QX9U0O1ZLM64'
+- 'page://m4qBDyQ4vBdo5EcB'
+
+----
+
+Film-id: 335
+
+----
+
+Description: A Emotional Reflection of a Dentist And a Mad Cow who must Face a Squirrel in A Baloon
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 133
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: GPwdH1BDzXr5tVNT
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

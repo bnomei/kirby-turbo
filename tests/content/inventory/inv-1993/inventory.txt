@@ -1,0 +1,17 @@
+Title: Inv 1993
+
+----
+
+Inventory-id: 1993
+
+----
+
+Film: page://lSHzFr9XueOGDlZL
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 4YEIqwiEpZMAvdS3

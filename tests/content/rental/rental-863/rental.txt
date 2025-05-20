@@ -1,0 +1,25 @@
+Title: Rental 863
+
+----
+
+Rental-id: 863
+
+----
+
+Rental-date: 2005-05-30 03:14:59
+
+----
+
+Return-date: 2005-06-05 04:34:59
+
+----
+
+Inventory: page://fCRA6CywI34q2dGc
+
+----
+
+Uuid: 0yJtMzOeSM0CyUdo
+
+----
+
+Customer: page://siVW5dXKEILolbt4

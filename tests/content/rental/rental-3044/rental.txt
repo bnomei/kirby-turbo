@@ -1,0 +1,25 @@
+Title: Rental 3044
+
+----
+
+Rental-id: 3044
+
+----
+
+Rental-date: 2005-06-20 12:38:49
+
+----
+
+Return-date: 2005-06-25 07:49:49
+
+----
+
+Inventory: page://403BmxhLAtJkxojy
+
+----
+
+Uuid: orEvtZqYnt3GrUMi
+
+----
+
+Customer: page://sVIdcOA4yjcw5Z24

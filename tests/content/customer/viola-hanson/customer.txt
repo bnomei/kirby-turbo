@@ -1,0 +1,33 @@
+Title: VIOLA HANSON
+
+----
+
+Customer-id: 244
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: VIOLA
+
+----
+
+Last-name: HANSON
+
+----
+
+Email: VIOLA.HANSON@sakilacustomer.org
+
+----
+
+Address: page://EMOFG4IiAaDKmgOq
+
+----
+
+Active: 1
+
+----
+
+Uuid: gN3okMpZBEAmxrWM

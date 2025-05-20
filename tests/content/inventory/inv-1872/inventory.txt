@@ -1,0 +1,17 @@
+Title: Inv 1872
+
+----
+
+Inventory-id: 1872
+
+----
+
+Film: page://x0gO7YRtpNfgYnvF
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: MAtjdg2KZqzPq1G3

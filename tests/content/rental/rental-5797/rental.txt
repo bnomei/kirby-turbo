@@ -1,0 +1,25 @@
+Title: Rental 5797
+
+----
+
+Rental-id: 5797
+
+----
+
+Rental-date: 2005-07-10 14:43:52
+
+----
+
+Return-date: 2005-07-13 16:12:52
+
+----
+
+Inventory: page://e4kDDV9MVFWp3nmF
+
+----
+
+Uuid: 4Nto1KUownFgGjOK
+
+----
+
+Customer: page://0DViNB8AjR6M3Kvz

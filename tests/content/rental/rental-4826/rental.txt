@@ -1,0 +1,25 @@
+Title: Rental 4826
+
+----
+
+Rental-id: 4826
+
+----
+
+Rental-date: 2005-07-08 17:44:25
+
+----
+
+Return-date: 2005-07-16 20:14:25
+
+----
+
+Inventory: page://eLmkuOFSfI77I02u
+
+----
+
+Uuid: oGPMfF248RpoVItX
+
+----
+
+Customer: page://SJshmeMOxYgLWdbx

@@ -1,0 +1,33 @@
+Title: GLENN PULLEN
+
+----
+
+Customer-id: 415
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: GLENN
+
+----
+
+Last-name: PULLEN
+
+----
+
+Email: GLENN.PULLEN@sakilacustomer.org
+
+----
+
+Address: page://6zYlqrH5n8nGSZMR
+
+----
+
+Active: 1
+
+----
+
+Uuid: A7gLRZtZiSgkz8K8

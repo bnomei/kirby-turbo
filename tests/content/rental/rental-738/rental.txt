@@ -1,0 +1,25 @@
+Title: Rental 738
+
+----
+
+Rental-id: 738
+
+----
+
+Rental-date: 2005-05-29 08:20:08
+
+----
+
+Return-date: 2005-06-06 08:59:08
+
+----
+
+Inventory: page://SE12UkNXi8kzfCY0
+
+----
+
+Uuid: e5do86IqQTL4Cfid
+
+----
+
+Customer: page://Nq991akaEgNmdCHy

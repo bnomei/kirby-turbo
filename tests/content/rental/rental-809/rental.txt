@@ -1,0 +1,25 @@
+Title: Rental 809
+
+----
+
+Rental-id: 809
+
+----
+
+Rental-date: 2005-05-29 19:10:20
+
+----
+
+Return-date: 2005-06-05 19:05:20
+
+----
+
+Inventory: page://8meA2NtqF1FCCeBT
+
+----
+
+Uuid: IYeNCcTNnAbOuV8u
+
+----
+
+Customer: page://Y16ImlJTc5Q7Tqiw

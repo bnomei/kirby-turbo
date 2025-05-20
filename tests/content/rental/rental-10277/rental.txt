@@ -1,0 +1,25 @@
+Title: Rental 10277
+
+----
+
+Rental-id: 10277
+
+----
+
+Rental-date: 2005-08-01 03:22:41
+
+----
+
+Return-date: 2005-08-05 05:07:41
+
+----
+
+Inventory: page://KciLxLKQStyLbCLs
+
+----
+
+Customer: page://8I9W8oDFPxssbhIJ
+
+----
+
+Uuid: 3GoJcVsDPBlNsXkt

@@ -1,0 +1,25 @@
+Title: Rental 1231
+
+----
+
+Rental-id: 1231
+
+----
+
+Rental-date: 2005-06-15 04:04:41
+
+----
+
+Return-date: 2005-06-20 23:52:41
+
+----
+
+Inventory: page://5nTOYz6LeZHcdi0O
+
+----
+
+Uuid: xhOXEouS5N0NuaZd
+
+----
+
+Customer: page://EN43JZfYCm84hq5t

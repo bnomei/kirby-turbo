@@ -1,0 +1,17 @@
+Title: Inv 3983
+
+----
+
+Inventory-id: 3983
+
+----
+
+Film: page://jW80a4n13RGdsS4C
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: azvkvW2sGPqJ4wx2

@@ -1,0 +1,25 @@
+Title: Rental 8294
+
+----
+
+Rental-id: 8294
+
+----
+
+Rental-date: 2005-07-29 02:32:41
+
+----
+
+Return-date: 2005-08-02 06:28:41
+
+----
+
+Inventory: page://UFDeBEXLEddvzNpr
+
+----
+
+Customer: page://JT1tmXlVRPRvOsLK
+
+----
+
+Uuid: jtd6g6MdUJwUKCXv

@@ -1,0 +1,25 @@
+Title: Rental 10997
+
+----
+
+Rental-id: 10997
+
+----
+
+Rental-date: 2005-08-02 04:49:02
+
+----
+
+Return-date: 2005-08-10 08:13:02
+
+----
+
+Inventory: page://7jDkNm53bV1FzTiO
+
+----
+
+Customer: page://1lV61pgXzMTI9zGL
+
+----
+
+Uuid: sMbfeDDgc8YaqC7R

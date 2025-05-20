@@ -1,0 +1,33 @@
+Title: PHILIP CAUSEY
+
+----
+
+Customer-id: 393
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: PHILIP
+
+----
+
+Last-name: CAUSEY
+
+----
+
+Email: PHILIP.CAUSEY@sakilacustomer.org
+
+----
+
+Address: page://w6whnw5PUQo2OnPa
+
+----
+
+Active: 1
+
+----
+
+Uuid: yO6kHtaF5LxeJoOU

@@ -1,0 +1,17 @@
+Title: Inv 3575
+
+----
+
+Inventory-id: 3575
+
+----
+
+Film: page://6SZrpAues6NbdpfF
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: o35O6h8DTV45bRC5

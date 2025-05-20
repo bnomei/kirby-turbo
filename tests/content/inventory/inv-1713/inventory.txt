@@ -1,0 +1,17 @@
+Title: Inv 1713
+
+----
+
+Inventory-id: 1713
+
+----
+
+Film: page://hzLknIz6iEXqG2Qw
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 8lDlbrh4RlEbBhgh

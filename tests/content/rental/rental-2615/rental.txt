@@ -1,0 +1,25 @@
+Title: Rental 2615
+
+----
+
+Rental-id: 2615
+
+----
+
+Rental-date: 2005-06-19 07:29:13
+
+----
+
+Return-date: 2005-06-27 12:50:13
+
+----
+
+Inventory: page://wUqqxdVj6CLhIJvn
+
+----
+
+Uuid: LKOsZL2HvsJ9p6de
+
+----
+
+Customer: page://cVyeNQ8g1rAU35Mi

@@ -1,0 +1,17 @@
+Title: Inv 564
+
+----
+
+Inventory-id: 564
+
+----
+
+Film: page://QhHzuZm4hAClGL03
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: pAP5BtqoxyaufA6u

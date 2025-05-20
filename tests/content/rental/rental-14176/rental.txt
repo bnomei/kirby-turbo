@@ -1,0 +1,25 @@
+Title: Rental 14176
+
+----
+
+Rental-id: 14176
+
+----
+
+Rental-date: 2005-08-21 03:09:23
+
+----
+
+Return-date: 2005-08-26 21:26:23
+
+----
+
+Inventory: page://nSOYBn3S028XPzsi
+
+----
+
+Customer: page://jvfTUTQTIh7rD2Pp
+
+----
+
+Uuid: eR6scWLmoBszCH8h

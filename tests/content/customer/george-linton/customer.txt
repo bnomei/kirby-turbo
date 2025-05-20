@@ -1,0 +1,33 @@
+Title: GEORGE LINTON
+
+----
+
+Customer-id: 314
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: GEORGE
+
+----
+
+Last-name: LINTON
+
+----
+
+Email: GEORGE.LINTON@sakilacustomer.org
+
+----
+
+Address: page://jfO0xINGJRZqm4Hp
+
+----
+
+Active: 1
+
+----
+
+Uuid: Ouab56J6iNBuj7fa

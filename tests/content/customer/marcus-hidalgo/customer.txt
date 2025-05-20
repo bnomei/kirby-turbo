@@ -1,0 +1,33 @@
+Title: MARCUS HIDALGO
+
+----
+
+Customer-id: 444
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: MARCUS
+
+----
+
+Last-name: HIDALGO
+
+----
+
+Email: MARCUS.HIDALGO@sakilacustomer.org
+
+----
+
+Address: page://9rwvKaF8ZFuON7Ob
+
+----
+
+Active: 1
+
+----
+
+Uuid: P5692hWxDSp2ZLGu

@@ -1,0 +1,17 @@
+Title: Inv 2282
+
+----
+
+Inventory-id: 2282
+
+----
+
+Film: page://PEK8sWT3kE8dfwN1
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: FtN4O7Ppl8DyQVY4

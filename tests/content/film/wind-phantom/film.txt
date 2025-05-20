@@ -1,0 +1,41 @@
+Title: WIND PHANTOM
+
+----
+
+Actors:
+
+- 'page://CsoOTyxORoAs7uZy'
+- 'page://NRH2DcjJcFwzgjEd'
+- 'page://EMAJfjeYpdsSEXq5'
+
+----
+
+Film-id: 976
+
+----
+
+Description: A Touching Saga of a Madman And a Forensic Psychologist who must Build a Sumo Wrestler in An Abandoned Mine Shaft
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 111
+
+----
+
+Rating: R
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: 4bwmGhHKtd10cAHx
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

@@ -1,0 +1,25 @@
+Title: Rental 14003
+
+----
+
+Rental-id: 14003
+
+----
+
+Rental-date: 2005-08-20 20:16:06
+
+----
+
+Return-date: 2005-08-28 14:36:06
+
+----
+
+Inventory: page://l8mNTr1wTVSfjKxB
+
+----
+
+Customer: page://Nq991akaEgNmdCHy
+
+----
+
+Uuid: AcTCnzQ6TvPLHCXg

@@ -1,0 +1,25 @@
+Title: Rental 3699
+
+----
+
+Rental-id: 3699
+
+----
+
+Rental-date: 2005-07-06 10:11:25
+
+----
+
+Return-date: 2005-07-14 05:18:25
+
+----
+
+Inventory: page://JT9lr0tGIfEppPLy
+
+----
+
+Uuid: LLnf1Qx19TSIcxTJ
+
+----
+
+Customer: page://eLvYHcB0z8NgTgF8

@@ -1,0 +1,17 @@
+Title: Inv 37
+
+----
+
+Inventory-id: 37
+
+----
+
+Film: page://8CThZqVAR1yZ373z
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: wpakCimkx2uTHfOG

@@ -1,0 +1,25 @@
+Title: Rental 8133
+
+----
+
+Rental-id: 8133
+
+----
+
+Rental-date: 2005-07-28 20:01:06
+
+----
+
+Return-date: 2005-08-01 20:01:06
+
+----
+
+Inventory: page://8eZR0iv8Dh36Z9OD
+
+----
+
+Customer: page://NRYxn443K39MMQN1
+
+----
+
+Uuid: orXSHD9p9U9eJ2rR

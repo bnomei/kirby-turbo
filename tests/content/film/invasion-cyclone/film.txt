@@ -1,0 +1,45 @@
+Title: INVASION CYCLONE
+
+----
+
+Actors:
+
+- 'page://Xu2nMG4ojUoJI7CN'
+- 'page://6LG8mbCuu1aKuRcl'
+- 'page://QXMalcumIlXeK8Z2'
+- 'page://FSTBtYrNkVQnDKPa'
+- 'page://pjeR3SovMBBZGi9m'
+- 'page://uyiPyWfxhKFdwYKL'
+- 'page://NRH2DcjJcFwzgjEd'
+
+----
+
+Film-id: 468
+
+----
+
+Description: A Lacklusture Character Study of a Mad Scientist And a Womanizer who must Outrace a Explorer in A Monastery
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 97
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: mEVtoHPdwzg7XWhq
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

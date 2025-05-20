@@ -1,0 +1,25 @@
+Title: Rental 1907
+
+----
+
+Rental-id: 1907
+
+----
+
+Rental-date: 2005-06-17 05:08:27
+
+----
+
+Return-date: 2005-06-23 09:13:27
+
+----
+
+Inventory: page://jKfYWZYfo830W38l
+
+----
+
+Uuid: lvvRyTU4LHJGOQNi
+
+----
+
+Customer: page://rtPPzvWhh7zAFt5a

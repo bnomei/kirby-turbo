@@ -1,0 +1,17 @@
+Title: Inv 1786
+
+----
+
+Inventory-id: 1786
+
+----
+
+Film: page://VXTF2B4oApgM5diU
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ZFalzkCpqRhiKl2b

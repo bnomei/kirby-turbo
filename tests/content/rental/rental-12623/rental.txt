@@ -1,0 +1,25 @@
+Title: Rental 12623
+
+----
+
+Rental-id: 12623
+
+----
+
+Rental-date: 2005-08-18 17:34:19
+
+----
+
+Return-date: 2005-08-20 21:30:19
+
+----
+
+Inventory: page://RiMRNkNTqKIUiwAx
+
+----
+
+Customer: page://2QRxABR23Jfbr6gF
+
+----
+
+Uuid: JuU4QmeUCktL9tiX

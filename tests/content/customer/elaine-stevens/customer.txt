@@ -1,0 +1,33 @@
+Title: ELAINE STEVENS
+
+----
+
+Customer-id: 127
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ELAINE
+
+----
+
+Last-name: STEVENS
+
+----
+
+Email: ELAINE.STEVENS@sakilacustomer.org
+
+----
+
+Address: page://9FnkRxHLGfU1waEr
+
+----
+
+Active: 1
+
+----
+
+Uuid: JwCLM6Oie6KS9Hma

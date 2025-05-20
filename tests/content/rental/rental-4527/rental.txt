@@ -1,0 +1,25 @@
+Title: Rental 4527
+
+----
+
+Rental-id: 4527
+
+----
+
+Rental-date: 2005-07-08 03:20:10
+
+----
+
+Return-date: 2005-07-15 02:21:10
+
+----
+
+Inventory: page://nGAvx2WEtRaDwEgm
+
+----
+
+Uuid: kFbCcGFmOMm9dJnp
+
+----
+
+Customer: page://tS8tZAomHzcsij8a

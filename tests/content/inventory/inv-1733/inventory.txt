@@ -1,0 +1,17 @@
+Title: Inv 1733
+
+----
+
+Inventory-id: 1733
+
+----
+
+Film: page://A286H6tUxQ3OzhwJ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: OD8eHYyKvDFiNhGn

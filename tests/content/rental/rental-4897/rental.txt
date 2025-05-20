@@ -1,0 +1,25 @@
+Title: Rental 4897
+
+----
+
+Rental-id: 4897
+
+----
+
+Rental-date: 2005-07-08 20:25:11
+
+----
+
+Return-date: 2005-07-09 17:16:11
+
+----
+
+Inventory: page://72vQY4anpqLCf2UA
+
+----
+
+Uuid: t3AlUzy9wvswMbj9
+
+----
+
+Customer: page://zIZEZREf483r6GLp

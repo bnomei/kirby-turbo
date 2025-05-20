@@ -1,0 +1,25 @@
+Title: Rental 10098
+
+----
+
+Rental-id: 10098
+
+----
+
+Rental-date: 2005-07-31 20:41:17
+
+----
+
+Return-date: 2005-08-02 00:06:17
+
+----
+
+Inventory: page://DyIgkU70kogTjJlh
+
+----
+
+Customer: page://NYz6xFh3YMDJXr29
+
+----
+
+Uuid: SKYFFjahW6ldQKvu

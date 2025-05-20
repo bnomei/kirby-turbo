@@ -1,0 +1,17 @@
+Title: Inv 2004
+
+----
+
+Inventory-id: 2004
+
+----
+
+Film: page://E7QUwUT5dMIom8aL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: odBSyFSwM9fIGgZs

@@ -1,0 +1,25 @@
+Title: Rental 10436
+
+----
+
+Rental-id: 10436
+
+----
+
+Rental-date: 2005-08-01 08:50:59
+
+----
+
+Return-date: 2005-08-04 05:23:59
+
+----
+
+Inventory: page://BSztM4fcQwjKBuPR
+
+----
+
+Customer: page://yZByBc3rF7VvRjSr
+
+----
+
+Uuid: WV73Mqy47Tiq6lg4

@@ -1,0 +1,42 @@
+Title: PATIENT SISTER
+
+----
+
+Actors:
+
+- 'page://5ruVLAhmJBWUKPci'
+- 'page://JA85uxdb8uiPNO2i'
+- 'page://I440rKCeu4AX6xcF'
+- 'page://kIGWs86teYEK5yIM'
+
+----
+
+Film-id: 663
+
+----
+
+Description: A Emotional Epistle of a Squirrel And a Robot who must Confront a Lumberjack in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 99
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: kZs95FwsP3In7Yk1
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

@@ -1,0 +1,17 @@
+Title: Inv 671
+
+----
+
+Inventory-id: 671
+
+----
+
+Film: page://NuVGP2Z1dYriqtlg
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Tc0k0lMqtedlBQOR

@@ -1,0 +1,17 @@
+Title: Inv 3491
+
+----
+
+Inventory-id: 3491
+
+----
+
+Film: page://eV27o8I9MzmQIqQQ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: waCj8TQ5WIYsdxNk

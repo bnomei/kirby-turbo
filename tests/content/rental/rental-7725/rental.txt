@@ -1,0 +1,25 @@
+Title: Rental 7725
+
+----
+
+Rental-id: 7725
+
+----
+
+Rental-date: 2005-07-28 04:47:14
+
+----
+
+Return-date: 2005-08-04 09:03:14
+
+----
+
+Inventory: page://MNWJ2YzNWWIJcd1B
+
+----
+
+Customer: page://Z6uneo5K4mIsEkh3
+
+----
+
+Uuid: oScQuBVCuTKkU1F7

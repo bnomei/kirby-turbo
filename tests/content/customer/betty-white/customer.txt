@@ -1,0 +1,33 @@
+Title: BETTY WHITE
+
+----
+
+Customer-id: 14
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: BETTY
+
+----
+
+Last-name: WHITE
+
+----
+
+Email: BETTY.WHITE@sakilacustomer.org
+
+----
+
+Address: page://h2M6zLFMt3KfHDdT
+
+----
+
+Active: 1
+
+----
+
+Uuid: aFkGopCOghEK7p34

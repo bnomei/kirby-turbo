@@ -1,0 +1,21 @@
+Title: Rental 15862
+
+----
+
+Rental-id: 15862
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://At9JiFneWtZ5qfOe
+
+----
+
+Customer: page://Waos8TO100plOpAg
+
+----
+
+Uuid: NYtNskwwxs2liV0V

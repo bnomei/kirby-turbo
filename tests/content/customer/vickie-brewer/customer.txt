@@ -1,0 +1,33 @@
+Title: VICKIE BREWER
+
+----
+
+Customer-id: 251
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: VICKIE
+
+----
+
+Last-name: BREWER
+
+----
+
+Email: VICKIE.BREWER@sakilacustomer.org
+
+----
+
+Address: page://JqN8gapLdT8a33Ak
+
+----
+
+Active: 1
+
+----
+
+Uuid: cRRGmCnzUGugZdVF

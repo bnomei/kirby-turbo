@@ -1,0 +1,25 @@
+Title: Rental 13030
+
+----
+
+Rental-id: 13030
+
+----
+
+Rental-date: 2005-08-19 08:28:11
+
+----
+
+Return-date: 2005-08-24 07:20:11
+
+----
+
+Inventory: page://22fPtpxnGgRj9p69
+
+----
+
+Customer: page://Cu40qk5iMNg9WfrC
+
+----
+
+Uuid: 3d4WabSUlElLshnJ

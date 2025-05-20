@@ -1,0 +1,17 @@
+Title: Inv 3670
+
+----
+
+Inventory-id: 3670
+
+----
+
+Film: page://1pDJmtGDeGf9MiJW
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: RiMRNkNTqKIUiwAx

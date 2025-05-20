@@ -1,0 +1,17 @@
+Title: Inv 4479
+
+----
+
+Inventory-id: 4479
+
+----
+
+Film: page://zieBHsHWeKZUZGj4
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: vqFjBrZAow8zvLSZ

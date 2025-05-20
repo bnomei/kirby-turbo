@@ -1,0 +1,17 @@
+Title: Inv 19
+
+----
+
+Inventory-id: 19
+
+----
+
+Film: page://lmoJMGpiz8uhlF1c
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: iJE5oCPeWLeiiiWG

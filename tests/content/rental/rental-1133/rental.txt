@@ -1,0 +1,25 @@
+Title: Rental 1133
+
+----
+
+Rental-id: 1133
+
+----
+
+Rental-date: 2005-05-31 19:12:21
+
+----
+
+Return-date: 2005-06-02 20:12:21
+
+----
+
+Inventory: page://E6sEx8W3PR0vhcYa
+
+----
+
+Uuid: XhExQHX5D6E7y9CU
+
+----
+
+Customer: page://j6w051LSx5dWYnKn

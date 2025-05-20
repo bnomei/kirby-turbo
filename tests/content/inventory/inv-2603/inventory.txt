@@ -1,0 +1,17 @@
+Title: Inv 2603
+
+----
+
+Inventory-id: 2603
+
+----
+
+Film: page://z0paQc40h4auQZis
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: WdfMwDkV3nfZqtfk

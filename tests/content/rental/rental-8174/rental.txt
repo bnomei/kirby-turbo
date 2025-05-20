@@ -1,0 +1,25 @@
+Title: Rental 8174
+
+----
+
+Rental-id: 8174
+
+----
+
+Rental-date: 2005-07-28 21:36:52
+
+----
+
+Return-date: 2005-08-04 00:32:52
+
+----
+
+Inventory: page://kxtlDad1B5UACVh4
+
+----
+
+Customer: page://OIjTAayisIN6Xq6v
+
+----
+
+Uuid: PK7rQYGJ2X8lS6cn

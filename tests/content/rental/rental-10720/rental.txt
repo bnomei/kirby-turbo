@@ -1,0 +1,25 @@
+Title: Rental 10720
+
+----
+
+Rental-id: 10720
+
+----
+
+Rental-date: 2005-08-01 19:04:33
+
+----
+
+Return-date: 2005-08-06 23:12:33
+
+----
+
+Inventory: page://kQ13L3CWuWLi2pAd
+
+----
+
+Customer: page://Z6uneo5K4mIsEkh3
+
+----
+
+Uuid: PXRKW4mnmCns5D59

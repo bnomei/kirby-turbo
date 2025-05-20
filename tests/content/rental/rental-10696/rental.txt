@@ -1,0 +1,25 @@
+Title: Rental 10696
+
+----
+
+Rental-id: 10696
+
+----
+
+Rental-date: 2005-08-01 18:18:13
+
+----
+
+Return-date: 2005-08-04 14:09:13
+
+----
+
+Inventory: page://Bj5eiMrrx2n48v5H
+
+----
+
+Customer: page://7XleW0b2x259mfJ9
+
+----
+
+Uuid: oPv8zipDgMoboqj7

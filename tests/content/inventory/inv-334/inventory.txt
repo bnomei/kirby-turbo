@@ -1,0 +1,17 @@
+Title: Inv 334
+
+----
+
+Inventory-id: 334
+
+----
+
+Film: page://wdCsKfGhTxJGSS4q
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: mzEY4ri9XogP2xOz

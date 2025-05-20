@@ -1,0 +1,25 @@
+Title: Rental 11997
+
+----
+
+Rental-id: 11997
+
+----
+
+Rental-date: 2005-08-17 18:34:38
+
+----
+
+Return-date: 2005-08-26 00:12:38
+
+----
+
+Inventory: page://FWBvJOExCPO60rOj
+
+----
+
+Customer: page://QLQpAHNndEIHvGr2
+
+----
+
+Uuid: mZDUhxqt1Rvk1973

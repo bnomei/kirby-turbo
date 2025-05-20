@@ -1,0 +1,25 @@
+Title: Rental 5422
+
+----
+
+Rental-id: 5422
+
+----
+
+Rental-date: 2005-07-09 20:55:47
+
+----
+
+Return-date: 2005-07-15 15:15:47
+
+----
+
+Inventory: page://TwKw8vdL9sKEqzP9
+
+----
+
+Uuid: wHhMcpe7PeXPYbyP
+
+----
+
+Customer: page://uedEHcyGADIOfSLA

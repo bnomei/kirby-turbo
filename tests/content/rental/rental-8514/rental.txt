@@ -1,0 +1,25 @@
+Title: Rental 8514
+
+----
+
+Rental-id: 8514
+
+----
+
+Rental-date: 2005-07-29 09:53:33
+
+----
+
+Return-date: 2005-07-30 06:34:33
+
+----
+
+Inventory: page://VExHUvTbkuu1sRS3
+
+----
+
+Customer: page://ThgYfQ8UF68tkRWf
+
+----
+
+Uuid: 4i7T9rkZURUcI1MS

@@ -1,0 +1,25 @@
+Title: Rental 7991
+
+----
+
+Rental-id: 7991
+
+----
+
+Rental-date: 2005-07-28 14:45:45
+
+----
+
+Return-date: 2005-07-29 15:05:45
+
+----
+
+Inventory: page://LXJ2K7WP3bPan99M
+
+----
+
+Customer: page://C4bxh4ih8ABx3B30
+
+----
+
+Uuid: NqeUgpoPEwjVEj4c

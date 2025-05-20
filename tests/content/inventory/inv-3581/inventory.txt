@@ -1,0 +1,17 @@
+Title: Inv 3581
+
+----
+
+Inventory-id: 3581
+
+----
+
+Film: page://szugAdlnH49KsCFa
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ffzHk6G5qngm0jqm

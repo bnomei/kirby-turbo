@@ -1,0 +1,25 @@
+Title: Rental 2738
+
+----
+
+Rental-id: 2738
+
+----
+
+Rental-date: 2005-06-19 15:56:30
+
+----
+
+Return-date: 2005-06-20 16:14:30
+
+----
+
+Inventory: page://S814zTiNRBXEotLJ
+
+----
+
+Uuid: GxDP6EUHtA4wQwIj
+
+----
+
+Customer: page://x5SWKXQpXhzjUJdL

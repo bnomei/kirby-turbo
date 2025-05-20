@@ -1,0 +1,17 @@
+Title: Inv 745
+
+----
+
+Inventory-id: 745
+
+----
+
+Film: page://OHnDiDEdYHsPNVrg
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 1f7nQmTLzkQ69eVq

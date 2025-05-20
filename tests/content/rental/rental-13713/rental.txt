@@ -1,0 +1,21 @@
+Title: Rental 13713
+
+----
+
+Rental-id: 13713
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://PRayVJ7Ck5zOXMMe
+
+----
+
+Customer: page://YC1uNdmmt4LG2OJc
+
+----
+
+Uuid: FSrVhXFsUnaNJwem

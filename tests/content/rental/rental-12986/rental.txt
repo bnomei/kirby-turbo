@@ -1,0 +1,25 @@
+Title: Rental 12986
+
+----
+
+Rental-id: 12986
+
+----
+
+Rental-date: 2005-08-19 07:09:36
+
+----
+
+Return-date: 2005-08-22 05:01:36
+
+----
+
+Inventory: page://6DmK5P3SL15GLuTo
+
+----
+
+Customer: page://1WQt30TIXN0K56Ie
+
+----
+
+Uuid: JgBUSKxlO45SA9GK

@@ -1,0 +1,17 @@
+Title: Inv 3502
+
+----
+
+Inventory-id: 3502
+
+----
+
+Film: page://i09ZUgQcDRxEVuGe
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 3zCYytEN9h3RuqZY

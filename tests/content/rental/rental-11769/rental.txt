@@ -1,0 +1,25 @@
+Title: Rental 11769
+
+----
+
+Rental-id: 11769
+
+----
+
+Rental-date: 2005-08-17 10:04:49
+
+----
+
+Return-date: 2005-08-20 09:22:49
+
+----
+
+Inventory: page://JPY8O27MCQjBKNh4
+
+----
+
+Customer: page://CLy4VJRr6odVQPmO
+
+----
+
+Uuid: gcrkM373Jh4666Ui

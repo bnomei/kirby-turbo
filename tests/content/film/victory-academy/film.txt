@@ -1,0 +1,43 @@
+Title: VICTORY ACADEMY
+
+----
+
+Actors:
+
+- 'page://lRnQ2IFMyS6K2hRd'
+- 'page://yhATHnZqo4RzYS83'
+- 'page://OGjAu4hPWyVISsAa'
+- 'page://Q7LFBcb3oEdhSO9W'
+- 'page://QybR1sXOQQQZIPXG'
+
+----
+
+Film-id: 940
+
+----
+
+Description: A Insightful Epistle of a Mad Scientist And a Explorer who must Challenge a Cat in The Sahara Desert
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 64
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: 7MErZ2JBxN1hRxGu
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

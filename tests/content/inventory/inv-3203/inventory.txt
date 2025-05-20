@@ -1,0 +1,17 @@
+Title: Inv 3203
+
+----
+
+Inventory-id: 3203
+
+----
+
+Film: page://swpdsGvy1fo5PnDf
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: FFhfhQrBHjVNVC72

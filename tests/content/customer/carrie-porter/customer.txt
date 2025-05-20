@@ -1,0 +1,33 @@
+Title: CARRIE PORTER
+
+----
+
+Customer-id: 129
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CARRIE
+
+----
+
+Last-name: PORTER
+
+----
+
+Email: CARRIE.PORTER@sakilacustomer.org
+
+----
+
+Address: page://REx55yrXgxSolapW
+
+----
+
+Active: 1
+
+----
+
+Uuid: JdfsXlrnw5D9Ezlr

@@ -1,0 +1,25 @@
+Title: Rental 15145
+
+----
+
+Rental-id: 15145
+
+----
+
+Rental-date: 2005-08-22 13:53:04
+
+----
+
+Return-date: 2005-08-31 15:51:04
+
+----
+
+Inventory: page://RwUS96gg0CAYPY1T
+
+----
+
+Customer: page://FiEjPjAVk9G7zTXB
+
+----
+
+Uuid: l4B7DSblFh7D6EC9

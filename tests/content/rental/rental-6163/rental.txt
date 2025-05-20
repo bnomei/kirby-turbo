@@ -1,0 +1,25 @@
+Title: Rental 6163
+
+----
+
+Rental-id: 6163
+
+----
+
+Rental-date: 2005-07-11 10:13:46
+
+----
+
+Return-date: 2005-07-19 13:15:46
+
+----
+
+Inventory: page://c5H2tNvZziSmh4vY
+
+----
+
+Uuid: 4fmCNMrZtyZmEEpZ
+
+----
+
+Customer: page://XT1tDVBbJppqjfak

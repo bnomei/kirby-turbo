@@ -1,0 +1,17 @@
+Title: Inv 2461
+
+----
+
+Inventory-id: 2461
+
+----
+
+Film: page://XVOfGanSHXV6A1gA
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: grX2u8qjGIN8oIOR

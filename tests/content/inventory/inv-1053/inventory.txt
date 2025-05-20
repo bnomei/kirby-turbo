@@ -1,0 +1,17 @@
+Title: Inv 1053
+
+----
+
+Inventory-id: 1053
+
+----
+
+Film: page://ubTxi0o1gyywndg2
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: RC5bw0voTV8W2VN5

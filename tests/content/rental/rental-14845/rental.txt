@@ -1,0 +1,25 @@
+Title: Rental 14845
+
+----
+
+Rental-id: 14845
+
+----
+
+Rental-date: 2005-08-22 02:12:44
+
+----
+
+Return-date: 2005-08-24 02:36:44
+
+----
+
+Inventory: page://iVuVdZbHxOWjClCU
+
+----
+
+Customer: page://TxY88rwk6w3N9jKC
+
+----
+
+Uuid: AnTg6U687RT2LUIA

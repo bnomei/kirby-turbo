@@ -1,0 +1,17 @@
+Title: Inv 523
+
+----
+
+Inventory-id: 523
+
+----
+
+Film: page://iMI1430ry8gA5yc2
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: rj0UNVu9A4EUMwKt

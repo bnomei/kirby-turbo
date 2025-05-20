@@ -1,0 +1,17 @@
+Title: Inv 1533
+
+----
+
+Inventory-id: 1533
+
+----
+
+Film: page://GPwdH1BDzXr5tVNT
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: VyrjOysw8T1hPk56

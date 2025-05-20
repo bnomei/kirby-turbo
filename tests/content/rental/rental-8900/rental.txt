@@ -1,0 +1,25 @@
+Title: Rental 8900
+
+----
+
+Rental-id: 8900
+
+----
+
+Rental-date: 2005-07-30 01:07:03
+
+----
+
+Return-date: 2005-08-06 04:07:03
+
+----
+
+Inventory: page://yNnS0b8f4sRQmcyv
+
+----
+
+Customer: page://sXFRFNABQAAwfZCO
+
+----
+
+Uuid: m0HLqH29qaNpY5VK

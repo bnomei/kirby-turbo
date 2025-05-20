@@ -1,0 +1,17 @@
+Title: Inv 642
+
+----
+
+Inventory-id: 642
+
+----
+
+Film: page://RnXvDXjVgDu2H8ng
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: x5gGSCQjt2YBg19Z

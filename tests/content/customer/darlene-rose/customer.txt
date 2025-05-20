@@ -1,0 +1,33 @@
+Title: DARLENE ROSE
+
+----
+
+Customer-id: 157
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: DARLENE
+
+----
+
+Last-name: ROSE
+
+----
+
+Email: DARLENE.ROSE@sakilacustomer.org
+
+----
+
+Address: page://kNqirF8u3Wwfp3wC
+
+----
+
+Active: 1
+
+----
+
+Uuid: AkaRCOxNSCiOcy32

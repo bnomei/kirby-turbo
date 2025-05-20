@@ -1,0 +1,17 @@
+Title: Inv 2121
+
+----
+
+Inventory-id: 2121
+
+----
+
+Film: page://sqaAugYeepB4yDWG
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: i4DhPMgWksOnuZjn

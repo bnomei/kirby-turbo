@@ -1,0 +1,25 @@
+Title: Rental 10590
+
+----
+
+Rental-id: 10590
+
+----
+
+Rental-date: 2005-08-01 14:11:53
+
+----
+
+Return-date: 2005-08-04 20:04:53
+
+----
+
+Inventory: page://amiuseXsbMOEeVg8
+
+----
+
+Customer: page://do7XIsVNaFXaDfM6
+
+----
+
+Uuid: t2eZKgOB4Waj0Vh5

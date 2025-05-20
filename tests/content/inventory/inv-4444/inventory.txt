@@ -1,0 +1,17 @@
+Title: Inv 4444
+
+----
+
+Inventory-id: 4444
+
+----
+
+Film: page://TdUiDOSySk31crNC
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: jZ7TF7lKDPZNQs8V

@@ -1,0 +1,21 @@
+Title: Rental 11676
+
+----
+
+Rental-id: 11676
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://TBXPnJD20Re20jjC
+
+----
+
+Customer: page://6JTzEhgDMKDUF6HS
+
+----
+
+Uuid: NToqR5Rwl74osl2V

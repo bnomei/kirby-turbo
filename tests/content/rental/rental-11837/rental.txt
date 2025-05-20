@@ -1,0 +1,25 @@
+Title: Rental 11837
+
+----
+
+Rental-id: 11837
+
+----
+
+Rental-date: 2005-08-17 13:04:41
+
+----
+
+Return-date: 2005-08-26 14:19:41
+
+----
+
+Inventory: page://JjEbdBwMnQe5epV5
+
+----
+
+Customer: page://7pUMh8Du54p24Iw4
+
+----
+
+Uuid: kuq7BkTJlezNAle7

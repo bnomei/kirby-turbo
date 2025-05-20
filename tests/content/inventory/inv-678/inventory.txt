@@ -1,0 +1,17 @@
+Title: Inv 678
+
+----
+
+Inventory-id: 678
+
+----
+
+Film: page://gcI22iZfI8heb4EI
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 7th9D6RTNlCxiTDX

@@ -1,0 +1,17 @@
+Title: Inv 1672
+
+----
+
+Inventory-id: 1672
+
+----
+
+Film: page://XaFb2ccssA5iFSfu
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: i3Ae03YhqUss00tt

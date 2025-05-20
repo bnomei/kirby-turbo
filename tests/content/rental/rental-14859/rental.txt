@@ -1,0 +1,25 @@
+Title: Rental 14859
+
+----
+
+Rental-id: 14859
+
+----
+
+Rental-date: 2005-08-22 02:46:35
+
+----
+
+Return-date: 2005-08-24 22:37:35
+
+----
+
+Inventory: page://lKurLWEztFFMV90d
+
+----
+
+Customer: page://zhBBNcqh1xiZ57GZ
+
+----
+
+Uuid: 9gTWY7hVPRZR5098

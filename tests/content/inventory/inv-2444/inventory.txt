@@ -1,0 +1,17 @@
+Title: Inv 2444
+
+----
+
+Inventory-id: 2444
+
+----
+
+Film: page://9D23rGVJtd8AhuJg
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: bAlPAd45VilnVGaJ

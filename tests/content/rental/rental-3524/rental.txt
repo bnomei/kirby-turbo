@@ -1,0 +1,25 @@
+Title: Rental 3524
+
+----
+
+Rental-id: 3524
+
+----
+
+Rental-date: 2005-07-06 01:01:51
+
+----
+
+Return-date: 2005-07-11 19:52:51
+
+----
+
+Inventory: page://mRt8mdVIfoaJIByu
+
+----
+
+Uuid: KyUMepkxop583spV
+
+----
+
+Customer: page://f1BLMiQFWjWGI1Fh

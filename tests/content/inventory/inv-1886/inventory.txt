@@ -1,0 +1,17 @@
+Title: Inv 1886
+
+----
+
+Inventory-id: 1886
+
+----
+
+Film: page://eoJzkRB0SYjrYU75
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 7F86ScaNGZOqyqoK

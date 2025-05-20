@@ -1,0 +1,25 @@
+Title: Rental 9815
+
+----
+
+Rental-id: 9815
+
+----
+
+Rental-date: 2005-07-31 11:30:51
+
+----
+
+Return-date: 2005-08-08 12:52:51
+
+----
+
+Inventory: page://PJNamzV8e0J6Z0XJ
+
+----
+
+Customer: page://2G3YjZ3nk45lbrpd
+
+----
+
+Uuid: R20wkCUP8NEFwxsh

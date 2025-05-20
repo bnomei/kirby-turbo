@@ -1,0 +1,17 @@
+Title: Inv 1388
+
+----
+
+Inventory-id: 1388
+
+----
+
+Film: page://N9PtI3NUMaNkDMZF
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: QXku4WZmKIOJ6rhs

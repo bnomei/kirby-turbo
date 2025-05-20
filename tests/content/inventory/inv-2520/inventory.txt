@@ -1,0 +1,17 @@
+Title: Inv 2520
+
+----
+
+Inventory-id: 2520
+
+----
+
+Film: page://e1sk7GTDfm5AcTin
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 9RhlbvPkCTIThxxM

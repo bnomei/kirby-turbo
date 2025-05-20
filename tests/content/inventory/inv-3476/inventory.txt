@@ -1,0 +1,17 @@
+Title: Inv 3476
+
+----
+
+Inventory-id: 3476
+
+----
+
+Film: page://ckFMabVsFap9cexZ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: plydQO3cHpIMaN0g

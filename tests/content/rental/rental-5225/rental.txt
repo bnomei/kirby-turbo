@@ -1,0 +1,25 @@
+Title: Rental 5225
+
+----
+
+Rental-id: 5225
+
+----
+
+Rental-date: 2005-07-09 12:10:16
+
+----
+
+Return-date: 2005-07-12 09:55:16
+
+----
+
+Inventory: page://hRwKcbAU5VPfO4Gi
+
+----
+
+Uuid: HF0CjBm836orYmcU
+
+----
+
+Customer: page://vuC49kOilMI2crhA

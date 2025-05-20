@@ -1,0 +1,33 @@
+Title: DAWN SULLIVAN
+
+----
+
+Customer-id: 105
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: DAWN
+
+----
+
+Last-name: SULLIVAN
+
+----
+
+Email: DAWN.SULLIVAN@sakilacustomer.org
+
+----
+
+Address: page://1Zbg7JScwKJmNMCH
+
+----
+
+Active: 1
+
+----
+
+Uuid: Pif8NPYHuv0Na4Zs

@@ -1,0 +1,25 @@
+Title: Rental 4749
+
+----
+
+Rental-id: 4749
+
+----
+
+Rental-date: 2005-07-08 14:05:58
+
+----
+
+Return-date: 2005-07-10 18:35:58
+
+----
+
+Inventory: page://bX5LQaumy5x8PwWJ
+
+----
+
+Uuid: hwOM2WhxqIB99R7T
+
+----
+
+Customer: page://HQxscLHxuDjEVXyk

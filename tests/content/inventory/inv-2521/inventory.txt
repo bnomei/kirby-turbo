@@ -1,0 +1,17 @@
+Title: Inv 2521
+
+----
+
+Inventory-id: 2521
+
+----
+
+Film: page://e1sk7GTDfm5AcTin
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: yqcNFtjyNjUan5J0

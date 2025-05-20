@@ -1,0 +1,17 @@
+Title: Inv 4294
+
+----
+
+Inventory-id: 4294
+
+----
+
+Film: page://9cdDMs1GwB0y1Px9
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: EGX1AfRcEkDyOr7g

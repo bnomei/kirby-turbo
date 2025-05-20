@@ -1,0 +1,25 @@
+Title: Rental 103
+
+----
+
+Rental-id: 103
+
+----
+
+Rental-date: 2005-05-25 17:30:42
+
+----
+
+Return-date: 2005-06-03 22:36:42
+
+----
+
+Inventory: page://t8FJUhCMQciiZoy5
+
+----
+
+Uuid: 9h2qoGTQlEnabrhr
+
+----
+
+Customer: page://0DViNB8AjR6M3Kvz

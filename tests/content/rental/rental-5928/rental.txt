@@ -1,0 +1,25 @@
+Title: Rental 5928
+
+----
+
+Rental-id: 5928
+
+----
+
+Rental-date: 2005-07-10 21:58:30
+
+----
+
+Return-date: 2005-07-15 19:41:30
+
+----
+
+Inventory: page://cmsCeC0hkt4k3bNC
+
+----
+
+Uuid: geZaBBoDuINIt7uX
+
+----
+
+Customer: page://SGDmUxNER90s6kyU

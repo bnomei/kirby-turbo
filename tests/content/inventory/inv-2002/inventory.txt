@@ -1,0 +1,17 @@
+Title: Inv 2002
+
+----
+
+Inventory-id: 2002
+
+----
+
+Film: page://E7QUwUT5dMIom8aL
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: KgM28ljsCqTPA5aH

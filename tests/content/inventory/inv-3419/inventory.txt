@@ -1,0 +1,17 @@
+Title: Inv 3419
+
+----
+
+Inventory-id: 3419
+
+----
+
+Film: page://Mz3jWnwuHGzDCRlb
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: AyIrVf8yxfMOCS3c

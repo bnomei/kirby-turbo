@@ -1,0 +1,17 @@
+Title: Inv 783
+
+----
+
+Inventory-id: 783
+
+----
+
+Film: page://wgGSeQQNIgIH75fJ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: NPv8URcDh6m3Dwjc

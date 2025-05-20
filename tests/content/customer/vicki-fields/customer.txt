@@ -1,0 +1,33 @@
+Title: VICKI FIELDS
+
+----
+
+Customer-id: 201
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: VICKI
+
+----
+
+Last-name: FIELDS
+
+----
+
+Email: VICKI.FIELDS@sakilacustomer.org
+
+----
+
+Address: page://1k48oCe0xKZSBq8X
+
+----
+
+Active: 1
+
+----
+
+Uuid: cJydH6wkvuH04KQt

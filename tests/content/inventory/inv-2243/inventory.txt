@@ -1,0 +1,17 @@
+Title: Inv 2243
+
+----
+
+Inventory-id: 2243
+
+----
+
+Film: page://hCDXIChY04aSaSHE
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: mZF7SPgtoeov1PME

@@ -1,0 +1,25 @@
+Title: Rental 2408
+
+----
+
+Rental-id: 2408
+
+----
+
+Rental-date: 2005-06-18 16:50:44
+
+----
+
+Return-date: 2005-06-19 20:11:44
+
+----
+
+Inventory: page://W5baC8GFn0Mdy9rl
+
+----
+
+Uuid: m7VcPJmHXMnQ6lGl
+
+----
+
+Customer: page://AbMvWlf35GZBBoZ3

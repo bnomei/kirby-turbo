@@ -1,0 +1,25 @@
+Title: Rental 14482
+
+----
+
+Rental-id: 14482
+
+----
+
+Rental-date: 2005-08-21 13:42:45
+
+----
+
+Return-date: 2005-08-27 11:55:45
+
+----
+
+Inventory: page://G56XJcok3qa2EHu2
+
+----
+
+Customer: page://z6KsbN8IOhSoB7GT
+
+----
+
+Uuid: PdINimTRKdMTM8eo

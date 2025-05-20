@@ -1,0 +1,17 @@
+Title: Inv 3240
+
+----
+
+Inventory-id: 3240
+
+----
+
+Film: page://I5jGcPTCJ9A1daiS
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: L0DtUktdgAa4WXaW

@@ -1,0 +1,33 @@
+Title: JACQUELINE LONG
+
+----
+
+Customer-id: 86
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JACQUELINE
+
+----
+
+Last-name: LONG
+
+----
+
+Email: JACQUELINE.LONG@sakilacustomer.org
+
+----
+
+Address: page://WuF7hSCCOmKXl1BD
+
+----
+
+Active: 1
+
+----
+
+Uuid: jQgJTEFW0ApOfR1S

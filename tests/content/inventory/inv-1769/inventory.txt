@@ -1,0 +1,17 @@
+Title: Inv 1769
+
+----
+
+Inventory-id: 1769
+
+----
+
+Film: page://6u7cclpzdri98KSA
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: w8sYnPl2GnxRL3Aw

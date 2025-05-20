@@ -1,0 +1,25 @@
+Title: Rental 12382
+
+----
+
+Rental-id: 12382
+
+----
+
+Rental-date: 2005-08-18 08:32:33
+
+----
+
+Return-date: 2005-08-26 03:45:33
+
+----
+
+Inventory: page://5uGFqMHK0S3uBL0w
+
+----
+
+Customer: page://kiN3u3DN0FkdJzU9
+
+----
+
+Uuid: kKWaCoMEl23xowbH

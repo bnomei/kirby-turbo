@@ -1,0 +1,25 @@
+Title: Rental 15514
+
+----
+
+Rental-id: 15514
+
+----
+
+Rental-date: 2005-08-23 03:03:40
+
+----
+
+Return-date: 2005-08-24 01:06:40
+
+----
+
+Inventory: page://pYBqqGMYaZRt6frC
+
+----
+
+Customer: page://YQtY5BLLYVMlkjV2
+
+----
+
+Uuid: 8r5Lgj7dZ6OunnML

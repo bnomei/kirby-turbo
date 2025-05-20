@@ -1,0 +1,25 @@
+Title: Rental 5572
+
+----
+
+Rental-id: 5572
+
+----
+
+Rental-date: 2005-07-10 03:49:00
+
+----
+
+Return-date: 2005-07-14 01:25:00
+
+----
+
+Inventory: page://xqFl7eAYGyiVRkBV
+
+----
+
+Uuid: rrUkhVfx8s0xzRbK
+
+----
+
+Customer: page://rl5FWdN2ozFFNyzY

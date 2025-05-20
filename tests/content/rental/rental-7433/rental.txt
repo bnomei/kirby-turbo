@@ -1,0 +1,25 @@
+Title: Rental 7433
+
+----
+
+Rental-id: 7433
+
+----
+
+Rental-date: 2005-07-27 17:32:20
+
+----
+
+Return-date: 2005-08-01 18:49:20
+
+----
+
+Inventory: page://Z5S7s47XJtyXIsMR
+
+----
+
+Customer: page://Tj29qTVQAQ0HCcNy
+
+----
+
+Uuid: pJdWJgzxaFtVK7hJ

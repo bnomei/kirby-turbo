@@ -1,0 +1,33 @@
+Title: VALERIE BLACK
+
+----
+
+Customer-id: 149
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: VALERIE
+
+----
+
+Last-name: BLACK
+
+----
+
+Email: VALERIE.BLACK@sakilacustomer.org
+
+----
+
+Address: page://5E05mFczLIbSnpdF
+
+----
+
+Active: 1
+
+----
+
+Uuid: hKFzOIjEbiQlZ9Km

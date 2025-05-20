@@ -1,0 +1,17 @@
+Title: Inv 4337
+
+----
+
+Inventory-id: 4337
+
+----
+
+Film: page://zGpQAqYH1u3cECW1
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Y6ibNwJqci84uAUK

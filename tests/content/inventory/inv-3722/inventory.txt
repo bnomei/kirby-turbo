@@ -1,0 +1,17 @@
+Title: Inv 3722
+
+----
+
+Inventory-id: 3722
+
+----
+
+Film: page://ercNXUBP8HnWiyFR
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: xworYfGp3YH3YCrX

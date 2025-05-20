@@ -1,0 +1,17 @@
+Title: Inv 3505
+
+----
+
+Inventory-id: 3505
+
+----
+
+Film: page://i09ZUgQcDRxEVuGe
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 9tuJ0vMVJTqBdqCw

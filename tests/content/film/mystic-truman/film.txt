@@ -1,0 +1,42 @@
+Title: MYSTIC TRUMAN
+
+----
+
+Actors:
+
+- 'page://u0N0ozPCYMgg4oo9'
+- 'page://gELBLdH4G3cmVmcs'
+- 'page://K0t8PMh78EXVZHC5'
+- 'page://nGhJyQbze3rAAH9v'
+
+----
+
+Film-id: 613
+
+----
+
+Description: A Epic Yarn of a Teacher And a Hunter who must Outgun a Explorer in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 92
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: LoKZEQZBbPNfnbxI
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

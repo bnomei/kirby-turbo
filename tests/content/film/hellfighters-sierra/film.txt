@@ -1,0 +1,50 @@
+Title: HELLFIGHTERS SIERRA
+
+----
+
+Actors:
+
+- 'page://V2PTX56N00hKjCOa'
+- 'page://9zoYPXEbxK6liKqc'
+- 'page://RW4ixiF3bbh7oXkH'
+- 'page://l9F1V32tlG60bBdO'
+- 'page://nx1fXkDUW4gS66DW'
+- 'page://f3T5R3qlMgXii7Oj'
+- 'page://KWXiI33RIY2Yllal'
+- 'page://rTdvG0vGkNN8iJpQ'
+- 'page://MokGIRk1MnOR5ecX'
+- 'page://DJVklNozM1l2RK0x'
+- 'page://SR0Aks2aA1YgkZ1s'
+- 'page://yg3e89enY7SGtRB6'
+
+----
+
+Film-id: 414
+
+----
+
+Description: A Taut Reflection of a A Shark And a Dentist who must Battle a Boat in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 75
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: xE5uq6m7QdwMy9ie
+
+----
+
+Categories: - 'page://1zSlwtq2IyzVh9Hs'

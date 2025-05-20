@@ -1,0 +1,25 @@
+Title: Rental 620
+
+----
+
+Rental-id: 620
+
+----
+
+Rental-date: 2005-05-28 15:54:45
+
+----
+
+Return-date: 2005-06-04 20:26:45
+
+----
+
+Inventory: page://bAlPAd45VilnVGaJ
+
+----
+
+Uuid: 9q3d9c7dOPS3QDl9
+
+----
+
+Customer: page://36F29rZd3q9eaQjs

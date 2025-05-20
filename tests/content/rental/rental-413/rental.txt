@@ -1,0 +1,25 @@
+Title: Rental 413
+
+----
+
+Rental-id: 413
+
+----
+
+Rental-date: 2005-05-27 14:45:37
+
+----
+
+Return-date: 2005-06-03 11:11:37
+
+----
+
+Inventory: page://RV28PfYMumzblmQp
+
+----
+
+Uuid: Cmybxn61M6CRI3MA
+
+----
+
+Customer: page://9bpDggcJABKwr9xt

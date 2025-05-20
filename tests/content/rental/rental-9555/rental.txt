@@ -1,0 +1,25 @@
+Title: Rental 9555
+
+----
+
+Rental-id: 9555
+
+----
+
+Rental-date: 2005-07-31 02:11:16
+
+----
+
+Return-date: 2005-08-03 06:58:16
+
+----
+
+Inventory: page://AOF9KAFhfOPoVV66
+
+----
+
+Customer: page://ZuUWmxbKilRmIFgl
+
+----
+
+Uuid: Ul1cR84lknLd70PH

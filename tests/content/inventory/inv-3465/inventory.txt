@@ -1,0 +1,17 @@
+Title: Inv 3465
+
+----
+
+Inventory-id: 3465
+
+----
+
+Film: page://QkPR08jHprrRWEr9
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: XDlHhJKHkPowVXLe

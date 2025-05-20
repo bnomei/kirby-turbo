@@ -1,0 +1,17 @@
+Title: Inv 3544
+
+----
+
+Inventory-id: 3544
+
+----
+
+Film: page://ZeOs3QdCKvQUL6Gw
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: rOCuIEbHRvr8s5PF

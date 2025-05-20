@@ -1,0 +1,17 @@
+Title: Inv 2003
+
+----
+
+Inventory-id: 2003
+
+----
+
+Film: page://E7QUwUT5dMIom8aL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Q8IpJrQ0YvAz5rOT

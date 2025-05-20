@@ -1,0 +1,25 @@
+Title: Rental 7826
+
+----
+
+Rental-id: 7826
+
+----
+
+Rental-date: 2005-07-28 08:35:51
+
+----
+
+Return-date: 2005-08-05 07:57:51
+
+----
+
+Inventory: page://mwHV6lCFOh9yx2ur
+
+----
+
+Customer: page://ZbOznINloPtmkvNK
+
+----
+
+Uuid: HArO14tcjlX4e33P

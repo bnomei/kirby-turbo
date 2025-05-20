@@ -1,0 +1,25 @@
+Title: Rental 8746
+
+----
+
+Rental-id: 8746
+
+----
+
+Rental-date: 2005-07-29 19:03:15
+
+----
+
+Return-date: 2005-07-30 17:06:15
+
+----
+
+Inventory: page://RwUS96gg0CAYPY1T
+
+----
+
+Customer: page://Ux04BSv2KWensEQv
+
+----
+
+Uuid: SFo2SNwlzbvLeGDT

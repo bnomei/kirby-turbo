@@ -1,0 +1,17 @@
+Title: Inv 3717
+
+----
+
+Inventory-id: 3717
+
+----
+
+Film: page://EoaTSoqYKv778Eh3
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: MegDtUz4tHLlw6iB

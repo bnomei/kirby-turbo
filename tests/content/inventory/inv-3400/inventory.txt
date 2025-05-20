@@ -1,0 +1,17 @@
+Title: Inv 3400
+
+----
+
+Inventory-id: 3400
+
+----
+
+Film: page://fvcS3Vnuhg3KHjnx
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: zi7QdjuaBfMnWVA3

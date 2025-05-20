@@ -1,0 +1,25 @@
+Title: Rental 7226
+
+----
+
+Rental-id: 7226
+
+----
+
+Rental-date: 2005-07-27 09:47:53
+
+----
+
+Return-date: 2005-08-01 08:24:53
+
+----
+
+Inventory: page://GreBt1st6DCyGPvd
+
+----
+
+Customer: page://e47avKEtCcZjXaKK
+
+----
+
+Uuid: DvgyO2uViQn2wVVV

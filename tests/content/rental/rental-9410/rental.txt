@@ -1,0 +1,25 @@
+Title: Rental 9410
+
+----
+
+Rental-id: 9410
+
+----
+
+Rental-date: 2005-07-30 20:38:05
+
+----
+
+Return-date: 2005-07-31 19:57:05
+
+----
+
+Inventory: page://0rCAzNDyrGFz8mPi
+
+----
+
+Customer: page://WYN3R1xdu8tNVx9R
+
+----
+
+Uuid: 9bJIdX3RkUOp1qSS

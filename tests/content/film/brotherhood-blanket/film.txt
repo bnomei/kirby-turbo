@@ -1,0 +1,43 @@
+Title: BROTHERHOOD BLANKET
+
+----
+
+Actors:
+
+- 'page://EfT0PAFDrVUk4H1Y'
+- 'page://8uCKHWVFS7qGgYjl'
+- 'page://9NAEa97MvjisWbzN'
+- 'page://ixmDbcb5VXh1c8bc'
+- 'page://RHCn9jMuVT1ewFhv'
+
+----
+
+Film-id: 101
+
+----
+
+Description: A Fateful Character Study of a Butler And a Technical Writer who must Sink a Astronaut in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 73
+
+----
+
+Rating: R
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: 9PENRrI3UrKDEBrj
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

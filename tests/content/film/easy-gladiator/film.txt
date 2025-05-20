@@ -1,0 +1,41 @@
+Title: EASY GLADIATOR
+
+----
+
+Actors:
+
+- 'page://EfT0PAFDrVUk4H1Y'
+- 'page://6jpBKUOTpGMSQxJe'
+- 'page://SR0Aks2aA1YgkZ1s'
+
+----
+
+Film-id: 271
+
+----
+
+Description: A Fateful Story of a Monkey And a Girl who must Overcome a Pastry Chef in Ancient India
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 148
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: BW8GpAL30Nkr7w69
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

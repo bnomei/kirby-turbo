@@ -1,0 +1,17 @@
+Title: Inv 1335
+
+----
+
+Inventory-id: 1335
+
+----
+
+Film: page://JzN7Qzaiqb6MmLE7
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: NqLZW3K947O8fg7C

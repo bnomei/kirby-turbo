@@ -1,0 +1,33 @@
+Title: ELIZABETH BROWN
+
+----
+
+Customer-id: 5
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ELIZABETH
+
+----
+
+Last-name: BROWN
+
+----
+
+Email: ELIZABETH.BROWN@sakilacustomer.org
+
+----
+
+Address: page://a2I5bhk8uCT1Snhl
+
+----
+
+Active: 1
+
+----
+
+Uuid: stFkFNmIWPMkzEB2

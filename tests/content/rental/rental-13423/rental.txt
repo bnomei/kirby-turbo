@@ -1,0 +1,25 @@
+Title: Rental 13423
+
+----
+
+Rental-id: 13423
+
+----
+
+Rental-date: 2005-08-19 23:07:42
+
+----
+
+Return-date: 2005-08-26 20:45:42
+
+----
+
+Inventory: page://nmUodhpRqGsYoc9W
+
+----
+
+Customer: page://W7ZJXAG7NuFuJZ2S
+
+----
+
+Uuid: En0w7op5YG2aasDL

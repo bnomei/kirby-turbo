@@ -1,0 +1,25 @@
+Title: Rental 10674
+
+----
+
+Rental-id: 10674
+
+----
+
+Rental-date: 2005-08-01 17:11:52
+
+----
+
+Return-date: 2005-08-08 19:34:52
+
+----
+
+Inventory: page://Zfk5tUIEPljUD4nf
+
+----
+
+Customer: page://alglU4WYiFaY0W4O
+
+----
+
+Uuid: C1IKJW7rLBLdImq3

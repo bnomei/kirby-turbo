@@ -1,0 +1,25 @@
+Title: Rental 6810
+
+----
+
+Rental-id: 6810
+
+----
+
+Rental-date: 2005-07-12 17:54:19
+
+----
+
+Return-date: 2005-07-20 16:58:19
+
+----
+
+Inventory: page://XqM0PnroSJ6BXI4B
+
+----
+
+Customer: page://HENTXL1iEV8LJg7f
+
+----
+
+Uuid: TkttCj8z9BWepwvP

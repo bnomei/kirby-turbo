@@ -1,0 +1,25 @@
+Title: Rental 9118
+
+----
+
+Rental-id: 9118
+
+----
+
+Rental-date: 2005-07-30 09:24:18
+
+----
+
+Return-date: 2005-08-02 14:46:18
+
+----
+
+Inventory: page://2gujwp7WqvHz1G2s
+
+----
+
+Customer: page://EyDPLO3Eg43hOXws
+
+----
+
+Uuid: Y60RfEk3Gpsnrijv

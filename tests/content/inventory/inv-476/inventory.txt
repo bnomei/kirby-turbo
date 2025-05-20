@@ -1,0 +1,17 @@
+Title: Inv 476
+
+----
+
+Inventory-id: 476
+
+----
+
+Film: page://DOtC9jr927fiH9Lg
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: HqPFCRwNYtsRAZPA

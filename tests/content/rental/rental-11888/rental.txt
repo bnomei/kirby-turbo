@@ -1,0 +1,25 @@
+Title: Rental 11888
+
+----
+
+Rental-id: 11888
+
+----
+
+Rental-date: 2005-08-17 15:04:05
+
+----
+
+Return-date: 2005-08-25 18:52:05
+
+----
+
+Inventory: page://cXf3XJ4mAY2eC9x1
+
+----
+
+Customer: page://r0DHyZYSnncl7RM1
+
+----
+
+Uuid: 2nqWdClINGRI9qYs

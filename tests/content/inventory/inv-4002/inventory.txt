@@ -1,0 +1,17 @@
+Title: Inv 4002
+
+----
+
+Inventory-id: 4002
+
+----
+
+Film: page://vVqAIfsqY30wZlDZ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: fgAfCSykPhaVIBXm

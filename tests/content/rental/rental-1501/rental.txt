@@ -1,0 +1,25 @@
+Title: Rental 1501
+
+----
+
+Rental-id: 1501
+
+----
+
+Rental-date: 2005-06-15 22:02:35
+
+----
+
+Return-date: 2005-06-23 18:59:35
+
+----
+
+Inventory: page://Px1au4wuVi58HC1T
+
+----
+
+Uuid: LldtvspiJmj4VTzV
+
+----
+
+Customer: page://bp3076yXkpG6TsZ7

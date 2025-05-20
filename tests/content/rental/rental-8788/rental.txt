@@ -1,0 +1,25 @@
+Title: Rental 8788
+
+----
+
+Rental-id: 8788
+
+----
+
+Rental-date: 2005-07-29 20:46:44
+
+----
+
+Return-date: 2005-08-03 02:25:44
+
+----
+
+Inventory: page://yC5qFDZrjmdQmZ9o
+
+----
+
+Customer: page://okaJqGigURtGJrFE
+
+----
+
+Uuid: LEUG0s7n1XcAlvNa

@@ -1,0 +1,17 @@
+Title: Inv 775
+
+----
+
+Inventory-id: 775
+
+----
+
+Film: page://YudTZAeInv8XFQ5C
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: zU4uuoQQqlAkWZCt

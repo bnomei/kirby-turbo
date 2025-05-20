@@ -1,0 +1,44 @@
+Title: RAINBOW SHOCK
+
+----
+
+Actors:
+
+- 'page://JbsPWnOXBNKX1tM5'
+- 'page://8v9dhLSIQd0NpUQl'
+- 'page://nN3rIVkI7hNgoDlp'
+- 'page://iZwJlBg8wszU4t4i'
+- 'page://eZEz0vHTFLlEKlUs'
+- 'page://CI649GdI5JvIKbQ1'
+
+----
+
+Film-id: 713
+
+----
+
+Description: A Action-Packed Story of a Hunter And a Boy who must Discover a Lumberjack in Ancient India
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 74
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: AsrnzOkblE2te2t2
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

@@ -1,0 +1,25 @@
+Title: Rental 4789
+
+----
+
+Rental-id: 4789
+
+----
+
+Rental-date: 2005-07-08 16:22:01
+
+----
+
+Return-date: 2005-07-15 18:29:01
+
+----
+
+Inventory: page://0a1b228Q1Iq4k0wY
+
+----
+
+Uuid: pvkmfzCg3qDwBc59
+
+----
+
+Customer: page://j6w051LSx5dWYnKn

@@ -1,0 +1,33 @@
+Title: TAMMY SANDERS
+
+----
+
+Customer-id: 75
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: TAMMY
+
+----
+
+Last-name: SANDERS
+
+----
+
+Email: TAMMY.SANDERS@sakilacustomer.org
+
+----
+
+Address: page://3e6hTlAPmwpVvC6B
+
+----
+
+Active: 1
+
+----
+
+Uuid: x5SWKXQpXhzjUJdL

@@ -1,0 +1,25 @@
+Title: Rental 4308
+
+----
+
+Rental-id: 4308
+
+----
+
+Rental-date: 2005-07-07 17:29:16
+
+----
+
+Return-date: 2005-07-11 21:47:16
+
+----
+
+Inventory: page://WBFK2ZNmw95mpox3
+
+----
+
+Uuid: Fw74g0igRq9qNVrP
+
+----
+
+Customer: page://kgSm33zdyJ1gD7mK

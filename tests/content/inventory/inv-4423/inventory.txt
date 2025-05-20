@@ -1,0 +1,17 @@
+Title: Inv 4423
+
+----
+
+Inventory-id: 4423
+
+----
+
+Film: page://pbIEh5sLoxmlO4jK
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 02AZDrUyLLuzQoOr

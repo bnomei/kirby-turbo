@@ -1,0 +1,25 @@
+Title: Rental 15634
+
+----
+
+Rental-id: 15634
+
+----
+
+Rental-date: 2005-08-23 07:34:18
+
+----
+
+Return-date: 2005-08-24 12:00:18
+
+----
+
+Inventory: page://eG5uDfCRFp2pxj2g
+
+----
+
+Customer: page://XIaKK8hOYK8JJ3Lj
+
+----
+
+Uuid: DVNR4NpyqJmWtJiO

@@ -1,0 +1,25 @@
+Title: Rental 9250
+
+----
+
+Rental-id: 9250
+
+----
+
+Rental-date: 2005-07-30 14:18:16
+
+----
+
+Return-date: 2005-08-04 12:31:16
+
+----
+
+Inventory: page://taTAKH0IPBfWGXqt
+
+----
+
+Customer: page://QOClXserCz22nvYn
+
+----
+
+Uuid: yn342olhEUHFKdpH

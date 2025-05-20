@@ -1,0 +1,25 @@
+Title: Rental 14914
+
+----
+
+Rental-id: 14914
+
+----
+
+Rental-date: 2005-08-22 04:53:35
+
+----
+
+Return-date: 2005-08-26 10:35:35
+
+----
+
+Inventory: page://ID3kb7WPZWcz1ZYH
+
+----
+
+Customer: page://rcuufatqxgEb3aDf
+
+----
+
+Uuid: tghvysnDZ8FBkIpk

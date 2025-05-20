@@ -1,0 +1,25 @@
+Title: Rental 10223
+
+----
+
+Rental-id: 10223
+
+----
+
+Rental-date: 2005-08-01 01:23:15
+
+----
+
+Return-date: 2005-08-02 19:39:15
+
+----
+
+Inventory: page://rRRwUpoPzm1Go9ZU
+
+----
+
+Customer: page://azLzg4bnImGnXayq
+
+----
+
+Uuid: wCTN6TY79h2661jw

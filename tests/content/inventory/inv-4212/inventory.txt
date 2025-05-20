@@ -1,0 +1,17 @@
+Title: Inv 4212
+
+----
+
+Inventory-id: 4212
+
+----
+
+Film: page://ztRx1p49w42jzucX
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: DLhPMxCAPchTYUKp

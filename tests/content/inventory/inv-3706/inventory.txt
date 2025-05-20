@@ -1,0 +1,17 @@
+Title: Inv 3706
+
+----
+
+Inventory-id: 3706
+
+----
+
+Film: page://cxBX1iuD9IbXYvn0
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 8ihczbm9kd74l6FJ

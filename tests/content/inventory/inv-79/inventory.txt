@@ -1,0 +1,17 @@
+Title: Inv 79
+
+----
+
+Inventory-id: 79
+
+----
+
+Film: page://mdhbOqFgjCraCy5l
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: RoDQyBHg2PElTYDN

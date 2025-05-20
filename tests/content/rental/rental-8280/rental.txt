@@ -1,0 +1,25 @@
+Title: Rental 8280
+
+----
+
+Rental-id: 8280
+
+----
+
+Rental-date: 2005-07-29 01:45:51
+
+----
+
+Return-date: 2005-08-05 22:51:51
+
+----
+
+Inventory: page://lpkteNGbUrEXC1r7
+
+----
+
+Customer: page://KVKe37M7cjhEl7hH
+
+----
+
+Uuid: BOqrg2avM9CXVSHU

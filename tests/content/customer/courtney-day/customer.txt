@@ -1,0 +1,33 @@
+Title: COURTNEY DAY
+
+----
+
+Customer-id: 245
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: COURTNEY
+
+----
+
+Last-name: DAY
+
+----
+
+Email: COURTNEY.DAY@sakilacustomer.org
+
+----
+
+Address: page://ojGo3sGuXTkTWvLL
+
+----
+
+Active: 1
+
+----
+
+Uuid: pb7ZrH0vPEWpfLP3

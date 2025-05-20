@@ -1,0 +1,25 @@
+Title: Rental 1026
+
+----
+
+Rental-id: 1026
+
+----
+
+Rental-date: 2005-05-31 03:45:26
+
+----
+
+Return-date: 2005-06-06 22:30:26
+
+----
+
+Inventory: page://zgp4tGauE0EawK9x
+
+----
+
+Uuid: snwYUavrECzoL20Y
+
+----
+
+Customer: page://daiDyhYRb8z7fkl0

@@ -1,0 +1,17 @@
+Title: Inv 733
+
+----
+
+Inventory-id: 733
+
+----
+
+Film: page://PPtZE2Wn6tV3XJJA
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: rmPp7o2ACUQb6oT4

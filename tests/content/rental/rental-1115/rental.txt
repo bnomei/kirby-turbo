@@ -1,0 +1,25 @@
+Title: Rental 1115
+
+----
+
+Rental-id: 1115
+
+----
+
+Rental-date: 2005-05-31 16:07:09
+
+----
+
+Return-date: 2005-06-04 18:51:09
+
+----
+
+Inventory: page://0GQeeQ4vVchPqhPw
+
+----
+
+Uuid: W9CeLQuyukK3XupE
+
+----
+
+Customer: page://n40fLAJ9fSQtqJlL

@@ -1,0 +1,25 @@
+Title: Rental 1590
+
+----
+
+Rental-id: 1590
+
+----
+
+Rental-date: 2005-06-16 05:11:41
+
+----
+
+Return-date: 2005-06-23 10:11:41
+
+----
+
+Inventory: page://bbpH4pbZbs2URxER
+
+----
+
+Uuid: X7PAqHvuiXW8V7VE
+
+----
+
+Customer: page://raqSilMta8sVjmOt

@@ -1,0 +1,17 @@
+Title: Inv 2938
+
+----
+
+Inventory-id: 2938
+
+----
+
+Film: page://GQ2XElfoSILD5DVR
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: l11hFDgJfGVaySzr

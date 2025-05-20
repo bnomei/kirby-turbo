@@ -1,0 +1,25 @@
+Title: Rental 9539
+
+----
+
+Rental-id: 9539
+
+----
+
+Rental-date: 2005-07-31 01:36:19
+
+----
+
+Return-date: 2005-08-04 23:47:19
+
+----
+
+Inventory: page://PB6J28sI77jS6kvI
+
+----
+
+Customer: page://bsdF0qup1RBkJReP
+
+----
+
+Uuid: umkFff6fIKn6iEu8

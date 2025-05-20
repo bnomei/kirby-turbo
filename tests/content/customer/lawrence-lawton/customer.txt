@@ -1,0 +1,33 @@
+Title: LAWRENCE LAWTON
+
+----
+
+Customer-id: 361
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: LAWRENCE
+
+----
+
+Last-name: LAWTON
+
+----
+
+Email: LAWRENCE.LAWTON@sakilacustomer.org
+
+----
+
+Address: page://GVtNOocUt8em9CNz
+
+----
+
+Active: 1
+
+----
+
+Uuid: LGMzuvWnmjAofA2U

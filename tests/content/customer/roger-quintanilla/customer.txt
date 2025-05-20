@@ -1,0 +1,33 @@
+Title: ROGER QUINTANILLA
+
+----
+
+Customer-id: 348
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ROGER
+
+----
+
+Last-name: QUINTANILLA
+
+----
+
+Email: ROGER.QUINTANILLA@sakilacustomer.org
+
+----
+
+Address: page://PfdCTE4ElNXQTVJe
+
+----
+
+Active: 1
+
+----
+
+Uuid: K253MbSwnklxbl62

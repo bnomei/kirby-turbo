@@ -1,0 +1,17 @@
+Title: Inv 4141
+
+----
+
+Inventory-id: 4141
+
+----
+
+Film: page://8KAig5NTOPeD4UOv
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: e6aeIzdNKWaZygdb

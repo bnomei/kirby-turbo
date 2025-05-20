@@ -1,0 +1,25 @@
+Title: Rental 2092
+
+----
+
+Rental-id: 2092
+
+----
+
+Rental-date: 2005-06-17 18:12:16
+
+----
+
+Return-date: 2005-06-25 15:06:16
+
+----
+
+Inventory: page://3aKwOITSPo5yg1BC
+
+----
+
+Uuid: DQr9yR2uqmIA7Aw4
+
+----
+
+Customer: page://jvfTUTQTIh7rD2Pp

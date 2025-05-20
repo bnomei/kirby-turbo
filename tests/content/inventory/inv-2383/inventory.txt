@@ -1,0 +1,17 @@
+Title: Inv 2383
+
+----
+
+Inventory-id: 2383
+
+----
+
+Film: page://y58493kcSc1kyAJv
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: dc21ZxxUtPNIiBmK

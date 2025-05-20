@@ -1,0 +1,25 @@
+Title: Rental 3627
+
+----
+
+Rental-id: 3627
+
+----
+
+Rental-date: 2005-07-06 06:19:25
+
+----
+
+Return-date: 2005-07-11 05:53:25
+
+----
+
+Inventory: page://p6lKNzs5pQyJTnkG
+
+----
+
+Uuid: W83t2eZWcrS2qFxD
+
+----
+
+Customer: page://oJcvcv4yGdx8WGkJ

@@ -1,0 +1,25 @@
+Title: Rental 14911
+
+----
+
+Rental-id: 14911
+
+----
+
+Rental-date: 2005-08-22 04:51:42
+
+----
+
+Return-date: 2005-08-28 05:37:42
+
+----
+
+Inventory: page://98QhjJ2lZ7hPTzPz
+
+----
+
+Customer: page://B4FRgaimwSexVazW
+
+----
+
+Uuid: 0eXd3GXBbVEmAMrM

@@ -1,0 +1,33 @@
+Title: MARIO CHEATHAM
+
+----
+
+Customer-id: 441
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MARIO
+
+----
+
+Last-name: CHEATHAM
+
+----
+
+Email: MARIO.CHEATHAM@sakilacustomer.org
+
+----
+
+Address: page://3VmMGwXufTSSYTSS
+
+----
+
+Active: 1
+
+----
+
+Uuid: kLc3AfN8siSKFtqK

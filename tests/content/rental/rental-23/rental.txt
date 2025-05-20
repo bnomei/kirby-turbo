@@ -1,0 +1,25 @@
+Title: Rental 23
+
+----
+
+Rental-id: 23
+
+----
+
+Rental-date: 2005-05-25 02:40:21
+
+----
+
+Return-date: 2005-05-29 06:34:21
+
+----
+
+Inventory: page://eyQGPLEpsQEC6EVM
+
+----
+
+Uuid: mcc0NbKne7fp87mr
+
+----
+
+Customer: page://GsCMla3dLxvFaycH

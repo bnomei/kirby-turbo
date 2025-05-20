@@ -1,0 +1,17 @@
+Title: Inv 3788
+
+----
+
+Inventory-id: 3788
+
+----
+
+Film: page://ZMhLCoZXlzYKInCX
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: YDbEAB1PMDNLcsS4

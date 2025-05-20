@@ -1,0 +1,46 @@
+Title: SMILE EARRING
+
+----
+
+Actors:
+
+- 'page://8goemlF34STteVIR'
+- 'page://S52CrIK06oYgWrwP'
+- 'page://Tc5O2MboD06L5UFn'
+- 'page://NmIbTpy4ZSHrHfnI'
+- 'page://WmeC1S3wVV4gdFE4'
+- 'page://3BcvBP3gfacEDPsU'
+- 'page://NRH2DcjJcFwzgjEd'
+- 'page://jSbKN9X4MDWI1G5U'
+
+----
+
+Film-id: 811
+
+----
+
+Description: A Intrepid Drama of a Teacher And a Butler who must Build a Pastry Chef in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 60
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: tvSliGimEL8LW1bu
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

@@ -1,0 +1,25 @@
+Title: Rental 6144
+
+----
+
+Rental-id: 6144
+
+----
+
+Rental-date: 2005-07-11 09:02:53
+
+----
+
+Return-date: 2005-07-15 10:58:53
+
+----
+
+Inventory: page://jH6hlQHx8PPrpr6b
+
+----
+
+Uuid: kzeFQ9PMIwGIRAVF
+
+----
+
+Customer: page://C4htS1tLHzkKyE5J

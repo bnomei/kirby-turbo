@@ -1,0 +1,33 @@
+Title: ASHLEY RICHARDSON
+
+----
+
+Customer-id: 63
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ASHLEY
+
+----
+
+Last-name: RICHARDSON
+
+----
+
+Email: ASHLEY.RICHARDSON@sakilacustomer.org
+
+----
+
+Address: page://NvYbwni31aIMynkp
+
+----
+
+Active: 1
+
+----
+
+Uuid: 5GdJTUPwNNhtUdMn

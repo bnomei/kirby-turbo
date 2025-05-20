@@ -1,0 +1,33 @@
+Title: CASSANDRA WALTERS
+
+----
+
+Customer-id: 269
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CASSANDRA
+
+----
+
+Last-name: WALTERS
+
+----
+
+Email: CASSANDRA.WALTERS@sakilacustomer.org
+
+----
+
+Address: page://Wn68TeBvkKUpAz9O
+
+----
+
+Active: 1
+
+----
+
+Uuid: Cko87GK3ShDjUK4Q

@@ -1,0 +1,25 @@
+Title: Rental 9074
+
+----
+
+Rental-id: 9074
+
+----
+
+Rental-date: 2005-07-30 07:50:10
+
+----
+
+Return-date: 2005-08-01 11:21:10
+
+----
+
+Inventory: page://aqrE1FyEqnZaYr0P
+
+----
+
+Customer: page://cwgSUWzYLMDqVZzh
+
+----
+
+Uuid: 0897ezvsTJT87iuo

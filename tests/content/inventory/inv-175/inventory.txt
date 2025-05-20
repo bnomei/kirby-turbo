@@ -1,0 +1,17 @@
+Title: Inv 175
+
+----
+
+Inventory-id: 175
+
+----
+
+Film: page://edmnyIXRwbWbqYt0
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: CGCidOQ4r8v2p4cP

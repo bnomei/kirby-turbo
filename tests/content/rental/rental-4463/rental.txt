@@ -1,0 +1,25 @@
+Title: Rental 4463
+
+----
+
+Rental-id: 4463
+
+----
+
+Rental-date: 2005-07-08 00:04:59
+
+----
+
+Return-date: 2005-07-16 01:19:59
+
+----
+
+Inventory: page://4HnM2f8LHCzmG7Ww
+
+----
+
+Uuid: DPP8836YuymUPLsZ
+
+----
+
+Customer: page://B6FDvvDBHRaKmtPn

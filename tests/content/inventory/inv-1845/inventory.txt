@@ -1,0 +1,17 @@
+Title: Inv 1845
+
+----
+
+Inventory-id: 1845
+
+----
+
+Film: page://380e5JVPUj70wMoB
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Ozqyk5cK5CXq0JLg

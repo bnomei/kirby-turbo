@@ -1,0 +1,25 @@
+Title: Rental 2463
+
+----
+
+Rental-id: 2463
+
+----
+
+Rental-date: 2005-06-18 20:01:43
+
+----
+
+Return-date: 2005-06-25 15:04:43
+
+----
+
+Inventory: page://nWW6XOG3qq94BnOR
+
+----
+
+Uuid: bo7HOoHIYkfjXByd
+
+----
+
+Customer: page://3WUOY4VXzpqWI6NO

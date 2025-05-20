@@ -1,0 +1,25 @@
+Title: Rental 8303
+
+----
+
+Rental-id: 8303
+
+----
+
+Rental-date: 2005-07-29 03:05:56
+
+----
+
+Return-date: 2005-08-04 06:13:56
+
+----
+
+Inventory: page://wR714T52L2OCBPWH
+
+----
+
+Customer: page://ezKQFYnXPCOgLSXF
+
+----
+
+Uuid: VwSFXR0Kcfp6hGA2

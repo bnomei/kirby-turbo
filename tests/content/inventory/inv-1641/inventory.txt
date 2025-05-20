@@ -1,0 +1,17 @@
+Title: Inv 1641
+
+----
+
+Inventory-id: 1641
+
+----
+
+Film: page://w9l9UyxtC5FkGl4s
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: sqsBqKo4THEg2bkU

@@ -1,0 +1,25 @@
+Title: Rental 933
+
+----
+
+Rental-id: 933
+
+----
+
+Rental-date: 2005-05-30 13:08:45
+
+----
+
+Return-date: 2005-06-01 18:56:45
+
+----
+
+Inventory: page://yBtIkwMp2eexrfim
+
+----
+
+Uuid: 3cgW3pyXW7Nf4aZK
+
+----
+
+Customer: page://rtPPzvWhh7zAFt5a

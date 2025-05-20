@@ -1,0 +1,17 @@
+Title: Inv 2388
+
+----
+
+Inventory-id: 2388
+
+----
+
+Film: page://OWB0rIhbbXIitcLz
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 5Cy87ffHmh8vY35Q

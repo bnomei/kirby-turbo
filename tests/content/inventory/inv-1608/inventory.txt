@@ -1,0 +1,17 @@
+Title: Inv 1608
+
+----
+
+Inventory-id: 1608
+
+----
+
+Film: page://mtoWYsIKavCxrGqP
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: kJKmnTUeHvEhvan1

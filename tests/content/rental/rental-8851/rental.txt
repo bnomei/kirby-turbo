@@ -1,0 +1,25 @@
+Title: Rental 8851
+
+----
+
+Rental-id: 8851
+
+----
+
+Rental-date: 2005-07-29 23:26:19
+
+----
+
+Return-date: 2005-08-05 03:59:19
+
+----
+
+Inventory: page://qUSsvoi6WJLwPgrj
+
+----
+
+Customer: page://vuC49kOilMI2crhA
+
+----
+
+Uuid: UGCDpbtXStlEEbLk

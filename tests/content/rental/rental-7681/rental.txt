@@ -1,0 +1,25 @@
+Title: Rental 7681
+
+----
+
+Rental-id: 7681
+
+----
+
+Rental-date: 2005-07-28 03:07:09
+
+----
+
+Return-date: 2005-07-29 08:30:09
+
+----
+
+Inventory: page://yPIY82ki6JaaMqCx
+
+----
+
+Customer: page://UUq0CNtGhFxoj9KF
+
+----
+
+Uuid: FaOv1vXbQ9YdBsz0

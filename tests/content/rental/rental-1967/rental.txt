@@ -1,0 +1,25 @@
+Title: Rental 1967
+
+----
+
+Rental-id: 1967
+
+----
+
+Rental-date: 2005-06-17 09:19:52
+
+----
+
+Return-date: 2005-06-21 03:35:52
+
+----
+
+Inventory: page://u0BcW87fbivLpkDu
+
+----
+
+Uuid: g9lvRjyrykJuEI5V
+
+----
+
+Customer: page://t04yCyxM4vXd29Pl

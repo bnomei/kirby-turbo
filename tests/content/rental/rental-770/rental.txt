@@ -1,0 +1,25 @@
+Title: Rental 770
+
+----
+
+Rental-id: 770
+
+----
+
+Rental-date: 2005-05-29 12:56:50
+
+----
+
+Return-date: 2005-06-07 15:54:50
+
+----
+
+Inventory: page://QFVHal69YvhCmwRp
+
+----
+
+Uuid: FJX2oxnqmS6yJVZq
+
+----
+
+Customer: page://E8B6f5Jketu7tOjl

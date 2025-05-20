@@ -1,0 +1,25 @@
+Title: Rental 6600
+
+----
+
+Rental-id: 6600
+
+----
+
+Rental-date: 2005-07-12 07:41:48
+
+----
+
+Return-date: 2005-07-18 12:36:48
+
+----
+
+Inventory: page://XBeDGkLUV33joVIT
+
+----
+
+Uuid: C4H1Hxrzex2F9vJT
+
+----
+
+Customer: page://3MkHP5Qqv8Lg3Njc

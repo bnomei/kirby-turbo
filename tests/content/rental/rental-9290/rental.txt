@@ -1,0 +1,25 @@
+Title: Rental 9290
+
+----
+
+Rental-id: 9290
+
+----
+
+Rental-date: 2005-07-30 15:59:08
+
+----
+
+Return-date: 2005-08-06 21:49:08
+
+----
+
+Inventory: page://cuDNcQO9Ar4TSVBc
+
+----
+
+Customer: page://dCSTJjEmIHM7hQ5W
+
+----
+
+Uuid: 6hjg6j6HOZ15Ipri

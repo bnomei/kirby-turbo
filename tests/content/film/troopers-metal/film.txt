@@ -1,0 +1,43 @@
+Title: TROOPERS METAL
+
+----
+
+Actors:
+
+- 'page://EHffowmlWDEyJ7Ij'
+- 'page://eJszhRe2rjIvWjny'
+- 'page://LYJoMM1yt0Pr5l4j'
+- 'page://3BcvBP3gfacEDPsU'
+- 'page://CI649GdI5JvIKbQ1'
+
+----
+
+Film-id: 913
+
+----
+
+Description: A Fanciful Drama of a Monkey And a Feminist who must Sink a Man in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 115
+
+----
+
+Rating: R
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: xfZxnJ2rP9EOtzuD
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

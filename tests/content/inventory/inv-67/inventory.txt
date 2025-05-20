@@ -1,0 +1,17 @@
+Title: Inv 67
+
+----
+
+Inventory-id: 67
+
+----
+
+Film: page://84UY3su6FLIEYugg
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: HUlImk1kpv8jRmMw

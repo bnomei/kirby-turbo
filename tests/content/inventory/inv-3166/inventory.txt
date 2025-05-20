@@ -1,0 +1,17 @@
+Title: Inv 3166
+
+----
+
+Inventory-id: 3166
+
+----
+
+Film: page://Pvon2oRGK7j52UtZ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: UessGBQElNHBFIs6

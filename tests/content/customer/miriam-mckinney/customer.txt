@@ -1,0 +1,33 @@
+Title: MIRIAM MCKINNEY
+
+----
+
+Customer-id: 285
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MIRIAM
+
+----
+
+Last-name: MCKINNEY
+
+----
+
+Email: MIRIAM.MCKINNEY@sakilacustomer.org
+
+----
+
+Address: page://73Tq7PoXG2XQVDAW
+
+----
+
+Active: 1
+
+----
+
+Uuid: lur9c4IA9ICHuaKZ

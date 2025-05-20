@@ -1,0 +1,17 @@
+Title: Inv 2124
+
+----
+
+Inventory-id: 2124
+
+----
+
+Film: page://sqaAugYeepB4yDWG
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 0xRHKiM91a2awNrP

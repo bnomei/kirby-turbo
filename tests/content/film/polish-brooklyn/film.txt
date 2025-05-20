@@ -1,0 +1,48 @@
+Title: POLISH BROOKLYN
+
+----
+
+Actors:
+
+- 'page://q71V781JfgIPJGVL'
+- 'page://RdNo3TYVhV9JmDu6'
+- 'page://I2QUzWEQkTiY7Ba5'
+- 'page://jG0aUFRzU1eFlO8R'
+- 'page://ixmDbcb5VXh1c8bc'
+- 'page://Gz114ojbruPqLOSY'
+- 'page://qCm78VMzP14zbmIL'
+- 'page://pW1gtWYG8hgYIJM4'
+- 'page://humVtsLQfFTV2gvC'
+- 'page://j4GwVyPWyXE95Bdj'
+
+----
+
+Film-id: 688
+
+----
+
+Description: A Boring Character Study of a Database Administrator And a Lumberjack who must Reach a Madman in The Outback
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 61
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: CD9fFwCtutbqOSyK
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

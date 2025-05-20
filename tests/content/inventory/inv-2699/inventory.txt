@@ -1,0 +1,17 @@
+Title: Inv 2699
+
+----
+
+Inventory-id: 2699
+
+----
+
+Film: page://wYQDxxZ9z7n1xG4t
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 6YiDzOGwK6VXZAoO

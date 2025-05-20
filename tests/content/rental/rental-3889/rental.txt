@@ -1,0 +1,25 @@
+Title: Rental 3889
+
+----
+
+Rental-id: 3889
+
+----
+
+Rental-date: 2005-07-06 18:56:25
+
+----
+
+Return-date: 2005-07-08 21:22:25
+
+----
+
+Inventory: page://Pe1JqfPUBdCDMte9
+
+----
+
+Uuid: KW6M6Bmelha5mSmL
+
+----
+
+Customer: page://XIaKK8hOYK8JJ3Lj

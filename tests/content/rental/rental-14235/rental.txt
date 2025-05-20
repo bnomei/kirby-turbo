@@ -1,0 +1,25 @@
+Title: Rental 14235
+
+----
+
+Rental-id: 14235
+
+----
+
+Rental-date: 2005-08-21 05:08:42
+
+----
+
+Return-date: 2005-08-29 23:36:42
+
+----
+
+Inventory: page://TL15s66hr1XATG2S
+
+----
+
+Customer: page://t04yCyxM4vXd29Pl
+
+----
+
+Uuid: ola94Dapfr3OZ7Di

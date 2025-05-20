@@ -1,0 +1,17 @@
+Title: Inv 1645
+
+----
+
+Inventory-id: 1645
+
+----
+
+Film: page://w9l9UyxtC5FkGl4s
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: M9EKuzC2Ci4QNGCR

@@ -1,0 +1,44 @@
+Title: SPEED SUIT
+
+----
+
+Actors:
+
+- 'page://qGB9wRd16f9YwbHn'
+- 'page://RW4ixiF3bbh7oXkH'
+- 'page://MG1O0zMGGcgzh2YX'
+- 'page://RHCn9jMuVT1ewFhv'
+- 'page://X4t5CWB88ooC26Na'
+- 'page://18rsmrxh7jfYQ50K'
+
+----
+
+Film-id: 826
+
+----
+
+Description: A Brilliant Display of a Frisbee And a Mad Scientist who must Succumb a Robot in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 124
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: l5UeCZIctfOr49V9
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

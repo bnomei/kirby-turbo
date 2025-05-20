@@ -1,0 +1,25 @@
+Title: Rental 12309
+
+----
+
+Rental-id: 12309
+
+----
+
+Rental-date: 2005-08-18 05:58:40
+
+----
+
+Return-date: 2005-08-20 02:20:40
+
+----
+
+Inventory: page://XHbIg44YeaBLVXit
+
+----
+
+Customer: page://woNj5GQ9VpxY7M5X
+
+----
+
+Uuid: wsD8QjCdWJY2iA0l

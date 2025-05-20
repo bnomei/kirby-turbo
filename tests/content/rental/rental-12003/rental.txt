@@ -1,0 +1,25 @@
+Title: Rental 12003
+
+----
+
+Rental-id: 12003
+
+----
+
+Rental-date: 2005-08-17 18:56:05
+
+----
+
+Return-date: 2005-08-18 23:52:05
+
+----
+
+Inventory: page://NREuwxk5UMQtnHa2
+
+----
+
+Customer: page://OgdGkik1rnAhaDTs
+
+----
+
+Uuid: cUgJEqjao3FioVah

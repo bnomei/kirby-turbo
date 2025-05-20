@@ -1,0 +1,17 @@
+Title: Inv 3500
+
+----
+
+Inventory-id: 3500
+
+----
+
+Film: page://i09ZUgQcDRxEVuGe
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: NaTNnxoUgyl3CLzM

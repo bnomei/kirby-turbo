@@ -1,0 +1,25 @@
+Title: Rental 8240
+
+----
+
+Rental-id: 8240
+
+----
+
+Rental-date: 2005-07-29 00:33:32
+
+----
+
+Return-date: 2005-08-05 21:25:32
+
+----
+
+Inventory: page://91OY8OwCO8gL6QHW
+
+----
+
+Customer: page://44KWZQ5iv6BSDhBb
+
+----
+
+Uuid: FJNAX1DGD2g9d6OP

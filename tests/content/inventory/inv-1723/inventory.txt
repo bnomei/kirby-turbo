@@ -1,0 +1,17 @@
+Title: Inv 1723
+
+----
+
+Inventory-id: 1723
+
+----
+
+Film: page://aIzeDPhb5b1oNOHo
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ubxSFPQBzcBIdqrg

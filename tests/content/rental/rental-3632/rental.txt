@@ -1,0 +1,25 @@
+Title: Rental 3632
+
+----
+
+Rental-id: 3632
+
+----
+
+Rental-date: 2005-07-06 06:38:21
+
+----
+
+Return-date: 2005-07-11 03:19:21
+
+----
+
+Inventory: page://ktFurnfzTWFwbWoH
+
+----
+
+Uuid: RHl1L2b52C44xWHA
+
+----
+
+Customer: page://YQtY5BLLYVMlkjV2

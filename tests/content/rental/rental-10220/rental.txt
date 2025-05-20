@@ -1,0 +1,25 @@
+Title: Rental 10220
+
+----
+
+Rental-id: 10220
+
+----
+
+Rental-date: 2005-08-01 01:13:22
+
+----
+
+Return-date: 2005-08-04 22:57:22
+
+----
+
+Inventory: page://0IF9ZWSk32wgdP9d
+
+----
+
+Customer: page://lFmyRUfgnuMLYrme
+
+----
+
+Uuid: j8rq61wXkzmFOf4e

@@ -1,0 +1,17 @@
+Title: Inv 4034
+
+----
+
+Inventory-id: 4034
+
+----
+
+Film: page://WWQiq1zskB51o9F3
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: zVGRIO4nGHteIQJK

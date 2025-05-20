@@ -1,0 +1,25 @@
+Title: Rental 14399
+
+----
+
+Rental-id: 14399
+
+----
+
+Rental-date: 2005-08-21 10:33:23
+
+----
+
+Return-date: 2005-08-27 08:00:23
+
+----
+
+Inventory: page://OgRBxxvbtQ5qtBJI
+
+----
+
+Customer: page://6zbsFStjd2wpvc1C
+
+----
+
+Uuid: dIzDmXWxxIPUcfl3

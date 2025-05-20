@@ -1,0 +1,33 @@
+Title: JUDITH COX
+
+----
+
+Customer-id: 64
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JUDITH
+
+----
+
+Last-name: COX
+
+----
+
+Email: JUDITH.COX@sakilacustomer.org
+
+----
+
+Address: page://T8TtBaRPpxyCl6Gt
+
+----
+
+Active: 0
+
+----
+
+Uuid: 3MFUDX6nFKFz0caB

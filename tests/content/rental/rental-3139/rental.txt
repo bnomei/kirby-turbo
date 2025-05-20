@@ -1,0 +1,25 @@
+Title: Rental 3139
+
+----
+
+Rental-id: 3139
+
+----
+
+Rental-date: 2005-06-20 19:44:45
+
+----
+
+Return-date: 2005-06-23 16:24:45
+
+----
+
+Inventory: page://sWC8SoSWHiZPGyM4
+
+----
+
+Uuid: wCtHxT0VGZY8e8sy
+
+----
+
+Customer: page://hZOnCp7oVBUSijBw

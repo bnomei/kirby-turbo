@@ -1,0 +1,17 @@
+Title: Inv 4246
+
+----
+
+Inventory-id: 4246
+
+----
+
+Film: page://KHonmO1J3UR4gxFR
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: IiNXcZtv0UAvak7c

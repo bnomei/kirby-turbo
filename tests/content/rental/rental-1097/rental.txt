@@ -1,0 +1,25 @@
+Title: Rental 1097
+
+----
+
+Rental-id: 1097
+
+----
+
+Rental-date: 2005-05-31 13:38:42
+
+----
+
+Return-date: 2005-06-01 13:54:42
+
+----
+
+Inventory: page://h60m3tMuGEOhHpma
+
+----
+
+Uuid: ulzH5KxouXSFtFSR
+
+----
+
+Customer: page://kAtIvC3GuVrHNW6C

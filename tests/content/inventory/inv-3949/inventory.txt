@@ -1,0 +1,17 @@
+Title: Inv 3949
+
+----
+
+Inventory-id: 3949
+
+----
+
+Film: page://nhD9EWKAgQt71xtX
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 68U5M7ftFPoeBfkz

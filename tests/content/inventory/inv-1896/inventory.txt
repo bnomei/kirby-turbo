@@ -1,0 +1,17 @@
+Title: Inv 1896
+
+----
+
+Inventory-id: 1896
+
+----
+
+Film: page://k188edW72m4nSif8
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: tVcJyAjPP0XlcaNp

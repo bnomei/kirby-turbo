@@ -1,0 +1,25 @@
+Title: Rental 11423
+
+----
+
+Rental-id: 11423
+
+----
+
+Rental-date: 2005-08-02 19:57:13
+
+----
+
+Return-date: 2005-08-06 00:54:13
+
+----
+
+Inventory: page://U65xxNSYElRzfGz2
+
+----
+
+Customer: page://rmOh3yVOFYLI9fTa
+
+----
+
+Uuid: d7duTqStjFXAFkdU

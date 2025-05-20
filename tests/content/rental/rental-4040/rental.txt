@@ -1,0 +1,25 @@
+Title: Rental 4040
+
+----
+
+Rental-id: 4040
+
+----
+
+Rental-date: 2005-07-07 03:02:40
+
+----
+
+Return-date: 2005-07-16 06:05:40
+
+----
+
+Inventory: page://nvLzJAl9fijBZha2
+
+----
+
+Uuid: IRnu0htvNsYYPRW1
+
+----
+
+Customer: page://hqAf8WYPlK0t8DAi

@@ -1,0 +1,25 @@
+Title: Rental 544
+
+----
+
+Rental-id: 544
+
+----
+
+Rental-date: 2005-05-28 07:03:00
+
+----
+
+Return-date: 2005-06-06 06:23:00
+
+----
+
+Inventory: page://I73ws6wnd2aTsfhI
+
+----
+
+Uuid: h1u3I9jkVQlCKdlZ
+
+----
+
+Customer: page://W7ZJXAG7NuFuJZ2S

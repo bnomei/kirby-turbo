@@ -1,0 +1,17 @@
+Title: Inv 357
+
+----
+
+Inventory-id: 357
+
+----
+
+Film: page://iy0a104HjhjHKgsH
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 1vx1t07N7mFSJmoO

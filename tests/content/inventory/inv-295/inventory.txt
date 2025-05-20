@@ -1,0 +1,17 @@
+Title: Inv 295
+
+----
+
+Inventory-id: 295
+
+----
+
+Film: page://Dfv0e5Nc8Xyf5wF3
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 5Z81yfheFS8izic9

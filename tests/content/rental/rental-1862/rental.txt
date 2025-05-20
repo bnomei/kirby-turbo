@@ -1,0 +1,25 @@
+Title: Rental 1862
+
+----
+
+Rental-id: 1862
+
+----
+
+Rental-date: 2005-06-17 01:29:30
+
+----
+
+Return-date: 2005-06-25 20:43:30
+
+----
+
+Inventory: page://pjvl4sYYqwrJ7QZZ
+
+----
+
+Uuid: qdE1Mbu7QG4kaeXi
+
+----
+
+Customer: page://3ZP9ENxbl27URSN0

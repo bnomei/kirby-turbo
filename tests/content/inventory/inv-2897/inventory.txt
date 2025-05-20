@@ -1,0 +1,17 @@
+Title: Inv 2897
+
+----
+
+Inventory-id: 2897
+
+----
+
+Film: page://QMj9i6eM6ibT2XEU
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: dUeNqRFeKaJIf8ua

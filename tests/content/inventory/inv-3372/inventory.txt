@@ -1,0 +1,17 @@
+Title: Inv 3372
+
+----
+
+Inventory-id: 3372
+
+----
+
+Film: page://2pmbZu2tomx861FS
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Pp0CigUPxCJPWX3z

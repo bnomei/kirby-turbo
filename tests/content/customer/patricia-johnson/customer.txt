@@ -1,0 +1,33 @@
+Title: PATRICIA JOHNSON
+
+----
+
+Customer-id: 2
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: PATRICIA
+
+----
+
+Last-name: JOHNSON
+
+----
+
+Email: PATRICIA.JOHNSON@sakilacustomer.org
+
+----
+
+Address: page://zHmiom89t70zQFid
+
+----
+
+Active: 1
+
+----
+
+Uuid: FiEjPjAVk9G7zTXB

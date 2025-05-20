@@ -1,0 +1,25 @@
+Title: Rental 1012
+
+----
+
+Rental-id: 1012
+
+----
+
+Rental-date: 2005-05-31 02:18:05
+
+----
+
+Return-date: 2005-06-03 06:47:05
+
+----
+
+Inventory: page://j6RuOxSD8fD4hwyi
+
+----
+
+Uuid: OTlOdOsGZzTdN9zL
+
+----
+
+Customer: page://nUS9IDqP0XmLpG9F

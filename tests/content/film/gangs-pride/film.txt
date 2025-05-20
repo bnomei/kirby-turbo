@@ -1,0 +1,42 @@
+Title: GANGS PRIDE
+
+----
+
+Actors:
+
+- 'page://RdNo3TYVhV9JmDu6'
+- 'page://8uCKHWVFS7qGgYjl'
+- 'page://qXajFtQVbGpQUZAN'
+- 'page://xXgVj4FQPZ59wjBk'
+
+----
+
+Film-id: 349
+
+----
+
+Description: A Taut Character Study of a Woman And a A Shark who must Confront a Frisbee in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 185
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: XD5QBWqpn1v751Tc
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

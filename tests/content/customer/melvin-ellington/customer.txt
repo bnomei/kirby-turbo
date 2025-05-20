@@ -1,0 +1,33 @@
+Title: MELVIN ELLINGTON
+
+----
+
+Customer-id: 422
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MELVIN
+
+----
+
+Last-name: ELLINGTON
+
+----
+
+Email: MELVIN.ELLINGTON@sakilacustomer.org
+
+----
+
+Address: page://PqrCh1JSKaiWuZ1y
+
+----
+
+Active: 1
+
+----
+
+Uuid: B6FDvvDBHRaKmtPn

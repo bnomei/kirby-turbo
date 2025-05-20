@@ -1,0 +1,17 @@
+Title: Inv 2210
+
+----
+
+Inventory-id: 2210
+
+----
+
+Film: page://XJgXi5E9LrtZkysy
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 9nsCDvRY7cyfNxIW

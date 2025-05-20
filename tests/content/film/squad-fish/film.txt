@@ -1,0 +1,43 @@
+Title: SQUAD FISH
+
+----
+
+Actors:
+
+- 'page://MKZPC2AFXFjwPRw8'
+- 'page://y29OJNxDr3yTLShi'
+- 'page://I440rKCeu4AX6xcF'
+- 'page://FSTBtYrNkVQnDKPa'
+- 'page://nNLtL91vUU653tYz'
+
+----
+
+Film-id: 836
+
+----
+
+Description: A Fast-Paced Display of a Pastry Chef And a Dog who must Kill a Teacher in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 136
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: kdQnfgZoojMubXvE
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

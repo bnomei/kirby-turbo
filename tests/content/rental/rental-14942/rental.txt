@@ -1,0 +1,25 @@
+Title: Rental 14942
+
+----
+
+Rental-id: 14942
+
+----
+
+Rental-date: 2005-08-22 05:58:27
+
+----
+
+Return-date: 2005-08-31 10:08:27
+
+----
+
+Inventory: page://TUj2idUesJwILUYa
+
+----
+
+Customer: page://14NHpOTSxGxpMsWX
+
+----
+
+Uuid: MlxJSbh14q7msmHR

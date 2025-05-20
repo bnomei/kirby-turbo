@@ -1,0 +1,33 @@
+Title: BRAD MCCURDY
+
+----
+
+Customer-id: 517
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: BRAD
+
+----
+
+Last-name: MCCURDY
+
+----
+
+Email: BRAD.MCCURDY@sakilacustomer.org
+
+----
+
+Address: page://Ac02dfluoWTEdUPT
+
+----
+
+Active: 1
+
+----
+
+Uuid: gLPYzE6xdxqOoEJZ

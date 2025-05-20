@@ -1,0 +1,25 @@
+Title: Rental 4423
+
+----
+
+Rental-id: 4423
+
+----
+
+Rental-date: 2005-07-07 22:11:28
+
+----
+
+Return-date: 2005-07-14 18:49:28
+
+----
+
+Inventory: page://5aRi0NxYMmtdq1mW
+
+----
+
+Uuid: bOJnSUmRB2gNeerS
+
+----
+
+Customer: page://yQcQ1eHjHG2TC2t0

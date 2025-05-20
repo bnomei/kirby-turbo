@@ -1,0 +1,25 @@
+Title: Rental 12944
+
+----
+
+Rental-id: 12944
+
+----
+
+Rental-date: 2005-08-19 05:48:12
+
+----
+
+Return-date: 2005-08-28 10:10:12
+
+----
+
+Inventory: page://3BjGHeHiHiUd5omv
+
+----
+
+Customer: page://bp3076yXkpG6TsZ7
+
+----
+
+Uuid: gmaXWII12FrWvyrJ

@@ -1,0 +1,33 @@
+Title: IAN STILL
+
+----
+
+Customer-id: 561
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: IAN
+
+----
+
+Last-name: STILL
+
+----
+
+Email: IAN.STILL@sakilacustomer.org
+
+----
+
+Address: page://O2GpNpv7nb21Vhb7
+
+----
+
+Active: 1
+
+----
+
+Uuid: xiuePi4NIEUJXUwz

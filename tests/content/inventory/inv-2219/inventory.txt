@@ -1,0 +1,17 @@
+Title: Inv 2219
+
+----
+
+Inventory-id: 2219
+
+----
+
+Film: page://Ljus0Xkx35n95maY
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 6xY5KomRt0tpHWxf

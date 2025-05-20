@@ -1,0 +1,25 @@
+Title: Rental 9189
+
+----
+
+Rental-id: 9189
+
+----
+
+Rental-date: 2005-07-30 12:20:59
+
+----
+
+Return-date: 2005-08-06 16:15:59
+
+----
+
+Inventory: page://g40rIar1alyvXM03
+
+----
+
+Customer: page://HENTXL1iEV8LJg7f
+
+----
+
+Uuid: 4IWGGNZ4pMtjvR7p

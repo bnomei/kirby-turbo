@@ -1,0 +1,17 @@
+Title: Inv 3353
+
+----
+
+Inventory-id: 3353
+
+----
+
+Film: page://l1jBah5NwzVkM4Or
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: qAB3h1EBRoXevW4E

@@ -1,0 +1,42 @@
+Title: CLERKS ANGELS
+
+----
+
+Actors:
+
+- 'page://pokjngmFMjrhDsLQ'
+- 'page://VQ2tezOinyzNJNH4'
+- 'page://KV54RGx9NMbLtwi4'
+- 'page://IUEdThBjLk8TNUwy'
+
+----
+
+Film-id: 156
+
+----
+
+Description: A Thrilling Display of a Sumo Wrestler And a Girl who must Confront a Man in A Baloon
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 164
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries
+
+----
+
+Uuid: xlC7cPZUjKnPMPdg
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

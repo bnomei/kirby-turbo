@@ -1,0 +1,25 @@
+Title: Rental 9738
+
+----
+
+Rental-id: 9738
+
+----
+
+Rental-date: 2005-07-31 09:04:14
+
+----
+
+Return-date: 2005-08-05 14:40:14
+
+----
+
+Inventory: page://6A866PRc8ndoju8U
+
+----
+
+Customer: page://FbxMu5KvBZejM5Ly
+
+----
+
+Uuid: U08zdsgY3PH3dw7F

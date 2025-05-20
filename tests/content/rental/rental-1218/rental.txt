@@ -1,0 +1,25 @@
+Title: Rental 1218
+
+----
+
+Rental-id: 1218
+
+----
+
+Rental-date: 2005-06-15 03:24:44
+
+----
+
+Return-date: 2005-06-21 22:45:44
+
+----
+
+Inventory: page://I2DhqIGUC4XGUmVc
+
+----
+
+Uuid: HnAfszfw6Q0kWuCA
+
+----
+
+Customer: page://CWfw6rX3ydLvFm4G

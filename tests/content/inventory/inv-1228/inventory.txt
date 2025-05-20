@@ -1,0 +1,17 @@
+Title: Inv 1228
+
+----
+
+Inventory-id: 1228
+
+----
+
+Film: page://T3OGl7NzyBDVhv7h
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 0ebbHBwe3K7vN85V

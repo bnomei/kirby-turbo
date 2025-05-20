@@ -1,0 +1,17 @@
+Title: Inv 3730
+
+----
+
+Inventory-id: 3730
+
+----
+
+Film: page://Ke4SavcgjPgEaepB
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 982bp19ZSQl7NK7r

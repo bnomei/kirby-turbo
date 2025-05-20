@@ -1,0 +1,17 @@
+Title: Inv 410
+
+----
+
+Inventory-id: 410
+
+----
+
+Film: page://YwHDEXoq4La36FCX
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: CpgKfbgby5zlDTu2

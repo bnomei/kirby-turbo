@@ -1,0 +1,25 @@
+Title: Rental 8382
+
+----
+
+Rental-id: 8382
+
+----
+
+Rental-date: 2005-07-29 05:33:21
+
+----
+
+Return-date: 2005-08-03 03:38:21
+
+----
+
+Inventory: page://H7HXbLSm2ETSZrfg
+
+----
+
+Customer: page://RIEo30tJIX71MCMT
+
+----
+
+Uuid: poeFoMZg6uHKQPKm

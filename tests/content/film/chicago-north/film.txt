@@ -1,0 +1,46 @@
+Title: CHICAGO NORTH
+
+----
+
+Actors:
+
+- 'page://I7tdxqtamjxgIUCW'
+- 'page://8sAZxgGEUjJot3JV'
+- 'page://IR4s9CmH1R8G51Ej'
+- 'page://gELBLdH4G3cmVmcs'
+- 'page://K0t8PMh78EXVZHC5'
+- 'page://nfzjlyLmEQ6Q1S80'
+- 'page://h9gp2o2uGocb4AUV'
+- 'page://s3p9MagWJdWouacJ'
+
+----
+
+Film-id: 141
+
+----
+
+Description: A Fateful Yarn of a Mad Cow And a Waitress who must Battle a Student in California
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 185
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: 33GzHnyOAkT0s7Kb
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

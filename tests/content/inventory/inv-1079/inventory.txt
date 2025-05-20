@@ -1,0 +1,17 @@
+Title: Inv 1079
+
+----
+
+Inventory-id: 1079
+
+----
+
+Film: page://yBE2T3llHrX4lt3E
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Cx2897N9IRWhqOtg

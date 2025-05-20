@@ -1,0 +1,25 @@
+Title: Rental 10002
+
+----
+
+Rental-id: 10002
+
+----
+
+Rental-date: 2005-07-31 17:48:16
+
+----
+
+Return-date: 2005-08-06 16:15:16
+
+----
+
+Inventory: page://bj2CygTuuBdaRyXn
+
+----
+
+Customer: page://Br6nNDFY9PURatbb
+
+----
+
+Uuid: 06y1HzgDNHFC8anl

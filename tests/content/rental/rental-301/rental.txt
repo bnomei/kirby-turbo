@@ -1,0 +1,25 @@
+Title: Rental 301
+
+----
+
+Rental-id: 301
+
+----
+
+Rental-date: 2005-05-26 21:06:14
+
+----
+
+Return-date: 2005-06-01 01:54:14
+
+----
+
+Inventory: page://AtUX5eyS3RqwGVJU
+
+----
+
+Uuid: ZhGNAtb04x8yyTq5
+
+----
+
+Customer: page://9bJXvFRudHnbyDta

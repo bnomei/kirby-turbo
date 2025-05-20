@@ -1,0 +1,25 @@
+Title: Rental 5219
+
+----
+
+Rental-id: 5219
+
+----
+
+Rental-date: 2005-07-09 11:57:55
+
+----
+
+Return-date: 2005-07-15 09:43:55
+
+----
+
+Inventory: page://ypCzhYbDxi52EnSS
+
+----
+
+Uuid: gHcRz6yH5aDxWTK6
+
+----
+
+Customer: page://7xbkabb9oALGCtIT

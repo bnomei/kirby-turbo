@@ -1,0 +1,25 @@
+Title: Rental 494
+
+----
+
+Rental-id: 494
+
+----
+
+Rental-date: 2005-05-28 00:39:31
+
+----
+
+Return-date: 2005-06-02 19:35:31
+
+----
+
+Inventory: page://DnXq2DRfEMclBcA4
+
+----
+
+Uuid: wla9J25Q1bNZ6yPI
+
+----
+
+Customer: page://3MFUDX6nFKFz0caB

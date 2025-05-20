@@ -1,0 +1,42 @@
+Title: MADRE GABLES
+
+----
+
+Actors:
+
+- 'page://JbsPWnOXBNKX1tM5'
+- 'page://eJszhRe2rjIvWjny'
+- 'page://lWEFCFc3fpMkkCVm'
+- 'page://nNLtL91vUU653tYz'
+
+----
+
+Film-id: 546
+
+----
+
+Description: A Intrepid Panorama of a Sumo Wrestler And a Forensic Psychologist who must Discover a Moose in The First Manned Space Station
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 98
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: wVJJOiHKbMUefRpc
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

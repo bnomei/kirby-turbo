@@ -1,0 +1,33 @@
+Title: LORETTA CARPENTER
+
+----
+
+Customer-id: 189
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: LORETTA
+
+----
+
+Last-name: CARPENTER
+
+----
+
+Email: LORETTA.CARPENTER@sakilacustomer.org
+
+----
+
+Address: page://JrGyKUJt5l7UXJyM
+
+----
+
+Active: 1
+
+----
+
+Uuid: SVZoWH6J14ZTtsdK

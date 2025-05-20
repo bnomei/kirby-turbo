@@ -1,0 +1,41 @@
+Title: DUFFEL APOCALYPSE
+
+----
+
+Actors:
+
+- 'page://GwUKN9N7u1wbNu4w'
+- 'page://WmeC1S3wVV4gdFE4'
+- 'page://Gsxc5TuqHyoQn1c1'
+
+----
+
+Film-id: 261
+
+----
+
+Description: A Emotional Display of a Boat And a Explorer who must Challenge a Madman in A MySQL Convention
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 171
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries
+
+----
+
+Uuid: mpxFJbi3tLGVcTTS
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

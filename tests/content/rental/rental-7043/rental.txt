@@ -1,0 +1,25 @@
+Title: Rental 7043
+
+----
+
+Rental-id: 7043
+
+----
+
+Rental-date: 2005-07-27 03:24:23
+
+----
+
+Return-date: 2005-08-05 02:55:23
+
+----
+
+Inventory: page://XCwinlWPI9x9Ck49
+
+----
+
+Customer: page://frnhXD3aQVG6hXRV
+
+----
+
+Uuid: th42shB4WhlN94iX

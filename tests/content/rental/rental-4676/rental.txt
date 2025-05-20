@@ -1,0 +1,25 @@
+Title: Rental 4676
+
+----
+
+Rental-id: 4676
+
+----
+
+Rental-date: 2005-07-08 10:26:02
+
+----
+
+Return-date: 2005-07-10 13:38:02
+
+----
+
+Inventory: page://Er5PuTspxaSxon3i
+
+----
+
+Uuid: zXj8p0ouae0Jz9Yz
+
+----
+
+Customer: page://EN43JZfYCm84hq5t

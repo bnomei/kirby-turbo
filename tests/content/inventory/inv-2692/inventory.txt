@@ -1,0 +1,17 @@
+Title: Inv 2692
+
+----
+
+Inventory-id: 2692
+
+----
+
+Film: page://IlxVnWFJz6N2jShF
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 3Vqy6yCrR7E5Geqz

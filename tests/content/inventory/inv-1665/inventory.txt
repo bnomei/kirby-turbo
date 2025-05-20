@@ -1,0 +1,17 @@
+Title: Inv 1665
+
+----
+
+Inventory-id: 1665
+
+----
+
+Film: page://SUMTsSQ2ilMXfenM
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: fa2hQaF3natzSJrN

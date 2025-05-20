@@ -1,0 +1,25 @@
+Title: Rental 2161
+
+----
+
+Rental-id: 2161
+
+----
+
+Rental-date: 2005-06-17 23:39:50
+
+----
+
+Return-date: 2005-06-26 23:28:50
+
+----
+
+Inventory: page://ghSPJ0gqmq41q834
+
+----
+
+Uuid: 3Knk5sZaIaKc0YNa
+
+----
+
+Customer: page://x5SWKXQpXhzjUJdL

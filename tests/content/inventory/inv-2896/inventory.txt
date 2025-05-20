@@ -1,0 +1,17 @@
+Title: Inv 2896
+
+----
+
+Inventory-id: 2896
+
+----
+
+Film: page://QMj9i6eM6ibT2XEU
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Kd9pmPX1YHs55A8M

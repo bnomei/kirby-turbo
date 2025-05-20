@@ -1,0 +1,21 @@
+Title: Rental 15966
+
+----
+
+Rental-id: 15966
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://vBmrln2DAbnMvXej
+
+----
+
+Customer: page://T8FvGnbHYCWqhKEc
+
+----
+
+Uuid: Kenc9iD9aXMrPI6W

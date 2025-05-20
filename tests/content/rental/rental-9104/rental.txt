@@ -1,0 +1,25 @@
+Title: Rental 9104
+
+----
+
+Rental-id: 9104
+
+----
+
+Rental-date: 2005-07-30 08:49:55
+
+----
+
+Return-date: 2005-08-06 12:23:55
+
+----
+
+Inventory: page://Pp0CigUPxCJPWX3z
+
+----
+
+Customer: page://oJcvcv4yGdx8WGkJ
+
+----
+
+Uuid: FBDhXrVv05SXLU6G

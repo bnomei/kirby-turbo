@@ -1,0 +1,25 @@
+Title: Rental 1936
+
+----
+
+Rental-id: 1936
+
+----
+
+Rental-date: 2005-06-17 07:15:41
+
+----
+
+Return-date: 2005-06-18 11:37:41
+
+----
+
+Inventory: page://06svOWLUSRsouxmg
+
+----
+
+Uuid: 0TdGYucZMx6UgpqN
+
+----
+
+Customer: page://SXP8ih15ziLTUonG

@@ -1,0 +1,17 @@
+Title: Inv 420
+
+----
+
+Inventory-id: 420
+
+----
+
+Film: page://xyLfnZKFV1kYd6wS
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: VhD556FAwPfxDfq6

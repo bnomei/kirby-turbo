@@ -1,0 +1,17 @@
+Title: Inv 2034
+
+----
+
+Inventory-id: 2034
+
+----
+
+Film: page://6O0xV5RIQ9ud4tXV
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Y9znSlr88JBFBWef

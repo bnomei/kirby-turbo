@@ -1,0 +1,25 @@
+Title: Rental 2743
+
+----
+
+Rental-id: 2743
+
+----
+
+Rental-date: 2005-06-19 16:15:56
+
+----
+
+Return-date: 2005-06-23 12:30:56
+
+----
+
+Inventory: page://wSB9XjgRKHlpjIdb
+
+----
+
+Uuid: cOfsrEYmoSvRoFK1
+
+----
+
+Customer: page://G5MahFW7vTJhSf6a

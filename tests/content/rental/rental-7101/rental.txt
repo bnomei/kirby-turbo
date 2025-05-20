@@ -1,0 +1,25 @@
+Title: Rental 7101
+
+----
+
+Rental-id: 7101
+
+----
+
+Rental-date: 2005-07-27 05:06:34
+
+----
+
+Return-date: 2005-07-29 06:12:34
+
+----
+
+Inventory: page://mV8wPk7IdNztfrgu
+
+----
+
+Customer: page://d4QlKSk7SAC1uz7S
+
+----
+
+Uuid: 21EAdtfG2WzH26iC

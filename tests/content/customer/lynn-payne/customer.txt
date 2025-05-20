@@ -1,0 +1,33 @@
+Title: LYNN PAYNE
+
+----
+
+Customer-id: 166
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: LYNN
+
+----
+
+Last-name: PAYNE
+
+----
+
+Email: LYNN.PAYNE@sakilacustomer.org
+
+----
+
+Address: page://MxQWw6fEnxkb0wHG
+
+----
+
+Active: 1
+
+----
+
+Uuid: cEjR9CGs4TcVaXZs

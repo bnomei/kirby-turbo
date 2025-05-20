@@ -1,0 +1,25 @@
+Title: Rental 4041
+
+----
+
+Rental-id: 4041
+
+----
+
+Rental-date: 2005-07-07 03:03:33
+
+----
+
+Return-date: 2005-07-09 07:57:33
+
+----
+
+Inventory: page://k74b2A7VteSWFKC7
+
+----
+
+Uuid: Xwic5gMOyKCHt8Na
+
+----
+
+Customer: page://vuC49kOilMI2crhA

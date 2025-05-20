@@ -1,0 +1,17 @@
+Title: Inv 4572
+
+----
+
+Inventory-id: 4572
+
+----
+
+Film: page://xsl9RHv93yeclUCw
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: AYjJhZdeMHmscP8x

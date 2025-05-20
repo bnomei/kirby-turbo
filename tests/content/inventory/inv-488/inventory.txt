@@ -1,0 +1,17 @@
+Title: Inv 488
+
+----
+
+Inventory-id: 488
+
+----
+
+Film: page://oRpZRH9vL9I1bLI8
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: G3TmuVp6dIRGBjtd

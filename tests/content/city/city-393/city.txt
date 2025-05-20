@@ -1,0 +1,17 @@
+Title: Pachuca de Soto
+
+----
+
+City-id: 393
+
+----
+
+City: Pachuca de Soto
+
+----
+
+Country: page://75LiB5VPxWG9vtyQ
+
+----
+
+Uuid: 6UfnfcV0oh6BbWy7

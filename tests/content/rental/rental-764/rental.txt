@@ -1,0 +1,25 @@
+Title: Rental 764
+
+----
+
+Rental-id: 764
+
+----
+
+Rental-date: 2005-05-29 11:37:35
+
+----
+
+Return-date: 2005-05-31 16:47:35
+
+----
+
+Inventory: page://nvSSHNh3JVZAriui
+
+----
+
+Uuid: wp7mzhqap9TOYKGZ
+
+----
+
+Customer: page://hKFzOIjEbiQlZ9Km

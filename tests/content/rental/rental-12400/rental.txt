@@ -1,0 +1,25 @@
+Title: Rental 12400
+
+----
+
+Rental-id: 12400
+
+----
+
+Rental-date: 2005-08-18 09:19:12
+
+----
+
+Return-date: 2005-08-26 06:52:12
+
+----
+
+Inventory: page://MPe9odCbiXiWMtC6
+
+----
+
+Customer: page://hkYVD2f74BBcnfGT
+
+----
+
+Uuid: 4JfxZzdBT648Yooi

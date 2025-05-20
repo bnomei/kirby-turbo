@@ -1,0 +1,17 @@
+Title: Inv 4340
+
+----
+
+Inventory-id: 4340
+
+----
+
+Film: page://zGpQAqYH1u3cECW1
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: IRKmyVVhU7ZpFTPy

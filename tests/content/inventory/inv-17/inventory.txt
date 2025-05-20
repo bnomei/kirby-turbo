@@ -1,0 +1,17 @@
+Title: Inv 17
+
+----
+
+Inventory-id: 17
+
+----
+
+Film: page://lmoJMGpiz8uhlF1c
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 2zg5BtbJvoRneIDz

@@ -1,0 +1,17 @@
+Title: Inv 2706
+
+----
+
+Inventory-id: 2706
+
+----
+
+Film: page://k7S3bKyxf2M3gcaO
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: oaSJZalRrKJ8Cj8B

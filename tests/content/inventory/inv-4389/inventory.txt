@@ -1,0 +1,17 @@
+Title: Inv 4389
+
+----
+
+Inventory-id: 4389
+
+----
+
+Film: page://E0HFh9eHbYsvXG9C
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: NaluOeMsWQKpMg0G

@@ -1,0 +1,25 @@
+Title: Rental 9085
+
+----
+
+Rental-id: 9085
+
+----
+
+Rental-date: 2005-07-30 08:17:24
+
+----
+
+Return-date: 2005-08-03 09:35:24
+
+----
+
+Inventory: page://zi7QdjuaBfMnWVA3
+
+----
+
+Customer: page://Cc0UnWjmLMYrhwNc
+
+----
+
+Uuid: yOiL1syHMPODZZzo

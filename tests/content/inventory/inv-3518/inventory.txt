@@ -1,0 +1,17 @@
+Title: Inv 3518
+
+----
+
+Inventory-id: 3518
+
+----
+
+Film: page://XQkDH0kWqMsGUW1V
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: J65nDHYNz80D2N3X

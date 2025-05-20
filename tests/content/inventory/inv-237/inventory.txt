@@ -1,0 +1,17 @@
+Title: Inv 237
+
+----
+
+Inventory-id: 237
+
+----
+
+Film: page://U9GJySbiwP3Ad0w2
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: eqcI71on5jTxciAC

@@ -1,0 +1,17 @@
+Title: Inv 25
+
+----
+
+Inventory-id: 25
+
+----
+
+Film: page://uULDHizChVGXnNdG
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: PPmqhviIta1KVCc6

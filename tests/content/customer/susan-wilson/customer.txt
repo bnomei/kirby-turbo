@@ -1,0 +1,33 @@
+Title: SUSAN WILSON
+
+----
+
+Customer-id: 8
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: SUSAN
+
+----
+
+Last-name: WILSON
+
+----
+
+Email: SUSAN.WILSON@sakilacustomer.org
+
+----
+
+Address: page://W0kPjMa40uXK1SWa
+
+----
+
+Active: 1
+
+----
+
+Uuid: sYyRIy15jUUAajVC

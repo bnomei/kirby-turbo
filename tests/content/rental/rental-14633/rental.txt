@@ -1,0 +1,25 @@
+Title: Rental 14633
+
+----
+
+Rental-id: 14633
+
+----
+
+Rental-date: 2005-08-21 18:51:10
+
+----
+
+Return-date: 2005-08-25 13:07:10
+
+----
+
+Inventory: page://FSndG9GaPCfld3qf
+
+----
+
+Customer: page://nT5wjEgKoa1UOpc8
+
+----
+
+Uuid: 09EFfbpAQAsT6j66

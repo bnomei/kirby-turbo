@@ -1,0 +1,17 @@
+Title: Inv 56
+
+----
+
+Inventory-id: 56
+
+----
+
+Film: page://JsY4QTSwkYca4ctu
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 1Vj45kEa1JGBZFxv

@@ -1,0 +1,25 @@
+Title: Rental 2287
+
+----
+
+Rental-id: 2287
+
+----
+
+Rental-date: 2005-06-18 07:04:36
+
+----
+
+Return-date: 2005-06-27 03:00:36
+
+----
+
+Inventory: page://mwHV6lCFOh9yx2ur
+
+----
+
+Uuid: 89wMEORk5WExyAL8
+
+----
+
+Customer: page://LjRXWt8yhDRV7QH6

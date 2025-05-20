@@ -1,0 +1,21 @@
+Title: Rental 14137
+
+----
+
+Rental-id: 14137
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://y1xiSH00QLyXz7tU
+
+----
+
+Customer: page://4gdcUTd8Bs7vlXxm
+
+----
+
+Uuid: Co5l7IHZsK1frvtq

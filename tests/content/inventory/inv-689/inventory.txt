@@ -1,0 +1,17 @@
+Title: Inv 689
+
+----
+
+Inventory-id: 689
+
+----
+
+Film: page://VgaqjUQcQdq5w9OH
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: HWCf5GXqG8qO2ICd

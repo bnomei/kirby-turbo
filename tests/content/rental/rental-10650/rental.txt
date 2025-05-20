@@ -1,0 +1,25 @@
+Title: Rental 10650
+
+----
+
+Rental-id: 10650
+
+----
+
+Rental-date: 2005-08-01 16:18:45
+
+----
+
+Return-date: 2005-08-09 16:29:45
+
+----
+
+Inventory: page://6Gcd16XPZRjks1po
+
+----
+
+Customer: page://Q5O2bHZdTW7BhoOc
+
+----
+
+Uuid: EdD7Hpk86nZ08Voa

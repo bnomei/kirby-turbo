@@ -1,0 +1,25 @@
+Title: Rental 1885
+
+----
+
+Rental-id: 1885
+
+----
+
+Rental-date: 2005-06-17 03:35:59
+
+----
+
+Return-date: 2005-06-21 05:57:59
+
+----
+
+Inventory: page://amiuseXsbMOEeVg8
+
+----
+
+Uuid: R3WXUrdkBe3DTNCz
+
+----
+
+Customer: page://cxaxfUF1lmAT9qO9

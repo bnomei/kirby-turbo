@@ -1,0 +1,25 @@
+Title: Rental 2790
+
+----
+
+Rental-id: 2790
+
+----
+
+Rental-date: 2005-06-19 18:49:45
+
+----
+
+Return-date: 2005-06-21 00:13:45
+
+----
+
+Inventory: page://bpwSsTcVBfNQJpfV
+
+----
+
+Uuid: SLOZcHb2AwUNtn8s
+
+----
+
+Customer: page://6haKa35Xyz3iTAFh

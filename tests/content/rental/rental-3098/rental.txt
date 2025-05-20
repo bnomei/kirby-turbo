@@ -1,0 +1,25 @@
+Title: Rental 3098
+
+----
+
+Rental-id: 3098
+
+----
+
+Rental-date: 2005-06-20 16:37:01
+
+----
+
+Return-date: 2005-06-22 22:24:01
+
+----
+
+Inventory: page://POvaOKXfoLZmm7gi
+
+----
+
+Uuid: ysV2PqO1BRyCWRWy
+
+----
+
+Customer: page://2lQ4vbsZnRXuEptp

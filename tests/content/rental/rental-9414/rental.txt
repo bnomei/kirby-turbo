@@ -1,0 +1,25 @@
+Title: Rental 9414
+
+----
+
+Rental-id: 9414
+
+----
+
+Rental-date: 2005-07-30 20:46:02
+
+----
+
+Return-date: 2005-08-07 21:23:02
+
+----
+
+Inventory: page://qc4viE6gU2CzdFuW
+
+----
+
+Customer: page://rMm0jN6bFHVs2tRk
+
+----
+
+Uuid: P60ff0H52p1ty66l

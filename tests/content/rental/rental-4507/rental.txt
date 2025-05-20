@@ -1,0 +1,25 @@
+Title: Rental 4507
+
+----
+
+Rental-id: 4507
+
+----
+
+Rental-date: 2005-07-08 02:22:45
+
+----
+
+Return-date: 2005-07-14 20:53:45
+
+----
+
+Inventory: page://x8fAnSHCIFerbOip
+
+----
+
+Uuid: TWSig0peMxpsSHjG
+
+----
+
+Customer: page://kIByXaqyonxT2CUq

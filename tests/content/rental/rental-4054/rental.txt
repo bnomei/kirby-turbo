@@ -1,0 +1,25 @@
+Title: Rental 4054
+
+----
+
+Rental-id: 4054
+
+----
+
+Rental-date: 2005-07-07 03:42:07
+
+----
+
+Return-date: 2005-07-10 03:22:07
+
+----
+
+Inventory: page://m4QEECbdBQYclM6q
+
+----
+
+Uuid: 3z07XUZz7iaIg91l
+
+----
+
+Customer: page://rCrCpCNcHKJui2E7

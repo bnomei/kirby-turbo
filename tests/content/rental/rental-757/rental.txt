@@ -1,0 +1,25 @@
+Title: Rental 757
+
+----
+
+Rental-id: 757
+
+----
+
+Rental-date: 2005-05-29 10:29:47
+
+----
+
+Return-date: 2005-06-07 15:27:47
+
+----
+
+Inventory: page://82obQt8fSAXOUvH1
+
+----
+
+Uuid: vvQF46iM2k3r4PE7
+
+----
+
+Customer: page://tKN7Oy29ebd7wIX1

@@ -1,0 +1,45 @@
+Title: BANG KWAI
+
+----
+
+Actors:
+
+- 'page://qGB9wRd16f9YwbHn'
+- 'page://ikhz1wEjJMz3vCm4'
+- 'page://EHffowmlWDEyJ7Ij'
+- 'page://l9F1V32tlG60bBdO'
+- 'page://xfLW2h8D6Ci3k3ux'
+- 'page://3BcvBP3gfacEDPsU'
+- 'page://qXajFtQVbGpQUZAN'
+
+----
+
+Film-id: 53
+
+----
+
+Description: A Epic Drama of a Madman And a Cat who must Face a A Shark in An Abandoned Amusement Park
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 87
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: HAi3nfjTqZT3CPQV
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

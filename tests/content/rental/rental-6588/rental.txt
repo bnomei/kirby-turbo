@@ -1,0 +1,25 @@
+Title: Rental 6588
+
+----
+
+Rental-id: 6588
+
+----
+
+Rental-date: 2005-07-12 06:57:40
+
+----
+
+Return-date: 2005-07-16 04:27:40
+
+----
+
+Inventory: page://EfEub8T9afcs9qWN
+
+----
+
+Uuid: CDCmGN9LSpsUVlVf
+
+----
+
+Customer: page://Yq4RWbQHVX6jLqbx

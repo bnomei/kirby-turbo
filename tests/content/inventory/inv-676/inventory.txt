@@ -1,0 +1,17 @@
+Title: Inv 676
+
+----
+
+Inventory-id: 676
+
+----
+
+Film: page://xt5YPKk96VRGo1KN
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: YwozZTwbMiyxY8Rl

@@ -1,0 +1,42 @@
+Title: PRIDE ALAMO
+
+----
+
+Actors:
+
+- 'page://e0jga56TJCBrOXvD'
+- 'page://RvgM0TLzgQDo6vY7'
+- 'page://q6i5HOIdG8dGz8Im'
+- 'page://CI649GdI5JvIKbQ1'
+
+----
+
+Film-id: 696
+
+----
+
+Description: A Thoughtful Drama of a A Shark And a Forensic Psychologist who must Vanquish a Student in Ancient India
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 114
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: Ns11e990ZKcb5jfW
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

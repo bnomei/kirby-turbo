@@ -1,0 +1,33 @@
+Title: KRISTEN CHAVEZ
+
+----
+
+Customer-id: 194
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: KRISTEN
+
+----
+
+Last-name: CHAVEZ
+
+----
+
+Email: KRISTEN.CHAVEZ@sakilacustomer.org
+
+----
+
+Address: page://Pw9npbXo8YC3pVCN
+
+----
+
+Active: 1
+
+----
+
+Uuid: 3WUOY4VXzpqWI6NO

@@ -1,0 +1,17 @@
+Title: Inv 2424
+
+----
+
+Inventory-id: 2424
+
+----
+
+Film: page://GsTPSYahKtRqTYGM
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: VT5OW5CW02sWJUqX

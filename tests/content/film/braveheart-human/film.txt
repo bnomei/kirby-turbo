@@ -1,0 +1,42 @@
+Title: BRAVEHEART HUMAN
+
+----
+
+Actors:
+
+- 'page://JeeyeDJ3FmxSMbIy'
+- 'page://YBKuIiLT3VizSQRI'
+- 'page://iZwJlBg8wszU4t4i'
+- 'page://uyiPyWfxhKFdwYKL'
+
+----
+
+Film-id: 94
+
+----
+
+Description: A Insightful Story of a Dog And a Pastry Chef who must Battle a Girl in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 176
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: KTBxlImUf5e80bic
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

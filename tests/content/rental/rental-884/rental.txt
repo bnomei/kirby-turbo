@@ -1,0 +1,25 @@
+Title: Rental 884
+
+----
+
+Rental-id: 884
+
+----
+
+Rental-date: 2005-05-30 06:41:32
+
+----
+
+Return-date: 2005-05-31 07:39:32
+
+----
+
+Inventory: page://Pn2QhJ36ovHcDL5S
+
+----
+
+Uuid: zjw5Z802LwSKJ0Bx
+
+----
+
+Customer: page://RShdmMICVp8lAUwL

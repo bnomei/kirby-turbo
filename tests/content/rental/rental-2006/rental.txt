@@ -1,0 +1,25 @@
+Title: Rental 2006
+
+----
+
+Rental-id: 2006
+
+----
+
+Rental-date: 2005-06-17 11:47:03
+
+----
+
+Return-date: 2005-06-19 13:47:03
+
+----
+
+Inventory: page://95ceZlu1vaHHm0xK
+
+----
+
+Uuid: 8QgenWtXyfPcPwkL
+
+----
+
+Customer: page://Waos8TO100plOpAg

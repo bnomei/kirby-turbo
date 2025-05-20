@@ -1,0 +1,25 @@
+Title: Rental 3222
+
+----
+
+Rental-id: 3222
+
+----
+
+Rental-date: 2005-06-21 01:50:29
+
+----
+
+Return-date: 2005-06-27 00:52:29
+
+----
+
+Inventory: page://M5xBE9txsuaTxr20
+
+----
+
+Uuid: MIC4BboDbJl3KxEX
+
+----
+
+Customer: page://AebunhQoABksvBV9

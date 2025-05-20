@@ -1,0 +1,33 @@
+Title: MARIAN MENDOZA
+
+----
+
+Customer-id: 246
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MARIAN
+
+----
+
+Last-name: MENDOZA
+
+----
+
+Email: MARIAN.MENDOZA@sakilacustomer.org
+
+----
+
+Address: page://FO7uDFkYMoWb7f2x
+
+----
+
+Active: 1
+
+----
+
+Uuid: SnGdQyKh3vyTvpek

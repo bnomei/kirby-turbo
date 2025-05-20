@@ -1,0 +1,25 @@
+Title: Rental 9679
+
+----
+
+Rental-id: 9679
+
+----
+
+Rental-date: 2005-07-31 06:41:19
+
+----
+
+Return-date: 2005-08-02 07:23:19
+
+----
+
+Inventory: page://fzcC2giTQHhe6yOt
+
+----
+
+Customer: page://yIwfaiZ5vQfAWusn
+
+----
+
+Uuid: ZAhKOAaWfZJgNTZs

@@ -1,0 +1,25 @@
+Title: Rental 609
+
+----
+
+Rental-id: 609
+
+----
+
+Rental-date: 2005-05-28 15:04:02
+
+----
+
+Return-date: 2005-06-05 14:47:02
+
+----
+
+Inventory: page://hs4LPc9TSiNOoY9c
+
+----
+
+Uuid: Lm3n6ahBSqf4YMRL
+
+----
+
+Customer: page://qnkS0qeAEHNLa6TI

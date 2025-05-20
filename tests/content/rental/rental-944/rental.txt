@@ -1,0 +1,25 @@
+Title: Rental 944
+
+----
+
+Rental-id: 944
+
+----
+
+Rental-date: 2005-05-30 15:26:24
+
+----
+
+Return-date: 2005-06-07 18:09:24
+
+----
+
+Inventory: page://A1cE4vN6DjgsVk0s
+
+----
+
+Uuid: oFo2BULliWpuvgTb
+
+----
+
+Customer: page://N95O2afia8ED5CLD

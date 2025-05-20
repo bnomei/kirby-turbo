@@ -1,0 +1,33 @@
+Title: HOWARD FORTNER
+
+----
+
+Customer-id: 377
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: HOWARD
+
+----
+
+Last-name: FORTNER
+
+----
+
+Email: HOWARD.FORTNER@sakilacustomer.org
+
+----
+
+Address: page://RWPvTtQEsDApn6LQ
+
+----
+
+Active: 1
+
+----
+
+Uuid: zLiLkW2YJgd9qzFC

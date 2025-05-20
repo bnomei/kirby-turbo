@@ -1,0 +1,33 @@
+Title: LILLIE KIM
+
+----
+
+Customer-id: 233
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: LILLIE
+
+----
+
+Last-name: KIM
+
+----
+
+Email: LILLIE.KIM@sakilacustomer.org
+
+----
+
+Address: page://36KcNAvbWmZ3uLA1
+
+----
+
+Active: 1
+
+----
+
+Uuid: pJ4NwB4FUwNgVlBs

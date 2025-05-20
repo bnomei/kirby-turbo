@@ -1,0 +1,25 @@
+Title: Rental 6411
+
+----
+
+Rental-id: 6411
+
+----
+
+Rental-date: 2005-07-11 23:10:50
+
+----
+
+Return-date: 2005-07-19 17:15:50
+
+----
+
+Inventory: page://Osd8qzQ6Hgjz9K48
+
+----
+
+Uuid: 9yureLu2oob0UMaP
+
+----
+
+Customer: page://PRYZKLCz6ndr3bge

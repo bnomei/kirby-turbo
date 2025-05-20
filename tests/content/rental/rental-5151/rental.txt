@@ -1,0 +1,25 @@
+Title: Rental 5151
+
+----
+
+Rental-id: 5151
+
+----
+
+Rental-date: 2005-07-09 08:31:03
+
+----
+
+Return-date: 2005-07-10 08:18:03
+
+----
+
+Inventory: page://SslYnbu4FsJeK01u
+
+----
+
+Uuid: mxcBEmsgHnuHgNi2
+
+----
+
+Customer: page://1oyElH1fZadoyZ04

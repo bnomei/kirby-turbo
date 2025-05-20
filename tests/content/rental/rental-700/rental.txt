@@ -1,0 +1,25 @@
+Title: Rental 700
+
+----
+
+Rental-id: 700
+
+----
+
+Rental-date: 2005-05-29 02:18:54
+
+----
+
+Return-date: 2005-05-30 05:54:54
+
+----
+
+Inventory: page://En39P626Mru6HubH
+
+----
+
+Uuid: RVLPP8YR9L8eu043
+
+----
+
+Customer: page://yTAX5pfgcdJzZ9ZS

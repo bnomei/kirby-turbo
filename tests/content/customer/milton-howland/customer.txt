@@ -1,0 +1,33 @@
+Title: MILTON HOWLAND
+
+----
+
+Customer-id: 508
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: MILTON
+
+----
+
+Last-name: HOWLAND
+
+----
+
+Email: MILTON.HOWLAND@sakilacustomer.org
+
+----
+
+Address: page://cJq7wFrcUBe6Plii
+
+----
+
+Active: 1
+
+----
+
+Uuid: mLxfpdMHHBnZwV7B

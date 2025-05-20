@@ -1,0 +1,17 @@
+Title: Inv 1328
+
+----
+
+Inventory-id: 1328
+
+----
+
+Film: page://FMaEBFzaAtTRGtQm
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: IPXXzZvIrclw2sv9

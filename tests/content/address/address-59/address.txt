@@ -1,0 +1,37 @@
+Title: ed8b0d8b3e10b89904fc9f5062150fa7
+
+----
+
+Address-id: 59
+
+----
+
+Address: 1697 Kowloon and New Kowloon Loop
+
+----
+
+Address2: 
+
+----
+
+District: Moskova
+
+----
+
+City: page://WsFY55AZjM34fVSc
+
+----
+
+Postal-code: 57807
+
+----
+
+Phone: 499352017190
+
+----
+
+Location: 
+
+----
+
+Uuid: Oi8yy48w5Fg51775

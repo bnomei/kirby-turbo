@@ -1,0 +1,33 @@
+Title: RAMON CHOATE
+
+----
+
+Customer-id: 494
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: RAMON
+
+----
+
+Last-name: CHOATE
+
+----
+
+Email: RAMON.CHOATE@sakilacustomer.org
+
+----
+
+Address: page://Kqd1S9IdXcUQciJL
+
+----
+
+Active: 1
+
+----
+
+Uuid: wPjJI94k63sf9tIo

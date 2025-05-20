@@ -1,0 +1,37 @@
+Title: YENTL IDAHO
+
+----
+
+Actors: - 'page://vMUybiWmK5EriDRU'
+
+----
+
+Film-id: 995
+
+----
+
+Description: A Amazing Display of a Robot And a Astronaut who must Fight a Womanizer in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 86
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: RcOr8ZCcMtDQ1SoL
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

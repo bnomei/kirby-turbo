@@ -1,0 +1,25 @@
+Title: Rental 290
+
+----
+
+Rental-id: 290
+
+----
+
+Rental-date: 2005-05-26 20:08:33
+
+----
+
+Return-date: 2005-05-30 00:32:33
+
+----
+
+Inventory: page://jsJkNLWEfTAnI71s
+
+----
+
+Uuid: gGDZFHZkBsE3glxm
+
+----
+
+Customer: page://j2E1ltZ4ghv3z4iP

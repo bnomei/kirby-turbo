@@ -1,0 +1,25 @@
+Title: Rental 3650
+
+----
+
+Rental-id: 3650
+
+----
+
+Rental-date: 2005-07-06 07:34:15
+
+----
+
+Return-date: 2005-07-08 01:50:15
+
+----
+
+Inventory: page://3GwO9v4mzdOQJjgm
+
+----
+
+Uuid: CRk157y2Kv5rWWpr
+
+----
+
+Customer: page://rKjnon1qwpzbv3fn

@@ -1,0 +1,17 @@
+Title: Inv 4308
+
+----
+
+Inventory-id: 4308
+
+----
+
+Film: page://u8InZbOqADsq1tw3
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: abgGwa5p5CmEobME

@@ -1,0 +1,25 @@
+Title: Rental 6034
+
+----
+
+Rental-id: 6034
+
+----
+
+Rental-date: 2005-07-11 03:00:50
+
+----
+
+Return-date: 2005-07-16 06:19:50
+
+----
+
+Inventory: page://y7u7g6812UeoLyPi
+
+----
+
+Uuid: mx9fU44iDEi9YJZo
+
+----
+
+Customer: page://SII6Y5UXijGLUgXD

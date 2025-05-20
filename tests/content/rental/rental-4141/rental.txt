@@ -1,0 +1,25 @@
+Title: Rental 4141
+
+----
+
+Rental-id: 4141
+
+----
+
+Rental-date: 2005-07-07 08:19:20
+
+----
+
+Return-date: 2005-07-11 06:54:20
+
+----
+
+Inventory: page://ZifilsxDeFVazRIL
+
+----
+
+Uuid: zBwouZQZljA1X5DD
+
+----
+
+Customer: page://Oh34G1trTvpJM2Q0

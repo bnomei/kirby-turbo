@@ -1,0 +1,25 @@
+Title: Rental 6240
+
+----
+
+Rental-id: 6240
+
+----
+
+Rental-date: 2005-07-11 14:32:41
+
+----
+
+Return-date: 2005-07-20 18:38:41
+
+----
+
+Inventory: page://MZAAeoRUhiXgMITt
+
+----
+
+Uuid: xM2lAAl6MVIwNrFs
+
+----
+
+Customer: page://DVIVTmAM0LOCEI7a

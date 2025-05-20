@@ -1,0 +1,25 @@
+Title: Rental 8852
+
+----
+
+Rental-id: 8852
+
+----
+
+Rental-date: 2005-07-29 23:30:03
+
+----
+
+Return-date: 2005-08-05 05:22:03
+
+----
+
+Inventory: page://C83G1m6lb8Gedjgy
+
+----
+
+Customer: page://PBAxbbLPwokG6bh1
+
+----
+
+Uuid: nXhynljohNgTG88n

@@ -1,0 +1,43 @@
+Title: HAMLET WISDOM
+
+----
+
+Actors:
+
+- 'page://JR0gbBMz8ekt1gGa'
+- 'page://pokjngmFMjrhDsLQ'
+- 'page://ltHX2Lf4QT72ZiqX'
+- 'page://pW1gtWYG8hgYIJM4'
+- 'page://OqV4tbW7WtFrMtYI'
+
+----
+
+Film-id: 394
+
+----
+
+Description: A Touching Reflection of a Man And a Man who must Sink a Robot in The Outback
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 146
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: nfxDxtbvsXm2zsGO
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

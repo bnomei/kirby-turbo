@@ -1,0 +1,25 @@
+Title: Rental 4046
+
+----
+
+Rental-id: 4046
+
+----
+
+Rental-date: 2005-07-07 03:27:59
+
+----
+
+Return-date: 2005-07-14 01:14:59
+
+----
+
+Inventory: page://J65nDHYNz80D2N3X
+
+----
+
+Uuid: rpMSP4beETqzbHNo
+
+----
+
+Customer: page://kAtIvC3GuVrHNW6C

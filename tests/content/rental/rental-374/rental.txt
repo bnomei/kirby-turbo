@@ -1,0 +1,25 @@
+Title: Rental 374
+
+----
+
+Rental-id: 374
+
+----
+
+Rental-date: 2005-05-27 08:26:30
+
+----
+
+Return-date: 2005-06-05 07:13:30
+
+----
+
+Inventory: page://nSOYBn3S028XPzsi
+
+----
+
+Uuid: bcrGUFC3YEkIaGEk
+
+----
+
+Customer: page://ZMPHt1kBgzua3Tmb

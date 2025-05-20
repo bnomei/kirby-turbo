@@ -1,0 +1,25 @@
+Title: Rental 4787
+
+----
+
+Rental-id: 4787
+
+----
+
+Rental-date: 2005-07-08 16:16:04
+
+----
+
+Return-date: 2005-07-14 18:02:04
+
+----
+
+Inventory: page://guieI4eCFWgPkMcr
+
+----
+
+Uuid: viI77NbYiSYK2aTv
+
+----
+
+Customer: page://Azw9Nv7ouxsZUKzG

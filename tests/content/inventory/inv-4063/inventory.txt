@@ -1,0 +1,17 @@
+Title: Inv 4063
+
+----
+
+Inventory-id: 4063
+
+----
+
+Film: page://88FHcDfHWkcux8m9
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: EPh6FxbKMgCCa53m

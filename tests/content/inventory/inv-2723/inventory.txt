@@ -1,0 +1,17 @@
+Title: Inv 2723
+
+----
+
+Inventory-id: 2723
+
+----
+
+Film: page://T3Kys4vr6wZ9lr7T
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 9rouOq3DhJcGlMDS

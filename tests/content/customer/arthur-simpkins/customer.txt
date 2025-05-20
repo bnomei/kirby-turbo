@@ -1,0 +1,33 @@
+Title: ARTHUR SIMPKINS
+
+----
+
+Customer-id: 346
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ARTHUR
+
+----
+
+Last-name: SIMPKINS
+
+----
+
+Email: ARTHUR.SIMPKINS@sakilacustomer.org
+
+----
+
+Address: page://SFxv2DPZdEzInqhS
+
+----
+
+Active: 1
+
+----
+
+Uuid: WxMkfWnfG0RH07zl

@@ -1,0 +1,25 @@
+Title: Rental 6052
+
+----
+
+Rental-id: 6052
+
+----
+
+Rental-date: 2005-07-11 03:51:27
+
+----
+
+Return-date: 2005-07-16 02:55:27
+
+----
+
+Inventory: page://m1e1J78s0puh7R3Q
+
+----
+
+Uuid: gOKTgLXrVj6CiYH7
+
+----
+
+Customer: page://x5SWKXQpXhzjUJdL

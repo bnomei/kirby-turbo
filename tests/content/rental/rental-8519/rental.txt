@@ -1,0 +1,25 @@
+Title: Rental 8519
+
+----
+
+Rental-id: 8519
+
+----
+
+Rental-date: 2005-07-29 10:09:43
+
+----
+
+Return-date: 2005-08-03 08:14:43
+
+----
+
+Inventory: page://vguZQleBuB1MnBlL
+
+----
+
+Customer: page://cxaxfUF1lmAT9qO9
+
+----
+
+Uuid: 5CvvTOoZ3YPgqAtr

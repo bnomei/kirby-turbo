@@ -1,0 +1,25 @@
+Title: Rental 5065
+
+----
+
+Rental-id: 5065
+
+----
+
+Rental-date: 2005-07-09 04:42:00
+
+----
+
+Return-date: 2005-07-12 08:55:00
+
+----
+
+Inventory: page://iHzmUI9XQpmn1xIQ
+
+----
+
+Uuid: xTRjmuoBd2dlOPMD
+
+----
+
+Customer: page://yIwfaiZ5vQfAWusn

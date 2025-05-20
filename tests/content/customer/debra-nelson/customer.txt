@@ -1,0 +1,33 @@
+Title: DEBRA NELSON
+
+----
+
+Customer-id: 39
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: DEBRA
+
+----
+
+Last-name: NELSON
+
+----
+
+Email: DEBRA.NELSON@sakilacustomer.org
+
+----
+
+Address: page://tJmb5KxOUeMk6157
+
+----
+
+Active: 1
+
+----
+
+Uuid: JebvRlPdouQGnPtA

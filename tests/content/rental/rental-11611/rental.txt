@@ -1,0 +1,21 @@
+Title: Rental 11611
+
+----
+
+Rental-id: 11611
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://bCyr9ZI2aDuqrwk4
+
+----
+
+Customer: page://S6wnyWLyFa5056NX
+
+----
+
+Uuid: uxnjzZiHeVdG11fh

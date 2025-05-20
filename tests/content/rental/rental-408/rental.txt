@@ -1,0 +1,25 @@
+Title: Rental 408
+
+----
+
+Rental-id: 408
+
+----
+
+Rental-date: 2005-05-27 13:57:39
+
+----
+
+Return-date: 2005-05-28 11:57:39
+
+----
+
+Inventory: page://SeEo8zV6Dpsj5kvF
+
+----
+
+Uuid: VGZf4oaXPk4NbbJ9
+
+----
+
+Customer: page://cwgSUWzYLMDqVZzh

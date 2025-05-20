@@ -1,0 +1,42 @@
+Title: CABIN FLASH
+
+----
+
+Actors:
+
+- 'page://xbVuFnPKikNsqVkK'
+- 'page://AvkKtwk9lLurZvzW'
+- 'page://S8UoUinBIsjzumVd'
+- 'page://EMAJfjeYpdsSEXq5'
+
+----
+
+Film-id: 110
+
+----
+
+Description: A Stunning Epistle of a Boat And a Man who must Challenge a A Shark in A Baloon Factory
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 53
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: PpkTKzMDLmwTeeTW
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

@@ -1,0 +1,33 @@
+Title: FREDERICK ISBELL
+
+----
+
+Customer-id: 429
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: FREDERICK
+
+----
+
+Last-name: ISBELL
+
+----
+
+Email: FREDERICK.ISBELL@sakilacustomer.org
+
+----
+
+Address: page://Wa8NL2KwG6IBV3cs
+
+----
+
+Active: 1
+
+----
+
+Uuid: j2E1ltZ4ghv3z4iP

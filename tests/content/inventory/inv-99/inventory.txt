@@ -1,0 +1,17 @@
+Title: Inv 99
+
+----
+
+Inventory-id: 99
+
+----
+
+Film: page://FmUiMEk1UHFcrfdQ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: BM26ZLBXsHz46r6b

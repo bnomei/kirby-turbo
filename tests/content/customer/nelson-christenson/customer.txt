@@ -1,0 +1,33 @@
+Title: NELSON CHRISTENSON
+
+----
+
+Customer-id: 549
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: NELSON
+
+----
+
+Last-name: CHRISTENSON
+
+----
+
+Email: NELSON.CHRISTENSON@sakilacustomer.org
+
+----
+
+Address: page://S4lRHZ4uLA3lvsjv
+
+----
+
+Active: 1
+
+----
+
+Uuid: HkTANTgi9H03vQyM

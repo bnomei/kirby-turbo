@@ -1,0 +1,25 @@
+Title: Rental 8545
+
+----
+
+Rental-id: 8545
+
+----
+
+Rental-date: 2005-07-29 11:07:04
+
+----
+
+Return-date: 2005-08-06 13:30:04
+
+----
+
+Inventory: page://O4OgkOCpN8lljsmW
+
+----
+
+Customer: page://zr15m47K6VY9URjq
+
+----
+
+Uuid: FN7UvoBKHNbL78Wg

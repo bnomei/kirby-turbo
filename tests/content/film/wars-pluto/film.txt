@@ -1,0 +1,42 @@
+Title: WARS PLUTO
+
+----
+
+Actors:
+
+- 'page://9dZ7pytlckFxJvGe'
+- 'page://qiUMbGq5mbDqGQZm'
+- 'page://NRH2DcjJcFwzgjEd'
+- 'page://h9gp2o2uGocb4AUV'
+
+----
+
+Film-id: 960
+
+----
+
+Description: A Taut Reflection of a Teacher And a Database Administrator who must Chase a Madman in The Sahara Desert
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 128
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: btJLbomUO8IPBhup
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

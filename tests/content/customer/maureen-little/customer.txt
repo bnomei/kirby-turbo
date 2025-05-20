@@ -1,0 +1,33 @@
+Title: MAUREEN LITTLE
+
+----
+
+Customer-id: 226
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: MAUREEN
+
+----
+
+Last-name: LITTLE
+
+----
+
+Email: MAUREEN.LITTLE@sakilacustomer.org
+
+----
+
+Address: page://YFrkdjjMRJaHExOy
+
+----
+
+Active: 1
+
+----
+
+Uuid: 9Iscnwps7hF64rUC

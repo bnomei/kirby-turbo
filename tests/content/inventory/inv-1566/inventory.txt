@@ -1,0 +1,17 @@
+Title: Inv 1566
+
+----
+
+Inventory-id: 1566
+
+----
+
+Film: page://B0vxWhm921pRGixJ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 8LR3uND9j9UHSYbe

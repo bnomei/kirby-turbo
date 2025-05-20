@@ -1,0 +1,17 @@
+Title: Inv 952
+
+----
+
+Inventory-id: 952
+
+----
+
+Film: page://jmlWRHTE77vCq3AN
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 9ZvIXoc42PsghvaB

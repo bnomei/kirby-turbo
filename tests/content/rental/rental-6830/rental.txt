@@ -1,0 +1,25 @@
+Title: Rental 6830
+
+----
+
+Rental-id: 6830
+
+----
+
+Rental-date: 2005-07-12 18:42:55
+
+----
+
+Return-date: 2005-07-17 17:58:55
+
+----
+
+Inventory: page://vE8F27vcHfOZkTeE
+
+----
+
+Customer: page://cVyeNQ8g1rAU35Mi
+
+----
+
+Uuid: fMtLcFlWWgZr1jqa

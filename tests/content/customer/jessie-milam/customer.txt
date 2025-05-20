@@ -1,0 +1,33 @@
+Title: JESSIE MILAM
+
+----
+
+Customer-id: 533
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JESSIE
+
+----
+
+Last-name: MILAM
+
+----
+
+Email: JESSIE.MILAM@sakilacustomer.org
+
+----
+
+Address: page://7bXj2MQwuecCuSRM
+
+----
+
+Active: 1
+
+----
+
+Uuid: oltj71DespIyD8V2

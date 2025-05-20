@@ -1,0 +1,17 @@
+Title: Inv 2645
+
+----
+
+Inventory-id: 2645
+
+----
+
+Film: page://fMVuGw73V1AQomf3
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: tWTrZMe38mL8OQ2T

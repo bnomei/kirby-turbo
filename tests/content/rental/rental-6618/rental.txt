@@ -1,0 +1,25 @@
+Title: Rental 6618
+
+----
+
+Rental-id: 6618
+
+----
+
+Rental-date: 2005-07-12 08:41:42
+
+----
+
+Return-date: 2005-07-14 05:34:42
+
+----
+
+Inventory: page://4OgNrkgeRu05QDLo
+
+----
+
+Uuid: TMATa2clHeJ5EZ0s
+
+----
+
+Customer: page://wFOjfrR0gpP7jV9B

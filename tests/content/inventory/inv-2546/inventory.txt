@@ -1,0 +1,17 @@
+Title: Inv 2546
+
+----
+
+Inventory-id: 2546
+
+----
+
+Film: page://puoAkILBfsOTWn5V
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Oki3kFwXcTTQrkfN

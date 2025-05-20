@@ -1,0 +1,25 @@
+Title: Rental 8938
+
+----
+
+Rental-id: 8938
+
+----
+
+Rental-date: 2005-07-30 02:56:08
+
+----
+
+Return-date: 2005-07-31 23:08:08
+
+----
+
+Inventory: page://z1Pb3B3rYwixzpNA
+
+----
+
+Customer: page://4x9Op7aGVprxBkqV
+
+----
+
+Uuid: tafmlK8SgAB4OWK0

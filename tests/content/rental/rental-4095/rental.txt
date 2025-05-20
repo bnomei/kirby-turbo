@@ -1,0 +1,25 @@
+Title: Rental 4095
+
+----
+
+Rental-id: 4095
+
+----
+
+Rental-date: 2005-07-07 06:01:48
+
+----
+
+Return-date: 2005-07-15 02:52:48
+
+----
+
+Inventory: page://JoYkPHDDPYIJ0SrO
+
+----
+
+Uuid: YAB2ve0j98xq4KDG
+
+----
+
+Customer: page://Cc0UnWjmLMYrhwNc

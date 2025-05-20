@@ -1,0 +1,33 @@
+Title: ALMA AUSTIN
+
+----
+
+Customer-id: 196
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ALMA
+
+----
+
+Last-name: AUSTIN
+
+----
+
+Email: ALMA.AUSTIN@sakilacustomer.org
+
+----
+
+Address: page://YnAAYms32VbziK35
+
+----
+
+Active: 1
+
+----
+
+Uuid: TCHvKARcBg3R487d

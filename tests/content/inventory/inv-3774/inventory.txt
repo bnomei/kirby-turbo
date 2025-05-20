@@ -1,0 +1,17 @@
+Title: Inv 3774
+
+----
+
+Inventory-id: 3774
+
+----
+
+Film: page://l5UeCZIctfOr49V9
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 2zDL6ap31je20isr

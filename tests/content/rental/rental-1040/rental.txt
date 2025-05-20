@@ -1,0 +1,25 @@
+Title: Rental 1040
+
+----
+
+Rental-id: 1040
+
+----
+
+Rental-date: 2005-05-31 05:35:16
+
+----
+
+Return-date: 2005-06-09 04:14:16
+
+----
+
+Inventory: page://Oki3kFwXcTTQrkfN
+
+----
+
+Uuid: Pvrg0fum8sGGG7RT
+
+----
+
+Customer: page://YNtCpMJMomhTZceJ

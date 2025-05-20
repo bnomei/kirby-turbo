@@ -1,0 +1,25 @@
+Title: Rental 802
+
+----
+
+Rental-id: 802
+
+----
+
+Rental-date: 2005-05-29 17:38:59
+
+----
+
+Return-date: 2005-05-31 22:42:59
+
+----
+
+Inventory: page://7sN3SpRAusRqFSFJ
+
+----
+
+Uuid: cOPPFopNuiAwrF0Z
+
+----
+
+Customer: page://0i52La06CjBDGVTC

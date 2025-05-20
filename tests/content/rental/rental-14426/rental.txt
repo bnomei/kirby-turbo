@@ -1,0 +1,21 @@
+Title: Rental 14426
+
+----
+
+Rental-id: 14426
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://y4qIJR1bZbs8Ev3Z
+
+----
+
+Customer: page://DJ9aTh2f2iT5jahF
+
+----
+
+Uuid: TOUMPSqBJbGvA4NN

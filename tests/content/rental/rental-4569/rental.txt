@@ -1,0 +1,25 @@
+Title: Rental 4569
+
+----
+
+Rental-id: 4569
+
+----
+
+Rental-date: 2005-07-08 05:30:51
+
+----
+
+Return-date: 2005-07-14 04:14:51
+
+----
+
+Inventory: page://DUZNBYrM3xxkvDjW
+
+----
+
+Uuid: agSgkXv4cTH0JiWo
+
+----
+
+Customer: page://YQtY5BLLYVMlkjV2

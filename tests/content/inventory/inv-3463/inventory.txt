@@ -1,0 +1,17 @@
+Title: Inv 3463
+
+----
+
+Inventory-id: 3463
+
+----
+
+Film: page://eyh7Qh8NyEpYN7qG
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 2c1cd5LpI60BvSnf

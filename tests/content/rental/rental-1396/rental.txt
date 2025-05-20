@@ -1,0 +1,25 @@
+Title: Rental 1396
+
+----
+
+Rental-id: 1396
+
+----
+
+Rental-date: 2005-06-15 16:22:38
+
+----
+
+Return-date: 2005-06-17 15:53:38
+
+----
+
+Inventory: page://1GRzj6J5qyu0uIF4
+
+----
+
+Uuid: WoU58KbjyRRz5LS0
+
+----
+
+Customer: page://hqAf8WYPlK0t8DAi

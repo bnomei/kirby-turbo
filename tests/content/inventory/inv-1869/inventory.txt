@@ -1,0 +1,17 @@
+Title: Inv 1869
+
+----
+
+Inventory-id: 1869
+
+----
+
+Film: page://x0gO7YRtpNfgYnvF
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 5wkimoc40shkKqI1

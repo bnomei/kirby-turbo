@@ -1,0 +1,17 @@
+Title: Inv 3521
+
+----
+
+Inventory-id: 3521
+
+----
+
+Film: page://XQkDH0kWqMsGUW1V
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: kDGJ9DYYq9SbPCdO

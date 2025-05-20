@@ -1,0 +1,21 @@
+Title: ALBERT JOHANSSON
+
+----
+
+Actors: []
+
+----
+
+Actor-id: 146
+
+----
+
+First-name: ALBERT
+
+----
+
+Last-name: JOHANSSON
+
+----
+
+Uuid: 0h8tQJYts8gmFWwG

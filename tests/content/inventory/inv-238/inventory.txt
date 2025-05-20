@@ -1,0 +1,17 @@
+Title: Inv 238
+
+----
+
+Inventory-id: 238
+
+----
+
+Film: page://U9GJySbiwP3Ad0w2
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: bXmRjnpM41YGrJ6T

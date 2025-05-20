@@ -1,0 +1,25 @@
+Title: Rental 14042
+
+----
+
+Rental-id: 14042
+
+----
+
+Rental-date: 2005-08-20 21:45:51
+
+----
+
+Return-date: 2005-08-23 19:57:51
+
+----
+
+Inventory: page://XizqESn1V568nWHL
+
+----
+
+Customer: page://oJcvcv4yGdx8WGkJ
+
+----
+
+Uuid: ZIBSgNDjBO0gXoPY

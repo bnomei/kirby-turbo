@@ -1,0 +1,17 @@
+Title: Inv 95
+
+----
+
+Inventory-id: 95
+
+----
+
+Film: page://QD77987HYcwUu7rS
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 3fAoZIgytAu5YYNs

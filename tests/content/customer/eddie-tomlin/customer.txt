@@ -1,0 +1,33 @@
+Title: EDDIE TOMLIN
+
+----
+
+Customer-id: 434
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: EDDIE
+
+----
+
+Last-name: TOMLIN
+
+----
+
+Email: EDDIE.TOMLIN@sakilacustomer.org
+
+----
+
+Address: page://wNH0kno7542dYA1r
+
+----
+
+Active: 1
+
+----
+
+Uuid: XnsJqH5poBI9AFGR

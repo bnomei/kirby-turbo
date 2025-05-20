@@ -1,0 +1,25 @@
+Title: Rental 1044
+
+----
+
+Rental-id: 1044
+
+----
+
+Rental-date: 2005-05-31 06:24:44
+
+----
+
+Return-date: 2005-06-03 04:51:44
+
+----
+
+Inventory: page://xZMQVZYUmdSrLL76
+
+----
+
+Uuid: gpq5UgxH1FGyJdw1
+
+----
+
+Customer: page://OgdGkik1rnAhaDTs

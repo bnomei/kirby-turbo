@@ -1,0 +1,17 @@
+Title: Inv 1629
+
+----
+
+Inventory-id: 1629
+
+----
+
+Film: page://8YxQQDXAC5YcAllo
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 12vbSLFSyx8WaGcQ

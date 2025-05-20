@@ -1,0 +1,25 @@
+Title: Rental 9986
+
+----
+
+Rental-id: 9986
+
+----
+
+Rental-date: 2005-07-31 17:16:50
+
+----
+
+Return-date: 2005-08-05 18:34:50
+
+----
+
+Inventory: page://9QtXRZY0bPFP4KAO
+
+----
+
+Customer: page://PRYZKLCz6ndr3bge
+
+----
+
+Uuid: DegjYBMrWkGpqvEW

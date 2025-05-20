@@ -1,0 +1,43 @@
+Title: SPIRITED CASUALTIES
+
+----
+
+Actors:
+
+- 'page://e0jga56TJCBrOXvD'
+- 'page://JrsbillMdFUVLTOe'
+- 'page://if8hfrmRoIODgwSa'
+- 'page://wxM7fPnQeVIlPpuJ'
+- 'page://6LG8mbCuu1aKuRcl'
+
+----
+
+Film-id: 831
+
+----
+
+Description: A Taut Story of a Waitress And a Man who must Face a Car in A Baloon Factory
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 138
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: I5vJzIp238MGKUOB
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

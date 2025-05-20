@@ -1,0 +1,25 @@
+Title: Rental 3320
+
+----
+
+Rental-id: 3320
+
+----
+
+Rental-date: 2005-06-21 08:29:41
+
+----
+
+Return-date: 2005-06-29 13:54:41
+
+----
+
+Inventory: page://jXj50ELlOr9xTTfu
+
+----
+
+Uuid: vXE8ueuXuDLH0aRi
+
+----
+
+Customer: page://NrafIAvjIpyEt9v1

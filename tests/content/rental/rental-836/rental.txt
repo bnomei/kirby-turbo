@@ -1,0 +1,25 @@
+Title: Rental 836
+
+----
+
+Rental-id: 836
+
+----
+
+Rental-date: 2005-05-29 23:56:42
+
+----
+
+Return-date: 2005-05-31 04:11:42
+
+----
+
+Inventory: page://iTw5pjRVZYQPVmr8
+
+----
+
+Uuid: r1uXHp1tCJGBlKA2
+
+----
+
+Customer: page://iYFUE0tzXJVxueTP

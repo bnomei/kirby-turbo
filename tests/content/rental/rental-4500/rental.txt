@@ -1,0 +1,25 @@
+Title: Rental 4500
+
+----
+
+Rental-id: 4500
+
+----
+
+Rental-date: 2005-07-08 02:10:01
+
+----
+
+Return-date: 2005-07-15 05:49:01
+
+----
+
+Inventory: page://cJkXOMWKyM9Kbl1K
+
+----
+
+Uuid: mhNEv2ZWAggF6sOL
+
+----
+
+Customer: page://nYhpEPDMjzk9g7hI

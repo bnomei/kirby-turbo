@@ -1,0 +1,17 @@
+Title: Inv 2261
+
+----
+
+Inventory-id: 2261
+
+----
+
+Film: page://miWTKbUjegsQcVMu
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Fe7MQM0Hnpx4fefo

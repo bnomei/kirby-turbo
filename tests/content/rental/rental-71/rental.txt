@@ -1,0 +1,25 @@
+Title: Rental 71
+
+----
+
+Rental-id: 71
+
+----
+
+Rental-date: 2005-05-25 10:26:39
+
+----
+
+Return-date: 2005-05-28 04:59:39
+
+----
+
+Inventory: page://Wd44NVbvFjGLdCTe
+
+----
+
+Uuid: gfo1K1n0MvgqY4Y3
+
+----
+
+Customer: page://QeuxX9yTBxjOmAeR

@@ -1,0 +1,25 @@
+Title: Rental 15170
+
+----
+
+Rental-id: 15170
+
+----
+
+Rental-date: 2005-08-22 15:22:15
+
+----
+
+Return-date: 2005-08-23 20:32:15
+
+----
+
+Inventory: page://lIAl23tlZFxwUkrY
+
+----
+
+Customer: page://n1tj3686KMQn13h6
+
+----
+
+Uuid: WPYm7vBwedzUO9Sn

@@ -1,0 +1,21 @@
+Title: Rental 14415
+
+----
+
+Rental-id: 14415
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://XJY8z6pNrp20uu5X
+
+----
+
+Customer: page://xiuePi4NIEUJXUwz
+
+----
+
+Uuid: qAR0eWU7ZBc8OWNI

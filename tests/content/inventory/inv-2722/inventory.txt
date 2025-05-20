@@ -1,0 +1,17 @@
+Title: Inv 2722
+
+----
+
+Inventory-id: 2722
+
+----
+
+Film: page://T3Kys4vr6wZ9lr7T
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 35Ywrw2aunTdkEwN

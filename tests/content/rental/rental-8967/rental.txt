@@ -1,0 +1,25 @@
+Title: Rental 8967
+
+----
+
+Rental-id: 8967
+
+----
+
+Rental-date: 2005-07-30 03:56:55
+
+----
+
+Return-date: 2005-08-06 05:25:55
+
+----
+
+Inventory: page://YopfVSeWHRXEhlBd
+
+----
+
+Customer: page://VhNFaZVA09U1QRJB
+
+----
+
+Uuid: jx7ea0bpidn2z9Nt

@@ -1,0 +1,43 @@
+Title: ROBBERS JOON
+
+----
+
+Actors:
+
+- 'page://gxNf949gkwS5ks3A'
+- 'page://Ppjj85F3dapvXsi8'
+- 'page://6jpBKUOTpGMSQxJe'
+- 'page://8sAZxgGEUjJot3JV'
+- 'page://3XS33oPl7qwaYDh3'
+
+----
+
+Film-id: 735
+
+----
+
+Description: A Thoughtful Story of a Mad Scientist And a Waitress who must Confront a Forensic Psychologist in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 102
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Commentaries
+
+----
+
+Uuid: JZKZHd1XqXdOF2GJ
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

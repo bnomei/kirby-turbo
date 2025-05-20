@@ -1,0 +1,25 @@
+Title: Rental 7368
+
+----
+
+Rental-id: 7368
+
+----
+
+Rental-date: 2005-07-27 15:06:05
+
+----
+
+Return-date: 2005-07-31 14:10:05
+
+----
+
+Inventory: page://LoeP3GuFKrqygfY5
+
+----
+
+Customer: page://luJ7Uo5a2aftAMEN
+
+----
+
+Uuid: 8jZTc5VYd9F7aqly

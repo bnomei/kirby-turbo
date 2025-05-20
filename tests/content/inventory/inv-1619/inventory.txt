@@ -1,0 +1,17 @@
+Title: Inv 1619
+
+----
+
+Inventory-id: 1619
+
+----
+
+Film: page://ytugxH0cLSUbdLx9
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: nvN8BfHA52mGRKAJ

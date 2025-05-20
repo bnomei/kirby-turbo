@@ -1,0 +1,17 @@
+Title: Inv 2861
+
+----
+
+Inventory-id: 2861
+
+----
+
+Film: page://Tb6G4JMoVBTwHEKW
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: xMdRfZnOzyORMXzU

@@ -1,0 +1,25 @@
+Title: Rental 6228
+
+----
+
+Rental-id: 6228
+
+----
+
+Rental-date: 2005-07-11 13:58:36
+
+----
+
+Return-date: 2005-07-17 19:03:36
+
+----
+
+Inventory: page://MKJiASiYlGWTpB4V
+
+----
+
+Uuid: GcwGcap69NLZii2N
+
+----
+
+Customer: page://1Uz8TMpklCxhdMmv

@@ -1,0 +1,25 @@
+Title: Rental 241
+
+----
+
+Rental-id: 241
+
+----
+
+Rental-date: 2005-05-26 12:49:01
+
+----
+
+Return-date: 2005-05-28 11:43:01
+
+----
+
+Inventory: page://HZ9IXEnPMWP3VjAV
+
+----
+
+Uuid: Dix2jFVaevrA2VPS
+
+----
+
+Customer: page://pb7ZrH0vPEWpfLP3

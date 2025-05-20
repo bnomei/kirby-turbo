@@ -1,0 +1,25 @@
+Title: Rental 5003
+
+----
+
+Rental-id: 5003
+
+----
+
+Rental-date: 2005-07-09 01:19:03
+
+----
+
+Return-date: 2005-07-10 04:28:03
+
+----
+
+Inventory: page://ZAnPk7Da2mSc9hY7
+
+----
+
+Uuid: DmzkSv6MWbO1XCUD
+
+----
+
+Customer: page://yvKogFHQVJDnr873

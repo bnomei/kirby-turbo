@@ -1,0 +1,25 @@
+Title: Rental 6175
+
+----
+
+Rental-id: 6175
+
+----
+
+Rental-date: 2005-07-11 10:44:37
+
+----
+
+Return-date: 2005-07-15 08:13:37
+
+----
+
+Inventory: page://06svOWLUSRsouxmg
+
+----
+
+Uuid: 2zQKifRLk97v4p6E
+
+----
+
+Customer: page://KVKe37M7cjhEl7hH

@@ -1,0 +1,17 @@
+Title: Inv 3705
+
+----
+
+Inventory-id: 3705
+
+----
+
+Film: page://cxBX1iuD9IbXYvn0
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: vViCQDmLAQ3NL0Sm

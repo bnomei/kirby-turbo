@@ -1,0 +1,25 @@
+Title: Rental 1930
+
+----
+
+Rental-id: 1930
+
+----
+
+Rental-date: 2005-06-17 06:50:46
+
+----
+
+Return-date: 2005-06-19 08:51:46
+
+----
+
+Inventory: page://RoDQyBHg2PElTYDN
+
+----
+
+Uuid: CiTUNGIdMSINnzLS
+
+----
+
+Customer: page://azB08HSjJtUYxOM2

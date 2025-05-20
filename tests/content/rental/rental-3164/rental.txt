@@ -1,0 +1,25 @@
+Title: Rental 3164
+
+----
+
+Rental-id: 3164
+
+----
+
+Rental-date: 2005-06-20 21:29:00
+
+----
+
+Return-date: 2005-06-27 15:50:00
+
+----
+
+Inventory: page://CQeZpVdZzLM2sLBS
+
+----
+
+Uuid: cLkNYaLavbLe5G3L
+
+----
+
+Customer: page://YNtCpMJMomhTZceJ

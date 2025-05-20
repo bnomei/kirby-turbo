@@ -1,0 +1,25 @@
+Title: Rental 7763
+
+----
+
+Rental-id: 7763
+
+----
+
+Rental-date: 2005-07-28 06:35:16
+
+----
+
+Return-date: 2005-08-03 02:46:16
+
+----
+
+Inventory: page://grX2u8qjGIN8oIOR
+
+----
+
+Customer: page://T9Zm4dl6jOmrQnrt
+
+----
+
+Uuid: oWOr8swZB4oM8Gio

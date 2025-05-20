@@ -1,0 +1,25 @@
+Title: Rental 9790
+
+----
+
+Rental-id: 9790
+
+----
+
+Rental-date: 2005-07-31 10:34:08
+
+----
+
+Return-date: 2005-08-04 11:19:08
+
+----
+
+Inventory: page://NH0SKrvfiZ6CVbEG
+
+----
+
+Customer: page://DQdRudB4hPmZIfVZ
+
+----
+
+Uuid: E57YwlzLt40nV1Q0

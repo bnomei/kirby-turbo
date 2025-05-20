@@ -1,0 +1,17 @@
+Title: Inv 235
+
+----
+
+Inventory-id: 235
+
+----
+
+Film: page://HAi3nfjTqZT3CPQV
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: MEH4eeqSoC9CtWEV

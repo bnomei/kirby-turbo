@@ -1,0 +1,25 @@
+Title: Rental 11532
+
+----
+
+Rental-id: 11532
+
+----
+
+Rental-date: 2005-08-17 00:34:14
+
+----
+
+Return-date: 2005-08-22 19:37:14
+
+----
+
+Inventory: page://aVkZaPNqtctVfEMW
+
+----
+
+Customer: page://RnVJUD7kCw5r9OCn
+
+----
+
+Uuid: CluUl0awzXjavJXS

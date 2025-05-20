@@ -1,0 +1,33 @@
+Title: NICOLE PETERSON
+
+----
+
+Customer-id: 68
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: NICOLE
+
+----
+
+Last-name: PETERSON
+
+----
+
+Email: NICOLE.PETERSON@sakilacustomer.org
+
+----
+
+Address: page://RtigcYQDiI5eCrwm
+
+----
+
+Active: 1
+
+----
+
+Uuid: CUdWGJW9AwcLTKhu

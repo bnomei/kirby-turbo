@@ -1,0 +1,25 @@
+Title: Rental 2307
+
+----
+
+Rental-id: 2307
+
+----
+
+Rental-date: 2005-06-18 08:34:59
+
+----
+
+Return-date: 2005-06-23 04:42:59
+
+----
+
+Inventory: page://y66US5or0LHLnpdi
+
+----
+
+Uuid: lOsDy3uOxP1kewLv
+
+----
+
+Customer: page://NrafIAvjIpyEt9v1

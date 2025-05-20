@@ -1,0 +1,25 @@
+Title: Rental 15789
+
+----
+
+Rental-id: 15789
+
+----
+
+Rental-date: 2005-08-23 13:56:40
+
+----
+
+Return-date: 2005-08-27 15:25:40
+
+----
+
+Inventory: page://axoa0FpYhQyGl0MZ
+
+----
+
+Customer: page://0i52La06CjBDGVTC
+
+----
+
+Uuid: OVx67Gb4QEE7A8PG

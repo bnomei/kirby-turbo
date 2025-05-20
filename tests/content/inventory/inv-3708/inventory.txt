@@ -1,0 +1,17 @@
+Title: Inv 3708
+
+----
+
+Inventory-id: 3708
+
+----
+
+Film: page://tvSliGimEL8LW1bu
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: McE6pFvxMGzMc9Rh

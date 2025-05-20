@@ -1,0 +1,17 @@
+Title: Inv 3568
+
+----
+
+Inventory-id: 3568
+
+----
+
+Film: page://iBs3sowedbV8CX1C
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: pg77SiF2ebayY3JH

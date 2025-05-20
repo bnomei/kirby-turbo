@@ -1,0 +1,37 @@
+Title: LOLITA WORLD
+
+----
+
+Actors: - 'page://xbVuFnPKikNsqVkK'
+
+----
+
+Film-id: 528
+
+----
+
+Description: A Thrilling Drama of a Girl And a Robot who must Redeem a Waitress in An Abandoned Mine Shaft
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 155
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: 3k1PVjsO8htXJspc
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

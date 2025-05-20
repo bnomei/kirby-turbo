@@ -1,0 +1,43 @@
+Title: KANE EXORCIST
+
+----
+
+Actors:
+
+- 'page://MKZPC2AFXFjwPRw8'
+- 'page://xuTGKKs3dxu4jXhx'
+- 'page://ovAz2jwmaTIz5ph9'
+- 'page://m4qBDyQ4vBdo5EcB'
+- 'page://V93xbOGPlOsB9ymO'
+
+----
+
+Film-id: 493
+
+----
+
+Description: A Epic Documentary of a Composer And a Robot who must Overcome a Car in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 92
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: 4vIUTrvVPhpnfFf4
+
+----
+
+Categories: - 'page://1zSlwtq2IyzVh9Hs'

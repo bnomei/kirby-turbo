@@ -1,0 +1,25 @@
+Title: Rental 10526
+
+----
+
+Rental-id: 10526
+
+----
+
+Rental-date: 2005-08-01 11:55:33
+
+----
+
+Return-date: 2005-08-08 16:42:33
+
+----
+
+Inventory: page://eYCt3MZiR3b8HBU4
+
+----
+
+Customer: page://aFkGopCOghEK7p34
+
+----
+
+Uuid: VEqCRt8xducIFqR6

@@ -1,0 +1,33 @@
+Title: JOHN FARNSWORTH
+
+----
+
+Customer-id: 300
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JOHN
+
+----
+
+Last-name: FARNSWORTH
+
+----
+
+Email: JOHN.FARNSWORTH@sakilacustomer.org
+
+----
+
+Address: page://8qIv4o91Hu57Li1o
+
+----
+
+Active: 1
+
+----
+
+Uuid: b45xFslb4E5TbKQI

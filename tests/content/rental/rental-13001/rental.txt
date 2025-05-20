@@ -1,0 +1,25 @@
+Title: Rental 13001
+
+----
+
+Rental-id: 13001
+
+----
+
+Rental-date: 2005-08-19 07:36:44
+
+----
+
+Return-date: 2005-08-22 13:06:44
+
+----
+
+Inventory: page://zAcsoJGj6Ge2VM5z
+
+----
+
+Customer: page://v2N94muKJ3uhMCtA
+
+----
+
+Uuid: B8qhAwDlfCnMRwvD

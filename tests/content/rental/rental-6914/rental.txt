@@ -1,0 +1,25 @@
+Title: Rental 6914
+
+----
+
+Rental-id: 6914
+
+----
+
+Rental-date: 2005-07-12 22:26:56
+
+----
+
+Return-date: 2005-07-17 20:03:56
+
+----
+
+Inventory: page://wYgyucBYwO3Ru8Qm
+
+----
+
+Customer: page://LGMzuvWnmjAofA2U
+
+----
+
+Uuid: BNTo6MpqSCkScm2w

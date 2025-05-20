@@ -1,0 +1,25 @@
+Title: Rental 14041
+
+----
+
+Rental-id: 14041
+
+----
+
+Rental-date: 2005-08-20 21:45:23
+
+----
+
+Return-date: 2005-08-26 01:42:23
+
+----
+
+Inventory: page://qnC37qjyyvBcjMtB
+
+----
+
+Customer: page://Z0SLCRZPQYYmETgw
+
+----
+
+Uuid: XHojDL656YeoenX1

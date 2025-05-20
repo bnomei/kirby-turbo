@@ -1,0 +1,17 @@
+Title: Inv 535
+
+----
+
+Inventory-id: 535
+
+----
+
+Film: page://c5GOatnlFKpH3g65
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: gsgqiuqiEo1Mrlo4

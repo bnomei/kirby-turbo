@@ -1,0 +1,25 @@
+Title: Rental 6010
+
+----
+
+Rental-id: 6010
+
+----
+
+Rental-date: 2005-07-11 01:52:28
+
+----
+
+Return-date: 2005-07-13 03:13:28
+
+----
+
+Inventory: page://CwuNmUMu8kOq6ZUP
+
+----
+
+Uuid: uPsYsL5Xqlz7jbOc
+
+----
+
+Customer: page://lur9c4IA9ICHuaKZ

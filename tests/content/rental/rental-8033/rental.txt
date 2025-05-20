@@ -1,0 +1,25 @@
+Title: Rental 8033
+
+----
+
+Rental-id: 8033
+
+----
+
+Rental-date: 2005-07-28 16:18:23
+
+----
+
+Return-date: 2005-07-30 17:56:23
+
+----
+
+Inventory: page://JAZwie0fyAYLeylg
+
+----
+
+Customer: page://XT1tDVBbJppqjfak
+
+----
+
+Uuid: oxbspP52ifiu8aVN

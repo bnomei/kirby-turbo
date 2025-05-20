@@ -1,0 +1,33 @@
+Title: LAUREN HUDSON
+
+----
+
+Customer-id: 162
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: LAUREN
+
+----
+
+Last-name: HUDSON
+
+----
+
+Email: LAUREN.HUDSON@sakilacustomer.org
+
+----
+
+Address: page://yIn1YGGP4YHicgPk
+
+----
+
+Active: 1
+
+----
+
+Uuid: ZE8wStFA2oAHt4TP

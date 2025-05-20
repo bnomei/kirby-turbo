@@ -1,0 +1,17 @@
+Title: Inv 1008
+
+----
+
+Inventory-id: 1008
+
+----
+
+Film: page://mISz5LfGO1wZEfg8
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: INruBSY0fpvRcRf9

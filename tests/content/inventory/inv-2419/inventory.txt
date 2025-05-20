@@ -1,0 +1,17 @@
+Title: Inv 2419
+
+----
+
+Inventory-id: 2419
+
+----
+
+Film: page://YUzfc16cDD1MlAAL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 5BLQVcCApMC8JuO7

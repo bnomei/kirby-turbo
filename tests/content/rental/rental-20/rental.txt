@@ -1,0 +1,25 @@
+Title: Rental 20
+
+----
+
+Rental-id: 20
+
+----
+
+Rental-date: 2005-05-25 01:48:41
+
+----
+
+Return-date: 2005-05-27 02:20:41
+
+----
+
+Inventory: page://0g7rhFnWiyQ88itz
+
+----
+
+Uuid: fz2fl2yPRPoVQcXa
+
+----
+
+Customer: page://FVBT09sa4x7FnbO2

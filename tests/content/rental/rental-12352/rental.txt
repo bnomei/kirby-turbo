@@ -1,0 +1,21 @@
+Title: Rental 12352
+
+----
+
+Rental-id: 12352
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://Ml9mmtKTxorTpuIi
+
+----
+
+Customer: page://NYz6xFh3YMDJXr29
+
+----
+
+Uuid: 5XSCZX2F1eQU3E6I

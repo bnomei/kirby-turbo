@@ -1,0 +1,25 @@
+Title: Rental 122
+
+----
+
+Rental-id: 122
+
+----
+
+Rental-date: 2005-05-25 19:46:21
+
+----
+
+Return-date: 2005-06-02 19:07:21
+
+----
+
+Inventory: page://nHJRWt7ukodtT61r
+
+----
+
+Uuid: cNuhA9sSyUAQllZ1
+
+----
+
+Customer: page://B4FRgaimwSexVazW

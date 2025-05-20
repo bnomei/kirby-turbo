@@ -1,0 +1,17 @@
+Title: Inv 2085
+
+----
+
+Inventory-id: 2085
+
+----
+
+Film: page://cMs8ov7gYU0Vvqhi
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: bRRXXikr8jq7CWcy

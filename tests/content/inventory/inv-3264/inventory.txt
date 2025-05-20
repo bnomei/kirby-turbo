@@ -1,0 +1,17 @@
+Title: Inv 3264
+
+----
+
+Inventory-id: 3264
+
+----
+
+Film: page://6eqcBGhkrVe0rMG7
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: xJA0wlMxlDx6pFeg

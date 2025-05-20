@@ -1,0 +1,42 @@
+Title: GOLDFINGER SENSIBILITY
+
+----
+
+Actors:
+
+- 'page://EOOflmfeZlmBOGUJ'
+- 'page://5ruVLAhmJBWUKPci'
+- 'page://gELBLdH4G3cmVmcs'
+- 'page://4H5a71re4eGpTLKc'
+
+----
+
+Film-id: 366
+
+----
+
+Description: A Insightful Drama of a Mad Scientist And a Hunter who must Defeat a Pastry Chef in New Orleans
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 93
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: yyRGFoXZxZZSiUak
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

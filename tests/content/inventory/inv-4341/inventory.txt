@@ -1,0 +1,17 @@
+Title: Inv 4341
+
+----
+
+Inventory-id: 4341
+
+----
+
+Film: page://YvmY2dKl32dFuhg0
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: KDzkWVV8RWZO7H56

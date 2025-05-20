@@ -1,0 +1,17 @@
+Title: Inv 2782
+
+----
+
+Inventory-id: 2782
+
+----
+
+Film: page://ST9ip5PSHdw6JvAf
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: VfLdWWEIlBUxnhwT

@@ -1,0 +1,25 @@
+Title: Rental 13930
+
+----
+
+Rental-id: 13930
+
+----
+
+Rental-date: 2005-08-20 17:15:06
+
+----
+
+Return-date: 2005-08-21 14:29:06
+
+----
+
+Inventory: page://CeIu3oU8rZfc7J5K
+
+----
+
+Customer: page://Q7dhYbg8UImMpiau
+
+----
+
+Uuid: JyckoCbEaj2TtoXY

@@ -1,0 +1,25 @@
+Title: Rental 5874
+
+----
+
+Rental-id: 5874
+
+----
+
+Rental-date: 2005-07-10 19:02:51
+
+----
+
+Return-date: 2005-07-16 13:14:51
+
+----
+
+Inventory: page://5TULcD3XxF0wXpoX
+
+----
+
+Uuid: btyx7BU1QOiKUit4
+
+----
+
+Customer: page://N95O2afia8ED5CLD

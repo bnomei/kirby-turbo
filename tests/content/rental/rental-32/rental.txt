@@ -1,0 +1,25 @@
+Title: Rental 32
+
+----
+
+Rental-id: 32
+
+----
+
+Rental-date: 2005-05-25 04:06:21
+
+----
+
+Return-date: 2005-05-25 23:55:21
+
+----
+
+Inventory: page://Gk6Edw5LtznfyqM4
+
+----
+
+Uuid: TYBq31L9q9A0YTVz
+
+----
+
+Customer: page://ltxKpaFHuKcnO7ee

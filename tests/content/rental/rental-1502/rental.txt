@@ -1,0 +1,25 @@
+Title: Rental 1502
+
+----
+
+Rental-id: 1502
+
+----
+
+Rental-date: 2005-06-15 22:03:14
+
+----
+
+Return-date: 2005-06-23 18:42:14
+
+----
+
+Inventory: page://yR2um7KZEKLPdrX8
+
+----
+
+Uuid: kNbtiXdvd492UpKu
+
+----
+
+Customer: page://stFkFNmIWPMkzEB2

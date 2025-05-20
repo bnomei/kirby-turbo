@@ -1,0 +1,42 @@
+Title: CLUB GRAFFITI
+
+----
+
+Actors:
+
+- 'page://Kx231VrTuxlFk3Xg'
+- 'page://qCm78VMzP14zbmIL'
+- 'page://kglHBUzvM27ekW4e'
+- 'page://OGjAu4hPWyVISsAa'
+
+----
+
+Film-id: 160
+
+----
+
+Description: A Epic Tale of a Pioneer And a Hunter who must Escape a Girl in A U-Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 65
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: PPtZE2Wn6tV3XJJA
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

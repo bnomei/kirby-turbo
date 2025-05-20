@@ -1,0 +1,21 @@
+Title: FRANCES DAY-LEWIS
+
+----
+
+Actors: []
+
+----
+
+Actor-id: 48
+
+----
+
+First-name: FRANCES
+
+----
+
+Last-name: DAY-LEWIS
+
+----
+
+Uuid: 8uCKHWVFS7qGgYjl

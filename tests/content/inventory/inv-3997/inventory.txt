@@ -1,0 +1,17 @@
+Title: Inv 3997
+
+----
+
+Inventory-id: 3997
+
+----
+
+Film: page://iGsPfI8b7Gn5X4mj
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: q9fn90RZFKVqXeoK

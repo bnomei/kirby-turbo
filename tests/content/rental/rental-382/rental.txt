@@ -1,0 +1,25 @@
+Title: Rental 382
+
+----
+
+Rental-id: 382
+
+----
+
+Rental-date: 2005-05-27 10:12:00
+
+----
+
+Return-date: 2005-05-31 15:03:00
+
+----
+
+Inventory: page://giHzoIL69LSDCtUy
+
+----
+
+Uuid: aFnc1iibVHILmxFk
+
+----
+
+Customer: page://DMcOFvIGwUGtGqRT

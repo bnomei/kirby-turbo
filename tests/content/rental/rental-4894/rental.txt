@@ -1,0 +1,25 @@
+Title: Rental 4894
+
+----
+
+Rental-id: 4894
+
+----
+
+Rental-date: 2005-07-08 20:21:31
+
+----
+
+Return-date: 2005-07-11 01:59:31
+
+----
+
+Inventory: page://EaWYfYoF56O1WcXq
+
+----
+
+Uuid: VTMmomOfbuk5tEFI
+
+----
+
+Customer: page://luJ7Uo5a2aftAMEN

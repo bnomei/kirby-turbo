@@ -1,0 +1,17 @@
+Title: Inv 1487
+
+----
+
+Inventory-id: 1487
+
+----
+
+Film: page://oezWSCFfJShYLNTc
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: TCvuK6t8wfxLFhrN

@@ -1,0 +1,33 @@
+Title: CLIFTON MALCOLM
+
+----
+
+Customer-id: 577
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: CLIFTON
+
+----
+
+Last-name: MALCOLM
+
+----
+
+Email: CLIFTON.MALCOLM@sakilacustomer.org
+
+----
+
+Address: page://2yjVDpQxeESa6dRB
+
+----
+
+Active: 1
+
+----
+
+Uuid: M9liVKyqTs6BXoqT

@@ -1,0 +1,25 @@
+Title: Rental 6576
+
+----
+
+Rental-id: 6576
+
+----
+
+Rental-date: 2005-07-12 06:13:41
+
+----
+
+Return-date: 2005-07-16 03:22:41
+
+----
+
+Inventory: page://rZhhOKkHWCJWb4FZ
+
+----
+
+Uuid: HAF3jA4VIH92qJ85
+
+----
+
+Customer: page://6AfyzE8pXJJyjhny

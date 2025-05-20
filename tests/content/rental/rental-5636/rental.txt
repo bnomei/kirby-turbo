@@ -1,0 +1,25 @@
+Title: Rental 5636
+
+----
+
+Rental-id: 5636
+
+----
+
+Rental-date: 2005-07-10 06:31:24
+
+----
+
+Return-date: 2005-07-13 02:36:24
+
+----
+
+Inventory: page://oVRRMXSqmyN0S14P
+
+----
+
+Uuid: mNugA3hpbc16lVSR
+
+----
+
+Customer: page://FiEjPjAVk9G7zTXB

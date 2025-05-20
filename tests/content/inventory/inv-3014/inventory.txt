@@ -1,0 +1,17 @@
+Title: Inv 3014
+
+----
+
+Inventory-id: 3014
+
+----
+
+Film: page://Wd6y1x0ScTdzZjcc
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: fuyOYU9vdOzASUnn

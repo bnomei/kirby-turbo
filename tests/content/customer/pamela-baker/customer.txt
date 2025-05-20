@@ -1,0 +1,33 @@
+Title: PAMELA BAKER
+
+----
+
+Customer-id: 37
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: PAMELA
+
+----
+
+Last-name: BAKER
+
+----
+
+Email: PAMELA.BAKER@sakilacustomer.org
+
+----
+
+Address: page://zDSM0878kB2Q6pii
+
+----
+
+Active: 1
+
+----
+
+Uuid: RH9TtdXlc9gxe8gh

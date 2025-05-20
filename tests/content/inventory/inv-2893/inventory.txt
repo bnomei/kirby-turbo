@@ -1,0 +1,17 @@
+Title: Inv 2893
+
+----
+
+Inventory-id: 2893
+
+----
+
+Film: page://Qud30oiBIuQBFrMY
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: euC2gs3QGlQ3ry9Q

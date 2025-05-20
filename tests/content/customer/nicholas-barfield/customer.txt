@@ -1,0 +1,33 @@
+Title: NICHOLAS BARFIELD
+
+----
+
+Customer-id: 362
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: NICHOLAS
+
+----
+
+Last-name: BARFIELD
+
+----
+
+Email: NICHOLAS.BARFIELD@sakilacustomer.org
+
+----
+
+Address: page://qnhE59YFs3KWp84c
+
+----
+
+Active: 1
+
+----
+
+Uuid: 6AfyzE8pXJJyjhny

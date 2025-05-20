@@ -1,0 +1,25 @@
+Title: Rental 1236
+
+----
+
+Rental-id: 1236
+
+----
+
+Rental-date: 2005-06-15 04:34:27
+
+----
+
+Return-date: 2005-06-18 08:15:27
+
+----
+
+Inventory: page://FZal92Hh5xdguiLl
+
+----
+
+Uuid: sEPkJtzr7FOzmCDc
+
+----
+
+Customer: page://rtPPzvWhh7zAFt5a

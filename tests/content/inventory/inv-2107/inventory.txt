@@ -1,0 +1,17 @@
+Title: Inv 2107
+
+----
+
+Inventory-id: 2107
+
+----
+
+Film: page://rUbIc6sEBrJjva9Z
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: hHSh1P0nOjAH59RO

@@ -1,0 +1,17 @@
+Title: Inv 3678
+
+----
+
+Inventory-id: 3678
+
+----
+
+Film: page://0rk75i0qsEWOb1ie
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 4U0H9eoqxShBaKgw

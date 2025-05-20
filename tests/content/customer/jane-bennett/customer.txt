@@ -1,0 +1,33 @@
+Title: JANE BENNETT
+
+----
+
+Customer-id: 77
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JANE
+
+----
+
+Last-name: BENNETT
+
+----
+
+Email: JANE.BENNETT@sakilacustomer.org
+
+----
+
+Address: page://8kbf5DqiEVTphD0K
+
+----
+
+Active: 1
+
+----
+
+Uuid: ssRpWEJq6gKOyUIh

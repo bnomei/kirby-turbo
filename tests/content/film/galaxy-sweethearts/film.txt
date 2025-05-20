@@ -1,0 +1,41 @@
+Title: GALAXY SWEETHEARTS
+
+----
+
+Actors:
+
+- 'page://xbVuFnPKikNsqVkK'
+- 'page://OGjAu4hPWyVISsAa'
+- 'page://DwMOxcgjVYPNg15d'
+
+----
+
+Film-id: 346
+
+----
+
+Description: A Emotional Reflection of a Womanizer And a Pioneer who must Face a Squirrel in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 128
+
+----
+
+Rating: R
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: TdN5H8oupvm1ySSj
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

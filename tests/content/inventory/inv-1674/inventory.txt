@@ -1,0 +1,17 @@
+Title: Inv 1674
+
+----
+
+Inventory-id: 1674
+
+----
+
+Film: page://yyRGFoXZxZZSiUak
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: yFwcK0lddzJoBFZh

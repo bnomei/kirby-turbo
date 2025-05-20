@@ -1,0 +1,17 @@
+Title: Inv 600
+
+----
+
+Inventory-id: 600
+
+----
+
+Film: page://dG1gmvAp9WM7LIHy
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Uz1pLVydnE7SPxBB

@@ -1,0 +1,17 @@
+Title: Funafuti
+
+----
+
+City-id: 173
+
+----
+
+City: Funafuti
+
+----
+
+Country: page://ZiG4Z8j9Yk55uCMt
+
+----
+
+Uuid: Pb6mkiKxtvFimaCC

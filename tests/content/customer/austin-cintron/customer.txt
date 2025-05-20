@@ -1,0 +1,33 @@
+Title: AUSTIN CINTRON
+
+----
+
+Customer-id: 599
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: AUSTIN
+
+----
+
+Last-name: CINTRON
+
+----
+
+Email: AUSTIN.CINTRON@sakilacustomer.org
+
+----
+
+Address: page://d5tzSVl7nTeKircY
+
+----
+
+Active: 1
+
+----
+
+Uuid: yIwfaiZ5vQfAWusn

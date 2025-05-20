@@ -1,0 +1,17 @@
+Title: Inv 3072
+
+----
+
+Inventory-id: 3072
+
+----
+
+Film: page://qJJTbkgi4aJuQXIF
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 7jvrPaxQVZtIeQAO

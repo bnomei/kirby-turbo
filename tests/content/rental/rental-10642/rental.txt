@@ -1,0 +1,25 @@
+Title: Rental 10642
+
+----
+
+Rental-id: 10642
+
+----
+
+Rental-date: 2005-08-01 15:45:11
+
+----
+
+Return-date: 2005-08-02 20:13:11
+
+----
+
+Inventory: page://UTxodQMA1PIOpSJL
+
+----
+
+Customer: page://lFmyRUfgnuMLYrme
+
+----
+
+Uuid: YqWtkf16OY7lGbAC

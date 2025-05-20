@@ -1,0 +1,41 @@
+Title: TRADING PINOCCHIO
+
+----
+
+Actors:
+
+- 'page://qGB9wRd16f9YwbHn'
+- 'page://JeeyeDJ3FmxSMbIy'
+- 'page://I440rKCeu4AX6xcF'
+
+----
+
+Film-id: 902
+
+----
+
+Description: A Emotional Character Study of a Student And a Explorer who must Discover a Frisbee in The First Manned Space Station
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 170
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: VZd0eAzhXfIzM7p4
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

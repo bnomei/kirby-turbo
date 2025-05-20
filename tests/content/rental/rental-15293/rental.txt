@@ -1,0 +1,21 @@
+Title: Rental 15293
+
+----
+
+Rental-id: 15293
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://ZPIJaziRLnKYBTQj
+
+----
+
+Customer: page://LkVYh5o7IeTTcWDZ
+
+----
+
+Uuid: Rt7yPYkusg3ccl0P

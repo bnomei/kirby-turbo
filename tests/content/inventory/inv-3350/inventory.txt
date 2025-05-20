@@ -1,0 +1,17 @@
+Title: Inv 3350
+
+----
+
+Inventory-id: 3350
+
+----
+
+Film: page://l1jBah5NwzVkM4Or
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: szqGOtYED5tGRqju

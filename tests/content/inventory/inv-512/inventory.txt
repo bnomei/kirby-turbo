@@ -1,0 +1,17 @@
+Title: Inv 512
+
+----
+
+Inventory-id: 512
+
+----
+
+Film: page://wlg2iwFhtozEXl5U
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: PKwClsaqgBx9E4fZ

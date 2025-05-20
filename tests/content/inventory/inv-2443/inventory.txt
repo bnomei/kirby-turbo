@@ -1,0 +1,17 @@
+Title: Inv 2443
+
+----
+
+Inventory-id: 2443
+
+----
+
+Film: page://9D23rGVJtd8AhuJg
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Lj0OYQ9Vssa1VApc

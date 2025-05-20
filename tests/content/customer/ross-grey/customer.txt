@@ -1,0 +1,33 @@
+Title: ROSS GREY
+
+----
+
+Customer-id: 580
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ROSS
+
+----
+
+Last-name: GREY
+
+----
+
+Email: ROSS.GREY@sakilacustomer.org
+
+----
+
+Address: page://giWXB82NRnKaKzlD
+
+----
+
+Active: 1
+
+----
+
+Uuid: BEkVvrNrXDjHfDO4

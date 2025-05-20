@@ -1,0 +1,25 @@
+Title: Rental 630
+
+----
+
+Rental-id: 630
+
+----
+
+Rental-date: 2005-05-28 17:24:51
+
+----
+
+Return-date: 2005-06-05 20:05:51
+
+----
+
+Inventory: page://684BkK8tyuWqVTvV
+
+----
+
+Uuid: LaoLIw53pMzB3m2y
+
+----
+
+Customer: page://uRjSsY0tmEElH0YF

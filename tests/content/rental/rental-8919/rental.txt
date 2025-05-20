@@ -1,0 +1,25 @@
+Title: Rental 8919
+
+----
+
+Rental-id: 8919
+
+----
+
+Rental-date: 2005-07-30 01:57:03
+
+----
+
+Return-date: 2005-08-08 05:14:03
+
+----
+
+Inventory: page://tvt4FXadIBcSuSYc
+
+----
+
+Customer: page://ZMPHt1kBgzua3Tmb
+
+----
+
+Uuid: SXZMc2pSDDgb008p

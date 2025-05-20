@@ -1,0 +1,17 @@
+Title: Inv 3282
+
+----
+
+Inventory-id: 3282
+
+----
+
+Film: page://0kAw1PNKkjKg2Rgu
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: B3ohIvaNNwGsZzjt

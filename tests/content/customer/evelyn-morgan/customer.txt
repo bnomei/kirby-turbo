@@ -1,0 +1,33 @@
+Title: EVELYN MORGAN
+
+----
+
+Customer-id: 57
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: EVELYN
+
+----
+
+Last-name: MORGAN
+
+----
+
+Email: EVELYN.MORGAN@sakilacustomer.org
+
+----
+
+Address: page://kW72f5NfxxzfG93z
+
+----
+
+Active: 1
+
+----
+
+Uuid: kcW3Aiv2w6cJeXdK

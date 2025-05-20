@@ -1,0 +1,17 @@
+Title: Inv 681
+
+----
+
+Inventory-id: 681
+
+----
+
+Film: page://gcI22iZfI8heb4EI
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 6OTKTVLCLQxxXUq9

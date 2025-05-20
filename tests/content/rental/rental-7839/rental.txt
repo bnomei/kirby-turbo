@@ -1,0 +1,25 @@
+Title: Rental 7839
+
+----
+
+Rental-id: 7839
+
+----
+
+Rental-date: 2005-07-28 09:01:13
+
+----
+
+Return-date: 2005-08-04 11:46:13
+
+----
+
+Inventory: page://L6uOTR24Gs4J4JVk
+
+----
+
+Customer: page://C3xdWMfnsFmTRrLo
+
+----
+
+Uuid: 8EwRBdPKkGjeZSI4

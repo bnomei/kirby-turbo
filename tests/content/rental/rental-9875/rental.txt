@@ -1,0 +1,25 @@
+Title: Rental 9875
+
+----
+
+Rental-id: 9875
+
+----
+
+Rental-date: 2005-07-31 13:37:41
+
+----
+
+Return-date: 2005-08-03 15:17:41
+
+----
+
+Inventory: page://n1ROmBam6Zb6CpLA
+
+----
+
+Customer: page://B3L4KGTOB2xEaMbu
+
+----
+
+Uuid: b9H0n7DSq2UJg9oI

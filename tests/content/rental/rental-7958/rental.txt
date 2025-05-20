@@ -1,0 +1,25 @@
+Title: Rental 7958
+
+----
+
+Rental-id: 7958
+
+----
+
+Rental-date: 2005-07-28 13:34:34
+
+----
+
+Return-date: 2005-07-29 16:03:34
+
+----
+
+Inventory: page://tnkUUc2qGc4y6crG
+
+----
+
+Customer: page://q4exU1pk14u79lgg
+
+----
+
+Uuid: oRCcLmiRDBZI3547

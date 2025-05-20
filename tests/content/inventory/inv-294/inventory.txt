@@ -1,0 +1,17 @@
+Title: Inv 294
+
+----
+
+Inventory-id: 294
+
+----
+
+Film: page://Dfv0e5Nc8Xyf5wF3
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Lj1IZ9ftppXtI6PE

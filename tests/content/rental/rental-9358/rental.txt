@@ -1,0 +1,25 @@
+Title: Rental 9358
+
+----
+
+Rental-id: 9358
+
+----
+
+Rental-date: 2005-07-30 18:37:24
+
+----
+
+Return-date: 2005-08-07 23:34:24
+
+----
+
+Inventory: page://MRKm0gTIW9RD4u45
+
+----
+
+Customer: page://EN43JZfYCm84hq5t
+
+----
+
+Uuid: sGZY8hchEz3iSSaq

@@ -1,0 +1,25 @@
+Title: Rental 44
+
+----
+
+Rental-id: 44
+
+----
+
+Rental-date: 2005-05-25 05:53:23
+
+----
+
+Return-date: 2005-05-29 10:56:23
+
+----
+
+Inventory: page://pj6k201gphft1D5N
+
+----
+
+Uuid: uz93GoGiEWdZRRAo
+
+----
+
+Customer: page://wMkYUds0NaSHubNn

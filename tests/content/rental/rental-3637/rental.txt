@@ -1,0 +1,25 @@
+Title: Rental 3637
+
+----
+
+Rental-id: 3637
+
+----
+
+Rental-date: 2005-07-06 07:06:31
+
+----
+
+Return-date: 2005-07-10 02:11:31
+
+----
+
+Inventory: page://FqKsTt50iX0QIMCg
+
+----
+
+Uuid: MIOfJdUieKFJINRD
+
+----
+
+Customer: page://9nmXEbNtguZWpwtU

@@ -1,0 +1,17 @@
+Title: Inv 635
+
+----
+
+Inventory-id: 635
+
+----
+
+Film: page://T8zdzO8YJpZWbgG9
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: gCjzrAWi2Z7fk0ET

@@ -1,0 +1,42 @@
+Title: PARADISE SABRINA
+
+----
+
+Actors:
+
+- 'page://nkFKurUJ9w7y8omW'
+- 'page://pokjngmFMjrhDsLQ'
+- 'page://75IrF5RezCSzGKrx'
+- 'page://jSbKN9X4MDWI1G5U'
+
+----
+
+Film-id: 657
+
+----
+
+Description: A Intrepid Yarn of a Car And a Moose who must Outrace a Crocodile in A Manhattan Penthouse
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 48
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: IgiUwsTJqOx9tguK
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

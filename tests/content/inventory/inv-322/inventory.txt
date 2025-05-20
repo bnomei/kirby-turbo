@@ -1,0 +1,17 @@
+Title: Inv 322
+
+----
+
+Inventory-id: 322
+
+----
+
+Film: page://1cDd3tLyJcgnY5J3
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 1lmDyPcNMBZb4XFl

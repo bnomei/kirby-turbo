@@ -1,0 +1,25 @@
+Title: Rental 8943
+
+----
+
+Rental-id: 8943
+
+----
+
+Rental-date: 2005-07-30 03:06:48
+
+----
+
+Return-date: 2005-08-02 00:59:48
+
+----
+
+Inventory: page://5dvagKqXQlSFmzl0
+
+----
+
+Customer: page://08U0IJiadz0U6o7j
+
+----
+
+Uuid: SqPbpPwj4LTldy1a

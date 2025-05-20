@@ -1,0 +1,17 @@
+Title: Inv 1364
+
+----
+
+Inventory-id: 1364
+
+----
+
+Film: page://nRJJF55eLzvB955V
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 8TECWTZbJUCFn4XF

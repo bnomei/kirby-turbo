@@ -1,0 +1,17 @@
+Title: Inv 4072
+
+----
+
+Inventory-id: 4072
+
+----
+
+Film: page://Mk00fN7mmOAZR9j4
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: KASoFMarwMCI3cWf

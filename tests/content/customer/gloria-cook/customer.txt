@@ -1,0 +1,33 @@
+Title: GLORIA COOK
+
+----
+
+Customer-id: 56
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: GLORIA
+
+----
+
+Last-name: COOK
+
+----
+
+Email: GLORIA.COOK@sakilacustomer.org
+
+----
+
+Address: page://ixDDLhO27LVQg1Hq
+
+----
+
+Active: 1
+
+----
+
+Uuid: BRlxR8jBrlgBWqGm

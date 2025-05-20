@@ -1,0 +1,44 @@
+Title: CLOSER BANG
+
+----
+
+Actors:
+
+- 'page://rWwSmn6uTovtpXae'
+- 'page://nkFKurUJ9w7y8omW'
+- 'page://3BcvBP3gfacEDPsU'
+- 'page://CI649GdI5JvIKbQ1'
+- 'page://NRH2DcjJcFwzgjEd'
+- 'page://V7i97wxdkXKwKdBD'
+
+----
+
+Film-id: 159
+
+----
+
+Description: A Unbelieveable Panorama of a Frisbee And a Hunter who must Vanquish a Monkey in Ancient India
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 58
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: rYU3xQcgKGdlwLY7
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

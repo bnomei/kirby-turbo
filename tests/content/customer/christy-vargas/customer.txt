@@ -1,0 +1,33 @@
+Title: CHRISTY VARGAS
+
+----
+
+Customer-id: 260
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CHRISTY
+
+----
+
+Last-name: VARGAS
+
+----
+
+Email: CHRISTY.VARGAS@sakilacustomer.org
+
+----
+
+Address: page://4Li25ZA991lcU3X4
+
+----
+
+Active: 1
+
+----
+
+Uuid: rCrCpCNcHKJui2E7

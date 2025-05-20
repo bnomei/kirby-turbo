@@ -1,0 +1,25 @@
+Title: Rental 12224
+
+----
+
+Rental-id: 12224
+
+----
+
+Rental-date: 2005-08-18 02:59:09
+
+----
+
+Return-date: 2005-08-19 06:22:09
+
+----
+
+Inventory: page://A6S2jVfbMfk8HHNv
+
+----
+
+Customer: page://bw4m0tZ1D4xQh5s8
+
+----
+
+Uuid: ptowIweOUMeLZbk0

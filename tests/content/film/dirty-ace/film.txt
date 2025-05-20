@@ -1,0 +1,43 @@
+Title: DIRTY ACE
+
+----
+
+Actors:
+
+- 'page://q71V781JfgIPJGVL'
+- 'page://u0N0ozPCYMgg4oo9'
+- 'page://K0t8PMh78EXVZHC5'
+- 'page://m11q5cdDfIefOEY5'
+- 'page://QybR1sXOQQQZIPXG'
+
+----
+
+Film-id: 232
+
+----
+
+Description: A Action-Packed Character Study of a Forensic Psychologist And a Girl who must Build a Dentist in The Outback
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 147
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: lcEu05g561SkYnmL
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

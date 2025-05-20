@@ -1,0 +1,40 @@
+Title: THIN SAGEBRUSH
+
+----
+
+Actors:
+
+- 'page://osa3qsECAnV3MAu4'
+- 'page://Gz114ojbruPqLOSY'
+
+----
+
+Film-id: 888
+
+----
+
+Description: A Emotional Drama of a Husband And a Lumberjack who must Build a Cat in Ancient India
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 53
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: mMqvLXKacBXMG67Y
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

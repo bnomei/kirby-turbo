@@ -1,0 +1,17 @@
+Title: Inv 1667
+
+----
+
+Inventory-id: 1667
+
+----
+
+Film: page://T9p7Zs76UJsU1G8p
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 1I9oXE1sV2YfEiOW

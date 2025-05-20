@@ -1,0 +1,17 @@
+Title: Inv 1527
+
+----
+
+Inventory-id: 1527
+
+----
+
+Film: page://KwgLWF2jeDeGSp6R
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: JnnOGvjv1DBHLip1

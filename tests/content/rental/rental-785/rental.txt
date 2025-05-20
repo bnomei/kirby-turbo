@@ -1,0 +1,25 @@
+Title: Rental 785
+
+----
+
+Rental-id: 785
+
+----
+
+Rental-date: 2005-05-29 15:08:41
+
+----
+
+Return-date: 2005-05-30 15:51:41
+
+----
+
+Inventory: page://ShI34z0i75iEpPXa
+
+----
+
+Uuid: bCkpE2DDyz9abmHr
+
+----
+
+Customer: page://mAEI18ycC75jSjfq

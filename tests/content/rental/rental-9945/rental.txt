@@ -1,0 +1,25 @@
+Title: Rental 9945
+
+----
+
+Rental-id: 9945
+
+----
+
+Rental-date: 2005-07-31 15:47:51
+
+----
+
+Return-date: 2005-08-02 19:06:51
+
+----
+
+Inventory: page://Q14D2Pb9lOIuTkel
+
+----
+
+Customer: page://6W4MNt60QNzdOkOf
+
+----
+
+Uuid: iT9OcjVSWd92cbsr

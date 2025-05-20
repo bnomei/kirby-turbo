@@ -1,0 +1,25 @@
+Title: Rental 14052
+
+----
+
+Rental-id: 14052
+
+----
+
+Rental-date: 2005-08-20 22:11:46
+
+----
+
+Return-date: 2005-08-22 20:26:46
+
+----
+
+Inventory: page://0GNAuLGm1CXJcb3g
+
+----
+
+Customer: page://cyMlL5yPpoS1G4BT
+
+----
+
+Uuid: p4yYOdM6g2Duga4Z

@@ -1,0 +1,17 @@
+Title: Inv 2657
+
+----
+
+Inventory-id: 2657
+
+----
+
+Film: page://TOKyEYVeTRjIWeQl
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 1tyxqQtCIpCKnFyK

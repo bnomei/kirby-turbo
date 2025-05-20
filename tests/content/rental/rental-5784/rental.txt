@@ -1,0 +1,25 @@
+Title: Rental 5784
+
+----
+
+Rental-id: 5784
+
+----
+
+Rental-date: 2005-07-10 14:03:28
+
+----
+
+Return-date: 2005-07-16 16:22:28
+
+----
+
+Inventory: page://5bohfQBLOI8xSoDe
+
+----
+
+Uuid: yxmtq5TmLf0P4C4s
+
+----
+
+Customer: page://B6FDvvDBHRaKmtPn

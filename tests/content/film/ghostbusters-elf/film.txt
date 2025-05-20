@@ -1,0 +1,37 @@
+Title: GHOSTBUSTERS ELF
+
+----
+
+Actors: - 'page://lzPNV2QlqjXMSB7U'
+
+----
+
+Film-id: 355
+
+----
+
+Description: A Thoughtful Epistle of a Dog And a Feminist who must Chase a Composer in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 101
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: cHdld84FBm9Ags8S
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

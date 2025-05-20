@@ -1,0 +1,25 @@
+Title: Rental 15651
+
+----
+
+Rental-id: 15651
+
+----
+
+Rental-date: 2005-08-23 08:31:49
+
+----
+
+Return-date: 2005-08-26 02:57:49
+
+----
+
+Inventory: page://fge913WGgdVnabze
+
+----
+
+Customer: page://JG06E1zPSAEHpqss
+
+----
+
+Uuid: VU3MCdFuUCBnE2bk

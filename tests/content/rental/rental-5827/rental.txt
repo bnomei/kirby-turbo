@@ -1,0 +1,25 @@
+Title: Rental 5827
+
+----
+
+Rental-id: 5827
+
+----
+
+Rental-date: 2005-07-10 16:22:20
+
+----
+
+Return-date: 2005-07-15 21:13:20
+
+----
+
+Inventory: page://Od1pFDBrRBpdQ2FZ
+
+----
+
+Uuid: GwDRiEng14YI77da
+
+----
+
+Customer: page://88ZpPvHuxTFZYKCY

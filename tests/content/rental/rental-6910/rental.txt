@@ -1,0 +1,25 @@
+Title: Rental 6910
+
+----
+
+Rental-id: 6910
+
+----
+
+Rental-date: 2005-07-12 22:11:21
+
+----
+
+Return-date: 2005-07-21 02:35:21
+
+----
+
+Inventory: page://8d0BfsDDb469Kyqe
+
+----
+
+Customer: page://d0yy9DCHO4pfzlZU
+
+----
+
+Uuid: vajtlJS7MgCW6YT6

@@ -1,0 +1,25 @@
+Title: Rental 6960
+
+----
+
+Rental-id: 6960
+
+----
+
+Rental-date: 2005-07-27 00:08:33
+
+----
+
+Return-date: 2005-08-03 20:58:33
+
+----
+
+Inventory: page://Y9lG1dVFirMP9BhF
+
+----
+
+Customer: page://B3L4KGTOB2xEaMbu
+
+----
+
+Uuid: nTOXzVAF3y4nhNnj

@@ -1,0 +1,17 @@
+Title: Inv 1938
+
+----
+
+Inventory-id: 1938
+
+----
+
+Film: page://jy4a8cLfJsqB2YjF
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 7D3A6hoRY5atmUW8

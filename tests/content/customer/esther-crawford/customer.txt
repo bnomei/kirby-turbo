@@ -1,0 +1,33 @@
+Title: ESTHER CRAWFORD
+
+----
+
+Customer-id: 132
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ESTHER
+
+----
+
+Last-name: CRAWFORD
+
+----
+
+Email: ESTHER.CRAWFORD@sakilacustomer.org
+
+----
+
+Address: page://W3Sertq0fRHjqtCG
+
+----
+
+Active: 1
+
+----
+
+Uuid: D2Jts8sZKuP5Z8RH

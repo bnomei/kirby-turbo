@@ -1,0 +1,25 @@
+Title: Rental 7904
+
+----
+
+Rental-id: 7904
+
+----
+
+Rental-date: 2005-07-28 11:25:39
+
+----
+
+Return-date: 2005-08-06 08:22:39
+
+----
+
+Inventory: page://3EzjVzbjnBIX3RjO
+
+----
+
+Customer: page://0oAUPq4K85BBzcfb
+
+----
+
+Uuid: FrGTZhdIo4DnhSl4

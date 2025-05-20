@@ -1,0 +1,25 @@
+Title: Rental 3072
+
+----
+
+Rental-id: 3072
+
+----
+
+Rental-date: 2005-06-20 14:21:31
+
+----
+
+Return-date: 2005-06-27 18:46:31
+
+----
+
+Inventory: page://3XDw4AfB8XeqXB69
+
+----
+
+Uuid: D5OQZ7bdzeguEvjQ
+
+----
+
+Customer: page://yiLH1F5ptBYYkAUt

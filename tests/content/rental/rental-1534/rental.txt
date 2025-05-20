@@ -1,0 +1,25 @@
+Title: Rental 1534
+
+----
+
+Rental-id: 1534
+
+----
+
+Rental-date: 2005-06-16 00:49:32
+
+----
+
+Return-date: 2005-06-18 02:41:32
+
+----
+
+Inventory: page://tBWmibfT4ynnCP9d
+
+----
+
+Uuid: GDuH9D3I7Nq5Z9pj
+
+----
+
+Customer: page://PBAxbbLPwokG6bh1

@@ -1,0 +1,33 @@
+Title: CARLA GUTIERREZ
+
+----
+
+Customer-id: 202
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: CARLA
+
+----
+
+Last-name: GUTIERREZ
+
+----
+
+Email: CARLA.GUTIERREZ@sakilacustomer.org
+
+----
+
+Address: page://BGjfSsA54eaSJkeh
+
+----
+
+Active: 1
+
+----
+
+Uuid: xf0Razr3zNGtiAuD

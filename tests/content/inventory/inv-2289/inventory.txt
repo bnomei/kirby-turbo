@@ -1,0 +1,17 @@
+Title: Inv 2289
+
+----
+
+Inventory-id: 2289
+
+----
+
+Film: page://UdUYy1wSW39nsWE8
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ADuZS4wCwDnzPRJK

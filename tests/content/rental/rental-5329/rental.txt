@@ -1,0 +1,25 @@
+Title: Rental 5329
+
+----
+
+Rental-id: 5329
+
+----
+
+Rental-date: 2005-07-09 16:49:46
+
+----
+
+Return-date: 2005-07-16 19:05:46
+
+----
+
+Inventory: page://W9jrvwchG4HiyLVm
+
+----
+
+Uuid: 3q5DhEM1CD3OYZPb
+
+----
+
+Customer: page://MHsTo5Inth1qIcsX

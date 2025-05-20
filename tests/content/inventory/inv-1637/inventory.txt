@@ -1,0 +1,17 @@
+Title: Inv 1637
+
+----
+
+Inventory-id: 1637
+
+----
+
+Film: page://Iehw4PEbCSindGn9
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 3ha8Vb8elpk6PVN8

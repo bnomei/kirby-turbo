@@ -1,0 +1,25 @@
+Title: Rental 2226
+
+----
+
+Rental-id: 2226
+
+----
+
+Rental-date: 2005-06-18 03:39:56
+
+----
+
+Return-date: 2005-06-24 07:26:56
+
+----
+
+Inventory: page://KDcWNvapm7uBrdIE
+
+----
+
+Uuid: TT2U5qvzLqdVbMOU
+
+----
+
+Customer: page://hiI1XI5RUVwa5yqD

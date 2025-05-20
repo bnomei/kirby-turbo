@@ -1,0 +1,25 @@
+Title: Rental 641
+
+----
+
+Rental-id: 641
+
+----
+
+Rental-date: 2005-05-28 18:45:47
+
+----
+
+Return-date: 2005-06-04 15:24:47
+
+----
+
+Inventory: page://EqtfyaGUQYMddraw
+
+----
+
+Uuid: qqOfQeM1qAiNX4Od
+
+----
+
+Customer: page://FypwLDxElvzTV30Q

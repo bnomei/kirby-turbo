@@ -1,0 +1,25 @@
+Title: Rental 571
+
+----
+
+Rental-id: 571
+
+----
+
+Rental-date: 2005-05-28 10:17:41
+
+----
+
+Return-date: 2005-06-05 07:56:41
+
+----
+
+Inventory: page://7CJNFmyBJRTIMFoo
+
+----
+
+Uuid: ZLBybL80B47vELXP
+
+----
+
+Customer: page://5hIhacgiGD4GRrE2

@@ -1,0 +1,25 @@
+Title: Rental 1726
+
+----
+
+Rental-id: 1726
+
+----
+
+Rental-date: 2005-06-16 15:19:10
+
+----
+
+Return-date: 2005-06-25 11:39:10
+
+----
+
+Inventory: page://nCk0scw07Lcn2ji2
+
+----
+
+Uuid: OOASlwQtLUku7wM9
+
+----
+
+Customer: page://zr15m47K6VY9URjq

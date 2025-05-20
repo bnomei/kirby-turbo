@@ -1,0 +1,25 @@
+Title: Rental 383
+
+----
+
+Rental-id: 383
+
+----
+
+Rental-date: 2005-05-27 10:12:20
+
+----
+
+Return-date: 2005-06-03 10:37:20
+
+----
+
+Inventory: page://JupKFqRcZ2pObZ04
+
+----
+
+Uuid: E3pTcrGsLflHkwf6
+
+----
+
+Customer: page://kggfDZMvkg2kYXlE

@@ -1,0 +1,17 @@
+Title: Bandar Seri Begawan
+
+----
+
+City-id: 53
+
+----
+
+City: Bandar Seri Begawan
+
+----
+
+Country: page://qMBXstN1JB7Ie66x
+
+----
+
+Uuid: yy5VPTitmc88owDY

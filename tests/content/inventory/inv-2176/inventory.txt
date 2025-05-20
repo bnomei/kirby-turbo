@@ -1,0 +1,17 @@
+Title: Inv 2176
+
+----
+
+Inventory-id: 2176
+
+----
+
+Film: page://jbO1wx2nX02GTrSB
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 4HrRUdHEseRyMPRa

@@ -1,0 +1,25 @@
+Title: Rental 3885
+
+----
+
+Rental-id: 3885
+
+----
+
+Rental-date: 2005-07-06 18:43:43
+
+----
+
+Return-date: 2005-07-12 19:48:43
+
+----
+
+Inventory: page://2GkamSFZn6aaDfLi
+
+----
+
+Uuid: anwLJlgrIeJeLbaf
+
+----
+
+Customer: page://Tj29qTVQAQ0HCcNy

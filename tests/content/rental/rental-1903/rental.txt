@@ -1,0 +1,25 @@
+Title: Rental 1903
+
+----
+
+Rental-id: 1903
+
+----
+
+Rental-date: 2005-06-17 04:37:20
+
+----
+
+Return-date: 2005-06-26 09:05:20
+
+----
+
+Inventory: page://QurzDfEmjX32wNgG
+
+----
+
+Uuid: wwfHSY8oXkD3zKvM
+
+----
+
+Customer: page://cxaxfUF1lmAT9qO9

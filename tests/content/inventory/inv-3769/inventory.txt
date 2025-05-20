@@ -1,0 +1,17 @@
+Title: Inv 3769
+
+----
+
+Inventory-id: 3769
+
+----
+
+Film: page://JrMPHsge1J4wcmSu
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: skPi6IffXIfSz305

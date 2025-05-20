@@ -1,0 +1,25 @@
+Title: Rental 4575
+
+----
+
+Rental-id: 4575
+
+----
+
+Rental-date: 2005-07-08 05:49:14
+
+----
+
+Return-date: 2005-07-11 04:08:14
+
+----
+
+Inventory: page://SE9REv9KRfyPcWge
+
+----
+
+Uuid: r2RotHZdgRaAesiT
+
+----
+
+Customer: page://uE84jSPn6fUxfq6A

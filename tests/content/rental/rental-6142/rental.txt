@@ -1,0 +1,25 @@
+Title: Rental 6142
+
+----
+
+Rental-id: 6142
+
+----
+
+Rental-date: 2005-07-11 08:54:09
+
+----
+
+Return-date: 2005-07-18 05:23:09
+
+----
+
+Inventory: page://VZBqsfNcbJ32Sp74
+
+----
+
+Uuid: EF4wG98pDM85Gjsj
+
+----
+
+Customer: page://Ls9REeae6BUkv7oj

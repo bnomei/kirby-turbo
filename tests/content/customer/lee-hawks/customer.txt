@@ -1,0 +1,33 @@
+Title: LEE HAWKS
+
+----
+
+Customer-id: 421
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: LEE
+
+----
+
+Last-name: HAWKS
+
+----
+
+Email: LEE.HAWKS@sakilacustomer.org
+
+----
+
+Address: page://cenrB0c9FlUTMhQZ
+
+----
+
+Active: 1
+
+----
+
+Uuid: B3L4KGTOB2xEaMbu

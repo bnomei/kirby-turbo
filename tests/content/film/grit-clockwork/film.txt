@@ -1,0 +1,41 @@
+Title: GRIT CLOCKWORK
+
+----
+
+Actors:
+
+- 'page://rTdvG0vGkNN8iJpQ'
+- 'page://gELBLdH4G3cmVmcs'
+- 'page://m11q5cdDfIefOEY5'
+
+----
+
+Film-id: 382
+
+----
+
+Description: A Thoughtful Display of a Dentist And a Squirrel who must Confront a Lumberjack in A Shark Tank
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 137
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: 0MfWh6FVARMvO6ca
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

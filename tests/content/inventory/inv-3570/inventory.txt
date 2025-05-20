@@ -1,0 +1,17 @@
+Title: Inv 3570
+
+----
+
+Inventory-id: 3570
+
+----
+
+Film: page://nW3eYfhx2BMmcv9u
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 3lHw4eCaIMZIrfGA

@@ -1,0 +1,25 @@
+Title: Rental 971
+
+----
+
+Rental-id: 971
+
+----
+
+Rental-date: 2005-05-30 20:10:52
+
+----
+
+Return-date: 2005-06-06 20:47:52
+
+----
+
+Inventory: page://YTRZEIomV5Y4MLdL
+
+----
+
+Uuid: XVyH3IYjrrnhH9xG
+
+----
+
+Customer: page://xiuePi4NIEUJXUwz

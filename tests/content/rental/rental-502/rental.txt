@@ -1,0 +1,25 @@
+Title: Rental 502
+
+----
+
+Rental-id: 502
+
+----
+
+Rental-date: 2005-05-28 01:34:43
+
+----
+
+Return-date: 2005-05-31 01:02:43
+
+----
+
+Inventory: page://QysDnMIxbJtp887h
+
+----
+
+Uuid: gcSnb0ITKNDkQgYe
+
+----
+
+Customer: page://28btFRqxUbpYMux2

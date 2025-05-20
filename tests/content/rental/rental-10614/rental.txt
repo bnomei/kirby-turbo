@@ -1,0 +1,25 @@
+Title: Rental 10614
+
+----
+
+Rental-id: 10614
+
+----
+
+Rental-date: 2005-08-01 14:57:00
+
+----
+
+Return-date: 2005-08-10 09:31:00
+
+----
+
+Inventory: page://DuxsBjfARhMYUedQ
+
+----
+
+Customer: page://oltj71DespIyD8V2
+
+----
+
+Uuid: HTVTRRQri6xyVI1c

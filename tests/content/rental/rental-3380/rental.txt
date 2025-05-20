@@ -1,0 +1,25 @@
+Title: Rental 3380
+
+----
+
+Rental-id: 3380
+
+----
+
+Rental-date: 2005-06-21 13:58:46
+
+----
+
+Return-date: 2005-06-30 09:29:46
+
+----
+
+Inventory: page://FXdZvRjjL9qbYpdl
+
+----
+
+Uuid: cl6eVileb42nahdQ
+
+----
+
+Customer: page://reaWSdyj7YyLoivl

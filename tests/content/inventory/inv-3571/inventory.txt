@@ -1,0 +1,17 @@
+Title: Inv 3571
+
+----
+
+Inventory-id: 3571
+
+----
+
+Film: page://nW3eYfhx2BMmcv9u
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: P2A1cWb2zBsEf0lI

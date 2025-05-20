@@ -1,0 +1,17 @@
+Title: Inv 1592
+
+----
+
+Inventory-id: 1592
+
+----
+
+Film: page://XD5QBWqpn1v751Tc
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: rXEfoM7aPijK1HAU

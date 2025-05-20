@@ -1,0 +1,25 @@
+Title: Rental 6692
+
+----
+
+Rental-id: 6692
+
+----
+
+Rental-date: 2005-07-12 12:35:39
+
+----
+
+Return-date: 2005-07-20 11:20:39
+
+----
+
+Inventory: page://IjbmDAyDVEVFPSiA
+
+----
+
+Uuid: bxBXObcNGk2yaat7
+
+----
+
+Customer: page://bw4m0tZ1D4xQh5s8

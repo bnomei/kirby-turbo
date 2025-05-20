@@ -1,0 +1,42 @@
+Title: WRATH MILE
+
+----
+
+Actors:
+
+- 'page://KWXiI33RIY2Yllal'
+- 'page://c9RVWbTiHNxSUsUJ'
+- 'page://3BcvBP3gfacEDPsU'
+- 'page://xXgVj4FQPZ59wjBk'
+
+----
+
+Film-id: 992
+
+----
+
+Description: A Intrepid Reflection of a Technical Writer And a Hunter who must Defeat a Sumo Wrestler in A Monastery
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 176
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: agTVEuggZySkD3Np
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

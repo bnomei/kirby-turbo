@@ -1,0 +1,25 @@
+Title: Rental 4304
+
+----
+
+Rental-id: 4304
+
+----
+
+Rental-date: 2005-07-07 17:01:19
+
+----
+
+Return-date: 2005-07-12 22:47:19
+
+----
+
+Inventory: page://z0KalTXGqVBRRyoA
+
+----
+
+Uuid: WCXP1RyTnudbmY3P
+
+----
+
+Customer: page://V0viosrFvqcsWPKv

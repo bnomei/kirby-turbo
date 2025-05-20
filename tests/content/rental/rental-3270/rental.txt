@@ -1,0 +1,25 @@
+Title: Rental 3270
+
+----
+
+Rental-id: 3270
+
+----
+
+Rental-date: 2005-06-21 05:07:31
+
+----
+
+Return-date: 2005-06-22 07:45:31
+
+----
+
+Inventory: page://v16YsygYD8Q0TDaA
+
+----
+
+Uuid: agpkeOQOVLx9sFwV
+
+----
+
+Customer: page://jQgJTEFW0ApOfR1S

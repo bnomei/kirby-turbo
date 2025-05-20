@@ -1,0 +1,25 @@
+Title: Rental 1603
+
+----
+
+Rental-id: 1603
+
+----
+
+Rental-date: 2005-06-16 06:14:03
+
+----
+
+Return-date: 2005-06-17 06:04:03
+
+----
+
+Inventory: page://OkfYRZcgzSBEaqX3
+
+----
+
+Uuid: iPQBqeB3TUWe0Ly3
+
+----
+
+Customer: page://VN0nTajbysCGd16r

@@ -1,0 +1,17 @@
+Title: Inv 2384
+
+----
+
+Inventory-id: 2384
+
+----
+
+Film: page://y58493kcSc1kyAJv
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: K704UQWwXYegjdH5

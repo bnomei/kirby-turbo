@@ -1,0 +1,25 @@
+Title: Rental 10389
+
+----
+
+Rental-id: 10389
+
+----
+
+Rental-date: 2005-08-01 06:46:43
+
+----
+
+Return-date: 2005-08-08 07:07:43
+
+----
+
+Inventory: page://WBIVB4ZcTgPzWFfV
+
+----
+
+Customer: page://WxMkfWnfG0RH07zl
+
+----
+
+Uuid: Ln4M1J2PcnZX0Twx

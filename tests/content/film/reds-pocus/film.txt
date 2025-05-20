@@ -1,0 +1,43 @@
+Title: REDS POCUS
+
+----
+
+Actors:
+
+- 'page://lzPNV2QlqjXMSB7U'
+- 'page://nkFKurUJ9w7y8omW'
+- 'page://RaBnN0JojPRLBj7c'
+- 'page://f54gdCyL7WpJ8aUr'
+- 'page://RvgM0TLzgQDo6vY7'
+
+----
+
+Film-id: 721
+
+----
+
+Description: A Lacklusture Yarn of a Sumo Wrestler And a Squirrel who must Redeem a Monkey in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 182
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: Sr0NE2VXTDOgjf6z
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

@@ -1,0 +1,25 @@
+Title: Rental 4900
+
+----
+
+Rental-id: 4900
+
+----
+
+Rental-date: 2005-07-08 20:38:06
+
+----
+
+Return-date: 2005-07-09 22:45:06
+
+----
+
+Inventory: page://KDcWNvapm7uBrdIE
+
+----
+
+Uuid: Wsb8Ae3BlcO2AAbz
+
+----
+
+Customer: page://bm01Zh4gvYAGmd89

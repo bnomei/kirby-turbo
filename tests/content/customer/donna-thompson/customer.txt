@@ -1,0 +1,33 @@
+Title: DONNA THOMPSON
+
+----
+
+Customer-id: 17
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: DONNA
+
+----
+
+Last-name: THOMPSON
+
+----
+
+Email: DONNA.THOMPSON@sakilacustomer.org
+
+----
+
+Address: page://e1C7PDM9cd2NIMby
+
+----
+
+Active: 1
+
+----
+
+Uuid: RShdmMICVp8lAUwL

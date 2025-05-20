@@ -1,0 +1,25 @@
+Title: Rental 5610
+
+----
+
+Rental-id: 5610
+
+----
+
+Rental-date: 2005-07-10 05:09:52
+
+----
+
+Return-date: 2005-07-13 07:08:52
+
+----
+
+Inventory: page://LFOdh1AfeJt2idlY
+
+----
+
+Uuid: ukfm1gCWEx0dw5Pv
+
+----
+
+Customer: page://N95O2afia8ED5CLD

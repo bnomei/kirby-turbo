@@ -1,0 +1,25 @@
+Title: Rental 3849
+
+----
+
+Rental-id: 3849
+
+----
+
+Rental-date: 2005-07-06 16:49:43
+
+----
+
+Return-date: 2005-07-12 17:20:43
+
+----
+
+Inventory: page://tgFIOfMtvrwJKqCF
+
+----
+
+Uuid: IwfCWtUQmgiwsS5I
+
+----
+
+Customer: page://wPyg9sLQxXlxD9Q9

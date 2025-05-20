@@ -1,0 +1,25 @@
+Title: Rental 10840
+
+----
+
+Rental-id: 10840
+
+----
+
+Rental-date: 2005-08-01 23:38:34
+
+----
+
+Return-date: 2005-08-07 02:36:34
+
+----
+
+Inventory: page://dJ1WfpNM6k20oAGB
+
+----
+
+Customer: page://q4exU1pk14u79lgg
+
+----
+
+Uuid: X0K4oeNogWMx9P75

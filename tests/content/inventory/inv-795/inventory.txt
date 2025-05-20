@@ -1,0 +1,17 @@
+Title: Inv 795
+
+----
+
+Inventory-id: 795
+
+----
+
+Film: page://VGG6oep9Cae1K7dP
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Kom5jilTao8JNmA4

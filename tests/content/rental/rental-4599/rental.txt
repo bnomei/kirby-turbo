@@ -1,0 +1,25 @@
+Title: Rental 4599
+
+----
+
+Rental-id: 4599
+
+----
+
+Rental-date: 2005-07-08 06:48:26
+
+----
+
+Return-date: 2005-07-11 07:06:26
+
+----
+
+Inventory: page://i1DXnN9DNqXS7MmD
+
+----
+
+Uuid: HV2sLDBayu0UUMXn
+
+----
+
+Customer: page://fXUgmXqRtLO0PH1c

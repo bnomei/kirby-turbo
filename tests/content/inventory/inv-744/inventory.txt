@@ -1,0 +1,17 @@
+Title: Inv 744
+
+----
+
+Inventory-id: 744
+
+----
+
+Film: page://b3WR2wrdQ8FGZBtm
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ClWvW3T0C3geRt6d

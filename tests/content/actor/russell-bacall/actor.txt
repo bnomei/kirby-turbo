@@ -1,0 +1,21 @@
+Title: RUSSELL BACALL
+
+----
+
+Actors: []
+
+----
+
+Actor-id: 112
+
+----
+
+First-name: RUSSELL
+
+----
+
+Last-name: BACALL
+
+----
+
+Uuid: 64SCw7TVQ1KFgpJt

@@ -1,0 +1,25 @@
+Title: Rental 8239
+
+----
+
+Rental-id: 8239
+
+----
+
+Rental-date: 2005-07-29 00:31:39
+
+----
+
+Return-date: 2005-07-29 19:33:39
+
+----
+
+Inventory: page://aehzmIgCAWf1jQk0
+
+----
+
+Customer: page://HkTANTgi9H03vQyM
+
+----
+
+Uuid: NGWkopjEu4jXMAIX

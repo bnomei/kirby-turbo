@@ -1,0 +1,17 @@
+Title: Inv 4363
+
+----
+
+Inventory-id: 4363
+
+----
+
+Film: page://kp3ua5P6dV1jZMjo
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: fzgbvSsqxwKIZV1a

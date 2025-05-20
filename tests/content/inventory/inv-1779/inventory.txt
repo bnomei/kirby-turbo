@@ -1,0 +1,17 @@
+Title: Inv 1779
+
+----
+
+Inventory-id: 1779
+
+----
+
+Film: page://oiXuz11Z5KGGG2vj
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: xe5fefe5pG95Nrxc

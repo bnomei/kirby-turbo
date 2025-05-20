@@ -1,0 +1,25 @@
+Title: Rental 6071
+
+----
+
+Rental-id: 6071
+
+----
+
+Rental-date: 2005-07-11 04:50:03
+
+----
+
+Return-date: 2005-07-19 23:52:03
+
+----
+
+Inventory: page://pYF80pOrXM0MiKkW
+
+----
+
+Uuid: MNiR0F1ypc1naJRL
+
+----
+
+Customer: page://28btFRqxUbpYMux2

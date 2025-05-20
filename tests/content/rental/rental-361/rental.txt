@@ -1,0 +1,25 @@
+Title: Rental 361
+
+----
+
+Rental-id: 361
+
+----
+
+Rental-date: 2005-05-27 07:03:28
+
+----
+
+Return-date: 2005-05-31 08:01:28
+
+----
+
+Inventory: page://JVNIDybtobOfMeEp
+
+----
+
+Uuid: 74UZOGy7Kaa5VcPK
+
+----
+
+Customer: page://B7BnhDPJcre02BJt

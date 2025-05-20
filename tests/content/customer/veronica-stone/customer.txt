@@ -1,0 +1,33 @@
+Title: VERONICA STONE
+
+----
+
+Customer-id: 158
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: VERONICA
+
+----
+
+Last-name: STONE
+
+----
+
+Email: VERONICA.STONE@sakilacustomer.org
+
+----
+
+Address: page://iAzs3NIhLMiIICtY
+
+----
+
+Active: 1
+
+----
+
+Uuid: EFq1BVursSqEGTmG

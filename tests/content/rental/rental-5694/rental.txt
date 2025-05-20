@@ -1,0 +1,25 @@
+Title: Rental 5694
+
+----
+
+Rental-id: 5694
+
+----
+
+Rental-date: 2005-07-10 09:40:38
+
+----
+
+Return-date: 2005-07-14 09:16:38
+
+----
+
+Inventory: page://plydQO3cHpIMaN0g
+
+----
+
+Uuid: 0C8H5OHXgXiIuarl
+
+----
+
+Customer: page://kcW3Aiv2w6cJeXdK

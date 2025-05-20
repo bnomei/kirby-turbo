@@ -1,0 +1,25 @@
+Title: Rental 1892
+
+----
+
+Rental-id: 1892
+
+----
+
+Rental-date: 2005-06-17 04:17:33
+
+----
+
+Return-date: 2005-06-20 00:06:33
+
+----
+
+Inventory: page://Ij6HTYu2ZGldi2UE
+
+----
+
+Uuid: h0zxyEyzVYTX5UKP
+
+----
+
+Customer: page://cfEQjWDHZTFukeSP

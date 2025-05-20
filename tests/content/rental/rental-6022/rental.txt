@@ -1,0 +1,25 @@
+Title: Rental 6022
+
+----
+
+Rental-id: 6022
+
+----
+
+Rental-date: 2005-07-11 02:15:53
+
+----
+
+Return-date: 2005-07-13 03:40:53
+
+----
+
+Inventory: page://R8mmlhTPKqItK6uS
+
+----
+
+Uuid: o5KDohU2EWT47cZi
+
+----
+
+Customer: page://NB8qqTmaJphAOwtJ

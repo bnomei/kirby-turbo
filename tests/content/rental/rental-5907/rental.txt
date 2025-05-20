@@ -1,0 +1,25 @@
+Title: Rental 5907
+
+----
+
+Rental-id: 5907
+
+----
+
+Rental-date: 2005-07-10 20:41:41
+
+----
+
+Return-date: 2005-07-15 21:18:41
+
+----
+
+Inventory: page://ykz8XxXuZgqfSh2E
+
+----
+
+Uuid: 9qAEKbxjwXde5TBI
+
+----
+
+Customer: page://kgSm33zdyJ1gD7mK

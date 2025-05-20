@@ -1,0 +1,25 @@
+Title: Rental 3639
+
+----
+
+Rental-id: 3639
+
+----
+
+Rental-date: 2005-07-06 07:09:17
+
+----
+
+Return-date: 2005-07-15 05:12:17
+
+----
+
+Inventory: page://k6TyfKcXAP8vhr4n
+
+----
+
+Uuid: PUkKGqqAS6qhdyhK
+
+----
+
+Customer: page://Azw9Nv7ouxsZUKzG

@@ -1,0 +1,17 @@
+Title: Inv 69
+
+----
+
+Inventory-id: 69
+
+----
+
+Film: page://84UY3su6FLIEYugg
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: iVuVdZbHxOWjClCU

@@ -1,0 +1,33 @@
+Title: KAY CALDWELL
+
+----
+
+Customer-id: 272
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: KAY
+
+----
+
+Last-name: CALDWELL
+
+----
+
+Email: KAY.CALDWELL@sakilacustomer.org
+
+----
+
+Address: page://oCd3Zwsyfrwrsy8h
+
+----
+
+Active: 1
+
+----
+
+Uuid: ZOo5G7TWezJJco39

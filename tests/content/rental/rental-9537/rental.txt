@@ -1,0 +1,25 @@
+Title: Rental 9537
+
+----
+
+Rental-id: 9537
+
+----
+
+Rental-date: 2005-07-31 01:23:00
+
+----
+
+Return-date: 2005-08-01 01:16:00
+
+----
+
+Inventory: page://nmUodhpRqGsYoc9W
+
+----
+
+Customer: page://kypjEXl31vTFSb5v
+
+----
+
+Uuid: OR6TSQ7AsPld4nZf

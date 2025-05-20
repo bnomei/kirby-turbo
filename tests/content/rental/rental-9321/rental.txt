@@ -1,0 +1,25 @@
+Title: Rental 9321
+
+----
+
+Rental-id: 9321
+
+----
+
+Rental-date: 2005-07-30 17:19:44
+
+----
+
+Return-date: 2005-08-06 22:42:44
+
+----
+
+Inventory: page://aBVaGVzXihDhPOG7
+
+----
+
+Customer: page://azB08HSjJtUYxOM2
+
+----
+
+Uuid: YlpEoS3Gm9ocnPnL

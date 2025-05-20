@@ -1,0 +1,17 @@
+Title: Inv 3306
+
+----
+
+Inventory-id: 3306
+
+----
+
+Film: page://02UqpE473F2Z3lTF
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: WIoBwMC5KIuAoQe4

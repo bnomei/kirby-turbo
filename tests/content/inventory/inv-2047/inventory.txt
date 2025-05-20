@@ -1,0 +1,17 @@
+Title: Inv 2047
+
+----
+
+Inventory-id: 2047
+
+----
+
+Film: page://tjXXFfYfgCZfA1am
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ELGYZ014W7SJCsm9

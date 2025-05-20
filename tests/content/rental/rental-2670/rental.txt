@@ -1,0 +1,25 @@
+Title: Rental 2670
+
+----
+
+Rental-id: 2670
+
+----
+
+Rental-date: 2005-06-19 11:30:16
+
+----
+
+Return-date: 2005-06-21 17:25:16
+
+----
+
+Inventory: page://J65nDHYNz80D2N3X
+
+----
+
+Uuid: af3x1yqOndEacMke
+
+----
+
+Customer: page://ssKfVmN07XGOgIXz

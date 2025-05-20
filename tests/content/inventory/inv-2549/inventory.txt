@@ -1,0 +1,17 @@
+Title: Inv 2549
+
+----
+
+Inventory-id: 2549
+
+----
+
+Film: page://puoAkILBfsOTWn5V
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: zjF4oNn7peQLv3f8

@@ -1,0 +1,17 @@
+Title: Inv 2184
+
+----
+
+Inventory-id: 2184
+
+----
+
+Film: page://Bv6L95VodOf07txg
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: p8cBCiEkQSpXDo0T

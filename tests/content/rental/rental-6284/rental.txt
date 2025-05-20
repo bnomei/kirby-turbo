@@ -1,0 +1,25 @@
+Title: Rental 6284
+
+----
+
+Rental-id: 6284
+
+----
+
+Rental-date: 2005-07-11 16:51:39
+
+----
+
+Return-date: 2005-07-15 19:59:39
+
+----
+
+Inventory: page://l11hFDgJfGVaySzr
+
+----
+
+Uuid: rtJA7Y09PMddRNlu
+
+----
+
+Customer: page://2QRxABR23Jfbr6gF

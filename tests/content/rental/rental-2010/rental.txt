@@ -1,0 +1,25 @@
+Title: Rental 2010
+
+----
+
+Rental-id: 2010
+
+----
+
+Rental-date: 2005-06-17 11:54:15
+
+----
+
+Return-date: 2005-06-21 05:55:15
+
+----
+
+Inventory: page://C8ovCJMlQhND7pdt
+
+----
+
+Uuid: WWnYajlPBu5f66DK
+
+----
+
+Customer: page://uPhvBTY0GbGPCouW

@@ -1,0 +1,17 @@
+Title: Inv 4358
+
+----
+
+Inventory-id: 4358
+
+----
+
+Film: page://JiFN89QIpjfUYw88
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: giHzoIL69LSDCtUy

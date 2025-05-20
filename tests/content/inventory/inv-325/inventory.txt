@@ -1,0 +1,17 @@
+Title: Inv 325
+
+----
+
+Inventory-id: 325
+
+----
+
+Film: page://1cDd3tLyJcgnY5J3
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: qlDjtdjwy6olPcz6

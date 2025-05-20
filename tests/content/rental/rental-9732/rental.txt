@@ -1,0 +1,25 @@
+Title: Rental 9732
+
+----
+
+Rental-id: 9732
+
+----
+
+Rental-date: 2005-07-31 08:56:08
+
+----
+
+Return-date: 2005-08-07 11:05:08
+
+----
+
+Inventory: page://iCz4GXFTJ7HgVOhw
+
+----
+
+Customer: page://YIsKp7gtJEruQjWD
+
+----
+
+Uuid: C89ZfBmTPcJidvDP

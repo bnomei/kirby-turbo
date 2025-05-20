@@ -1,0 +1,17 @@
+Title: Inv 2127
+
+----
+
+Inventory-id: 2127
+
+----
+
+Film: page://sqaAugYeepB4yDWG
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 1HC2Nm8JhxvAF7kd

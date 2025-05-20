@@ -1,0 +1,33 @@
+Title: LINDA WILLIAMS
+
+----
+
+Customer-id: 3
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: LINDA
+
+----
+
+Last-name: WILLIAMS
+
+----
+
+Email: LINDA.WILLIAMS@sakilacustomer.org
+
+----
+
+Address: page://UYjbApzCSJ7SuQ57
+
+----
+
+Active: 1
+
+----
+
+Uuid: zr15m47K6VY9URjq

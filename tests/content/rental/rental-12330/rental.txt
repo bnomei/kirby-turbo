@@ -1,0 +1,25 @@
+Title: Rental 12330
+
+----
+
+Rental-id: 12330
+
+----
+
+Rental-date: 2005-08-18 06:46:33
+
+----
+
+Return-date: 2005-08-26 11:35:33
+
+----
+
+Inventory: page://pYF80pOrXM0MiKkW
+
+----
+
+Customer: page://B7BnhDPJcre02BJt
+
+----
+
+Uuid: H5D0A3Vywhif08TQ

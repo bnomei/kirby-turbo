@@ -1,0 +1,33 @@
+Title: JUAN FRALEY
+
+----
+
+Customer-id: 350
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JUAN
+
+----
+
+Last-name: FRALEY
+
+----
+
+Email: JUAN.FRALEY@sakilacustomer.org
+
+----
+
+Address: page://AT4sULTVoztq68j4
+
+----
+
+Active: 1
+
+----
+
+Uuid: 0i52La06CjBDGVTC

@@ -1,0 +1,25 @@
+Title: Rental 8013
+
+----
+
+Rental-id: 8013
+
+----
+
+Rental-date: 2005-07-28 15:30:26
+
+----
+
+Return-date: 2005-08-05 16:29:26
+
+----
+
+Inventory: page://0igEeRvYIFVwqFd1
+
+----
+
+Customer: page://sNiE3u2o38XV820m
+
+----
+
+Uuid: GE8uyx1FKWFUhxGn

@@ -1,0 +1,25 @@
+Title: Rental 7846
+
+----
+
+Rental-id: 7846
+
+----
+
+Rental-date: 2005-07-28 09:21:18
+
+----
+
+Return-date: 2005-08-06 07:10:18
+
+----
+
+Inventory: page://vzpFbZOMmtZXEFct
+
+----
+
+Customer: page://6W4MNt60QNzdOkOf
+
+----
+
+Uuid: OIqBDDZjB0rjLaiS

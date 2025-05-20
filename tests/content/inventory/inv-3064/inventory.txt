@@ -1,0 +1,17 @@
+Title: Inv 3064
+
+----
+
+Inventory-id: 3064
+
+----
+
+Film: page://lRnaVZnJyi0xMqk0
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 6mGpVqjYn2BmqGDD

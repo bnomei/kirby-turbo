@@ -1,0 +1,33 @@
+Title: KAREN JACKSON
+
+----
+
+Customer-id: 13
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: KAREN
+
+----
+
+Last-name: JACKSON
+
+----
+
+Email: KAREN.JACKSON@sakilacustomer.org
+
+----
+
+Address: page://9BRx7sRt6PhhCbrJ
+
+----
+
+Active: 1
+
+----
+
+Uuid: xpGeSpKewe1fsRYQ

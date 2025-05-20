@@ -1,0 +1,17 @@
+Title: Inv 2895
+
+----
+
+Inventory-id: 2895
+
+----
+
+Film: page://Qud30oiBIuQBFrMY
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 9SeqEAwAipoS4JV9

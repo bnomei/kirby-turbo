@@ -1,0 +1,25 @@
+Title: Rental 591
+
+----
+
+Rental-id: 591
+
+----
+
+Rental-date: 2005-05-28 13:11:04
+
+----
+
+Return-date: 2005-05-29 17:20:04
+
+----
+
+Inventory: page://fbVWBF0U0pW8Ri7r
+
+----
+
+Uuid: 4Z9YHKAZ74OAwOBK
+
+----
+
+Customer: page://DP2nFBlcxJIrLJzp

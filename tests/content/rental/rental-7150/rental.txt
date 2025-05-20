@@ -1,0 +1,25 @@
+Title: Rental 7150
+
+----
+
+Rental-id: 7150
+
+----
+
+Rental-date: 2005-07-27 07:11:14
+
+----
+
+Return-date: 2005-08-05 06:55:14
+
+----
+
+Inventory: page://uEFFtVuGqeGF1XCY
+
+----
+
+Customer: page://bHbo1PFIkaygpNBz
+
+----
+
+Uuid: mjuWZ6c5aMTfX23Y

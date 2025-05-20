@@ -1,0 +1,17 @@
+Title: Inv 3270
+
+----
+
+Inventory-id: 3270
+
+----
+
+Film: page://kORLc1rST2kqFGaV
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: hIwLxt1pXWNpyoNM

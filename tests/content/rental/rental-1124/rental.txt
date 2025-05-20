@@ -1,0 +1,25 @@
+Title: Rental 1124
+
+----
+
+Rental-id: 1124
+
+----
+
+Rental-date: 2005-05-31 16:49:34
+
+----
+
+Return-date: 2005-06-04 19:32:34
+
+----
+
+Inventory: page://nruz6jXoHX28sh8g
+
+----
+
+Uuid: IDKhkleeapXVo2EC
+
+----
+
+Customer: page://zeAqUQXxiV8V74u5

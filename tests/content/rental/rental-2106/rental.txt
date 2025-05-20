@@ -1,0 +1,25 @@
+Title: Rental 2106
+
+----
+
+Rental-id: 2106
+
+----
+
+Rental-date: 2005-06-17 19:29:03
+
+----
+
+Return-date: 2005-06-23 18:17:03
+
+----
+
+Inventory: page://Ml9mmtKTxorTpuIi
+
+----
+
+Uuid: zuisxCZtXhxWW1HC
+
+----
+
+Customer: page://rtPPzvWhh7zAFt5a

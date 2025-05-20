@@ -1,0 +1,17 @@
+Title: Inv 3259
+
+----
+
+Inventory-id: 3259
+
+----
+
+Film: page://30NSV676rcSQ6IZA
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: IRkE5o8WbZYpxTLA

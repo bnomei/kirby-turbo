@@ -1,0 +1,25 @@
+Title: Rental 10236
+
+----
+
+Rental-id: 10236
+
+----
+
+Rental-date: 2005-08-01 02:05:34
+
+----
+
+Return-date: 2005-08-01 23:40:34
+
+----
+
+Inventory: page://maLDMhQ1QTTM0Zwb
+
+----
+
+Customer: page://DVrrnVZUrEDSKye7
+
+----
+
+Uuid: cVdZx2dkok0hQEXM

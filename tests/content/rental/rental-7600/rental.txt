@@ -1,0 +1,25 @@
+Title: Rental 7600
+
+----
+
+Rental-id: 7600
+
+----
+
+Rental-date: 2005-07-27 23:41:18
+
+----
+
+Return-date: 2005-08-06 04:40:18
+
+----
+
+Inventory: page://CFOXOzcZfqSnSZtD
+
+----
+
+Customer: page://daiDyhYRb8z7fkl0
+
+----
+
+Uuid: WReGNMR2MKtYQxuf

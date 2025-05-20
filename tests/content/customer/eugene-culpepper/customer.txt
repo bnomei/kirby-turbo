@@ -1,0 +1,33 @@
+Title: EUGENE CULPEPPER
+
+----
+
+Customer-id: 378
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: EUGENE
+
+----
+
+Last-name: CULPEPPER
+
+----
+
+Email: EUGENE.CULPEPPER@sakilacustomer.org
+
+----
+
+Address: page://vTS0KR3uLveftlej
+
+----
+
+Active: 1
+
+----
+
+Uuid: EmoWqGxzAidMQXb2

@@ -1,0 +1,25 @@
+Title: Rental 6520
+
+----
+
+Rental-id: 6520
+
+----
+
+Rental-date: 2005-07-12 04:05:16
+
+----
+
+Return-date: 2005-07-15 08:26:16
+
+----
+
+Inventory: page://qOf6UPWuXJIPq0lR
+
+----
+
+Uuid: XYV5P2Uv48vaY8fL
+
+----
+
+Customer: page://YNtCpMJMomhTZceJ

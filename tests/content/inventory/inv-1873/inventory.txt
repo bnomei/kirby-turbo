@@ -1,0 +1,17 @@
+Title: Inv 1873
+
+----
+
+Inventory-id: 1873
+
+----
+
+Film: page://x0gO7YRtpNfgYnvF
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: dgKMfdYysJYwztDy

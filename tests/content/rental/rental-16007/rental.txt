@@ -1,0 +1,25 @@
+Title: Rental 16007
+
+----
+
+Rental-id: 16007
+
+----
+
+Rental-date: 2005-08-23 21:02:43
+
+----
+
+Return-date: 2005-08-30 23:37:43
+
+----
+
+Inventory: page://a7f5a6DpYQn2gcTW
+
+----
+
+Customer: page://4XMwdFimnTGUEo5B
+
+----
+
+Uuid: bPSzMJY1BbxLYk86

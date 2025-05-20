@@ -1,0 +1,17 @@
+Title: Inv 3668
+
+----
+
+Inventory-id: 3668
+
+----
+
+Film: page://1pDJmtGDeGf9MiJW
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: JjwdPvNvMDfyp5hJ

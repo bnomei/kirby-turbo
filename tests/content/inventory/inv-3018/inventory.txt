@@ -1,0 +1,17 @@
+Title: Inv 3018
+
+----
+
+Inventory-id: 3018
+
+----
+
+Film: page://kZs95FwsP3In7Yk1
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 3OnGM1bvyQoMzzRP

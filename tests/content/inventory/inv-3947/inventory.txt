@@ -1,0 +1,17 @@
+Title: Inv 3947
+
+----
+
+Inventory-id: 3947
+
+----
+
+Film: page://nhD9EWKAgQt71xtX
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: F3anpDd25lh9PDxp

@@ -1,0 +1,17 @@
+Title: Inv 3245
+
+----
+
+Inventory-id: 3245
+
+----
+
+Film: page://FhYniv8kx1pUHlNs
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: HeUwj6QPOFiglTAC

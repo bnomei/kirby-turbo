@@ -1,0 +1,17 @@
+Title: Inv 2789
+
+----
+
+Inventory-id: 2789
+
+----
+
+Film: page://3UBsgfesYaEE18sw
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: iig5xVxzqm7C81xm

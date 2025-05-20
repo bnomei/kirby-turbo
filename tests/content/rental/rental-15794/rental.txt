@@ -1,0 +1,21 @@
+Title: Rental 15794
+
+----
+
+Rental-id: 15794
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://5jeCAygodXdtfYpD
+
+----
+
+Customer: page://35iZEOLpVXBoxDMB
+
+----
+
+Uuid: JBUhFOY62EnUBDRd

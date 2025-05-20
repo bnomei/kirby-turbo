@@ -1,0 +1,25 @@
+Title: Rental 1686
+
+----
+
+Rental-id: 1686
+
+----
+
+Rental-date: 2005-06-16 12:08:20
+
+----
+
+Return-date: 2005-06-20 10:59:20
+
+----
+
+Inventory: page://mrnxrUyxSxT6R8Ya
+
+----
+
+Uuid: kjZE1d42b4y1x7A9
+
+----
+
+Customer: page://6T1yeRwVMaJSaTXA

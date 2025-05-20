@@ -1,0 +1,25 @@
+Title: Rental 9331
+
+----
+
+Rental-id: 9331
+
+----
+
+Rental-date: 2005-07-30 17:46:50
+
+----
+
+Return-date: 2005-08-01 19:03:50
+
+----
+
+Inventory: page://DnFNIHmOkV6FOW0R
+
+----
+
+Customer: page://9bJXvFRudHnbyDta
+
+----
+
+Uuid: TGWKJ5elmglbs6K5

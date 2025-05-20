@@ -1,0 +1,37 @@
+Title: BAKED CLEOPATRA
+
+----
+
+Actors: - 'page://l9F1V32tlG60bBdO'
+
+----
+
+Film-id: 50
+
+----
+
+Description: A Stunning Drama of a Forensic Psychologist And a Husband who must Overcome a Waitress in A Monastery
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 182
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: 0f32KcDxJqbHTsfm
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

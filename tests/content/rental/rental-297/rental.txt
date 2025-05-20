@@ -1,0 +1,25 @@
+Title: Rental 297
+
+----
+
+Rental-id: 297
+
+----
+
+Rental-date: 2005-05-26 20:48:48
+
+----
+
+Return-date: 2005-05-27 19:52:48
+
+----
+
+Inventory: page://6eHTxdzOz5E8wzI5
+
+----
+
+Uuid: 4rvC7ysiDJl6ejBs
+
+----
+
+Customer: page://nZVFUQsoyO1MvhAU

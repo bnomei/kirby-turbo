@@ -1,0 +1,25 @@
+Title: Rental 9740
+
+----
+
+Rental-id: 9740
+
+----
+
+Rental-date: 2005-07-31 09:08:03
+
+----
+
+Return-date: 2005-08-06 04:48:03
+
+----
+
+Inventory: page://DLFR70ZXAzdZItSS
+
+----
+
+Customer: page://0IaV7NUIhxhKgfNm
+
+----
+
+Uuid: qOMph4myRxtS3HMc

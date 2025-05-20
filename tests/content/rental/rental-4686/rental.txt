@@ -1,0 +1,25 @@
+Title: Rental 4686
+
+----
+
+Rental-id: 4686
+
+----
+
+Rental-date: 2005-07-08 10:53:39
+
+----
+
+Return-date: 2005-07-10 05:34:39
+
+----
+
+Inventory: page://OEE8KHEjDhoD28AE
+
+----
+
+Uuid: ge6UakdmirStJQDZ
+
+----
+
+Customer: page://tXU6KMhmykXTBWCU

@@ -1,0 +1,25 @@
+Title: Rental 10138
+
+----
+
+Rental-id: 10138
+
+----
+
+Rental-date: 2005-07-31 22:02:09
+
+----
+
+Return-date: 2005-08-07 20:46:09
+
+----
+
+Inventory: page://5iGBxTjDr33xobGh
+
+----
+
+Customer: page://hiI1XI5RUVwa5yqD
+
+----
+
+Uuid: ieI9mIBcWFlSaM3x

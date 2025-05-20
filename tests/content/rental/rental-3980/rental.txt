@@ -1,0 +1,25 @@
+Title: Rental 3980
+
+----
+
+Rental-id: 3980
+
+----
+
+Rental-date: 2005-07-06 23:11:11
+
+----
+
+Return-date: 2005-07-14 18:22:11
+
+----
+
+Inventory: page://Ozqyk5cK5CXq0JLg
+
+----
+
+Uuid: pFKpo3uHUXhFl8Vx
+
+----
+
+Customer: page://Np0KqTwajD8FvaQR

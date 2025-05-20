@@ -1,0 +1,37 @@
+Title: DWARFS ALTER
+
+----
+
+Actors: - 'page://FLMpVB5CVJFKSGVy'
+
+----
+
+Film-id: 264
+
+----
+
+Description: A Emotional Yarn of a Girl And a Dog who must Challenge a Composer in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 101
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: ATc1gPDHk8zJP1s6
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

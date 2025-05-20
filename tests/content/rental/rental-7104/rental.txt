@@ -1,0 +1,25 @@
+Title: Rental 7104
+
+----
+
+Rental-id: 7104
+
+----
+
+Rental-date: 2005-07-27 05:15:25
+
+----
+
+Return-date: 2005-08-01 05:36:25
+
+----
+
+Inventory: page://EE4qIuAIsQHdiTqh
+
+----
+
+Customer: page://OfFxp4O7RmY8sd3L
+
+----
+
+Uuid: VG6nQzREa7bxaboN

@@ -1,0 +1,25 @@
+Title: Rental 13617
+
+----
+
+Rental-id: 13617
+
+----
+
+Rental-date: 2005-08-20 06:35:30
+
+----
+
+Return-date: 2005-08-29 09:03:30
+
+----
+
+Inventory: page://31x2qqislkGXF664
+
+----
+
+Customer: page://yQcQ1eHjHG2TC2t0
+
+----
+
+Uuid: BOVNkzS9zV5BEzc0

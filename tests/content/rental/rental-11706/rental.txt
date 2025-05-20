@@ -1,0 +1,25 @@
+Title: Rental 11706
+
+----
+
+Rental-id: 11706
+
+----
+
+Rental-date: 2005-08-17 07:23:46
+
+----
+
+Return-date: 2005-08-18 10:13:46
+
+----
+
+Inventory: page://SGoHTgjS4rwI0sLn
+
+----
+
+Customer: page://0ErgJ6kLkZUKKYCI
+
+----
+
+Uuid: nsFwDrWTNhDveL93

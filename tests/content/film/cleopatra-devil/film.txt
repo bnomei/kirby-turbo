@@ -1,0 +1,45 @@
+Title: CLEOPATRA DEVIL
+
+----
+
+Actors:
+
+- 'page://qd0io4mUKZ4KUkyk'
+- 'page://EfT0PAFDrVUk4H1Y'
+- 'page://Gsxc5TuqHyoQn1c1'
+- 'page://eZEz0vHTFLlEKlUs'
+- 'page://qXajFtQVbGpQUZAN'
+- 'page://ohgPd8XBH6s5Q55J'
+- 'page://zDG4LP4a8BGDrQEW'
+
+----
+
+Film-id: 155
+
+----
+
+Description: A Fanciful Documentary of a Crocodile And a Technical Writer who must Fight a A Shark in A Baloon
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 150
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: SxDteda577cEQBxE
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

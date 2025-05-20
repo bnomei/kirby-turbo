@@ -1,0 +1,25 @@
+Title: Rental 1104
+
+----
+
+Rental-id: 1104
+
+----
+
+Rental-date: 2005-05-31 14:30:01
+
+----
+
+Return-date: 2005-06-05 12:07:01
+
+----
+
+Inventory: page://nvN8BfHA52mGRKAJ
+
+----
+
+Uuid: flXgBx4dkYtoLsn3
+
+----
+
+Customer: page://QG9yqDQNwdOwdXOt

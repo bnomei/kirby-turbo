@@ -1,0 +1,41 @@
+Title: FREDDY STORM
+
+----
+
+Actors:
+
+- 'page://oEbdYNCKFrP9NVLv'
+- 'page://ovAz2jwmaTIz5ph9'
+- 'page://xfLW2h8D6Ci3k3ux'
+
+----
+
+Film-id: 334
+
+----
+
+Description: A Intrepid Saga of a Man And a Lumberjack who must Vanquish a Husband in The Outback
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 65
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: KwgLWF2jeDeGSp6R
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

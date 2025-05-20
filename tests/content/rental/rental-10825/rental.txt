@@ -1,0 +1,25 @@
+Title: Rental 10825
+
+----
+
+Rental-id: 10825
+
+----
+
+Rental-date: 2005-08-01 23:05:33
+
+----
+
+Return-date: 2005-08-04 04:33:33
+
+----
+
+Inventory: page://048Pe4776rj3HMln
+
+----
+
+Customer: page://B7BnhDPJcre02BJt
+
+----
+
+Uuid: aOkhp2r0ypOpbSAm

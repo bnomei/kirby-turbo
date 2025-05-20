@@ -1,0 +1,17 @@
+Title: Inv 3470
+
+----
+
+Inventory-id: 3470
+
+----
+
+Film: page://QkPR08jHprrRWEr9
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: LttMUX6LK57gfPXr

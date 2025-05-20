@@ -1,0 +1,25 @@
+Title: Rental 4345
+
+----
+
+Rental-id: 4345
+
+----
+
+Rental-date: 2005-07-07 18:52:57
+
+----
+
+Return-date: 2005-07-15 21:24:57
+
+----
+
+Inventory: page://KopjtV8J8FWuQd3R
+
+----
+
+Uuid: 7s64BhEDCfClmI4Q
+
+----
+
+Customer: page://hiI1XI5RUVwa5yqD

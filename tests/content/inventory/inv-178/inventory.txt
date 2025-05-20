@@ -1,0 +1,17 @@
+Title: Inv 178
+
+----
+
+Inventory-id: 178
+
+----
+
+Film: page://edmnyIXRwbWbqYt0
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: cMIezRPq8dZ9D2Px

@@ -1,0 +1,37 @@
+Title: FOREVER CANDIDATE
+
+----
+
+Actors: - 'page://3XS33oPl7qwaYDh3'
+
+----
+
+Film-id: 328
+
+----
+
+Description: A Unbelieveable Panorama of a Technical Writer And a Man who must Pursue a Frisbee in A U-Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 131
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: zI1WCPL0wtu2p6Wh
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

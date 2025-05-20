@@ -1,0 +1,43 @@
+Title: WORKING MICROCOSMOS
+
+----
+
+Actors:
+
+- 'page://JA85uxdb8uiPNO2i'
+- 'page://nN3rIVkI7hNgoDlp'
+- 'page://WFF82auh2AgpYPoL'
+- 'page://m11q5cdDfIefOEY5'
+- 'page://9XqCStEtXKdxVnPM'
+
+----
+
+Film-id: 989
+
+----
+
+Description: A Stunning Epistle of a Dentist And a Dog who must Kill a Madman in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 74
+
+----
+
+Rating: R
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: HpOFOK6mVqzkE5h1
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

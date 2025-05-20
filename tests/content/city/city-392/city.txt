@@ -1,0 +1,17 @@
+Title: Paarl
+
+----
+
+City-id: 392
+
+----
+
+City: Paarl
+
+----
+
+Country: page://q91K04vzl98eNg9U
+
+----
+
+Uuid: WvXCjLcQEyF4Sf7W

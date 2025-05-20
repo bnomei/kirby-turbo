@@ -1,0 +1,33 @@
+Title: NANCY THOMAS
+
+----
+
+Customer-id: 12
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: NANCY
+
+----
+
+Last-name: THOMAS
+
+----
+
+Email: NANCY.THOMAS@sakilacustomer.org
+
+----
+
+Address: page://uI8r0JpW0Rifsd56
+
+----
+
+Active: 1
+
+----
+
+Uuid: CGZMdA6lJNzUzePV

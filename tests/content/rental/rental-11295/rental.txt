@@ -1,0 +1,25 @@
+Title: Rental 11295
+
+----
+
+Rental-id: 11295
+
+----
+
+Rental-date: 2005-08-02 15:10:06
+
+----
+
+Return-date: 2005-08-10 09:52:06
+
+----
+
+Inventory: page://FTOuDqVYyzmVvwCC
+
+----
+
+Customer: page://qwuyaWIZTC7pwwND
+
+----
+
+Uuid: XcrCq2GfWLoGHdAI

@@ -1,0 +1,25 @@
+Title: Rental 8357
+
+----
+
+Rental-id: 8357
+
+----
+
+Rental-date: 2005-07-29 04:59:44
+
+----
+
+Return-date: 2005-08-01 04:26:44
+
+----
+
+Inventory: page://lARkkFGQEADiyJx4
+
+----
+
+Customer: page://6QgFvPw1AynCQ7UR
+
+----
+
+Uuid: 26BS9MoqymgQGDmP

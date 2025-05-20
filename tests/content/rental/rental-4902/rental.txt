@@ -1,0 +1,25 @@
+Title: Rental 4902
+
+----
+
+Rental-id: 4902
+
+----
+
+Rental-date: 2005-07-08 20:49:30
+
+----
+
+Return-date: 2005-07-13 16:54:30
+
+----
+
+Inventory: page://orjWmPN66R8HR1LS
+
+----
+
+Uuid: 52FV9qSrp2o0VN4h
+
+----
+
+Customer: page://C4htS1tLHzkKyE5J

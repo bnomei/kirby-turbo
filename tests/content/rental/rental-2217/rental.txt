@@ -1,0 +1,25 @@
+Title: Rental 2217
+
+----
+
+Rental-id: 2217
+
+----
+
+Rental-date: 2005-06-18 03:12:29
+
+----
+
+Return-date: 2005-06-20 06:08:29
+
+----
+
+Inventory: page://dee3Tk85K2ItiMpJ
+
+----
+
+Uuid: yzs1pTrseolNiLDZ
+
+----
+
+Customer: page://DHCFR43GioKyqCUN

@@ -1,0 +1,33 @@
+Title: RANDY GAITHER
+
+----
+
+Customer-id: 376
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: RANDY
+
+----
+
+Last-name: GAITHER
+
+----
+
+Email: RANDY.GAITHER@sakilacustomer.org
+
+----
+
+Address: page://qWIltU3seTAZfwVb
+
+----
+
+Active: 1
+
+----
+
+Uuid: 20Yola6tVbTLAtmZ

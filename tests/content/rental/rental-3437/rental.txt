@@ -1,0 +1,25 @@
+Title: Rental 3437
+
+----
+
+Rental-id: 3437
+
+----
+
+Rental-date: 2005-06-21 19:20:17
+
+----
+
+Return-date: 2005-07-01 01:09:17
+
+----
+
+Inventory: page://ktzSYgFa3ojZQ92p
+
+----
+
+Uuid: PzvsWA3wTDLUKUQY
+
+----
+
+Customer: page://2MJV1ploMc8lFO2Z

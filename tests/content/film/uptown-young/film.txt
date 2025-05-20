@@ -1,0 +1,44 @@
+Title: UPTOWN YOUNG
+
+----
+
+Actors:
+
+- 'page://osa3qsECAnV3MAu4'
+- 'page://AvkKtwk9lLurZvzW'
+- 'page://CXnMd8oVYWgOtYAB'
+- 'page://ovAz2jwmaTIz5ph9'
+- 'page://9dZ7pytlckFxJvGe'
+- 'page://j4GwVyPWyXE95Bdj'
+
+----
+
+Film-id: 928
+
+----
+
+Description: A Fateful Documentary of a Dog And a Hunter who must Pursue a Teacher in An Abandoned Amusement Park
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 84
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Commentaries
+
+----
+
+Uuid: X6Ufud2ZtQ4XFoEP
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

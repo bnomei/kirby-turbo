@@ -1,0 +1,17 @@
+Title: Inv 1480
+
+----
+
+Inventory-id: 1480
+
+----
+
+Film: page://4qllX4lclo3VoZcl
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 2bjJCFQd1h3NOmUD

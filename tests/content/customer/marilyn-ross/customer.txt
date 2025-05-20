@@ -1,0 +1,33 @@
+Title: MARILYN ROSS
+
+----
+
+Customer-id: 80
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MARILYN
+
+----
+
+Last-name: ROSS
+
+----
+
+Email: MARILYN.ROSS@sakilacustomer.org
+
+----
+
+Address: page://yHte5ukEEQD9PivW
+
+----
+
+Active: 1
+
+----
+
+Uuid: Kfg59yZzb8JuYq1o

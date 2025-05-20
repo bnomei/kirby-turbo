@@ -1,0 +1,25 @@
+Title: Rental 4300
+
+----
+
+Rental-id: 4300
+
+----
+
+Rental-date: 2005-07-07 16:36:16
+
+----
+
+Return-date: 2005-07-10 13:59:16
+
+----
+
+Inventory: page://VAoe281CjxbcQeBQ
+
+----
+
+Uuid: SAAA3Rf0P1CO62dj
+
+----
+
+Customer: page://EiH1RuNqWwCS6DfM

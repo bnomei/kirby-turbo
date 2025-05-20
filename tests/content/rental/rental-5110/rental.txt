@@ -1,0 +1,25 @@
+Title: Rental 5110
+
+----
+
+Rental-id: 5110
+
+----
+
+Rental-date: 2005-07-09 06:57:25
+
+----
+
+Return-date: 2005-07-12 05:39:25
+
+----
+
+Inventory: page://DGsgXw6RcnYOGjMy
+
+----
+
+Uuid: 0s1Npv9R88VrzhOu
+
+----
+
+Customer: page://9M7WmMyIHxnO6lL5

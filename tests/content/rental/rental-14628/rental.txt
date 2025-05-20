@@ -1,0 +1,25 @@
+Title: Rental 14628
+
+----
+
+Rental-id: 14628
+
+----
+
+Rental-date: 2005-08-21 18:37:24
+
+----
+
+Return-date: 2005-08-27 20:25:24
+
+----
+
+Inventory: page://iTUbLxVCnePEPu1y
+
+----
+
+Customer: page://DxMKPSznn9C2XI5l
+
+----
+
+Uuid: nxCbPRGhqQjwHS6i

@@ -1,0 +1,33 @@
+Title: MARLENE WELCH
+
+----
+
+Customer-id: 240
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MARLENE
+
+----
+
+Last-name: WELCH
+
+----
+
+Email: MARLENE.WELCH@sakilacustomer.org
+
+----
+
+Address: page://o4l51G234CtuuZtC
+
+----
+
+Active: 1
+
+----
+
+Uuid: Cu40qk5iMNg9WfrC

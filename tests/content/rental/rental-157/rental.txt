@@ -1,0 +1,25 @@
+Title: Rental 157
+
+----
+
+Rental-id: 157
+
+----
+
+Rental-date: 2005-05-26 01:25:21
+
+----
+
+Return-date: 2005-05-26 21:17:21
+
+----
+
+Inventory: page://IvzbpVSNPkVaucLo
+
+----
+
+Uuid: O0k6PmwnMAoh5iLT
+
+----
+
+Customer: page://gEZ3qN9Yi6NtmTSr

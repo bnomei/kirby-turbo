@@ -1,0 +1,25 @@
+Title: Rental 4746
+
+----
+
+Rental-id: 4746
+
+----
+
+Rental-date: 2005-07-08 13:47:55
+
+----
+
+Return-date: 2005-07-11 09:06:55
+
+----
+
+Inventory: page://BfNL2I8WB17NkkTR
+
+----
+
+Uuid: MhcYbI9P8nL5xPlR
+
+----
+
+Customer: page://bp3076yXkpG6TsZ7

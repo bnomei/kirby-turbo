@@ -1,0 +1,17 @@
+Title: Inv 4065
+
+----
+
+Inventory-id: 4065
+
+----
+
+Film: page://88FHcDfHWkcux8m9
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: faHpZq60oDHor2tt

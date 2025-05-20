@@ -1,0 +1,17 @@
+Title: Inv 372
+
+----
+
+Inventory-id: 372
+
+----
+
+Film: page://r6RbLIsQFlaQLYEq
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: TMMKfJjPMZNKsyVx

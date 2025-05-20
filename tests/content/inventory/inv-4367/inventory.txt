@@ -1,0 +1,17 @@
+Title: Inv 4367
+
+----
+
+Inventory-id: 4367
+
+----
+
+Film: page://cmCFFcimiLFMfhMz
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: gsGQsiSUTVZwufmJ

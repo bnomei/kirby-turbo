@@ -1,0 +1,17 @@
+Title: Inv 2241
+
+----
+
+Inventory-id: 2241
+
+----
+
+Film: page://TgET8y6ulzmChjPL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: MKOp9IlNWqYi9SpY

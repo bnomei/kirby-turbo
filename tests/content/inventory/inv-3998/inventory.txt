@@ -1,0 +1,17 @@
+Title: Inv 3998
+
+----
+
+Inventory-id: 3998
+
+----
+
+Film: page://iGsPfI8b7Gn5X4mj
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 1ZEKTHw5JWysw8ia

@@ -1,0 +1,17 @@
+Title: Inv 188
+
+----
+
+Inventory-id: 188
+
+----
+
+Film: page://EPwV3YKcC8UZO5c1
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: y9ERwjUuUgtS4Sao

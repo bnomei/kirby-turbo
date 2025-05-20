@@ -1,0 +1,25 @@
+Title: Rental 9819
+
+----
+
+Rental-id: 9819
+
+----
+
+Rental-date: 2005-07-31 11:39:13
+
+----
+
+Return-date: 2005-08-06 09:11:13
+
+----
+
+Inventory: page://myiyyDmvrNY2WBln
+
+----
+
+Customer: page://TxY88rwk6w3N9jKC
+
+----
+
+Uuid: b8KN3z1aUaXibn9T

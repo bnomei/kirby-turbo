@@ -1,0 +1,25 @@
+Title: Rental 3817
+
+----
+
+Rental-id: 3817
+
+----
+
+Rental-date: 2005-07-06 15:31:45
+
+----
+
+Return-date: 2005-07-11 17:11:45
+
+----
+
+Inventory: page://EehE3ZkvkTpXOLGv
+
+----
+
+Uuid: FL40BJ7QxZbyVR6r
+
+----
+
+Customer: page://YC1uNdmmt4LG2OJc

@@ -1,0 +1,33 @@
+Title: PERRY SWAFFORD
+
+----
+
+Customer-id: 585
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: PERRY
+
+----
+
+Last-name: SWAFFORD
+
+----
+
+Email: PERRY.SWAFFORD@sakilacustomer.org
+
+----
+
+Address: page://0Pl8oR3XoiOmvNa6
+
+----
+
+Active: 1
+
+----
+
+Uuid: SKKb5efZdNtiX2jG

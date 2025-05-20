@@ -1,0 +1,17 @@
+Title: Inv 3313
+
+----
+
+Inventory-id: 3313
+
+----
+
+Film: page://yMSGzTIZGNWC9Guw
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: TyI1SwhPqFrgj15c

@@ -1,0 +1,33 @@
+Title: GORDON ALLARD
+
+----
+
+Customer-id: 470
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: GORDON
+
+----
+
+Last-name: ALLARD
+
+----
+
+Email: GORDON.ALLARD@sakilacustomer.org
+
+----
+
+Address: page://yt9Hzsmhe3c88qQn
+
+----
+
+Active: 1
+
+----
+
+Uuid: DVrrnVZUrEDSKye7

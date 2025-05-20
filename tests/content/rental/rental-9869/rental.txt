@@ -1,0 +1,25 @@
+Title: Rental 9869
+
+----
+
+Rental-id: 9869
+
+----
+
+Rental-date: 2005-07-31 13:21:54
+
+----
+
+Return-date: 2005-08-07 09:09:54
+
+----
+
+Inventory: page://NPv8URcDh6m3Dwjc
+
+----
+
+Customer: page://hKCKx3YFHHjehyrG
+
+----
+
+Uuid: GI2LKCn2nVsj95ea

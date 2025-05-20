@@ -1,0 +1,25 @@
+Title: Rental 6317
+
+----
+
+Rental-id: 6317
+
+----
+
+Rental-date: 2005-07-11 18:47:41
+
+----
+
+Return-date: 2005-07-14 18:18:41
+
+----
+
+Inventory: page://QO3v1QLR0zwbYZ38
+
+----
+
+Uuid: vcqbiaIKEjNvDFt7
+
+----
+
+Customer: page://hiI1XI5RUVwa5yqD

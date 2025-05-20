@@ -1,0 +1,17 @@
+Title: Inv 2278
+
+----
+
+Inventory-id: 2278
+
+----
+
+Film: page://4vIUTrvVPhpnfFf4
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 6A866PRc8ndoju8U

@@ -1,0 +1,43 @@
+Title: KILLER INNOCENT
+
+----
+
+Actors:
+
+- 'page://GA1ldK0BGihIEfd4'
+- 'page://rrHZ6f6sSm29JuNB'
+- 'page://lWEFCFc3fpMkkCVm'
+- 'page://isKOKKisNfJh2ta1'
+- 'page://QybR1sXOQQQZIPXG'
+
+----
+
+Film-id: 498
+
+----
+
+Description: A Fanciful Character Study of a Student And a Explorer who must Succumb a Composer in An Abandoned Mine Shaft
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 161
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: A2Uxcvp2WUXzG5WN
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

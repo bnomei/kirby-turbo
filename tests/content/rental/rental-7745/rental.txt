@@ -1,0 +1,25 @@
+Title: Rental 7745
+
+----
+
+Rental-id: 7745
+
+----
+
+Rental-date: 2005-07-28 05:46:28
+
+----
+
+Return-date: 2005-08-06 07:44:28
+
+----
+
+Inventory: page://YtnbIGIBHB9goawI
+
+----
+
+Customer: page://lur9c4IA9ICHuaKZ
+
+----
+
+Uuid: Yn7DrLumLS98B6AF

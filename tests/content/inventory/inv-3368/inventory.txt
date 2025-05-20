@@ -1,0 +1,17 @@
+Title: Inv 3368
+
+----
+
+Inventory-id: 3368
+
+----
+
+Film: page://2pmbZu2tomx861FS
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: XiudFFfMw5nyim2D

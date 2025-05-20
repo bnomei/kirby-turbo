@@ -1,0 +1,17 @@
+Title: Inv 1712
+
+----
+
+Inventory-id: 1712
+
+----
+
+Film: page://9C65JxCW0pw6tqcG
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 66XstaOI7PUdb2yy

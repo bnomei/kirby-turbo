@@ -1,0 +1,25 @@
+Title: Rental 3300
+
+----
+
+Rental-id: 3300
+
+----
+
+Rental-date: 2005-06-21 07:25:01
+
+----
+
+Return-date: 2005-06-25 01:47:01
+
+----
+
+Inventory: page://zAcsoJGj6Ge2VM5z
+
+----
+
+Uuid: O4IFhGuIfnqvZ7iQ
+
+----
+
+Customer: page://7AM12dZR8dD0mO7c

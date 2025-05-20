@@ -1,0 +1,17 @@
+Title: Inv 834
+
+----
+
+Inventory-id: 834
+
+----
+
+Film: page://hJibyvidPj1zufsP
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: EQnQ4agjtHzY6Wyi

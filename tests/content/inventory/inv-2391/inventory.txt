@@ -1,0 +1,17 @@
+Title: Inv 2391
+
+----
+
+Inventory-id: 2391
+
+----
+
+Film: page://OWB0rIhbbXIitcLz
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: BEEWr3rlyiX93pyN

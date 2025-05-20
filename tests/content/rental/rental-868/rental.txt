@@ -1,0 +1,25 @@
+Title: Rental 868
+
+----
+
+Rental-id: 868
+
+----
+
+Rental-date: 2005-05-30 04:19:55
+
+----
+
+Return-date: 2005-05-31 02:28:55
+
+----
+
+Inventory: page://7mBe7YuYlHS6rNPC
+
+----
+
+Uuid: pLylBGh03mgu5R2E
+
+----
+
+Customer: page://9GMMxk4OJQFuLIWJ

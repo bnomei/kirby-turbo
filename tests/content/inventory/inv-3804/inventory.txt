@@ -1,0 +1,17 @@
+Title: Inv 3804
+
+----
+
+Inventory-id: 3804
+
+----
+
+Film: page://BMtazaGmS6oQnaij
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: FUvVHJ6Me7SBIxTO

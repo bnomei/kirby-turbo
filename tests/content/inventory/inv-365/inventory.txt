@@ -1,0 +1,17 @@
+Title: Inv 365
+
+----
+
+Inventory-id: 365
+
+----
+
+Film: page://nfSwrYNlUFrCCo1g
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: T3hAwfoXGHyydHMH

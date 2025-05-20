@@ -1,0 +1,45 @@
+Title: BUTTERFLY CHOCOLAT
+
+----
+
+Actors:
+
+- 'page://JeeyeDJ3FmxSMbIy'
+- 'page://NlhyBSq5UemRMvfg'
+- 'page://eZEz0vHTFLlEKlUs'
+- 'page://kglHBUzvM27ekW4e'
+- 'page://NRH2DcjJcFwzgjEd'
+- 'page://h9gp2o2uGocb4AUV'
+- 'page://FLMpVB5CVJFKSGVy'
+
+----
+
+Film-id: 109
+
+----
+
+Description: A Fateful Story of a Girl And a Composer who must Conquer a Husband in A Shark Tank
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 89
+
+----
+
+Rating: G
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: oRpZRH9vL9I1bLI8
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

@@ -1,0 +1,17 @@
+Title: Inv 768
+
+----
+
+Inventory-id: 768
+
+----
+
+Film: page://2hqLMXmuK75wH2iH
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 6snU2NFWtNq8hFPW

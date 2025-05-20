@@ -1,0 +1,17 @@
+Title: Inv 619
+
+----
+
+Inventory-id: 619
+
+----
+
+Film: page://C8VGh18xAG37kxNf
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: b22R5vxCWoBMhou8

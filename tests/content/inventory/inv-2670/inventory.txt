@@ -1,0 +1,17 @@
+Title: Inv 2670
+
+----
+
+Inventory-id: 2670
+
+----
+
+Film: page://5g6zKOX9LThAZKIY
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: XJY8z6pNrp20uu5X

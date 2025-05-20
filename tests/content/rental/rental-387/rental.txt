@@ -1,0 +1,25 @@
+Title: Rental 387
+
+----
+
+Rental-id: 387
+
+----
+
+Rental-date: 2005-05-27 10:35:27
+
+----
+
+Return-date: 2005-06-01 13:37:27
+
+----
+
+Inventory: page://T6FtIrQMFyE8LfAn
+
+----
+
+Uuid: dYZpYDXfbnrkr9ZU
+
+----
+
+Customer: page://R8IxBa5hez4twrqS

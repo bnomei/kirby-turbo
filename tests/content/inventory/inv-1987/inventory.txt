@@ -1,0 +1,17 @@
+Title: Inv 1987
+
+----
+
+Inventory-id: 1987
+
+----
+
+Film: page://vUHQbs8cNE0ve45v
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 5rG3xWnulMqizSU3

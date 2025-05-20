@@ -1,0 +1,25 @@
+Title: Rental 2819
+
+----
+
+Rental-id: 2819
+
+----
+
+Rental-date: 2005-06-19 20:13:33
+
+----
+
+Return-date: 2005-06-26 16:44:33
+
+----
+
+Inventory: page://Ma06TJCVlGgMhNSe
+
+----
+
+Uuid: e0CxCExMG46mi86g
+
+----
+
+Customer: page://HwY6ZsDzzk6bcaJh

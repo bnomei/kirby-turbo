@@ -1,0 +1,17 @@
+Title: Inv 823
+
+----
+
+Inventory-id: 823
+
+----
+
+Film: page://b2aQcBVvUGLdzR4T
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 8jsiPVTU7dy3y9J3

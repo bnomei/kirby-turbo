@@ -1,0 +1,25 @@
+Title: Rental 504
+
+----
+
+Rental-id: 504
+
+----
+
+Rental-date: 2005-05-28 02:05:34
+
+----
+
+Return-date: 2005-05-30 23:03:34
+
+----
+
+Inventory: page://IVodnp5YueixQNMu
+
+----
+
+Uuid: KVupcjK9JixsZs9H
+
+----
+
+Customer: page://rLSUHhRJgJCY5Nmr

@@ -1,0 +1,25 @@
+Title: Rental 8263
+
+----
+
+Rental-id: 8263
+
+----
+
+Rental-date: 2005-07-29 01:11:23
+
+----
+
+Return-date: 2005-07-31 01:53:23
+
+----
+
+Inventory: page://XkLkCM9MeGjCUWZc
+
+----
+
+Customer: page://stFkFNmIWPMkzEB2
+
+----
+
+Uuid: X2SaAe9LCVVpKCoN

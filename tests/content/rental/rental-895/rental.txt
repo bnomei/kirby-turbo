@@ -1,0 +1,25 @@
+Title: Rental 895
+
+----
+
+Rental-id: 895
+
+----
+
+Rental-date: 2005-05-30 08:50:43
+
+----
+
+Return-date: 2005-06-05 10:58:43
+
+----
+
+Inventory: page://Gh4GY1KIbGEfjoLE
+
+----
+
+Uuid: Tah2mhoJbCK4MHGJ
+
+----
+
+Customer: page://S6wnyWLyFa5056NX

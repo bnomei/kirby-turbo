@@ -1,0 +1,17 @@
+Title: Inv 4495
+
+----
+
+Inventory-id: 4495
+
+----
+
+Film: page://ScohjcbuN4KJUFR9
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: I771XQ5zjw0SHlHC

@@ -1,0 +1,17 @@
+Title: Inv 2258
+
+----
+
+Inventory-id: 2258
+
+----
+
+Film: page://Kxa3ijuDnJeyerB3
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: BSCIFrl88rNAEa3x

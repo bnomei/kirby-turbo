@@ -1,0 +1,25 @@
+Title: Rental 5050
+
+----
+
+Rental-id: 5050
+
+----
+
+Rental-date: 2005-07-09 03:54:38
+
+----
+
+Return-date: 2005-07-10 02:23:38
+
+----
+
+Inventory: page://gacjsbNeSt1m30fK
+
+----
+
+Uuid: JC5Z74tBbkMfdaJY
+
+----
+
+Customer: page://ZMPHt1kBgzua3Tmb

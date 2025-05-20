@@ -1,0 +1,25 @@
+Title: Rental 1929
+
+----
+
+Rental-id: 1929
+
+----
+
+Rental-date: 2005-06-17 06:49:30
+
+----
+
+Return-date: 2005-06-22 12:07:30
+
+----
+
+Inventory: page://ens3uiKD7UHmp3QL
+
+----
+
+Uuid: 2A8LA8z7MIyJMn7w
+
+----
+
+Customer: page://wFOjfrR0gpP7jV9B

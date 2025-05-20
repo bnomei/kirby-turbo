@@ -1,0 +1,43 @@
+Title: BLACKOUT PRIVATE
+
+----
+
+Actors:
+
+- 'page://RW4ixiF3bbh7oXkH'
+- 'page://GwUKN9N7u1wbNu4w'
+- 'page://rTdvG0vGkNN8iJpQ'
+- 'page://xXgVj4FQPZ59wjBk'
+- 'page://nNLtL91vUU653tYz'
+
+----
+
+Film-id: 78
+
+----
+
+Description: A Intrepid Yarn of a Pastry Chef And a Mad Scientist who must Challenge a Secret Agent in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 85
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: iy0a104HjhjHKgsH
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

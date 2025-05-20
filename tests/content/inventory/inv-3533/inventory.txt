@@ -1,0 +1,17 @@
+Title: Inv 3533
+
+----
+
+Inventory-id: 3533
+
+----
+
+Film: page://n7uW2rvQTttEKsGS
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: EhUedfs6I9R5zlrC

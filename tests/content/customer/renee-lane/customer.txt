@@ -1,0 +1,33 @@
+Title: RENEE LANE
+
+----
+
+Customer-id: 182
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: RENEE
+
+----
+
+Last-name: LANE
+
+----
+
+Email: RENEE.LANE@sakilacustomer.org
+
+----
+
+Address: page://tYPg6eaTP9qiwhvv
+
+----
+
+Active: 1
+
+----
+
+Uuid: WanceI8LSemC0lzf

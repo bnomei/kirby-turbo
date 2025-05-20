@@ -1,0 +1,25 @@
+Title: Rental 10219
+
+----
+
+Rental-id: 10219
+
+----
+
+Rental-date: 2005-08-01 01:10:33
+
+----
+
+Return-date: 2005-08-10 02:45:33
+
+----
+
+Inventory: page://eJQg7wijR8FExZLg
+
+----
+
+Customer: page://kIByXaqyonxT2CUq
+
+----
+
+Uuid: fv25yl7ZNnQGRAy1

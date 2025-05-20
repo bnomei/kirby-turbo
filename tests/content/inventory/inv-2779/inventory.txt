@@ -1,0 +1,17 @@
+Title: Inv 2779
+
+----
+
+Inventory-id: 2779
+
+----
+
+Film: page://ST9ip5PSHdw6JvAf
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: KRloJxYpxLjPtUU7

@@ -1,0 +1,17 @@
+Title: Inv 773
+
+----
+
+Inventory-id: 773
+
+----
+
+Film: page://YudTZAeInv8XFQ5C
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: OLl7B0FjvcxiiYas

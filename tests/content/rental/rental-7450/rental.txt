@@ -1,0 +1,25 @@
+Title: Rental 7450
+
+----
+
+Rental-id: 7450
+
+----
+
+Rental-date: 2005-07-27 18:18:35
+
+----
+
+Return-date: 2005-08-04 15:18:35
+
+----
+
+Inventory: page://B50dOXGvnDGBG1to
+
+----
+
+Customer: page://bHbo1PFIkaygpNBz
+
+----
+
+Uuid: 2Ly9jxaSOIyNNmoR

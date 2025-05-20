@@ -1,0 +1,13 @@
+Title: Nauru
+
+----
+
+Country-id: 65
+
+----
+
+Country: Nauru
+
+----
+
+Uuid: 3JyciCATBmp5WFle

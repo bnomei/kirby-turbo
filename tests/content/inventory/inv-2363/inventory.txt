@@ -1,0 +1,17 @@
+Title: Inv 2363
+
+----
+
+Inventory-id: 2363
+
+----
+
+Film: page://EaSM2LRmuOtGg6lI
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: vNzYycPyuy97pgeN

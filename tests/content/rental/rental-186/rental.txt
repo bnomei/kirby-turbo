@@ -1,0 +1,25 @@
+Title: Rental 186
+
+----
+
+Rental-id: 186
+
+----
+
+Rental-date: 2005-05-26 05:32:52
+
+----
+
+Return-date: 2005-06-03 07:19:52
+
+----
+
+Inventory: page://OMAE4caeWQjpxtgM
+
+----
+
+Uuid: Gf2iJ2vXKQkYu315
+
+----
+
+Customer: page://tS8tZAomHzcsij8a

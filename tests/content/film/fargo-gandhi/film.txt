@@ -1,0 +1,43 @@
+Title: FARGO GANDHI
+
+----
+
+Actors:
+
+- 'page://l9F1V32tlG60bBdO'
+- 'page://u0N0ozPCYMgg4oo9'
+- 'page://yhATHnZqo4RzYS83'
+- 'page://qCm78VMzP14zbmIL'
+- 'page://OqV4tbW7WtFrMtYI'
+
+----
+
+Film-id: 304
+
+----
+
+Description: A Thrilling Reflection of a Pastry Chef And a Crocodile who must Reach a Teacher in The Outback
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 130
+
+----
+
+Rating: G
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: N9PtI3NUMaNkDMZF
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

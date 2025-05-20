@@ -1,0 +1,25 @@
+Title: Rental 13462
+
+----
+
+Rental-id: 13462
+
+----
+
+Rental-date: 2005-08-20 00:49:19
+
+----
+
+Return-date: 2005-08-26 06:21:19
+
+----
+
+Inventory: page://7hPCYu8FEQl2yJi3
+
+----
+
+Customer: page://Wo2cU6s6b3fySp3g
+
+----
+
+Uuid: 2W4eMEAPGbA7XV8w

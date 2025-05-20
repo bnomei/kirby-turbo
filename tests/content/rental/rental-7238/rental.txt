@@ -1,0 +1,25 @@
+Title: Rental 7238
+
+----
+
+Rental-id: 7238
+
+----
+
+Rental-date: 2005-07-27 10:13:41
+
+----
+
+Return-date: 2005-07-29 11:07:41
+
+----
+
+Inventory: page://ZED1Zsh9g4VZHDp3
+
+----
+
+Customer: page://T9Zm4dl6jOmrQnrt
+
+----
+
+Uuid: 4vMtX7O1OnmCovKQ

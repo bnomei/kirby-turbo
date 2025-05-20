@@ -1,0 +1,25 @@
+Title: Rental 1342
+
+----
+
+Rental-id: 1342
+
+----
+
+Rental-date: 2005-06-15 12:26:21
+
+----
+
+Return-date: 2005-06-22 11:23:21
+
+----
+
+Inventory: page://jBaltIh1HuwSaitx
+
+----
+
+Uuid: 8XXprEhZZlqMrBwB
+
+----
+
+Customer: page://H1iYUUjd9JG1DGh7

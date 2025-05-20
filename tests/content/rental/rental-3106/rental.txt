@@ -1,0 +1,25 @@
+Title: Rental 3106
+
+----
+
+Rental-id: 3106
+
+----
+
+Rental-date: 2005-06-20 17:18:06
+
+----
+
+Return-date: 2005-06-24 14:50:06
+
+----
+
+Inventory: page://GyAAohgehRNzr4lR
+
+----
+
+Uuid: db0f4JI17T4WWrYi
+
+----
+
+Customer: page://cJydH6wkvuH04KQt

@@ -1,0 +1,25 @@
+Title: Rental 10989
+
+----
+
+Rental-id: 10989
+
+----
+
+Rental-date: 2005-08-02 04:40:54
+
+----
+
+Return-date: 2005-08-09 03:39:54
+
+----
+
+Inventory: page://5LNgLH37LjNvshRf
+
+----
+
+Customer: page://Azw9Nv7ouxsZUKzG
+
+----
+
+Uuid: CpGVPgrQDU5mCzod

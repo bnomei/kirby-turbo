@@ -1,0 +1,17 @@
+Title: Inv 589
+
+----
+
+Inventory-id: 589
+
+----
+
+Film: page://vHTBOKZafABvsrGi
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: kG14jgqW1PHTsqVh

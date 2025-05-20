@@ -1,0 +1,17 @@
+Title: Inv 2354
+
+----
+
+Inventory-id: 2354
+
+----
+
+Film: page://p2Ruaq8LmbhZrrQU
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: qKvhoYoaSfCISSZq

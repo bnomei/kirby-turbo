@@ -1,0 +1,25 @@
+Title: Rental 9916
+
+----
+
+Rental-id: 9916
+
+----
+
+Rental-date: 2005-07-31 14:54:52
+
+----
+
+Return-date: 2005-08-07 13:18:52
+
+----
+
+Inventory: page://JAFF2tb3YXWpu2mN
+
+----
+
+Customer: page://UUq0CNtGhFxoj9KF
+
+----
+
+Uuid: jbEUYKjvPlGAjO88

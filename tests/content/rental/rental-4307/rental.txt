@@ -1,0 +1,25 @@
+Title: Rental 4307
+
+----
+
+Rental-id: 4307
+
+----
+
+Rental-date: 2005-07-07 17:20:39
+
+----
+
+Return-date: 2005-07-16 14:42:39
+
+----
+
+Inventory: page://2fVVrdX7oqHaRNCT
+
+----
+
+Uuid: 4s5hr9c8qA2LDAfx
+
+----
+
+Customer: page://HiWqju3pijeJQEv1

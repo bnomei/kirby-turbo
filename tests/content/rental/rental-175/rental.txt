@@ -1,0 +1,25 @@
+Title: Rental 175
+
+----
+
+Rental-id: 175
+
+----
+
+Rental-date: 2005-05-26 03:46:26
+
+----
+
+Return-date: 2005-06-03 06:01:26
+
+----
+
+Inventory: page://4DlflpMqci5cNXAd
+
+----
+
+Uuid: SjJmtDxlm8LD2ZK9
+
+----
+
+Customer: page://NrafIAvjIpyEt9v1

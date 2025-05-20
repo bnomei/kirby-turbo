@@ -1,0 +1,25 @@
+Title: Rental 3240
+
+----
+
+Rental-id: 3240
+
+----
+
+Rental-date: 2005-06-21 02:53:17
+
+----
+
+Return-date: 2005-06-30 03:25:17
+
+----
+
+Inventory: page://l11hFDgJfGVaySzr
+
+----
+
+Uuid: 2YL1RHXRUEYMWhGb
+
+----
+
+Customer: page://E8B6f5Jketu7tOjl

@@ -1,0 +1,25 @@
+Title: Rental 8712
+
+----
+
+Rental-id: 8712
+
+----
+
+Rental-date: 2005-07-29 17:30:06
+
+----
+
+Return-date: 2005-08-03 22:55:06
+
+----
+
+Inventory: page://69FfoXVvUhkKSfDH
+
+----
+
+Customer: page://uE84jSPn6fUxfq6A
+
+----
+
+Uuid: sXPqHnQj9kGdxFTO

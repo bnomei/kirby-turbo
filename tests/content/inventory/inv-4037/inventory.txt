@@ -1,0 +1,17 @@
+Title: Inv 4037
+
+----
+
+Inventory-id: 4037
+
+----
+
+Film: page://WWQiq1zskB51o9F3
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: nXQ0wT1DIruc8X5L

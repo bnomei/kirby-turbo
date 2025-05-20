@@ -1,0 +1,17 @@
+Title: Inv 3510
+
+----
+
+Inventory-id: 3510
+
+----
+
+Film: page://twtLQqLxMR9UfGAw
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: FCxLOL25VmTnZQf3

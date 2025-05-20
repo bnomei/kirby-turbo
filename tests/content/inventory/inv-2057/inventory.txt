@@ -1,0 +1,17 @@
+Title: Inv 2057
+
+----
+
+Inventory-id: 2057
+
+----
+
+Film: page://Xvezg1HAGLbTRKmJ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: VPhHCz27uZrehQyw

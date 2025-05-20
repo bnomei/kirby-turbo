@@ -1,0 +1,17 @@
+Title: Inv 3658
+
+----
+
+Inventory-id: 3658
+
+----
+
+Film: page://zWrh1txaQfkLlnIm
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: F6yPGsxNWLiq9zu5

@@ -1,0 +1,42 @@
+Title: CONSPIRACY SPIRIT
+
+----
+
+Actors:
+
+- 'page://4hDC3FM6lySlQjxW'
+- 'page://zYYZnzancmv0SOT5'
+- 'page://OqV4tbW7WtFrMtYI'
+- 'page://VNoe1uWzYd7QHUzW'
+
+----
+
+Film-id: 180
+
+----
+
+Description: A Awe-Inspiring Story of a Student And a Frisbee who must Conquer a Crocodile in An Abandoned Mine Shaft
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 184
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: b2aQcBVvUGLdzR4T
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

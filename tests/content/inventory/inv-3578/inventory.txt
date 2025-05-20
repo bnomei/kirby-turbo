@@ -1,0 +1,17 @@
+Title: Inv 3578
+
+----
+
+Inventory-id: 3578
+
+----
+
+Film: page://szugAdlnH49KsCFa
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 2ulUi7Na708vOOR8

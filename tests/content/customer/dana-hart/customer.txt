@@ -1,0 +1,33 @@
+Title: DANA HART
+
+----
+
+Customer-id: 179
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: DANA
+
+----
+
+Last-name: HART
+
+----
+
+Email: DANA.HART@sakilacustomer.org
+
+----
+
+Address: page://UULPAERgwlaYqIJZ
+
+----
+
+Active: 1
+
+----
+
+Uuid: 28btFRqxUbpYMux2

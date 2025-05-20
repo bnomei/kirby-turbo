@@ -1,0 +1,25 @@
+Title: Rental 10096
+
+----
+
+Rental-id: 10096
+
+----
+
+Rental-date: 2005-07-31 20:38:58
+
+----
+
+Return-date: 2005-08-06 02:34:58
+
+----
+
+Inventory: page://3GwO9v4mzdOQJjgm
+
+----
+
+Customer: page://88ZpPvHuxTFZYKCY
+
+----
+
+Uuid: ntx56PE4O8nglkp2

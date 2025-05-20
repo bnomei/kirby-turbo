@@ -1,0 +1,25 @@
+Title: Rental 6328
+
+----
+
+Rental-id: 6328
+
+----
+
+Rental-date: 2005-07-11 19:09:33
+
+----
+
+Return-date: 2005-07-12 20:16:33
+
+----
+
+Inventory: page://oBN9eCPVb32gMJtv
+
+----
+
+Uuid: YiuY08PJZgfc4wAy
+
+----
+
+Customer: page://rCrCpCNcHKJui2E7

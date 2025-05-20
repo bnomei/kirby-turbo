@@ -1,0 +1,17 @@
+Title: Inv 2440
+
+----
+
+Inventory-id: 2440
+
+----
+
+Film: page://BCNeXqov8cBtM76b
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: JYaWKv62SVdv1v2a

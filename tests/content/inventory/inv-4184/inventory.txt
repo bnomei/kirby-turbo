@@ -1,0 +1,17 @@
+Title: Inv 4184
+
+----
+
+Inventory-id: 4184
+
+----
+
+Film: page://QvNu1O2zbVjfsjFw
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: zbENd691UQwxFVdb

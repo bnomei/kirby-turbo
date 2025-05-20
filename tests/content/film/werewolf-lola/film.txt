@@ -1,0 +1,45 @@
+Title: WEREWOLF LOLA
+
+----
+
+Actors:
+
+- 'page://9zoYPXEbxK6liKqc'
+- 'page://WmeC1S3wVV4gdFE4'
+- 'page://yhATHnZqo4RzYS83'
+- 'page://wedufH6fwkxwowcr'
+- 'page://o0jpPkMBKXg668DK'
+- 'page://G2CRwpBQJFawgg9Y'
+- 'page://1a2BLQivFz3Ch6Lx'
+
+----
+
+Film-id: 968
+
+----
+
+Description: A Fanciful Story of a Man And a Sumo Wrestler who must Outrace a Student in A Monastery
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 79
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: kDoxTUwAYZGXTNlO
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

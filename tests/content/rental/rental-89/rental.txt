@@ -1,0 +1,25 @@
+Title: Rental 89
+
+----
+
+Rental-id: 89
+
+----
+
+Rental-date: 2005-05-25 14:28:29
+
+----
+
+Return-date: 2005-05-29 14:33:29
+
+----
+
+Inventory: page://v6XUX5AxGMtMVEg9
+
+----
+
+Uuid: SvjsIdTPcOw5sdia
+
+----
+
+Customer: page://uRdLZLKD6zhz7xZm

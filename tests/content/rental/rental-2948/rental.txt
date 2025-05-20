@@ -1,0 +1,25 @@
+Title: Rental 2948
+
+----
+
+Rental-id: 2948
+
+----
+
+Rental-date: 2005-06-20 06:02:35
+
+----
+
+Return-date: 2005-06-29 09:12:35
+
+----
+
+Inventory: page://DgyPujQXPCihY0nd
+
+----
+
+Uuid: X6ErBRvrwV1jNKf2
+
+----
+
+Customer: page://6AKt4qOv738O4v4p

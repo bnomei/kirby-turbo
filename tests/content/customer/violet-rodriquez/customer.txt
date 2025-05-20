@@ -1,0 +1,33 @@
+Title: VIOLET RODRIQUEZ
+
+----
+
+Customer-id: 289
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: VIOLET
+
+----
+
+Last-name: RODRIQUEZ
+
+----
+
+Email: VIOLET.RODRIQUEZ@sakilacustomer.org
+
+----
+
+Address: page://0KS8rvImi9Wc7twI
+
+----
+
+Active: 1
+
+----
+
+Uuid: 6AKt4qOv738O4v4p

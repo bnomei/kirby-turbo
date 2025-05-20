@@ -1,0 +1,33 @@
+Title: RICKY SHELBY
+
+----
+
+Customer-id: 435
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: RICKY
+
+----
+
+Last-name: SHELBY
+
+----
+
+Email: RICKY.SHELBY@sakilacustomer.org
+
+----
+
+Address: page://HEUTmV6mfpzreyUk
+
+----
+
+Active: 1
+
+----
+
+Uuid: tKN7Oy29ebd7wIX1

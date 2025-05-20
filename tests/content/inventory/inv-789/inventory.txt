@@ -1,0 +1,17 @@
+Title: Inv 789
+
+----
+
+Inventory-id: 789
+
+----
+
+Film: page://wgGSeQQNIgIH75fJ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: zuaBEyg2F8Icjugm

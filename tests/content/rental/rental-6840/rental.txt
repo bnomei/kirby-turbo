@@ -1,0 +1,25 @@
+Title: Rental 6840
+
+----
+
+Rental-id: 6840
+
+----
+
+Rental-date: 2005-07-12 19:03:22
+
+----
+
+Return-date: 2005-07-21 18:34:22
+
+----
+
+Inventory: page://kizUMVYQqWvpdUzT
+
+----
+
+Customer: page://Br6nNDFY9PURatbb
+
+----
+
+Uuid: mfI29Tb96nunf9EC

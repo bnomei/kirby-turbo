@@ -1,0 +1,17 @@
+Title: Inv 3779
+
+----
+
+Inventory-id: 3779
+
+----
+
+Film: page://XkYdTumKc3zQL718
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 6tLLv35vw5MBV56U

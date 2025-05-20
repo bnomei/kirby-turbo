@@ -1,0 +1,25 @@
+Title: Rental 6881
+
+----
+
+Rental-id: 6881
+
+----
+
+Rental-date: 2005-07-12 20:46:35
+
+----
+
+Return-date: 2005-07-21 00:26:35
+
+----
+
+Inventory: page://DQOjJgPru2eozrSb
+
+----
+
+Customer: page://WxMkfWnfG0RH07zl
+
+----
+
+Uuid: iJs0zcnj6oXKtiyf

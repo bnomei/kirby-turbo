@@ -1,0 +1,17 @@
+Title: Inv 2766
+
+----
+
+Inventory-id: 2766
+
+----
+
+Film: page://Ot6UtgoqLM35goYk
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: iGFXcjnSzJBgrbTi

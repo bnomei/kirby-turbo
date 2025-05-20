@@ -1,0 +1,17 @@
+Title: Inv 424
+
+----
+
+Inventory-id: 424
+
+----
+
+Film: page://tKN8XNGdOJcphxmM
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: LqEEYQvT8Mao9O2d

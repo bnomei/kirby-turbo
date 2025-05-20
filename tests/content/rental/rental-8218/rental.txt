@@ -1,0 +1,25 @@
+Title: Rental 8218
+
+----
+
+Rental-id: 8218
+
+----
+
+Rental-date: 2005-07-28 23:45:41
+
+----
+
+Return-date: 2005-08-02 00:14:41
+
+----
+
+Inventory: page://Mcacyxs03huXq51d
+
+----
+
+Customer: page://cVyeNQ8g1rAU35Mi
+
+----
+
+Uuid: dYCYqhKRtz4tR3SZ

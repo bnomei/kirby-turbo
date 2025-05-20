@@ -1,0 +1,17 @@
+Title: Inv 4570
+
+----
+
+Inventory-id: 4570
+
+----
+
+Film: page://xsl9RHv93yeclUCw
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: fyfnYjRA0LPIE13e

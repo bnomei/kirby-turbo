@@ -1,0 +1,25 @@
+Title: Rental 12733
+
+----
+
+Rental-id: 12733
+
+----
+
+Rental-date: 2005-08-18 21:59:00
+
+----
+
+Return-date: 2005-08-24 02:25:00
+
+----
+
+Inventory: page://30Y3VqNyddGXro1k
+
+----
+
+Customer: page://rug4r6NdvQakm9EC
+
+----
+
+Uuid: owBI9yA4jjpolRKp

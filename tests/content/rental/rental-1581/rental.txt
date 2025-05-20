@@ -1,0 +1,25 @@
+Title: Rental 1581
+
+----
+
+Rental-id: 1581
+
+----
+
+Rental-date: 2005-06-16 04:28:45
+
+----
+
+Return-date: 2005-06-18 07:07:45
+
+----
+
+Inventory: page://mQuFV5mDiffeirLX
+
+----
+
+Uuid: U8kWK8dG6Gesv6qJ
+
+----
+
+Customer: page://n40fLAJ9fSQtqJlL

@@ -1,0 +1,33 @@
+Title: JAMIE WAUGH
+
+----
+
+Customer-id: 531
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JAMIE
+
+----
+
+Last-name: WAUGH
+
+----
+
+Email: JAMIE.WAUGH@sakilacustomer.org
+
+----
+
+Address: page://QddhvAR5bQE47Li6
+
+----
+
+Active: 1
+
+----
+
+Uuid: 08U0IJiadz0U6o7j

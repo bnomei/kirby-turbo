@@ -1,0 +1,17 @@
+Title: Inv 3636
+
+----
+
+Inventory-id: 3636
+
+----
+
+Film: page://rTmsTwJPhH7Q7Ror
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: iTUbLxVCnePEPu1y

@@ -1,0 +1,25 @@
+Title: Rental 10486
+
+----
+
+Rental-id: 10486
+
+----
+
+Rental-date: 2005-08-01 10:23:43
+
+----
+
+Return-date: 2005-08-05 07:11:43
+
+----
+
+Inventory: page://l5oAmpLEJ9a6YHpS
+
+----
+
+Customer: page://3XFZHBoh0C1DUN6p
+
+----
+
+Uuid: lnglY9J0cAdb4VZ9

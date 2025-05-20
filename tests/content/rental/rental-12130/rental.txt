@@ -1,0 +1,21 @@
+Title: Rental 12130
+
+----
+
+Rental-id: 12130
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://b2kTTvPhs3EGpWlS
+
+----
+
+Customer: page://5hIhacgiGD4GRrE2
+
+----
+
+Uuid: keTrFxg2uzRCPA1c

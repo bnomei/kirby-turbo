@@ -1,0 +1,33 @@
+Title: BILLY POULIN
+
+----
+
+Customer-id: 371
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: BILLY
+
+----
+
+Last-name: POULIN
+
+----
+
+Email: BILLY.POULIN@sakilacustomer.org
+
+----
+
+Address: page://TX3rwBXyLjgiuS8z
+
+----
+
+Active: 1
+
+----
+
+Uuid: CWfw6rX3ydLvFm4G

@@ -1,0 +1,17 @@
+Title: Inv 3456
+
+----
+
+Inventory-id: 3456
+
+----
+
+Film: page://jO5prELCqdfINMMT
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: P0hkIvrw4Sou8UdZ

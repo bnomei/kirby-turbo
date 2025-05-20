@@ -1,0 +1,17 @@
+Title: Inv 3085
+
+----
+
+Inventory-id: 3085
+
+----
+
+Film: page://pnhKdZlz8OgMfv9M
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: q0hneOIc6IwvOWCE

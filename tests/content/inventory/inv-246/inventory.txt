@@ -1,0 +1,17 @@
+Title: Inv 246
+
+----
+
+Inventory-id: 246
+
+----
+
+Film: page://PyzZpMmR5hCM3BAX
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: UDEi3rGokughML60

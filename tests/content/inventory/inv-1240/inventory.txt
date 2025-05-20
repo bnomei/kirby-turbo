@@ -1,0 +1,17 @@
+Title: Inv 1240
+
+----
+
+Inventory-id: 1240
+
+----
+
+Film: page://lzf9i2E9ieyWeuWC
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: WEO5XfP7szFKLO9u

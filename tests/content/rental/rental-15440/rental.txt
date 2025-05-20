@@ -1,0 +1,25 @@
+Title: Rental 15440
+
+----
+
+Rental-id: 15440
+
+----
+
+Rental-date: 2005-08-23 00:37:21
+
+----
+
+Return-date: 2005-08-24 23:24:21
+
+----
+
+Inventory: page://IURHUugQWmJfTIf6
+
+----
+
+Customer: page://6F345WAB76SjN8Dt
+
+----
+
+Uuid: dfUuxF3n8UPI1tZl

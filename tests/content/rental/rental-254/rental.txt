@@ -1,0 +1,25 @@
+Title: Rental 254
+
+----
+
+Rental-id: 254
+
+----
+
+Rental-date: 2005-05-26 14:43:48
+
+----
+
+Return-date: 2005-05-31 09:19:48
+
+----
+
+Inventory: page://rW3aVJUu4LpkFyPa
+
+----
+
+Uuid: yliprrHhp4xQ1NYp
+
+----
+
+Customer: page://pqDg6kDmCdvbDclp

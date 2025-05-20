@@ -1,0 +1,17 @@
+Title: Inv 2788
+
+----
+
+Inventory-id: 2788
+
+----
+
+Film: page://3UBsgfesYaEE18sw
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: LA6JQmaH6hFDIOXB

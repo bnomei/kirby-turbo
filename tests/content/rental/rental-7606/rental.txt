@@ -1,0 +1,25 @@
+Title: Rental 7606
+
+----
+
+Rental-id: 7606
+
+----
+
+Rental-date: 2005-07-28 00:02:15
+
+----
+
+Return-date: 2005-07-29 03:14:15
+
+----
+
+Inventory: page://rCdSv5xo4IHKCPtc
+
+----
+
+Customer: page://cJydH6wkvuH04KQt
+
+----
+
+Uuid: HizaLv316hhneWPv

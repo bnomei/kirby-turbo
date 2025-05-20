@@ -1,0 +1,17 @@
+Title: Inv 1532
+
+----
+
+Inventory-id: 1532
+
+----
+
+Film: page://GPwdH1BDzXr5tVNT
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: GN6XZizUJmYjw2Ew

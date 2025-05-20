@@ -1,0 +1,17 @@
+Title: Inv 1602
+
+----
+
+Inventory-id: 1602
+
+----
+
+Film: page://kstF1fKjigdawN11
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 8xSuI5bKlOlYYV4D

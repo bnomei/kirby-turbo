@@ -1,0 +1,25 @@
+Title: Rental 13004
+
+----
+
+Rental-id: 13004
+
+----
+
+Rental-date: 2005-08-19 07:40:08
+
+----
+
+Return-date: 2005-08-20 11:49:08
+
+----
+
+Inventory: page://CwuNmUMu8kOq6ZUP
+
+----
+
+Customer: page://eYENgXyv63Ee6XxS
+
+----
+
+Uuid: 1YMNHHP8kKU2MrqB

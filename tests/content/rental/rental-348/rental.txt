@@ -1,0 +1,25 @@
+Title: Rental 348
+
+----
+
+Rental-id: 348
+
+----
+
+Rental-date: 2005-05-27 04:50:56
+
+----
+
+Return-date: 2005-06-01 04:43:56
+
+----
+
+Inventory: page://NIcE1RFIzoza7l7c
+
+----
+
+Uuid: 19lYNRjt8zmnESP0
+
+----
+
+Customer: page://2Ez2viSHVAxcAVWy

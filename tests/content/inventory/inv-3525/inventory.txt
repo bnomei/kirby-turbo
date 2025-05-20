@@ -1,0 +1,17 @@
+Title: Inv 3525
+
+----
+
+Inventory-id: 3525
+
+----
+
+Film: page://Ynj7XwfJrRqE5Bc6
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: zOyvPBcLm59SLNBt

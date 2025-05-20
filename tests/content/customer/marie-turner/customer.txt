@@ -1,0 +1,33 @@
+Title: MARIE TURNER
+
+----
+
+Customer-id: 44
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MARIE
+
+----
+
+Last-name: TURNER
+
+----
+
+Email: MARIE.TURNER@sakilacustomer.org
+
+----
+
+Address: page://7JWo4UpYW4r5kqbg
+
+----
+
+Active: 1
+
+----
+
+Uuid: 074m4vQayjqUygEq

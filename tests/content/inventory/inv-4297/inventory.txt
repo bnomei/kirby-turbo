@@ -1,0 +1,17 @@
+Title: Inv 4297
+
+----
+
+Inventory-id: 4297
+
+----
+
+Film: page://9cdDMs1GwB0y1Px9
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 1gkyEpUjpMffXb7h

@@ -1,0 +1,25 @@
+Title: Rental 13218
+
+----
+
+Rental-id: 13218
+
+----
+
+Rental-date: 2005-08-19 15:39:39
+
+----
+
+Return-date: 2005-08-22 17:28:39
+
+----
+
+Inventory: page://Eez6VIUPgoPX1USy
+
+----
+
+Customer: page://RjuxtMHbOY6NJALL
+
+----
+
+Uuid: HabDWQT9J6P83u75

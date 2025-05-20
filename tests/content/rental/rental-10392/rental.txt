@@ -1,0 +1,25 @@
+Title: Rental 10392
+
+----
+
+Rental-id: 10392
+
+----
+
+Rental-date: 2005-08-01 06:50:26
+
+----
+
+Return-date: 2005-08-10 10:52:26
+
+----
+
+Inventory: page://Z3hcHO23TI5YbnOn
+
+----
+
+Customer: page://CGZMdA6lJNzUzePV
+
+----
+
+Uuid: Nz5Qm0PZaohLhZDf

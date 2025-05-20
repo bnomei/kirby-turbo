@@ -1,0 +1,33 @@
+Title: SYLVIA ORTIZ
+
+----
+
+Customer-id: 120
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: SYLVIA
+
+----
+
+Last-name: ORTIZ
+
+----
+
+Email: SYLVIA.ORTIZ@sakilacustomer.org
+
+----
+
+Address: page://kAyMUpUjtDNE4QMg
+
+----
+
+Active: 1
+
+----
+
+Uuid: 7XleW0b2x259mfJ9

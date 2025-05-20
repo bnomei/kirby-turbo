@@ -1,0 +1,25 @@
+Title: Rental 43
+
+----
+
+Rental-id: 43
+
+----
+
+Rental-date: 2005-05-25 05:39:25
+
+----
+
+Return-date: 2005-05-26 06:54:25
+
+----
+
+Inventory: page://uqwMnVTIKMd25fNV
+
+----
+
+Uuid: wDoi40MGngXBuv3B
+
+----
+
+Customer: page://jNinHUxNSvO3KbCp

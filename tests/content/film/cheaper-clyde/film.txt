@@ -1,0 +1,40 @@
+Title: CHEAPER CLYDE
+
+----
+
+Actors:
+
+- 'page://NhPOWxCYnyDlMqLk'
+- 'page://5ruVLAhmJBWUKPci'
+
+----
+
+Film-id: 140
+
+----
+
+Description: A Emotional Character Study of a Pioneer And a Girl who must Discover a Dog in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 87
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: UVB34h6ORZE6BH5q
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

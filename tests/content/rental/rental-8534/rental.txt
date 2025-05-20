@@ -1,0 +1,25 @@
+Title: Rental 8534
+
+----
+
+Rental-id: 8534
+
+----
+
+Rental-date: 2005-07-29 10:30:13
+
+----
+
+Return-date: 2005-08-02 04:47:13
+
+----
+
+Inventory: page://m1tti7xgHea70uPv
+
+----
+
+Customer: page://5hIhacgiGD4GRrE2
+
+----
+
+Uuid: 5MX04i5qQ9V1kUup

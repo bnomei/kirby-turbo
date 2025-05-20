@@ -1,0 +1,40 @@
+Title: CAMELOT VACATION
+
+----
+
+Actors:
+
+- 'page://9NAEa97MvjisWbzN'
+- 'page://DJVklNozM1l2RK0x'
+
+----
+
+Film-id: 114
+
+----
+
+Description: A Touching Character Study of a Woman And a Waitress who must Battle a Pastry Chef in A MySQL Convention
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 61
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: wlg2iwFhtozEXl5U
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

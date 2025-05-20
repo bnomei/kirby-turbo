@@ -1,0 +1,25 @@
+Title: Rental 522
+
+----
+
+Rental-id: 522
+
+----
+
+Rental-date: 2005-05-28 03:33:20
+
+----
+
+Return-date: 2005-05-31 04:23:20
+
+----
+
+Inventory: page://HK0JbY8CZXRIP7Qw
+
+----
+
+Uuid: PGV97WE10eJMpEQu
+
+----
+
+Customer: page://ZuUWmxbKilRmIFgl

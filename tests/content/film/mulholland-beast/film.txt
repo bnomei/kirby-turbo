@@ -1,0 +1,44 @@
+Title: MULHOLLAND BEAST
+
+----
+
+Actors:
+
+- 'page://NhPOWxCYnyDlMqLk'
+- 'page://qGB9wRd16f9YwbHn'
+- 'page://4hDC3FM6lySlQjxW'
+- 'page://9NAEa97MvjisWbzN'
+- 'page://xfLW2h8D6Ci3k3ux'
+- 'page://Gsxc5TuqHyoQn1c1'
+
+----
+
+Film-id: 605
+
+----
+
+Description: A Awe-Inspiring Display of a Husband And a Squirrel who must Battle a Sumo Wrestler in A Jet Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 157
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: SLyePdrenwqQTvQq
+
+----
+
+Categories: - 'page://1zSlwtq2IyzVh9Hs'

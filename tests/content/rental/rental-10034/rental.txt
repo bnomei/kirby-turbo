@@ -1,0 +1,25 @@
+Title: Rental 10034
+
+----
+
+Rental-id: 10034
+
+----
+
+Rental-date: 2005-07-31 18:45:30
+
+----
+
+Return-date: 2005-08-04 21:13:30
+
+----
+
+Inventory: page://VJhU3z6vXC8aozD1
+
+----
+
+Customer: page://eYENgXyv63Ee6XxS
+
+----
+
+Uuid: QC6DQ0eKhoSKrDA5

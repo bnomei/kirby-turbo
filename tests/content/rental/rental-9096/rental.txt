@@ -1,0 +1,25 @@
+Title: Rental 9096
+
+----
+
+Rental-id: 9096
+
+----
+
+Rental-date: 2005-07-30 08:39:23
+
+----
+
+Return-date: 2005-08-01 03:33:23
+
+----
+
+Inventory: page://fVGF09STLeaThom7
+
+----
+
+Customer: page://6JTzEhgDMKDUF6HS
+
+----
+
+Uuid: GlPmk9DWK3RetKkY

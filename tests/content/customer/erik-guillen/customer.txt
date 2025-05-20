@@ -1,0 +1,33 @@
+Title: ERIK GUILLEN
+
+----
+
+Customer-id: 529
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ERIK
+
+----
+
+Last-name: GUILLEN
+
+----
+
+Email: ERIK.GUILLEN@sakilacustomer.org
+
+----
+
+Address: page://zY07ovbToiPtZlFF
+
+----
+
+Active: 1
+
+----
+
+Uuid: 6T1yeRwVMaJSaTXA

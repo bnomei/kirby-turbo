@@ -1,0 +1,17 @@
+Title: Inv 816
+
+----
+
+Inventory-id: 816
+
+----
+
+Film: page://VU95TWUnWuaRHDOy
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ly8XkRVd5S6ZCIzo

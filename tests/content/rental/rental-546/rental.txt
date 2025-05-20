@@ -1,0 +1,25 @@
+Title: Rental 546
+
+----
+
+Rental-id: 546
+
+----
+
+Rental-date: 2005-05-28 07:16:25
+
+----
+
+Return-date: 2005-06-01 08:36:25
+
+----
+
+Inventory: page://9RRzDCS5dEe7g4DJ
+
+----
+
+Uuid: bUdCrIxsMJH4QoqT
+
+----
+
+Customer: page://M8eRI142xjYReqze

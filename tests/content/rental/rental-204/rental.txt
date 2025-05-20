@@ -1,0 +1,25 @@
+Title: Rental 204
+
+----
+
+Rental-id: 204
+
+----
+
+Rental-date: 2005-05-26 07:30:37
+
+----
+
+Return-date: 2005-05-30 08:11:37
+
+----
+
+Inventory: page://jL7Ux016eGQfgvn7
+
+----
+
+Uuid: VfQ0sHlOsQZWx6ii
+
+----
+
+Customer: page://JY1mPZSxratt4tn6

@@ -1,0 +1,25 @@
+Title: Rental 1090
+
+----
+
+Rental-id: 1090
+
+----
+
+Rental-date: 2005-05-31 12:03:44
+
+----
+
+Return-date: 2005-06-02 15:54:44
+
+----
+
+Inventory: page://heoWm8towAihVOcs
+
+----
+
+Uuid: rCVvMFb9ozAMzdrG
+
+----
+
+Customer: page://z6KsbN8IOhSoB7GT

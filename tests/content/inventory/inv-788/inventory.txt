@@ -1,0 +1,17 @@
+Title: Inv 788
+
+----
+
+Inventory-id: 788
+
+----
+
+Film: page://wgGSeQQNIgIH75fJ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: bF5WxZawOR8Hs39R

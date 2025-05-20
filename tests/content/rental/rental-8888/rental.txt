@@ -1,0 +1,25 @@
+Title: Rental 8888
+
+----
+
+Rental-id: 8888
+
+----
+
+Rental-date: 2005-07-30 00:39:36
+
+----
+
+Return-date: 2005-08-01 02:28:36
+
+----
+
+Inventory: page://pYBqqGMYaZRt6frC
+
+----
+
+Customer: page://DQdRudB4hPmZIfVZ
+
+----
+
+Uuid: RNmWMbKK88knKxFK

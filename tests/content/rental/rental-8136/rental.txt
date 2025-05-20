@@ -1,0 +1,25 @@
+Title: Rental 8136
+
+----
+
+Rental-id: 8136
+
+----
+
+Rental-date: 2005-07-28 20:05:48
+
+----
+
+Return-date: 2005-08-01 20:31:48
+
+----
+
+Inventory: page://xWjZeVAJeDxbHZ0q
+
+----
+
+Customer: page://j2E1ltZ4ghv3z4iP
+
+----
+
+Uuid: eV8ZRCxPWvqdom1D

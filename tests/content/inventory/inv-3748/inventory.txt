@@ -1,0 +1,17 @@
+Title: Inv 3748
+
+----
+
+Inventory-id: 3748
+
+----
+
+Film: page://rVwGkWkqe4ZfFnJo
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: v4EMGqwHUwqE8H1Q

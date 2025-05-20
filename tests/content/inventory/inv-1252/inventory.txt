@@ -1,0 +1,17 @@
+Title: Inv 1252
+
+----
+
+Inventory-id: 1252
+
+----
+
+Film: page://f0EGvOfdhLE3kABW
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: qLboBQIOMKtAahmR

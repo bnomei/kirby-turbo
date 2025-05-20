@@ -1,0 +1,21 @@
+Title: Rental 14954
+
+----
+
+Rental-id: 14954
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://CiQEigIPELhhzzgC
+
+----
+
+Customer: page://AFChx19aWGlTZnX0
+
+----
+
+Uuid: eu5vLSZeANIMlA0n

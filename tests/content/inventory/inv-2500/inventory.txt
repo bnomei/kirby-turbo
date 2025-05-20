@@ -1,0 +1,17 @@
+Title: Inv 2500
+
+----
+
+Inventory-id: 2500
+
+----
+
+Film: page://ye42nC8g5oTVQ0ZU
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: K3vVeWRXqgUTqHRB

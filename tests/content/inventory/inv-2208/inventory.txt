@@ -1,0 +1,17 @@
+Title: Inv 2208
+
+----
+
+Inventory-id: 2208
+
+----
+
+Film: page://XJgXi5E9LrtZkysy
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: HNbAf2PC1XoCjJ6g

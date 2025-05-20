@@ -1,0 +1,25 @@
+Title: Rental 5081
+
+----
+
+Rental-id: 5081
+
+----
+
+Rental-date: 2005-07-09 05:25:20
+
+----
+
+Return-date: 2005-07-13 23:45:20
+
+----
+
+Inventory: page://EuxvX0zbC0OJnSTq
+
+----
+
+Uuid: 1XFtEompsFJu0y2x
+
+----
+
+Customer: page://Yq4RWbQHVX6jLqbx

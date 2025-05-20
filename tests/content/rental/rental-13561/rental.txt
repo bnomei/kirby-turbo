@@ -1,0 +1,21 @@
+Title: Rental 13561
+
+----
+
+Rental-id: 13561
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://JXKz2uaDh2yF5IzX
+
+----
+
+Customer: page://a0kMdWVetvJ1ZDeW
+
+----
+
+Uuid: ZLod3BS31AT8be84

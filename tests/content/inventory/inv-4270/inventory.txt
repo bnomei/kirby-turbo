@@ -1,0 +1,17 @@
+Title: Inv 4270
+
+----
+
+Inventory-id: 4270
+
+----
+
+Film: page://3g5B1X41fGsuhGn4
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: BUlrUiFVvpQ70UXB

@@ -1,0 +1,25 @@
+Title: Rental 10794
+
+----
+
+Rental-id: 10794
+
+----
+
+Rental-date: 2005-08-01 21:51:15
+
+----
+
+Return-date: 2005-08-10 18:51:15
+
+----
+
+Inventory: page://pYF80pOrXM0MiKkW
+
+----
+
+Customer: page://7WkfUKxy0GqFjI0B
+
+----
+
+Uuid: aUNgGmZqXg8u8pIr

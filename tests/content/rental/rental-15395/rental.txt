@@ -1,0 +1,25 @@
+Title: Rental 15395
+
+----
+
+Rental-id: 15395
+
+----
+
+Rental-date: 2005-08-22 23:06:25
+
+----
+
+Return-date: 2005-08-30 19:18:25
+
+----
+
+Inventory: page://PC8lJ3cSkj52klNW
+
+----
+
+Customer: page://yQcQ1eHjHG2TC2t0
+
+----
+
+Uuid: rJL836fICApUUT0u

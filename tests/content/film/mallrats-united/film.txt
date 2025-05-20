@@ -1,0 +1,43 @@
+Title: MALLRATS UNITED
+
+----
+
+Actors:
+
+- 'page://8goemlF34STteVIR'
+- 'page://JA85uxdb8uiPNO2i'
+- 'page://rTdvG0vGkNN8iJpQ'
+- 'page://G2CRwpBQJFawgg9Y'
+- 'page://FLMpVB5CVJFKSGVy'
+
+----
+
+Film-id: 555
+
+----
+
+Description: A Thrilling Yarn of a Waitress And a Dentist who must Find a Hunter in A Monastery
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 133
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: SR6DpfbquVcVhHuW
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

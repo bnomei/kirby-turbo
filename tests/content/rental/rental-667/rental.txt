@@ -1,0 +1,25 @@
+Title: Rental 667
+
+----
+
+Rental-id: 667
+
+----
+
+Rental-date: 2005-05-28 21:49:02
+
+----
+
+Return-date: 2005-05-31 03:07:02
+
+----
+
+Inventory: page://wQ7VP1oGWUfWCSNx
+
+----
+
+Uuid: 73wrpm0GD6LQNFtL
+
+----
+
+Customer: page://cximYF0fTdcPdV2q

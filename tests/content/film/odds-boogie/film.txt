@@ -1,0 +1,43 @@
+Title: ODDS BOOGIE
+
+----
+
+Actors:
+
+- 'page://RdNo3TYVhV9JmDu6'
+- 'page://I7tdxqtamjxgIUCW'
+- 'page://f54gdCyL7WpJ8aUr'
+- 'page://m11q5cdDfIefOEY5'
+- 'page://xXgVj4FQPZ59wjBk'
+
+----
+
+Film-id: 634
+
+----
+
+Description: A Thrilling Yarn of a Feminist And a Madman who must Battle a Hunter in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 48
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: m7PIhKdp6vzwLUff
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

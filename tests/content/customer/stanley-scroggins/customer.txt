@@ -1,0 +1,33 @@
+Title: STANLEY SCROGGINS
+
+----
+
+Customer-id: 404
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: STANLEY
+
+----
+
+Last-name: SCROGGINS
+
+----
+
+Email: STANLEY.SCROGGINS@sakilacustomer.org
+
+----
+
+Address: page://3S6Y3vx1SJwHEFrL
+
+----
+
+Active: 1
+
+----
+
+Uuid: 0diivdH91F9vTjvz

@@ -1,0 +1,25 @@
+Title: Rental 1700
+
+----
+
+Rental-id: 1700
+
+----
+
+Rental-date: 2005-06-16 13:18:23
+
+----
+
+Return-date: 2005-06-21 16:46:23
+
+----
+
+Inventory: page://JBhiD1t0DmSrHWPJ
+
+----
+
+Uuid: 776NXwWqVtxXo7mH
+
+----
+
+Customer: page://Oh34G1trTvpJM2Q0

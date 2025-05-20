@@ -1,0 +1,25 @@
+Title: Rental 7416
+
+----
+
+Rental-id: 7416
+
+----
+
+Rental-date: 2005-07-27 16:55:25
+
+----
+
+Return-date: 2005-07-29 11:27:25
+
+----
+
+Inventory: page://ckT3b7lk9aQqHBZi
+
+----
+
+Customer: page://0i52La06CjBDGVTC
+
+----
+
+Uuid: WP1EUIzF7DHyWRp8

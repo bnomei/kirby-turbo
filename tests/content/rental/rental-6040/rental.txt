@@ -1,0 +1,25 @@
+Title: Rental 6040
+
+----
+
+Rental-id: 6040
+
+----
+
+Rental-date: 2005-07-11 03:14:26
+
+----
+
+Return-date: 2005-07-14 01:12:26
+
+----
+
+Inventory: page://Oe5TsovJYGCwDDSG
+
+----
+
+Uuid: 2iJ3wzBQRwcT9mGr
+
+----
+
+Customer: page://HrN99fyzUbUZdiNT

@@ -1,0 +1,42 @@
+Title: FEUD FROGMEN
+
+----
+
+Actors:
+
+- 'page://CXnMd8oVYWgOtYAB'
+- 'page://JbsPWnOXBNKX1tM5'
+- 'page://pokjngmFMjrhDsLQ'
+- 'page://FLMpVB5CVJFKSGVy'
+
+----
+
+Film-id: 309
+
+----
+
+Description: A Brilliant Reflection of a Database Administrator And a Mad Cow who must Chase a Woman in The Canadian Rockies
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 98
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: jDmMJMlMtQvpyiHa
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

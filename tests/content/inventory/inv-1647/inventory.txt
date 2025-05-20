@@ -1,0 +1,17 @@
+Title: Inv 1647
+
+----
+
+Inventory-id: 1647
+
+----
+
+Film: page://EWkJHl8fhlpw8Z7R
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: tBxUS1EMl6uL6L8d

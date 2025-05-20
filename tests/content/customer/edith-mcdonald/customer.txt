@@ -1,0 +1,33 @@
+Title: EDITH MCDONALD
+
+----
+
+Customer-id: 117
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: EDITH
+
+----
+
+Last-name: MCDONALD
+
+----
+
+Email: EDITH.MCDONALD@sakilacustomer.org
+
+----
+
+Address: page://Nx7uLCSX12BQXFvH
+
+----
+
+Active: 1
+
+----
+
+Uuid: yTAX5pfgcdJzZ9ZS

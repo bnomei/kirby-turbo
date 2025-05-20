@@ -1,0 +1,17 @@
+Title: Inv 3699
+
+----
+
+Inventory-id: 3699
+
+----
+
+Film: page://pLWWf84HXTSSEGAv
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: UhRbG6JEDO7AujTT

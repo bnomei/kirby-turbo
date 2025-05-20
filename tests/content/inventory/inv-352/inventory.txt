@@ -1,0 +1,17 @@
+Title: Inv 352
+
+----
+
+Inventory-id: 352
+
+----
+
+Film: page://iy0a104HjhjHKgsH
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: c4GMkTjlOq7eYYk1

@@ -1,0 +1,25 @@
+Title: Rental 8700
+
+----
+
+Rental-id: 8700
+
+----
+
+Rental-date: 2005-07-29 16:56:01
+
+----
+
+Return-date: 2005-07-31 16:19:01
+
+----
+
+Inventory: page://0XzpRsjLv70TmvHe
+
+----
+
+Customer: page://TCHvKARcBg3R487d
+
+----
+
+Uuid: zfaw4EYXrDbohZcD

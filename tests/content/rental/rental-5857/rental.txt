@@ -1,0 +1,25 @@
+Title: Rental 5857
+
+----
+
+Rental-id: 5857
+
+----
+
+Rental-date: 2005-07-10 17:59:29
+
+----
+
+Return-date: 2005-07-18 18:13:29
+
+----
+
+Inventory: page://uPwT3lNIXQTgetzZ
+
+----
+
+Uuid: 05Nfdfw9C7hmaXmI
+
+----
+
+Customer: page://c7lkRFQFPsFgIejg

@@ -1,0 +1,33 @@
+Title: HILDA HOPKINS
+
+----
+
+Customer-id: 263
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: HILDA
+
+----
+
+Last-name: HOPKINS
+
+----
+
+Email: HILDA.HOPKINS@sakilacustomer.org
+
+----
+
+Address: page://5orsCSc3VJbhILr7
+
+----
+
+Active: 1
+
+----
+
+Uuid: LkVYh5o7IeTTcWDZ

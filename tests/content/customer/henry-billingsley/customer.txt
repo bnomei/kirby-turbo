@@ -1,0 +1,33 @@
+Title: HENRY BILLINGSLEY
+
+----
+
+Customer-id: 344
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: HENRY
+
+----
+
+Last-name: BILLINGSLEY
+
+----
+
+Email: HENRY.BILLINGSLEY@sakilacustomer.org
+
+----
+
+Address: page://K7FP32feM724U7ak
+
+----
+
+Active: 1
+
+----
+
+Uuid: gEZ3qN9Yi6NtmTSr

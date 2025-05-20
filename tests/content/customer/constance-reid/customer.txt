@@ -1,0 +1,33 @@
+Title: CONSTANCE REID
+
+----
+
+Customer-id: 232
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: CONSTANCE
+
+----
+
+Last-name: REID
+
+----
+
+Email: CONSTANCE.REID@sakilacustomer.org
+
+----
+
+Address: page://9GxhNxbaqbjjgJZ0
+
+----
+
+Active: 1
+
+----
+
+Uuid: z2bLmqud6tFmKxXo

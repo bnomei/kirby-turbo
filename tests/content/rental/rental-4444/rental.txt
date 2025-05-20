@@ -1,0 +1,25 @@
+Title: Rental 4444
+
+----
+
+Rental-id: 4444
+
+----
+
+Rental-date: 2005-07-07 23:07:44
+
+----
+
+Return-date: 2005-07-14 02:51:44
+
+----
+
+Inventory: page://ZX5O7aO2R9IDxxsL
+
+----
+
+Uuid: OksbpzI9Wd5obnOV
+
+----
+
+Customer: page://6T1yeRwVMaJSaTXA

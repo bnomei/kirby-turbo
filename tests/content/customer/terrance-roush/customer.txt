@@ -1,0 +1,33 @@
+Title: TERRANCE ROUSH
+
+----
+
+Customer-id: 592
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: TERRANCE
+
+----
+
+Last-name: ROUSH
+
+----
+
+Email: TERRANCE.ROUSH@sakilacustomer.org
+
+----
+
+Address: page://WiFo0EhGwVWVxvRn
+
+----
+
+Active: 0
+
+----
+
+Uuid: YaIz0DYOIEnfvgdw

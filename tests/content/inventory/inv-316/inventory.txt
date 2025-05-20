@@ -1,0 +1,17 @@
+Title: Inv 316
+
+----
+
+Inventory-id: 316
+
+----
+
+Film: page://mNFLr6jwsLZKelI5
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 3EzjVzbjnBIX3RjO

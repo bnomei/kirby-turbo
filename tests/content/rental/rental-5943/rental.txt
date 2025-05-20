@@ -1,0 +1,25 @@
+Title: Rental 5943
+
+----
+
+Rental-id: 5943
+
+----
+
+Rental-date: 2005-07-10 22:48:13
+
+----
+
+Return-date: 2005-07-16 01:33:13
+
+----
+
+Inventory: page://hhLvLC9QQJDzzvD8
+
+----
+
+Uuid: ZW2BXPct3swadIDp
+
+----
+
+Customer: page://VpErzeyNRCgtpld8

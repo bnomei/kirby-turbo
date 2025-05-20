@@ -1,0 +1,25 @@
+Title: Rental 2330
+
+----
+
+Rental-id: 2330
+
+----
+
+Rental-date: 2005-06-18 10:41:19
+
+----
+
+Return-date: 2005-06-25 10:48:19
+
+----
+
+Inventory: page://7ywPpIBiAy0rlCCN
+
+----
+
+Uuid: ScJ8L74grVxjW5lF
+
+----
+
+Customer: page://pqDg6kDmCdvbDclp

@@ -1,0 +1,17 @@
+Title: Inv 875
+
+----
+
+Inventory-id: 875
+
+----
+
+Film: page://bjcVvf6Bq6N3Umgg
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: KAi1Yrw7TwhXEjoJ

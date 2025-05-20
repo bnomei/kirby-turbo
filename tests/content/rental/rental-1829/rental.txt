@@ -1,0 +1,25 @@
+Title: Rental 1829
+
+----
+
+Rental-id: 1829
+
+----
+
+Rental-date: 2005-06-16 22:14:21
+
+----
+
+Return-date: 2005-06-21 16:51:21
+
+----
+
+Inventory: page://ywcjVsI4sVj9Lytm
+
+----
+
+Uuid: Rg4OkslnAK1hRJEL
+
+----
+
+Customer: page://Hpp58DeoLb615BZP

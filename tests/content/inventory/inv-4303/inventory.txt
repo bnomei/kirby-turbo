@@ -1,0 +1,17 @@
+Title: Inv 4303
+
+----
+
+Inventory-id: 4303
+
+----
+
+Film: page://MILGhCJg92KmiUZL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: sZpUH237unQUzFzh

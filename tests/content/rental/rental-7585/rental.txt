@@ -1,0 +1,25 @@
+Title: Rental 7585
+
+----
+
+Rental-id: 7585
+
+----
+
+Rental-date: 2005-07-27 23:18:22
+
+----
+
+Return-date: 2005-07-30 23:08:22
+
+----
+
+Inventory: page://DdXToSLG67dwZRXD
+
+----
+
+Customer: page://sGF0A1vUMDn16Llg
+
+----
+
+Uuid: RvBIOC0Ge80ljq3i

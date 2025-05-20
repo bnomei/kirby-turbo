@@ -1,0 +1,21 @@
+Title: Rental 12101
+
+----
+
+Rental-id: 12101
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://e2UZag1znZ1ulLbG
+
+----
+
+Customer: page://fEgNYhgaLDG3CQLU
+
+----
+
+Uuid: lwJe0zrqozoiVXuS

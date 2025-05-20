@@ -1,0 +1,17 @@
+Title: Inv 979
+
+----
+
+Inventory-id: 979
+
+----
+
+Film: page://U0baGAbGXK66tOqZ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 5rqnMGjcOTwf7LeF

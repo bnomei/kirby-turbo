@@ -1,0 +1,17 @@
+Title: Inv 3074
+
+----
+
+Inventory-id: 3074
+
+----
+
+Film: page://qJJTbkgi4aJuQXIF
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 4jFuU9OHLkvLCOx7

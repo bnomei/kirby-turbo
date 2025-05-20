@@ -1,0 +1,25 @@
+Title: Rental 480
+
+----
+
+Rental-id: 480
+
+----
+
+Rental-date: 2005-05-27 22:47:39
+
+----
+
+Return-date: 2005-06-04 21:17:39
+
+----
+
+Inventory: page://AOF9KAFhfOPoVV66
+
+----
+
+Uuid: 7y7scKorvmU45Kku
+
+----
+
+Customer: page://MuXF2o48u2i4miEF

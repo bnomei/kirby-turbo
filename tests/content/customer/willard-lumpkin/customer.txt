@@ -1,0 +1,33 @@
+Title: WILLARD LUMPKIN
+
+----
+
+Customer-id: 578
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: WILLARD
+
+----
+
+Last-name: LUMPKIN
+
+----
+
+Email: WILLARD.LUMPKIN@sakilacustomer.org
+
+----
+
+Address: page://cwT75Lt6CH3tQWlr
+
+----
+
+Active: 1
+
+----
+
+Uuid: cVyeNQ8g1rAU35Mi

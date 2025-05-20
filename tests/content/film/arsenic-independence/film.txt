@@ -1,0 +1,41 @@
+Title: ARSENIC INDEPENDENCE
+
+----
+
+Actors:
+
+- 'page://8sAZxgGEUjJot3JV'
+- 'page://1JHTierDMQdVCXSe'
+- 'page://1a2BLQivFz3Ch6Lx'
+
+----
+
+Film-id: 41
+
+----
+
+Description: A Fanciful Documentary of a Mad Cow And a Womanizer who must Find a Dentist in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 137
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: Luw1moJ60v7K1QxL
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

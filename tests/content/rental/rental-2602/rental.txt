@@ -1,0 +1,25 @@
+Title: Rental 2602
+
+----
+
+Rental-id: 2602
+
+----
+
+Rental-date: 2005-06-19 06:10:08
+
+----
+
+Return-date: 2005-06-24 00:39:08
+
+----
+
+Inventory: page://7DkWBmdSa5KMjdVh
+
+----
+
+Uuid: uXH7narxh7ZqrpLs
+
+----
+
+Customer: page://iV9J7bKEhKwgdAGi

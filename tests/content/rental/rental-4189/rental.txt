@@ -1,0 +1,25 @@
+Title: Rental 4189
+
+----
+
+Rental-id: 4189
+
+----
+
+Rental-date: 2005-07-07 10:51:07
+
+----
+
+Return-date: 2005-07-14 14:46:07
+
+----
+
+Inventory: page://4FvUZybSmgchH33p
+
+----
+
+Uuid: gyaR2yjl04QoSMKI
+
+----
+
+Customer: page://EHSB9jDLk6k6ip5D

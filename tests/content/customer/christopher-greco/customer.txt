@@ -1,0 +1,33 @@
+Title: CHRISTOPHER GRECO
+
+----
+
+Customer-id: 309
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CHRISTOPHER
+
+----
+
+Last-name: GRECO
+
+----
+
+Email: CHRISTOPHER.GRECO@sakilacustomer.org
+
+----
+
+Address: page://W0XNapMM4PFwQuRW
+
+----
+
+Active: 1
+
+----
+
+Uuid: 6W4MNt60QNzdOkOf

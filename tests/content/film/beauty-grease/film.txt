@@ -1,0 +1,43 @@
+Title: BEAUTY GREASE
+
+----
+
+Actors:
+
+- 'page://rTdvG0vGkNN8iJpQ'
+- 'page://SR0Aks2aA1YgkZ1s'
+- 'page://WFF82auh2AgpYPoL'
+- 'page://4H5a71re4eGpTLKc'
+- 'page://gLWxCWOnObb0fT65'
+
+----
+
+Film-id: 61
+
+----
+
+Description: A Fast-Paced Display of a Composer And a Moose who must Sink a Robot in An Abandoned Mine Shaft
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 175
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: IyZ5AziWSQmMWUFP
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

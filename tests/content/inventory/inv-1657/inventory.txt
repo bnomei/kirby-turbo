@@ -1,0 +1,17 @@
+Title: Inv 1657
+
+----
+
+Inventory-id: 1657
+
+----
+
+Film: page://rXszfXc0PapWBC5w
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: MZMEM0JImVDIU6CK

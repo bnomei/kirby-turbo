@@ -1,0 +1,25 @@
+Title: Rental 14403
+
+----
+
+Rental-id: 14403
+
+----
+
+Rental-date: 2005-08-21 10:40:34
+
+----
+
+Return-date: 2005-08-29 11:29:34
+
+----
+
+Inventory: page://ffzHk6G5qngm0jqm
+
+----
+
+Customer: page://OuCE5gs5Pt217cWx
+
+----
+
+Uuid: VsRSfGfNvZHOlZqb

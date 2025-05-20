@@ -1,0 +1,25 @@
+Title: Rental 5818
+
+----
+
+Rental-id: 5818
+
+----
+
+Rental-date: 2005-07-10 15:51:12
+
+----
+
+Return-date: 2005-07-14 14:10:12
+
+----
+
+Inventory: page://Zz4fQ1Gw2kuCAfhe
+
+----
+
+Uuid: UXpg7Zqi1xFQbyBi
+
+----
+
+Customer: page://1lV61pgXzMTI9zGL

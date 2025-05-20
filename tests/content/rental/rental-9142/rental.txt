@@ -1,0 +1,25 @@
+Title: Rental 9142
+
+----
+
+Rental-id: 9142
+
+----
+
+Rental-date: 2005-07-30 10:21:03
+
+----
+
+Return-date: 2005-08-04 15:14:03
+
+----
+
+Inventory: page://TYl932NlmzHXgAao
+
+----
+
+Customer: page://JrFUnPiIScwISMV4
+
+----
+
+Uuid: p3z0UZ7Rq29IEFl5

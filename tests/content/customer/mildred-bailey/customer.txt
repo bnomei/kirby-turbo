@@ -1,0 +1,33 @@
+Title: MILDRED BAILEY
+
+----
+
+Customer-id: 60
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MILDRED
+
+----
+
+Last-name: BAILEY
+
+----
+
+Email: MILDRED.BAILEY@sakilacustomer.org
+
+----
+
+Address: page://D9zXgydjq4EN1SOc
+
+----
+
+Active: 1
+
+----
+
+Uuid: wPyg9sLQxXlxD9Q9

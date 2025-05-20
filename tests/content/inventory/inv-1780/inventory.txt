@@ -1,0 +1,17 @@
+Title: Inv 1780
+
+----
+
+Inventory-id: 1780
+
+----
+
+Film: page://oiXuz11Z5KGGG2vj
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Px1au4wuVi58HC1T

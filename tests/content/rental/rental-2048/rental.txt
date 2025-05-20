@@ -1,0 +1,25 @@
+Title: Rental 2048
+
+----
+
+Rental-id: 2048
+
+----
+
+Rental-date: 2005-06-17 14:55:29
+
+----
+
+Return-date: 2005-06-23 16:29:29
+
+----
+
+Inventory: page://p97XMrlKLW4YAMGr
+
+----
+
+Uuid: H5SmRVUEHvsw9qHE
+
+----
+
+Customer: page://2QCpyeeQilmvnk6g

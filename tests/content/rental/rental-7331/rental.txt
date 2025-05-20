@@ -1,0 +1,25 @@
+Title: Rental 7331
+
+----
+
+Rental-id: 7331
+
+----
+
+Rental-date: 2005-07-27 13:57:50
+
+----
+
+Return-date: 2005-07-31 08:59:50
+
+----
+
+Inventory: page://ppsenhAOspTY7YEz
+
+----
+
+Customer: page://wPyg9sLQxXlxD9Q9
+
+----
+
+Uuid: 1EeXiNJB4nVY4jdB

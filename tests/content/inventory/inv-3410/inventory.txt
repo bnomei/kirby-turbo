@@ -1,0 +1,17 @@
+Title: Inv 3410
+
+----
+
+Inventory-id: 3410
+
+----
+
+Film: page://s9z9cfGKYkxSj2oG
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 0rPLdlUop3XtunRG

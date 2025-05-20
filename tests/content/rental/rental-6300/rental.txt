@@ -1,0 +1,25 @@
+Title: Rental 6300
+
+----
+
+Rental-id: 6300
+
+----
+
+Rental-date: 2005-07-11 17:50:09
+
+----
+
+Return-date: 2005-07-18 13:11:09
+
+----
+
+Inventory: page://ykwd68OzpRTFvf9R
+
+----
+
+Uuid: VkiOs3g8odwl6RpR
+
+----
+
+Customer: page://4Gfo2urzQMaaaZ4t

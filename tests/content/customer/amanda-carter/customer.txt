@@ -1,0 +1,33 @@
+Title: AMANDA CARTER
+
+----
+
+Customer-id: 40
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: AMANDA
+
+----
+
+Last-name: CARTER
+
+----
+
+Email: AMANDA.CARTER@sakilacustomer.org
+
+----
+
+Address: page://uJpZ5QmDCciSSCPT
+
+----
+
+Active: 1
+
+----
+
+Uuid: mKUSHxTkOIWhbbql

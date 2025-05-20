@@ -1,0 +1,25 @@
+Title: Rental 8706
+
+----
+
+Rental-id: 8706
+
+----
+
+Rental-date: 2005-07-29 17:19:15
+
+----
+
+Return-date: 2005-08-03 22:52:15
+
+----
+
+Inventory: page://HqLWAhIklT4jdWlv
+
+----
+
+Customer: page://JRYbP7gqVkCUmiP0
+
+----
+
+Uuid: uECYy18Z8HH5Rt2l

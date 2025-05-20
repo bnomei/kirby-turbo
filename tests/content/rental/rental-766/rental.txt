@@ -1,0 +1,25 @@
+Title: Rental 766
+
+----
+
+Rental-id: 766
+
+----
+
+Rental-date: 2005-05-29 11:47:02
+
+----
+
+Return-date: 2005-06-06 07:14:02
+
+----
+
+Inventory: page://Hwdr8nfSeK9pmoZ5
+
+----
+
+Uuid: UmhX71RCvwuApSyu
+
+----
+
+Customer: page://4AtPAY3CI88EjmxK

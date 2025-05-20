@@ -1,0 +1,25 @@
+Title: Rental 12104
+
+----
+
+Rental-id: 12104
+
+----
+
+Rental-date: 2005-08-17 22:53:00
+
+----
+
+Return-date: 2005-08-23 19:49:00
+
+----
+
+Inventory: page://oYVaMFaLLI1lrCD8
+
+----
+
+Customer: page://ZOdnteCiIgjV8qei
+
+----
+
+Uuid: JiBIA2zaohgvnQ4m

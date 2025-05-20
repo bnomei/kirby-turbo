@@ -1,0 +1,17 @@
+Title: Inv 827
+
+----
+
+Inventory-id: 827
+
+----
+
+Film: page://mPgHvtizcr5X4Xab
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: CyR0VSZScohx8O8j

@@ -1,0 +1,25 @@
+Title: Rental 4339
+
+----
+
+Rental-id: 4339
+
+----
+
+Rental-date: 2005-07-07 18:41:42
+
+----
+
+Return-date: 2005-07-08 13:00:42
+
+----
+
+Inventory: page://txLwfqbKwiyOTI3y
+
+----
+
+Uuid: WPKoIm6FfhuS6hmV
+
+----
+
+Customer: page://pDfW2rdiEx3al4Ty

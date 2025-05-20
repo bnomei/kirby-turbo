@@ -1,0 +1,33 @@
+Title: NORMAN CURRIER
+
+----
+
+Customer-id: 411
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: NORMAN
+
+----
+
+Last-name: CURRIER
+
+----
+
+Email: NORMAN.CURRIER@sakilacustomer.org
+
+----
+
+Address: page://p5AbGMPN8a4SZ7kR
+
+----
+
+Active: 1
+
+----
+
+Uuid: QLQpAHNndEIHvGr2

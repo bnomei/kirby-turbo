@@ -1,0 +1,17 @@
+Title: Inv 4247
+
+----
+
+Inventory-id: 4247
+
+----
+
+Film: page://KHonmO1J3UR4gxFR
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: logl41wE3bIfKk1w

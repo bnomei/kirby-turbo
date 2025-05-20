@@ -1,0 +1,25 @@
+Title: Rental 10907
+
+----
+
+Rental-id: 10907
+
+----
+
+Rental-date: 2005-08-02 01:51:48
+
+----
+
+Return-date: 2005-08-02 19:53:48
+
+----
+
+Inventory: page://j91SDrUHDNyY7Ykd
+
+----
+
+Customer: page://xiuePi4NIEUJXUwz
+
+----
+
+Uuid: utfM6JkLcR1wCKGF

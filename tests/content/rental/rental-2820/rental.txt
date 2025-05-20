@@ -1,0 +1,25 @@
+Title: Rental 2820
+
+----
+
+Rental-id: 2820
+
+----
+
+Rental-date: 2005-06-19 20:20:33
+
+----
+
+Return-date: 2005-06-26 20:32:33
+
+----
+
+Inventory: page://S6HfNpXp1uXGh9X2
+
+----
+
+Uuid: Ho1toySJzdVYhvQy
+
+----
+
+Customer: page://W2vSpda0fGwDYgAa

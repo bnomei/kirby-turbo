@@ -1,0 +1,25 @@
+Title: Rental 8912
+
+----
+
+Rental-id: 8912
+
+----
+
+Rental-date: 2005-07-30 01:31:25
+
+----
+
+Return-date: 2005-08-02 07:14:25
+
+----
+
+Inventory: page://3vFVnIbEzG8ugAZA
+
+----
+
+Customer: page://Vns4RDWjccDhVJJe
+
+----
+
+Uuid: eRH7hGS6j01itomG

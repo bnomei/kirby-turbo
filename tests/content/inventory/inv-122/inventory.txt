@@ -1,0 +1,17 @@
+Title: Inv 122
+
+----
+
+Inventory-id: 122
+
+----
+
+Film: page://kkvuGDIMjxCHN4Nb
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: PoSFwcf2vnw41ZFy

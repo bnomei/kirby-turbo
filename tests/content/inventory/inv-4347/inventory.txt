@@ -1,0 +1,17 @@
+Title: Inv 4347
+
+----
+
+Inventory-id: 4347
+
+----
+
+Film: page://z5ZmTXM5Y5iCD3Pc
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Osd8qzQ6Hgjz9K48

@@ -1,0 +1,33 @@
+Title: DAISY BATES
+
+----
+
+Customer-id: 295
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: DAISY
+
+----
+
+Last-name: BATES
+
+----
+
+Email: DAISY.BATES@sakilacustomer.org
+
+----
+
+Address: page://jCl9Tp18LvysCA65
+
+----
+
+Active: 1
+
+----
+
+Uuid: MMjN8znOj5ltCet6

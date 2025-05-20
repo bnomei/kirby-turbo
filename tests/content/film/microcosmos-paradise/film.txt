@@ -1,0 +1,44 @@
+Title: MICROCOSMOS PARADISE
+
+----
+
+Actors:
+
+- 'page://H5yhLtWBsWi35xuK'
+- 'page://NlhyBSq5UemRMvfg'
+- 'page://xtyCW5dEHcrv0QRa'
+- 'page://gELBLdH4G3cmVmcs'
+- 'page://CI649GdI5JvIKbQ1'
+- 'page://CBtLT02Rklp5i11L'
+
+----
+
+Film-id: 573
+
+----
+
+Description: A Touching Character Study of a Boat And a Student who must Sink a A Shark in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 105
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Commentaries
+
+----
+
+Uuid: zvaoZlFDs3OYcy8r
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

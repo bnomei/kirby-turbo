@@ -1,0 +1,25 @@
+Title: Rental 337
+
+----
+
+Rental-id: 337
+
+----
+
+Rental-date: 2005-05-27 03:22:30
+
+----
+
+Return-date: 2005-06-02 03:27:30
+
+----
+
+Inventory: page://hgg7OkGwqc4Yw4Mg
+
+----
+
+Uuid: VtCyayrMX966TV8o
+
+----
+
+Customer: page://DP2nFBlcxJIrLJzp

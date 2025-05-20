@@ -1,0 +1,25 @@
+Title: Rental 8002
+
+----
+
+Rental-id: 8002
+
+----
+
+Rental-date: 2005-07-28 15:11:00
+
+----
+
+Return-date: 2005-07-31 15:46:00
+
+----
+
+Inventory: page://hZ3K7WWbPAHkBpVC
+
+----
+
+Customer: page://qJJ8JizjbgmdQ5eD
+
+----
+
+Uuid: iN3f6cyCwSHPQqae

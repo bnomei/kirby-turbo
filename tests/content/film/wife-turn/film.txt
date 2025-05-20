@@ -1,0 +1,44 @@
+Title: WIFE TURN
+
+----
+
+Actors:
+
+- 'page://pAFoAtJmRtH6ome4'
+- 'page://EHffowmlWDEyJ7Ij'
+- 'page://wxM7fPnQeVIlPpuJ'
+- 'page://rTdvG0vGkNN8iJpQ'
+- 'page://CI649GdI5JvIKbQ1'
+- 'page://nVYE704vdPRRS8fI'
+
+----
+
+Film-id: 973
+
+----
+
+Description: A Awe-Inspiring Epistle of a Teacher And a Feminist who must Confront a Pioneer in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 183
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: mpE9RTqrJOxDUbqz
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

@@ -1,0 +1,17 @@
+Title: Inv 2055
+
+----
+
+Inventory-id: 2055
+
+----
+
+Film: page://cg8mLwYSOE42izJZ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: p97XMrlKLW4YAMGr

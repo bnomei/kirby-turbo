@@ -1,0 +1,17 @@
+Title: Inv 3843
+
+----
+
+Inventory-id: 3843
+
+----
+
+Film: page://RD5nIGLm058hSZAk
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 335WnmBEkHo9dkvo

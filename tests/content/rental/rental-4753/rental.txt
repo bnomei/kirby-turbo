@@ -1,0 +1,25 @@
+Title: Rental 4753
+
+----
+
+Rental-id: 4753
+
+----
+
+Rental-date: 2005-07-08 14:18:41
+
+----
+
+Return-date: 2005-07-09 10:00:41
+
+----
+
+Inventory: page://UnxidhJY3Ul3fh6p
+
+----
+
+Uuid: 7GMG7pjPe2YUd3Zl
+
+----
+
+Customer: page://PkN2CyC6PbKojoAi

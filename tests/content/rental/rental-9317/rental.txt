@@ -1,0 +1,25 @@
+Title: Rental 9317
+
+----
+
+Rental-id: 9317
+
+----
+
+Rental-date: 2005-07-30 17:13:37
+
+----
+
+Return-date: 2005-08-08 11:33:37
+
+----
+
+Inventory: page://NmpP61at5c05SRMC
+
+----
+
+Customer: page://OfFxp4O7RmY8sd3L
+
+----
+
+Uuid: B3YPu9MYVGNCsqd6

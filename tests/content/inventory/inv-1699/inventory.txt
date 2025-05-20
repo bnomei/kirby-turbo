@@ -1,0 +1,17 @@
+Title: Inv 1699
+
+----
+
+Inventory-id: 1699
+
+----
+
+Film: page://bCaKrzrFoyWGdG2h
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ANQlT2Rvvtkd3HCO

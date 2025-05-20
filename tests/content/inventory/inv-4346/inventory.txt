@@ -1,0 +1,17 @@
+Title: Inv 4346
+
+----
+
+Inventory-id: 4346
+
+----
+
+Film: page://04IMPhIRUUqZZxqR
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 4DlflpMqci5cNXAd

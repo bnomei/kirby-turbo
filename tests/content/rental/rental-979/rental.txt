@@ -1,0 +1,25 @@
+Title: Rental 979
+
+----
+
+Rental-id: 979
+
+----
+
+Rental-date: 2005-05-30 21:37:11
+
+----
+
+Return-date: 2005-06-08 00:24:11
+
+----
+
+Inventory: page://5jeCAygodXdtfYpD
+
+----
+
+Uuid: qjUYOKwFZJK3P8zq
+
+----
+
+Customer: page://TqDbE1YY8IbS4H7K

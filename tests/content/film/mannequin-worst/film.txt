@@ -1,0 +1,43 @@
+Title: MANNEQUIN WORST
+
+----
+
+Actors:
+
+- 'page://NmIbTpy4ZSHrHfnI'
+- 'page://qiUMbGq5mbDqGQZm'
+- 'page://if8hfrmRoIODgwSa'
+- 'page://8sAZxgGEUjJot3JV'
+- 'page://C462ZyZJYhtiRgJM'
+
+----
+
+Film-id: 558
+
+----
+
+Description: A Astounding Saga of a Mad Cow And a Pastry Chef who must Discover a Husband in Ancient India
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 71
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: rAplbkHtAr4ImLYN
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

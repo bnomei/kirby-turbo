@@ -1,0 +1,17 @@
+Title: Inv 1270
+
+----
+
+Inventory-id: 1270
+
+----
+
+Film: page://cpIunvgzQdLa04s5
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 64YwdIiCFbSeKZpD

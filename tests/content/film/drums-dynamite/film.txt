@@ -1,0 +1,45 @@
+Title: DRUMS DYNAMITE
+
+----
+
+Actors:
+
+- 'page://q71V781JfgIPJGVL'
+- 'page://9NAEa97MvjisWbzN'
+- 'page://DC9iJim4HlVvOiTH'
+- 'page://WFF82auh2AgpYPoL'
+- 'page://isKOKKisNfJh2ta1'
+- 'page://jSbKN9X4MDWI1G5U'
+- 'page://vMUybiWmK5EriDRU'
+
+----
+
+Film-id: 258
+
+----
+
+Description: A Epic Display of a Crocodile And a Crocodile who must Confront a Dog in An Abandoned Amusement Park
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 96
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: WjoOh8OZSarhIBM3
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

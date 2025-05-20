@@ -1,0 +1,25 @@
+Title: Rental 663
+
+----
+
+Rental-id: 663
+
+----
+
+Rental-date: 2005-05-28 21:23:02
+
+----
+
+Return-date: 2005-06-02 17:39:02
+
+----
+
+Inventory: page://q9fn90RZFKVqXeoK
+
+----
+
+Uuid: Y4Gd2mONnYOUzo6I
+
+----
+
+Customer: page://8I9W8oDFPxssbhIJ

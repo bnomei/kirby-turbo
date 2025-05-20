@@ -1,0 +1,17 @@
+Title: Inv 3641
+
+----
+
+Inventory-id: 3641
+
+----
+
+Film: page://wCWtRglEZEDjzZZC
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 4AQKfSozwb2e8sml

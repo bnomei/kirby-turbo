@@ -1,0 +1,17 @@
+Title: Inv 1196
+
+----
+
+Inventory-id: 1196
+
+----
+
+Film: page://9wVld7gJLsuDCDGi
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: PIUmhv5FMdC7IFPh

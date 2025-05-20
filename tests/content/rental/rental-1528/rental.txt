@@ -1,0 +1,25 @@
+Title: Rental 1528
+
+----
+
+Rental-id: 1528
+
+----
+
+Rental-date: 2005-06-16 00:32:52
+
+----
+
+Return-date: 2005-06-25 01:07:52
+
+----
+
+Inventory: page://1gkyEpUjpMffXb7h
+
+----
+
+Uuid: plh5EWTEUZ0cOv2M
+
+----
+
+Customer: page://XZqTxsNej50wJ3aq

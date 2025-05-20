@@ -1,0 +1,17 @@
+Title: Inv 1405
+
+----
+
+Inventory-id: 1405
+
+----
+
+Film: page://XJugsuEEg8ZcYdOC
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: e4zGzmIXsulRyFkT

@@ -1,0 +1,46 @@
+Title: KRAMER CHOCOLATE
+
+----
+
+Actors:
+
+- 'page://S52CrIK06oYgWrwP'
+- 'page://qGB9wRd16f9YwbHn'
+- 'page://EfT0PAFDrVUk4H1Y'
+- 'page://oEbdYNCKFrP9NVLv'
+- 'page://8Pmn5SWwDYgkHBaA'
+- 'page://I440rKCeu4AX6xcF'
+- 'page://Xu2nMG4ojUoJI7CN'
+- 'page://dRscV8wJJ6wok0jq'
+
+----
+
+Film-id: 503
+
+----
+
+Description: A Amazing Yarn of a Robot And a Pastry Chef who must Redeem a Mad Scientist in The Outback
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 171
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: sfkJXJixgW6wCSbl
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

@@ -1,0 +1,17 @@
+Title: Inv 682
+
+----
+
+Inventory-id: 682
+
+----
+
+Film: page://gcI22iZfI8heb4EI
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: E1DRz8gbdznSTEqD

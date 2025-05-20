@@ -1,0 +1,42 @@
+Title: PANTHER REDS
+
+----
+
+Actors:
+
+- 'page://S8UoUinBIsjzumVd'
+- 'page://RvgM0TLzgQDo6vY7'
+- 'page://C462ZyZJYhtiRgJM'
+- 'page://yg3e89enY7SGtRB6'
+
+----
+
+Film-id: 655
+
+----
+
+Description: A Brilliant Panorama of a Moose And a Man who must Reach a Teacher in The Gulf of Mexico
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 109
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: N5Mx7OSc3pDzXJsj
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

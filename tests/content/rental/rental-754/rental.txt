@@ -1,0 +1,25 @@
+Title: Rental 754
+
+----
+
+Rental-id: 754
+
+----
+
+Rental-date: 2005-05-29 10:18:59
+
+----
+
+Return-date: 2005-06-04 05:03:59
+
+----
+
+Inventory: page://usVUTLVYuWrAJuNC
+
+----
+
+Uuid: 2vThmefqF3BrJQnK
+
+----
+
+Customer: page://NbDJ85z6Kfifcrsu

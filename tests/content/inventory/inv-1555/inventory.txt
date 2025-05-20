@@ -1,0 +1,17 @@
+Title: Inv 1555
+
+----
+
+Inventory-id: 1555
+
+----
+
+Film: page://o7upy3IJiqwi9Mt9
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: qnJdqJxGcDHo2AnZ

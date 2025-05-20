@@ -1,0 +1,43 @@
+Title: MUSCLE BRIGHT
+
+----
+
+Actors:
+
+- 'page://3oaBypMbXEPYhgeK'
+- 'page://6jpBKUOTpGMSQxJe'
+- 'page://V93xbOGPlOsB9ymO'
+- 'page://jSbKN9X4MDWI1G5U'
+- 'page://nNLtL91vUU653tYz'
+
+----
+
+Film-id: 609
+
+----
+
+Description: A Stunning Panorama of a Sumo Wrestler And a Husband who must Redeem a Madman in Ancient India
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 185
+
+----
+
+Rating: G
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: Z8uOABIqfjqKkYIl
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

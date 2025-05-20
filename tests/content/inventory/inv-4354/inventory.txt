@@ -1,0 +1,17 @@
+Title: Inv 4354
+
+----
+
+Inventory-id: 4354
+
+----
+
+Film: page://JiFN89QIpjfUYw88
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: AQIyHqZniydbUbD6

@@ -1,0 +1,25 @@
+Title: Rental 7161
+
+----
+
+Rental-id: 7161
+
+----
+
+Rental-date: 2005-07-27 07:26:32
+
+----
+
+Return-date: 2005-08-03 01:26:32
+
+----
+
+Inventory: page://uoHKcJAJZUHifo8J
+
+----
+
+Customer: page://Tq01V7arWSoz6Hb2
+
+----
+
+Uuid: g8VrgLMWfmSu9hnx

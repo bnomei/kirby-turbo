@@ -1,0 +1,17 @@
+Title: Inv 3597
+
+----
+
+Inventory-id: 3597
+
+----
+
+Film: page://EO2KPDrbkQe56E0P
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: BNt9UhdiD6Rw8ksf

@@ -1,0 +1,17 @@
+Title: Inv 4234
+
+----
+
+Inventory-id: 4234
+
+----
+
+Film: page://EGBbhwexVKfnd31B
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: SGoHTgjS4rwI0sLn

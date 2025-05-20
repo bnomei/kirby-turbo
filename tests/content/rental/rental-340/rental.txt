@@ -1,0 +1,25 @@
+Title: Rental 340
+
+----
+
+Rental-id: 340
+
+----
+
+Rental-date: 2005-05-27 03:55:25
+
+----
+
+Return-date: 2005-06-04 07:57:25
+
+----
+
+Inventory: page://HgEYvUtrzUWFC5a7
+
+----
+
+Uuid: UjqKQAaf5bK5q7FJ
+
+----
+
+Customer: page://7xbkabb9oALGCtIT

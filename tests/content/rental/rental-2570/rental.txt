@@ -1,0 +1,25 @@
+Title: Rental 2570
+
+----
+
+Rental-id: 2570
+
+----
+
+Rental-date: 2005-06-19 04:20:13
+
+----
+
+Return-date: 2005-06-25 07:00:13
+
+----
+
+Inventory: page://PolvbTLkBcCVezCr
+
+----
+
+Uuid: PRx6aZk1p2dDjPdc
+
+----
+
+Customer: page://stFkFNmIWPMkzEB2

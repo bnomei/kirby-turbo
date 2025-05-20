@@ -1,0 +1,17 @@
+Title: Inv 2773
+
+----
+
+Inventory-id: 2773
+
+----
+
+Film: page://Z8uOABIqfjqKkYIl
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 9LPTw816JKfp4URD

@@ -1,0 +1,17 @@
+Title: Inv 2745
+
+----
+
+Inventory-id: 2745
+
+----
+
+Film: page://kL2Chf0HRElGkw02
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 6snIQvAy3thgrV8V

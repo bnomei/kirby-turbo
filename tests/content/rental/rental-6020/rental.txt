@@ -1,0 +1,25 @@
+Title: Rental 6020
+
+----
+
+Rental-id: 6020
+
+----
+
+Rental-date: 2005-07-11 02:08:55
+
+----
+
+Return-date: 2005-07-16 22:07:55
+
+----
+
+Inventory: page://PlpVEBCFhgZ6FwI4
+
+----
+
+Uuid: lCVAlSk0UsCsZUKN
+
+----
+
+Customer: page://gao3Tz3ycoSuDV8Z

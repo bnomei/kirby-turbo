@@ -1,0 +1,25 @@
+Title: Rental 6888
+
+----
+
+Rental-id: 6888
+
+----
+
+Rental-date: 2005-07-12 21:01:11
+
+----
+
+Return-date: 2005-07-17 21:49:11
+
+----
+
+Inventory: page://tVcJyAjPP0XlcaNp
+
+----
+
+Customer: page://Sok572NVAWg9Kowo
+
+----
+
+Uuid: L0jtEeDo6uwLTq6n

@@ -1,0 +1,25 @@
+Title: Rental 12819
+
+----
+
+Rental-id: 12819
+
+----
+
+Rental-date: 2005-08-19 01:05:05
+
+----
+
+Return-date: 2005-08-22 05:50:05
+
+----
+
+Inventory: page://ZhNFuCB9mRX9kIWk
+
+----
+
+Customer: page://RUBCfMYZJlQfdGdQ
+
+----
+
+Uuid: UlKXuAkArkMYk1u8

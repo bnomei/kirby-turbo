@@ -1,0 +1,25 @@
+Title: Rental 8724
+
+----
+
+Rental-id: 8724
+
+----
+
+Rental-date: 2005-07-29 18:05:21
+
+----
+
+Return-date: 2005-08-01 15:41:21
+
+----
+
+Inventory: page://wBa8UB4j2jqWjsMy
+
+----
+
+Customer: page://bw4m0tZ1D4xQh5s8
+
+----
+
+Uuid: 0JneDiOXab5BvnyH

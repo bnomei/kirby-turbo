@@ -1,0 +1,17 @@
+Title: Inv 1208
+
+----
+
+Inventory-id: 1208
+
+----
+
+Film: page://NHVHTtdHsYsvIuaE
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: lpkteNGbUrEXC1r7

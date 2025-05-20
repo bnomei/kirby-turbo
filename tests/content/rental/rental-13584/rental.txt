@@ -1,0 +1,21 @@
+Title: Rental 13584
+
+----
+
+Rental-id: 13584
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://h9sf18wZWtLJRoEw
+
+----
+
+Customer: page://LhhA1dQUaMKURas0
+
+----
+
+Uuid: i0x0jtodJUl5jL0h

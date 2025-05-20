@@ -1,0 +1,17 @@
+Title: Inv 668
+
+----
+
+Inventory-id: 668
+
+----
+
+Film: page://TLayTvyjZh2ATF04
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 1Zjh5aWDEwOUGWo3

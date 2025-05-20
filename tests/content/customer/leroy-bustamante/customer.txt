@@ -1,0 +1,33 @@
+Title: LEROY BUSTAMANTE
+
+----
+
+Customer-id: 442
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: LEROY
+
+----
+
+Last-name: BUSTAMANTE
+
+----
+
+Email: LEROY.BUSTAMANTE@sakilacustomer.org
+
+----
+
+Address: page://Bg7giGZvAMvfPhoC
+
+----
+
+Active: 1
+
+----
+
+Uuid: eYENgXyv63Ee6XxS

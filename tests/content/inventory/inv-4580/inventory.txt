@@ -1,0 +1,17 @@
+Title: Inv 4580
+
+----
+
+Inventory-id: 4580
+
+----
+
+Film: page://wSlDJdcvEJstzSAH
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Yjg5pfpaEtB98pW9

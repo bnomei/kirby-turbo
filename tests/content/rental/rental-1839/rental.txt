@@ -1,0 +1,25 @@
+Title: Rental 1839
+
+----
+
+Rental-id: 1839
+
+----
+
+Rental-date: 2005-06-16 23:22:22
+
+----
+
+Return-date: 2005-06-23 00:33:22
+
+----
+
+Inventory: page://za6pMXrv5EiLR0CI
+
+----
+
+Uuid: qsEZTavLjBTBn1ZC
+
+----
+
+Customer: page://EcxXI702tDu4xH3y

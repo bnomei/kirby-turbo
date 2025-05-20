@@ -1,0 +1,25 @@
+Title: Rental 3608
+
+----
+
+Rental-id: 3608
+
+----
+
+Rental-date: 2005-07-06 05:35:39
+
+----
+
+Return-date: 2005-07-10 07:46:39
+
+----
+
+Inventory: page://4DYlqkxOoBGwUoH4
+
+----
+
+Uuid: c0Z8kI5vuh2CLmG3
+
+----
+
+Customer: page://iYFUE0tzXJVxueTP

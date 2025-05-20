@@ -1,0 +1,25 @@
+Title: Rental 1671
+
+----
+
+Rental-id: 1671
+
+----
+
+Rental-date: 2005-06-16 10:30:22
+
+----
+
+Return-date: 2005-06-22 11:08:22
+
+----
+
+Inventory: page://2K8TxJZLMLODXq4f
+
+----
+
+Uuid: f2FU93vI8gOGNC3l
+
+----
+
+Customer: page://85ovZXEWpqXAx1KN

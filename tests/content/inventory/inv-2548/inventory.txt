@@ -1,0 +1,17 @@
+Title: Inv 2548
+
+----
+
+Inventory-id: 2548
+
+----
+
+Film: page://puoAkILBfsOTWn5V
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: yXJtMNe03N8igPbT

@@ -1,0 +1,17 @@
+Title: Inv 2832
+
+----
+
+Inventory-id: 2832
+
+----
+
+Film: page://4YjV52Bu2TZvs5UN
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: F2G9lIB4YAzwO2D1

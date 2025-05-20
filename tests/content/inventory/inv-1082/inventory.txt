@@ -1,0 +1,17 @@
+Title: Inv 1082
+
+----
+
+Inventory-id: 1082
+
+----
+
+Film: page://vHSDJivjGRxJEMbx
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: xOsFq6V8JZzQUGVY

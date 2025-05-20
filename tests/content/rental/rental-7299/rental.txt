@@ -1,0 +1,25 @@
+Title: Rental 7299
+
+----
+
+Rental-id: 7299
+
+----
+
+Rental-date: 2005-07-27 12:49:56
+
+----
+
+Return-date: 2005-08-03 12:25:56
+
+----
+
+Inventory: page://zhUyXpRjMRHfHXci
+
+----
+
+Customer: page://luJ7Uo5a2aftAMEN
+
+----
+
+Uuid: L1Hgd0vZgZcZu2tq

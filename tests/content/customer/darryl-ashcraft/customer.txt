@@ -1,0 +1,33 @@
+Title: DARRYL ASHCRAFT
+
+----
+
+Customer-id: 530
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: DARRYL
+
+----
+
+Last-name: ASHCRAFT
+
+----
+
+Email: DARRYL.ASHCRAFT@sakilacustomer.org
+
+----
+
+Address: page://rXsiR2LJNtghlTQo
+
+----
+
+Active: 1
+
+----
+
+Uuid: a0kMdWVetvJ1ZDeW

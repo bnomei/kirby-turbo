@@ -1,0 +1,17 @@
+Title: Inv 3527
+
+----
+
+Inventory-id: 3527
+
+----
+
+Film: page://Ynj7XwfJrRqE5Bc6
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: tD0Pxx9sUwu3R2bV

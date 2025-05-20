@@ -1,0 +1,25 @@
+Title: Rental 12300
+
+----
+
+Rental-id: 12300
+
+----
+
+Rental-date: 2005-08-18 05:36:14
+
+----
+
+Return-date: 2005-08-25 00:20:14
+
+----
+
+Inventory: page://DfItss2wxtnEk675
+
+----
+
+Customer: page://2G3YjZ3nk45lbrpd
+
+----
+
+Uuid: Y39AoBkArXpx1ISE

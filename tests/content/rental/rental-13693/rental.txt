@@ -1,0 +1,25 @@
+Title: Rental 13693
+
+----
+
+Rental-id: 13693
+
+----
+
+Rental-date: 2005-08-20 09:11:42
+
+----
+
+Return-date: 2005-08-24 15:00:42
+
+----
+
+Inventory: page://Kvj986fiYKfufRx9
+
+----
+
+Customer: page://B2GGWZGpzqZm6Gp7
+
+----
+
+Uuid: D2ApNQEYXOrhFl5q

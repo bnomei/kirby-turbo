@@ -1,0 +1,17 @@
+Title: Inv 3142
+
+----
+
+Inventory-id: 3142
+
+----
+
+Film: page://EKJk2VIywYlYORwF
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 5pHzmd0cba27RCCh

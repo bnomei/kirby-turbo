@@ -1,0 +1,17 @@
+Title: Inv 3207
+
+----
+
+Inventory-id: 3207
+
+----
+
+Film: page://1LIf1DaCQFAKfsoP
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: JFDF5SDZA88eeP8x

@@ -1,0 +1,17 @@
+Title: Inv 782
+
+----
+
+Inventory-id: 782
+
+----
+
+Film: page://JkW7m02yeXJO7TMU
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: kNnnDIbzcfGrTm6O

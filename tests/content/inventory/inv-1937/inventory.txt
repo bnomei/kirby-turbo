@@ -1,0 +1,17 @@
+Title: Inv 1937
+
+----
+
+Inventory-id: 1937
+
+----
+
+Film: page://jy4a8cLfJsqB2YjF
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: gKSPN8YRZqJ93uym

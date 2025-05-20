@@ -1,0 +1,44 @@
+Title: SLEEPY JAPANESE
+
+----
+
+Actors:
+
+- 'page://V2PTX56N00hKjCOa'
+- 'page://KV54RGx9NMbLtwi4'
+- 'page://3O7lqRPKBygXUoTl'
+- 'page://SR0Aks2aA1YgkZ1s'
+- 'page://EIh5zoCTJV7UmSi4'
+- 'page://FLMpVB5CVJFKSGVy'
+
+----
+
+Film-id: 806
+
+----
+
+Description: A Emotional Epistle of a Moose And a Composer who must Fight a Technical Writer in The Outback
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 137
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: xw4k1JDJPGiAkoYR
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

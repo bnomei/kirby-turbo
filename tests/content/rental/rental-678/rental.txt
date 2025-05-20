@@ -1,0 +1,25 @@
+Title: Rental 678
+
+----
+
+Rental-id: 678
+
+----
+
+Rental-date: 2005-05-28 23:15:48
+
+----
+
+Return-date: 2005-06-03 04:43:48
+
+----
+
+Inventory: page://5maCLoDnQrMVfejq
+
+----
+
+Uuid: ClWL0vzQ8JjGn7Pj
+
+----
+
+Customer: page://Cko87GK3ShDjUK4Q

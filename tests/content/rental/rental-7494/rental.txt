@@ -1,0 +1,25 @@
+Title: Rental 7494
+
+----
+
+Rental-id: 7494
+
+----
+
+Rental-date: 2005-07-27 19:56:31
+
+----
+
+Return-date: 2005-07-30 14:28:31
+
+----
+
+Inventory: page://xjgIe2VCmxydOnDa
+
+----
+
+Customer: page://wPyg9sLQxXlxD9Q9
+
+----
+
+Uuid: Vonz2Tj2ugXEIfa6

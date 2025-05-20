@@ -1,0 +1,25 @@
+Title: Rental 3404
+
+----
+
+Rental-id: 3404
+
+----
+
+Rental-date: 2005-06-21 15:57:52
+
+----
+
+Return-date: 2005-06-24 20:58:52
+
+----
+
+Inventory: page://Pe1JqfPUBdCDMte9
+
+----
+
+Uuid: 6WQ4aF4DQBIwSll9
+
+----
+
+Customer: page://sVIdcOA4yjcw5Z24

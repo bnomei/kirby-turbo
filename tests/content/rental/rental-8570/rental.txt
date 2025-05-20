@@ -1,0 +1,25 @@
+Title: Rental 8570
+
+----
+
+Rental-id: 8570
+
+----
+
+Rental-date: 2005-07-29 11:40:08
+
+----
+
+Return-date: 2005-08-06 10:23:08
+
+----
+
+Inventory: page://9ZqJMTrZzwB9sQBb
+
+----
+
+Customer: page://N95O2afia8ED5CLD
+
+----
+
+Uuid: wZPyzSwyDKl8vhm9

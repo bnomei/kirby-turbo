@@ -1,0 +1,17 @@
+Title: Stara Zagora
+
+----
+
+City-id: 498
+
+----
+
+City: Stara Zagora
+
+----
+
+Country: page://Qmax1NxhtXT8RxJk
+
+----
+
+Uuid: 6CCr1F8woujw13we

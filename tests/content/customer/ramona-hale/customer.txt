@@ -1,0 +1,33 @@
+Title: RAMONA HALE
+
+----
+
+Customer-id: 296
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: RAMONA
+
+----
+
+Last-name: HALE
+
+----
+
+Email: RAMONA.HALE@sakilacustomer.org
+
+----
+
+Address: page://4H02aj4P7g3zhnDd
+
+----
+
+Active: 1
+
+----
+
+Uuid: UxrVUUMWkjZpGsKW

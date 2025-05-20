@@ -1,0 +1,25 @@
+Title: Rental 10712
+
+----
+
+Rental-id: 10712
+
+----
+
+Rental-date: 2005-08-01 18:47:56
+
+----
+
+Return-date: 2005-08-07 19:26:56
+
+----
+
+Inventory: page://J20wVHtx8GbX9ZzK
+
+----
+
+Customer: page://jNinHUxNSvO3KbCp
+
+----
+
+Uuid: LhzBp282IHsN9fA5

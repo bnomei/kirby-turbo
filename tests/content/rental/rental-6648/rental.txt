@@ -1,0 +1,25 @@
+Title: Rental 6648
+
+----
+
+Rental-id: 6648
+
+----
+
+Rental-date: 2005-07-12 10:46:30
+
+----
+
+Return-date: 2005-07-14 16:15:30
+
+----
+
+Inventory: page://F6mhPS3cFLUAzDXC
+
+----
+
+Uuid: w0Yl99bVID5XyJE3
+
+----
+
+Customer: page://fXUgmXqRtLO0PH1c

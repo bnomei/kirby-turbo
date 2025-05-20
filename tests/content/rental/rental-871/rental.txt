@@ -1,0 +1,25 @@
+Title: Rental 871
+
+----
+
+Rental-id: 871
+
+----
+
+Rental-date: 2005-05-30 05:01:30
+
+----
+
+Return-date: 2005-06-04 06:22:30
+
+----
+
+Inventory: page://tUvyZl5wiEhAMrVF
+
+----
+
+Uuid: Ux3BBumU9siZV36O
+
+----
+
+Customer: page://bevxYrHtglALAL6m

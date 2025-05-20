@@ -1,0 +1,33 @@
+Title: CHRISTINA RAMIREZ
+
+----
+
+Customer-id: 70
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: CHRISTINA
+
+----
+
+Last-name: RAMIREZ
+
+----
+
+Email: CHRISTINA.RAMIREZ@sakilacustomer.org
+
+----
+
+Address: page://69PR0qeCTjUUrsRF
+
+----
+
+Active: 1
+
+----
+
+Uuid: OgdGkik1rnAhaDTs

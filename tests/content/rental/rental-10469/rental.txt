@@ -1,0 +1,25 @@
+Title: Rental 10469
+
+----
+
+Rental-id: 10469
+
+----
+
+Rental-date: 2005-08-01 09:51:11
+
+----
+
+Return-date: 2005-08-05 06:53:11
+
+----
+
+Inventory: page://snNIJ9hsgGsdwUeT
+
+----
+
+Customer: page://QG9yqDQNwdOwdXOt
+
+----
+
+Uuid: YK7QUIDiiN8oldWu

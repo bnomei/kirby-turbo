@@ -1,0 +1,25 @@
+Title: Rental 5770
+
+----
+
+Rental-id: 5770
+
+----
+
+Rental-date: 2005-07-10 13:21:28
+
+----
+
+Return-date: 2005-07-11 08:59:28
+
+----
+
+Inventory: page://L6uOTR24Gs4J4JVk
+
+----
+
+Uuid: Eep2TDs9cBBnRgLm
+
+----
+
+Customer: page://gao3Tz3ycoSuDV8Z

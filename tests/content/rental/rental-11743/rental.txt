@@ -1,0 +1,25 @@
+Title: Rental 11743
+
+----
+
+Rental-id: 11743
+
+----
+
+Rental-date: 2005-08-17 08:49:05
+
+----
+
+Return-date: 2005-08-22 08:53:05
+
+----
+
+Inventory: page://Lj1IZ9ftppXtI6PE
+
+----
+
+Customer: page://MsMpwiaowsqI4bXD
+
+----
+
+Uuid: BSVKB5nWqgAfUMYr

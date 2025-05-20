@@ -1,0 +1,25 @@
+Title: Rental 3210
+
+----
+
+Rental-id: 3210
+
+----
+
+Rental-date: 2005-06-21 01:00:25
+
+----
+
+Return-date: 2005-06-23 06:10:25
+
+----
+
+Inventory: page://DdXToSLG67dwZRXD
+
+----
+
+Uuid: sVc7KBZs451l11bH
+
+----
+
+Customer: page://x5SWKXQpXhzjUJdL

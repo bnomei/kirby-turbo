@@ -1,0 +1,45 @@
+Title: LUST LOCK
+
+----
+
+Actors:
+
+- 'page://NmIbTpy4ZSHrHfnI'
+- 'page://CsoOTyxORoAs7uZy'
+- 'page://kIGWs86teYEK5yIM'
+- 'page://rnDcbekdB8oOqt97'
+- 'page://SR0Aks2aA1YgkZ1s'
+- 'page://uyiPyWfxhKFdwYKL'
+- 'page://nNLtL91vUU653tYz'
+
+----
+
+Film-id: 542
+
+----
+
+Description: A Fanciful Panorama of a Hunter And a Dentist who must Meet a Secret Agent in The Sahara Desert
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 52
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: Aim29pukRwUcIrKl
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

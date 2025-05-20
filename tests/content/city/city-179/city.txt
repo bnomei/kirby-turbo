@@ -1,0 +1,17 @@
+Title: Gatineau
+
+----
+
+City-id: 179
+
+----
+
+City: Gatineau
+
+----
+
+Country: page://aXdbyD4Bbat1O0Yd
+
+----
+
+Uuid: yY6R9lB98flSBPMJ

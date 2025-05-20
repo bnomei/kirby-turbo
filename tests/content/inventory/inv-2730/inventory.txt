@@ -1,0 +1,17 @@
+Title: Inv 2730
+
+----
+
+Inventory-id: 2730
+
+----
+
+Film: page://APdUMlzxiJFwZpAj
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Zgh33bGZhqkx6FR2

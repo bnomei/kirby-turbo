@@ -1,0 +1,17 @@
+Title: Poços de Caldas
+
+----
+
+City-id: 413
+
+----
+
+City: Poços de Caldas
+
+----
+
+Country: page://jIqa2ZvYow6Egqhx
+
+----
+
+Uuid: OK8BJ9c6BtUhdHXP

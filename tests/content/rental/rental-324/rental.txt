@@ -1,0 +1,25 @@
+Title: Rental 324
+
+----
+
+Rental-id: 324
+
+----
+
+Rental-date: 2005-05-27 01:00:04
+
+----
+
+Return-date: 2005-05-30 04:27:04
+
+----
+
+Inventory: page://W2hVp4sqlmKI205T
+
+----
+
+Uuid: S48ZUeN5MMRDif0o
+
+----
+
+Customer: page://TxY88rwk6w3N9jKC

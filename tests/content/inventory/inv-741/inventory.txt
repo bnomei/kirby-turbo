@@ -1,0 +1,17 @@
+Title: Inv 741
+
+----
+
+Inventory-id: 741
+
+----
+
+Film: page://b3WR2wrdQ8FGZBtm
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: kgWc4i9z0EO5YEmP

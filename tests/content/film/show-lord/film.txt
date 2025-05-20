@@ -1,0 +1,40 @@
+Title: SHOW LORD
+
+----
+
+Actors:
+
+- 'page://sDEWocF2a3nQjJMo'
+- 'page://gELBLdH4G3cmVmcs'
+
+----
+
+Film-id: 791
+
+----
+
+Description: A Fanciful Saga of a Student And a Girl who must Find a Butler in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 167
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: kh9nIsdUqUaqo5w1
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

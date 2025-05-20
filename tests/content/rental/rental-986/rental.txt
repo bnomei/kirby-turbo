@@ -1,0 +1,25 @@
+Title: Rental 986
+
+----
+
+Rental-id: 986
+
+----
+
+Rental-date: 2005-05-30 22:22:52
+
+----
+
+Return-date: 2005-06-01 02:24:52
+
+----
+
+Inventory: page://59p2NPMvWzLGmstB
+
+----
+
+Uuid: T7dlvF3m8TLVmHem
+
+----
+
+Customer: page://hd1gRLl3i3JFAUfJ

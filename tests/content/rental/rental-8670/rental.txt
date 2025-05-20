@@ -1,0 +1,25 @@
+Title: Rental 8670
+
+----
+
+Rental-id: 8670
+
+----
+
+Rental-date: 2005-07-29 15:49:03
+
+----
+
+Return-date: 2005-08-01 20:19:03
+
+----
+
+Inventory: page://qKvhoYoaSfCISSZq
+
+----
+
+Customer: page://LxYXYVT8Su7lX0Xb
+
+----
+
+Uuid: InqCLzE7jK7ahEhl

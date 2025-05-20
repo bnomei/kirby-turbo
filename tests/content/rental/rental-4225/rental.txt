@@ -1,0 +1,25 @@
+Title: Rental 4225
+
+----
+
+Rental-id: 4225
+
+----
+
+Rental-date: 2005-07-07 12:24:37
+
+----
+
+Return-date: 2005-07-12 06:47:37
+
+----
+
+Inventory: page://omiMchKEMlHOvj9X
+
+----
+
+Uuid: Zu7iMBAcrdxQeKIq
+
+----
+
+Customer: page://zLiLkW2YJgd9qzFC

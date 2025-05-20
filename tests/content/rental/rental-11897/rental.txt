@@ -1,0 +1,25 @@
+Title: Rental 11897
+
+----
+
+Rental-id: 11897
+
+----
+
+Rental-date: 2005-08-17 15:24:06
+
+----
+
+Return-date: 2005-08-23 11:50:06
+
+----
+
+Inventory: page://35H6c1KuDecQijWY
+
+----
+
+Customer: page://RIEo30tJIX71MCMT
+
+----
+
+Uuid: qMujtZ4jO3v12hjn

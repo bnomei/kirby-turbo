@@ -1,0 +1,17 @@
+Title: Inv 4290
+
+----
+
+Inventory-id: 4290
+
+----
+
+Film: page://fdlu8axy1GeueLIC
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: P0dM8K2NO1YggPBG

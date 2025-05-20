@@ -1,0 +1,17 @@
+Title: Inv 680
+
+----
+
+Inventory-id: 680
+
+----
+
+Film: page://gcI22iZfI8heb4EI
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ixIS5vYXrz4cMM9v

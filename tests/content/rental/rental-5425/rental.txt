@@ -1,0 +1,25 @@
+Title: Rental 5425
+
+----
+
+Rental-id: 5425
+
+----
+
+Rental-date: 2005-07-09 21:02:26
+
+----
+
+Return-date: 2005-07-16 23:38:26
+
+----
+
+Inventory: page://Po4u2dPvrJocLPGT
+
+----
+
+Uuid: eup93V2i1AqE8JuW
+
+----
+
+Customer: page://RH9TtdXlc9gxe8gh

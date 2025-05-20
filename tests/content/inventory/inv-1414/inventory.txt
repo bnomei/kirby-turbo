@@ -1,0 +1,17 @@
+Title: Inv 1414
+
+----
+
+Inventory-id: 1414
+
+----
+
+Film: page://jDmMJMlMtQvpyiHa
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: XAyqSXBAqcIy5OXQ

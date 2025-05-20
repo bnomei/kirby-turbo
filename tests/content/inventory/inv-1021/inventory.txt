@@ -1,0 +1,17 @@
+Title: Inv 1021
+
+----
+
+Inventory-id: 1021
+
+----
+
+Film: page://n0fvcXFZB7agzjDc
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: g4PccD0aTDpsZDGa

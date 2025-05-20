@@ -1,0 +1,33 @@
+Title: LEON BOSTIC
+
+----
+
+Customer-id: 460
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: LEON
+
+----
+
+Last-name: BOSTIC
+
+----
+
+Email: LEON.BOSTIC@sakilacustomer.org
+
+----
+
+Address: page://qhgJYYYQcSw3P2gt
+
+----
+
+Active: 1
+
+----
+
+Uuid: 8rYUMFeo4rjtDGSj

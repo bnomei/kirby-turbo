@@ -1,0 +1,17 @@
+Title: Inv 3361
+
+----
+
+Inventory-id: 3361
+
+----
+
+Film: page://lkKdCwh67Enn29M2
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: olgBvaT5jWuuV6wz

@@ -1,0 +1,17 @@
+Title: Inv 766
+
+----
+
+Inventory-id: 766
+
+----
+
+Film: page://2hqLMXmuK75wH2iH
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Stn2Hc1vgjTDmLgP

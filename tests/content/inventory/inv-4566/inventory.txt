@@ -1,0 +1,17 @@
+Title: Inv 4566
+
+----
+
+Inventory-id: 4566
+
+----
+
+Film: page://KpB8gb65wlkLvqKk
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Md0inULy6WswLddR

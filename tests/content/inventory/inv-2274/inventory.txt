@@ -1,0 +1,17 @@
+Title: Inv 2274
+
+----
+
+Inventory-id: 2274
+
+----
+
+Film: page://jGmVHtV5VR5Nsg4l
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: e5fS4jddlU6jf6p0

@@ -1,0 +1,43 @@
+Title: VAMPIRE WHALE
+
+----
+
+Actors:
+
+- 'page://JR0gbBMz8ekt1gGa'
+- 'page://MG1O0zMGGcgzh2YX'
+- 'page://3O7lqRPKBygXUoTl'
+- 'page://SR0Aks2aA1YgkZ1s'
+- 'page://j4GwVyPWyXE95Bdj'
+
+----
+
+Film-id: 933
+
+----
+
+Description: A Epic Story of a Lumberjack And a Monkey who must Confront a Pioneer in A MySQL Convention
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 126
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: XLpffK1Bpo0GE1jm
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

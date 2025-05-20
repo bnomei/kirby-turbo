@@ -1,0 +1,25 @@
+Title: Rental 2550
+
+----
+
+Rental-id: 2550
+
+----
+
+Rental-date: 2005-06-19 02:49:55
+
+----
+
+Return-date: 2005-06-24 01:37:55
+
+----
+
+Inventory: page://rRRwUpoPzm1Go9ZU
+
+----
+
+Uuid: 4uhmrm8DMz7upkup
+
+----
+
+Customer: page://EiH1RuNqWwCS6DfM

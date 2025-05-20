@@ -1,0 +1,17 @@
+Title: Inv 1016
+
+----
+
+Inventory-id: 1016
+
+----
+
+Film: page://n0fvcXFZB7agzjDc
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: iVcIWji4uhHbhl1R

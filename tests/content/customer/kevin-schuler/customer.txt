@@ -1,0 +1,33 @@
+Title: KEVIN SCHULER
+
+----
+
+Customer-id: 321
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: KEVIN
+
+----
+
+Last-name: SCHULER
+
+----
+
+Email: KEVIN.SCHULER@sakilacustomer.org
+
+----
+
+Address: page://BZzjTL7sTyZOm5b8
+
+----
+
+Active: 1
+
+----
+
+Uuid: 36F29rZd3q9eaQjs

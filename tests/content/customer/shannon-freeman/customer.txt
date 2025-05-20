@@ -1,0 +1,33 @@
+Title: SHANNON FREEMAN
+
+----
+
+Customer-id: 123
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: SHANNON
+
+----
+
+Last-name: FREEMAN
+
+----
+
+Email: SHANNON.FREEMAN@sakilacustomer.org
+
+----
+
+Address: page://kH71d1WOXJQOFfKQ
+
+----
+
+Active: 1
+
+----
+
+Uuid: FnuN2yauUCBPuMTu

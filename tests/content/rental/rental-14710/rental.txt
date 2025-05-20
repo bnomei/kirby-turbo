@@ -1,0 +1,25 @@
+Title: Rental 14710
+
+----
+
+Rental-id: 14710
+
+----
+
+Rental-date: 2005-08-21 21:15:23
+
+----
+
+Return-date: 2005-08-30 19:45:23
+
+----
+
+Inventory: page://MNWJ2YzNWWIJcd1B
+
+----
+
+Customer: page://B7BnhDPJcre02BJt
+
+----
+
+Uuid: QaQSgVsN5GPAG8Dk

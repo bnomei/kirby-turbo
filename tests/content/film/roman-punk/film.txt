@@ -1,0 +1,40 @@
+Title: ROMAN PUNK
+
+----
+
+Actors:
+
+- 'page://f3T5R3qlMgXii7Oj'
+- 'page://RvgM0TLzgQDo6vY7'
+
+----
+
+Film-id: 741
+
+----
+
+Description: A Thoughtful Panorama of a Mad Cow And a Student who must Battle a Forensic Psychologist in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 81
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: iOS8gtXVQPPQaRQa
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

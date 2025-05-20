@@ -1,0 +1,17 @@
+Title: Inv 2106
+
+----
+
+Inventory-id: 2106
+
+----
+
+Film: page://rUbIc6sEBrJjva9Z
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: LD1ABu2DBO7q5xD9

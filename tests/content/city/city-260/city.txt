@@ -1,0 +1,17 @@
+Title: Kanazawa
+
+----
+
+City-id: 260
+
+----
+
+City: Kanazawa
+
+----
+
+Country: page://XEyP9uxOgFESeyaK
+
+----
+
+Uuid: f47l2MBnV3Z3oQUe

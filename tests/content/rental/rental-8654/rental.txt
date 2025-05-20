@@ -1,0 +1,25 @@
+Title: Rental 8654
+
+----
+
+Rental-id: 8654
+
+----
+
+Rental-date: 2005-07-29 15:04:27
+
+----
+
+Return-date: 2005-08-07 18:37:27
+
+----
+
+Inventory: page://0vU49ARcujsLIOSu
+
+----
+
+Customer: page://cwgSUWzYLMDqVZzh
+
+----
+
+Uuid: vc4xasJctwzRoaA7

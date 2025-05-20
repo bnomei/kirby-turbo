@@ -1,0 +1,17 @@
+Title: Inv 1281
+
+----
+
+Inventory-id: 1281
+
+----
+
+Film: page://EQSADmhd1pq4x4wf
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: i6qg98nbid8M0atx

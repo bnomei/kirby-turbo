@@ -1,0 +1,25 @@
+Title: Rental 950
+
+----
+
+Rental-id: 950
+
+----
+
+Rental-date: 2005-05-30 16:06:08
+
+----
+
+Return-date: 2005-06-01 11:43:08
+
+----
+
+Inventory: page://e0RT8nh074H5VAXZ
+
+----
+
+Uuid: G6cvxhmIga0w6SDB
+
+----
+
+Customer: page://QhHb9hdgHPArUJss

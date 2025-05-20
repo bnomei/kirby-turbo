@@ -1,0 +1,25 @@
+Title: Rental 5064
+
+----
+
+Rental-id: 5064
+
+----
+
+Rental-date: 2005-07-09 04:38:51
+
+----
+
+Return-date: 2005-07-18 00:33:51
+
+----
+
+Inventory: page://zAPWZFaAAuiOSDHa
+
+----
+
+Uuid: pBLnCLJGp2o8QUDb
+
+----
+
+Customer: page://8819Gek69PVTaJvT

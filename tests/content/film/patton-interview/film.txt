@@ -1,0 +1,47 @@
+Title: PATTON INTERVIEW
+
+----
+
+Actors:
+
+- 'page://S52CrIK06oYgWrwP'
+- 'page://JbsPWnOXBNKX1tM5'
+- 'page://ovAz2jwmaTIz5ph9'
+- 'page://8DAvKBc0CuAdRfXU'
+- 'page://3oaBypMbXEPYhgeK'
+- 'page://q6i5HOIdG8dGz8Im'
+- 'page://isKOKKisNfJh2ta1'
+- 'page://m11q5cdDfIefOEY5'
+- 'page://nVYE704vdPRRS8fI'
+
+----
+
+Film-id: 665
+
+----
+
+Description: A Thrilling Documentary of a Composer And a Secret Agent who must Succumb a Cat in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 175
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Commentaries
+
+----
+
+Uuid: ZRcxw3WRQdNjZuEq
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

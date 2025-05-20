@@ -1,0 +1,25 @@
+Title: Rental 5164
+
+----
+
+Rental-id: 5164
+
+----
+
+Rental-date: 2005-07-09 09:03:14
+
+----
+
+Return-date: 2005-07-14 04:20:14
+
+----
+
+Inventory: page://ZXnBVTwMoxikGa15
+
+----
+
+Uuid: h2eMIHxAbYaZNmJ8
+
+----
+
+Customer: page://HrN99fyzUbUZdiNT

@@ -1,0 +1,21 @@
+Title: Rental 12066
+
+----
+
+Rental-id: 12066
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://XtZFwzOYhXYffoSK
+
+----
+
+Customer: page://YC1uNdmmt4LG2OJc
+
+----
+
+Uuid: s4EreJCB9RxC9jsj

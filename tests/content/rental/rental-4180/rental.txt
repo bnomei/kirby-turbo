@@ -1,0 +1,25 @@
+Title: Rental 4180
+
+----
+
+Rental-id: 4180
+
+----
+
+Rental-date: 2005-07-07 10:23:25
+
+----
+
+Return-date: 2005-07-10 13:18:25
+
+----
+
+Inventory: page://J2GQfSxM2L6V83Ia
+
+----
+
+Uuid: Wh0p7uPYnwusXWVj
+
+----
+
+Customer: page://zr15m47K6VY9URjq

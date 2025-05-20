@@ -1,0 +1,17 @@
+Title: Inv 453
+
+----
+
+Inventory-id: 453
+
+----
+
+Film: page://Z5v5xKmO64LHrdv8
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: NGrgZ8qzS71L9HXP

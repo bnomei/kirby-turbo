@@ -1,0 +1,17 @@
+Title: Inv 1972
+
+----
+
+Inventory-id: 1972
+
+----
+
+Film: page://Ub4ojo390AAS6GUT
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 7o7WXKbEMiDSsBHc

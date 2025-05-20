@@ -1,0 +1,17 @@
+Title: Inv 1624
+
+----
+
+Inventory-id: 1624
+
+----
+
+Film: page://I0EZve9Oa0NkqSpD
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ZNlo4mZPZqX6bOiZ

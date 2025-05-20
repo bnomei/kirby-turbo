@@ -1,0 +1,25 @@
+Title: Rental 13440
+
+----
+
+Rental-id: 13440
+
+----
+
+Rental-date: 2005-08-19 23:42:52
+
+----
+
+Return-date: 2005-08-25 19:19:52
+
+----
+
+Inventory: page://HDlPIJpFFP2NftuL
+
+----
+
+Customer: page://rCrCpCNcHKJui2E7
+
+----
+
+Uuid: ZAwQAbCsiJQRbY8U

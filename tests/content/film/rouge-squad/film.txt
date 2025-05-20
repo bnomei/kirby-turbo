@@ -1,0 +1,42 @@
+Title: ROUGE SQUAD
+
+----
+
+Actors:
+
+- 'page://MokGIRk1MnOR5ecX'
+- 'page://Gsxc5TuqHyoQn1c1'
+- 'page://CBtLT02Rklp5i11L'
+- 'page://vMUybiWmK5EriDRU'
+
+----
+
+Film-id: 746
+
+----
+
+Description: A Awe-Inspiring Drama of a Astronaut And a Frisbee who must Conquer a Mad Scientist in Australia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 118
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: cRgWUGZu2oruoPZV
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

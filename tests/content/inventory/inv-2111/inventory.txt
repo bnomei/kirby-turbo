@@ -1,0 +1,17 @@
+Title: Inv 2111
+
+----
+
+Inventory-id: 2111
+
+----
+
+Film: page://rUbIc6sEBrJjva9Z
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: W5TpbmeB5rO7ferf

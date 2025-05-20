@@ -1,0 +1,17 @@
+Title: Inv 3017
+
+----
+
+Inventory-id: 3017
+
+----
+
+Film: page://Wd6y1x0ScTdzZjcc
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Z3hcHO23TI5YbnOn

@@ -1,0 +1,17 @@
+Title: Inv 3715
+
+----
+
+Inventory-id: 3715
+
+----
+
+Film: page://wRP0xWifgqOiaUfB
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: eD0DgHIusqZ6vFbv

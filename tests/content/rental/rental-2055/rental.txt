@@ -1,0 +1,25 @@
+Title: Rental 2055
+
+----
+
+Rental-id: 2055
+
+----
+
+Rental-date: 2005-06-17 15:27:03
+
+----
+
+Return-date: 2005-06-25 13:44:03
+
+----
+
+Inventory: page://omtXMtkUF2iTnCDF
+
+----
+
+Uuid: ksYpB9TraESNlcXc
+
+----
+
+Customer: page://q4exU1pk14u79lgg

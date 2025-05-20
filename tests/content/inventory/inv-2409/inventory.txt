@@ -1,0 +1,17 @@
+Title: Inv 2409
+
+----
+
+Inventory-id: 2409
+
+----
+
+Film: page://5uYNIT4COgjlGzmK
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: eCRteW5vCO8gXBlH

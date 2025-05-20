@@ -1,0 +1,17 @@
+Title: Inv 1345
+
+----
+
+Inventory-id: 1345
+
+----
+
+Film: page://xop717uobQ0PNzJg
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: zkBRQ0TS9yl1rtng

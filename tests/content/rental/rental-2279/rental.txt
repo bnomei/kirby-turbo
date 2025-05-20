@@ -1,0 +1,25 @@
+Title: Rental 2279
+
+----
+
+Rental-id: 2279
+
+----
+
+Rental-date: 2005-06-18 06:38:22
+
+----
+
+Return-date: 2005-06-27 07:16:22
+
+----
+
+Inventory: page://EuxvX0zbC0OJnSTq
+
+----
+
+Uuid: GKQK19iY9VD3AcFR
+
+----
+
+Customer: page://C4htS1tLHzkKyE5J

@@ -1,0 +1,25 @@
+Title: Rental 6360
+
+----
+
+Rental-id: 6360
+
+----
+
+Rental-date: 2005-07-11 21:07:40
+
+----
+
+Return-date: 2005-07-16 15:11:40
+
+----
+
+Inventory: page://PRayVJ7Ck5zOXMMe
+
+----
+
+Uuid: JaDILCr1qQ1tLkVT
+
+----
+
+Customer: page://e5QOScWwwaP51UiZ

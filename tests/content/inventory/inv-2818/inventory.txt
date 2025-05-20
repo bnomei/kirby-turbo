@@ -1,0 +1,17 @@
+Title: Inv 2818
+
+----
+
+Inventory-id: 2818
+
+----
+
+Film: page://81wJ7zw9EOgn8jgO
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 7HCeuwFEevz1mmEi

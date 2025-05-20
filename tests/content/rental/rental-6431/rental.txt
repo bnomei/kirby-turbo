@@ -1,0 +1,25 @@
+Title: Rental 6431
+
+----
+
+Rental-id: 6431
+
+----
+
+Rental-date: 2005-07-12 00:03:57
+
+----
+
+Return-date: 2005-07-20 03:47:57
+
+----
+
+Inventory: page://kafrIjdT7c00Q1MD
+
+----
+
+Uuid: IxGKyAN10hkW566X
+
+----
+
+Customer: page://rl5FWdN2ozFFNyzY

@@ -1,0 +1,33 @@
+Title: MIKE WAY
+
+----
+
+Customer-id: 403
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MIKE
+
+----
+
+Last-name: WAY
+
+----
+
+Email: MIKE.WAY@sakilacustomer.org
+
+----
+
+Address: page://AbVnoNUJ0wF2PRHA
+
+----
+
+Active: 1
+
+----
+
+Uuid: sNiE3u2o38XV820m

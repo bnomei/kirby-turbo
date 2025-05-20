@@ -1,0 +1,25 @@
+Title: Rental 1632
+
+----
+
+Rental-id: 1632
+
+----
+
+Rental-date: 2005-06-16 08:03:42
+
+----
+
+Return-date: 2005-06-17 03:40:42
+
+----
+
+Inventory: page://5EcLkKXsN1zMQrlQ
+
+----
+
+Uuid: Cv5sbmKZJkn1qZoF
+
+----
+
+Customer: page://cfEQjWDHZTFukeSP

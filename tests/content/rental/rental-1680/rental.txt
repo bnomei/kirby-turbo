@@ -1,0 +1,25 @@
+Title: Rental 1680
+
+----
+
+Rental-id: 1680
+
+----
+
+Rental-date: 2005-06-16 11:17:22
+
+----
+
+Return-date: 2005-06-25 15:55:22
+
+----
+
+Inventory: page://eyQGPLEpsQEC6EVM
+
+----
+
+Uuid: n0MPEjP7D11mpOB0
+
+----
+
+Customer: page://NB8qqTmaJphAOwtJ

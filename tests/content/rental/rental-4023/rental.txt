@@ -1,0 +1,25 @@
+Title: Rental 4023
+
+----
+
+Rental-id: 4023
+
+----
+
+Rental-date: 2005-07-07 01:55:25
+
+----
+
+Return-date: 2005-07-08 02:43:25
+
+----
+
+Inventory: page://8RPuji5hOA7YmQz3
+
+----
+
+Uuid: Mv2zuNPRj12quU4Y
+
+----
+
+Customer: page://fh18zcKIesBiok66

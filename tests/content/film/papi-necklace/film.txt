@@ -1,0 +1,41 @@
+Title: PAPI NECKLACE
+
+----
+
+Actors:
+
+- 'page://MG1O0zMGGcgzh2YX'
+- 'page://DC9iJim4HlVvOiTH'
+- 'page://8sAZxgGEUjJot3JV'
+
+----
+
+Film-id: 656
+
+----
+
+Description: A Fanciful Display of a Car And a Monkey who must Escape a Squirrel in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 128
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: RMIzB06O9VdMXIhm
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

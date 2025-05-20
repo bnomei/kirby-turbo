@@ -1,0 +1,17 @@
+Title: Inv 3549
+
+----
+
+Inventory-id: 3549
+
+----
+
+Film: page://L5POcj41RSMhlI6c
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: li45xGSmuGZ19pSl

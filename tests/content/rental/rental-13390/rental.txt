@@ -1,0 +1,21 @@
+Title: Rental 13390
+
+----
+
+Rental-id: 13390
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://kFXOv9usXXqKxE1z
+
+----
+
+Customer: page://85ovZXEWpqXAx1KN
+
+----
+
+Uuid: k7A5os42YZw5hqEy

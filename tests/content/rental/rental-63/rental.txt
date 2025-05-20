@@ -1,0 +1,25 @@
+Title: Rental 63
+
+----
+
+Rental-id: 63
+
+----
+
+Rental-date: 2005-05-25 09:19:16
+
+----
+
+Return-date: 2005-05-27 04:24:16
+
+----
+
+Inventory: page://hD75kNWfthyvgMoJ
+
+----
+
+Uuid: xwE4jcmap4wfyZDq
+
+----
+
+Customer: page://4AtPAY3CI88EjmxK

@@ -1,0 +1,17 @@
+Title: Inv 521
+
+----
+
+Inventory-id: 521
+
+----
+
+Film: page://iMI1430ry8gA5yc2
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: pRKH3fjSxBpjXf9N

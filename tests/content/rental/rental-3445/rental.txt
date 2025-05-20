@@ -1,0 +1,25 @@
+Title: Rental 3445
+
+----
+
+Rental-id: 3445
+
+----
+
+Rental-date: 2005-06-21 20:40:28
+
+----
+
+Return-date: 2005-06-29 00:47:28
+
+----
+
+Inventory: page://DWliKNFxGvfZ24cI
+
+----
+
+Uuid: t4OuGvhYoofAYfcU
+
+----
+
+Customer: page://DLbUVRHa13C72rZ2

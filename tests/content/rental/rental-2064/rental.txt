@@ -1,0 +1,25 @@
+Title: Rental 2064
+
+----
+
+Rental-id: 2064
+
+----
+
+Rental-date: 2005-06-17 15:57:56
+
+----
+
+Return-date: 2005-06-23 21:04:56
+
+----
+
+Inventory: page://diHyyaK5kgaZikIV
+
+----
+
+Uuid: NDr0ojWe7yaJaGA8
+
+----
+
+Customer: page://qwuyaWIZTC7pwwND

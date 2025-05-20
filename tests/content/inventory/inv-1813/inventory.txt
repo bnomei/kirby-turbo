@@ -1,0 +1,17 @@
+Title: Inv 1813
+
+----
+
+Inventory-id: 1813
+
+----
+
+Film: page://nfxDxtbvsXm2zsGO
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: PyISQp9RwZsP5OFE

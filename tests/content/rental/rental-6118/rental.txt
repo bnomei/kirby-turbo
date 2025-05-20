@@ -1,0 +1,25 @@
+Title: Rental 6118
+
+----
+
+Rental-id: 6118
+
+----
+
+Rental-date: 2005-07-11 07:43:08
+
+----
+
+Return-date: 2005-07-20 03:17:08
+
+----
+
+Inventory: page://15r6xcoO5qKr4n5r
+
+----
+
+Uuid: 1agnRSXyrFd4uq6m
+
+----
+
+Customer: page://xpGeSpKewe1fsRYQ

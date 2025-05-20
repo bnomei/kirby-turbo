@@ -1,0 +1,25 @@
+Title: Rental 1127
+
+----
+
+Rental-id: 1127
+
+----
+
+Rental-date: 2005-05-31 17:45:49
+
+----
+
+Return-date: 2005-06-08 22:41:49
+
+----
+
+Inventory: page://3EEEV8nXUrZUKvUO
+
+----
+
+Uuid: GCFDNmK6te0KAp4o
+
+----
+
+Customer: page://F6pL0bxX1YRyvGAo

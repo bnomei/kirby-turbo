@@ -1,0 +1,25 @@
+Title: Rental 637
+
+----
+
+Rental-id: 637
+
+----
+
+Rental-date: 2005-05-28 18:14:29
+
+----
+
+Return-date: 2005-05-29 23:48:29
+
+----
+
+Inventory: page://LbScyRDJqzbnktFH
+
+----
+
+Uuid: KzHa3OAFFDo8cyGf
+
+----
+
+Customer: page://VWOoBtkgAHj7sget

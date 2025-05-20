@@ -1,0 +1,44 @@
+Title: JUMANJI BLADE
+
+----
+
+Actors:
+
+- 'page://lzPNV2QlqjXMSB7U'
+- 'page://7FlTvfT4DDNge34z'
+- 'page://JeeyeDJ3FmxSMbIy'
+- 'page://lRnQ2IFMyS6K2hRd'
+- 'page://NlhyBSq5UemRMvfg'
+- 'page://f3T5R3qlMgXii7Oj'
+
+----
+
+Film-id: 490
+
+----
+
+Description: A Intrepid Yarn of a Husband And a Womanizer who must Pursue a Mad Scientist in New Orleans
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 121
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: huGAmDq8r7HfOMSX
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

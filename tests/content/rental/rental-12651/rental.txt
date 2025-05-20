@@ -1,0 +1,25 @@
+Title: Rental 12651
+
+----
+
+Rental-id: 12651
+
+----
+
+Rental-date: 2005-08-18 18:36:16
+
+----
+
+Return-date: 2005-08-22 22:01:16
+
+----
+
+Inventory: page://waQd6aHoN1Rz8KsL
+
+----
+
+Customer: page://meRS5ZpTiS6VB9kT
+
+----
+
+Uuid: fOMIwhOn2rY3TmSN

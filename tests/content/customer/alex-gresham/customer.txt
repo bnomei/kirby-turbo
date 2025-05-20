@@ -1,0 +1,33 @@
+Title: ALEX GRESHAM
+
+----
+
+Customer-id: 454
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ALEX
+
+----
+
+Last-name: GRESHAM
+
+----
+
+Email: ALEX.GRESHAM@sakilacustomer.org
+
+----
+
+Address: page://TfAYkvRpVoemRszC
+
+----
+
+Active: 1
+
+----
+
+Uuid: 2QCpyeeQilmvnk6g

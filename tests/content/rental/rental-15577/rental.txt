@@ -1,0 +1,21 @@
+Title: Rental 15577
+
+----
+
+Rental-id: 15577
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://YuTn9urXZcyjKhyE
+
+----
+
+Customer: page://c7lkRFQFPsFgIejg
+
+----
+
+Uuid: bFukfXRfkB1jFYCe

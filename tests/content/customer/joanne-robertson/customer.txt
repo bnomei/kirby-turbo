@@ -1,0 +1,33 @@
+Title: JOANNE ROBERTSON
+
+----
+
+Customer-id: 147
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JOANNE
+
+----
+
+Last-name: ROBERTSON
+
+----
+
+Email: JOANNE.ROBERTSON@sakilacustomer.org
+
+----
+
+Address: page://NhmzyfPI5rE6YhW1
+
+----
+
+Active: 1
+
+----
+
+Uuid: cT1ATboviBoOP1VF

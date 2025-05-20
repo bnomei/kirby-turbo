@@ -1,0 +1,25 @@
+Title: Rental 365
+
+----
+
+Rental-id: 365
+
+----
+
+Rental-date: 2005-05-27 07:31:20
+
+----
+
+Return-date: 2005-06-04 04:46:20
+
+----
+
+Inventory: page://TbkwKli75psfwKZ3
+
+----
+
+Uuid: 018gr85YaxeZ9Gg3
+
+----
+
+Customer: page://W5URxqu7M4t7ujHI

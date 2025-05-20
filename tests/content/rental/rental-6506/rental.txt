@@ -1,0 +1,25 @@
+Title: Rental 6506
+
+----
+
+Rental-id: 6506
+
+----
+
+Rental-date: 2005-07-12 03:28:22
+
+----
+
+Return-date: 2005-07-17 22:43:22
+
+----
+
+Inventory: page://g7C3TXuzn8K9L9pi
+
+----
+
+Uuid: jsgGglfFCBVAYg5u
+
+----
+
+Customer: page://yiLH1F5ptBYYkAUt

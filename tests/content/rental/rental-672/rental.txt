@@ -1,0 +1,25 @@
+Title: Rental 672
+
+----
+
+Rental-id: 672
+
+----
+
+Rental-date: 2005-05-28 22:05:29
+
+----
+
+Return-date: 2005-06-06 02:10:29
+
+----
+
+Inventory: page://vKkVoCsNWkDrLVnC
+
+----
+
+Uuid: gSz0xQ3vqTsS1Ivn
+
+----
+
+Customer: page://2C8Z04rPFee2aFn8

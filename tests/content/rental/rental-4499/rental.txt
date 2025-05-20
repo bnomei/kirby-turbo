@@ -1,0 +1,25 @@
+Title: Rental 4499
+
+----
+
+Rental-id: 4499
+
+----
+
+Rental-date: 2005-07-08 02:08:48
+
+----
+
+Return-date: 2005-07-10 07:06:48
+
+----
+
+Inventory: page://S6HfNpXp1uXGh9X2
+
+----
+
+Uuid: jCaesonTOsYuf7go
+
+----
+
+Customer: page://aR5C6yOEP2AWS3bi

@@ -1,0 +1,25 @@
+Title: Rental 11906
+
+----
+
+Rental-id: 11906
+
+----
+
+Rental-date: 2005-08-17 15:40:46
+
+----
+
+Return-date: 2005-08-20 15:20:46
+
+----
+
+Inventory: page://qlDjtdjwy6olPcz6
+
+----
+
+Customer: page://FHiywQ5Ofsh5PWoq
+
+----
+
+Uuid: N3Pi3j3zvYkvz1hp

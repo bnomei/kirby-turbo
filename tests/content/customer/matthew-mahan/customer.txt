@@ -1,0 +1,33 @@
+Title: MATTHEW MAHAN
+
+----
+
+Customer-id: 323
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: MATTHEW
+
+----
+
+Last-name: MAHAN
+
+----
+
+Email: MATTHEW.MAHAN@sakilacustomer.org
+
+----
+
+Address: page://Tjtx54xEze3PJJIi
+
+----
+
+Active: 1
+
+----
+
+Uuid: Br6nNDFY9PURatbb

@@ -1,0 +1,37 @@
+Title: BRIDE INTRIGUE
+
+----
+
+Actors: - 'page://Ppjj85F3dapvXsi8'
+
+----
+
+Film-id: 97
+
+----
+
+Description: A Epic Tale of a Robot And a Monkey who must Vanquish a Man in New Orleans
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 56
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: rcvjkFSNuD846WP8
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

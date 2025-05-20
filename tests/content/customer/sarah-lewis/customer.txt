@@ -1,0 +1,33 @@
+Title: SARAH LEWIS
+
+----
+
+Customer-id: 23
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: SARAH
+
+----
+
+Last-name: LEWIS
+
+----
+
+Email: SARAH.LEWIS@sakilacustomer.org
+
+----
+
+Address: page://eKUEWCMjUygS9PQT
+
+----
+
+Active: 1
+
+----
+
+Uuid: z6KsbN8IOhSoB7GT

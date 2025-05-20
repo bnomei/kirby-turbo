@@ -1,0 +1,25 @@
+Title: Rental 4580
+
+----
+
+Rental-id: 4580
+
+----
+
+Rental-date: 2005-07-08 06:04:23
+
+----
+
+Return-date: 2005-07-15 05:42:23
+
+----
+
+Inventory: page://LGnKO9IQXWfCtbod
+
+----
+
+Uuid: gdqiTnSWSJQcKNKW
+
+----
+
+Customer: page://aR5C6yOEP2AWS3bi

@@ -1,0 +1,25 @@
+Title: Rental 12047
+
+----
+
+Rental-id: 12047
+
+----
+
+Rental-date: 2005-08-17 20:48:32
+
+----
+
+Return-date: 2005-08-26 00:07:32
+
+----
+
+Inventory: page://zUMT1pxqOpsp3Gk6
+
+----
+
+Customer: page://cRRGmCnzUGugZdVF
+
+----
+
+Uuid: 22WjLPISABZQOyXb

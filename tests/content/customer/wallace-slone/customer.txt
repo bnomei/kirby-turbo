@@ -1,0 +1,33 @@
+Title: WALLACE SLONE
+
+----
+
+Customer-id: 562
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: WALLACE
+
+----
+
+Last-name: SLONE
+
+----
+
+Email: WALLACE.SLONE@sakilacustomer.org
+
+----
+
+Address: page://ApLVWoD2xabKwLtm
+
+----
+
+Active: 1
+
+----
+
+Uuid: dDebWAl7EXyRrJnM

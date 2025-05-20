@@ -1,0 +1,25 @@
+Title: Rental 529
+
+----
+
+Rental-id: 529
+
+----
+
+Rental-date: 2005-05-28 04:34:17
+
+----
+
+Return-date: 2005-05-30 00:35:17
+
+----
+
+Inventory: page://usda1LF8fc2DrQKb
+
+----
+
+Uuid: YvNtqzoCCz3zN2S1
+
+----
+
+Customer: page://NB8qqTmaJphAOwtJ

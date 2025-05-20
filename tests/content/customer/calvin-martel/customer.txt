@@ -1,0 +1,33 @@
+Title: CALVIN MARTEL
+
+----
+
+Customer-id: 453
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CALVIN
+
+----
+
+Last-name: MARTEL
+
+----
+
+Email: CALVIN.MARTEL@sakilacustomer.org
+
+----
+
+Address: page://y9DYDFHc4GMG3vKE
+
+----
+
+Active: 1
+
+----
+
+Uuid: KtdUvW4BiY66VFBy

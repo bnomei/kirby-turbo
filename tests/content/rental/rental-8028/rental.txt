@@ -1,0 +1,25 @@
+Title: Rental 8028
+
+----
+
+Rental-id: 8028
+
+----
+
+Rental-date: 2005-07-28 16:11:15
+
+----
+
+Return-date: 2005-08-05 15:11:15
+
+----
+
+Inventory: page://gdA6z4vMCO6lQs7M
+
+----
+
+Customer: page://JGObmqCrrIzDgkRb
+
+----
+
+Uuid: ihbXEvE5Jc47lIka

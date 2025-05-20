@@ -1,0 +1,17 @@
+Title: Inv 2943
+
+----
+
+Inventory-id: 2943
+
+----
+
+Film: page://6i5lN9tUkEsMBBrH
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: WuCbFXamBgtVUvPx

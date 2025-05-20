@@ -1,0 +1,17 @@
+Title: Inv 2555
+
+----
+
+Inventory-id: 2555
+
+----
+
+Film: page://oWhGPWtWAyxt0NWE
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: loLs3DTU18crT5EP

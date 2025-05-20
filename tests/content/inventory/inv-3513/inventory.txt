@@ -1,0 +1,17 @@
+Title: Inv 3513
+
+----
+
+Inventory-id: 3513
+
+----
+
+Film: page://7dvFKufUCG0jMrqp
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: l4lu2QtCOHqZTj0H

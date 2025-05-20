@@ -1,0 +1,25 @@
+Title: Rental 3373
+
+----
+
+Rental-id: 3373
+
+----
+
+Rental-date: 2005-06-21 13:35:32
+
+----
+
+Return-date: 2005-06-30 12:03:32
+
+----
+
+Inventory: page://6xY5KomRt0tpHWxf
+
+----
+
+Uuid: ZGof0UgbH0HYvwYv
+
+----
+
+Customer: page://W2vSpda0fGwDYgAa

@@ -1,0 +1,25 @@
+Title: Rental 11012
+
+----
+
+Rental-id: 11012
+
+----
+
+Rental-date: 2005-08-02 05:09:42
+
+----
+
+Return-date: 2005-08-05 07:22:42
+
+----
+
+Inventory: page://dgG41EBnl4kip1zf
+
+----
+
+Customer: page://ZE8wStFA2oAHt4TP
+
+----
+
+Uuid: WHdYUz9koC8LtTyb

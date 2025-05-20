@@ -1,0 +1,25 @@
+Title: Rental 2425
+
+----
+
+Rental-id: 2425
+
+----
+
+Rental-date: 2005-06-18 17:37:45
+
+----
+
+Return-date: 2005-06-27 18:40:45
+
+----
+
+Inventory: page://GrJYTK6KYZzjRHHu
+
+----
+
+Uuid: 5milpewZXL9lNJ4M
+
+----
+
+Customer: page://35iZEOLpVXBoxDMB

@@ -1,0 +1,33 @@
+Title: KATIE ELLIOTT
+
+----
+
+Customer-id: 193
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: KATIE
+
+----
+
+Last-name: ELLIOTT
+
+----
+
+Email: KATIE.ELLIOTT@sakilacustomer.org
+
+----
+
+Address: page://ucNWalMjVx1oaeCZ
+
+----
+
+Active: 1
+
+----
+
+Uuid: Ndg2gok9kt3kezoh

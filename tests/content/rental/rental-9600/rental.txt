@@ -1,0 +1,25 @@
+Title: Rental 9600
+
+----
+
+Rental-id: 9600
+
+----
+
+Rental-date: 2005-07-31 03:35:34
+
+----
+
+Return-date: 2005-08-08 22:50:34
+
+----
+
+Inventory: page://szkxhBSJhFLt7AAN
+
+----
+
+Customer: page://EDwVrRHYpmzW6TLc
+
+----
+
+Uuid: MSyi74LGEabmWajd

@@ -1,0 +1,33 @@
+Title: CINDY FISHER
+
+----
+
+Customer-id: 113
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: CINDY
+
+----
+
+Last-name: FISHER
+
+----
+
+Email: CINDY.FISHER@sakilacustomer.org
+
+----
+
+Address: page://QJrwxqgSLVyYTx9G
+
+----
+
+Active: 1
+
+----
+
+Uuid: f9IsYLta6d6VDgIZ

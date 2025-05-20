@@ -1,0 +1,17 @@
+Title: Gandhinagar
+
+----
+
+City-id: 176
+
+----
+
+City: Gandhinagar
+
+----
+
+Country: page://gZf7IokVJwDfjozc
+
+----
+
+Uuid: WGj7NjRvVZ3eIVx0

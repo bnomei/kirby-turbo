@@ -1,0 +1,25 @@
+Title: Rental 2150
+
+----
+
+Rental-id: 2150
+
+----
+
+Rental-date: 2005-06-17 22:50:36
+
+----
+
+Return-date: 2005-06-21 19:33:36
+
+----
+
+Inventory: page://eMGCmgVD26InOaYh
+
+----
+
+Uuid: ljyWB51xZ8vPH1ny
+
+----
+
+Customer: page://vsqmV71uZbhxk7Ld

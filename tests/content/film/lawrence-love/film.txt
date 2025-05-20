@@ -1,0 +1,37 @@
+Title: LAWRENCE LOVE
+
+----
+
+Actors: - 'page://m4qBDyQ4vBdo5EcB'
+
+----
+
+Film-id: 511
+
+----
+
+Description: A Fanciful Yarn of a Database Administrator And a Mad Cow who must Pursue a Womanizer in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 175
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: 7WCQXs9LnFovxfXj
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

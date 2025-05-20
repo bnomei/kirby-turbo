@@ -1,0 +1,17 @@
+Title: Inv 2013
+
+----
+
+Inventory-id: 2013
+
+----
+
+Film: page://TM1OS1axuCzRnxfJ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: iiR3Z2rErsyYTxhA

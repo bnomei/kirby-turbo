@@ -1,0 +1,17 @@
+Title: Inv 1365
+
+----
+
+Inventory-id: 1365
+
+----
+
+Film: page://nRJJF55eLzvB955V
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: WpWehomNY0borIHq

@@ -1,0 +1,25 @@
+Title: Rental 702
+
+----
+
+Rental-id: 702
+
+----
+
+Rental-date: 2005-05-29 02:27:30
+
+----
+
+Return-date: 2005-05-30 01:52:30
+
+----
+
+Inventory: page://1MKd3EJp6WGxOrJB
+
+----
+
+Uuid: 9Mziu620nrTIV0ac
+
+----
+
+Customer: page://Np0KqTwajD8FvaQR

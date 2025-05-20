@@ -1,0 +1,37 @@
+Title: MINORITY KISS
+
+----
+
+Actors: - 'page://G2CRwpBQJFawgg9Y'
+
+----
+
+Film-id: 581
+
+----
+
+Description: A Insightful Display of a Lumberjack And a Sumo Wrestler who must Meet a Man in The Outback
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 59
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: Q4OBFcE00kkrfkZ2
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

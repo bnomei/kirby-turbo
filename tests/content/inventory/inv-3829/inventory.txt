@@ -1,0 +1,17 @@
+Title: Inv 3829
+
+----
+
+Inventory-id: 3829
+
+----
+
+Film: page://2sbg5kEdj60JECRU
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: x08iNu3qIIZxaJPN

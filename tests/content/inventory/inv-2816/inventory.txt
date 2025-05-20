@@ -1,0 +1,17 @@
+Title: Inv 2816
+
+----
+
+Inventory-id: 2816
+
+----
+
+Film: page://XpqKP1d8q1RYw2NO
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: w2Er20ydMglDP9mX

@@ -1,0 +1,17 @@
+Title: Inv 3833
+
+----
+
+Inventory-id: 3833
+
+----
+
+Film: page://OmsmGMpzeyFYAznU
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: VtFGeDO6UAWUT3V8

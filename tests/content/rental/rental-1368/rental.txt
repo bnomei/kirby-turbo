@@ -1,0 +1,25 @@
+Title: Rental 1368
+
+----
+
+Rental-id: 1368
+
+----
+
+Rental-date: 2005-06-15 14:27:47
+
+----
+
+Return-date: 2005-06-23 18:07:47
+
+----
+
+Inventory: page://CVypacayX2cJOYv5
+
+----
+
+Uuid: yKH9ENDS4FIKTV5K
+
+----
+
+Customer: page://Y16ImlJTc5Q7Tqiw

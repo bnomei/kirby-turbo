@@ -1,0 +1,25 @@
+Title: Rental 9360
+
+----
+
+Rental-id: 9360
+
+----
+
+Rental-date: 2005-07-30 18:39:43
+
+----
+
+Return-date: 2005-08-04 22:41:43
+
+----
+
+Inventory: page://ZGkbEu4bkXm6hWqe
+
+----
+
+Customer: page://ZYRwcsL569LnKKWi
+
+----
+
+Uuid: eu4eHDjdzPP942ig

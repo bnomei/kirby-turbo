@@ -1,0 +1,25 @@
+Title: Rental 9186
+
+----
+
+Rental-id: 9186
+
+----
+
+Rental-date: 2005-07-30 12:13:48
+
+----
+
+Return-date: 2005-07-31 11:59:48
+
+----
+
+Inventory: page://KXnmS4BQzqgxpNYT
+
+----
+
+Customer: page://B4FRgaimwSexVazW
+
+----
+
+Uuid: l77b62gqknhz7L6l

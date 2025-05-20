@@ -1,0 +1,17 @@
+Title: Inv 1036
+
+----
+
+Inventory-id: 1036
+
+----
+
+Film: page://MRli9sa1iLQi2MPV
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: HeyE9BMrHQxpb9F2

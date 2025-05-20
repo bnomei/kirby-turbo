@@ -1,0 +1,17 @@
+Title: Inv 536
+
+----
+
+Inventory-id: 536
+
+----
+
+Film: page://c5GOatnlFKpH3g65
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Z7TDB6ypqGV7ILhH

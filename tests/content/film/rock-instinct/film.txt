@@ -1,0 +1,46 @@
+Title: ROCK INSTINCT
+
+----
+
+Actors:
+
+- 'page://gxNf949gkwS5ks3A'
+- 'page://JR0gbBMz8ekt1gGa'
+- 'page://EHffowmlWDEyJ7Ij'
+- 'page://lRnQ2IFMyS6K2hRd'
+- 'page://9NAEa97MvjisWbzN'
+- 'page://rTdvG0vGkNN8iJpQ'
+- 'page://X3dUYAbt0AiREsIH'
+- 'page://NRH2DcjJcFwzgjEd'
+
+----
+
+Film-id: 737
+
+----
+
+Description: A Astounding Character Study of a Robot And a Moose who must Overcome a Astronaut in Ancient India
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 102
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: A0x72lq2oNQfxTVB
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

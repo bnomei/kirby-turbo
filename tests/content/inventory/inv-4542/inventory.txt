@@ -1,0 +1,17 @@
+Title: Inv 4542
+
+----
+
+Inventory-id: 4542
+
+----
+
+Film: page://ZXTM7tsCkXieNdvb
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 0bRwxoYsRpk6keuf

@@ -1,0 +1,25 @@
+Title: Rental 10532
+
+----
+
+Rental-id: 10532
+
+----
+
+Rental-date: 2005-08-01 12:06:35
+
+----
+
+Return-date: 2005-08-07 16:04:35
+
+----
+
+Inventory: page://LUnREA7JMltzhFHn
+
+----
+
+Customer: page://bHbo1PFIkaygpNBz
+
+----
+
+Uuid: gvEg1jRb1MlLRDSG

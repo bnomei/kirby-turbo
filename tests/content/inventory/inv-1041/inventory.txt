@@ -1,0 +1,17 @@
+Title: Inv 1041
+
+----
+
+Inventory-id: 1041
+
+----
+
+Film: page://lcEu05g561SkYnmL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: s7m3me6dM0XHkMul

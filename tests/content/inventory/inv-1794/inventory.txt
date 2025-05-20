@@ -1,0 +1,17 @@
+Title: Inv 1794
+
+----
+
+Inventory-id: 1794
+
+----
+
+Film: page://0AzRccnaJXQEYyuS
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: rctkU69mOaCJfKxD

@@ -1,0 +1,25 @@
+Title: Rental 14922
+
+----
+
+Rental-id: 14922
+
+----
+
+Rental-date: 2005-08-22 05:13:05
+
+----
+
+Return-date: 2005-08-30 04:59:05
+
+----
+
+Inventory: page://bhsl7aVp8AotNuBU
+
+----
+
+Customer: page://NRpZQOvTU2QBVcZc
+
+----
+
+Uuid: C4ZYlMWJKa6ngye9

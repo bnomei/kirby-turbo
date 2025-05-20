@@ -1,0 +1,25 @@
+Title: Rental 1102
+
+----
+
+Rental-id: 1102
+
+----
+
+Rental-date: 2005-05-31 14:20:29
+
+----
+
+Return-date: 2005-06-04 17:38:29
+
+----
+
+Inventory: page://p29S4uFoQK7sFeK9
+
+----
+
+Uuid: lnqvbiThUkBDVjBD
+
+----
+
+Customer: page://j8uyjiPeUtgzKjW3

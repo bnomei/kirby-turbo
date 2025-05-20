@@ -1,0 +1,25 @@
+Title: Rental 4802
+
+----
+
+Rental-id: 4802
+
+----
+
+Rental-date: 2005-07-08 16:55:17
+
+----
+
+Return-date: 2005-07-15 19:34:17
+
+----
+
+Inventory: page://hZ3K7WWbPAHkBpVC
+
+----
+
+Uuid: 3rAVyAlM20qESAvE
+
+----
+
+Customer: page://dDebWAl7EXyRrJnM

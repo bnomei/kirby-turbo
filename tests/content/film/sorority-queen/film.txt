@@ -1,0 +1,42 @@
+Title: SORORITY QUEEN
+
+----
+
+Actors:
+
+- 'page://jG0aUFRzU1eFlO8R'
+- 'page://c9RVWbTiHNxSUsUJ'
+- 'page://K0t8PMh78EXVZHC5'
+- 'page://o0jpPkMBKXg668DK'
+
+----
+
+Film-id: 821
+
+----
+
+Description: A Fast-Paced Display of a Squirrel And a Composer who must Fight a Forensic Psychologist in A Jet Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 184
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: XXn9gIwk15jLHu0o
+
+----
+
+Categories: - 'page://1zSlwtq2IyzVh9Hs'

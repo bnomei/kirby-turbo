@@ -1,0 +1,17 @@
+Title: Inv 3790
+
+----
+
+Inventory-id: 3790
+
+----
+
+Film: page://nVsp8NsJoTTROYU1
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 7kcJEhn1uXf5eshP

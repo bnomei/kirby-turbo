@@ -1,0 +1,17 @@
+Title: Inv 2980
+
+----
+
+Inventory-id: 2980
+
+----
+
+Film: page://r8LaBmm77NP8V866
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: XljVKRqss1YzIXyT

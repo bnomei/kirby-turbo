@@ -1,0 +1,25 @@
+Title: Rental 8345
+
+----
+
+Rental-id: 8345
+
+----
+
+Rental-date: 2005-07-29 04:47:37
+
+----
+
+Return-date: 2005-08-02 07:25:37
+
+----
+
+Inventory: page://Bo8jLgEajo6eL66J
+
+----
+
+Customer: page://JdfsXlrnw5D9Ezlr
+
+----
+
+Uuid: Hxbe0vbGpXjx7GSD

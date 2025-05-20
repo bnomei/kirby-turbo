@@ -1,0 +1,25 @@
+Title: Rental 8098
+
+----
+
+Rental-id: 8098
+
+----
+
+Rental-date: 2005-07-28 18:34:20
+
+----
+
+Return-date: 2005-07-31 19:07:20
+
+----
+
+Inventory: page://DqPURRvITSsRBbh3
+
+----
+
+Customer: page://uE84jSPn6fUxfq6A
+
+----
+
+Uuid: OtBWfwSviw1AiEo0

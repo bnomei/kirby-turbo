@@ -1,0 +1,17 @@
+Title: Inv 2020
+
+----
+
+Inventory-id: 2020
+
+----
+
+Film: page://d9QYrciSHAxHU0xI
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: CVypacayX2cJOYv5

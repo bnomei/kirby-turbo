@@ -1,0 +1,33 @@
+Title: RAUL FORTIER
+
+----
+
+Customer-id: 509
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: RAUL
+
+----
+
+Last-name: FORTIER
+
+----
+
+Email: RAUL.FORTIER@sakilacustomer.org
+
+----
+
+Address: page://RYAjFehhsMpxmTfZ
+
+----
+
+Active: 1
+
+----
+
+Uuid: 44KWZQ5iv6BSDhBb

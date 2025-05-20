@@ -1,0 +1,17 @@
+Title: Inv 438
+
+----
+
+Inventory-id: 438
+
+----
+
+Film: page://rcvjkFSNuD846WP8
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 6Y6bvkUWtF3oo9E9

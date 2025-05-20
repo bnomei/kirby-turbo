@@ -1,0 +1,17 @@
+Title: Inv 3536
+
+----
+
+Inventory-id: 3536
+
+----
+
+Film: page://n7uW2rvQTttEKsGS
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 2nXS5L1i8rsKdYJ5

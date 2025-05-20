@@ -1,0 +1,17 @@
+Title: Inv 2036
+
+----
+
+Inventory-id: 2036
+
+----
+
+Film: page://6O0xV5RIQ9ud4tXV
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: SRYmtm7M8Rr76gYq

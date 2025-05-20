@@ -1,0 +1,17 @@
+Title: Inv 4579
+
+----
+
+Inventory-id: 4579
+
+----
+
+Film: page://wSlDJdcvEJstzSAH
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: e1OviY0VsYKTRwfy

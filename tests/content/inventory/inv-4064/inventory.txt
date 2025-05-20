@@ -1,0 +1,17 @@
+Title: Inv 4064
+
+----
+
+Inventory-id: 4064
+
+----
+
+Film: page://88FHcDfHWkcux8m9
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: CyIxa8mePEHD0yU3

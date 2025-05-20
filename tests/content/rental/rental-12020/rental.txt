@@ -1,0 +1,25 @@
+Title: Rental 12020
+
+----
+
+Rental-id: 12020
+
+----
+
+Rental-date: 2005-08-17 19:50:33
+
+----
+
+Return-date: 2005-08-25 17:54:33
+
+----
+
+Inventory: page://MXXNfswWU1LljzPk
+
+----
+
+Customer: page://mAEI18ycC75jSjfq
+
+----
+
+Uuid: D54qXXPH5Vq88OeD

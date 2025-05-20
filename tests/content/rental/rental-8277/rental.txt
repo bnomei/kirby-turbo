@@ -1,0 +1,25 @@
+Title: Rental 8277
+
+----
+
+Rental-id: 8277
+
+----
+
+Rental-date: 2005-07-29 01:38:53
+
+----
+
+Return-date: 2005-08-04 07:09:53
+
+----
+
+Inventory: page://Od1pFDBrRBpdQ2FZ
+
+----
+
+Customer: page://xpGeSpKewe1fsRYQ
+
+----
+
+Uuid: xUKP3ZFUqG6jPXdI

@@ -1,0 +1,17 @@
+Title: Inv 1749
+
+----
+
+Inventory-id: 1749
+
+----
+
+Film: page://4oLw6cHLQyLUVcz4
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: RgbZ6bjhnuXTTERh

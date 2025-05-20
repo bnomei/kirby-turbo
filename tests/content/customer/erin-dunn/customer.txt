@@ -1,0 +1,33 @@
+Title: ERIN DUNN
+
+----
+
+Customer-id: 160
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ERIN
+
+----
+
+Last-name: DUNN
+
+----
+
+Email: ERIN.DUNN@sakilacustomer.org
+
+----
+
+Address: page://3Nu6pVEirznVO8qu
+
+----
+
+Active: 1
+
+----
+
+Uuid: r0DHyZYSnncl7RM1

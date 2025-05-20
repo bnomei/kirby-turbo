@@ -1,0 +1,25 @@
+Title: Rental 734
+
+----
+
+Rental-id: 734
+
+----
+
+Rental-date: 2005-05-29 07:38:52
+
+----
+
+Return-date: 2005-06-03 10:17:52
+
+----
+
+Inventory: page://F5awyDYzvODZbSYE
+
+----
+
+Uuid: mut9p014Q8x1bHSY
+
+----
+
+Customer: page://gyF67nPwxWbRqkYZ

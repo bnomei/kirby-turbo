@@ -1,0 +1,17 @@
+Title: Inv 4500
+
+----
+
+Inventory-id: 4500
+
+----
+
+Film: page://h96BO6lDsQ8BHOhV
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 4R5uP1IAOecGAQax

@@ -1,0 +1,25 @@
+Title: Rental 5018
+
+----
+
+Rental-id: 5018
+
+----
+
+Rental-date: 2005-07-09 02:01:05
+
+----
+
+Return-date: 2005-07-10 04:09:05
+
+----
+
+Inventory: page://Qgyw2Dh4XpDh0o36
+
+----
+
+Uuid: dVl7qasrpHHLaW8E
+
+----
+
+Customer: page://ySJHEKSdmqJXUMT3

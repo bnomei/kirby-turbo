@@ -1,0 +1,17 @@
+Title: Inv 3526
+
+----
+
+Inventory-id: 3526
+
+----
+
+Film: page://Ynj7XwfJrRqE5Bc6
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: kDYmrgSOjUUvHCHU

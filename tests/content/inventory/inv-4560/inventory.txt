@@ -1,0 +1,17 @@
+Title: Inv 4560
+
+----
+
+Inventory-id: 4560
+
+----
+
+Film: page://RcOr8ZCcMtDQ1SoL
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: nruz6jXoHX28sh8g

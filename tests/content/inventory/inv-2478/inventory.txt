@@ -1,0 +1,17 @@
+Title: Inv 2478
+
+----
+
+Inventory-id: 2478
+
+----
+
+Film: page://bpr1L3LxoUOe4iKP
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: iM9fjYudrMXKQgPh

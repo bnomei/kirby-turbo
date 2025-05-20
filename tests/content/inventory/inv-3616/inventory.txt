@@ -1,0 +1,17 @@
+Title: Inv 3616
+
+----
+
+Inventory-id: 3616
+
+----
+
+Film: page://8fqUuJnM1g7cWwBp
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: TOOiSqgmhkjAZZFt

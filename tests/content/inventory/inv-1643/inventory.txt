@@ -1,0 +1,17 @@
+Title: Inv 1643
+
+----
+
+Inventory-id: 1643
+
+----
+
+Film: page://w9l9UyxtC5FkGl4s
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: aiRCKEa9CNqZESAo

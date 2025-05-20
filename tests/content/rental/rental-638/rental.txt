@@ -1,0 +1,25 @@
+Title: Rental 638
+
+----
+
+Rental-id: 638
+
+----
+
+Rental-date: 2005-05-28 18:24:43
+
+----
+
+Return-date: 2005-06-02 19:03:43
+
+----
+
+Inventory: page://kcvyQFcm4gXFnGM5
+
+----
+
+Uuid: 1PfA8iYBbE24OAdr
+
+----
+
+Customer: page://bw4m0tZ1D4xQh5s8

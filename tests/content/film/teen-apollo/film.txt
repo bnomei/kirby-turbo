@@ -1,0 +1,43 @@
+Title: TEEN APOLLO
+
+----
+
+Actors:
+
+- 'page://gxNf949gkwS5ks3A'
+- 'page://JeeyeDJ3FmxSMbIy'
+- 'page://6YS8rkTURbcXafoi'
+- 'page://s69sG8lNdmqtvA7p'
+- 'page://K0t8PMh78EXVZHC5'
+
+----
+
+Film-id: 878
+
+----
+
+Description: A Awe-Inspiring Drama of a Dog And a Man who must Escape a Robot in A Shark Tank
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 74
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: HKg3NNjXThfALrX0
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

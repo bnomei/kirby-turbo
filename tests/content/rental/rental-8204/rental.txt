@@ -1,0 +1,25 @@
+Title: Rental 8204
+
+----
+
+Rental-id: 8204
+
+----
+
+Rental-date: 2005-07-28 23:18:29
+
+----
+
+Return-date: 2005-08-02 04:49:29
+
+----
+
+Inventory: page://gnxEWb4wcx9F2rBi
+
+----
+
+Customer: page://YZl5AjKSw8qG2iij
+
+----
+
+Uuid: vAaXkzhwBEMD7Mzh

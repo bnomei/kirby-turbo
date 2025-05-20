@@ -1,0 +1,25 @@
+Title: Rental 11437
+
+----
+
+Rental-id: 11437
+
+----
+
+Rental-date: 2005-08-02 20:20:06
+
+----
+
+Return-date: 2005-08-05 22:17:06
+
+----
+
+Inventory: page://n7l45LbqzWIacw8k
+
+----
+
+Customer: page://hiI1XI5RUVwa5yqD
+
+----
+
+Uuid: H57QxEegSjoE31Oy

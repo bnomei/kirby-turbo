@@ -1,0 +1,21 @@
+Title: JUDE CRUISE
+
+----
+
+Actors: []
+
+----
+
+Actor-id: 57
+
+----
+
+First-name: JUDE
+
+----
+
+Last-name: CRUISE
+
+----
+
+Uuid: 9NAEa97MvjisWbzN

@@ -1,0 +1,17 @@
+Title: Inv 2493
+
+----
+
+Inventory-id: 2493
+
+----
+
+Film: page://wVJJOiHKbMUefRpc
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: qZzylXKpk4OY1ErB

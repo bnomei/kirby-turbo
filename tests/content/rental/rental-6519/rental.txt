@@ -1,0 +1,25 @@
+Title: Rental 6519
+
+----
+
+Rental-id: 6519
+
+----
+
+Rental-date: 2005-07-12 04:00:36
+
+----
+
+Return-date: 2005-07-19 01:15:36
+
+----
+
+Inventory: page://wfeB2fnCB7Nb1rZf
+
+----
+
+Uuid: xkjhq5pPbNSjkjoP
+
+----
+
+Customer: page://I6RvfHo1Bz3UuSTP

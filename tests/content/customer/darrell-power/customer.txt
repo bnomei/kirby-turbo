@@ -1,0 +1,33 @@
+Title: DARRELL POWER
+
+----
+
+Customer-id: 463
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: DARRELL
+
+----
+
+Last-name: POWER
+
+----
+
+Email: DARRELL.POWER@sakilacustomer.org
+
+----
+
+Address: page://59J8QDcLb4bYGdGU
+
+----
+
+Active: 1
+
+----
+
+Uuid: zhBBNcqh1xiZ57GZ

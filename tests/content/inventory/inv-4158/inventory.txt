@@ -1,0 +1,17 @@
+Title: Inv 4158
+
+----
+
+Inventory-id: 4158
+
+----
+
+Film: page://VZd0eAzhXfIzM7p4
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 0iXUtq080jY36TDP

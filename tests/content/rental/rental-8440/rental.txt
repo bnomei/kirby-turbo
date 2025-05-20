@@ -1,0 +1,25 @@
+Title: Rental 8440
+
+----
+
+Rental-id: 8440
+
+----
+
+Rental-date: 2005-07-29 07:31:26
+
+----
+
+Return-date: 2005-08-04 07:04:26
+
+----
+
+Inventory: page://jejz1FZzRpHl5cvT
+
+----
+
+Customer: page://pxFnJpraXIkoHiiZ
+
+----
+
+Uuid: PU7ZBTxsey9cBxse

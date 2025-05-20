@@ -1,0 +1,25 @@
+Title: Rental 1077
+
+----
+
+Rental-id: 1077
+
+----
+
+Rental-date: 2005-05-31 10:22:54
+
+----
+
+Return-date: 2005-06-02 12:21:54
+
+----
+
+Inventory: page://JsGvXihvi6UkvAZf
+
+----
+
+Uuid: 2gPGZsrImlsy3SUx
+
+----
+
+Customer: page://uQ3yoFTPxzlyQ9oP

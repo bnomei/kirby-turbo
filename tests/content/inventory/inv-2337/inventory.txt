@@ -1,0 +1,17 @@
+Title: Inv 2337
+
+----
+
+Inventory-id: 2337
+
+----
+
+Film: page://YCALAGTaLl7Qy6Lg
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: vuNmeLuMS4TAKxLC

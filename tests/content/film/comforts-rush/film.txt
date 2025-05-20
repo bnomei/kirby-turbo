@@ -1,0 +1,43 @@
+Title: COMFORTS RUSH
+
+----
+
+Actors:
+
+- 'page://3BcvBP3gfacEDPsU'
+- 'page://nfzjlyLmEQ6Q1S80'
+- 'page://nGhJyQbze3rAAH9v'
+- 'page://HBk8OpEyVf68VCvH'
+- 'page://IUEdThBjLk8TNUwy'
+
+----
+
+Film-id: 169
+
+----
+
+Description: A Unbelieveable Panorama of a Pioneer And a Husband who must Meet a Mad Cow in An Abandoned Mine Shaft
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 76
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: YudTZAeInv8XFQ5C
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

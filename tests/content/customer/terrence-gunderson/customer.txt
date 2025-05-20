@@ -1,0 +1,33 @@
+Title: TERRENCE GUNDERSON
+
+----
+
+Customer-id: 595
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: TERRENCE
+
+----
+
+Last-name: GUNDERSON
+
+----
+
+Email: TERRENCE.GUNDERSON@sakilacustomer.org
+
+----
+
+Address: page://hzaAc9h31V2s8nAB
+
+----
+
+Active: 1
+
+----
+
+Uuid: dAwe6HV7cqMe4xEm

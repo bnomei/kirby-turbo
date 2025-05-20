@@ -1,0 +1,25 @@
+Title: Rental 4840
+
+----
+
+Rental-id: 4840
+
+----
+
+Rental-date: 2005-07-08 18:18:16
+
+----
+
+Return-date: 2005-07-16 14:59:16
+
+----
+
+Inventory: page://s7zjyT9KnLuhikNl
+
+----
+
+Uuid: LmEbcI5kMsXTpLCX
+
+----
+
+Customer: page://9bytxFo8pm9kA4Nc

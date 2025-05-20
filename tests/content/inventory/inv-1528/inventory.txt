@@ -1,0 +1,17 @@
+Title: Inv 1528
+
+----
+
+Inventory-id: 1528
+
+----
+
+Film: page://KwgLWF2jeDeGSp6R
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: obK8dQJj0oqKeIHo

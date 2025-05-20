@@ -1,0 +1,17 @@
+Title: Inv 3654
+
+----
+
+Inventory-id: 3654
+
+----
+
+Film: page://l8i9ReOs1BxdlzGc
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 35rmm2cLjuoPb0Tb

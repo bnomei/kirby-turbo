@@ -1,0 +1,43 @@
+Title: DIVINE RESURRECTION
+
+----
+
+Actors:
+
+- 'page://EOOflmfeZlmBOGUJ'
+- 'page://9zoYPXEbxK6liKqc'
+- 'page://H5yhLtWBsWi35xuK'
+- 'page://fpycclHxIOPEPbuu'
+- 'page://sDEWocF2a3nQjJMo'
+
+----
+
+Film-id: 236
+
+----
+
+Description: A Boring Character Study of a Man And a Womanizer who must Succumb a Teacher in An Abandoned Amusement Park
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 100
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: uwgrdBpdfZ9uRtKs
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

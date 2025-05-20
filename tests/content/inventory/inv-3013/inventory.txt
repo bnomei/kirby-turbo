@@ -1,0 +1,17 @@
+Title: Inv 3013
+
+----
+
+Inventory-id: 3013
+
+----
+
+Film: page://CmDa2gY3RvcHtsBZ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 15r6xcoO5qKr4n5r

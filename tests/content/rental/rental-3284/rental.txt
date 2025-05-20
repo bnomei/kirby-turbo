@@ -1,0 +1,25 @@
+Title: Rental 3284
+
+----
+
+Rental-id: 3284
+
+----
+
+Rental-date: 2005-06-21 06:24:45
+
+----
+
+Return-date: 2005-06-28 03:28:45
+
+----
+
+Inventory: page://Md0inULy6WswLddR
+
+----
+
+Uuid: INJJi5IIIUc760eg
+
+----
+
+Customer: page://XT1tDVBbJppqjfak

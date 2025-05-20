@@ -1,0 +1,25 @@
+Title: Rental 490
+
+----
+
+Rental-id: 490
+
+----
+
+Rental-date: 2005-05-28 00:09:56
+
+----
+
+Return-date: 2005-05-30 22:32:56
+
+----
+
+Inventory: page://6hIbtiEBeb3Iaaan
+
+----
+
+Uuid: MbtHZANHJDirlIoh
+
+----
+
+Customer: page://mwfSblMIE7KuBiux

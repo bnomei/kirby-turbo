@@ -1,0 +1,17 @@
+Title: Inv 842
+
+----
+
+Inventory-id: 842
+
+----
+
+Film: page://hTvm7SDwmXNti9YK
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: MjtX9Zg6gfXIa5Ih

@@ -1,0 +1,25 @@
+Title: Rental 9122
+
+----
+
+Rental-id: 9122
+
+----
+
+Rental-date: 2005-07-30 09:36:52
+
+----
+
+Return-date: 2005-08-05 13:20:52
+
+----
+
+Inventory: page://pXKuooOLcbyeAILG
+
+----
+
+Customer: page://qwoOdpywLcCQ6lEX
+
+----
+
+Uuid: asD0TeOyuQ1ki2b9

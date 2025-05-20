@@ -1,0 +1,25 @@
+Title: Rental 2021
+
+----
+
+Rental-id: 2021
+
+----
+
+Rental-date: 2005-06-17 12:41:18
+
+----
+
+Return-date: 2005-06-23 17:17:18
+
+----
+
+Inventory: page://hYwvP86QBAthTPpn
+
+----
+
+Uuid: 1hv0sRNgynxqqyoa
+
+----
+
+Customer: page://cfEQjWDHZTFukeSP

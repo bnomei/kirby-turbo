@@ -1,0 +1,33 @@
+Title: LUIS YANEZ
+
+----
+
+Customer-id: 402
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: LUIS
+
+----
+
+Last-name: YANEZ
+
+----
+
+Email: LUIS.YANEZ@sakilacustomer.org
+
+----
+
+Address: page://JTSAK2rMbFYxt4ob
+
+----
+
+Active: 1
+
+----
+
+Uuid: MHsTo5Inth1qIcsX

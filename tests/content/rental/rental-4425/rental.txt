@@ -1,0 +1,25 @@
+Title: Rental 4425
+
+----
+
+Rental-id: 4425
+
+----
+
+Rental-date: 2005-07-07 22:22:44
+
+----
+
+Return-date: 2005-07-08 22:23:44
+
+----
+
+Inventory: page://LXnzPUPL1hEDGnz2
+
+----
+
+Uuid: TeatOflebAN6QPkG
+
+----
+
+Customer: page://hSOBI3AqQMwJph8C

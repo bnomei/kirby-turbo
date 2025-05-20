@@ -1,0 +1,25 @@
+Title: Rental 11621
+
+----
+
+Rental-id: 11621
+
+----
+
+Rental-date: 2005-08-17 04:13:45
+
+----
+
+Return-date: 2005-08-26 01:00:45
+
+----
+
+Inventory: page://McE6pFvxMGzMc9Rh
+
+----
+
+Customer: page://6JTzEhgDMKDUF6HS
+
+----
+
+Uuid: 1tCwvQ8jK7mVaV9R

@@ -1,0 +1,41 @@
+Title: PANIC CLUB
+
+----
+
+Actors:
+
+- 'page://huljhPJQohi6UE64'
+- 'page://r6UF6pUyhmwAPzIH'
+- 'page://yg3e89enY7SGtRB6'
+
+----
+
+Film-id: 653
+
+----
+
+Description: A Fanciful Display of a Teacher And a Crocodile who must Succumb a Girl in A Baloon
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 102
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: r8LaBmm77NP8V866
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

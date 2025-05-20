@@ -1,0 +1,17 @@
+Title: Inv 2708
+
+----
+
+Inventory-id: 2708
+
+----
+
+Film: page://HQzGOUDVSPRHFfte
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: E8a2tlD3JuDKAaK1

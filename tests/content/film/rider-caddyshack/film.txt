@@ -1,0 +1,47 @@
+Title: RIDER CADDYSHACK
+
+----
+
+Actors:
+
+- 'page://xbVuFnPKikNsqVkK'
+- 'page://NmIbTpy4ZSHrHfnI'
+- 'page://u0N0ozPCYMgg4oo9'
+- 'page://nx1fXkDUW4gS66DW'
+- 'page://isKOKKisNfJh2ta1'
+- 'page://o0jpPkMBKXg668DK'
+- 'page://ohgPd8XBH6s5Q55J'
+- 'page://jSbKN9X4MDWI1G5U'
+- 'page://WNZ5mNUGrC10JaZI'
+
+----
+
+Film-id: 729
+
+----
+
+Description: A Taut Reflection of a Monkey And a Womanizer who must Chase a Moose in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 177
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: yMSGzTIZGNWC9Guw
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

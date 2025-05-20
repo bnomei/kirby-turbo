@@ -1,0 +1,25 @@
+Title: Rental 6516
+
+----
+
+Rental-id: 6516
+
+----
+
+Rental-date: 2005-07-12 03:51:54
+
+----
+
+Return-date: 2005-07-14 03:41:54
+
+----
+
+Inventory: page://Xfs1Oqu03o4Dlb4e
+
+----
+
+Uuid: TiXapLmEHTbV1bMu
+
+----
+
+Customer: page://nUS9IDqP0XmLpG9F

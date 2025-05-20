@@ -1,0 +1,25 @@
+Title: Rental 7598
+
+----
+
+Rental-id: 7598
+
+----
+
+Rental-date: 2005-07-27 23:36:01
+
+----
+
+Return-date: 2005-07-29 23:35:01
+
+----
+
+Inventory: page://DTF1P0cTif51JZBS
+
+----
+
+Customer: page://GsCMla3dLxvFaycH
+
+----
+
+Uuid: J32D8iPMOduJuEif

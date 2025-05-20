@@ -1,0 +1,33 @@
+Title: BOBBY BOUDREAU
+
+----
+
+Customer-id: 381
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: BOBBY
+
+----
+
+Last-name: BOUDREAU
+
+----
+
+Email: BOBBY.BOUDREAU@sakilacustomer.org
+
+----
+
+Address: page://lcXu0iIxNKClLg7r
+
+----
+
+Active: 1
+
+----
+
+Uuid: gKmpQHO21X5bYTQe

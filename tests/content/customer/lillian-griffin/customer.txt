@@ -1,0 +1,33 @@
+Title: LILLIAN GRIFFIN
+
+----
+
+Customer-id: 98
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: LILLIAN
+
+----
+
+Last-name: GRIFFIN
+
+----
+
+Email: LILLIAN.GRIFFIN@sakilacustomer.org
+
+----
+
+Address: page://t3aGoegNrmYvokLc
+
+----
+
+Active: 1
+
+----
+
+Uuid: raqSilMta8sVjmOt

@@ -1,0 +1,33 @@
+Title: CRYSTAL FORD
+
+----
+
+Customer-id: 102
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CRYSTAL
+
+----
+
+Last-name: FORD
+
+----
+
+Email: CRYSTAL.FORD@sakilacustomer.org
+
+----
+
+Address: page://JcTS9ZyxwHtH9Dzh
+
+----
+
+Active: 1
+
+----
+
+Uuid: 2XFuHwmZmBm0kuQs

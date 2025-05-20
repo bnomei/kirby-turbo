@@ -1,0 +1,17 @@
+Title: Inv 2070
+
+----
+
+Inventory-id: 2070
+
+----
+
+Film: page://0kAxlJqgdsNuwLSJ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: kDddTyf92ETYh3z7

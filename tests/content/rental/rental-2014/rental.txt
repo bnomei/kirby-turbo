@@ -1,0 +1,25 @@
+Title: Rental 2014
+
+----
+
+Rental-id: 2014
+
+----
+
+Rental-date: 2005-06-17 12:03:28
+
+----
+
+Return-date: 2005-06-25 16:00:28
+
+----
+
+Inventory: page://8gfUsyoMOY7jJRDV
+
+----
+
+Uuid: 7SUlHdCu4AueESVD
+
+----
+
+Customer: page://ZMPHt1kBgzua3Tmb

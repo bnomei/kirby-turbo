@@ -1,0 +1,25 @@
+Title: Rental 5103
+
+----
+
+Rental-id: 5103
+
+----
+
+Rental-date: 2005-07-09 06:34:40
+
+----
+
+Return-date: 2005-07-10 03:44:40
+
+----
+
+Inventory: page://RcVa8JG24WmaApqr
+
+----
+
+Uuid: QNf1qtvvNMeWNFqY
+
+----
+
+Customer: page://C7Yyvdwc8g6atULR

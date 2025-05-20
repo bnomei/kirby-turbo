@@ -1,0 +1,33 @@
+Title: NORMA GONZALES
+
+----
+
+Customer-id: 94
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: NORMA
+
+----
+
+Last-name: GONZALES
+
+----
+
+Email: NORMA.GONZALES@sakilacustomer.org
+
+----
+
+Address: page://K5fCE4A4VxUSWF1q
+
+----
+
+Active: 1
+
+----
+
+Uuid: pOTTT1NDQCsreRQz

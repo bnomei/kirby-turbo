@@ -1,0 +1,33 @@
+Title: ROSEMARY SCHMIDT
+
+----
+
+Customer-id: 204
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ROSEMARY
+
+----
+
+Last-name: SCHMIDT
+
+----
+
+Email: ROSEMARY.SCHMIDT@sakilacustomer.org
+
+----
+
+Address: page://LcAQqiqsQNNuOSQ0
+
+----
+
+Active: 1
+
+----
+
+Uuid: EHG1KPde4Qz7eHkw

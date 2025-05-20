@@ -1,0 +1,25 @@
+Title: Rental 3223
+
+----
+
+Rental-id: 3223
+
+----
+
+Rental-date: 2005-06-21 02:06:45
+
+----
+
+Return-date: 2005-06-22 07:16:45
+
+----
+
+Inventory: page://4Y4l0TcMS9MUYlCx
+
+----
+
+Uuid: TrUjQgJ9Qzt6cio1
+
+----
+
+Customer: page://igxQ7vxPZAcLSAoP

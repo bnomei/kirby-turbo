@@ -1,0 +1,25 @@
+Title: Rental 916
+
+----
+
+Rental-id: 916
+
+----
+
+Rental-date: 2005-05-30 11:25:01
+
+----
+
+Return-date: 2005-05-31 09:06:01
+
+----
+
+Inventory: page://8d0BfsDDb469Kyqe
+
+----
+
+Uuid: Z8HjDt9RQHTyOifm
+
+----
+
+Customer: page://X3AjzgBdF3VXBSFO

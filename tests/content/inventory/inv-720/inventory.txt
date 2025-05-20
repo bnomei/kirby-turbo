@@ -1,0 +1,17 @@
+Title: Inv 720
+
+----
+
+Inventory-id: 720
+
+----
+
+Film: page://ngy47YPsc0wCrBpL
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: IptIyu3hmY0QI1n3

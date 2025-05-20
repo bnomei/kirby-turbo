@@ -1,0 +1,25 @@
+Title: Rental 10661
+
+----
+
+Rental-id: 10661
+
+----
+
+Rental-date: 2005-08-01 16:48:31
+
+----
+
+Return-date: 2005-08-02 21:02:31
+
+----
+
+Inventory: page://4nisSWOf9YcLdPsk
+
+----
+
+Customer: page://2QRxABR23Jfbr6gF
+
+----
+
+Uuid: XqCs2s7YQ4FXIu4l

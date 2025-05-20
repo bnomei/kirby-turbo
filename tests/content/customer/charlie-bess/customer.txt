@@ -1,0 +1,33 @@
+Title: CHARLIE BESS
+
+----
+
+Customer-id: 495
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: CHARLIE
+
+----
+
+Last-name: BESS
+
+----
+
+Email: CHARLIE.BESS@sakilacustomer.org
+
+----
+
+Address: page://Mpf061ptSi3wUW9C
+
+----
+
+Active: 1
+
+----
+
+Uuid: ozuA7F23YyJylO9U

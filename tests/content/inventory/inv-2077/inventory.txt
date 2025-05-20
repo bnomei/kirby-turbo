@@ -1,0 +1,17 @@
+Title: Inv 2077
+
+----
+
+Inventory-id: 2077
+
+----
+
+Film: page://lyaPuzFBKAqATiG8
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: iqD4bHzic7jpK6pH

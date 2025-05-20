@@ -1,0 +1,25 @@
+Title: Rental 10190
+
+----
+
+Rental-id: 10190
+
+----
+
+Rental-date: 2005-08-01 00:27:53
+
+----
+
+Return-date: 2005-08-01 20:32:53
+
+----
+
+Inventory: page://SUMd3xAzs7zGludt
+
+----
+
+Customer: page://d4Qzzmipb5Xdc54C
+
+----
+
+Uuid: Kyre3tNyvkX9oBI8

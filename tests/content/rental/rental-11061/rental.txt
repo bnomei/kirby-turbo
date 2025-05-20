@@ -1,0 +1,25 @@
+Title: Rental 11061
+
+----
+
+Rental-id: 11061
+
+----
+
+Rental-date: 2005-08-02 06:50:18
+
+----
+
+Return-date: 2005-08-07 07:41:18
+
+----
+
+Inventory: page://vzQDcdLriPHwUa7d
+
+----
+
+Customer: page://pb7ZrH0vPEWpfLP3
+
+----
+
+Uuid: 0BFoUP0tooYxgS5P

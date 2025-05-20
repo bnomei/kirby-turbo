@@ -1,0 +1,25 @@
+Title: Rental 398
+
+----
+
+Rental-id: 398
+
+----
+
+Rental-date: 2005-05-27 12:44:03
+
+----
+
+Return-date: 2005-06-02 08:19:03
+
+----
+
+Inventory: page://3vFVnIbEzG8ugAZA
+
+----
+
+Uuid: qL1X4OULdqiQa0Ee
+
+----
+
+Customer: page://B6FDvvDBHRaKmtPn

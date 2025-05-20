@@ -1,0 +1,33 @@
+Title: BERNARD COLBY
+
+----
+
+Customer-id: 440
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: BERNARD
+
+----
+
+Last-name: COLBY
+
+----
+
+Email: BERNARD.COLBY@sakilacustomer.org
+
+----
+
+Address: page://VOz1xDZcWZbUBDgJ
+
+----
+
+Active: 1
+
+----
+
+Uuid: sGF0A1vUMDn16Llg

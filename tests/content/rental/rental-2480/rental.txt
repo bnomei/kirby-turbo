@@ -1,0 +1,25 @@
+Title: Rental 2480
+
+----
+
+Rental-id: 2480
+
+----
+
+Rental-date: 2005-06-18 21:04:09
+
+----
+
+Return-date: 2005-06-22 16:24:09
+
+----
+
+Inventory: page://8LianA7bulbaLpOU
+
+----
+
+Uuid: kS90mOoI3b92QLS0
+
+----
+
+Customer: page://Tgto21f29ojBzgwB

@@ -1,0 +1,25 @@
+Title: Rental 6408
+
+----
+
+Rental-id: 6408
+
+----
+
+Rental-date: 2005-07-11 23:03:02
+
+----
+
+Return-date: 2005-07-19 23:09:02
+
+----
+
+Inventory: page://QeNNXLINAQGF6afy
+
+----
+
+Uuid: 22OU3T5n6wCbhKxH
+
+----
+
+Customer: page://0i52La06CjBDGVTC

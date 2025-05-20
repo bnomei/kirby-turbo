@@ -1,0 +1,25 @@
+Title: Rental 1866
+
+----
+
+Rental-id: 1866
+
+----
+
+Rental-date: 2005-06-17 01:53:19
+
+----
+
+Return-date: 2005-06-19 06:14:19
+
+----
+
+Inventory: page://TdXhwEqQrtwVLThh
+
+----
+
+Uuid: fvxINtZVwBGE4AQL
+
+----
+
+Customer: page://rrY2EqqBMU56rgxn

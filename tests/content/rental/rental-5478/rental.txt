@@ -1,0 +1,25 @@
+Title: Rental 5478
+
+----
+
+Rental-id: 5478
+
+----
+
+Rental-date: 2005-07-09 23:45:15
+
+----
+
+Return-date: 2005-07-15 22:48:15
+
+----
+
+Inventory: page://DfItss2wxtnEk675
+
+----
+
+Uuid: yOX91ZkTdV6C3Utg
+
+----
+
+Customer: page://pjmWpRpQ5NINevq0

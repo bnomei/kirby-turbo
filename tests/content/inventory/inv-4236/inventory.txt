@@ -1,0 +1,17 @@
+Title: Inv 4236
+
+----
+
+Inventory-id: 4236
+
+----
+
+Film: page://y8BuDfsEAT5aJhE5
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: vajbuHSUV26MXJjD

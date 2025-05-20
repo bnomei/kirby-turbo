@@ -1,0 +1,25 @@
+Title: Rental 4030
+
+----
+
+Rental-id: 4030
+
+----
+
+Rental-date: 2005-07-07 02:25:42
+
+----
+
+Return-date: 2005-07-08 22:53:42
+
+----
+
+Inventory: page://AWWPhgsN55IJR4Ak
+
+----
+
+Uuid: 3pCGImTrDWM1EWb4
+
+----
+
+Customer: page://b45xFslb4E5TbKQI

@@ -1,0 +1,17 @@
+Title: Inv 2
+
+----
+
+Inventory-id: 2
+
+----
+
+Film: page://t4byNBnqBoMcJLhW
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: IEShAXhAJXpfqmg6

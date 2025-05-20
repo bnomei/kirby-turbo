@@ -1,0 +1,21 @@
+Title: Rental 12970
+
+----
+
+Rental-id: 12970
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://fCRA6CywI34q2dGc
+
+----
+
+Customer: page://6JTzEhgDMKDUF6HS
+
+----
+
+Uuid: FItXCp1c3NAmVFjT

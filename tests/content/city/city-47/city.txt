@@ -1,0 +1,17 @@
+Title: Baiyin
+
+----
+
+City-id: 47
+
+----
+
+City: Baiyin
+
+----
+
+Country: page://iDQ7mLAZL5dqng9j
+
+----
+
+Uuid: K5AsQ7xoyrykrV9t

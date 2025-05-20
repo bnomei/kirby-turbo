@@ -1,0 +1,25 @@
+Title: Rental 132
+
+----
+
+Rental-id: 132
+
+----
+
+Rental-date: 2005-05-25 21:46:54
+
+----
+
+Return-date: 2005-05-31 21:02:54
+
+----
+
+Inventory: page://KGxbfsvaducqvON1
+
+----
+
+Uuid: ki1syB5WOsvOLUQV
+
+----
+
+Customer: page://fEgNYhgaLDG3CQLU

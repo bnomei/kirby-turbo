@@ -1,0 +1,17 @@
+Title: Inv 1236
+
+----
+
+Inventory-id: 1236
+
+----
+
+Film: page://dUaroWhMD6Ug8PIq
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: zqHHMoSluIWnrYQO

@@ -1,0 +1,25 @@
+Title: Rental 10331
+
+----
+
+Rental-id: 10331
+
+----
+
+Rental-date: 2005-08-01 04:57:14
+
+----
+
+Return-date: 2005-08-07 06:46:14
+
+----
+
+Inventory: page://noasshtbJOSpjNRJ
+
+----
+
+Customer: page://rrY2EqqBMU56rgxn
+
+----
+
+Uuid: vXHq02YCZ6xu8tHa

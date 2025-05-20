@@ -1,0 +1,25 @@
+Title: Rental 462
+
+----
+
+Rental-id: 462
+
+----
+
+Rental-date: 2005-05-27 20:10:36
+
+----
+
+Return-date: 2005-06-03 21:12:36
+
+----
+
+Inventory: page://5mTlvaBuJ4xCTTJG
+
+----
+
+Uuid: EYAkNF5hLyB2Yav0
+
+----
+
+Customer: page://G7aBBPXnsH9z6xIt

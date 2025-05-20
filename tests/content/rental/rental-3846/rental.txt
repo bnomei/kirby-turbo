@@ -1,0 +1,25 @@
+Title: Rental 3846
+
+----
+
+Rental-id: 3846
+
+----
+
+Rental-date: 2005-07-06 16:43:10
+
+----
+
+Return-date: 2005-07-14 11:09:10
+
+----
+
+Inventory: page://h2xSCcRzzylRTxlh
+
+----
+
+Uuid: gJc0Aic9T5nHleXq
+
+----
+
+Customer: page://f1BLMiQFWjWGI1Fh

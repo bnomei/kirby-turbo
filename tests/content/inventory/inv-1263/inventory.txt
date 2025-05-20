@@ -1,0 +1,17 @@
+Title: Inv 1263
+
+----
+
+Inventory-id: 1263
+
+----
+
+Film: page://95HMyYMDoh6RskAd
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: rm5WliOZRqZGgEpO

@@ -1,0 +1,17 @@
+Title: Inv 2178
+
+----
+
+Inventory-id: 2178
+
+----
+
+Film: page://Bv6L95VodOf07txg
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 18dE95eoOo3n6mB8

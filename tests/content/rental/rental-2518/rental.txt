@@ -1,0 +1,25 @@
+Title: Rental 2518
+
+----
+
+Rental-id: 2518
+
+----
+
+Rental-date: 2005-06-19 00:16:23
+
+----
+
+Return-date: 2005-06-25 19:28:23
+
+----
+
+Inventory: page://xuCHOg41kQKQncwD
+
+----
+
+Uuid: CMdhosnqcvQKWGCZ
+
+----
+
+Customer: page://jQgJTEFW0ApOfR1S

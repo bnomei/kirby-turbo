@@ -1,0 +1,25 @@
+Title: Rental 393
+
+----
+
+Rental-id: 393
+
+----
+
+Rental-date: 2005-05-27 11:18:25
+
+----
+
+Return-date: 2005-05-28 07:10:25
+
+----
+
+Inventory: page://ZX0WKL0nWtHhhgLM
+
+----
+
+Uuid: DVmIPWPnQHMEvyKq
+
+----
+
+Customer: page://cRRGmCnzUGugZdVF

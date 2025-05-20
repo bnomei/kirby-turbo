@@ -1,0 +1,21 @@
+Title: Rental 14531
+
+----
+
+Rental-id: 14531
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://PWp6b40MvwE12vRt
+
+----
+
+Customer: page://FbxMu5KvBZejM5Ly
+
+----
+
+Uuid: 4BaBK3Z0YDoOZfT9

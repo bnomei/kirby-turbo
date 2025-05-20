@@ -1,0 +1,17 @@
+Title: Inv 2145
+
+----
+
+Inventory-id: 2145
+
+----
+
+Film: page://hLgDlzjCk0dFza0Z
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 9qxxcePmht6ojTFQ

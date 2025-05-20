@@ -1,0 +1,17 @@
+Title: Inv 806
+
+----
+
+Inventory-id: 806
+
+----
+
+Film: page://PYAzRBqaiMQm2DKW
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Bs8mDelRkodjQQAq

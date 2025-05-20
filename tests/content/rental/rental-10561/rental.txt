@@ -1,0 +1,25 @@
+Title: Rental 10561
+
+----
+
+Rental-id: 10561
+
+----
+
+Rental-date: 2005-08-01 13:05:35
+
+----
+
+Return-date: 2005-08-04 08:34:35
+
+----
+
+Inventory: page://ufmawLi50lgmn3VN
+
+----
+
+Customer: page://sYyRIy15jUUAajVC
+
+----
+
+Uuid: hhoeAWJK0QW0zpdK

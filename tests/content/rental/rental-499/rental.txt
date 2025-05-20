@@ -1,0 +1,25 @@
+Title: Rental 499
+
+----
+
+Rental-id: 499
+
+----
+
+Rental-date: 2005-05-28 01:05:07
+
+----
+
+Return-date: 2005-06-05 19:54:07
+
+----
+
+Inventory: page://DWliKNFxGvfZ24cI
+
+----
+
+Uuid: rPEO0MOUaw1fPbwP
+
+----
+
+Customer: page://aR5C6yOEP2AWS3bi

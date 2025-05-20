@@ -1,0 +1,25 @@
+Title: Rental 8249
+
+----
+
+Rental-id: 8249
+
+----
+
+Rental-date: 2005-07-29 00:48:44
+
+----
+
+Return-date: 2005-08-07 04:25:44
+
+----
+
+Inventory: page://khfymYHeqR1DJQNq
+
+----
+
+Customer: page://kcW3Aiv2w6cJeXdK
+
+----
+
+Uuid: ALJzysI8ik435auY

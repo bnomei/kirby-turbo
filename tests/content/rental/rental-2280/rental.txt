@@ -1,0 +1,25 @@
+Title: Rental 2280
+
+----
+
+Rental-id: 2280
+
+----
+
+Rental-date: 2005-06-18 06:46:54
+
+----
+
+Return-date: 2005-06-26 09:48:54
+
+----
+
+Inventory: page://Jq3ybgR7x3C4nosE
+
+----
+
+Uuid: qF7tO2HXp01F4rVG
+
+----
+
+Customer: page://LhhA1dQUaMKURas0

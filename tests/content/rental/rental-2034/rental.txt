@@ -1,0 +1,25 @@
+Title: Rental 2034
+
+----
+
+Rental-id: 2034
+
+----
+
+Rental-date: 2005-06-17 13:27:16
+
+----
+
+Return-date: 2005-06-22 08:53:16
+
+----
+
+Inventory: page://IYpylVWjHkatJGRN
+
+----
+
+Uuid: 3kBclUV5djKKruiF
+
+----
+
+Customer: page://B7BnhDPJcre02BJt

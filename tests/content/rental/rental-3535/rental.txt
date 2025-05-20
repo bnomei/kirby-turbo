@@ -1,0 +1,25 @@
+Title: Rental 3535
+
+----
+
+Rental-id: 3535
+
+----
+
+Rental-date: 2005-07-06 01:32:46
+
+----
+
+Return-date: 2005-07-11 03:15:46
+
+----
+
+Inventory: page://8mhfzaaCRUNjFSSB
+
+----
+
+Uuid: yTVA49WTeYz6gznQ
+
+----
+
+Customer: page://kWd5QCzRzfjxEGaD

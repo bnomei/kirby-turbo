@@ -1,0 +1,25 @@
+Title: Rental 1992
+
+----
+
+Rental-id: 1992
+
+----
+
+Rental-date: 2005-06-17 10:58:53
+
+----
+
+Return-date: 2005-06-19 08:42:53
+
+----
+
+Inventory: page://gLrTVxG2pIPsOKT3
+
+----
+
+Uuid: CXGPdhUfGafWw1Qy
+
+----
+
+Customer: page://pJ4NwB4FUwNgVlBs

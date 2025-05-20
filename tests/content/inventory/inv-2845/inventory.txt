@@ -1,0 +1,17 @@
+Title: Inv 2845
+
+----
+
+Inventory-id: 2845
+
+----
+
+Film: page://gPEX0I5EBV8IWWWY
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: C8ovCJMlQhND7pdt

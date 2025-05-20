@@ -1,0 +1,25 @@
+Title: Rental 5900
+
+----
+
+Rental-id: 5900
+
+----
+
+Rental-date: 2005-07-10 20:21:54
+
+----
+
+Return-date: 2005-07-17 00:26:54
+
+----
+
+Inventory: page://LewZC86X3sFQMcdc
+
+----
+
+Uuid: xbppUlV3GZGRRHMd
+
+----
+
+Customer: page://JOGcO1osu9TF8IEq

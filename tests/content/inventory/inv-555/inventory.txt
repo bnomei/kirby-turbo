@@ -1,0 +1,17 @@
+Title: Inv 555
+
+----
+
+Inventory-id: 555
+
+----
+
+Film: page://IAYc88zrCIG1DcnQ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: W9yeV9Rp3h4qvO5G

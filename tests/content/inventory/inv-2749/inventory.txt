@@ -1,0 +1,17 @@
+Title: Inv 2749
+
+----
+
+Inventory-id: 2749
+
+----
+
+Film: page://S36rO7YzPhvQcg67
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: iI2ZQ715xYNwdQ0p

@@ -1,0 +1,25 @@
+Title: Rental 14087
+
+----
+
+Rental-id: 14087
+
+----
+
+Rental-date: 2005-08-20 23:53:40
+
+----
+
+Return-date: 2005-08-26 20:22:40
+
+----
+
+Inventory: page://TkSMAQYxSzDlySRO
+
+----
+
+Customer: page://6AKt4qOv738O4v4p
+
+----
+
+Uuid: EHGpIe5dVYQOshe4

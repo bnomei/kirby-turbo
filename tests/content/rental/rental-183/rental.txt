@@ -1,0 +1,25 @@
+Title: Rental 183
+
+----
+
+Rental-id: 183
+
+----
+
+Rental-date: 2005-05-26 05:01:18
+
+----
+
+Return-date: 2005-06-01 09:04:18
+
+----
+
+Inventory: page://QEZcaac5Yi8qpBfs
+
+----
+
+Uuid: aSfgSEqn0nmFIbJf
+
+----
+
+Customer: page://v2N94muKJ3uhMCtA

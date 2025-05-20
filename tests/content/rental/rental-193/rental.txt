@@ -1,0 +1,25 @@
+Title: Rental 193
+
+----
+
+Rental-id: 193
+
+----
+
+Rental-date: 2005-05-26 06:41:48
+
+----
+
+Return-date: 2005-05-30 06:21:48
+
+----
+
+Inventory: page://zpLl3fyDgklKKIM7
+
+----
+
+Uuid: hC9pR0aV8xZAqpGq
+
+----
+
+Customer: page://YNtCpMJMomhTZceJ

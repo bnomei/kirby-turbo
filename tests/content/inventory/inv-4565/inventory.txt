@@ -1,0 +1,17 @@
+Title: Inv 4565
+
+----
+
+Inventory-id: 4565
+
+----
+
+Film: page://KpB8gb65wlkLvqKk
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Rl5jVBzJbLaIpsnh

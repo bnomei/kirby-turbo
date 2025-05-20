@@ -1,0 +1,33 @@
+Title: JORDAN ARCHULETA
+
+----
+
+Customer-id: 560
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JORDAN
+
+----
+
+Last-name: ARCHULETA
+
+----
+
+Email: JORDAN.ARCHULETA@sakilacustomer.org
+
+----
+
+Address: page://gXzcJzEp0EZFRO2F
+
+----
+
+Active: 1
+
+----
+
+Uuid: HpeLAHrM5mtnQogB

@@ -1,0 +1,25 @@
+Title: Rental 9150
+
+----
+
+Rental-id: 9150
+
+----
+
+Rental-date: 2005-07-30 10:49:32
+
+----
+
+Return-date: 2005-08-08 15:43:32
+
+----
+
+Inventory: page://7N3PEF4Kou2Ybn6r
+
+----
+
+Customer: page://SXP8ih15ziLTUonG
+
+----
+
+Uuid: ClzlD85AuOrdEbt4

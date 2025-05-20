@@ -1,0 +1,33 @@
+Title: MYRTLE FLEMING
+
+----
+
+Customer-id: 258
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MYRTLE
+
+----
+
+Last-name: FLEMING
+
+----
+
+Email: MYRTLE.FLEMING@sakilacustomer.org
+
+----
+
+Address: page://vIHUWlm5gmot9Ga1
+
+----
+
+Active: 1
+
+----
+
+Uuid: zIZEZREf483r6GLp

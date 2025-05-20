@@ -1,0 +1,44 @@
+Title: LUCK OPUS
+
+----
+
+Actors:
+
+- 'page://NQADDP2SQLBL6U9D'
+- 'page://VQ2tezOinyzNJNH4'
+- 'page://QXMalcumIlXeK8Z2'
+- 'page://iZwJlBg8wszU4t4i'
+- 'page://m11q5cdDfIefOEY5'
+- 'page://nNLtL91vUU653tYz'
+
+----
+
+Film-id: 539
+
+----
+
+Description: A Boring Display of a Moose And a Squirrel who must Outrace a Teacher in A Shark Tank
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 152
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: WxjJOOFf93DuYwYk
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

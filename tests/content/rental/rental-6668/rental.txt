@@ -1,0 +1,25 @@
+Title: Rental 6668
+
+----
+
+Rental-id: 6668
+
+----
+
+Rental-date: 2005-07-12 11:37:45
+
+----
+
+Return-date: 2005-07-14 13:28:45
+
+----
+
+Inventory: page://uZXJMCZmPOgLtpxY
+
+----
+
+Uuid: PQGxXEE49Zf6ZkFk
+
+----
+
+Customer: page://aR5C6yOEP2AWS3bi

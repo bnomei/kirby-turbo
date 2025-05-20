@@ -1,0 +1,25 @@
+Title: Rental 14138
+
+----
+
+Rental-id: 14138
+
+----
+
+Rental-date: 2005-08-21 01:59:37
+
+----
+
+Return-date: 2005-08-30 01:17:37
+
+----
+
+Inventory: page://9T5A6pUt2Cr17vBp
+
+----
+
+Customer: page://okaJqGigURtGJrFE
+
+----
+
+Uuid: 0TAnRyM1gRTm6bbx

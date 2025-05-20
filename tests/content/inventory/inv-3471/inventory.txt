@@ -1,0 +1,17 @@
+Title: Inv 3471
+
+----
+
+Inventory-id: 3471
+
+----
+
+Film: page://QkPR08jHprrRWEr9
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: kafrIjdT7c00Q1MD

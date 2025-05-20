@@ -1,0 +1,33 @@
+Title: LEONA OBRIEN
+
+----
+
+Customer-id: 281
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: LEONA
+
+----
+
+Last-name: OBRIEN
+
+----
+
+Email: LEONA.OBRIEN@sakilacustomer.org
+
+----
+
+Address: page://cIYvyqulyr83c5bW
+
+----
+
+Active: 1
+
+----
+
+Uuid: NbDJ85z6Kfifcrsu

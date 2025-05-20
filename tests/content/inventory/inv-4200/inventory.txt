@@ -1,0 +1,17 @@
+Title: Inv 4200
+
+----
+
+Inventory-id: 4200
+
+----
+
+Film: page://xfZxnJ2rP9EOtzuD
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: nX4YomDFYW47IxsE

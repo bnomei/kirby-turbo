@@ -1,0 +1,17 @@
+Title: Inv 1652
+
+----
+
+Inventory-id: 1652
+
+----
+
+Film: page://rXszfXc0PapWBC5w
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: wCvSi9J9t3MEqboo

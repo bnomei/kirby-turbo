@@ -1,0 +1,25 @@
+Title: Rental 359
+
+----
+
+Rental-id: 359
+
+----
+
+Rental-date: 2005-05-27 06:48:33
+
+----
+
+Return-date: 2005-05-29 03:55:33
+
+----
+
+Inventory: page://PToowlRDooOUMg9m
+
+----
+
+Uuid: m1NVGUB2O9apGWHc
+
+----
+
+Customer: page://mEEAl0d4gMjFDZVU

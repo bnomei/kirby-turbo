@@ -1,0 +1,25 @@
+Title: Rental 1917
+
+----
+
+Rental-id: 1917
+
+----
+
+Rental-date: 2005-06-17 05:36:07
+
+----
+
+Return-date: 2005-06-24 01:44:07
+
+----
+
+Inventory: page://BM20jH1He5mAYTTX
+
+----
+
+Uuid: S2FOj0U7eGwmuL3M
+
+----
+
+Customer: page://NE2vG7J7KOOmGrbQ

@@ -1,0 +1,25 @@
+Title: Rental 9546
+
+----
+
+Rental-id: 9546
+
+----
+
+Rental-date: 2005-07-31 01:47:40
+
+----
+
+Return-date: 2005-08-02 07:25:40
+
+----
+
+Inventory: page://hhJjubmBY3cDi83N
+
+----
+
+Customer: page://5GdJTUPwNNhtUdMn
+
+----
+
+Uuid: MYpcVPZkR0eFYE52

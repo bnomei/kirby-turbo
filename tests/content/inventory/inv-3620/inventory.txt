@@ -1,0 +1,17 @@
+Title: Inv 3620
+
+----
+
+Inventory-id: 3620
+
+----
+
+Film: page://8fqUuJnM1g7cWwBp
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: nBuTHme61ptWWP9W

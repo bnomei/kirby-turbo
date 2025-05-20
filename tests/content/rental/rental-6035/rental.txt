@@ -1,0 +1,25 @@
+Title: Rental 6035
+
+----
+
+Rental-id: 6035
+
+----
+
+Rental-date: 2005-07-11 03:01:45
+
+----
+
+Return-date: 2005-07-14 01:04:45
+
+----
+
+Inventory: page://sWC8SoSWHiZPGyM4
+
+----
+
+Uuid: PfaFTrVB43n38YQ2
+
+----
+
+Customer: page://8I9W8oDFPxssbhIJ

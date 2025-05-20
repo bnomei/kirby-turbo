@@ -1,0 +1,17 @@
+Title: Inv 964
+
+----
+
+Inventory-id: 964
+
+----
+
+Film: page://YmWE87FyAY8q9lnG
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: i0p2jWbHukaRq89R

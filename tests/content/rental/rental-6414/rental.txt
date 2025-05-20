@@ -1,0 +1,25 @@
+Title: Rental 6414
+
+----
+
+Rental-id: 6414
+
+----
+
+Rental-date: 2005-07-11 23:26:13
+
+----
+
+Return-date: 2005-07-18 17:29:13
+
+----
+
+Inventory: page://Y1cnxjEgJxIPLF1V
+
+----
+
+Uuid: 2e4skPX9goLNgawh
+
+----
+
+Customer: page://9bRTDRu3HEwd7H8l

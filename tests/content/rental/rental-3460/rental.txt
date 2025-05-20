@@ -1,0 +1,25 @@
+Title: Rental 3460
+
+----
+
+Rental-id: 3460
+
+----
+
+Rental-date: 2005-06-21 21:46:56
+
+----
+
+Return-date: 2005-06-29 20:08:56
+
+----
+
+Inventory: page://DY5Fl07rSMk51NIG
+
+----
+
+Uuid: IbyeaHoqy2x48r4A
+
+----
+
+Customer: page://HQxscLHxuDjEVXyk

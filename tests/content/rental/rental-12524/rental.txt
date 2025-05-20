@@ -1,0 +1,21 @@
+Title: Rental 12524
+
+----
+
+Rental-id: 12524
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://rbKl6CqCu440UPdE
+
+----
+
+Customer: page://GsCMla3dLxvFaycH
+
+----
+
+Uuid: peCnkhnUcs9MFn8b

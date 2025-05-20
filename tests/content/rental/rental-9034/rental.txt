@@ -1,0 +1,25 @@
+Title: Rental 9034
+
+----
+
+Rental-id: 9034
+
+----
+
+Rental-date: 2005-07-30 06:10:58
+
+----
+
+Return-date: 2005-08-08 05:00:58
+
+----
+
+Inventory: page://DLP5MwGcW0i6blGb
+
+----
+
+Customer: page://rug4r6NdvQakm9EC
+
+----
+
+Uuid: ZYUlpaGZrRuVURla

@@ -1,0 +1,17 @@
+Title: Inv 1065
+
+----
+
+Inventory-id: 1065
+
+----
+
+Film: page://YVkqdrk0OGGseUv7
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: LUmTTL2f9UhHDyRZ

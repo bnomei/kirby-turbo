@@ -1,0 +1,25 @@
+Title: Rental 8610
+
+----
+
+Rental-id: 8610
+
+----
+
+Rental-date: 2005-07-29 13:25:02
+
+----
+
+Return-date: 2005-08-03 08:10:02
+
+----
+
+Inventory: page://A7f0MIPHAYlt1PD4
+
+----
+
+Customer: page://dxsn5YIdpOZbxgA0
+
+----
+
+Uuid: ZIQaU6oBFX8XNrd4

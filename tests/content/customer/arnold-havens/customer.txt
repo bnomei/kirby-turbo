@@ -1,0 +1,33 @@
+Title: ARNOLD HAVENS
+
+----
+
+Customer-id: 522
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ARNOLD
+
+----
+
+Last-name: HAVENS
+
+----
+
+Email: ARNOLD.HAVENS@sakilacustomer.org
+
+----
+
+Address: page://gFSt7qv0Mbstju2n
+
+----
+
+Active: 1
+
+----
+
+Uuid: azLzg4bnImGnXayq

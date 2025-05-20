@@ -1,0 +1,25 @@
+Title: Rental 107
+
+----
+
+Rental-id: 107
+
+----
+
+Rental-date: 2005-05-25 18:28:09
+
+----
+
+Return-date: 2005-06-03 22:46:09
+
+----
+
+Inventory: page://4iNoYzPT2UvcWqY6
+
+----
+
+Uuid: MtjkNeDAz3cLpmrK
+
+----
+
+Customer: page://LjRXWt8yhDRV7QH6

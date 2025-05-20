@@ -1,0 +1,21 @@
+Title: Rental 12901
+
+----
+
+Rental-id: 12901
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://V5uFnYJmesSLZnVR
+
+----
+
+Customer: page://SJshmeMOxYgLWdbx
+
+----
+
+Uuid: lCB2Rzg4INlyhLYT

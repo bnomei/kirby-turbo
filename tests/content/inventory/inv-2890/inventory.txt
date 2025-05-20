@@ -1,0 +1,17 @@
+Title: Inv 2890
+
+----
+
+Inventory-id: 2890
+
+----
+
+Film: page://m7PIhKdp6vzwLUff
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: DU9D0wUPYgmU7Pm8

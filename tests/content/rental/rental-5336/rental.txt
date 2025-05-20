@@ -1,0 +1,25 @@
+Title: Rental 5336
+
+----
+
+Rental-id: 5336
+
+----
+
+Rental-date: 2005-07-09 17:01:08
+
+----
+
+Return-date: 2005-07-11 19:22:08
+
+----
+
+Inventory: page://HoZGd3YPZgfSLxEd
+
+----
+
+Uuid: 43RDaDFVtxSHZ62P
+
+----
+
+Customer: page://qq0m1YSvvt7HbeBW

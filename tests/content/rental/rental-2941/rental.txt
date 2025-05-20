@@ -1,0 +1,25 @@
+Title: Rental 2941
+
+----
+
+Rental-id: 2941
+
+----
+
+Rental-date: 2005-06-20 05:22:18
+
+----
+
+Return-date: 2005-06-26 07:40:18
+
+----
+
+Inventory: page://tDfw4xDHXdzHh3yT
+
+----
+
+Uuid: AKl1vFIz7Un12cwF
+
+----
+
+Customer: page://85ovZXEWpqXAx1KN

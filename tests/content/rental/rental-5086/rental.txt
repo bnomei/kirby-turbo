@@ -1,0 +1,25 @@
+Title: Rental 5086
+
+----
+
+Rental-id: 5086
+
+----
+
+Rental-date: 2005-07-09 05:40:04
+
+----
+
+Return-date: 2005-07-16 07:51:04
+
+----
+
+Inventory: page://7jvrPaxQVZtIeQAO
+
+----
+
+Uuid: 4SXP7tqdFazH8XYV
+
+----
+
+Customer: page://QOClXserCz22nvYn

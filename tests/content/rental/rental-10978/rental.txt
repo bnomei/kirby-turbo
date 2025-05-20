@@ -1,0 +1,25 @@
+Title: Rental 10978
+
+----
+
+Rental-id: 10978
+
+----
+
+Rental-date: 2005-08-02 04:12:27
+
+----
+
+Return-date: 2005-08-10 08:19:27
+
+----
+
+Inventory: page://g2uO8dD9eIG9KHT1
+
+----
+
+Customer: page://z84M1eOE64VO5Dm4
+
+----
+
+Uuid: GZp2z4NlTduUcRET

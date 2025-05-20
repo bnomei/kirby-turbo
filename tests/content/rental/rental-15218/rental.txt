@@ -1,0 +1,25 @@
+Title: Rental 15218
+
+----
+
+Rental-id: 15218
+
+----
+
+Rental-date: 2005-08-22 16:59:05
+
+----
+
+Return-date: 2005-08-30 17:01:05
+
+----
+
+Inventory: page://Fr4UvWHNqkSBm1Tb
+
+----
+
+Customer: page://IASgNEvWFJebynwM
+
+----
+
+Uuid: 41smpKJVpmxeSnyz

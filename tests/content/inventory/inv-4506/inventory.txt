@@ -1,0 +1,17 @@
+Title: Inv 4506
+
+----
+
+Inventory-id: 4506
+
+----
+
+Film: page://jhRMmvkq0HqU0z8X
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: NHyXk39T0tkJU4GX

@@ -1,0 +1,25 @@
+Title: Rental 790
+
+----
+
+Rental-id: 790
+
+----
+
+Rental-date: 2005-05-29 16:19:29
+
+----
+
+Return-date: 2005-06-02 17:22:29
+
+----
+
+Inventory: page://x9XS5JYHKEnoN3Wp
+
+----
+
+Uuid: DUOJGehyH1ty0lVd
+
+----
+
+Customer: page://q4exU1pk14u79lgg

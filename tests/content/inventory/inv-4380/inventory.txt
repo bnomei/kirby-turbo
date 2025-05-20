@@ -1,0 +1,17 @@
+Title: Inv 4380
+
+----
+
+Inventory-id: 4380
+
+----
+
+Film: page://dpXNgRLgOgqSjTHd
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 5PWLOTyKQPIwZTpi

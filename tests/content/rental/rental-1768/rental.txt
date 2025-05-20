@@ -1,0 +1,25 @@
+Title: Rental 1768
+
+----
+
+Rental-id: 1768
+
+----
+
+Rental-date: 2005-06-16 18:02:06
+
+----
+
+Return-date: 2005-06-23 17:19:06
+
+----
+
+Inventory: page://It8XgHDerZ3qEowV
+
+----
+
+Uuid: LMCOdd1A2SaPCMDM
+
+----
+
+Customer: page://N95O2afia8ED5CLD

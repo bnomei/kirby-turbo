@@ -1,0 +1,41 @@
+Title: FANTASIA PARK
+
+----
+
+Actors:
+
+- 'page://RvgM0TLzgQDo6vY7'
+- 'page://T2A5mLQSqhcfEEMm'
+- 'page://V93xbOGPlOsB9ymO'
+
+----
+
+Film-id: 302
+
+----
+
+Description: A Thoughtful Documentary of a Mad Scientist And a A Shark who must Outrace a Feminist in Australia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 131
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries
+
+----
+
+Uuid: N1NgQspUnkYqDyaj
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

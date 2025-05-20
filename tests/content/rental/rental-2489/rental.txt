@@ -1,0 +1,25 @@
+Title: Rental 2489
+
+----
+
+Rental-id: 2489
+
+----
+
+Rental-date: 2005-06-18 22:00:44
+
+----
+
+Return-date: 2005-06-22 02:06:44
+
+----
+
+Inventory: page://ARwPbJrfDnhbh0BB
+
+----
+
+Uuid: NGs9hzsFTTwN3T1M
+
+----
+
+Customer: page://ZuUWmxbKilRmIFgl

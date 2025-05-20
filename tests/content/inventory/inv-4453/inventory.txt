@@ -1,0 +1,17 @@
+Title: Inv 4453
+
+----
+
+Inventory-id: 4453
+
+----
+
+Film: page://mpE9RTqrJOxDUbqz
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: fqW89h7yDCyFBTmW

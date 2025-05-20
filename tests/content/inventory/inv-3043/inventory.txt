@@ -1,0 +1,17 @@
+Title: Inv 3043
+
+----
+
+Inventory-id: 3043
+
+----
+
+Film: page://Wm0Kzt7aNDBOgJJn
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: j0lfIvwTNDYJ9No4

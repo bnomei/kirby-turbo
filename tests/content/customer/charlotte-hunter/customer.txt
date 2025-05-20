@@ -1,0 +1,33 @@
+Title: CHARLOTTE HUNTER
+
+----
+
+Customer-id: 130
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CHARLOTTE
+
+----
+
+Last-name: HUNTER
+
+----
+
+Email: CHARLOTTE.HUNTER@sakilacustomer.org
+
+----
+
+Address: page://3w7Gqq4qFWtpYQfs
+
+----
+
+Active: 1
+
+----
+
+Uuid: pDfW2rdiEx3al4Ty

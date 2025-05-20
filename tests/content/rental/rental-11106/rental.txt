@@ -1,0 +1,25 @@
+Title: Rental 11106
+
+----
+
+Rental-id: 11106
+
+----
+
+Rental-date: 2005-08-02 08:17:38
+
+----
+
+Return-date: 2005-08-03 07:54:38
+
+----
+
+Inventory: page://KAD1W2O9FCa7azOU
+
+----
+
+Customer: page://LhqM4KCNZrbdEpfZ
+
+----
+
+Uuid: DUZ0TRa3OVgDbhkY

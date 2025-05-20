@@ -1,0 +1,17 @@
+Title: Inv 4384
+
+----
+
+Inventory-id: 4384
+
+----
+
+Film: page://E0HFh9eHbYsvXG9C
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: N7LIEmBYHTUf9NkC

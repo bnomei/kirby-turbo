@@ -1,0 +1,25 @@
+Title: Rental 3711
+
+----
+
+Rental-id: 3711
+
+----
+
+Rental-date: 2005-07-06 10:46:15
+
+----
+
+Return-date: 2005-07-07 09:25:15
+
+----
+
+Inventory: page://fw7bLoBETbGZ8Mcy
+
+----
+
+Uuid: fbTdfGnnnp0Ri3Oz
+
+----
+
+Customer: page://x5SWKXQpXhzjUJdL

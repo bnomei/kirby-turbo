@@ -1,0 +1,44 @@
+Title: SECRETARY ROUGE
+
+----
+
+Actors:
+
+- 'page://EHffowmlWDEyJ7Ij'
+- 'page://S8UoUinBIsjzumVd'
+- 'page://xtyCW5dEHcrv0QRa'
+- 'page://rTdvG0vGkNN8iJpQ'
+- 'page://uyiPyWfxhKFdwYKL'
+- 'page://jSbKN9X4MDWI1G5U'
+
+----
+
+Film-id: 777
+
+----
+
+Description: A Action-Packed Panorama of a Mad Cow And a Composer who must Discover a Robot in A Baloon Factory
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 158
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: rDTQcbTu6163e5Xa
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

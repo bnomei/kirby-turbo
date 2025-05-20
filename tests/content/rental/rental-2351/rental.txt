@@ -1,0 +1,25 @@
+Title: Rental 2351
+
+----
+
+Rental-id: 2351
+
+----
+
+Rental-date: 2005-06-18 12:27:57
+
+----
+
+Return-date: 2005-06-23 16:14:57
+
+----
+
+Inventory: page://o6GxTUiqYHdqDwAf
+
+----
+
+Uuid: 4qqbkIHoMHH1YxXw
+
+----
+
+Customer: page://6JTzEhgDMKDUF6HS

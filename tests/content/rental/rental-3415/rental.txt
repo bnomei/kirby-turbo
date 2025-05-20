@@ -1,0 +1,25 @@
+Title: Rental 3415
+
+----
+
+Rental-id: 3415
+
+----
+
+Rental-date: 2005-06-21 16:59:49
+
+----
+
+Return-date: 2005-06-27 17:19:49
+
+----
+
+Inventory: page://4iKjPgG7TwTFzUKa
+
+----
+
+Uuid: LiJy6h3Cr6BnqvaU
+
+----
+
+Customer: page://P5692hWxDSp2ZLGu

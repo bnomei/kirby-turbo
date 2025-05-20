@@ -1,0 +1,25 @@
+Title: Rental 1977
+
+----
+
+Rental-id: 1977
+
+----
+
+Rental-date: 2005-06-17 09:38:22
+
+----
+
+Return-date: 2005-06-23 14:19:22
+
+----
+
+Inventory: page://oPU4S74h7z9VIzU4
+
+----
+
+Uuid: kvXR6acw0eufk015
+
+----
+
+Customer: page://YWOr146BeG0pdDed

@@ -1,0 +1,25 @@
+Title: Rental 4619
+
+----
+
+Rental-id: 4619
+
+----
+
+Rental-date: 2005-07-08 08:01:09
+
+----
+
+Return-date: 2005-07-16 05:52:09
+
+----
+
+Inventory: page://1HC2Nm8JhxvAF7kd
+
+----
+
+Uuid: YilGhMBbBu6GmO3m
+
+----
+
+Customer: page://35iZEOLpVXBoxDMB

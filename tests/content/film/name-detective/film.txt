@@ -1,0 +1,41 @@
+Title: NAME DETECTIVE
+
+----
+
+Actors:
+
+- 'page://ltHX2Lf4QT72ZiqX'
+- 'page://q6i5HOIdG8dGz8Im'
+- 'page://zDG4LP4a8BGDrQEW'
+
+----
+
+Film-id: 614
+
+----
+
+Description: A Touching Saga of a Sumo Wrestler And a Cat who must Pursue a Mad Scientist in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 178
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: k9v99fSPzea4A0c6
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

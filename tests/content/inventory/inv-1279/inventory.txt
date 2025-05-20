@@ -1,0 +1,17 @@
+Title: Inv 1279
+
+----
+
+Inventory-id: 1279
+
+----
+
+Film: page://N0oZDtfQfAD4q3Nb
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: f4imjh8TzkxO1YIW

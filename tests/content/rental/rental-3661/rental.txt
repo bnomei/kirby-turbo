@@ -1,0 +1,25 @@
+Title: Rental 3661
+
+----
+
+Rental-id: 3661
+
+----
+
+Rental-date: 2005-07-06 08:10:02
+
+----
+
+Return-date: 2005-07-10 10:17:02
+
+----
+
+Inventory: page://xRxHr7b4zicI3bjw
+
+----
+
+Uuid: FXfY5iGi9lg5PMSL
+
+----
+
+Customer: page://eYENgXyv63Ee6XxS

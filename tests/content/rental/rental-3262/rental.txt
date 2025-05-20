@@ -1,0 +1,25 @@
+Title: Rental 3262
+
+----
+
+Rental-id: 3262
+
+----
+
+Rental-date: 2005-06-21 04:08:43
+
+----
+
+Return-date: 2005-06-28 02:55:43
+
+----
+
+Inventory: page://Kdt1moeQyOlpqbVN
+
+----
+
+Uuid: AAJbpBHf0vzzGAAL
+
+----
+
+Customer: page://woNj5GQ9VpxY7M5X

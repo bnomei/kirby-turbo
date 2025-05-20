@@ -1,0 +1,17 @@
+Title: Inv 3626
+
+----
+
+Inventory-id: 3626
+
+----
+
+Film: page://kh9nIsdUqUaqo5w1
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: TWfQwXeGM1hACbE4

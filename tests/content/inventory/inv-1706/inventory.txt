@@ -1,0 +1,17 @@
+Title: Inv 1706
+
+----
+
+Inventory-id: 1706
+
+----
+
+Film: page://1ChvAYtOq67HetIh
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: PQKHdlasKtUNuFyU

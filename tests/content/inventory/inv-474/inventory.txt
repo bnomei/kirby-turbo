@@ -1,0 +1,17 @@
+Title: Inv 474
+
+----
+
+Inventory-id: 474
+
+----
+
+Film: page://hlnMeBBaRrbTFaBL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: XqqpQHRp2ugHlZ31

@@ -1,0 +1,17 @@
+Title: Inv 2791
+
+----
+
+Inventory-id: 2791
+
+----
+
+Film: page://gd4Wi4ucP93nyS2n
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: F1nfbY15gnVMkNtC

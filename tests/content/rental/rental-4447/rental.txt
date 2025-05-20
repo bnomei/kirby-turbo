@@ -1,0 +1,25 @@
+Title: Rental 4447
+
+----
+
+Rental-id: 4447
+
+----
+
+Rental-date: 2005-07-07 23:15:28
+
+----
+
+Return-date: 2005-07-14 22:53:28
+
+----
+
+Inventory: page://03YIE4oNQNDZylD5
+
+----
+
+Uuid: klHYFg64lEd3N0pc
+
+----
+
+Customer: page://HkTANTgi9H03vQyM

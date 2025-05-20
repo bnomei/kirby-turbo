@@ -1,0 +1,17 @@
+Title: Kirovo-Tšepetsk
+
+----
+
+City-id: 270
+
+----
+
+City: Kirovo-Tšepetsk
+
+----
+
+Country: page://NzIpdEh2BMlexUr9
+
+----
+
+Uuid: BDkd7cANNxoDqzOZ

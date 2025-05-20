@@ -1,0 +1,25 @@
+Title: Rental 3710
+
+----
+
+Rental-id: 3710
+
+----
+
+Rental-date: 2005-07-06 10:28:53
+
+----
+
+Return-date: 2005-07-15 06:17:53
+
+----
+
+Inventory: page://Ixq26DnOo1KabdY9
+
+----
+
+Uuid: Sd6iKJe7RIgm1Qpa
+
+----
+
+Customer: page://1oyElH1fZadoyZ04

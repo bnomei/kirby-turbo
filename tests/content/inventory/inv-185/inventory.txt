@@ -1,0 +1,17 @@
+Title: Inv 185
+
+----
+
+Inventory-id: 185
+
+----
+
+Film: page://EPwV3YKcC8UZO5c1
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: AFSYNUVonPMkTJSW

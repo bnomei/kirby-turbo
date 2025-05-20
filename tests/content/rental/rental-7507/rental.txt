@@ -1,0 +1,25 @@
+Title: Rental 7507
+
+----
+
+Rental-id: 7507
+
+----
+
+Rental-date: 2005-07-27 20:31:48
+
+----
+
+Return-date: 2005-08-02 17:27:48
+
+----
+
+Inventory: page://1w0BkJ6bpnNVc0c1
+
+----
+
+Customer: page://8819Gek69PVTaJvT
+
+----
+
+Uuid: 29dXbQh42lWbo01O

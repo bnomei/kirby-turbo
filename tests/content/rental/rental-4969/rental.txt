@@ -1,0 +1,25 @@
+Title: Rental 4969
+
+----
+
+Rental-id: 4969
+
+----
+
+Rental-date: 2005-07-08 23:51:26
+
+----
+
+Return-date: 2005-07-12 03:21:26
+
+----
+
+Inventory: page://j1CgOwML3WLiuEJ0
+
+----
+
+Uuid: jh1qZ0feVzJqT7Q1
+
+----
+
+Customer: page://szu2PM9zfcteUR6L

@@ -1,0 +1,25 @@
+Title: Rental 9014
+
+----
+
+Rental-id: 9014
+
+----
+
+Rental-date: 2005-07-30 05:19:27
+
+----
+
+Return-date: 2005-08-01 01:10:27
+
+----
+
+Inventory: page://wCacOFxlGbF7bgYu
+
+----
+
+Customer: page://OuCE5gs5Pt217cWx
+
+----
+
+Uuid: MYxBYfhXJVVC6uJC

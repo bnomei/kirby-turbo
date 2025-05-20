@@ -1,0 +1,17 @@
+Title: Inv 2333
+
+----
+
+Inventory-id: 2333
+
+----
+
+Film: page://wolN8qABMKVypdIc
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: cwzTHGZ2Lxm72x0B

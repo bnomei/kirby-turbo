@@ -1,0 +1,40 @@
+Title: MINE TITANS
+
+----
+
+Actors:
+
+- 'page://4H5a71re4eGpTLKc'
+- 'page://HBk8OpEyVf68VCvH'
+
+----
+
+Film-id: 580
+
+----
+
+Description: A Amazing Yarn of a Robot And a Womanizer who must Discover a Forensic Psychologist in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 166
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: fMVuGw73V1AQomf3
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

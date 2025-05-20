@@ -1,0 +1,21 @@
+Title: Rental 15780
+
+----
+
+Rental-id: 15780
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://YTRZEIomV5Y4MLdL
+
+----
+
+Customer: page://7XleW0b2x259mfJ9
+
+----
+
+Uuid: jzdRU8IgF1AmLEbK

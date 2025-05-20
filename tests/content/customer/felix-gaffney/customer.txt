@@ -1,0 +1,33 @@
+Title: FELIX GAFFNEY
+
+----
+
+Customer-id: 557
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: FELIX
+
+----
+
+Last-name: GAFFNEY
+
+----
+
+Email: FELIX.GAFFNEY@sakilacustomer.org
+
+----
+
+Address: page://2qVJ9mVcv9YR9u46
+
+----
+
+Active: 1
+
+----
+
+Uuid: vvb7rjkZaY4UCatA

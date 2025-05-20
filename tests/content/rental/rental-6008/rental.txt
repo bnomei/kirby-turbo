@@ -1,0 +1,25 @@
+Title: Rental 6008
+
+----
+
+Rental-id: 6008
+
+----
+
+Rental-date: 2005-07-11 01:51:29
+
+----
+
+Return-date: 2005-07-18 01:39:29
+
+----
+
+Inventory: page://DYhR45NboflLIGBS
+
+----
+
+Uuid: dGVhKlWcWtqqmIIZ
+
+----
+
+Customer: page://6JTzEhgDMKDUF6HS

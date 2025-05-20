@@ -1,0 +1,25 @@
+Title: Rental 8619
+
+----
+
+Rental-id: 8619
+
+----
+
+Rental-date: 2005-07-29 13:50:08
+
+----
+
+Return-date: 2005-08-06 13:15:08
+
+----
+
+Inventory: page://wqXfA1GeuJPGRPYe
+
+----
+
+Customer: page://SGDmUxNER90s6kyU
+
+----
+
+Uuid: UXzf7s9a9GoCEjRv

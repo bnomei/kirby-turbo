@@ -1,0 +1,17 @@
+Title: Inv 4005
+
+----
+
+Inventory-id: 4005
+
+----
+
+Film: page://YzbrhGwubNUJ4lvQ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Dpk630yVUuSDvKO4

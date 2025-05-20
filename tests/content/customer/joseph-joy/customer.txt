@@ -1,0 +1,33 @@
+Title: JOSEPH JOY
+
+----
+
+Customer-id: 307
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JOSEPH
+
+----
+
+Last-name: JOY
+
+----
+
+Email: JOSEPH.JOY@sakilacustomer.org
+
+----
+
+Address: page://HGEHIAeXcit2gjXQ
+
+----
+
+Active: 1
+
+----
+
+Uuid: 9bpDggcJABKwr9xt

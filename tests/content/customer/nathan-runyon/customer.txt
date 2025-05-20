@@ -1,0 +1,33 @@
+Title: NATHAN RUNYON
+
+----
+
+Customer-id: 406
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: NATHAN
+
+----
+
+Last-name: RUNYON
+
+----
+
+Email: NATHAN.RUNYON@sakilacustomer.org
+
+----
+
+Address: page://QQRTOMSzTlk0E71D
+
+----
+
+Active: 0
+
+----
+
+Uuid: vsqmV71uZbhxk7Ld

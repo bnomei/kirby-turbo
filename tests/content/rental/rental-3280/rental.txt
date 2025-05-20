@@ -1,0 +1,25 @@
+Title: Rental 3280
+
+----
+
+Rental-id: 3280
+
+----
+
+Rental-date: 2005-06-21 06:08:12
+
+----
+
+Return-date: 2005-06-24 09:34:12
+
+----
+
+Inventory: page://eTQ8PNyW6xr9NxqT
+
+----
+
+Uuid: WWBcQprXAaFTgOPQ
+
+----
+
+Customer: page://PbJRKou2oblU77A7

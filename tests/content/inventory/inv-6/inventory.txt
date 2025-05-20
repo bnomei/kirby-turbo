@@ -1,0 +1,17 @@
+Title: Inv 6
+
+----
+
+Inventory-id: 6
+
+----
+
+Film: page://t4byNBnqBoMcJLhW
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: JVNIDybtobOfMeEp

@@ -1,0 +1,33 @@
+Title: JOHNNIE CHISHOLM
+
+----
+
+Customer-id: 571
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JOHNNIE
+
+----
+
+Last-name: CHISHOLM
+
+----
+
+Email: JOHNNIE.CHISHOLM@sakilacustomer.org
+
+----
+
+Address: page://85vVUpN4ihyfViMi
+
+----
+
+Active: 1
+
+----
+
+Uuid: NrH2ag1h7sBRKnqA

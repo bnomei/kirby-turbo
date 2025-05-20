@@ -1,0 +1,25 @@
+Title: Rental 7703
+
+----
+
+Rental-id: 7703
+
+----
+
+Rental-date: 2005-07-28 03:59:21
+
+----
+
+Return-date: 2005-08-05 08:52:21
+
+----
+
+Inventory: page://lKurLWEztFFMV90d
+
+----
+
+Customer: page://zr15m47K6VY9URjq
+
+----
+
+Uuid: Kms9NGgLBYjM64Mq

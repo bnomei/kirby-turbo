@@ -1,0 +1,45 @@
+Title: MAGNIFICENT CHITTY
+
+----
+
+Actors:
+
+- 'page://EfT0PAFDrVUk4H1Y'
+- 'page://HMQFYCzd6sL7s9te'
+- 'page://s69sG8lNdmqtvA7p'
+- 'page://nN3rIVkI7hNgoDlp'
+- 'page://wxM7fPnQeVIlPpuJ'
+- 'page://EMAJfjeYpdsSEXq5'
+- 'page://Q7LFBcb3oEdhSO9W'
+
+----
+
+Film-id: 548
+
+----
+
+Description: A Insightful Story of a Teacher And a Hunter who must Face a Mad Cow in California
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 53
+
+----
+
+Rating: R
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: ND71j1LaWeiCTgK4
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

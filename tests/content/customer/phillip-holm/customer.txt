@@ -1,0 +1,33 @@
+Title: PHILLIP HOLM
+
+----
+
+Customer-id: 385
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: PHILLIP
+
+----
+
+Last-name: HOLM
+
+----
+
+Email: PHILLIP.HOLM@sakilacustomer.org
+
+----
+
+Address: page://VwhVDnDoWurnyMJY
+
+----
+
+Active: 1
+
+----
+
+Uuid: Touuz3iduKG3abAU

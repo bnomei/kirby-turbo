@@ -1,0 +1,17 @@
+Title: Inv 1606
+
+----
+
+Inventory-id: 1606
+
+----
+
+Film: page://mtoWYsIKavCxrGqP
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ylvGgvH8eLQ7L4nP

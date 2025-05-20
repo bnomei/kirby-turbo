@@ -1,0 +1,25 @@
+Title: Rental 6696
+
+----
+
+Rental-id: 6696
+
+----
+
+Rental-date: 2005-07-12 12:44:04
+
+----
+
+Return-date: 2005-07-16 14:17:04
+
+----
+
+Inventory: page://lA6ug3ChX1GT0Uth
+
+----
+
+Uuid: 958ghOv2NqdQeruj
+
+----
+
+Customer: page://B4FRgaimwSexVazW

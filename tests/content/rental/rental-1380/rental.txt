@@ -1,0 +1,25 @@
+Title: Rental 1380
+
+----
+
+Rental-id: 1380
+
+----
+
+Rental-date: 2005-06-15 15:13:10
+
+----
+
+Return-date: 2005-06-18 12:42:10
+
+----
+
+Inventory: page://E9wDvXvakidlQYhE
+
+----
+
+Uuid: OKiXEehqqIFLKyTf
+
+----
+
+Customer: page://EFq1BVursSqEGTmG

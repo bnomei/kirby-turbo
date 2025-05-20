@@ -1,0 +1,25 @@
+Title: Rental 6739
+
+----
+
+Rental-id: 6739
+
+----
+
+Rental-date: 2005-07-12 14:22:08
+
+----
+
+Return-date: 2005-07-18 16:57:08
+
+----
+
+Inventory: page://LOBOwVqIppeO399K
+
+----
+
+Uuid: EVgLMHu0wDwZcYwK
+
+----
+
+Customer: page://gao3Tz3ycoSuDV8Z

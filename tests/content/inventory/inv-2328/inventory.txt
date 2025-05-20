@@ -1,0 +1,17 @@
+Title: Inv 2328
+
+----
+
+Inventory-id: 2328
+
+----
+
+Film: page://MEzVN6a8l7JinlSq
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: yC7doINTfuz0Vjee

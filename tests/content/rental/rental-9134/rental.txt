@@ -1,0 +1,25 @@
+Title: Rental 9134
+
+----
+
+Rental-id: 9134
+
+----
+
+Rental-date: 2005-07-30 10:00:21
+
+----
+
+Return-date: 2005-08-01 05:01:21
+
+----
+
+Inventory: page://JNAGm0bIqOS1HT1V
+
+----
+
+Customer: page://6F345WAB76SjN8Dt
+
+----
+
+Uuid: zklgWC1kfIdwQVUx

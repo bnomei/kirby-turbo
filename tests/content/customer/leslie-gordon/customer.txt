@@ -1,0 +1,33 @@
+Title: LESLIE GORDON
+
+----
+
+Customer-id: 143
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: LESLIE
+
+----
+
+Last-name: GORDON
+
+----
+
+Email: LESLIE.GORDON@sakilacustomer.org
+
+----
+
+Address: page://wFoS3NI6IJOfxDqd
+
+----
+
+Active: 1
+
+----
+
+Uuid: o07yBM7EP4XLPfD9

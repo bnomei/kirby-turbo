@@ -1,0 +1,25 @@
+Title: Rental 9455
+
+----
+
+Rental-id: 9455
+
+----
+
+Rental-date: 2005-07-30 22:20:29
+
+----
+
+Return-date: 2005-08-08 20:08:29
+
+----
+
+Inventory: page://tN5jEEieUpuOPZtY
+
+----
+
+Customer: page://MuXF2o48u2i4miEF
+
+----
+
+Uuid: 5E7Vl0MZDVzI8V0n

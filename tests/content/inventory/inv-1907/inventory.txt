@@ -1,0 +1,17 @@
+Title: Inv 1907
+
+----
+
+Inventory-id: 1907
+
+----
+
+Film: page://s7ivWgguXN0zexZS
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: K6BuZ8zBRmBouBHR

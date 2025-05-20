@@ -1,0 +1,17 @@
+Title: Inv 3143
+
+----
+
+Inventory-id: 3143
+
+----
+
+Film: page://EKJk2VIywYlYORwF
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: pWZijtH94BzrmsZh

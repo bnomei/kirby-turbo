@@ -1,0 +1,25 @@
+Title: Rental 10269
+
+----
+
+Rental-id: 10269
+
+----
+
+Rental-date: 2005-08-01 03:09:26
+
+----
+
+Return-date: 2005-08-02 00:01:26
+
+----
+
+Inventory: page://EoBWYqD027MPL2HK
+
+----
+
+Customer: page://JebvRlPdouQGnPtA
+
+----
+
+Uuid: KuVKaq2Q3PAbq2R1

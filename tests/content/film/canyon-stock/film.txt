@@ -1,0 +1,44 @@
+Title: CANYON STOCK
+
+----
+
+Actors:
+
+- 'page://osa3qsECAnV3MAu4'
+- 'page://JA85uxdb8uiPNO2i'
+- 'page://Gz114ojbruPqLOSY'
+- 'page://KWXiI33RIY2Yllal'
+- 'page://6jpBKUOTpGMSQxJe'
+- 'page://3BcvBP3gfacEDPsU'
+
+----
+
+Film-id: 118
+
+----
+
+Description: A Thoughtful Reflection of a Waitress And a Feminist who must Escape a Squirrel in A Manhattan Penthouse
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 85
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: Ga7GnSDxWvI9JbF3
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

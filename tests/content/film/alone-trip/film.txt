@@ -1,0 +1,46 @@
+Title: ALONE TRIP
+
+----
+
+Actors:
+
+- 'page://NQADDP2SQLBL6U9D'
+- 'page://qd0io4mUKZ4KUkyk'
+- 'page://xbVuFnPKikNsqVkK'
+- 'page://Xu2nMG4ojUoJI7CN'
+- 'page://KWXiI33RIY2Yllal'
+- 'page://X4t5CWB88ooC26Na'
+- 'page://1lkqFZByE2squnG7'
+- 'page://EMAJfjeYpdsSEXq5'
+
+----
+
+Film-id: 17
+
+----
+
+Description: A Fast-Paced Character Study of a Composer And a Dog who must Outgun a Boat in An Abandoned Fun House
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 82
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: zzl0zHHkjjt6wvGt
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

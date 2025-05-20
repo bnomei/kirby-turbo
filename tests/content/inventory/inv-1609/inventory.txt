@@ -1,0 +1,17 @@
+Title: Inv 1609
+
+----
+
+Inventory-id: 1609
+
+----
+
+Film: page://mtoWYsIKavCxrGqP
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: cGqGspev3ufNevjE

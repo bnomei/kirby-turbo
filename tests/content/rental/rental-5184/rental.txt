@@ -1,0 +1,25 @@
+Title: Rental 5184
+
+----
+
+Rental-id: 5184
+
+----
+
+Rental-date: 2005-07-09 10:14:34
+
+----
+
+Return-date: 2005-07-14 16:05:34
+
+----
+
+Inventory: page://qPgGaQJcZTY7bubA
+
+----
+
+Uuid: 0KjQ5sc6X4jOCAeR
+
+----
+
+Customer: page://cEjR9CGs4TcVaXZs

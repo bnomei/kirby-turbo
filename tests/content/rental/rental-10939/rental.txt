@@ -1,0 +1,25 @@
+Title: Rental 10939
+
+----
+
+Rental-id: 10939
+
+----
+
+Rental-date: 2005-08-02 03:06:20
+
+----
+
+Return-date: 2005-08-04 01:22:20
+
+----
+
+Inventory: page://It8XgHDerZ3qEowV
+
+----
+
+Customer: page://QJJkyq57XaTH2VdS
+
+----
+
+Uuid: Vd41YF4bU1YOv26v

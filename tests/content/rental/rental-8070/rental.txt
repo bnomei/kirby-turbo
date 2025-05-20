@@ -1,0 +1,25 @@
+Title: Rental 8070
+
+----
+
+Rental-id: 8070
+
+----
+
+Rental-date: 2005-07-28 17:26:56
+
+----
+
+Return-date: 2005-08-01 17:33:56
+
+----
+
+Inventory: page://ylvGgvH8eLQ7L4nP
+
+----
+
+Customer: page://62MZSyLkLyVVQ5Cs
+
+----
+
+Uuid: 2GcayaEos16RHE1N

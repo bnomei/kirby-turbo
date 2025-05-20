@@ -1,0 +1,17 @@
+Title: Inv 3546
+
+----
+
+Inventory-id: 3546
+
+----
+
+Film: page://ZeOs3QdCKvQUL6Gw
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: X5aRqLAmmHuI3egQ

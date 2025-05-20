@@ -1,0 +1,25 @@
+Title: Rental 6332
+
+----
+
+Rental-id: 6332
+
+----
+
+Rental-date: 2005-07-11 19:19:06
+
+----
+
+Return-date: 2005-07-13 13:51:06
+
+----
+
+Inventory: page://OD8eHYyKvDFiNhGn
+
+----
+
+Uuid: K85bDTZAut3yjwKJ
+
+----
+
+Customer: page://gyF67nPwxWbRqkYZ

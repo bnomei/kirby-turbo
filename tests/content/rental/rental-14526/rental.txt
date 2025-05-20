@@ -1,0 +1,21 @@
+Title: Rental 14526
+
+----
+
+Rental-id: 14526
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://OMAE4caeWQjpxtgM
+
+----
+
+Customer: page://5cEtw749lfuLkqIc
+
+----
+
+Uuid: hbpj4mihApfZx16p

@@ -1,0 +1,25 @@
+Title: Rental 92
+
+----
+
+Rental-id: 92
+
+----
+
+Rental-date: 2005-05-25 15:38:46
+
+----
+
+Return-date: 2005-05-31 13:40:46
+
+----
+
+Inventory: page://zU4uuoQQqlAkWZCt
+
+----
+
+Uuid: 04uNsepG0dRb0KGk
+
+----
+
+Customer: page://EN43JZfYCm84hq5t

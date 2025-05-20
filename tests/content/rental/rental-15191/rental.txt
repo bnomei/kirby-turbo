@@ -1,0 +1,21 @@
+Title: Rental 15191
+
+----
+
+Rental-id: 15191
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://fwFvFP16h6Limgx1
+
+----
+
+Customer: page://x5SWKXQpXhzjUJdL
+
+----
+
+Uuid: pdQHKTTjyWfJY6KS

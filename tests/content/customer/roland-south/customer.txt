@@ -1,0 +1,33 @@
+Title: ROLAND SOUTH
+
+----
+
+Customer-id: 521
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ROLAND
+
+----
+
+Last-name: SOUTH
+
+----
+
+Email: ROLAND.SOUTH@sakilacustomer.org
+
+----
+
+Address: page://PjFBbwKhauDrzSfP
+
+----
+
+Active: 1
+
+----
+
+Uuid: n1tj3686KMQn13h6

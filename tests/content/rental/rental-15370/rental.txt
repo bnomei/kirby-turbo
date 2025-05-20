@@ -1,0 +1,25 @@
+Title: Rental 15370
+
+----
+
+Rental-id: 15370
+
+----
+
+Rental-date: 2005-08-22 21:59:29
+
+----
+
+Return-date: 2005-08-27 16:32:29
+
+----
+
+Inventory: page://HUlImk1kpv8jRmMw
+
+----
+
+Customer: page://hkYVD2f74BBcnfGT
+
+----
+
+Uuid: V3O318roBjlFMkgm

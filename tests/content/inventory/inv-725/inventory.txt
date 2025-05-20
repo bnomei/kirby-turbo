@@ -1,0 +1,17 @@
+Title: Inv 725
+
+----
+
+Inventory-id: 725
+
+----
+
+Film: page://rYU3xQcgKGdlwLY7
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: LjmVKvlcY3m7f0DI

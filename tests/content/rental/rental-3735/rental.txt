@@ -1,0 +1,25 @@
+Title: Rental 3735
+
+----
+
+Rental-id: 3735
+
+----
+
+Rental-date: 2005-07-06 11:42:04
+
+----
+
+Return-date: 2005-07-12 14:33:04
+
+----
+
+Inventory: page://eJQg7wijR8FExZLg
+
+----
+
+Uuid: BHYKzFYZX22109Be
+
+----
+
+Customer: page://5cEtw749lfuLkqIc

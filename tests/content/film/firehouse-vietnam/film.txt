@@ -1,0 +1,43 @@
+Title: FIREHOUSE VIETNAM
+
+----
+
+Actors:
+
+- 'page://ikhz1wEjJMz3vCm4'
+- 'page://6jpBKUOTpGMSQxJe'
+- 'page://pW1gtWYG8hgYIJM4'
+- 'page://o0jpPkMBKXg668DK'
+- 'page://hzpjO6QvzfyB1LBD'
+
+----
+
+Film-id: 318
+
+----
+
+Description: A Awe-Inspiring Character Study of a Boat And a Boy who must Kill a Pastry Chef in The Sahara Desert
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 103
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: lFADWZvnGksjzhWg
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

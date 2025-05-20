@@ -1,0 +1,21 @@
+Title: Rental 13428
+
+----
+
+Rental-id: 13428
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://HpQneDW4w9J99tLL
+
+----
+
+Customer: page://074m4vQayjqUygEq
+
+----
+
+Uuid: HalzxyOmlJnSApRw

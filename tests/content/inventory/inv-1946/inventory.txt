@@ -1,0 +1,17 @@
+Title: Inv 1946
+
+----
+
+Inventory-id: 1946
+
+----
+
+Film: page://CBx5LMg6ZlhPo5mQ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: O85Zus4JF93dUN1t

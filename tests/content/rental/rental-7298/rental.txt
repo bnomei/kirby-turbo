@@ -1,0 +1,25 @@
+Title: Rental 7298
+
+----
+
+Rental-id: 7298
+
+----
+
+Rental-date: 2005-07-27 12:45:14
+
+----
+
+Return-date: 2005-07-30 07:02:14
+
+----
+
+Inventory: page://NHACPa9XvVpcDeZW
+
+----
+
+Customer: page://okaJqGigURtGJrFE
+
+----
+
+Uuid: pkJTwZFxeuggiPah

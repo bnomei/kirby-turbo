@@ -1,0 +1,17 @@
+Title: Inv 774
+
+----
+
+Inventory-id: 774
+
+----
+
+Film: page://YudTZAeInv8XFQ5C
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: TE4LHTsLHvRWPteM

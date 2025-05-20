@@ -1,0 +1,17 @@
+Title: Inv 4106
+
+----
+
+Inventory-id: 4106
+
+----
+
+Film: page://TA76R8F61TYUcZhH
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: yFXuBzEZowqzDLL9

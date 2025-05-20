@@ -1,0 +1,17 @@
+Title: Inv 1338
+
+----
+
+Inventory-id: 1338
+
+----
+
+Film: page://JzN7Qzaiqb6MmLE7
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: fwI46hQBFf5AkUpy

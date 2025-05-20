@@ -1,0 +1,25 @@
+Title: Rental 3808
+
+----
+
+Rental-id: 3808
+
+----
+
+Rental-date: 2005-07-06 15:15:35
+
+----
+
+Return-date: 2005-07-07 16:10:35
+
+----
+
+Inventory: page://h1MCsKVkGixe6qRg
+
+----
+
+Uuid: XEsZCtYfFLBB7mef
+
+----
+
+Customer: page://Ouab56J6iNBuj7fa

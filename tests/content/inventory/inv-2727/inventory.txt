@@ -1,0 +1,17 @@
+Title: Inv 2727
+
+----
+
+Inventory-id: 2727
+
+----
+
+Film: page://vora5sVe9reu6u3d
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: KsFX78eDp2J7opg0

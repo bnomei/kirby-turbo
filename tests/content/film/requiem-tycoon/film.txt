@@ -1,0 +1,46 @@
+Title: REQUIEM TYCOON
+
+----
+
+Actors:
+
+- 'page://NmIbTpy4ZSHrHfnI'
+- 'page://NlhyBSq5UemRMvfg'
+- 'page://9dZ7pytlckFxJvGe'
+- 'page://ZyRQLJXso6IqRkwR'
+- 'page://l9F1V32tlG60bBdO'
+- 'page://f54gdCyL7WpJ8aUr'
+- 'page://dRscV8wJJ6wok0jq'
+- 'page://Sl1QfOYn2gZWMd2L'
+
+----
+
+Film-id: 725
+
+----
+
+Description: A Unbelieveable Character Study of a Cat And a Database Administrator who must Pursue a Teacher in A Monastery
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 167
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: krbmWkvwgkQjjDzq
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

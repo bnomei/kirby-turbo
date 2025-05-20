@@ -1,0 +1,25 @@
+Title: Rental 9919
+
+----
+
+Rental-id: 9919
+
+----
+
+Rental-date: 2005-07-31 14:55:46
+
+----
+
+Return-date: 2005-08-08 11:43:46
+
+----
+
+Inventory: page://carpp1uEhEQ0sNJw
+
+----
+
+Customer: page://nUS9IDqP0XmLpG9F
+
+----
+
+Uuid: pn7Ooe526c0tw5k7

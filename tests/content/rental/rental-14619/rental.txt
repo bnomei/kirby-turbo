@@ -1,0 +1,25 @@
+Title: Rental 14619
+
+----
+
+Rental-id: 14619
+
+----
+
+Rental-date: 2005-08-21 18:10:03
+
+----
+
+Return-date: 2005-08-23 13:40:03
+
+----
+
+Inventory: page://FUxUxSVSCaiAdJIF
+
+----
+
+Customer: page://e5QOScWwwaP51UiZ
+
+----
+
+Uuid: ZEqrIiXSELa6JMei

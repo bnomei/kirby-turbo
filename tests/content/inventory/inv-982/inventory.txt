@@ -1,0 +1,17 @@
+Title: Inv 982
+
+----
+
+Inventory-id: 982
+
+----
+
+Film: page://heY8YYj8hEt1MT7j
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: OaqVmwHlJa8FrHMT

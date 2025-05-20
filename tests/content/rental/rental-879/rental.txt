@@ -1,0 +1,25 @@
+Title: Rental 879
+
+----
+
+Rental-id: 879
+
+----
+
+Rental-date: 2005-05-30 05:49:42
+
+----
+
+Return-date: 2005-06-05 01:45:42
+
+----
+
+Inventory: page://FSVl45sODwVCFbtx
+
+----
+
+Uuid: HJ7wquzceETKEnLn
+
+----
+
+Customer: page://rKjnon1qwpzbv3fn

@@ -1,0 +1,25 @@
+Title: Rental 8346
+
+----
+
+Rental-id: 8346
+
+----
+
+Rental-date: 2005-07-29 04:48:22
+
+----
+
+Return-date: 2005-08-01 04:22:22
+
+----
+
+Inventory: page://HiOFRrzG1PzThBEc
+
+----
+
+Customer: page://Touuz3iduKG3abAU
+
+----
+
+Uuid: Rnoo9YdjumERVoh1

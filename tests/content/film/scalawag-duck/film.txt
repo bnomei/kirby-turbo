@@ -1,0 +1,43 @@
+Title: SCALAWAG DUCK
+
+----
+
+Actors:
+
+- 'page://8Pmn5SWwDYgkHBaA'
+- 'page://9NAEa97MvjisWbzN'
+- 'page://JrsbillMdFUVLTOe'
+- 'page://WmeC1S3wVV4gdFE4'
+- 'page://X4t5CWB88ooC26Na'
+
+----
+
+Film-id: 767
+
+----
+
+Description: A Fateful Reflection of a Car And a Teacher who must Confront a Waitress in A Monastery
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 183
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: i09ZUgQcDRxEVuGe
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

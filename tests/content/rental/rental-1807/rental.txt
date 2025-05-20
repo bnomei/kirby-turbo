@@ -1,0 +1,25 @@
+Title: Rental 1807
+
+----
+
+Rental-id: 1807
+
+----
+
+Rental-date: 2005-06-16 20:58:59
+
+----
+
+Return-date: 2005-06-20 21:31:59
+
+----
+
+Inventory: page://Efqa5jL3x8IPygBp
+
+----
+
+Uuid: GgtEMyEbPhCpMYBF
+
+----
+
+Customer: page://e5QOScWwwaP51UiZ

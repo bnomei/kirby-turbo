@@ -1,0 +1,33 @@
+Title: PAULINE HENRY
+
+----
+
+Customer-id: 133
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: PAULINE
+
+----
+
+Last-name: HENRY
+
+----
+
+Email: PAULINE.HENRY@sakilacustomer.org
+
+----
+
+Address: page://bdYKwB2q2hhXg3v6
+
+----
+
+Active: 1
+
+----
+
+Uuid: YTXWnGj3tTFKF9yc

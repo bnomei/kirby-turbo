@@ -1,0 +1,25 @@
+Title: Rental 11300
+
+----
+
+Rental-id: 11300
+
+----
+
+Rental-date: 2005-08-02 15:37:42
+
+----
+
+Return-date: 2005-08-11 14:25:42
+
+----
+
+Inventory: page://FCoV74MmmC0XgnRK
+
+----
+
+Customer: page://B2GGWZGpzqZm6Gp7
+
+----
+
+Uuid: 4QjyTSN7OM08BE6P

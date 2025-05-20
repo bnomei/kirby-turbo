@@ -1,0 +1,25 @@
+Title: Rental 202
+
+----
+
+Rental-id: 202
+
+----
+
+Rental-date: 2005-05-26 07:27:36
+
+----
+
+Return-date: 2005-06-02 03:52:36
+
+----
+
+Inventory: page://iYxUHAw0ZBeGRdb3
+
+----
+
+Uuid: 3mRxc1dBct6tvNnq
+
+----
+
+Customer: page://M8eRI142xjYReqze

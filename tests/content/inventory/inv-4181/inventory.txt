@@ -1,0 +1,17 @@
+Title: Inv 4181
+
+----
+
+Inventory-id: 4181
+
+----
+
+Film: page://QvNu1O2zbVjfsjFw
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Tf9EvOmrhQP9kcOP

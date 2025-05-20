@@ -1,0 +1,33 @@
+Title: LEAH CURTIS
+
+----
+
+Customer-id: 270
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: LEAH
+
+----
+
+Last-name: CURTIS
+
+----
+
+Email: LEAH.CURTIS@sakilacustomer.org
+
+----
+
+Address: page://Yy5bPy4lNd26AbPe
+
+----
+
+Active: 1
+
+----
+
+Uuid: YNtCpMJMomhTZceJ

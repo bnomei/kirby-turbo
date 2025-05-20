@@ -1,0 +1,25 @@
+Title: Rental 5011
+
+----
+
+Rental-id: 5011
+
+----
+
+Rental-date: 2005-07-09 01:44:40
+
+----
+
+Return-date: 2005-07-11 00:58:40
+
+----
+
+Inventory: page://24n0V6ROIosTw5Sp
+
+----
+
+Uuid: BTvcSnRtEn8pS65v
+
+----
+
+Customer: page://2o7Ua8bnQm0l3GDC

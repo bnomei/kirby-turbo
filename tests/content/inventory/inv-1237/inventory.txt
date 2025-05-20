@@ -1,0 +1,17 @@
+Title: Inv 1237
+
+----
+
+Inventory-id: 1237
+
+----
+
+Film: page://lzf9i2E9ieyWeuWC
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: hIVk2BNlk17sRpvP

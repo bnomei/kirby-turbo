@@ -1,0 +1,17 @@
+Title: Inv 3221
+
+----
+
+Inventory-id: 3221
+
+----
+
+Film: page://i6nK30OBgHya9YTK
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 0u2NW7dTpryrfrkH

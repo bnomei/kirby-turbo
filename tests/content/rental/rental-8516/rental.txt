@@ -1,0 +1,25 @@
+Title: Rental 8516
+
+----
+
+Rental-id: 8516
+
+----
+
+Rental-date: 2005-07-29 10:00:03
+
+----
+
+Return-date: 2005-08-02 09:34:03
+
+----
+
+Inventory: page://GcVifQZB8ji9mVha
+
+----
+
+Customer: page://ZMPHt1kBgzua3Tmb
+
+----
+
+Uuid: vZJS7k5SNIbGGvU6

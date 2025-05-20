@@ -1,0 +1,17 @@
+Title: Inv 3040
+
+----
+
+Inventory-id: 3040
+
+----
+
+Film: page://Wm0Kzt7aNDBOgJJn
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: omsYrcxU8BnEZnAu

@@ -1,0 +1,21 @@
+Title: Rental 13719
+
+----
+
+Rental-id: 13719
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://NREqVvTA3r8eZ0W1
+
+----
+
+Customer: page://cnvPsOJZCE8gIQ4P
+
+----
+
+Uuid: qfaR6BCeejsJdFyh

@@ -1,0 +1,21 @@
+Title: Rental 13941
+
+----
+
+Rental-id: 13941
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://KsFX78eDp2J7opg0
+
+----
+
+Customer: page://kbGqUGnsmmbvnI45
+
+----
+
+Uuid: Ko4uC9j90ISQT9E5

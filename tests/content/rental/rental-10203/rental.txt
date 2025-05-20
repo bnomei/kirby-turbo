@@ -1,0 +1,25 @@
+Title: Rental 10203
+
+----
+
+Rental-id: 10203
+
+----
+
+Rental-date: 2005-08-01 00:45:27
+
+----
+
+Return-date: 2005-08-04 22:45:27
+
+----
+
+Inventory: page://pTy9tBejwHjRtfuc
+
+----
+
+Customer: page://AkaRCOxNSCiOcy32
+
+----
+
+Uuid: VWa07OGPE3h7Y5ST

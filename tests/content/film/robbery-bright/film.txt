@@ -1,0 +1,40 @@
+Title: ROBBERY BRIGHT
+
+----
+
+Actors:
+
+- 'page://e0jga56TJCBrOXvD'
+- 'page://isKOKKisNfJh2ta1'
+
+----
+
+Film-id: 736
+
+----
+
+Description: A Taut Reflection of a Robot And a Squirrel who must Fight a Boat in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 134
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: l1jBah5NwzVkM4Or
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

@@ -1,0 +1,43 @@
+Title: APOCALYPSE FLAMINGOS
+
+----
+
+Actors:
+
+- 'page://I7tdxqtamjxgIUCW'
+- 'page://G2CRwpBQJFawgg9Y'
+- 'page://1a2BLQivFz3Ch6Lx'
+- 'page://18rsmrxh7jfYQ50K'
+- 'page://Vt3bRByOUSEypvV6'
+
+----
+
+Film-id: 32
+
+----
+
+Description: A Astounding Story of a Dog And a Squirrel who must Defeat a Woman in An Abandoned Amusement Park
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 119
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: pgHcnwQIrqpOj9Fa
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

@@ -1,0 +1,43 @@
+Title: REDEMPTION COMFORTS
+
+----
+
+Actors:
+
+- 'page://MKZPC2AFXFjwPRw8'
+- 'page://sDEWocF2a3nQjJMo'
+- 'page://I440rKCeu4AX6xcF'
+- 'page://0h8tQJYts8gmFWwG'
+- 'page://OGjAu4hPWyVISsAa'
+
+----
+
+Film-id: 720
+
+----
+
+Description: A Emotional Documentary of a Dentist And a Woman who must Battle a Mad Scientist in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 179
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: kORLc1rST2kqFGaV
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

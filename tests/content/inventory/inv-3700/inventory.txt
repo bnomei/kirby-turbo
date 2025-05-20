@@ -1,0 +1,17 @@
+Title: Inv 3700
+
+----
+
+Inventory-id: 3700
+
+----
+
+Film: page://cxBX1iuD9IbXYvn0
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: NhQCNk87baksk0C8

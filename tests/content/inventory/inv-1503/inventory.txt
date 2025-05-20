@@ -1,0 +1,17 @@
+Title: Inv 1503
+
+----
+
+Inventory-id: 1503
+
+----
+
+Film: page://VOKqzXnmt525ArH9
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: uuHcBo5POyB1baq5

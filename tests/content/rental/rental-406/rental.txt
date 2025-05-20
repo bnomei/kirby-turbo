@@ -1,0 +1,25 @@
+Title: Rental 406
+
+----
+
+Rental-id: 406
+
+----
+
+Rental-date: 2005-05-27 13:46:46
+
+----
+
+Return-date: 2005-05-30 12:43:46
+
+----
+
+Inventory: page://GunIBDHHFzfMcONB
+
+----
+
+Uuid: Sca1o7XXkOdyrDIV
+
+----
+
+Customer: page://gKmpQHO21X5bYTQe

@@ -1,0 +1,25 @@
+Title: Rental 13136
+
+----
+
+Rental-id: 13136
+
+----
+
+Rental-date: 2005-08-19 12:24:23
+
+----
+
+Return-date: 2005-08-28 08:37:23
+
+----
+
+Inventory: page://Kza25iwvwTUScVlw
+
+----
+
+Customer: page://SGDmUxNER90s6kyU
+
+----
+
+Uuid: 8TMpe00v7cbtj0Od

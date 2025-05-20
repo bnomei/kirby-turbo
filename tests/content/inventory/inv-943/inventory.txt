@@ -1,0 +1,17 @@
+Title: Inv 943
+
+----
+
+Inventory-id: 943
+
+----
+
+Film: page://6cu0vld97G307Nke
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: N2xq7eE4kAoqPIsJ

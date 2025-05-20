@@ -1,0 +1,25 @@
+Title: Rental 690
+
+----
+
+Rental-id: 690
+
+----
+
+Rental-date: 2005-05-29 00:54:53
+
+----
+
+Return-date: 2005-06-06 00:45:53
+
+----
+
+Inventory: page://uE7qDVCyka86wrnw
+
+----
+
+Uuid: vlcJIZpfU4RdNa7A
+
+----
+
+Customer: page://31oQldQUu6n6nMkk

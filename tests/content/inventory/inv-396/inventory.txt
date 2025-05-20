@@ -1,0 +1,17 @@
+Title: Inv 396
+
+----
+
+Inventory-id: 396
+
+----
+
+Film: page://I4KHi6rWSbJHuKLj
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: sSHXFyuyTlIZJ6k5

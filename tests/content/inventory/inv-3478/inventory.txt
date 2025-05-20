@@ -1,0 +1,17 @@
+Title: Inv 3478
+
+----
+
+Inventory-id: 3478
+
+----
+
+Film: page://ckFMabVsFap9cexZ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 3wy6znAKBEh6LUX4

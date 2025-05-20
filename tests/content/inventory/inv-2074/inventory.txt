@@ -1,0 +1,17 @@
+Title: Inv 2074
+
+----
+
+Inventory-id: 2074
+
+----
+
+Film: page://lyaPuzFBKAqATiG8
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 0igEeRvYIFVwqFd1

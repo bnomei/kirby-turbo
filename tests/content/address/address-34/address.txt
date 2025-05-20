@@ -1,0 +1,37 @@
+Title: fe3c38e27e90c399c6f5161aed5d7fe2
+
+----
+
+Address-id: 34
+
+----
+
+Address: 1668 Anápolis Street
+
+----
+
+Address2: 
+
+----
+
+District: Taipei
+
+----
+
+City: page://F5prddLpsPLCUMtT
+
+----
+
+Postal-code: 50199
+
+----
+
+Phone: 525255540978
+
+----
+
+Location: 
+
+----
+
+Uuid: bK43qFpgtqk7c66n

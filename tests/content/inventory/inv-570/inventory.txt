@@ -1,0 +1,17 @@
+Title: Inv 570
+
+----
+
+Inventory-id: 570
+
+----
+
+Film: page://WT5NcgnYasVoDuDy
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 8qldnOlQa18Le7Ed

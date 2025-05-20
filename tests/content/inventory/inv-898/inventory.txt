@@ -1,0 +1,17 @@
+Title: Inv 898
+
+----
+
+Inventory-id: 898
+
+----
+
+Film: page://Q73hldMxLMfyUh0P
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: wBa8UB4j2jqWjsMy

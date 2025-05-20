@@ -1,0 +1,17 @@
+Title: Inv 1883
+
+----
+
+Inventory-id: 1883
+
+----
+
+Film: page://MiyXWOeAe6qfciiw
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: j3aAm0IzsuU9HA8x

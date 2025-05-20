@@ -1,0 +1,17 @@
+Title: Inv 3827
+
+----
+
+Inventory-id: 3827
+
+----
+
+Film: page://2sbg5kEdj60JECRU
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: IrTJAia9iZWaiaSG

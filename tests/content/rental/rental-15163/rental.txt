@@ -1,0 +1,25 @@
+Title: Rental 15163
+
+----
+
+Rental-id: 15163
+
+----
+
+Rental-date: 2005-08-22 14:43:13
+
+----
+
+Return-date: 2005-08-26 14:26:13
+
+----
+
+Inventory: page://BNt9UhdiD6Rw8ksf
+
+----
+
+Customer: page://QeuxX9yTBxjOmAeR
+
+----
+
+Uuid: EXbq5duXcGhyv5VY

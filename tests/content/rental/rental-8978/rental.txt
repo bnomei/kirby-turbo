@@ -1,0 +1,25 @@
+Title: Rental 8978
+
+----
+
+Rental-id: 8978
+
+----
+
+Rental-date: 2005-07-30 04:14:28
+
+----
+
+Return-date: 2005-08-06 09:08:28
+
+----
+
+Inventory: page://2n7V2UQvsrDiaWSU
+
+----
+
+Customer: page://stFkFNmIWPMkzEB2
+
+----
+
+Uuid: Dp5rm9ZcwumQ5BBl

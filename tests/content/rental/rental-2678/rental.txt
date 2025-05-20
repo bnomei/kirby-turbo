@@ -1,0 +1,25 @@
+Title: Rental 2678
+
+----
+
+Rental-id: 2678
+
+----
+
+Rental-date: 2005-06-19 12:12:23
+
+----
+
+Return-date: 2005-06-21 16:28:23
+
+----
+
+Inventory: page://RvwV1VVuuDbr7biN
+
+----
+
+Uuid: azcqGLXWYHe6QzRg
+
+----
+
+Customer: page://zIZEZREf483r6GLp

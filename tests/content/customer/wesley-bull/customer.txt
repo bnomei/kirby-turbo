@@ -1,0 +1,33 @@
+Title: WESLEY BULL
+
+----
+
+Customer-id: 469
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: WESLEY
+
+----
+
+Last-name: BULL
+
+----
+
+Email: WESLEY.BULL@sakilacustomer.org
+
+----
+
+Address: page://YOH3T5qz767NBcjA
+
+----
+
+Active: 1
+
+----
+
+Uuid: NB8qqTmaJphAOwtJ

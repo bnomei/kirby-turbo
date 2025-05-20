@@ -1,0 +1,45 @@
+Title: NASH CHOCOLAT
+
+----
+
+Actors:
+
+- 'page://xBL8rppzTt5cijUB'
+- 'page://Ppjj85F3dapvXsi8'
+- 'page://S8UoUinBIsjzumVd'
+- 'page://T2A5mLQSqhcfEEMm'
+- 'page://o0jpPkMBKXg668DK'
+- 'page://HBk8OpEyVf68VCvH'
+- 'page://IUEdThBjLk8TNUwy'
+
+----
+
+Film-id: 615
+
+----
+
+Description: A Epic Reflection of a Monkey And a Mad Cow who must Kill a Forensic Psychologist in An Abandoned Mine Shaft
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 180
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: Hup94TT5NKjIsBKd
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

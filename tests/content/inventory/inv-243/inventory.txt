@@ -1,0 +1,17 @@
+Title: Inv 243
+
+----
+
+Inventory-id: 243
+
+----
+
+Film: page://PyzZpMmR5hCM3BAX
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: JMoSy4vHM8N8JXmI

@@ -1,0 +1,33 @@
+Title: SETH HANNON
+
+----
+
+Customer-id: 590
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: SETH
+
+----
+
+Last-name: HANNON
+
+----
+
+Email: SETH.HANNON@sakilacustomer.org
+
+----
+
+Address: page://RtODY1yFbMQFZdwt
+
+----
+
+Active: 1
+
+----
+
+Uuid: wxusBiuOww6HZZuQ

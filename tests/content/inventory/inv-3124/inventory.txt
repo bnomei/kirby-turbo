@@ -1,0 +1,17 @@
+Title: Inv 3124
+
+----
+
+Inventory-id: 3124
+
+----
+
+Film: page://ZIJygfycgSQH5kxt
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: tBWmibfT4ynnCP9d

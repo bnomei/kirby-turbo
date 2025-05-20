@@ -1,0 +1,25 @@
+Title: Rental 3245
+
+----
+
+Rental-id: 3245
+
+----
+
+Rental-date: 2005-06-21 03:06:11
+
+----
+
+Return-date: 2005-06-25 08:06:11
+
+----
+
+Inventory: page://VPhHCz27uZrehQyw
+
+----
+
+Uuid: CVvrJM7MosrtmKlq
+
+----
+
+Customer: page://McQYe94eIKGmnPhl

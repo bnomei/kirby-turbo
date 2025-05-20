@@ -1,0 +1,33 @@
+Title: BRANDON HUEY
+
+----
+
+Customer-id: 366
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: BRANDON
+
+----
+
+Last-name: HUEY
+
+----
+
+Email: BRANDON.HUEY@sakilacustomer.org
+
+----
+
+Address: page://8WVJYRTbaNxak3Fn
+
+----
+
+Active: 1
+
+----
+
+Uuid: YQtY5BLLYVMlkjV2

@@ -1,0 +1,25 @@
+Title: Rental 4880
+
+----
+
+Rental-id: 4880
+
+----
+
+Rental-date: 2005-07-08 19:36:17
+
+----
+
+Return-date: 2005-07-13 00:01:17
+
+----
+
+Inventory: page://32Ng0G9MxI4SPBE4
+
+----
+
+Uuid: URrM2yXPFOLXs6WQ
+
+----
+
+Customer: page://Cko87GK3ShDjUK4Q

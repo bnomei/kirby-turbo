@@ -1,0 +1,17 @@
+Title: Inv 4076
+
+----
+
+Inventory-id: 4076
+
+----
+
+Film: page://mMqvLXKacBXMG67Y
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: GWEY5pw32ZscQHDW

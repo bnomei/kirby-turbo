@@ -1,0 +1,25 @@
+Title: Rental 2917
+
+----
+
+Rental-id: 2917
+
+----
+
+Rental-date: 2005-06-20 04:08:35
+
+----
+
+Return-date: 2005-06-24 01:17:35
+
+----
+
+Inventory: page://ICIPSaGa7sOWpPBj
+
+----
+
+Uuid: MVsU61oziUr7lXJr
+
+----
+
+Customer: page://JG06E1zPSAEHpqss

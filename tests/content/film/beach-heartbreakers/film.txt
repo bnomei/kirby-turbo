@@ -1,0 +1,45 @@
+Title: BEACH HEARTBREAKERS
+
+----
+
+Actors:
+
+- 'page://pAFoAtJmRtH6ome4'
+- 'page://JeeyeDJ3FmxSMbIy'
+- 'page://NlhyBSq5UemRMvfg'
+- 'page://S8UoUinBIsjzumVd'
+- 'page://wedufH6fwkxwowcr'
+- 'page://FSTBtYrNkVQnDKPa'
+- 'page://yg3e89enY7SGtRB6'
+
+----
+
+Film-id: 58
+
+----
+
+Description: A Fateful Display of a Womanizer And a Mad Scientist who must Outgun a A Shark in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 122
+
+----
+
+Rating: G
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: oH5pttbpLmfZzcZ5
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

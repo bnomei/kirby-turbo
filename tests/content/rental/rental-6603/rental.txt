@@ -1,0 +1,25 @@
+Title: Rental 6603
+
+----
+
+Rental-id: 6603
+
+----
+
+Rental-date: 2005-07-12 07:52:55
+
+----
+
+Return-date: 2005-07-16 13:19:55
+
+----
+
+Inventory: page://E6MClQkXQVfC4nQp
+
+----
+
+Uuid: MT1rxNCXl2zeju0j
+
+----
+
+Customer: page://Tk6dRJV6KbPM8ESQ

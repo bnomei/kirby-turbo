@@ -1,0 +1,33 @@
+Title: MAX PITT
+
+----
+
+Customer-id: 553
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MAX
+
+----
+
+Last-name: PITT
+
+----
+
+Email: MAX.PITT@sakilacustomer.org
+
+----
+
+Address: page://YJspflhvYomeI8dW
+
+----
+
+Active: 1
+
+----
+
+Uuid: 3ZP9ENxbl27URSN0

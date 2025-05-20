@@ -1,0 +1,42 @@
+Title: DESPERATE TRAINSPOTTING
+
+----
+
+Actors:
+
+- 'page://GwUKN9N7u1wbNu4w'
+- 'page://6LG8mbCuu1aKuRcl'
+- 'page://qCm78VMzP14zbmIL'
+- 'page://EMAJfjeYpdsSEXq5'
+
+----
+
+Film-id: 224
+
+----
+
+Description: A Epic Yarn of a Forensic Psychologist And a Teacher who must Face a Lumberjack in California
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 81
+
+----
+
+Rating: G
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: zjJUqdFekT0tOcpD
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

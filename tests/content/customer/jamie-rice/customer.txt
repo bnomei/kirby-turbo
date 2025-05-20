@@ -1,0 +1,33 @@
+Title: JAMIE RICE
+
+----
+
+Customer-id: 146
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JAMIE
+
+----
+
+Last-name: RICE
+
+----
+
+Email: JAMIE.RICE@sakilacustomer.org
+
+----
+
+Address: page://dDsBfKNa5JA9M8yo
+
+----
+
+Active: 1
+
+----
+
+Uuid: BHogzYqJMJV97w4u

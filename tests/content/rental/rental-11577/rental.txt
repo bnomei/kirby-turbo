@@ -1,0 +1,21 @@
+Title: Rental 11577
+
+----
+
+Rental-id: 11577
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://yFXuBzEZowqzDLL9
+
+----
+
+Customer: page://zjLEkMGR4HRu3jti
+
+----
+
+Uuid: rPKI6ehl3mFfy8FV

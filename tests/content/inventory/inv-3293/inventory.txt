@@ -1,0 +1,17 @@
+Title: Inv 3293
+
+----
+
+Inventory-id: 3293
+
+----
+
+Film: page://krbmWkvwgkQjjDzq
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ThvoI0SasrVo7V3V

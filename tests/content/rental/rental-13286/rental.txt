@@ -1,0 +1,25 @@
+Title: Rental 13286
+
+----
+
+Rental-id: 13286
+
+----
+
+Rental-date: 2005-08-19 18:28:07
+
+----
+
+Return-date: 2005-08-22 17:23:07
+
+----
+
+Inventory: page://kcvyQFcm4gXFnGM5
+
+----
+
+Customer: page://pb7ZrH0vPEWpfLP3
+
+----
+
+Uuid: 6VXbwuwcqKumsVmF

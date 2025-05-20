@@ -1,0 +1,17 @@
+Title: Inv 4174
+
+----
+
+Inventory-id: 4174
+
+----
+
+Film: page://C0Cy1IyrmkeBtlTR
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: XDUn6kiET9MFvMVe

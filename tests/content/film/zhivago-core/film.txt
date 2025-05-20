@@ -1,0 +1,44 @@
+Title: ZHIVAGO CORE
+
+----
+
+Actors:
+
+- 'page://xbVuFnPKikNsqVkK'
+- 'page://JeeyeDJ3FmxSMbIy'
+- 'page://HMQFYCzd6sL7s9te'
+- 'page://rnDcbekdB8oOqt97'
+- 'page://xXgVj4FQPZ59wjBk'
+- 'page://ohgPd8XBH6s5Q55J'
+
+----
+
+Film-id: 998
+
+----
+
+Description: A Fateful Yarn of a Composer And a Man who must Face a Boy in The Canadian Rockies
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 105
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: rDNCJ3mVhYu72HD0
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

@@ -1,0 +1,17 @@
+Title: Inv 1141
+
+----
+
+Inventory-id: 1141
+
+----
+
+Film: page://s6vC2ZaK9LqmAaJK
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: o7AqgvBcOIzITbLa

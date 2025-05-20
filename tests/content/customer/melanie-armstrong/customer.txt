@@ -1,0 +1,33 @@
+Title: MELANIE ARMSTRONG
+
+----
+
+Customer-id: 188
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MELANIE
+
+----
+
+Last-name: ARMSTRONG
+
+----
+
+Email: MELANIE.ARMSTRONG@sakilacustomer.org
+
+----
+
+Address: page://Dk8nNvmQkvf3AWv6
+
+----
+
+Active: 1
+
+----
+
+Uuid: 6zbsFStjd2wpvc1C

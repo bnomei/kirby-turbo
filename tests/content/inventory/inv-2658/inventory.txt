@@ -1,0 +1,17 @@
+Title: Inv 2658
+
+----
+
+Inventory-id: 2658
+
+----
+
+Film: page://TOKyEYVeTRjIWeQl
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: p07YUGxg5wlilihx

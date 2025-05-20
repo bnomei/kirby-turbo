@@ -1,0 +1,33 @@
+Title: KRISTIN JOHNSTON
+
+----
+
+Customer-id: 214
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: KRISTIN
+
+----
+
+Last-name: JOHNSTON
+
+----
+
+Email: KRISTIN.JOHNSTON@sakilacustomer.org
+
+----
+
+Address: page://3XaIGc5IbaseGA8R
+
+----
+
+Active: 1
+
+----
+
+Uuid: ZbOznINloPtmkvNK

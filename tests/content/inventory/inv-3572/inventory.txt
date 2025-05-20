@@ -1,0 +1,17 @@
+Title: Inv 3572
+
+----
+
+Inventory-id: 3572
+
+----
+
+Film: page://6SZrpAues6NbdpfF
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: KLkU7009A1z2x4Px

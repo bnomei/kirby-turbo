@@ -1,0 +1,25 @@
+Title: Rental 11399
+
+----
+
+Rental-id: 11399
+
+----
+
+Rental-date: 2005-08-02 18:56:28
+
+----
+
+Return-date: 2005-08-11 23:19:28
+
+----
+
+Inventory: page://8JSbt2l4BOgjBYXX
+
+----
+
+Customer: page://7AM12dZR8dD0mO7c
+
+----
+
+Uuid: fQMevWlao15sZ6bB

@@ -1,0 +1,17 @@
+Title: Inv 34
+
+----
+
+Inventory-id: 34
+
+----
+
+Film: page://nmYHiDwDPPC3rX1p
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 1oV731pr3loqYvZ3

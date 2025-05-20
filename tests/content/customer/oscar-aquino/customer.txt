@@ -1,0 +1,33 @@
+Title: OSCAR AQUINO
+
+----
+
+Customer-id: 449
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: OSCAR
+
+----
+
+Last-name: AQUINO
+
+----
+
+Email: OSCAR.AQUINO@sakilacustomer.org
+
+----
+
+Address: page://T4OaqT1GoGkKlNEk
+
+----
+
+Active: 1
+
+----
+
+Uuid: qJJ8JizjbgmdQ5eD

@@ -1,0 +1,17 @@
+Title: Inv 2180
+
+----
+
+Inventory-id: 2180
+
+----
+
+Film: page://Bv6L95VodOf07txg
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: aBysFztI9Ek5RicR

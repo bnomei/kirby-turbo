@@ -1,0 +1,17 @@
+Title: Inv 545
+
+----
+
+Inventory-id: 545
+
+----
+
+Film: page://lISW8jrk1u4nFbAB
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: vKXScEGT6C66Zoy0

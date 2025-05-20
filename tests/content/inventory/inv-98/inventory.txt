@@ -1,0 +1,17 @@
+Title: Inv 98
+
+----
+
+Inventory-id: 98
+
+----
+
+Film: page://QD77987HYcwUu7rS
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: XpF0SAvrvUPJO97O

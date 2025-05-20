@@ -1,0 +1,43 @@
+Title: WAKE JAWS
+
+----
+
+Actors:
+
+- 'page://Xu2nMG4ojUoJI7CN'
+- 'page://if8hfrmRoIODgwSa'
+- 'page://nfzjlyLmEQ6Q1S80'
+- 'page://X4t5CWB88ooC26Na'
+- 'page://xXgVj4FQPZ59wjBk'
+
+----
+
+Film-id: 954
+
+----
+
+Description: A Beautiful Saga of a Feminist And a Composer who must Challenge a Moose in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 73
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: Su5lRGsLzCWzR6xN
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

@@ -1,0 +1,25 @@
+Title: Rental 224
+
+----
+
+Rental-id: 224
+
+----
+
+Rental-date: 2005-05-26 10:18:27
+
+----
+
+Return-date: 2005-06-04 06:59:27
+
+----
+
+Inventory: page://7ywPpIBiAy0rlCCN
+
+----
+
+Uuid: yy48cM5TNmBs5BnZ
+
+----
+
+Customer: page://TA72aJUhlha5GAhY

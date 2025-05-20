@@ -1,0 +1,25 @@
+Title: Rental 5253
+
+----
+
+Rental-id: 5253
+
+----
+
+Rental-date: 2005-07-09 13:41:17
+
+----
+
+Return-date: 2005-07-17 17:09:17
+
+----
+
+Inventory: page://MKOp9IlNWqYi9SpY
+
+----
+
+Uuid: 5Zi0CSONEKd0Mx6x
+
+----
+
+Customer: page://jNinHUxNSvO3KbCp

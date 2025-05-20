@@ -1,0 +1,17 @@
+Title: Inv 2678
+
+----
+
+Inventory-id: 2678
+
+----
+
+Film: page://4lYx8YNAtVBePYBp
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: YhEee9CAB9g4z3ae

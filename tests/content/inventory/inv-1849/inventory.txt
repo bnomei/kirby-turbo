@@ -1,0 +1,17 @@
+Title: Inv 1849
+
+----
+
+Inventory-id: 1849
+
+----
+
+Film: page://k5CyzCLS8YJyub7p
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 3oWspYQbixrMGOiv

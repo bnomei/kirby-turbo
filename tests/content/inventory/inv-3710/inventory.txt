@@ -1,0 +1,17 @@
+Title: Inv 3710
+
+----
+
+Inventory-id: 3710
+
+----
+
+Film: page://wRP0xWifgqOiaUfB
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 0XzpRsjLv70TmvHe

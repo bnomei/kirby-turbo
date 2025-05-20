@@ -1,0 +1,17 @@
+Title: Inv 1235
+
+----
+
+Inventory-id: 1235
+
+----
+
+Film: page://dUaroWhMD6Ug8PIq
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: KKe2IuRk8C3RbdAM

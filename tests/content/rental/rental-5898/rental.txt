@@ -1,0 +1,25 @@
+Title: Rental 5898
+
+----
+
+Rental-id: 5898
+
+----
+
+Rental-date: 2005-07-10 20:18:09
+
+----
+
+Return-date: 2005-07-16 14:44:09
+
+----
+
+Inventory: page://QvMY4Xd0lduBmDfk
+
+----
+
+Uuid: F2bHVaKR24O9w41Q
+
+----
+
+Customer: page://gyF67nPwxWbRqkYZ

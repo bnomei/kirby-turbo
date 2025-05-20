@@ -1,0 +1,25 @@
+Title: Rental 15911
+
+----
+
+Rental-id: 15911
+
+----
+
+Rental-date: 2005-08-23 17:44:53
+
+----
+
+Return-date: 2005-09-01 19:14:53
+
+----
+
+Inventory: page://N3By2yIYnYb7L8vf
+
+----
+
+Customer: page://1IEX6ebAcThKNnCl
+
+----
+
+Uuid: vbp1eylqAl73UhBm

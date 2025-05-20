@@ -1,0 +1,17 @@
+Title: Inv 3003
+
+----
+
+Inventory-id: 3003
+
+----
+
+Film: page://KOYLfJgzTKApEtFJ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 5nTOYz6LeZHcdi0O

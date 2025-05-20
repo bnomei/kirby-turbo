@@ -1,0 +1,25 @@
+Title: Rental 5919
+
+----
+
+Rental-id: 5919
+
+----
+
+Rental-date: 2005-07-10 21:32:14
+
+----
+
+Return-date: 2005-07-12 16:47:14
+
+----
+
+Inventory: page://NyTjCSWKwV8dMFMk
+
+----
+
+Uuid: s2G3jO3BtXHH0Z2n
+
+----
+
+Customer: page://4x9Op7aGVprxBkqV

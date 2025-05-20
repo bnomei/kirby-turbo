@@ -1,0 +1,17 @@
+Title: Inv 3938
+
+----
+
+Inventory-id: 3938
+
+----
+
+Film: page://x1ui97TqXAH2TdXk
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: b2sgEBE5daHqmcMp

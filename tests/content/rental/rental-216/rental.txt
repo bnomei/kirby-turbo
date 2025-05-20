@@ -1,0 +1,25 @@
+Title: Rental 216
+
+----
+
+Rental-id: 216
+
+----
+
+Rental-date: 2005-05-26 09:17:43
+
+----
+
+Return-date: 2005-06-03 08:21:43
+
+----
+
+Inventory: page://OEE8KHEjDhoD28AE
+
+----
+
+Uuid: xLpeqKJEyci05Q7C
+
+----
+
+Customer: page://OukV1G0vQXX07Xku

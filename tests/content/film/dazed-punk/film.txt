@@ -1,0 +1,44 @@
+Title: DAZED PUNK
+
+----
+
+Actors:
+
+- 'page://V2PTX56N00hKjCOa'
+- 'page://7FlTvfT4DDNge34z'
+- 'page://S8UoUinBIsjzumVd'
+- 'page://m11q5cdDfIefOEY5'
+- 'page://o0jpPkMBKXg668DK'
+- 'page://CI649GdI5JvIKbQ1'
+
+----
+
+Film-id: 217
+
+----
+
+Description: A Action-Packed Story of a Pioneer And a Technical Writer who must Discover a Forensic Psychologist in An Abandoned Amusement Park
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 120
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: TZyU5b5DiglNdwXj
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

@@ -1,0 +1,25 @@
+Title: Rental 5781
+
+----
+
+Rental-id: 5781
+
+----
+
+Rental-date: 2005-07-10 13:49:30
+
+----
+
+Return-date: 2005-07-11 12:11:30
+
+----
+
+Inventory: page://k5mQpIVl1kiOt5Yi
+
+----
+
+Uuid: ZO0w9xJZY6metBfG
+
+----
+
+Customer: page://W5URxqu7M4t7ujHI

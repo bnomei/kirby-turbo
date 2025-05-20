@@ -1,0 +1,17 @@
+Title: Inv 2750
+
+----
+
+Inventory-id: 2750
+
+----
+
+Film: page://S36rO7YzPhvQcg67
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: za6pMXrv5EiLR0CI

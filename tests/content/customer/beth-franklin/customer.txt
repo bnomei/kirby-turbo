@@ -1,0 +1,33 @@
+Title: BETH FRANKLIN
+
+----
+
+Customer-id: 199
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: BETH
+
+----
+
+Last-name: FRANKLIN
+
+----
+
+Email: BETH.FRANKLIN@sakilacustomer.org
+
+----
+
+Address: page://pUXC2UdkwGyYrQrd
+
+----
+
+Active: 1
+
+----
+
+Uuid: aR5C6yOEP2AWS3bi

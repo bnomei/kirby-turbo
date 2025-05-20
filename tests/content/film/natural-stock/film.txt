@@ -1,0 +1,41 @@
+Title: NATURAL STOCK
+
+----
+
+Actors:
+
+- 'page://I440rKCeu4AX6xcF'
+- 'page://gELBLdH4G3cmVmcs'
+- 'page://EMAJfjeYpdsSEXq5'
+
+----
+
+Film-id: 617
+
+----
+
+Description: A Fast-Paced Story of a Sumo Wrestler And a Girl who must Defeat a Car in A Baloon Factory
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 50
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: 6DOw4n5nk1x31qdE
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

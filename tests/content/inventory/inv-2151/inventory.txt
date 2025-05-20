@@ -1,0 +1,17 @@
+Title: Inv 2151
+
+----
+
+Inventory-id: 2151
+
+----
+
+Film: page://6CDbpX32Jp2L56NH
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: QXcBGS7hr06lp1jx

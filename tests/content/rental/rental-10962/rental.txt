@@ -1,0 +1,25 @@
+Title: Rental 10962
+
+----
+
+Rental-id: 10962
+
+----
+
+Rental-date: 2005-08-02 03:48:13
+
+----
+
+Return-date: 2005-08-07 00:04:13
+
+----
+
+Inventory: page://EuxvX0zbC0OJnSTq
+
+----
+
+Customer: page://gyF67nPwxWbRqkYZ
+
+----
+
+Uuid: 417MkS4j58iydwei

@@ -1,0 +1,17 @@
+Title: Inv 1966
+
+----
+
+Inventory-id: 1966
+
+----
+
+Film: page://KEPRmmZ3KEJaDCbq
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: cShtgpI9CoKyxTCg

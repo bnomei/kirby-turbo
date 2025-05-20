@@ -1,0 +1,25 @@
+Title: Rental 709
+
+----
+
+Rental-id: 709
+
+----
+
+Rental-date: 2005-05-29 03:48:01
+
+----
+
+Return-date: 2005-06-06 05:21:01
+
+----
+
+Inventory: page://oVWQEZNDmArXow2i
+
+----
+
+Uuid: wTCB855Y2jXJ7X6n
+
+----
+
+Customer: page://fEgNYhgaLDG3CQLU

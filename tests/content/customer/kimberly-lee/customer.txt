@@ -1,0 +1,33 @@
+Title: KIMBERLY LEE
+
+----
+
+Customer-id: 24
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: KIMBERLY
+
+----
+
+Last-name: LEE
+
+----
+
+Email: KIMBERLY.LEE@sakilacustomer.org
+
+----
+
+Address: page://j9ROinBv5Qw3FuQo
+
+----
+
+Active: 1
+
+----
+
+Uuid: uQ3yoFTPxzlyQ9oP

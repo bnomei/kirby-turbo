@@ -1,0 +1,25 @@
+Title: Rental 4992
+
+----
+
+Rental-id: 4992
+
+----
+
+Rental-date: 2005-07-09 00:49:37
+
+----
+
+Return-date: 2005-07-16 02:05:37
+
+----
+
+Inventory: page://PWEIdMA2wlnJTAka
+
+----
+
+Uuid: GKCEI8n2NvjEiEe3
+
+----
+
+Customer: page://DJ9aTh2f2iT5jahF

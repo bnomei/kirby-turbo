@@ -1,0 +1,17 @@
+Title: Inv 4521
+
+----
+
+Inventory-id: 4521
+
+----
+
+Film: page://LDxNmINGckMivcDR
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: tkvJywWtxQrEbT0X

@@ -1,0 +1,33 @@
+Title: LUCY WHEELER
+
+----
+
+Customer-id: 208
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: LUCY
+
+----
+
+Last-name: WHEELER
+
+----
+
+Email: LUCY.WHEELER@sakilacustomer.org
+
+----
+
+Address: page://EriJ0gdFK4BsF1Vn
+
+----
+
+Active: 1
+
+----
+
+Uuid: cnvPsOJZCE8gIQ4P

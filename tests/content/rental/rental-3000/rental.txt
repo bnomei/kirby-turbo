@@ -1,0 +1,25 @@
+Title: Rental 3000
+
+----
+
+Rental-id: 3000
+
+----
+
+Rental-date: 2005-06-20 09:32:33
+
+----
+
+Return-date: 2005-06-22 07:45:33
+
+----
+
+Inventory: page://rNXoc2V2YmUJbv0P
+
+----
+
+Uuid: MshC1YudBIzXeRJP
+
+----
+
+Customer: page://SGDmUxNER90s6kyU

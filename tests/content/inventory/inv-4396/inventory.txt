@@ -1,0 +1,17 @@
+Title: Inv 4396
+
+----
+
+Inventory-id: 4396
+
+----
+
+Film: page://0oeFnmeLg4QilRcA
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: KEeJvZYPfKOCYX6G

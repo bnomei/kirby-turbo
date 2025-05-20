@@ -1,0 +1,17 @@
+Title: Inv 714
+
+----
+
+Inventory-id: 714
+
+----
+
+Film: page://xlC7cPZUjKnPMPdg
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: R1eaOXniQwjGDI7i

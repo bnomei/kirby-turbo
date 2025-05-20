@@ -1,0 +1,25 @@
+Title: Rental 7954
+
+----
+
+Rental-id: 7954
+
+----
+
+Rental-date: 2005-07-28 13:25:05
+
+----
+
+Return-date: 2005-07-29 18:50:05
+
+----
+
+Inventory: page://4Rs7YzgWpZfysa5a
+
+----
+
+Customer: page://yjYvst4Pui2DtNsv
+
+----
+
+Uuid: AJc4szRbiG2CoGg6

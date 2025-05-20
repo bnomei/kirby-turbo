@@ -1,0 +1,25 @@
+Title: Rental 4
+
+----
+
+Rental-id: 4
+
+----
+
+Rental-date: 2005-05-24 23:04:41
+
+----
+
+Return-date: 2005-06-03 01:43:41
+
+----
+
+Inventory: page://AaIPt4VMb2vdGEef
+
+----
+
+Uuid: xDDWRKL8BrM63O25
+
+----
+
+Customer: page://CsIYfAHiugAHCCPA

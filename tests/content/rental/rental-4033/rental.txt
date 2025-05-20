@@ -1,0 +1,25 @@
+Title: Rental 4033
+
+----
+
+Rental-id: 4033
+
+----
+
+Rental-date: 2005-07-07 02:35:46
+
+----
+
+Return-date: 2005-07-16 01:12:46
+
+----
+
+Inventory: page://n21rgB2T3oGSAJkV
+
+----
+
+Uuid: BjY5AyrDm3cevuLt
+
+----
+
+Customer: page://KtdUvW4BiY66VFBy

@@ -1,0 +1,25 @@
+Title: Rental 1871
+
+----
+
+Rental-id: 1871
+
+----
+
+Rental-date: 2005-06-17 02:25:12
+
+----
+
+Return-date: 2005-06-23 03:16:12
+
+----
+
+Inventory: page://LFOdh1AfeJt2idlY
+
+----
+
+Uuid: iYl4bwP4NRQraUBC
+
+----
+
+Customer: page://EHG1KPde4Qz7eHkw

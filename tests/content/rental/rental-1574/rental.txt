@@ -1,0 +1,25 @@
+Title: Rental 1574
+
+----
+
+Rental-id: 1574
+
+----
+
+Rental-date: 2005-06-16 03:39:56
+
+----
+
+Return-date: 2005-06-22 05:40:56
+
+----
+
+Inventory: page://zjYnec5enW1pX8Qs
+
+----
+
+Uuid: 09809YQdq2XrfpE5
+
+----
+
+Customer: page://7iGZLGyiqgYlIYqZ

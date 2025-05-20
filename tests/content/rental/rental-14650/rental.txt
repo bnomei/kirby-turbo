@@ -1,0 +1,25 @@
+Title: Rental 14650
+
+----
+
+Rental-id: 14650
+
+----
+
+Rental-date: 2005-08-21 19:24:51
+
+----
+
+Return-date: 2005-08-25 13:58:51
+
+----
+
+Inventory: page://HbG2mhwLA2qy7vrL
+
+----
+
+Customer: page://6kK9aIjaQGPeA4BK
+
+----
+
+Uuid: jwlyhIqhf9nqgo34

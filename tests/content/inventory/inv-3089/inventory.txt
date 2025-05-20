@@ -1,0 +1,17 @@
+Title: Inv 3089
+
+----
+
+Inventory-id: 3089
+
+----
+
+Film: page://Kix8SxAMrVV3Jdl2
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: t1L0HUApvjB5UBlz

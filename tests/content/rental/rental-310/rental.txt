@@ -1,0 +1,25 @@
+Title: Rental 310
+
+----
+
+Rental-id: 310
+
+----
+
+Rental-date: 2005-05-26 22:41:07
+
+----
+
+Return-date: 2005-06-02 04:09:07
+
+----
+
+Inventory: page://NskFQvf0sttOeWLf
+
+----
+
+Uuid: RAmbTnj7o5NTWuJd
+
+----
+
+Customer: page://uedEHcyGADIOfSLA

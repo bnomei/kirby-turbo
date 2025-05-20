@@ -1,0 +1,25 @@
+Title: Rental 3616
+
+----
+
+Rental-id: 3616
+
+----
+
+Rental-date: 2005-07-06 05:52:13
+
+----
+
+Return-date: 2005-07-10 10:24:13
+
+----
+
+Inventory: page://VU1z96zCGddvw660
+
+----
+
+Uuid: 2ESBanDdn64LytB3
+
+----
+
+Customer: page://NrH2ag1h7sBRKnqA

@@ -1,0 +1,17 @@
+Title: Inv 1171
+
+----
+
+Inventory-id: 1171
+
+----
+
+Film: page://ZKewGEraEtLTZY2Z
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: dR4cPtIQgl3l9B3m

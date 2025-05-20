@@ -1,0 +1,25 @@
+Title: Rental 2027
+
+----
+
+Rental-id: 2027
+
+----
+
+Rental-date: 2005-06-17 13:06:56
+
+----
+
+Return-date: 2005-06-23 13:46:56
+
+----
+
+Inventory: page://WMPHcSZLFPbbM8gh
+
+----
+
+Uuid: KMz52TkJBr9BIsxz
+
+----
+
+Customer: page://EuCelU8WBhgPVGZL

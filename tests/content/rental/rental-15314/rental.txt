@@ -1,0 +1,21 @@
+Title: Rental 15314
+
+----
+
+Rental-id: 15314
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://XQhnxPgOgQhewHbq
+
+----
+
+Customer: page://7L8rEdWDVFlYJ1mL
+
+----
+
+Uuid: olzJobiaoqF9xOuP

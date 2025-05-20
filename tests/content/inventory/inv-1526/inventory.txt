@@ -1,0 +1,17 @@
+Title: Inv 1526
+
+----
+
+Inventory-id: 1526
+
+----
+
+Film: page://KwgLWF2jeDeGSp6R
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: XCoYqFU8lLWhsg1M

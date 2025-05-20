@@ -1,0 +1,25 @@
+Title: Rental 632
+
+----
+
+Rental-id: 632
+
+----
+
+Rental-date: 2005-05-28 17:37:50
+
+----
+
+Return-date: 2005-06-03 16:04:50
+
+----
+
+Inventory: page://iJTkEUyNFrVexTRD
+
+----
+
+Uuid: qWyyRdt0Ie2ENCL3
+
+----
+
+Customer: page://eYENgXyv63Ee6XxS

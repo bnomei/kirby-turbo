@@ -1,0 +1,17 @@
+Title: Inv 3749
+
+----
+
+Inventory-id: 3749
+
+----
+
+Film: page://rVwGkWkqe4ZfFnJo
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 4LsV3d3RWpDjZivf

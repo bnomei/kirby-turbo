@@ -1,0 +1,25 @@
+Title: Rental 7908
+
+----
+
+Rental-id: 7908
+
+----
+
+Rental-date: 2005-07-28 11:32:57
+
+----
+
+Return-date: 2005-08-03 13:30:57
+
+----
+
+Inventory: page://pCKpXyPc2SzetfiX
+
+----
+
+Customer: page://7SY2KMPnL0FSeq6W
+
+----
+
+Uuid: r14CSbxewtEWIINr

@@ -1,0 +1,25 @@
+Title: Rental 13461
+
+----
+
+Rental-id: 13461
+
+----
+
+Rental-date: 2005-08-20 00:49:04
+
+----
+
+Return-date: 2005-08-28 02:49:04
+
+----
+
+Inventory: page://RYKgVmHuLkuuIwSU
+
+----
+
+Customer: page://B3L4KGTOB2xEaMbu
+
+----
+
+Uuid: xvbaBy2p1jSGdzYx

@@ -1,0 +1,17 @@
+Title: Inv 1561
+
+----
+
+Inventory-id: 1561
+
+----
+
+Film: page://i2peNN84NuX6xnCg
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: YKiolH32WT9dYI1O

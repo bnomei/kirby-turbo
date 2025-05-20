@@ -1,0 +1,25 @@
+Title: Rental 248
+
+----
+
+Rental-id: 248
+
+----
+
+Rental-date: 2005-05-26 14:07:58
+
+----
+
+Return-date: 2005-05-31 14:03:58
+
+----
+
+Inventory: page://sB5Z17SL618qW1av
+
+----
+
+Uuid: 4b91hNrHLUcKNiQX
+
+----
+
+Customer: page://Yh1wxvDrPfYOmxl5

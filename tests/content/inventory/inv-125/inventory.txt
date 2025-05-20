@@ -1,0 +1,17 @@
+Title: Inv 125
+
+----
+
+Inventory-id: 125
+
+----
+
+Film: page://lJxiqdvJVqqmeEXz
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: TL15s66hr1XATG2S

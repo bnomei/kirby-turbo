@@ -1,0 +1,17 @@
+Title: Inv 3630
+
+----
+
+Inventory-id: 3630
+
+----
+
+Film: page://PaIxrOYLA8ZFY2ov
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: oDytYCQjArv7yHtA

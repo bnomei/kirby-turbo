@@ -1,0 +1,17 @@
+Title: Inv 2016
+
+----
+
+Inventory-id: 2016
+
+----
+
+Film: page://TM1OS1axuCzRnxfJ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Vy0CRdspqReDdhiV

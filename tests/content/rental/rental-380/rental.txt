@@ -1,0 +1,25 @@
+Title: Rental 380
+
+----
+
+Rental-id: 380
+
+----
+
+Rental-date: 2005-05-27 09:34:39
+
+----
+
+Return-date: 2005-06-04 11:45:39
+
+----
+
+Inventory: page://wATnAfgJDhyCucrE
+
+----
+
+Uuid: GSQDlLEs4z7jxB3q
+
+----
+
+Customer: page://8I9W8oDFPxssbhIJ

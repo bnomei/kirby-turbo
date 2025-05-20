@@ -1,0 +1,25 @@
+Title: Rental 1639
+
+----
+
+Rental-id: 1639
+
+----
+
+Rental-date: 2005-06-16 08:33:39
+
+----
+
+Return-date: 2005-06-25 07:51:39
+
+----
+
+Inventory: page://Vj3ltoIf9C3qnqxr
+
+----
+
+Uuid: sySPp7UkX7l4pO3o
+
+----
+
+Customer: page://iEI8EkTsORmGUdqi

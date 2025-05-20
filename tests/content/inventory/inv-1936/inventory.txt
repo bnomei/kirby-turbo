@@ -1,0 +1,17 @@
+Title: Inv 1936
+
+----
+
+Inventory-id: 1936
+
+----
+
+Film: page://jy4a8cLfJsqB2YjF
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: kxBW12BN3HHysK7w

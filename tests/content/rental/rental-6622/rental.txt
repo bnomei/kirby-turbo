@@ -1,0 +1,25 @@
+Title: Rental 6622
+
+----
+
+Rental-id: 6622
+
+----
+
+Rental-date: 2005-07-12 09:04:11
+
+----
+
+Return-date: 2005-07-13 04:27:11
+
+----
+
+Inventory: page://2TuJsyz0FdJHklZW
+
+----
+
+Uuid: KZkvLCFpsApGmcL1
+
+----
+
+Customer: page://AA7ZNxlWuFGguRuP

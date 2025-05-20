@@ -1,0 +1,25 @@
+Title: Rental 4481
+
+----
+
+Rental-id: 4481
+
+----
+
+Rental-date: 2005-07-08 00:58:15
+
+----
+
+Return-date: 2005-07-11 23:22:15
+
+----
+
+Inventory: page://wH10JPtiN8ONVRDl
+
+----
+
+Uuid: H2va1GlCvbPdze4I
+
+----
+
+Customer: page://MfhMnukEGd8RhsqE

@@ -1,0 +1,33 @@
+Title: LUCILLE HOLMES
+
+----
+
+Customer-id: 145
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: LUCILLE
+
+----
+
+Last-name: HOLMES
+
+----
+
+Email: LUCILLE.HOLMES@sakilacustomer.org
+
+----
+
+Address: page://w2uaFEAwbTPmQx5x
+
+----
+
+Active: 1
+
+----
+
+Uuid: yjYvst4Pui2DtNsv

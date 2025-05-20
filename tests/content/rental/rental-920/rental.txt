@@ -1,0 +1,25 @@
+Title: Rental 920
+
+----
+
+Rental-id: 920
+
+----
+
+Rental-date: 2005-05-30 11:44:01
+
+----
+
+Return-date: 2005-06-02 08:19:01
+
+----
+
+Inventory: page://rWkxoDWLJom9MEdS
+
+----
+
+Uuid: 2wS0UXeba3MJYQQK
+
+----
+
+Customer: page://39hvxMFvUZi2TOlv

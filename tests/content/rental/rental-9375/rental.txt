@@ -1,0 +1,25 @@
+Title: Rental 9375
+
+----
+
+Rental-id: 9375
+
+----
+
+Rental-date: 2005-07-30 19:10:17
+
+----
+
+Return-date: 2005-08-02 23:00:17
+
+----
+
+Inventory: page://mIgMpDQyZx1Dvin9
+
+----
+
+Customer: page://6T1yeRwVMaJSaTXA
+
+----
+
+Uuid: nAGspXpFMvNrt7T1

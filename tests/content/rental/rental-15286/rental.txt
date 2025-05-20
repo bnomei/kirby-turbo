@@ -1,0 +1,25 @@
+Title: Rental 15286
+
+----
+
+Rental-id: 15286
+
+----
+
+Rental-date: 2005-08-22 19:17:56
+
+----
+
+Return-date: 2005-08-29 16:08:56
+
+----
+
+Inventory: page://szkxhBSJhFLt7AAN
+
+----
+
+Customer: page://DLbUVRHa13C72rZ2
+
+----
+
+Uuid: EVJQG0iTEdJfsYCF

@@ -1,0 +1,25 @@
+Title: Rental 4310
+
+----
+
+Rental-id: 4310
+
+----
+
+Rental-date: 2005-07-07 17:30:56
+
+----
+
+Return-date: 2005-07-12 13:19:56
+
+----
+
+Inventory: page://2okgYPLbeGSPe2Yz
+
+----
+
+Uuid: JP2akna0sgRifvVK
+
+----
+
+Customer: page://pqDg6kDmCdvbDclp

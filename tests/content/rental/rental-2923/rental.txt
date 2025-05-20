@@ -1,0 +1,25 @@
+Title: Rental 2923
+
+----
+
+Rental-id: 2923
+
+----
+
+Rental-date: 2005-06-20 04:16:07
+
+----
+
+Return-date: 2005-06-21 05:04:07
+
+----
+
+Inventory: page://WOzOqRW42u6jRveU
+
+----
+
+Uuid: VpMN14FfcZb3OMS2
+
+----
+
+Customer: page://c7lkRFQFPsFgIejg

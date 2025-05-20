@@ -1,0 +1,17 @@
+Title: Inv 1664
+
+----
+
+Inventory-id: 1664
+
+----
+
+Film: page://SUMTsSQ2ilMXfenM
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: WM912EdrP5RBX9u6

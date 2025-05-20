@@ -1,0 +1,25 @@
+Title: Rental 223
+
+----
+
+Rental-id: 223
+
+----
+
+Rental-date: 2005-05-26 10:15:23
+
+----
+
+Return-date: 2005-05-30 11:43:23
+
+----
+
+Inventory: page://XZgBKu2Wj49aJMP4
+
+----
+
+Uuid: 5cioXSWPaZOvTA06
+
+----
+
+Customer: page://8rYUMFeo4rjtDGSj

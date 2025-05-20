@@ -1,0 +1,25 @@
+Title: Rental 1019
+
+----
+
+Rental-id: 1019
+
+----
+
+Rental-date: 2005-05-31 03:05:07
+
+----
+
+Return-date: 2005-06-03 08:34:07
+
+----
+
+Inventory: page://uQjEIhfjL3327MC6
+
+----
+
+Uuid: MhMsAVELXsFO7d0n
+
+----
+
+Customer: page://TqDbE1YY8IbS4H7K

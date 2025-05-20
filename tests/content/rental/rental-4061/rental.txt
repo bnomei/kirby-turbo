@@ -1,0 +1,25 @@
+Title: Rental 4061
+
+----
+
+Rental-id: 4061
+
+----
+
+Rental-date: 2005-07-07 04:13:35
+
+----
+
+Return-date: 2005-07-10 23:58:35
+
+----
+
+Inventory: page://k5BdPzHG2gLhxmhm
+
+----
+
+Uuid: gt1uY2DBeKbio76R
+
+----
+
+Customer: page://OgdGkik1rnAhaDTs

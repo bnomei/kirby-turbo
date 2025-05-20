@@ -1,0 +1,17 @@
+Title: Inv 3625
+
+----
+
+Inventory-id: 3625
+
+----
+
+Film: page://kh9nIsdUqUaqo5w1
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: oSM1NtzepNmWdtzB

@@ -1,0 +1,25 @@
+Title: Rental 97
+
+----
+
+Rental-id: 97
+
+----
+
+Rental-date: 2005-05-25 16:34:24
+
+----
+
+Return-date: 2005-05-28 12:13:24
+
+----
+
+Inventory: page://SF1cQEvG0g90PXra
+
+----
+
+Uuid: R4jhj09cHlUN7XdF
+
+----
+
+Customer: page://LkVYh5o7IeTTcWDZ

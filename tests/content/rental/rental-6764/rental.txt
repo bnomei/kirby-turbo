@@ -1,0 +1,25 @@
+Title: Rental 6764
+
+----
+
+Rental-id: 6764
+
+----
+
+Rental-date: 2005-07-12 15:29:27
+
+----
+
+Return-date: 2005-07-21 20:00:27
+
+----
+
+Inventory: page://DRTjeUZ6lsgSCQ3A
+
+----
+
+Uuid: OmCpCtDoof7iNX2A
+
+----
+
+Customer: page://FypwLDxElvzTV30Q

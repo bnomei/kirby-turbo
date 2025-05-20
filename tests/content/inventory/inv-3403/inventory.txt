@@ -1,0 +1,17 @@
+Title: Inv 3403
+
+----
+
+Inventory-id: 3403
+
+----
+
+Film: page://cRgWUGZu2oruoPZV
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: reqCfrooTKYDt4Mf

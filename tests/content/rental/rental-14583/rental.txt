@@ -1,0 +1,25 @@
+Title: Rental 14583
+
+----
+
+Rental-id: 14583
+
+----
+
+Rental-date: 2005-08-21 17:11:47
+
+----
+
+Return-date: 2005-08-24 16:16:47
+
+----
+
+Inventory: page://v1iKluoCRqRUcdie
+
+----
+
+Customer: page://yZByBc3rF7VvRjSr
+
+----
+
+Uuid: bNbOI6vJk2RpKAMk

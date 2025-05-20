@@ -1,0 +1,17 @@
+Title: Inv 2660
+
+----
+
+Inventory-id: 2660
+
+----
+
+Film: page://TOKyEYVeTRjIWeQl
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 8N3kEYjN74veL7sz

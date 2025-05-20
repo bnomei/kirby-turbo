@@ -1,0 +1,17 @@
+Title: Inv 1949
+
+----
+
+Inventory-id: 1949
+
+----
+
+Film: page://CBx5LMg6ZlhPo5mQ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: hcxjtMnr4VEuCK7E

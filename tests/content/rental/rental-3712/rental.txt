@@ -1,0 +1,25 @@
+Title: Rental 3712
+
+----
+
+Rental-id: 3712
+
+----
+
+Rental-date: 2005-07-06 10:47:35
+
+----
+
+Return-date: 2005-07-15 09:39:35
+
+----
+
+Inventory: page://5maCLoDnQrMVfejq
+
+----
+
+Uuid: QXu2njhWV6j4E4FV
+
+----
+
+Customer: page://3TbKsrXXeDJmJc4J

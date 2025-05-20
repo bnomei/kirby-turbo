@@ -1,0 +1,25 @@
+Title: Rental 9047
+
+----
+
+Rental-id: 9047
+
+----
+
+Rental-date: 2005-07-30 06:56:33
+
+----
+
+Return-date: 2005-08-08 06:40:33
+
+----
+
+Inventory: page://OhJ3EmJMjIkWc3py
+
+----
+
+Customer: page://azLzg4bnImGnXayq
+
+----
+
+Uuid: I544Mn9tm7DlmoCr

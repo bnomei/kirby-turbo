@@ -1,0 +1,41 @@
+Title: BUTCH PANTHER
+
+----
+
+Actors:
+
+- 'page://9zoYPXEbxK6liKqc'
+- 'page://6YS8rkTURbcXafoi'
+- 'page://twoON2iToIZq1akt'
+
+----
+
+Film-id: 108
+
+----
+
+Description: A Lacklusture Yarn of a Feminist And a Database Administrator who must Face a Hunter in New Orleans
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 67
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: 5X74r3Q4Bye2fx4j
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

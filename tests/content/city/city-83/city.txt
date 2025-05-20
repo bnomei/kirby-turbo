@@ -1,0 +1,17 @@
+Title: Blumenau
+
+----
+
+City-id: 83
+
+----
+
+City: Blumenau
+
+----
+
+Country: page://jIqa2ZvYow6Egqhx
+
+----
+
+Uuid: mvmnE4idGf111MS0

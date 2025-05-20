@@ -1,0 +1,25 @@
+Title: Rental 6699
+
+----
+
+Rental-id: 6699
+
+----
+
+Rental-date: 2005-07-12 12:45:21
+
+----
+
+Return-date: 2005-07-15 12:59:21
+
+----
+
+Inventory: page://2aliJpb8ljFICbml
+
+----
+
+Uuid: FQuOjGVLSfYG0YXr
+
+----
+
+Customer: page://7AM12dZR8dD0mO7c

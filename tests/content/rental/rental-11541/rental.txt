@@ -1,0 +1,21 @@
+Title: Rental 11541
+
+----
+
+Rental-id: 11541
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://QIt1BLRvnRWDNWdu
+
+----
+
+Customer: page://oE79ihefnb125Y1I
+
+----
+
+Uuid: CAIDWlpjzNe0RJTs

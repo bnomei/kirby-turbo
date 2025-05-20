@@ -1,0 +1,25 @@
+Title: Rental 9297
+
+----
+
+Rental-id: 9297
+
+----
+
+Rental-date: 2005-07-30 16:26:29
+
+----
+
+Return-date: 2005-08-03 13:51:29
+
+----
+
+Inventory: page://3zCYytEN9h3RuqZY
+
+----
+
+Customer: page://bHbo1PFIkaygpNBz
+
+----
+
+Uuid: pRNuxDfLACpA9zEF

@@ -1,0 +1,25 @@
+Title: Rental 189
+
+----
+
+Rental-id: 189
+
+----
+
+Rental-date: 2005-05-26 06:01:41
+
+----
+
+Return-date: 2005-05-27 06:11:41
+
+----
+
+Inventory: page://UEDoHf5OXXCJhLsT
+
+----
+
+Uuid: Azpatn8gtJI2w1Dx
+
+----
+
+Customer: page://Z0SLCRZPQYYmETgw

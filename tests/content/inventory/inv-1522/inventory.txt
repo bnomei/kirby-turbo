@@ -1,0 +1,17 @@
+Title: Inv 1522
+
+----
+
+Inventory-id: 1522
+
+----
+
+Film: page://hYhmJ2sn0NMkdf5O
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: f8xYhbVPmN8AxuI0

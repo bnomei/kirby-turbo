@@ -1,0 +1,17 @@
+Title: Inv 3695
+
+----
+
+Inventory-id: 3695
+
+----
+
+Film: page://XfpqJiQyWDqF9n65
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Ba9YBIcRkHqNwSJS

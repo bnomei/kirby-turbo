@@ -1,0 +1,17 @@
+Title: Inv 275
+
+----
+
+Inventory-id: 275
+
+----
+
+Film: page://IyZ5AziWSQmMWUFP
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: nqisYsZWEDgEIIBl

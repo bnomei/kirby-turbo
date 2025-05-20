@@ -1,0 +1,17 @@
+Title: Inv 1673
+
+----
+
+Inventory-id: 1673
+
+----
+
+Film: page://XaFb2ccssA5iFSfu
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: bJtwCQn72x3yCXx7

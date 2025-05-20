@@ -1,0 +1,46 @@
+Title: CLUELESS BUCKET
+
+----
+
+Actors:
+
+- 'page://xbVuFnPKikNsqVkK'
+- 'page://CsoOTyxORoAs7uZy'
+- 'page://wxM7fPnQeVIlPpuJ'
+- 'page://rTdvG0vGkNN8iJpQ'
+- 'page://LYJoMM1yt0Pr5l4j'
+- 'page://KV54RGx9NMbLtwi4'
+- 'page://j4GwVyPWyXE95Bdj'
+- 'page://CBtLT02Rklp5i11L'
+
+----
+
+Film-id: 162
+
+----
+
+Description: A Taut Tale of a Car And a Pioneer who must Conquer a Sumo Wrestler in An Abandoned Fun House
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 95
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: b3WR2wrdQ8FGZBtm
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

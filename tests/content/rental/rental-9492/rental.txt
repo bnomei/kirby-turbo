@@ -1,0 +1,25 @@
+Title: Rental 9492
+
+----
+
+Rental-id: 9492
+
+----
+
+Rental-date: 2005-07-30 23:52:21
+
+----
+
+Return-date: 2005-08-08 20:50:21
+
+----
+
+Inventory: page://i2yKppxtkYvr0mAE
+
+----
+
+Customer: page://4XMwdFimnTGUEo5B
+
+----
+
+Uuid: VdoK9BG4jXYyrYhE

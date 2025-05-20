@@ -1,0 +1,25 @@
+Title: Rental 10803
+
+----
+
+Rental-id: 10803
+
+----
+
+Rental-date: 2005-08-01 22:22:07
+
+----
+
+Return-date: 2005-08-08 02:37:07
+
+----
+
+Inventory: page://UhEf27Rbnb5vNZwK
+
+----
+
+Customer: page://uTsl9Wlh901HIAgF
+
+----
+
+Uuid: 9a6LBFuOXDantBhu

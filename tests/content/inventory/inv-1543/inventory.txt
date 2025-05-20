@@ -1,0 +1,17 @@
+Title: Inv 1543
+
+----
+
+Inventory-id: 1543
+
+----
+
+Film: page://B0Ss8TCY0mWwHbp8
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 79FoakKyTOaK6OBe

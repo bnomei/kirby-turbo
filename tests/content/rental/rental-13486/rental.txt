@@ -1,0 +1,21 @@
+Title: Rental 13486
+
+----
+
+Rental-id: 13486
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://QiLOFGJHWP39JtHo
+
+----
+
+Customer: page://9bJXvFRudHnbyDta
+
+----
+
+Uuid: 30NXCzrpa8yuX7aU

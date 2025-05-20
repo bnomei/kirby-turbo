@@ -1,0 +1,25 @@
+Title: Rental 2765
+
+----
+
+Rental-id: 2765
+
+----
+
+Rental-date: 2005-06-19 17:34:39
+
+----
+
+Return-date: 2005-06-27 23:26:39
+
+----
+
+Inventory: page://Gn8zWXoJrzK29920
+
+----
+
+Uuid: sW8xtuE3Tp1Vj5fe
+
+----
+
+Customer: page://FHiywQ5Ofsh5PWoq

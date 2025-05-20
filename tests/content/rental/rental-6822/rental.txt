@@ -1,0 +1,25 @@
+Title: Rental 6822
+
+----
+
+Rental-id: 6822
+
+----
+
+Rental-date: 2005-07-12 18:23:39
+
+----
+
+Return-date: 2005-07-19 21:06:39
+
+----
+
+Inventory: page://rXEfoM7aPijK1HAU
+
+----
+
+Customer: page://b45xFslb4E5TbKQI
+
+----
+
+Uuid: l0JZOuiHoO2c7CA6

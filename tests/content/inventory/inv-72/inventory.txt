@@ -1,0 +1,17 @@
+Title: Inv 72
+
+----
+
+Inventory-id: 72
+
+----
+
+Film: page://Ex6gdFZk9Qmk97Wd
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: sKK9wYt0qr02wAAm

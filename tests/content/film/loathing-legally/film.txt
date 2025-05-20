@@ -1,0 +1,43 @@
+Title: LOATHING LEGALLY
+
+----
+
+Actors:
+
+- 'page://MKZPC2AFXFjwPRw8'
+- 'page://lRnQ2IFMyS6K2hRd'
+- 'page://VQ2tezOinyzNJNH4'
+- 'page://DC9iJim4HlVvOiTH'
+- 'page://Sl1QfOYn2gZWMd2L'
+
+----
+
+Film-id: 525
+
+----
+
+Description: A Boring Epistle of a Pioneer And a Mad Scientist who must Escape a Frisbee in The Gulf of Mexico
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 140
+
+----
+
+Rating: R
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: 5uYNIT4COgjlGzmK
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

@@ -1,0 +1,17 @@
+Title: Inv 1974
+
+----
+
+Inventory-id: 1974
+
+----
+
+Film: page://Ub4ojo390AAS6GUT
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: PlpVEBCFhgZ6FwI4

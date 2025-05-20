@@ -1,0 +1,17 @@
+Title: Inv 4185
+
+----
+
+Inventory-id: 4185
+
+----
+
+Film: page://QvNu1O2zbVjfsjFw
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: g5AH39LaFto1Ihl4

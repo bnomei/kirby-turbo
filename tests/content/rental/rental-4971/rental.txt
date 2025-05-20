@@ -1,0 +1,25 @@
+Title: Rental 4971
+
+----
+
+Rental-id: 4971
+
+----
+
+Rental-date: 2005-07-08 23:54:49
+
+----
+
+Return-date: 2005-07-16 00:15:49
+
+----
+
+Inventory: page://f1RtnLRgFd4s1eMW
+
+----
+
+Uuid: 53iap6tmrT1VLWKM
+
+----
+
+Customer: page://3MFUDX6nFKFz0caB

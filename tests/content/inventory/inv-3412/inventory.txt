@@ -1,0 +1,17 @@
+Title: Inv 3412
+
+----
+
+Inventory-id: 3412
+
+----
+
+Film: page://p8YMJPZB1wk9DpT5
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: yC5qFDZrjmdQmZ9o

@@ -1,0 +1,17 @@
+Title: Inv 419
+
+----
+
+Inventory-id: 419
+
+----
+
+Film: page://xyLfnZKFV1kYd6wS
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: P72okqc8JVbfEzTB

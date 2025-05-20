@@ -1,0 +1,33 @@
+Title: CAROL GARCIA
+
+----
+
+Customer-id: 18
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: CAROL
+
+----
+
+Last-name: GARCIA
+
+----
+
+Email: CAROL.GARCIA@sakilacustomer.org
+
+----
+
+Address: page://wW25yU2j8UPyiJXS
+
+----
+
+Active: 1
+
+----
+
+Uuid: 4PvCN4u0ZNDQjU3C

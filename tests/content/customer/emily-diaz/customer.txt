@@ -1,0 +1,33 @@
+Title: EMILY DIAZ
+
+----
+
+Customer-id: 99
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: EMILY
+
+----
+
+Last-name: DIAZ
+
+----
+
+Email: EMILY.DIAZ@sakilacustomer.org
+
+----
+
+Address: page://cPqICnaUAohpJ17S
+
+----
+
+Active: 1
+
+----
+
+Uuid: ThgYfQ8UF68tkRWf

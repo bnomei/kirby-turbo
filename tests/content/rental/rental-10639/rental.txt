@@ -1,0 +1,25 @@
+Title: Rental 10639
+
+----
+
+Rental-id: 10639
+
+----
+
+Rental-date: 2005-08-01 15:44:43
+
+----
+
+Return-date: 2005-08-10 13:51:43
+
+----
+
+Inventory: page://O6QVb9X4mMu8BRfd
+
+----
+
+Customer: page://JebvRlPdouQGnPtA
+
+----
+
+Uuid: MZci8rED00tMXK9I

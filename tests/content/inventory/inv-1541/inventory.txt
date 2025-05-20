@@ -1,0 +1,17 @@
+Title: Inv 1541
+
+----
+
+Inventory-id: 1541
+
+----
+
+Film: page://pCiw3vrnyD9uIv5L
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ZIwk9tziCkD0o88q

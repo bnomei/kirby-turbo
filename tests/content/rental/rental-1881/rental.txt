@@ -1,0 +1,25 @@
+Title: Rental 1881
+
+----
+
+Rental-id: 1881
+
+----
+
+Rental-date: 2005-06-17 03:09:56
+
+----
+
+Return-date: 2005-06-18 01:49:56
+
+----
+
+Inventory: page://yJjYHn2vb4YdOWXF
+
+----
+
+Uuid: wlCd7roST2SNBMc2
+
+----
+
+Customer: page://zeAqUQXxiV8V74u5

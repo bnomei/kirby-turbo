@@ -1,0 +1,25 @@
+Title: Rental 364
+
+----
+
+Rental-id: 364
+
+----
+
+Rental-date: 2005-05-27 07:20:12
+
+----
+
+Return-date: 2005-05-31 10:44:12
+
+----
+
+Inventory: page://PR8F5XKQonYbyVkz
+
+----
+
+Uuid: GBd8VBG0ZX1XsmMR
+
+----
+
+Customer: page://0fWIE3b7YqBRG1Jt

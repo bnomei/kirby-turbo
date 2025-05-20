@@ -1,0 +1,17 @@
+Title: Inv 3926
+
+----
+
+Inventory-id: 3926
+
+----
+
+Film: page://ub96YyrefbgE7aUK
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: oHZxaJMkZ9dlv1zt

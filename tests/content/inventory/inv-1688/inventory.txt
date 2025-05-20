@@ -1,0 +1,17 @@
+Title: Inv 1688
+
+----
+
+Inventory-id: 1688
+
+----
+
+Film: page://XP8REhBAW36J5jv7
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: hyRGmGW6CxAGtV4d

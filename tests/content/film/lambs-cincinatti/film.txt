@@ -1,0 +1,53 @@
+Title: LAMBS CINCINATTI
+
+----
+
+Actors:
+
+- 'page://pAFoAtJmRtH6ome4'
+- 'page://JA85uxdb8uiPNO2i'
+- 'page://8Pmn5SWwDYgkHBaA'
+- 'page://EHffowmlWDEyJ7Ij'
+- 'page://NlhyBSq5UemRMvfg'
+- 'page://JrsbillMdFUVLTOe'
+- 'page://GA1ldK0BGihIEfd4'
+- 'page://u0N0ozPCYMgg4oo9'
+- 'page://xfLW2h8D6Ci3k3ux'
+- 'page://rTdvG0vGkNN8iJpQ'
+- 'page://WFF82auh2AgpYPoL'
+- 'page://pW1gtWYG8hgYIJM4'
+- 'page://uyiPyWfxhKFdwYKL'
+- 'page://VNoe1uWzYd7QHUzW'
+- 'page://WNZ5mNUGrC10JaZI'
+
+----
+
+Film-id: 508
+
+----
+
+Description: A Insightful Story of a Man And a Feminist who must Fight a Composer in Australia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 144
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: YCALAGTaLl7Qy6Lg
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

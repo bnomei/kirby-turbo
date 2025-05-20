@@ -1,0 +1,25 @@
+Title: Rental 9666
+
+----
+
+Rental-id: 9666
+
+----
+
+Rental-date: 2005-07-31 06:20:58
+
+----
+
+Return-date: 2005-08-06 06:09:58
+
+----
+
+Inventory: page://MNaSEQY7k0pXiQ3g
+
+----
+
+Customer: page://YaIz0DYOIEnfvgdw
+
+----
+
+Uuid: 23NXimEsZVlBqAk3

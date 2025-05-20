@@ -1,0 +1,25 @@
+Title: Rental 226
+
+----
+
+Rental-id: 226
+
+----
+
+Rental-date: 2005-05-26 10:44:04
+
+----
+
+Return-date: 2005-05-31 13:26:04
+
+----
+
+Inventory: page://Tf9EvOmrhQP9kcOP
+
+----
+
+Uuid: OZjU2sK8UAObW2wp
+
+----
+
+Customer: page://d4QlKSk7SAC1uz7S

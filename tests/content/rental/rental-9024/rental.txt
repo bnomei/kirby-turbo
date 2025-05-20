@@ -1,0 +1,25 @@
+Title: Rental 9024
+
+----
+
+Rental-id: 9024
+
+----
+
+Rental-date: 2005-07-30 05:44:42
+
+----
+
+Return-date: 2005-08-05 03:15:42
+
+----
+
+Inventory: page://NyTjCSWKwV8dMFMk
+
+----
+
+Customer: page://uPhvBTY0GbGPCouW
+
+----
+
+Uuid: s4BCnjLtY6bsjgOs

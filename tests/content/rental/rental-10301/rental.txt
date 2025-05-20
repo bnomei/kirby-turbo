@@ -1,0 +1,25 @@
+Title: Rental 10301
+
+----
+
+Rental-id: 10301
+
+----
+
+Rental-date: 2005-08-01 04:09:37
+
+----
+
+Return-date: 2005-08-04 23:14:37
+
+----
+
+Inventory: page://7jvrPaxQVZtIeQAO
+
+----
+
+Customer: page://pjmWpRpQ5NINevq0
+
+----
+
+Uuid: mSZoxiZwp8SBo2WA

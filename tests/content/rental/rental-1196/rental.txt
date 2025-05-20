@@ -1,0 +1,25 @@
+Title: Rental 1196
+
+----
+
+Rental-id: 1196
+
+----
+
+Rental-date: 2005-06-15 01:38:31
+
+----
+
+Return-date: 2005-06-18 06:55:31
+
+----
+
+Inventory: page://VA7396qVdiLOZxFs
+
+----
+
+Uuid: eqHubXmDikk8l4tH
+
+----
+
+Customer: page://3Ykof1YEOYPBKag8

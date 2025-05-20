@@ -1,0 +1,43 @@
+Title: BEHAVIOR RUNAWAY
+
+----
+
+Actors:
+
+- 'page://CXnMd8oVYWgOtYAB'
+- 'page://8Pmn5SWwDYgkHBaA'
+- 'page://lWEFCFc3fpMkkCVm'
+- 'page://1JHTierDMQdVCXSe'
+- 'page://NRH2DcjJcFwzgjEd'
+
+----
+
+Film-id: 65
+
+----
+
+Description: A Unbelieveable Drama of a Student And a Husband who must Outrace a Sumo Wrestler in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 100
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: tmiG1zjz4CYX7mH0
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

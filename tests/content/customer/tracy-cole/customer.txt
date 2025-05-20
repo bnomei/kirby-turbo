@@ -1,0 +1,33 @@
+Title: TRACY COLE
+
+----
+
+Customer-id: 108
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: TRACY
+
+----
+
+Last-name: COLE
+
+----
+
+Email: TRACY.COLE@sakilacustomer.org
+
+----
+
+Address: page://AL1vkFEn4YINz62v
+
+----
+
+Active: 1
+
+----
+
+Uuid: VPA8X8lftFbJP7Oh

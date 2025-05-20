@@ -1,0 +1,44 @@
+Title: LEAGUE HELLFIGHTERS
+
+----
+
+Actors:
+
+- 'page://ZyRQLJXso6IqRkwR'
+- 'page://YBKuIiLT3VizSQRI'
+- 'page://nN3rIVkI7hNgoDlp'
+- 'page://f3T5R3qlMgXii7Oj'
+- 'page://0h8tQJYts8gmFWwG'
+- 'page://Q7LFBcb3oEdhSO9W'
+
+----
+
+Film-id: 512
+
+----
+
+Description: A Thoughtful Saga of a A Shark And a Monkey who must Outgun a Student in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 110
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: p2Ruaq8LmbhZrrQU
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

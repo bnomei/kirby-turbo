@@ -1,0 +1,25 @@
+Title: Rental 443
+
+----
+
+Rental-id: 443
+
+----
+
+Rental-date: 2005-05-27 18:35:20
+
+----
+
+Return-date: 2005-06-04 18:58:20
+
+----
+
+Inventory: page://cEdflg7KRKhr27R0
+
+----
+
+Uuid: RlcTvus2MzeKipw5
+
+----
+
+Customer: page://RTsWat8aWp87UcBi

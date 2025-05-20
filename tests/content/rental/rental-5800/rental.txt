@@ -1,0 +1,25 @@
+Title: Rental 5800
+
+----
+
+Rental-id: 5800
+
+----
+
+Rental-date: 2005-07-10 14:58:36
+
+----
+
+Return-date: 2005-07-11 19:50:36
+
+----
+
+Inventory: page://ak2Nr2HrWmU1bTNY
+
+----
+
+Uuid: QBKkP1YfGglxROHc
+
+----
+
+Customer: page://QLQpAHNndEIHvGr2

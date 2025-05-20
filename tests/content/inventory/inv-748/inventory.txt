@@ -1,0 +1,17 @@
+Title: Inv 748
+
+----
+
+Inventory-id: 748
+
+----
+
+Film: page://cISnDSGiPY3Vsb7S
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: D3sok29kHXadUU3G

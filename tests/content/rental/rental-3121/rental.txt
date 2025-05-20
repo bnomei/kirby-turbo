@@ -1,0 +1,25 @@
+Title: Rental 3121
+
+----
+
+Rental-id: 3121
+
+----
+
+Rental-date: 2005-06-20 18:23:30
+
+----
+
+Return-date: 2005-06-21 20:36:30
+
+----
+
+Inventory: page://wQ7VP1oGWUfWCSNx
+
+----
+
+Uuid: ln04IdXnZ55sFLpJ
+
+----
+
+Customer: page://D2Jts8sZKuP5Z8RH

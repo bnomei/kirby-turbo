@@ -1,0 +1,17 @@
+Title: Inv 4365
+
+----
+
+Inventory-id: 4365
+
+----
+
+Film: page://kp3ua5P6dV1jZMjo
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: lJl2fMtlsYcwPsc2

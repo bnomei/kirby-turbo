@@ -1,0 +1,17 @@
+Title: Inv 824
+
+----
+
+Inventory-id: 824
+
+----
+
+Film: page://b2aQcBVvUGLdzR4T
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: pJCuYeFdwNkwfwX4

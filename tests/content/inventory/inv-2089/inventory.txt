@@ -1,0 +1,17 @@
+Title: Inv 2089
+
+----
+
+Inventory-id: 2089
+
+----
+
+Film: page://L3AM3WvARkVbH2oW
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: swk35KY7jZM6vBVq

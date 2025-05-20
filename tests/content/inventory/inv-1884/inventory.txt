@@ -1,0 +1,17 @@
+Title: Inv 1884
+
+----
+
+Inventory-id: 1884
+
+----
+
+Film: page://MiyXWOeAe6qfciiw
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: EkqoAizE2Bo8coO8

@@ -1,0 +1,17 @@
+Title: Inv 881
+
+----
+
+Inventory-id: 881
+
+----
+
+Film: page://KQG6ZFPaIhZFyXjn
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: m1e1J78s0puh7R3Q

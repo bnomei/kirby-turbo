@@ -1,0 +1,25 @@
+Title: Rental 3999
+
+----
+
+Rental-id: 3999
+
+----
+
+Rental-date: 2005-07-06 23:50:54
+
+----
+
+Return-date: 2005-07-09 22:09:54
+
+----
+
+Inventory: page://mGFdettf4av8Onty
+
+----
+
+Uuid: I14tkisWGlJZ6fhg
+
+----
+
+Customer: page://pqDg6kDmCdvbDclp

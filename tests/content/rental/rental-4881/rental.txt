@@ -1,0 +1,25 @@
+Title: Rental 4881
+
+----
+
+Rental-id: 4881
+
+----
+
+Rental-date: 2005-07-08 19:40:34
+
+----
+
+Return-date: 2005-07-09 17:08:34
+
+----
+
+Inventory: page://4DlflpMqci5cNXAd
+
+----
+
+Uuid: 5YvnAtkzPvI4XzKo
+
+----
+
+Customer: page://Gi5FRT3pzixrT86D

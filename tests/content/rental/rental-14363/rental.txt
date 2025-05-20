@@ -1,0 +1,25 @@
+Title: Rental 14363
+
+----
+
+Rental-id: 14363
+
+----
+
+Rental-date: 2005-08-21 09:20:03
+
+----
+
+Return-date: 2005-08-23 14:26:03
+
+----
+
+Inventory: page://TdXhwEqQrtwVLThh
+
+----
+
+Customer: page://HpeLAHrM5mtnQogB
+
+----
+
+Uuid: 3fxvmeYpxeHZnnHG

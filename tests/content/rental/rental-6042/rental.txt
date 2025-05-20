@@ -1,0 +1,25 @@
+Title: Rental 6042
+
+----
+
+Rental-id: 6042
+
+----
+
+Rental-date: 2005-07-11 03:17:04
+
+----
+
+Return-date: 2005-07-19 07:08:04
+
+----
+
+Inventory: page://jPO60RHZsB7ISOzV
+
+----
+
+Uuid: CQ0xMEXXMPKzHKUP
+
+----
+
+Customer: page://stFkFNmIWPMkzEB2

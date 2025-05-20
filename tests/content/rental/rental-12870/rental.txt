@@ -1,0 +1,25 @@
+Title: Rental 12870
+
+----
+
+Rental-id: 12870
+
+----
+
+Rental-date: 2005-08-19 02:54:38
+
+----
+
+Return-date: 2005-08-27 00:45:38
+
+----
+
+Inventory: page://OkDxuZ9t8QPQjaPA
+
+----
+
+Customer: page://jQgJTEFW0ApOfR1S
+
+----
+
+Uuid: jvG7iT3sS0D5ih1Z

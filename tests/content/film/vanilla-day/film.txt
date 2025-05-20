@@ -1,0 +1,40 @@
+Title: VANILLA DAY
+
+----
+
+Actors:
+
+- 'page://twoON2iToIZq1akt'
+- 'page://isKOKKisNfJh2ta1'
+
+----
+
+Film-id: 934
+
+----
+
+Description: A Fast-Paced Saga of a Girl And a Forensic Psychologist who must Redeem a Girl in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 122
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: fdlu8axy1GeueLIC
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

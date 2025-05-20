@@ -1,0 +1,21 @@
+Title: Rental 15645
+
+----
+
+Rental-id: 15645
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://Hu11I9LPVQTz6oFL
+
+----
+
+Customer: page://ZbOznINloPtmkvNK
+
+----
+
+Uuid: DfGuFVBKE2YNKwHV

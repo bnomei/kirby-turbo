@@ -1,0 +1,25 @@
+Title: Rental 15913
+
+----
+
+Rental-id: 15913
+
+----
+
+Rental-date: 2005-08-23 17:48:30
+
+----
+
+Return-date: 2005-08-31 21:17:30
+
+----
+
+Inventory: page://HX5OXGZg8aZRrTMq
+
+----
+
+Customer: page://1apdIukT0MghUchq
+
+----
+
+Uuid: Svgb52WK00ADSsEy

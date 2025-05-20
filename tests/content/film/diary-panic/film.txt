@@ -1,0 +1,42 @@
+Title: DIARY PANIC
+
+----
+
+Actors:
+
+- 'page://nkFKurUJ9w7y8omW'
+- 'page://9dZ7pytlckFxJvGe'
+- 'page://I7tdxqtamjxgIUCW'
+- 'page://RHCn9jMuVT1ewFhv'
+
+----
+
+Film-id: 230
+
+----
+
+Description: A Thoughtful Character Study of a Frisbee And a Mad Cow who must Outgun a Man in Ancient India
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 107
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: Gs2zNA3tJ7IwSh8X
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

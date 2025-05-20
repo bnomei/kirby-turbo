@@ -1,0 +1,25 @@
+Title: Rental 12296
+
+----
+
+Rental-id: 12296
+
+----
+
+Rental-date: 2005-08-18 05:16:28
+
+----
+
+Return-date: 2005-08-22 10:32:28
+
+----
+
+Inventory: page://ruX3SuYBLbS7lZXi
+
+----
+
+Customer: page://zIZEZREf483r6GLp
+
+----
+
+Uuid: X4CbNS1JjGRlgo1z

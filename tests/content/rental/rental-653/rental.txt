@@ -1,0 +1,25 @@
+Title: Rental 653
+
+----
+
+Rental-id: 653
+
+----
+
+Rental-date: 2005-05-28 20:12:20
+
+----
+
+Return-date: 2005-06-04 14:44:20
+
+----
+
+Inventory: page://QorYWwtM649vNnxg
+
+----
+
+Uuid: C1tWubcV6it3g02c
+
+----
+
+Customer: page://wFOjfrR0gpP7jV9B

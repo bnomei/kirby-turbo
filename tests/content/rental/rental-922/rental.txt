@@ -1,0 +1,25 @@
+Title: Rental 922
+
+----
+
+Rental-id: 922
+
+----
+
+Rental-date: 2005-05-30 11:55:55
+
+----
+
+Return-date: 2005-06-08 10:12:55
+
+----
+
+Inventory: page://y3XGu81miwgLqKn1
+
+----
+
+Uuid: RWRTvwr2v92Bqpur
+
+----
+
+Customer: page://x8Y8aJxOEpTBihF2

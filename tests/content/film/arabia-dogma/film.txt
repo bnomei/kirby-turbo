@@ -1,0 +1,50 @@
+Title: ARABIA DOGMA
+
+----
+
+Actors:
+
+- 'page://qd0io4mUKZ4KUkyk'
+- 'page://jG0aUFRzU1eFlO8R'
+- 'page://oEbdYNCKFrP9NVLv'
+- 'page://JR0gbBMz8ekt1gGa'
+- 'page://9NAEa97MvjisWbzN'
+- 'page://3oaBypMbXEPYhgeK'
+- 'page://GA1ldK0BGihIEfd4'
+- 'page://xfLW2h8D6Ci3k3ux'
+- 'page://64SCw7TVQ1KFgpJt'
+- 'page://FSTBtYrNkVQnDKPa'
+- 'page://CI649GdI5JvIKbQ1'
+- 'page://kglHBUzvM27ekW4e'
+
+----
+
+Film-id: 34
+
+----
+
+Description: A Touching Epistle of a Madman And a Mad Cow who must Defeat a Student in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 62
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: xl0P2v7xOhwbLmzN
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

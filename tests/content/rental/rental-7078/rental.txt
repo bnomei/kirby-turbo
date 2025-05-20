@@ -1,0 +1,25 @@
+Title: Rental 7078
+
+----
+
+Rental-id: 7078
+
+----
+
+Rental-date: 2005-07-27 04:16:37
+
+----
+
+Return-date: 2005-08-05 02:34:37
+
+----
+
+Inventory: page://xNbT4V6OibGUrgus
+
+----
+
+Customer: page://Yh1wxvDrPfYOmxl5
+
+----
+
+Uuid: Kn2YfRjlgIC1J2BZ

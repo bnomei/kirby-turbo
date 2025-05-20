@@ -1,0 +1,17 @@
+Title: Palghat (Palakkad)
+
+----
+
+City-id: 395
+
+----
+
+City: Palghat (Palakkad)
+
+----
+
+Country: page://gZf7IokVJwDfjozc
+
+----
+
+Uuid: Z2yAUBKtBGWYBQFC

@@ -1,0 +1,17 @@
+Title: Inv 1932
+
+----
+
+Inventory-id: 1932
+
+----
+
+Film: page://ThAk7D0h7aiqRdt3
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: C0IxWygDcWIwDHhj

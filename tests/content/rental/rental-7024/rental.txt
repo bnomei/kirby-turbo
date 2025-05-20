@@ -1,0 +1,25 @@
+Title: Rental 7024
+
+----
+
+Rental-id: 7024
+
+----
+
+Rental-date: 2005-07-27 02:36:40
+
+----
+
+Return-date: 2005-07-28 06:58:40
+
+----
+
+Inventory: page://KROCCi4xve22jBVT
+
+----
+
+Customer: page://wnNII2TCsO0AokjP
+
+----
+
+Uuid: kMzUbcsqLxu4Wkco

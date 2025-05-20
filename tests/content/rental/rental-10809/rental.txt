@@ -1,0 +1,25 @@
+Title: Rental 10809
+
+----
+
+Rental-id: 10809
+
+----
+
+Rental-date: 2005-08-01 22:39:27
+
+----
+
+Return-date: 2005-08-03 03:44:27
+
+----
+
+Inventory: page://y66Lkvpd2gNfaRvh
+
+----
+
+Customer: page://alglU4WYiFaY0W4O
+
+----
+
+Uuid: 7ojL1ejUEBRdY6Qv

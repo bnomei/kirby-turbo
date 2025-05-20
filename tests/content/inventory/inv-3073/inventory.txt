@@ -1,0 +1,17 @@
+Title: Inv 3073
+
+----
+
+Inventory-id: 3073
+
+----
+
+Film: page://qJJTbkgi4aJuQXIF
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Q2j5kMVAY2qltin9

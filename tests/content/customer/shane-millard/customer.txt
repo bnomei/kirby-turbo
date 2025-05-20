@@ -1,0 +1,33 @@
+Title: SHANE MILLARD
+
+----
+
+Customer-id: 488
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: SHANE
+
+----
+
+Last-name: MILLARD
+
+----
+
+Email: SHANE.MILLARD@sakilacustomer.org
+
+----
+
+Address: page://PWzjJf6A3VcUAqHt
+
+----
+
+Active: 1
+
+----
+
+Uuid: kypjEXl31vTFSb5v

@@ -1,0 +1,25 @@
+Title: Rental 2081
+
+----
+
+Rental-id: 2081
+
+----
+
+Rental-date: 2005-06-17 17:05:02
+
+----
+
+Return-date: 2005-06-26 20:26:02
+
+----
+
+Inventory: page://zPK7U0c617MtdeFr
+
+----
+
+Uuid: ZR8vlj83CMw2z7az
+
+----
+
+Customer: page://hd1gRLl3i3JFAUfJ

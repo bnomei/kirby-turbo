@@ -1,0 +1,25 @@
+Title: Rental 9776
+
+----
+
+Rental-id: 9776
+
+----
+
+Rental-date: 2005-07-31 10:01:03
+
+----
+
+Return-date: 2005-08-03 07:20:03
+
+----
+
+Inventory: page://AOTe9Va3C3zp4oUU
+
+----
+
+Customer: page://j6w051LSx5dWYnKn
+
+----
+
+Uuid: i9xfTKItS7MZWuHE

@@ -1,0 +1,17 @@
+Title: Inv 132
+
+----
+
+Inventory-id: 132
+
+----
+
+Film: page://qZhzLMCz3J6K5RuE
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: APkl6ZnPG4TakY3p

@@ -1,0 +1,25 @@
+Title: Rental 8414
+
+----
+
+Rental-id: 8414
+
+----
+
+Rental-date: 2005-07-29 06:48:35
+
+----
+
+Return-date: 2005-08-06 10:54:35
+
+----
+
+Inventory: page://Gsfomb4ZmBMwVd4J
+
+----
+
+Customer: page://Dq5hnVeftFV5vuu5
+
+----
+
+Uuid: xCebwWaLkX5Ygtws

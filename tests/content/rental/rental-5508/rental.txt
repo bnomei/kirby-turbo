@@ -1,0 +1,25 @@
+Title: Rental 5508
+
+----
+
+Rental-id: 5508
+
+----
+
+Rental-date: 2005-07-10 00:50:01
+
+----
+
+Return-date: 2005-07-16 19:07:01
+
+----
+
+Inventory: page://U5OMYUEOUAQzSGjg
+
+----
+
+Uuid: APk4S2DxdgPgbiEq
+
+----
+
+Customer: page://hSOBI3AqQMwJph8C

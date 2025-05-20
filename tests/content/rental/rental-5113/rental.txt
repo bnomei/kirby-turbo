@@ -1,0 +1,25 @@
+Title: Rental 5113
+
+----
+
+Rental-id: 5113
+
+----
+
+Rental-date: 2005-07-09 07:06:18
+
+----
+
+Return-date: 2005-07-13 07:10:18
+
+----
+
+Inventory: page://1w0BkJ6bpnNVc0c1
+
+----
+
+Uuid: Evx16Y1CZsu1V6W8
+
+----
+
+Customer: page://Tj29qTVQAQ0HCcNy

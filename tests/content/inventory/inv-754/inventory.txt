@@ -1,0 +1,17 @@
+Title: Inv 754
+
+----
+
+Inventory-id: 754
+
+----
+
+Film: page://TL5LBeDFRujSDe5l
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: cc1IhXZtrMlJ7AGY

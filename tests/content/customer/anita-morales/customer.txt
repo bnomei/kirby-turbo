@@ -1,0 +1,33 @@
+Title: ANITA MORALES
+
+----
+
+Customer-id: 136
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ANITA
+
+----
+
+Last-name: MORALES
+
+----
+
+Email: ANITA.MORALES@sakilacustomer.org
+
+----
+
+Address: page://CotgvaE0R5GI5jcu
+
+----
+
+Active: 1
+
+----
+
+Uuid: Ls9REeae6BUkv7oj

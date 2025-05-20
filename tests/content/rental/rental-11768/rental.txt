@@ -1,0 +1,25 @@
+Title: Rental 11768
+
+----
+
+Rental-id: 11768
+
+----
+
+Rental-date: 2005-08-17 10:02:29
+
+----
+
+Return-date: 2005-08-23 10:26:29
+
+----
+
+Inventory: page://RUuVzXN2jcZu5NoH
+
+----
+
+Customer: page://IRu2BC3kihoj0lej
+
+----
+
+Uuid: WObEHnvknM8C3bjp

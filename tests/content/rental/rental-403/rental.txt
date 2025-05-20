@@ -1,0 +1,25 @@
+Title: Rental 403
+
+----
+
+Rental-id: 403
+
+----
+
+Rental-date: 2005-05-27 13:28:52
+
+----
+
+Return-date: 2005-05-29 11:47:52
+
+----
+
+Inventory: page://azvkvW2sGPqJ4wx2
+
+----
+
+Uuid: VATafgpIvDC7piPz
+
+----
+
+Customer: page://sVIdcOA4yjcw5Z24

@@ -1,0 +1,17 @@
+Title: Inv 3982
+
+----
+
+Inventory-id: 3982
+
+----
+
+Film: page://jW80a4n13RGdsS4C
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: auBSEscvNGVGbT5N

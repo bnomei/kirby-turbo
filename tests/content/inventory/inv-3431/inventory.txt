@@ -1,0 +1,17 @@
+Title: Inv 3431
+
+----
+
+Inventory-id: 3431
+
+----
+
+Film: page://qWX4AUrS1elOCyrn
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: U65xxNSYElRzfGz2

@@ -1,0 +1,25 @@
+Title: Rental 3858
+
+----
+
+Rental-id: 3858
+
+----
+
+Rental-date: 2005-07-06 17:17:57
+
+----
+
+Return-date: 2005-07-10 23:10:57
+
+----
+
+Inventory: page://RzDki33UTck0chav
+
+----
+
+Uuid: AaWuTdgqzsbjN4bj
+
+----
+
+Customer: page://zLiLkW2YJgd9qzFC

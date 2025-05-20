@@ -1,0 +1,25 @@
+Title: Rental 9164
+
+----
+
+Rental-id: 9164
+
+----
+
+Rental-date: 2005-07-30 11:24:14
+
+----
+
+Return-date: 2005-08-08 16:24:14
+
+----
+
+Inventory: page://HT5yoi4VJuhfkvFB
+
+----
+
+Customer: page://zmCabsBB5k9OFLQt
+
+----
+
+Uuid: v0LoTYJ8io0nC5Bm

@@ -1,0 +1,17 @@
+Title: Inv 1424
+
+----
+
+Inventory-id: 1424
+
+----
+
+Film: page://HVileugisimUJPvj
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: HKQxcas0tR0tmzmh

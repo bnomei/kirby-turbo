@@ -1,0 +1,41 @@
+Title: TRACY CIDER
+
+----
+
+Actors:
+
+- 'page://V2PTX56N00hKjCOa'
+- 'page://8Pmn5SWwDYgkHBaA'
+- 'page://kIGWs86teYEK5yIM'
+
+----
+
+Film-id: 901
+
+----
+
+Description: A Touching Reflection of a Database Administrator And a Madman who must Build a Lumberjack in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 142
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: ivcBCnogVDbkdoOv
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

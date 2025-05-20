@@ -1,0 +1,17 @@
+Title: Inv 4578
+
+----
+
+Inventory-id: 4578
+
+----
+
+Film: page://wSlDJdcvEJstzSAH
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: QLq5PVUDNuTbHSVz

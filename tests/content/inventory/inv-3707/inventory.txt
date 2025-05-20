@@ -1,0 +1,17 @@
+Title: Inv 3707
+
+----
+
+Inventory-id: 3707
+
+----
+
+Film: page://tvSliGimEL8LW1bu
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: iqUj09uZ9cnAszQn

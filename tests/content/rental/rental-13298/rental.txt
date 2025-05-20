@@ -1,0 +1,21 @@
+Title: Rental 13298
+
+----
+
+Rental-id: 13298
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://hCHA2rGBihoEElD9
+
+----
+
+Customer: page://LGMzuvWnmjAofA2U
+
+----
+
+Uuid: 9sZzLxt9gok3scwt

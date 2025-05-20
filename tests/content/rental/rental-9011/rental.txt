@@ -1,0 +1,25 @@
+Title: Rental 9011
+
+----
+
+Rental-id: 9011
+
+----
+
+Rental-date: 2005-07-30 05:16:29
+
+----
+
+Return-date: 2005-08-05 06:57:29
+
+----
+
+Inventory: page://V5uFnYJmesSLZnVR
+
+----
+
+Customer: page://HQxscLHxuDjEVXyk
+
+----
+
+Uuid: GCYdm75Pef6GJNXi

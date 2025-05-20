@@ -1,0 +1,25 @@
+Title: Rental 10988
+
+----
+
+Rental-id: 10988
+
+----
+
+Rental-date: 2005-08-02 04:38:17
+
+----
+
+Return-date: 2005-08-09 00:09:17
+
+----
+
+Inventory: page://vAvlhx2ZckilLgJ8
+
+----
+
+Customer: page://44KWZQ5iv6BSDhBb
+
+----
+
+Uuid: fnIxq9Q0AL1miHgM

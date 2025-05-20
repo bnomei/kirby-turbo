@@ -1,0 +1,25 @@
+Title: Rental 10900
+
+----
+
+Rental-id: 10900
+
+----
+
+Rental-date: 2005-08-02 01:34:26
+
+----
+
+Return-date: 2005-08-07 00:52:26
+
+----
+
+Inventory: page://RgbZ6bjhnuXTTERh
+
+----
+
+Customer: page://IASgNEvWFJebynwM
+
+----
+
+Uuid: w9aIf8lAGcA14qVU

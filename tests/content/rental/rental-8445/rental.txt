@@ -1,0 +1,25 @@
+Title: Rental 8445
+
+----
+
+Rental-id: 8445
+
+----
+
+Rental-date: 2005-07-29 07:37:48
+
+----
+
+Return-date: 2005-08-04 10:43:48
+
+----
+
+Inventory: page://PETWkcc8PO7WVZFE
+
+----
+
+Customer: page://0DViNB8AjR6M3Kvz
+
+----
+
+Uuid: XbWqqwSIRxlvIf4S

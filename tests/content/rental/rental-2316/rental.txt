@@ -1,0 +1,25 @@
+Title: Rental 2316
+
+----
+
+Rental-id: 2316
+
+----
+
+Rental-date: 2005-06-18 09:04:59
+
+----
+
+Return-date: 2005-06-20 09:39:59
+
+----
+
+Inventory: page://TMMKfJjPMZNKsyVx
+
+----
+
+Uuid: oW1Y16M6DSKAvjPr
+
+----
+
+Customer: page://6AKt4qOv738O4v4p

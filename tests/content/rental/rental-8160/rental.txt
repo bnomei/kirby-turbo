@@ -1,0 +1,25 @@
+Title: Rental 8160
+
+----
+
+Rental-id: 8160
+
+----
+
+Rental-date: 2005-07-28 21:10:30
+
+----
+
+Return-date: 2005-08-05 16:52:30
+
+----
+
+Inventory: page://5wxwG6GXHXUzlMCW
+
+----
+
+Customer: page://d4Qzzmipb5Xdc54C
+
+----
+
+Uuid: O4YFbMC42dNKcrFd

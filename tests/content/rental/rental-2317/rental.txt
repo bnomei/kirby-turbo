@@ -1,0 +1,25 @@
+Title: Rental 2317
+
+----
+
+Rental-id: 2317
+
+----
+
+Rental-date: 2005-06-18 09:12:18
+
+----
+
+Return-date: 2005-06-21 05:50:18
+
+----
+
+Inventory: page://8xSuI5bKlOlYYV4D
+
+----
+
+Uuid: FpRj3HkcQwSP5JBX
+
+----
+
+Customer: page://Z6uneo5K4mIsEkh3

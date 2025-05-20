@@ -1,0 +1,25 @@
+Title: Rental 6321
+
+----
+
+Rental-id: 6321
+
+----
+
+Rental-date: 2005-07-11 18:51:02
+
+----
+
+Return-date: 2005-07-14 20:57:02
+
+----
+
+Inventory: page://m7MOJQIOiNgccFXm
+
+----
+
+Uuid: aDZdE3zPKTA2313C
+
+----
+
+Customer: page://dkuwbLEfkaF29Y6o

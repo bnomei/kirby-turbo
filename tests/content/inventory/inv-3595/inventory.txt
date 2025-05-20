@@ -1,0 +1,17 @@
+Title: Inv 3595
+
+----
+
+Inventory-id: 3595
+
+----
+
+Film: page://EO2KPDrbkQe56E0P
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: bHbfdzTuPdipcbZg

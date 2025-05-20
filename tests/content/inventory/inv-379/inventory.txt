@@ -1,0 +1,17 @@
+Title: Inv 379
+
+----
+
+Inventory-id: 379
+
+----
+
+Film: page://XSxeVIKyxD2lROr7
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: gHhmjceva8SC2VIG

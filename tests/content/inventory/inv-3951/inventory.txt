@@ -1,0 +1,17 @@
+Title: Inv 3951
+
+----
+
+Inventory-id: 3951
+
+----
+
+Film: page://9WLwZiCsVkAqD0K8
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: aehzmIgCAWf1jQk0

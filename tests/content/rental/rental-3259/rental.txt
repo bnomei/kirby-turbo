@@ -1,0 +1,25 @@
+Title: Rental 3259
+
+----
+
+Rental-id: 3259
+
+----
+
+Rental-date: 2005-06-21 03:57:15
+
+----
+
+Return-date: 2005-06-24 03:32:15
+
+----
+
+Inventory: page://sFZ5C8SHHxpuFe62
+
+----
+
+Uuid: 3XBK7Krm377bu0ts
+
+----
+
+Customer: page://FHiywQ5Ofsh5PWoq

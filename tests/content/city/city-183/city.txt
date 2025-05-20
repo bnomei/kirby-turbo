@@ -1,0 +1,17 @@
+Title: Goiânia
+
+----
+
+City-id: 183
+
+----
+
+City: Goiânia
+
+----
+
+Country: page://jIqa2ZvYow6Egqhx
+
+----
+
+Uuid: wbNmEHHuLJMCYTwk

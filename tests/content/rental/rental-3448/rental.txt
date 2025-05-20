@@ -1,0 +1,25 @@
+Title: Rental 3448
+
+----
+
+Rental-id: 3448
+
+----
+
+Rental-date: 2005-06-21 20:59:20
+
+----
+
+Return-date: 2005-06-24 15:40:20
+
+----
+
+Inventory: page://dYFFR2jm8pazk072
+
+----
+
+Uuid: or6BbQOLSeVAbgry
+
+----
+
+Customer: page://kbGqUGnsmmbvnI45

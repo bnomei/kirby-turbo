@@ -1,0 +1,17 @@
+Title: Inv 2173
+
+----
+
+Inventory-id: 2173
+
+----
+
+Film: page://UEtOT7jTUfwt0EAK
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: M5WjbRtemj6kYlzN

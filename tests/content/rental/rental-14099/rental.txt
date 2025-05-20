@@ -1,0 +1,25 @@
+Title: Rental 14099
+
+----
+
+Rental-id: 14099
+
+----
+
+Rental-date: 2005-08-21 00:31:03
+
+----
+
+Return-date: 2005-08-27 03:18:03
+
+----
+
+Inventory: page://AaIPt4VMb2vdGEef
+
+----
+
+Customer: page://80F1v8ydAhQRg8pT
+
+----
+
+Uuid: 3ejgLQXvEE6GG3gW

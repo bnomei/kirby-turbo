@@ -1,0 +1,17 @@
+Title: Inv 4062
+
+----
+
+Inventory-id: 4062
+
+----
+
+Film: page://38DDE3zbU2qYh05g
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 0M1pw8SBECbldcLn

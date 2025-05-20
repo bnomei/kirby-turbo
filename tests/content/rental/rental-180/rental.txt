@@ -1,0 +1,25 @@
+Title: Rental 180
+
+----
+
+Rental-id: 180
+
+----
+
+Rental-date: 2005-05-26 04:46:23
+
+----
+
+Return-date: 2005-06-01 09:58:23
+
+----
+
+Inventory: page://MZk5g5Eog3YCeLky
+
+----
+
+Uuid: qMdUwpUwNuRy4FNs
+
+----
+
+Customer: page://x5SWKXQpXhzjUJdL

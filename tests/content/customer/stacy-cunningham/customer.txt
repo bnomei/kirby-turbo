@@ -1,0 +1,33 @@
+Title: STACY CUNNINGHAM
+
+----
+
+Customer-id: 180
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: STACY
+
+----
+
+Last-name: CUNNINGHAM
+
+----
+
+Email: STACY.CUNNINGHAM@sakilacustomer.org
+
+----
+
+Address: page://aTjqgVsdRMtlfYps
+
+----
+
+Active: 1
+
+----
+
+Uuid: SJshmeMOxYgLWdbx

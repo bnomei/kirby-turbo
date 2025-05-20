@@ -1,0 +1,25 @@
+Title: Rental 1979
+
+----
+
+Rental-id: 1979
+
+----
+
+Rental-date: 2005-06-17 09:45:30
+
+----
+
+Return-date: 2005-06-20 10:52:30
+
+----
+
+Inventory: page://LttMUX6LK57gfPXr
+
+----
+
+Uuid: wERXTaYOkfqKfdSq
+
+----
+
+Customer: page://zuaErOZUavOIvBK9

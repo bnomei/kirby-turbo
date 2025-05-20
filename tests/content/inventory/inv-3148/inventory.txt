@@ -1,0 +1,17 @@
+Title: Inv 3148
+
+----
+
+Inventory-id: 3148
+
+----
+
+Film: page://exaNiOuTOOL5HLJk
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: FDH0PcFbulEFoxfC

@@ -1,0 +1,17 @@
+Title: Inv 2342
+
+----
+
+Inventory-id: 2342
+
+----
+
+Film: page://xBi7QEvf1n5OccQ5
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 9Qk7HwGBpnSWr3OE

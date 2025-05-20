@@ -1,0 +1,33 @@
+Title: ANA BRADLEY
+
+----
+
+Customer-id: 181
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ANA
+
+----
+
+Last-name: BRADLEY
+
+----
+
+Email: ANA.BRADLEY@sakilacustomer.org
+
+----
+
+Address: page://qolHKO5vQlCdiJE0
+
+----
+
+Active: 1
+
+----
+
+Uuid: 5RcmhHbYnxl64mW8

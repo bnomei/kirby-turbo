@@ -1,0 +1,25 @@
+Title: Rental 583
+
+----
+
+Rental-id: 583
+
+----
+
+Rental-date: 2005-05-28 11:48:55
+
+----
+
+Return-date: 2005-06-04 07:09:55
+
+----
+
+Inventory: page://n7l45LbqzWIacw8k
+
+----
+
+Uuid: qcwX8YWoStmPd9bY
+
+----
+
+Customer: page://EHSB9jDLk6k6ip5D

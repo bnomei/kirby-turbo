@@ -1,0 +1,25 @@
+Title: Rental 15693
+
+----
+
+Rental-id: 15693
+
+----
+
+Rental-date: 2005-08-23 10:00:24
+
+----
+
+Return-date: 2005-08-25 08:23:24
+
+----
+
+Inventory: page://D3sok29kHXadUU3G
+
+----
+
+Customer: page://pOTTT1NDQCsreRQz
+
+----
+
+Uuid: MOPqEyAn5SFFswCJ

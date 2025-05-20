@@ -1,0 +1,25 @@
+Title: Rental 679
+
+----
+
+Rental-id: 679
+
+----
+
+Rental-date: 2005-05-28 23:24:57
+
+----
+
+Return-date: 2005-06-06 21:59:57
+
+----
+
+Inventory: page://QNrzeqBTYnW2Ukch
+
+----
+
+Uuid: g9TlsHgaGwGpjWlg
+
+----
+
+Customer: page://yQcQ1eHjHG2TC2t0

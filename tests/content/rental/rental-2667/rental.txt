@@ -1,0 +1,25 @@
+Title: Rental 2667
+
+----
+
+Rental-id: 2667
+
+----
+
+Rental-date: 2005-06-19 11:28:46
+
+----
+
+Return-date: 2005-06-27 11:48:46
+
+----
+
+Inventory: page://EaWYfYoF56O1WcXq
+
+----
+
+Uuid: oCO8NEThOd4eApFw
+
+----
+
+Customer: page://9M7WmMyIHxnO6lL5

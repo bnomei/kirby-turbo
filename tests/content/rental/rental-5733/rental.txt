@@ -1,0 +1,25 @@
+Title: Rental 5733
+
+----
+
+Rental-id: 5733
+
+----
+
+Rental-date: 2005-07-10 11:37:24
+
+----
+
+Return-date: 2005-07-11 12:34:24
+
+----
+
+Inventory: page://QEXsXS8T4Oip33P8
+
+----
+
+Uuid: aX7bziWO8JVGhykg
+
+----
+
+Customer: page://A7gLRZtZiSgkz8K8

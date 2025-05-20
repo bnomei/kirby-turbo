@@ -1,0 +1,25 @@
+Title: Rental 794
+
+----
+
+Rental-id: 794
+
+----
+
+Rental-date: 2005-05-29 16:44:11
+
+----
+
+Return-date: 2005-06-05 16:11:11
+
+----
+
+Inventory: page://XcWdoFJkHWcZIG3f
+
+----
+
+Uuid: zLOwtUTv4CtO4qTb
+
+----
+
+Customer: page://SGDmUxNER90s6kyU

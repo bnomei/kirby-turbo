@@ -1,0 +1,17 @@
+Title: Inv 2756
+
+----
+
+Inventory-id: 2756
+
+----
+
+Film: page://9z8lURYvIEpGSB1z
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: k7qN15Tj3WmjydYE

@@ -1,0 +1,25 @@
+Title: Rental 8827
+
+----
+
+Rental-id: 8827
+
+----
+
+Rental-date: 2005-07-29 22:31:24
+
+----
+
+Return-date: 2005-08-06 21:05:24
+
+----
+
+Inventory: page://jv6fEEs5CCVJyegm
+
+----
+
+Customer: page://AkaRCOxNSCiOcy32
+
+----
+
+Uuid: iB5tcoPZna9kCeGq

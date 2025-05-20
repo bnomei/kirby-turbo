@@ -1,0 +1,25 @@
+Title: Rental 9140
+
+----
+
+Rental-id: 9140
+
+----
+
+Rental-date: 2005-07-30 10:12:01
+
+----
+
+Return-date: 2005-08-06 09:16:01
+
+----
+
+Inventory: page://AIPDJ5l4oKaqPfrJ
+
+----
+
+Customer: page://UPEEX9gIWkqOHeie
+
+----
+
+Uuid: 0QDclz9hqt5a83tE

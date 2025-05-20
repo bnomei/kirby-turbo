@@ -1,0 +1,25 @@
+Title: Rental 11200
+
+----
+
+Rental-id: 11200
+
+----
+
+Rental-date: 2005-08-02 11:48:36
+
+----
+
+Return-date: 2005-08-07 08:35:36
+
+----
+
+Inventory: page://Zgh33bGZhqkx6FR2
+
+----
+
+Customer: page://raqSilMta8sVjmOt
+
+----
+
+Uuid: nMchPFiHehyTRKiN

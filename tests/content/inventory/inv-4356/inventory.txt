@@ -1,0 +1,17 @@
+Title: Inv 4356
+
+----
+
+Inventory-id: 4356
+
+----
+
+Film: page://JiFN89QIpjfUYw88
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 4HnM2f8LHCzmG7Ww

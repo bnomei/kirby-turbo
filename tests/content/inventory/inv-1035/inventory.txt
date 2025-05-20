@@ -1,0 +1,17 @@
+Title: Inv 1035
+
+----
+
+Inventory-id: 1035
+
+----
+
+Film: page://MRli9sa1iLQi2MPV
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: WCn8GhXXEfPHZpvk

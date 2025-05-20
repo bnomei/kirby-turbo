@@ -1,0 +1,17 @@
+Title: Inv 1978
+
+----
+
+Inventory-id: 1978
+
+----
+
+Film: page://Hk7lhJ24cJC7ncNV
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: l1j2L2q6hFX8B1nA

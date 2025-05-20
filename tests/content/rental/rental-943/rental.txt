@@ -1,0 +1,25 @@
+Title: Rental 943
+
+----
+
+Rental-id: 943
+
+----
+
+Rental-date: 2005-05-30 15:20:19
+
+----
+
+Return-date: 2005-06-06 18:53:19
+
+----
+
+Inventory: page://ro8TB9fEdNskFj8Q
+
+----
+
+Uuid: 9TtZ8XKT3IWm3uf1
+
+----
+
+Customer: page://kcW3Aiv2w6cJeXdK

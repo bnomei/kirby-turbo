@@ -1,0 +1,25 @@
+Title: Rental 750
+
+----
+
+Rental-id: 750
+
+----
+
+Rental-date: 2005-05-29 09:41:40
+
+----
+
+Return-date: 2005-05-30 13:31:40
+
+----
+
+Inventory: page://lLOlAKftiSpQihvM
+
+----
+
+Uuid: 1A05blzSJMKsazcL
+
+----
+
+Customer: page://Cko87GK3ShDjUK4Q

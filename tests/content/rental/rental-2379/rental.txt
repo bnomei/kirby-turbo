@@ -1,0 +1,25 @@
+Title: Rental 2379
+
+----
+
+Rental-id: 2379
+
+----
+
+Rental-date: 2005-06-18 14:59:39
+
+----
+
+Return-date: 2005-06-24 13:26:39
+
+----
+
+Inventory: page://E8a2tlD3JuDKAaK1
+
+----
+
+Uuid: mrT3c7yirPcGIz4L
+
+----
+
+Customer: page://zIyxrm1tFzZPIrxF

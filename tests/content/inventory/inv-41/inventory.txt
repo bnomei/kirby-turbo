@@ -1,0 +1,17 @@
+Title: Inv 41
+
+----
+
+Inventory-id: 41
+
+----
+
+Film: page://msiPzQjMlcmUp6S6
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: mkvSwRCZICnGQQnP

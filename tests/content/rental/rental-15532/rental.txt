@@ -1,0 +1,21 @@
+Title: Rental 15532
+
+----
+
+Rental-id: 15532
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://HIe87llxoTzVCQoW
+
+----
+
+Customer: page://z6KsbN8IOhSoB7GT
+
+----
+
+Uuid: tOMotACYz9WstVyW

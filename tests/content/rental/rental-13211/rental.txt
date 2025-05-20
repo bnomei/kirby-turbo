@@ -1,0 +1,25 @@
+Title: Rental 13211
+
+----
+
+Rental-id: 13211
+
+----
+
+Rental-date: 2005-08-19 15:23:41
+
+----
+
+Return-date: 2005-08-22 16:58:41
+
+----
+
+Inventory: page://kDJyeWtJzIGajPJh
+
+----
+
+Customer: page://6AKt4qOv738O4v4p
+
+----
+
+Uuid: BO312ALAo2gYuZbr

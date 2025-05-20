@@ -1,0 +1,25 @@
+Title: Rental 9970
+
+----
+
+Rental-id: 9970
+
+----
+
+Rental-date: 2005-07-31 16:38:24
+
+----
+
+Return-date: 2005-08-02 12:59:24
+
+----
+
+Inventory: page://mVC7nWiGZnmC4T4l
+
+----
+
+Customer: page://cVyeNQ8g1rAU35Mi
+
+----
+
+Uuid: xwxw4iigrv2h8T6p

@@ -1,0 +1,25 @@
+Title: Rental 1432
+
+----
+
+Rental-id: 1432
+
+----
+
+Rental-date: 2005-06-15 18:27:24
+
+----
+
+Return-date: 2005-06-21 14:03:24
+
+----
+
+Inventory: page://rj0UNVu9A4EUMwKt
+
+----
+
+Uuid: flQNLIu3TOmhhqff
+
+----
+
+Customer: page://bG9DDgWMAFbLUMhy

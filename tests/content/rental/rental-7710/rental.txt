@@ -1,0 +1,25 @@
+Title: Rental 7710
+
+----
+
+Rental-id: 7710
+
+----
+
+Rental-date: 2005-07-28 04:24:07
+
+----
+
+Return-date: 2005-08-03 22:49:07
+
+----
+
+Inventory: page://z1XTZgHskzVaXdsS
+
+----
+
+Customer: page://ssRpWEJq6gKOyUIh
+
+----
+
+Uuid: QTDXa8z4iNIL46Yf

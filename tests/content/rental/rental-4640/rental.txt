@@ -1,0 +1,25 @@
+Title: Rental 4640
+
+----
+
+Rental-id: 4640
+
+----
+
+Rental-date: 2005-07-08 08:59:34
+
+----
+
+Return-date: 2005-07-15 03:31:34
+
+----
+
+Inventory: page://kM5mQ3pHP0NFITOX
+
+----
+
+Uuid: 4Rsb8au3Kz4UZbwF
+
+----
+
+Customer: page://R8IxBa5hez4twrqS

@@ -1,0 +1,17 @@
+Title: Inv 1935
+
+----
+
+Inventory-id: 1935
+
+----
+
+Film: page://ThAk7D0h7aiqRdt3
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: c7y4Nf60RI8xqu7l

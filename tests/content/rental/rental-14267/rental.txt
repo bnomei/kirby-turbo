@@ -1,0 +1,21 @@
+Title: Rental 14267
+
+----
+
+Rental-id: 14267
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://bhG6FfcRot2HgCYz
+
+----
+
+Customer: page://3XFZHBoh0C1DUN6p
+
+----
+
+Uuid: vRDLe8KlCgez9YCA

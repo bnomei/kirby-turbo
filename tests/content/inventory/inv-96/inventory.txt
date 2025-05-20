@@ -1,0 +1,17 @@
+Title: Inv 96
+
+----
+
+Inventory-id: 96
+
+----
+
+Film: page://QD77987HYcwUu7rS
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: PAAsTvZwNdgyGutQ

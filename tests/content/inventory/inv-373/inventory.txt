@@ -1,0 +1,17 @@
+Title: Inv 373
+
+----
+
+Inventory-id: 373
+
+----
+
+Film: page://r6RbLIsQFlaQLYEq
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: zAPWZFaAAuiOSDHa

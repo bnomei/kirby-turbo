@@ -1,0 +1,17 @@
+Title: Inv 3953
+
+----
+
+Inventory-id: 3953
+
+----
+
+Film: page://9WLwZiCsVkAqD0K8
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: mtuaiVJRs8b37jnt

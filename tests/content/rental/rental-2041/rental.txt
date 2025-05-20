@@ -1,0 +1,25 @@
+Title: Rental 2041
+
+----
+
+Rental-id: 2041
+
+----
+
+Rental-date: 2005-06-17 14:19:00
+
+----
+
+Return-date: 2005-06-26 08:38:00
+
+----
+
+Inventory: page://kNnnDIbzcfGrTm6O
+
+----
+
+Uuid: YydhFpfYwCYLrlGA
+
+----
+
+Customer: page://K253MbSwnklxbl62

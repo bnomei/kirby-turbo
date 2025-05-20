@@ -1,0 +1,25 @@
+Title: Rental 9470
+
+----
+
+Rental-id: 9470
+
+----
+
+Rental-date: 2005-07-30 23:01:31
+
+----
+
+Return-date: 2005-08-07 01:35:31
+
+----
+
+Inventory: page://n9hTSFgz3okM6pW5
+
+----
+
+Customer: page://kiN3u3DN0FkdJzU9
+
+----
+
+Uuid: Py5OLZ6zSQjzMrbX

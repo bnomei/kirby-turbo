@@ -1,0 +1,33 @@
+Title: NORA HERRERA
+
+----
+
+Customer-id: 266
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: NORA
+
+----
+
+Last-name: HERRERA
+
+----
+
+Email: NORA.HERRERA@sakilacustomer.org
+
+----
+
+Address: page://x5QIMjpobTXPkSVz
+
+----
+
+Active: 1
+
+----
+
+Uuid: mfYh9J5zA5Ib3tjU

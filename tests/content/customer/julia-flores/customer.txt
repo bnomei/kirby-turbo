@@ -1,0 +1,33 @@
+Title: JULIA FLORES
+
+----
+
+Customer-id: 89
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JULIA
+
+----
+
+Last-name: FLORES
+
+----
+
+Email: JULIA.FLORES@sakilacustomer.org
+
+----
+
+Address: page://Wbb9Nm5bJxR0PCVD
+
+----
+
+Active: 1
+
+----
+
+Uuid: 62MZSyLkLyVVQ5Cs

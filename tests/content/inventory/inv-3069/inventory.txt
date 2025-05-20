@@ -1,0 +1,17 @@
+Title: Inv 3069
+
+----
+
+Inventory-id: 3069
+
+----
+
+Film: page://2mbiyabaoecpPjXL
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 2tcnqhglAGns89eW

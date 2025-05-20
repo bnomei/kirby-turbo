@@ -1,0 +1,17 @@
+Title: Inv 2919
+
+----
+
+Inventory-id: 2919
+
+----
+
+Film: page://PZ0xMmk7jbAU2oQZ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: DoRrsNETeyin92pn

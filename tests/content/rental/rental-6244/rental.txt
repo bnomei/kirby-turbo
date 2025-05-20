@@ -1,0 +1,25 @@
+Title: Rental 6244
+
+----
+
+Rental-id: 6244
+
+----
+
+Rental-date: 2005-07-11 14:53:38
+
+----
+
+Return-date: 2005-07-12 16:42:38
+
+----
+
+Inventory: page://zxaefqVFU71riy1M
+
+----
+
+Uuid: v6EmQ0ZAqnqrvQ78
+
+----
+
+Customer: page://4AtPAY3CI88EjmxK

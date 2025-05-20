@@ -1,0 +1,25 @@
+Title: Rental 15103
+
+----
+
+Rental-id: 15103
+
+----
+
+Rental-date: 2005-08-22 12:01:06
+
+----
+
+Return-date: 2005-08-25 14:40:06
+
+----
+
+Inventory: page://J074V5yw2yLvwWEI
+
+----
+
+Customer: page://uLTcc5I1Ow2yuWNp
+
+----
+
+Uuid: D9avuJaaLTpXNobF

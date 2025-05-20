@@ -1,0 +1,40 @@
+Title: BRANNIGAN SUNRISE
+
+----
+
+Actors:
+
+- 'page://jG0aUFRzU1eFlO8R'
+- 'page://xXgVj4FQPZ59wjBk'
+
+----
+
+Film-id: 93
+
+----
+
+Description: A Amazing Epistle of a Moose And a Crocodile who must Outrace a Dog in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 121
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: tKN8XNGdOJcphxmM
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

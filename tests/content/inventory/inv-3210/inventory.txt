@@ -1,0 +1,17 @@
+Title: Inv 3210
+
+----
+
+Inventory-id: 3210
+
+----
+
+Film: page://1LIf1DaCQFAKfsoP
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: mkAXSXooWBLbDHqc

@@ -1,0 +1,25 @@
+Title: Rental 9083
+
+----
+
+Rental-id: 9083
+
+----
+
+Rental-date: 2005-07-30 08:14:27
+
+----
+
+Return-date: 2005-08-07 14:02:27
+
+----
+
+Inventory: page://Pev8LlO6uCVqrjph
+
+----
+
+Customer: page://kypjEXl31vTFSb5v
+
+----
+
+Uuid: E73eZ4dJi2bYMFSZ

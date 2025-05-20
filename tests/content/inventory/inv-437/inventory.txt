@@ -1,0 +1,17 @@
+Title: Inv 437
+
+----
+
+Inventory-id: 437
+
+----
+
+Film: page://rcvjkFSNuD846WP8
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: rASLPkfiTxKtF4og

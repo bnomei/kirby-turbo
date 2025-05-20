@@ -1,0 +1,17 @@
+Title: Inv 1710
+
+----
+
+Inventory-id: 1710
+
+----
+
+Film: page://9C65JxCW0pw6tqcG
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: sRZLbe9ALNebcbAs

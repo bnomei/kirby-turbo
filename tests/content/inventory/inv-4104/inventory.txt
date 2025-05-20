@@ -1,0 +1,17 @@
+Title: Inv 4104
+
+----
+
+Inventory-id: 4104
+
+----
+
+Film: page://TA76R8F61TYUcZhH
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 3D5PIEWjlnBOVtAW

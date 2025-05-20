@@ -1,0 +1,33 @@
+Title: GLADYS HAMILTON
+
+----
+
+Customer-id: 103
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: GLADYS
+
+----
+
+Last-name: HAMILTON
+
+----
+
+Email: GLADYS.HAMILTON@sakilacustomer.org
+
+----
+
+Address: page://l4dNTHcOsBmMxc6h
+
+----
+
+Active: 1
+
+----
+
+Uuid: hqAf8WYPlK0t8DAi

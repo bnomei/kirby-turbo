@@ -1,0 +1,25 @@
+Title: Rental 1869
+
+----
+
+Rental-id: 1869
+
+----
+
+Rental-date: 2005-06-17 02:08:00
+
+----
+
+Return-date: 2005-06-19 21:43:00
+
+----
+
+Inventory: page://sOcto306rFjh2UEm
+
+----
+
+Uuid: wZuaofJm1bzCbG6H
+
+----
+
+Customer: page://UaSNpTp6KioYmoei

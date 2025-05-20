@@ -1,0 +1,17 @@
+Title: Inv 1472
+
+----
+
+Inventory-id: 1472
+
+----
+
+Film: page://apGFh4DxG5Qe6AtP
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: KciLxLKQStyLbCLs

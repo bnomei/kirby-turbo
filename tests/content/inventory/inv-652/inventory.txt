@@ -1,0 +1,17 @@
+Title: Inv 652
+
+----
+
+Inventory-id: 652
+
+----
+
+Film: page://33GzHnyOAkT0s7Kb
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ktVJFCvFIxDiEXGQ

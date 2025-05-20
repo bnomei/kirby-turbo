@@ -1,0 +1,17 @@
+Title: Inv 4235
+
+----
+
+Inventory-id: 4235
+
+----
+
+Film: page://y8BuDfsEAT5aJhE5
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: MyFU8yoGz8B6lDlW

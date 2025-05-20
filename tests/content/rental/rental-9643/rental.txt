@@ -1,0 +1,25 @@
+Title: Rental 9643
+
+----
+
+Rental-id: 9643
+
+----
+
+Rental-date: 2005-07-31 05:35:48
+
+----
+
+Return-date: 2005-08-08 04:28:48
+
+----
+
+Inventory: page://kHOa2kLN0lyqioxy
+
+----
+
+Customer: page://gyF67nPwxWbRqkYZ
+
+----
+
+Uuid: czAtekVDQubdcbGb

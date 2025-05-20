@@ -1,0 +1,25 @@
+Title: Rental 1280
+
+----
+
+Rental-id: 1280
+
+----
+
+Rental-date: 2005-06-15 08:16:06
+
+----
+
+Return-date: 2005-06-21 04:10:06
+
+----
+
+Inventory: page://5TK6R6Mxq4yyxZsJ
+
+----
+
+Uuid: t3eMFPOwgndJBHUi
+
+----
+
+Customer: page://mfYh9J5zA5Ib3tjU

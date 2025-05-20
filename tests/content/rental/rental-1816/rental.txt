@@ -1,0 +1,25 @@
+Title: Rental 1816
+
+----
+
+Rental-id: 1816
+
+----
+
+Rental-date: 2005-06-16 21:20:41
+
+----
+
+Return-date: 2005-06-18 02:21:41
+
+----
+
+Inventory: page://xMdRfZnOzyORMXzU
+
+----
+
+Uuid: hg7V4n7FPzLkZMcj
+
+----
+
+Customer: page://DZzK6reO3V0LDrPm

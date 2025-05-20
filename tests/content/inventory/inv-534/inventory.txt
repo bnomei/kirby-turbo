@@ -1,0 +1,17 @@
+Title: Inv 534
+
+----
+
+Inventory-id: 534
+
+----
+
+Film: page://c5GOatnlFKpH3g65
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 9Esk2UrqUrEPQvRK

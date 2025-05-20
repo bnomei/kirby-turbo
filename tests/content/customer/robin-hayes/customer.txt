@@ -1,0 +1,33 @@
+Title: ROBIN HAYES
+
+----
+
+Customer-id: 100
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ROBIN
+
+----
+
+Last-name: HAYES
+
+----
+
+Email: ROBIN.HAYES@sakilacustomer.org
+
+----
+
+Address: page://JRScXnBhIfP1SRkj
+
+----
+
+Active: 1
+
+----
+
+Uuid: QeuxX9yTBxjOmAeR

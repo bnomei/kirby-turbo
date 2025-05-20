@@ -1,0 +1,25 @@
+Title: Rental 3601
+
+----
+
+Rental-id: 3601
+
+----
+
+Rental-date: 2005-07-06 05:20:25
+
+----
+
+Return-date: 2005-07-15 03:13:25
+
+----
+
+Inventory: page://fRfzwlwKwayoBZVd
+
+----
+
+Uuid: XiFzQ8D459MjX3Zw
+
+----
+
+Customer: page://aZnDcwJX7i5ifkQq

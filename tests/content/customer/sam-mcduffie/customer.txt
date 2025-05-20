@@ -1,0 +1,33 @@
+Title: SAM MCDUFFIE
+
+----
+
+Customer-id: 490
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: SAM
+
+----
+
+Last-name: MCDUFFIE
+
+----
+
+Email: SAM.MCDUFFIE@sakilacustomer.org
+
+----
+
+Address: page://tVfCCJ1SKOIbQV6R
+
+----
+
+Active: 1
+
+----
+
+Uuid: Sok572NVAWg9Kowo

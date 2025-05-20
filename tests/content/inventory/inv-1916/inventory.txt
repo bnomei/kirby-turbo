@@ -1,0 +1,17 @@
+Title: Inv 1916
+
+----
+
+Inventory-id: 1916
+
+----
+
+Film: page://wfXmwV94pZGldMnr
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: bEAcXZToWwsnaVjH

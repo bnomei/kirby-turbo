@@ -1,0 +1,17 @@
+Title: Inv 4095
+
+----
+
+Inventory-id: 4095
+
+----
+
+Film: page://GnFJxbp7YPoNmcsu
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: AIPDJ5l4oKaqPfrJ

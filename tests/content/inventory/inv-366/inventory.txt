@@ -1,0 +1,17 @@
+Title: Inv 366
+
+----
+
+Inventory-id: 366
+
+----
+
+Film: page://nfSwrYNlUFrCCo1g
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: A28beadOiPmsJekR

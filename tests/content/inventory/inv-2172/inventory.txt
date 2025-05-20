@@ -1,0 +1,17 @@
+Title: Inv 2172
+
+----
+
+Inventory-id: 2172
+
+----
+
+Film: page://mEVtoHPdwzg7XWhq
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: CMigDMSTbdpdcJ6f

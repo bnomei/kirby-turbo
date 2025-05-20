@@ -1,0 +1,33 @@
+Title: MICHELE GRANT
+
+----
+
+Customer-id: 154
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: MICHELE
+
+----
+
+Last-name: GRANT
+
+----
+
+Email: MICHELE.GRANT@sakilacustomer.org
+
+----
+
+Address: page://kd5w6AcjbA29G1Fm
+
+----
+
+Active: 1
+
+----
+
+Uuid: cUF1fk2bBpJmuvzJ

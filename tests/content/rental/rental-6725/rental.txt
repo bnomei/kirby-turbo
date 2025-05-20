@@ -1,0 +1,25 @@
+Title: Rental 6725
+
+----
+
+Rental-id: 6725
+
+----
+
+Rental-date: 2005-07-12 13:47:17
+
+----
+
+Return-date: 2005-07-17 13:31:17
+
+----
+
+Inventory: page://t8bSwPDJfUGJ4Xih
+
+----
+
+Uuid: 5QutcEjtRrZjHL2A
+
+----
+
+Customer: page://SXP8ih15ziLTUonG

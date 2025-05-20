@@ -1,0 +1,25 @@
+Title: Rental 842
+
+----
+
+Rental-id: 842
+
+----
+
+Rental-date: 2005-05-30 00:32:04
+
+----
+
+Return-date: 2005-06-01 02:21:04
+
+----
+
+Inventory: page://yC7doINTfuz0Vjee
+
+----
+
+Uuid: vCxh4GQYVqrUmvC3
+
+----
+
+Customer: page://RIEo30tJIX71MCMT

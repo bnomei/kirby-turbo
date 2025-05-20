@@ -1,0 +1,25 @@
+Title: Rental 10943
+
+----
+
+Rental-id: 10943
+
+----
+
+Rental-date: 2005-08-02 03:17:29
+
+----
+
+Return-date: 2005-08-03 00:50:29
+
+----
+
+Inventory: page://HeyE9BMrHQxpb9F2
+
+----
+
+Customer: page://zLiLkW2YJgd9qzFC
+
+----
+
+Uuid: tCPGinCq1KixwXeE

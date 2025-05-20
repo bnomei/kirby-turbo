@@ -1,0 +1,42 @@
+Title: KENTUCKIAN GIANT
+
+----
+
+Actors:
+
+- 'page://q71V781JfgIPJGVL'
+- 'page://RdNo3TYVhV9JmDu6'
+- 'page://RvgM0TLzgQDo6vY7'
+- 'page://Vt3bRByOUSEypvV6'
+
+----
+
+Film-id: 495
+
+----
+
+Description: A Stunning Yarn of a Woman And a Frisbee who must Escape a Waitress in A U-Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 169
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: 8yCpzSdfbM3HYsN7
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

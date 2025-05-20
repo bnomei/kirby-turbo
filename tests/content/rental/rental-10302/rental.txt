@@ -1,0 +1,25 @@
+Title: Rental 10302
+
+----
+
+Rental-id: 10302
+
+----
+
+Rental-date: 2005-08-01 04:12:08
+
+----
+
+Return-date: 2005-08-01 22:12:08
+
+----
+
+Inventory: page://g1oLVYXxSDs8NtmE
+
+----
+
+Customer: page://rug4r6NdvQakm9EC
+
+----
+
+Uuid: biJFILU3XHJHvORY

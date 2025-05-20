@@ -1,0 +1,21 @@
+Title: Rental 11646
+
+----
+
+Rental-id: 11646
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://f9reY6btzhv3vguj
+
+----
+
+Customer: page://siq3em0WWnT86bTU
+
+----
+
+Uuid: UdDvRS8fL5qWT1ls

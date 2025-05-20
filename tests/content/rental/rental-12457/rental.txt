@@ -1,0 +1,21 @@
+Title: Rental 12457
+
+----
+
+Rental-id: 12457
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://9qxxcePmht6ojTFQ
+
+----
+
+Customer: page://Kfg59yZzb8JuYq1o
+
+----
+
+Uuid: azo2VGBe26FEMIJC

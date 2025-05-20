@@ -1,0 +1,25 @@
+Title: Rental 162
+
+----
+
+Rental-id: 162
+
+----
+
+Rental-date: 2005-05-26 02:02:05
+
+----
+
+Return-date: 2005-05-27 03:38:05
+
+----
+
+Inventory: page://5ow0wZqJimJd0SVj
+
+----
+
+Uuid: 4IeGWiDmbHDAGkm1
+
+----
+
+Customer: page://UxrVUUMWkjZpGsKW

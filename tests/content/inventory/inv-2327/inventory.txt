@@ -1,0 +1,17 @@
+Title: Inv 2327
+
+----
+
+Inventory-id: 2327
+
+----
+
+Film: page://MEzVN6a8l7JinlSq
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: jhzUshLi98vtxu21

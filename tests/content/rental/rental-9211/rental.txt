@@ -1,0 +1,25 @@
+Title: Rental 9211
+
+----
+
+Rental-id: 9211
+
+----
+
+Rental-date: 2005-07-30 12:59:45
+
+----
+
+Return-date: 2005-08-07 18:17:45
+
+----
+
+Inventory: page://H8GNRzoiwnZJ4Km7
+
+----
+
+Customer: page://kcW3Aiv2w6cJeXdK
+
+----
+
+Uuid: DLrAp5lfoG0vnbqp

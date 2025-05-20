@@ -1,0 +1,37 @@
+Title: PACKER MADIGAN
+
+----
+
+Actors: - 'page://CXnMd8oVYWgOtYAB'
+
+----
+
+Film-id: 651
+
+----
+
+Description: A Epic Display of a Sumo Wrestler And a Forensic Psychologist who must Build a Woman in An Abandoned Amusement Park
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 84
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: hrSkNvW22T3x3Hg1
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

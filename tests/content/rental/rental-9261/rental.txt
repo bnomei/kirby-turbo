@@ -1,0 +1,25 @@
+Title: Rental 9261
+
+----
+
+Rental-id: 9261
+
+----
+
+Rental-date: 2005-07-30 14:39:35
+
+----
+
+Return-date: 2005-08-08 11:26:35
+
+----
+
+Inventory: page://TMMKfJjPMZNKsyVx
+
+----
+
+Customer: page://9nmXEbNtguZWpwtU
+
+----
+
+Uuid: f8ZQyI2u50KvzlyW

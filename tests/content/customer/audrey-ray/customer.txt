@@ -1,0 +1,33 @@
+Title: AUDREY RAY
+
+----
+
+Customer-id: 173
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: AUDREY
+
+----
+
+Last-name: RAY
+
+----
+
+Email: AUDREY.RAY@sakilacustomer.org
+
+----
+
+Address: page://38cKUQDsLjvmSPyb
+
+----
+
+Active: 1
+
+----
+
+Uuid: iV9J7bKEhKwgdAGi

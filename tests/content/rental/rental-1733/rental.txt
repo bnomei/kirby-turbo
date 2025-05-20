@@ -1,0 +1,25 @@
+Title: Rental 1733
+
+----
+
+Rental-id: 1733
+
+----
+
+Rental-date: 2005-06-16 15:37:07
+
+----
+
+Return-date: 2005-06-23 15:53:07
+
+----
+
+Inventory: page://dgG41EBnl4kip1zf
+
+----
+
+Uuid: vzoBCcBsMCVZ3TxW
+
+----
+
+Customer: page://VhNFaZVA09U1QRJB

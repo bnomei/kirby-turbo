@@ -1,0 +1,17 @@
+Title: Inv 452
+
+----
+
+Inventory-id: 452
+
+----
+
+Film: page://Z5v5xKmO64LHrdv8
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: UypfZxbkD8thE8w5

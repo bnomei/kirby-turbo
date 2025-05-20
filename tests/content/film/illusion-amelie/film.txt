@@ -1,0 +1,45 @@
+Title: ILLUSION AMELIE
+
+----
+
+Actors:
+
+- 'page://sDEWocF2a3nQjJMo'
+- 'page://wedufH6fwkxwowcr'
+- 'page://LYJoMM1yt0Pr5l4j'
+- 'page://RHCn9jMuVT1ewFhv'
+- 'page://Sl1QfOYn2gZWMd2L'
+- 'page://3O7lqRPKBygXUoTl'
+- 'page://HBk8OpEyVf68VCvH'
+
+----
+
+Film-id: 452
+
+----
+
+Description: A Emotional Epistle of a Boat And a Mad Scientist who must Outrace a Robot in An Abandoned Mine Shaft
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 122
+
+----
+
+Rating: R
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: cMs8ov7gYU0Vvqhi
+
+----
+
+Categories: - 'page://1zSlwtq2IyzVh9Hs'

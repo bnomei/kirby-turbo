@@ -1,0 +1,17 @@
+Title: Inv 1011
+
+----
+
+Inventory-id: 1011
+
+----
+
+Film: page://fMLEgaiXF2S6ow1C
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: yiQc6fG4VQlk0Rs0

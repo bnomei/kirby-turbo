@@ -1,0 +1,33 @@
+Title: RODNEY MOELLER
+
+----
+
+Customer-id: 409
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: RODNEY
+
+----
+
+Last-name: MOELLER
+
+----
+
+Email: RODNEY.MOELLER@sakilacustomer.org
+
+----
+
+Address: page://kGiZ0mtexu0SVUt4
+
+----
+
+Active: 1
+
+----
+
+Uuid: uedEHcyGADIOfSLA

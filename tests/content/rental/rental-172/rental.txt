@@ -1,0 +1,25 @@
+Title: Rental 172
+
+----
+
+Rental-id: 172
+
+----
+
+Rental-date: 2005-05-26 03:17:42
+
+----
+
+Return-date: 2005-05-29 04:11:42
+
+----
+
+Inventory: page://tMI2UigxEbk6dPgP
+
+----
+
+Uuid: NwQRejcvTA3BYGvk
+
+----
+
+Customer: page://8I9W8oDFPxssbhIJ

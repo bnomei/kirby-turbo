@@ -1,0 +1,25 @@
+Title: Rental 14832
+
+----
+
+Rental-id: 14832
+
+----
+
+Rental-date: 2005-08-22 01:43:29
+
+----
+
+Return-date: 2005-08-29 07:19:29
+
+----
+
+Inventory: page://M4NY1Rt7VAisn58Y
+
+----
+
+Customer: page://wPjJI94k63sf9tIo
+
+----
+
+Uuid: C6AaX5FisNYXE4jM

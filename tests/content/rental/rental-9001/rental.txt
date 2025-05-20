@@ -1,0 +1,25 @@
+Title: Rental 9001
+
+----
+
+Rental-id: 9001
+
+----
+
+Rental-date: 2005-07-30 04:59:41
+
+----
+
+Return-date: 2005-07-31 08:56:41
+
+----
+
+Inventory: page://Z7Kbvlaxxh9H9GwR
+
+----
+
+Customer: page://sGF0A1vUMDn16Llg
+
+----
+
+Uuid: OnzNBnAA5fmXViRs

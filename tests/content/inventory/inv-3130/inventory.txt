@@ -1,0 +1,17 @@
+Title: Inv 3130
+
+----
+
+Inventory-id: 3130
+
+----
+
+Film: page://CD9fFwCtutbqOSyK
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 74m7AvDEuQknCDyQ

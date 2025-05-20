@@ -1,0 +1,25 @@
+Title: Rental 887
+
+----
+
+Rental-id: 887
+
+----
+
+Rental-date: 2005-05-30 07:10:00
+
+----
+
+Return-date: 2005-06-01 06:48:00
+
+----
+
+Inventory: page://KsFX78eDp2J7opg0
+
+----
+
+Uuid: kwcLUp607F17qJmt
+
+----
+
+Customer: page://ZOdnteCiIgjV8qei

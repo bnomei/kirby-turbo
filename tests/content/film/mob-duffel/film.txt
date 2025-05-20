@@ -1,0 +1,44 @@
+Title: MOB DUFFEL
+
+----
+
+Actors:
+
+- 'page://huljhPJQohi6UE64'
+- 'page://xjeqCa9sjC8UxwnG'
+- 'page://CXnMd8oVYWgOtYAB'
+- 'page://JrsbillMdFUVLTOe'
+- 'page://6jpBKUOTpGMSQxJe'
+- 'page://twoON2iToIZq1akt'
+
+----
+
+Film-id: 585
+
+----
+
+Description: A Unbelieveable Documentary of a Frisbee And a Boat who must Meet a Boy in The Canadian Rockies
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 105
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: ZIGdtyccfqkSYSuA
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

@@ -1,0 +1,43 @@
+Title: YOUTH KICK
+
+----
+
+Actors:
+
+- 'page://RW4ixiF3bbh7oXkH'
+- 'page://JA85uxdb8uiPNO2i'
+- 'page://QXMalcumIlXeK8Z2'
+- 'page://humVtsLQfFTV2gvC'
+- 'page://FLMpVB5CVJFKSGVy'
+
+----
+
+Film-id: 997
+
+----
+
+Description: A Touching Drama of a Teacher And a Cat who must Challenge a Technical Writer in A U-Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 179
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: KpB8gb65wlkLvqKk
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

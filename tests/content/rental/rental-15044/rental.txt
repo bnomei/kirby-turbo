@@ -1,0 +1,25 @@
+Title: Rental 15044
+
+----
+
+Rental-id: 15044
+
+----
+
+Rental-date: 2005-08-22 09:51:54
+
+----
+
+Return-date: 2005-08-31 12:45:54
+
+----
+
+Inventory: page://KXnmS4BQzqgxpNYT
+
+----
+
+Customer: page://KliCwmxco9DJ4eNi
+
+----
+
+Uuid: GZ2K7muOAOadAo31

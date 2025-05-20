@@ -1,0 +1,33 @@
+Title: MARSHALL THORN
+
+----
+
+Customer-id: 583
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MARSHALL
+
+----
+
+Last-name: THORN
+
+----
+
+Email: MARSHALL.THORN@sakilacustomer.org
+
+----
+
+Address: page://07GABkfOFaI3GaX1
+
+----
+
+Active: 1
+
+----
+
+Uuid: pjmWpRpQ5NINevq0

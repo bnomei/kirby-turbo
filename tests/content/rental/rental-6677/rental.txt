@@ -1,0 +1,25 @@
+Title: Rental 6677
+
+----
+
+Rental-id: 6677
+
+----
+
+Rental-date: 2005-07-12 11:58:14
+
+----
+
+Return-date: 2005-07-21 06:05:14
+
+----
+
+Inventory: page://eoevEVliYL0ZXYX8
+
+----
+
+Uuid: Vs23lQSEWuvf7J8p
+
+----
+
+Customer: page://5hIhacgiGD4GRrE2

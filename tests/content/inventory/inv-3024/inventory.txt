@@ -1,0 +1,17 @@
+Title: Inv 3024
+
+----
+
+Inventory-id: 3024
+
+----
+
+Film: page://EfESDft6aS0p6RpC
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 46tlBDKUyagXf1YU

@@ -1,0 +1,17 @@
+Title: Inv 2924
+
+----
+
+Inventory-id: 2924
+
+----
+
+Film: page://vhkErafCh9Wb0AlE
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 3WgcPPQ3ru1DdEJQ

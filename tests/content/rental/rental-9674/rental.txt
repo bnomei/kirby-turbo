@@ -1,0 +1,25 @@
+Title: Rental 9674
+
+----
+
+Rental-id: 9674
+
+----
+
+Rental-date: 2005-07-31 06:36:53
+
+----
+
+Return-date: 2005-08-06 02:50:53
+
+----
+
+Inventory: page://DfItss2wxtnEk675
+
+----
+
+Customer: page://OuCE5gs5Pt217cWx
+
+----
+
+Uuid: lzzy5cBDjH6vhSIL

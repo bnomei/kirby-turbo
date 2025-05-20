@@ -1,0 +1,25 @@
+Title: Rental 1176
+
+----
+
+Rental-id: 1176
+
+----
+
+Rental-date: 2005-06-15 00:28:37
+
+----
+
+Return-date: 2005-06-21 21:42:37
+
+----
+
+Inventory: page://gdA6z4vMCO6lQs7M
+
+----
+
+Uuid: Sz2W0SmTJYS6RBTZ
+
+----
+
+Customer: page://8819Gek69PVTaJvT

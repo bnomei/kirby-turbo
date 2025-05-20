@@ -1,0 +1,25 @@
+Title: Rental 2371
+
+----
+
+Rental-id: 2371
+
+----
+
+Rental-date: 2005-06-18 14:35:29
+
+----
+
+Return-date: 2005-06-22 09:38:29
+
+----
+
+Inventory: page://cMIezRPq8dZ9D2Px
+
+----
+
+Uuid: VAMMVnYppaqogR8g
+
+----
+
+Customer: page://Qi4JrRnZX0esVTiK

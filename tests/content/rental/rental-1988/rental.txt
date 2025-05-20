@@ -1,0 +1,25 @@
+Title: Rental 1988
+
+----
+
+Rental-id: 1988
+
+----
+
+Rental-date: 2005-06-17 10:42:34
+
+----
+
+Return-date: 2005-06-25 11:47:34
+
+----
+
+Inventory: page://snNIJ9hsgGsdwUeT
+
+----
+
+Uuid: rvgGqX8kFU7T0H02
+
+----
+
+Customer: page://hKCKx3YFHHjehyrG

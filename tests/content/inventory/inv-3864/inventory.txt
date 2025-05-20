@@ -1,0 +1,17 @@
+Title: Inv 3864
+
+----
+
+Inventory-id: 3864
+
+----
+
+Film: page://trBfVok5w8tQjZwd
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: evZov8G0HWATL5UY

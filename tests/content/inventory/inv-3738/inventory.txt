@@ -1,0 +1,17 @@
+Title: Inv 3738
+
+----
+
+Inventory-id: 3738
+
+----
+
+Film: page://noCRdaE1g1oSh4j5
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Do3CzLHa2DDGi2iF

@@ -1,0 +1,17 @@
+Title: Inv 468
+
+----
+
+Inventory-id: 468
+
+----
+
+Film: page://9yDVnskpaehT7Njf
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: p3eIFdvaX9asGt1V

@@ -1,0 +1,25 @@
+Title: Rental 2780
+
+----
+
+Rental-id: 2780
+
+----
+
+Rental-date: 2005-06-19 18:19:33
+
+----
+
+Return-date: 2005-06-28 22:29:33
+
+----
+
+Inventory: page://zfZpMHo2PRV0Qixi
+
+----
+
+Uuid: n73aQDqudadn654T
+
+----
+
+Customer: page://7SY2KMPnL0FSeq6W

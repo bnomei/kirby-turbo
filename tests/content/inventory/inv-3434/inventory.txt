@@ -1,0 +1,17 @@
+Title: Inv 3434
+
+----
+
+Inventory-id: 3434
+
+----
+
+Film: page://qWX4AUrS1elOCyrn
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: xWjZeVAJeDxbHZ0q

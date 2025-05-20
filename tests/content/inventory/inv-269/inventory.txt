@@ -1,0 +1,17 @@
+Title: Inv 269
+
+----
+
+Inventory-id: 269
+
+----
+
+Film: page://RGaT4pkS9m8VuTXD
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 4at41yxIJHfYAxUp

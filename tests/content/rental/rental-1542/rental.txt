@@ -1,0 +1,25 @@
+Title: Rental 1542
+
+----
+
+Rental-id: 1542
+
+----
+
+Rental-date: 2005-06-16 01:20:05
+
+----
+
+Return-date: 2005-06-22 03:59:05
+
+----
+
+Inventory: page://kTrJw6ccGhydXuWg
+
+----
+
+Uuid: Mf06phIExI2RoqmM
+
+----
+
+Customer: page://WanceI8LSemC0lzf

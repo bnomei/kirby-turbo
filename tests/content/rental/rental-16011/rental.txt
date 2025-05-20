@@ -1,0 +1,25 @@
+Title: Rental 16011
+
+----
+
+Rental-id: 16011
+
+----
+
+Rental-date: 2005-08-23 21:11:33
+
+----
+
+Return-date: 2005-08-31 17:51:33
+
+----
+
+Inventory: page://8G0HDkVdoEupj90V
+
+----
+
+Customer: page://3MkHP5Qqv8Lg3Njc
+
+----
+
+Uuid: ybhYkdRBrYJy1ekW

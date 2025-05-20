@@ -9,7 +9,6 @@
 /tests/site/accounts
 /tests/site/cache
 /tests/site/sessions
-/tests/content
 /tests/site/config/.license*
 
 # files of Composer dependencies that are not needed for the plugin

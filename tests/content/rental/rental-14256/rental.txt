@@ -1,0 +1,25 @@
+Title: Rental 14256
+
+----
+
+Rental-id: 14256
+
+----
+
+Rental-date: 2005-08-21 05:52:27
+
+----
+
+Return-date: 2005-08-29 02:10:27
+
+----
+
+Inventory: page://tzFCgMmpXJcWzCZh
+
+----
+
+Customer: page://DxMKPSznn9C2XI5l
+
+----
+
+Uuid: 0BAPY6AYgpNN5AVc

@@ -1,0 +1,25 @@
+Title: Rental 6056
+
+----
+
+Rental-id: 6056
+
+----
+
+Rental-date: 2005-07-11 04:01:27
+
+----
+
+Return-date: 2005-07-12 04:14:27
+
+----
+
+Inventory: page://2tcnqhglAGns89eW
+
+----
+
+Uuid: ZPEObHNNSFSxlECk
+
+----
+
+Customer: page://yjYvst4Pui2DtNsv

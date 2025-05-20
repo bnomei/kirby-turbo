@@ -1,0 +1,17 @@
+Title: Inv 1789
+
+----
+
+Inventory-id: 1789
+
+----
+
+Film: page://VXTF2B4oApgM5diU
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 0rCAzNDyrGFz8mPi

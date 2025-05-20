@@ -1,0 +1,17 @@
+Title: Inv 3702
+
+----
+
+Inventory-id: 3702
+
+----
+
+Film: page://cxBX1iuD9IbXYvn0
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: OxdR24fGIYijAChm

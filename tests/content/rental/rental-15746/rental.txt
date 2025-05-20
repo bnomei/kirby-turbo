@@ -1,0 +1,25 @@
+Title: Rental 15746
+
+----
+
+Rental-id: 15746
+
+----
+
+Rental-date: 2005-08-23 12:26:19
+
+----
+
+Return-date: 2005-08-26 09:51:19
+
+----
+
+Inventory: page://MKOp9IlNWqYi9SpY
+
+----
+
+Customer: page://SnGdQyKh3vyTvpek
+
+----
+
+Uuid: luCBnTXK4FhhmIhF

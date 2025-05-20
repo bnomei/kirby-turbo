@@ -1,0 +1,21 @@
+Title: KIRSTEN PALTROW
+
+----
+
+Actors: []
+
+----
+
+Actor-id: 21
+
+----
+
+First-name: KIRSTEN
+
+----
+
+Last-name: PALTROW
+
+----
+
+Uuid: rWwSmn6uTovtpXae

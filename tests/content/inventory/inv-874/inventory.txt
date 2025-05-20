@@ -1,0 +1,17 @@
+Title: Inv 874
+
+----
+
+Inventory-id: 874
+
+----
+
+Film: page://bjcVvf6Bq6N3Umgg
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 1e8WjobIaA4seKGQ

@@ -1,0 +1,21 @@
+Title: Rental 15297
+
+----
+
+Rental-id: 15297
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://B3p0VcKj5hALHbH5
+
+----
+
+Customer: page://wFOjfrR0gpP7jV9B
+
+----
+
+Uuid: vLcBOG2tVKLMAnlc

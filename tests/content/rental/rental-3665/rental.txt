@@ -1,0 +1,25 @@
+Title: Rental 3665
+
+----
+
+Rental-id: 3665
+
+----
+
+Rental-date: 2005-07-06 08:23:08
+
+----
+
+Return-date: 2005-07-13 13:38:08
+
+----
+
+Inventory: page://ofcq2XdJL9RhNS3s
+
+----
+
+Uuid: dLqKTRHlfv7AIGoy
+
+----
+
+Customer: page://2XFuHwmZmBm0kuQs

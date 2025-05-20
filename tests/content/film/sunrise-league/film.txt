@@ -1,0 +1,43 @@
+Title: SUNRISE LEAGUE
+
+----
+
+Actors:
+
+- 'page://S52CrIK06oYgWrwP'
+- 'page://Tc5O2MboD06L5UFn'
+- 'page://JbsPWnOXBNKX1tM5'
+- 'page://3oaBypMbXEPYhgeK'
+- 'page://64SCw7TVQ1KFgpJt'
+
+----
+
+Film-id: 865
+
+----
+
+Description: A Beautiful Epistle of a Madman And a Butler who must Face a Crocodile in A Manhattan Penthouse
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 135
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: d3ucrSFTIamNJlRe
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

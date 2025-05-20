@@ -1,0 +1,25 @@
+Title: Rental 786
+
+----
+
+Rental-id: 786
+
+----
+
+Rental-date: 2005-05-29 15:17:28
+
+----
+
+Return-date: 2005-06-07 10:07:28
+
+----
+
+Inventory: page://GyAAohgehRNzr4lR
+
+----
+
+Uuid: yHxoHM6gpUaBshwH
+
+----
+
+Customer: page://KliCwmxco9DJ4eNi

@@ -1,0 +1,25 @@
+Title: Rental 4211
+
+----
+
+Rental-id: 4211
+
+----
+
+Rental-date: 2005-07-07 11:50:41
+
+----
+
+Return-date: 2005-07-09 13:58:41
+
+----
+
+Inventory: page://UTfVxO4ma9RWzlB9
+
+----
+
+Uuid: dGM0fh1HZ9blnQXY
+
+----
+
+Customer: page://ZbOznINloPtmkvNK

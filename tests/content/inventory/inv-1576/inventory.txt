@@ -1,0 +1,17 @@
+Title: Inv 1576
+
+----
+
+Inventory-id: 1576
+
+----
+
+Film: page://TdN5H8oupvm1ySSj
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 9ZlaXMxIVE0vslXp

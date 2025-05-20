@@ -1,0 +1,17 @@
+Title: Inv 4278
+
+----
+
+Inventory-id: 4278
+
+----
+
+Film: page://NGijE6U088HjpeKg
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: C6Jmm39LqOZAuB9H

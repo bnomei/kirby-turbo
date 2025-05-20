@@ -1,0 +1,41 @@
+Title: LOST BIRD
+
+----
+
+Actors:
+
+- 'page://4hDC3FM6lySlQjxW'
+- 'page://nN3rIVkI7hNgoDlp'
+- 'page://Q7LFBcb3oEdhSO9W'
+
+----
+
+Film-id: 533
+
+----
+
+Description: A Emotional Character Study of a Robot And a A Shark who must Defeat a Technical Writer in A Manhattan Penthouse
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 98
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: 9D23rGVJtd8AhuJg
+
+----
+
+Categories: - 'page://1zSlwtq2IyzVh9Hs'

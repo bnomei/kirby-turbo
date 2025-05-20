@@ -1,0 +1,25 @@
+Title: Rental 3678
+
+----
+
+Rental-id: 3678
+
+----
+
+Rental-date: 2005-07-06 09:15:15
+
+----
+
+Return-date: 2005-07-10 05:01:15
+
+----
+
+Inventory: page://3sp3qM7g7v2UM3GF
+
+----
+
+Uuid: rQh7JBt2FPosltJL
+
+----
+
+Customer: page://G7aBBPXnsH9z6xIt

@@ -1,0 +1,17 @@
+Title: Inv 799
+
+----
+
+Inventory-id: 799
+
+----
+
+Film: page://VGG6oep9Cae1K7dP
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 69MJ6kcCtV4wykft

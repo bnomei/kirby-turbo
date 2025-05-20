@@ -1,0 +1,33 @@
+Title: KEITH RICO
+
+----
+
+Customer-id: 357
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: KEITH
+
+----
+
+Last-name: RICO
+
+----
+
+Email: KEITH.RICO@sakilacustomer.org
+
+----
+
+Address: page://Zp1L7XtOVsZhnfZl
+
+----
+
+Active: 1
+
+----
+
+Uuid: CTF6K45F9gpJS5GA

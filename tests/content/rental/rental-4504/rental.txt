@@ -1,0 +1,25 @@
+Title: Rental 4504
+
+----
+
+Rental-id: 4504
+
+----
+
+Rental-date: 2005-07-08 02:19:27
+
+----
+
+Return-date: 2005-07-12 21:15:27
+
+----
+
+Inventory: page://tt6XxQJ4RgVFes7v
+
+----
+
+Uuid: 8oMRAYBL3fTcUHCH
+
+----
+
+Customer: page://B6FDvvDBHRaKmtPn

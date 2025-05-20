@@ -1,0 +1,17 @@
+Title: Inv 486
+
+----
+
+Inventory-id: 486
+
+----
+
+Film: page://oRpZRH9vL9I1bLI8
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: OGB8iFIS4nfFXc8p

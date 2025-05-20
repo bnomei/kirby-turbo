@@ -1,0 +1,25 @@
+Title: Rental 15573
+
+----
+
+Rental-id: 15573
+
+----
+
+Rental-date: 2005-08-23 05:28:36
+
+----
+
+Return-date: 2005-08-27 05:37:36
+
+----
+
+Inventory: page://WXUSPC3yjVwPs5n6
+
+----
+
+Customer: page://xiuePi4NIEUJXUwz
+
+----
+
+Uuid: mCxCju0zUKsRJrbi

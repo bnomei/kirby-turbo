@@ -1,0 +1,25 @@
+Title: Rental 824
+
+----
+
+Rental-id: 824
+
+----
+
+Rental-date: 2005-05-29 21:45:32
+
+----
+
+Return-date: 2005-05-31 19:01:32
+
+----
+
+Inventory: page://J65nDHYNz80D2N3X
+
+----
+
+Uuid: FnDMsv0xPrhnOoKy
+
+----
+
+Customer: page://CTF6K45F9gpJS5GA

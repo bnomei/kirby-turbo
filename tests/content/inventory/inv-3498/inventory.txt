@@ -1,0 +1,17 @@
+Title: Inv 3498
+
+----
+
+Inventory-id: 3498
+
+----
+
+Film: page://7zRlKlOfqwmaI4Y9
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 0TRZnnwE1bqyersi

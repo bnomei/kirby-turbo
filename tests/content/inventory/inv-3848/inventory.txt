@@ -1,0 +1,17 @@
+Title: Inv 3848
+
+----
+
+Inventory-id: 3848
+
+----
+
+Film: page://wu9cEQ1sS4zbyXA7
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: iQWJOMsVE0HuVGjS

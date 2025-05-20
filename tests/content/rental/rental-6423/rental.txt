@@ -1,0 +1,25 @@
+Title: Rental 6423
+
+----
+
+Rental-id: 6423
+
+----
+
+Rental-date: 2005-07-11 23:47:31
+
+----
+
+Return-date: 2005-07-19 18:16:31
+
+----
+
+Inventory: page://lARkkFGQEADiyJx4
+
+----
+
+Uuid: ERoabbyRlG9e162c
+
+----
+
+Customer: page://H1iYUUjd9JG1DGh7

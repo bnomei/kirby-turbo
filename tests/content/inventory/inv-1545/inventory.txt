@@ -1,0 +1,17 @@
+Title: Inv 1545
+
+----
+
+Inventory-id: 1545
+
+----
+
+Film: page://B0Ss8TCY0mWwHbp8
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: k8ZuKNehT3QTKBNw

@@ -1,0 +1,25 @@
+Title: Rental 1861
+
+----
+
+Rental-id: 1861
+
+----
+
+Rental-date: 2005-06-17 01:17:31
+
+----
+
+Return-date: 2005-06-25 02:11:31
+
+----
+
+Inventory: page://FcT5LSVbVtqHBDbS
+
+----
+
+Uuid: YuL7nFMc580KGA2n
+
+----
+
+Customer: page://2QCpyeeQilmvnk6g

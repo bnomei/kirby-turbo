@@ -1,0 +1,25 @@
+Title: Rental 10082
+
+----
+
+Rental-id: 10082
+
+----
+
+Rental-date: 2005-07-31 20:09:32
+
+----
+
+Return-date: 2005-08-01 15:41:32
+
+----
+
+Inventory: page://XT0gu4AD5le4vBiW
+
+----
+
+Customer: page://6QgFvPw1AynCQ7UR
+
+----
+
+Uuid: IOLZiRBQ424UdZVu

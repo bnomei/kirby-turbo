@@ -1,0 +1,17 @@
+Title: Inv 1811
+
+----
+
+Inventory-id: 1811
+
+----
+
+Film: page://RdFFMkLYc0bcFmi1
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: UFDeBEXLEddvzNpr

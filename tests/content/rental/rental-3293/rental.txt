@@ -1,0 +1,25 @@
+Title: Rental 3293
+
+----
+
+Rental-id: 3293
+
+----
+
+Rental-date: 2005-06-21 06:59:33
+
+----
+
+Return-date: 2005-06-25 06:54:33
+
+----
+
+Inventory: page://DRTjeUZ6lsgSCQ3A
+
+----
+
+Uuid: zsrRQnub4EbfxGdz
+
+----
+
+Customer: page://6B5jExq3JyrPdaga

@@ -1,0 +1,17 @@
+Title: Inv 4282
+
+----
+
+Inventory-id: 4282
+
+----
+
+Film: page://vUCdbZlLUxoT8vDG
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: StwfQL0AqfVmWNr7

@@ -1,0 +1,17 @@
+Title: Inv 1707
+
+----
+
+Inventory-id: 1707
+
+----
+
+Film: page://1ChvAYtOq67HetIh
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 6OwW1UnPm0u1l1CC

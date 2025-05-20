@@ -1,0 +1,46 @@
+Title: BAREFOOT MANCHURIAN
+
+----
+
+Actors:
+
+- 'page://lzPNV2QlqjXMSB7U'
+- 'page://RdNo3TYVhV9JmDu6'
+- 'page://gxNf949gkwS5ks3A'
+- 'page://4hDC3FM6lySlQjxW'
+- 'page://RHCn9jMuVT1ewFhv'
+- 'page://SR0Aks2aA1YgkZ1s'
+- 'page://qCm78VMzP14zbmIL'
+- 'page://18rsmrxh7jfYQ50K'
+
+----
+
+Film-id: 56
+
+----
+
+Description: A Intrepid Story of a Cat And a Student who must Vanquish a Girl in An Abandoned Amusement Park
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 129
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: sMBADBLgBLbvJNSb
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

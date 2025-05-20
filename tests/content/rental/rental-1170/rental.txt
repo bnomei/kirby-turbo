@@ -1,0 +1,25 @@
+Title: Rental 1170
+
+----
+
+Rental-id: 1170
+
+----
+
+Rental-date: 2005-06-14 23:47:35
+
+----
+
+Return-date: 2005-06-17 05:28:35
+
+----
+
+Inventory: page://bAlPAd45VilnVGaJ
+
+----
+
+Uuid: eaqZ0rVzklL53xKQ
+
+----
+
+Customer: page://dAwe6HV7cqMe4xEm

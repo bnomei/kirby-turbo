@@ -1,0 +1,17 @@
+Title: Inv 4081
+
+----
+
+Inventory-id: 4081
+
+----
+
+Film: page://c3rTw5R0z4rnieBv
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: L00rakn77VfPhHlC

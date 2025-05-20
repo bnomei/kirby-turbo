@@ -1,0 +1,25 @@
+Title: Rental 7004
+
+----
+
+Rental-id: 7004
+
+----
+
+Rental-date: 2005-07-27 01:36:05
+
+----
+
+Return-date: 2005-08-03 23:46:05
+
+----
+
+Inventory: page://BpMdQE1FF5x6Z0yp
+
+----
+
+Customer: page://Ouab56J6iNBuj7fa
+
+----
+
+Uuid: av15W9890VucmxCC

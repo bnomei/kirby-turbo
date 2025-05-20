@@ -1,0 +1,25 @@
+Title: Rental 10254
+
+----
+
+Rental-id: 10254
+
+----
+
+Rental-date: 2005-08-01 02:42:03
+
+----
+
+Return-date: 2005-08-05 23:31:03
+
+----
+
+Inventory: page://orjWmPN66R8HR1LS
+
+----
+
+Customer: page://Hw6vCBoFgUCMOqCI
+
+----
+
+Uuid: 92wjw3l4dBDTzPOf

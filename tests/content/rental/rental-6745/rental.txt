@@ -1,0 +1,25 @@
+Title: Rental 6745
+
+----
+
+Rental-id: 6745
+
+----
+
+Rental-date: 2005-07-12 14:30:51
+
+----
+
+Return-date: 2005-07-13 13:42:51
+
+----
+
+Inventory: page://FnFkApBymNSy2u4N
+
+----
+
+Uuid: uoMFklnlVUBgAjvu
+
+----
+
+Customer: page://DVIVTmAM0LOCEI7a

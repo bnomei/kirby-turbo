@@ -1,0 +1,25 @@
+Title: Rental 2339
+
+----
+
+Rental-id: 2339
+
+----
+
+Rental-date: 2005-06-18 11:29:22
+
+----
+
+Return-date: 2005-06-21 10:29:22
+
+----
+
+Inventory: page://p3tCJzZ87pARlllL
+
+----
+
+Uuid: 9dbxvix87nSGhnw8
+
+----
+
+Customer: page://OuCE5gs5Pt217cWx

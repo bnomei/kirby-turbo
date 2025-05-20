@@ -1,0 +1,17 @@
+Title: Inv 1681
+
+----
+
+Inventory-id: 1681
+
+----
+
+Film: page://9aeTkPa9TpoKnUMY
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: TtYixSK0budsA0sQ

@@ -1,0 +1,25 @@
+Title: Rental 8341
+
+----
+
+Rental-id: 8341
+
+----
+
+Rental-date: 2005-07-29 04:42:01
+
+----
+
+Return-date: 2005-08-04 00:58:01
+
+----
+
+Inventory: page://GMyuduS0FxGUjmOB
+
+----
+
+Customer: page://6W4MNt60QNzdOkOf
+
+----
+
+Uuid: kTaoaeFCGS1gqe7b

@@ -1,0 +1,17 @@
+Title: Inv 1248
+
+----
+
+Inventory-id: 1248
+
+----
+
+Film: page://LTiv00xGWgHvGE6b
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: N9WUqK0teq1bXMPW

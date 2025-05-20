@@ -1,0 +1,17 @@
+Title: Inv 1305
+
+----
+
+Inventory-id: 1305
+
+----
+
+Film: page://XoJ7wKbaZ3Y7kJw7
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 5obPRcDfO7EKRAve

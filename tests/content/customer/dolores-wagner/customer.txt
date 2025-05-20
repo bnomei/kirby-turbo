@@ -1,0 +1,33 @@
+Title: DOLORES WAGNER
+
+----
+
+Customer-id: 171
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: DOLORES
+
+----
+
+Last-name: WAGNER
+
+----
+
+Email: DOLORES.WAGNER@sakilacustomer.org
+
+----
+
+Address: page://gofonqpN1uDQnWXf
+
+----
+
+Active: 1
+
+----
+
+Uuid: a8PAxcavjVVdCjjp

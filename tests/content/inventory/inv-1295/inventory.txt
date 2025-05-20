@@ -1,0 +1,17 @@
+Title: Inv 1295
+
+----
+
+Inventory-id: 1295
+
+----
+
+Film: page://JnBVTiYjE406f6Ty
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: IjazuNLcwlbNuszz

@@ -1,0 +1,25 @@
+Title: Rental 3182
+
+----
+
+Rental-id: 3182
+
+----
+
+Rental-date: 2005-06-20 22:52:18
+
+----
+
+Return-date: 2005-06-21 21:00:18
+
+----
+
+Inventory: page://j1sHM5V0jkZHmcGY
+
+----
+
+Uuid: uIwVhpBuXsl7POI3
+
+----
+
+Customer: page://Np9oOnG3vThj8OAU

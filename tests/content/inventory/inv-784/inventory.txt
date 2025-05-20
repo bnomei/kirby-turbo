@@ -1,0 +1,17 @@
+Title: Inv 784
+
+----
+
+Inventory-id: 784
+
+----
+
+Film: page://wgGSeQQNIgIH75fJ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: L2qvP3fwLhuxIgIf

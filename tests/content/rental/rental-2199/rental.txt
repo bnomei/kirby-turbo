@@ -1,0 +1,25 @@
+Title: Rental 2199
+
+----
+
+Rental-id: 2199
+
+----
+
+Rental-date: 2005-06-18 01:57:56
+
+----
+
+Return-date: 2005-06-23 20:34:56
+
+----
+
+Inventory: page://BM26ZLBXsHz46r6b
+
+----
+
+Uuid: AmNS5gVCLEADm2hX
+
+----
+
+Customer: page://a8PAxcavjVVdCjjp

@@ -1,0 +1,17 @@
+Title: Inv 1327
+
+----
+
+Inventory-id: 1327
+
+----
+
+Film: page://FMaEBFzaAtTRGtQm
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: uHJEZySsUI6OID1b

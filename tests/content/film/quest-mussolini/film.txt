@@ -1,0 +1,43 @@
+Title: QUEST MUSSOLINI
+
+----
+
+Actors:
+
+- 'page://xBL8rppzTt5cijUB'
+- 'page://9NAEa97MvjisWbzN'
+- 'page://ixmDbcb5VXh1c8bc'
+- 'page://HMQFYCzd6sL7s9te'
+- 'page://6LG8mbCuu1aKuRcl'
+
+----
+
+Film-id: 707
+
+----
+
+Description: A Fateful Drama of a Husband And a Sumo Wrestler who must Battle a Pastry Chef in A Baloon Factory
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 177
+
+----
+
+Rating: R
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: i6nK30OBgHya9YTK
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

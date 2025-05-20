@@ -1,0 +1,25 @@
+Title: Rental 8508
+
+----
+
+Rental-id: 8508
+
+----
+
+Rental-date: 2005-07-29 09:34:38
+
+----
+
+Return-date: 2005-08-01 14:52:38
+
+----
+
+Inventory: page://oTO4hi9ejEilSFEo
+
+----
+
+Customer: page://rMm0jN6bFHVs2tRk
+
+----
+
+Uuid: Te215RFEFbLVySh1

@@ -1,0 +1,41 @@
+Title: ARK RIDGEMONT
+
+----
+
+Actors:
+
+- 'page://y29OJNxDr3yTLShi'
+- 'page://4H5a71re4eGpTLKc'
+- 'page://EIh5zoCTJV7UmSi4'
+
+----
+
+Film-id: 38
+
+----
+
+Description: A Beautiful Yarn of a Pioneer And a Monkey who must Pursue a Explorer in The Sahara Desert
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 68
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: eSR1IiA7WzBP6wVA
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

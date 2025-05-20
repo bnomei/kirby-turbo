@@ -1,0 +1,44 @@
+Title: LOVELY JINGLE
+
+----
+
+Actors:
+
+- 'page://q71V781JfgIPJGVL'
+- 'page://NkG0QBqlgfweHNxN'
+- 'page://RdNo3TYVhV9JmDu6'
+- 'page://RW4ixiF3bbh7oXkH'
+- 'page://zYYZnzancmv0SOT5'
+- 'page://FLMpVB5CVJFKSGVy'
+
+----
+
+Film-id: 536
+
+----
+
+Description: A Fanciful Yarn of a Crocodile And a Forensic Psychologist who must Discover a Crocodile in The Outback
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 65
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: D6WxoepEv1yKqLQm
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

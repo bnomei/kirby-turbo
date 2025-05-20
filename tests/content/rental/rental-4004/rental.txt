@@ -1,0 +1,25 @@
+Title: Rental 4004
+
+----
+
+Rental-id: 4004
+
+----
+
+Rental-date: 2005-07-07 00:20:51
+
+----
+
+Return-date: 2005-07-11 18:55:51
+
+----
+
+Inventory: page://GWnzZX1ZsX0EUMIf
+
+----
+
+Uuid: u7cQVtF7TdyTGPbA
+
+----
+
+Customer: page://ezKQFYnXPCOgLSXF

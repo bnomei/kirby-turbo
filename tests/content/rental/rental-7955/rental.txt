@@ -1,0 +1,25 @@
+Title: Rental 7955
+
+----
+
+Rental-id: 7955
+
+----
+
+Rental-date: 2005-07-28 13:31:36
+
+----
+
+Return-date: 2005-07-30 10:03:36
+
+----
+
+Inventory: page://K1DBuqedkSfoIRMP
+
+----
+
+Customer: page://azLzg4bnImGnXayq
+
+----
+
+Uuid: 3eAY0izBu308CgPL

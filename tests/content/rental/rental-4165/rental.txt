@@ -1,0 +1,25 @@
+Title: Rental 4165
+
+----
+
+Rental-id: 4165
+
+----
+
+Rental-date: 2005-07-07 09:23:27
+
+----
+
+Return-date: 2005-07-15 06:00:27
+
+----
+
+Inventory: page://60sbCeW3rgDmDrCh
+
+----
+
+Uuid: kzsdua1wERFB83I2
+
+----
+
+Customer: page://rtPPzvWhh7zAFt5a

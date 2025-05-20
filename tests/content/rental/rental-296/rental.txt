@@ -1,0 +1,25 @@
+Title: Rental 296
+
+----
+
+Rental-id: 296
+
+----
+
+Rental-date: 2005-05-26 20:35:19
+
+----
+
+Return-date: 2005-06-04 02:31:19
+
+----
+
+Inventory: page://bT9sCFX71hwGJp34
+
+----
+
+Uuid: BiebmmOOxjhLhmsj
+
+----
+
+Customer: page://tS8tZAomHzcsij8a

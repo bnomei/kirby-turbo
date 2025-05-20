@@ -1,0 +1,17 @@
+Title: Inv 1604
+
+----
+
+Inventory-id: 1604
+
+----
+
+Film: page://mtoWYsIKavCxrGqP
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 3VKdbr70jPUUIHcv

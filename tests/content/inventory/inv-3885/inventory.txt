@@ -1,0 +1,17 @@
+Title: Inv 3885
+
+----
+
+Inventory-id: 3885
+
+----
+
+Film: page://Lk4rYvVL1KI6Bl9n
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: m4QEECbdBQYclM6q

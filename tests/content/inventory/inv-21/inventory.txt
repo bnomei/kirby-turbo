@@ -1,0 +1,17 @@
+Title: Inv 21
+
+----
+
+Inventory-id: 21
+
+----
+
+Film: page://lmoJMGpiz8uhlF1c
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: MnDKaqX4AwRUCMwq

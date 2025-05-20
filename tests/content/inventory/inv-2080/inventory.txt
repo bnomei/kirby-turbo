@@ -1,0 +1,17 @@
+Title: Inv 2080
+
+----
+
+Inventory-id: 2080
+
+----
+
+Film: page://GuXKGWXBSaYloVkz
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: eFLZL7luVnisqd0O

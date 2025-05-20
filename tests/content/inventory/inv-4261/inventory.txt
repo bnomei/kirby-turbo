@@ -1,0 +1,17 @@
+Title: Inv 4261
+
+----
+
+Inventory-id: 4261
+
+----
+
+Film: page://5pHdCaNNWpZeqyu1
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 0jzYE0zRskmjN7qZ

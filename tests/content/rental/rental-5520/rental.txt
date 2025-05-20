@@ -1,0 +1,25 @@
+Title: Rental 5520
+
+----
+
+Rental-id: 5520
+
+----
+
+Rental-date: 2005-07-10 01:30:41
+
+----
+
+Return-date: 2005-07-15 21:37:41
+
+----
+
+Inventory: page://k9iqFNTbkhUcZSNw
+
+----
+
+Uuid: T2BxYkuKydoGpr6C
+
+----
+
+Customer: page://AebunhQoABksvBV9

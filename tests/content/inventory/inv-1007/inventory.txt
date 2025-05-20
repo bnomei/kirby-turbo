@@ -1,0 +1,17 @@
+Title: Inv 1007
+
+----
+
+Inventory-id: 1007
+
+----
+
+Film: page://mISz5LfGO1wZEfg8
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 1GRzj6J5qyu0uIF4

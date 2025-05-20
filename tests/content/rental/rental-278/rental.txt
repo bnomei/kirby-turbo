@@ -1,0 +1,25 @@
+Title: Rental 278
+
+----
+
+Rental-id: 278
+
+----
+
+Rental-date: 2005-05-26 17:40:58
+
+----
+
+Return-date: 2005-06-02 16:43:58
+
+----
+
+Inventory: page://zQUqL5HaHogHHeIm
+
+----
+
+Uuid: o3SDfFHgf8lnySgh
+
+----
+
+Customer: page://ZbOznINloPtmkvNK

@@ -1,0 +1,33 @@
+Title: EILEEN CARR
+
+----
+
+Customer-id: 205
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: EILEEN
+
+----
+
+Last-name: CARR
+
+----
+
+Email: EILEEN.CARR@sakilacustomer.org
+
+----
+
+Address: page://1dxjiabLhw5GF5jc
+
+----
+
+Active: 1
+
+----
+
+Uuid: aZnDcwJX7i5ifkQq

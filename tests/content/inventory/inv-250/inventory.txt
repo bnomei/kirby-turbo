@@ -1,0 +1,17 @@
+Title: Inv 250
+
+----
+
+Inventory-id: 250
+
+----
+
+Film: page://sMBADBLgBLbvJNSb
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: IPNIvoZNery99FFV

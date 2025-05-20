@@ -1,0 +1,17 @@
+Title: Inv 1542
+
+----
+
+Inventory-id: 1542
+
+----
+
+Film: page://pCiw3vrnyD9uIv5L
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: FEuvz3jMbyA0n61b

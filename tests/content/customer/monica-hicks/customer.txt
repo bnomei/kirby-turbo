@@ -1,0 +1,33 @@
+Title: MONICA HICKS
+
+----
+
+Customer-id: 131
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: MONICA
+
+----
+
+Last-name: HICKS
+
+----
+
+Email: MONICA.HICKS@sakilacustomer.org
+
+----
+
+Address: page://If67wlZ7k0kFFKrW
+
+----
+
+Active: 1
+
+----
+
+Uuid: N95O2afia8ED5CLD

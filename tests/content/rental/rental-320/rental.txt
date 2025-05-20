@@ -1,0 +1,25 @@
+Title: Rental 320
+
+----
+
+Rental-id: 320
+
+----
+
+Rental-date: 2005-05-27 00:09:24
+
+----
+
+Return-date: 2005-05-28 04:30:24
+
+----
+
+Inventory: page://6c5IX4OYUlWPZxZ4
+
+----
+
+Uuid: 6cKAZRXcrg9tXuRq
+
+----
+
+Customer: page://FiEjPjAVk9G7zTXB

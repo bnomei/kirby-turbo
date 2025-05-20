@@ -1,0 +1,17 @@
+Title: Inv 2071
+
+----
+
+Inventory-id: 2071
+
+----
+
+Film: page://0kAxlJqgdsNuwLSJ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: cTmyEB8hDz1AginQ

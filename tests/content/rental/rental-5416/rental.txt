@@ -1,0 +1,25 @@
+Title: Rental 5416
+
+----
+
+Rental-id: 5416
+
+----
+
+Rental-date: 2005-07-09 20:33:50
+
+----
+
+Return-date: 2005-07-14 01:50:50
+
+----
+
+Inventory: page://9NBu2sODCjOS5EJ8
+
+----
+
+Uuid: hFwFonH3GBRZXQQZ
+
+----
+
+Customer: page://zjLEkMGR4HRu3jti

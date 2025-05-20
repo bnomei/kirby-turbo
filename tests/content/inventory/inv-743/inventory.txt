@@ -1,0 +1,17 @@
+Title: Inv 743
+
+----
+
+Inventory-id: 743
+
+----
+
+Film: page://b3WR2wrdQ8FGZBtm
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: CjbLGNlC5I4o0Tv1

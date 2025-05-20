@@ -1,0 +1,17 @@
+Title: Inv 3905
+
+----
+
+Inventory-id: 3905
+
+----
+
+Film: page://iB3CxAQQVrHMFGwR
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: xnFU8Ounwn7I9LVT

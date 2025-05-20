@@ -1,0 +1,33 @@
+Title: JEANNE LAWSON
+
+----
+
+Customer-id: 200
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JEANNE
+
+----
+
+Last-name: LAWSON
+
+----
+
+Email: JEANNE.LAWSON@sakilacustomer.org
+
+----
+
+Address: page://iXF9qQyestLOELQQ
+
+----
+
+Active: 1
+
+----
+
+Uuid: 9M7WmMyIHxnO6lL5

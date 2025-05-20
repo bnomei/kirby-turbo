@@ -1,0 +1,17 @@
+Title: Inv 1426
+
+----
+
+Inventory-id: 1426
+
+----
+
+Film: page://rYDBsWnnECRxOpyf
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: yOeOEtdLYuGS8JF7

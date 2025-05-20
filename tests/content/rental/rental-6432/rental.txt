@@ -1,0 +1,25 @@
+Title: Rental 6432
+
+----
+
+Rental-id: 6432
+
+----
+
+Rental-date: 2005-07-12 00:09:41
+
+----
+
+Return-date: 2005-07-20 20:06:41
+
+----
+
+Inventory: page://7xP7DeN6KAVuIiNF
+
+----
+
+Uuid: tbDuaKi4iVMQ7wAw
+
+----
+
+Customer: page://Hpp58DeoLb615BZP

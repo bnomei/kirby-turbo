@@ -1,0 +1,25 @@
+Title: Rental 1982
+
+----
+
+Rental-id: 1982
+
+----
+
+Rental-date: 2005-06-17 10:12:15
+
+----
+
+Return-date: 2005-06-20 13:56:15
+
+----
+
+Inventory: page://3YlR1k4FJSxtDwKd
+
+----
+
+Uuid: YQXXBXNehMYhpv4L
+
+----
+
+Customer: page://kiN3u3DN0FkdJzU9

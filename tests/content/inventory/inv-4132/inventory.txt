@@ -1,0 +1,17 @@
+Title: Inv 4132
+
+----
+
+Inventory-id: 4132
+
+----
+
+Film: page://vAOVQlW5bz9Di45k
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: cmsCeC0hkt4k3bNC

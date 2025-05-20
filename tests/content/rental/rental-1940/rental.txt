@@ -1,0 +1,25 @@
+Title: Rental 1940
+
+----
+
+Rental-id: 1940
+
+----
+
+Rental-date: 2005-06-17 07:42:22
+
+----
+
+Return-date: 2005-06-22 11:59:22
+
+----
+
+Inventory: page://N2tjYkW4Sddn3HhR
+
+----
+
+Uuid: 7Zij45JZ2RbGaIcG
+
+----
+
+Customer: page://JG06E1zPSAEHpqss

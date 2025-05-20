@@ -1,0 +1,25 @@
+Title: Rental 13260
+
+----
+
+Rental-id: 13260
+
+----
+
+Rental-date: 2005-08-19 17:09:22
+
+----
+
+Return-date: 2005-08-24 21:31:22
+
+----
+
+Inventory: page://qc4viE6gU2CzdFuW
+
+----
+
+Customer: page://cRRGmCnzUGugZdVF
+
+----
+
+Uuid: kGcbTrEyjRfxqP6Q

@@ -1,0 +1,25 @@
+Title: Rental 146
+
+----
+
+Rental-id: 146
+
+----
+
+Rental-date: 2005-05-26 00:07:11
+
+----
+
+Return-date: 2005-06-04 00:20:11
+
+----
+
+Inventory: page://JPojaT1O5XjVajWO
+
+----
+
+Uuid: zujO2J6SMsjtvkvC
+
+----
+
+Customer: page://Dq5hnVeftFV5vuu5

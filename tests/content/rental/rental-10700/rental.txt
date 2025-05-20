@@ -1,0 +1,25 @@
+Title: Rental 10700
+
+----
+
+Rental-id: 10700
+
+----
+
+Rental-date: 2005-08-01 18:26:31
+
+----
+
+Return-date: 2005-08-07 19:51:31
+
+----
+
+Inventory: page://7s9Hc0PXs5RlDFRO
+
+----
+
+Customer: page://9zYzK9WI4NUQdKUP
+
+----
+
+Uuid: zytwiLOlQC7NkjVt

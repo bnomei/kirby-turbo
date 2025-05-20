@@ -1,0 +1,17 @@
+Title: Inv 1333
+
+----
+
+Inventory-id: 1333
+
+----
+
+Film: page://6qurWfxjV99rweKC
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: O5sq6I4cmkTy33GO

@@ -1,0 +1,17 @@
+Title: Inv 2878
+
+----
+
+Inventory-id: 2878
+
+----
+
+Film: page://9DjJSZLqLT7PhOcJ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: n1ROmBam6Zb6CpLA

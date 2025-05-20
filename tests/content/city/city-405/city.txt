@@ -1,0 +1,17 @@
+Title: Pereira
+
+----
+
+City-id: 405
+
+----
+
+City: Pereira
+
+----
+
+Country: page://pSRJJ2hhUPuDqXth
+
+----
+
+Uuid: Brrv3WcQ9qEoUezN

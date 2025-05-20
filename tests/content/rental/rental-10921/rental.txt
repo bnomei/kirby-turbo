@@ -1,0 +1,25 @@
+Title: Rental 10921
+
+----
+
+Rental-id: 10921
+
+----
+
+Rental-date: 2005-08-02 02:14:33
+
+----
+
+Return-date: 2005-08-09 20:58:33
+
+----
+
+Inventory: page://2GkamSFZn6aaDfLi
+
+----
+
+Customer: page://lsHQKiMkRVDTWpEH
+
+----
+
+Uuid: ZMenhoSFg4ueawki

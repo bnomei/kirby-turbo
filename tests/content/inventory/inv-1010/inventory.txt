@@ -1,0 +1,17 @@
+Title: Inv 1010
+
+----
+
+Inventory-id: 1010
+
+----
+
+Film: page://mISz5LfGO1wZEfg8
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: loH0aG7V0qBkr25F

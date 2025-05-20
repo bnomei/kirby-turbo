@@ -1,0 +1,25 @@
+Title: Rental 659
+
+----
+
+Rental-id: 659
+
+----
+
+Rental-date: 2005-05-28 20:27:53
+
+----
+
+Return-date: 2005-05-31 01:36:53
+
+----
+
+Inventory: page://hjfT3ZeA3qFeRQZR
+
+----
+
+Uuid: nw5lEofuRgriT473
+
+----
+
+Customer: page://wMkYUds0NaSHubNn

@@ -1,0 +1,25 @@
+Title: Rental 8007
+
+----
+
+Rental-id: 8007
+
+----
+
+Rental-date: 2005-07-28 15:22:27
+
+----
+
+Return-date: 2005-07-30 13:06:27
+
+----
+
+Inventory: page://IWzFEj7vK8j7mgHS
+
+----
+
+Customer: page://AFChx19aWGlTZnX0
+
+----
+
+Uuid: TriNosGnJQgSe6rE

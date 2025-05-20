@@ -1,0 +1,25 @@
+Title: Rental 13602
+
+----
+
+Rental-id: 13602
+
+----
+
+Rental-date: 2005-08-20 06:02:02
+
+----
+
+Return-date: 2005-08-27 04:51:02
+
+----
+
+Inventory: page://J09CfGuDjOQ2UcTR
+
+----
+
+Customer: page://K253MbSwnklxbl62
+
+----
+
+Uuid: TQQrBigtL0T4i4H6

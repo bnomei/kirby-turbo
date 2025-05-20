@@ -1,0 +1,25 @@
+Title: Rental 3621
+
+----
+
+Rental-id: 3621
+
+----
+
+Rental-date: 2005-07-06 06:03:55
+
+----
+
+Return-date: 2005-07-11 09:25:55
+
+----
+
+Inventory: page://zIw94bY09CIlU38b
+
+----
+
+Uuid: L8aORpeNBFYrDVLl
+
+----
+
+Customer: page://a8PAxcavjVVdCjjp

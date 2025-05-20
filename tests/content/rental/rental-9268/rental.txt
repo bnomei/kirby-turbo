@@ -1,0 +1,25 @@
+Title: Rental 9268
+
+----
+
+Rental-id: 9268
+
+----
+
+Rental-date: 2005-07-30 15:02:30
+
+----
+
+Return-date: 2005-08-05 12:50:30
+
+----
+
+Inventory: page://oyXWrauudXxkZ8ji
+
+----
+
+Customer: page://YaIz0DYOIEnfvgdw
+
+----
+
+Uuid: 7Wa3ZBIptiBT0L0O

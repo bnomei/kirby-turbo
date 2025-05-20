@@ -1,0 +1,42 @@
+Title: ATTRACTION NEWTON
+
+----
+
+Actors:
+
+- 'page://xbVuFnPKikNsqVkK'
+- 'page://8DAvKBc0CuAdRfXU'
+- 'page://HMQFYCzd6sL7s9te'
+- 'page://OqV4tbW7WtFrMtYI'
+
+----
+
+Film-id: 45
+
+----
+
+Description: A Astounding Panorama of a Composer And a Frisbee who must Reach a Husband in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 83
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: gF8Ib5R1eOp5F3sY
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

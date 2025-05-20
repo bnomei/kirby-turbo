@@ -1,0 +1,17 @@
+Title: Inv 2352
+
+----
+
+Inventory-id: 2352
+
+----
+
+Film: page://p2Ruaq8LmbhZrrQU
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: uKM98VDCNtOsNTAk

@@ -1,0 +1,25 @@
+Title: Rental 1207
+
+----
+
+Rental-id: 1207
+
+----
+
+Rental-date: 2005-06-15 02:27:08
+
+----
+
+Return-date: 2005-06-19 08:18:08
+
+----
+
+Inventory: page://YCkSl2nxMestasad
+
+----
+
+Uuid: nsCJC2zGQGVupb3b
+
+----
+
+Customer: page://0fWIE3b7YqBRG1Jt

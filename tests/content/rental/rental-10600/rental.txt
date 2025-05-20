@@ -1,0 +1,25 @@
+Title: Rental 10600
+
+----
+
+Rental-id: 10600
+
+----
+
+Rental-date: 2005-08-01 14:25:21
+
+----
+
+Return-date: 2005-08-06 18:00:21
+
+----
+
+Inventory: page://zpLl3fyDgklKKIM7
+
+----
+
+Customer: page://lFmyRUfgnuMLYrme
+
+----
+
+Uuid: kVmvoLScKItr8FAm

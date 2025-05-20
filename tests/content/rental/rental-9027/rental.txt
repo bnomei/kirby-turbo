@@ -1,0 +1,25 @@
+Title: Rental 9027
+
+----
+
+Rental-id: 9027
+
+----
+
+Rental-date: 2005-07-30 05:58:27
+
+----
+
+Return-date: 2005-08-03 03:02:27
+
+----
+
+Inventory: page://qaZpq1MCjD62cIsi
+
+----
+
+Customer: page://mAEI18ycC75jSjfq
+
+----
+
+Uuid: 6AwHmdd9olLWVxWE

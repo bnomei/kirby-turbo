@@ -1,0 +1,25 @@
+Title: Rental 2372
+
+----
+
+Rental-id: 2372
+
+----
+
+Rental-date: 2005-06-18 14:37:37
+
+----
+
+Return-date: 2005-06-21 08:40:37
+
+----
+
+Inventory: page://qLAGe33P6yhhLdIz
+
+----
+
+Uuid: Y5OL9xbBldDs3KRl
+
+----
+
+Customer: page://KrHokPx3Wvb3FqWi

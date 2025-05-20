@@ -1,0 +1,17 @@
+Title: Inv 364
+
+----
+
+Inventory-id: 364
+
+----
+
+Film: page://nfSwrYNlUFrCCo1g
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: RERyfM0kyBJiHxPs

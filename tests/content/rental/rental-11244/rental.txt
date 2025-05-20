@@ -1,0 +1,25 @@
+Title: Rental 11244
+
+----
+
+Rental-id: 11244
+
+----
+
+Rental-date: 2005-08-02 13:33:24
+
+----
+
+Return-date: 2005-08-10 10:18:24
+
+----
+
+Inventory: page://8bIwH0WdwV16pFQ7
+
+----
+
+Customer: page://S7Bt2TM6J9ACe4bP
+
+----
+
+Uuid: jae6FKvMXk7bo8DG

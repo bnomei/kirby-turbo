@@ -1,0 +1,33 @@
+Title: JENNIFER DAVIS
+
+----
+
+Customer-id: 6
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JENNIFER
+
+----
+
+Last-name: DAVIS
+
+----
+
+Email: JENNIFER.DAVIS@sakilacustomer.org
+
+----
+
+Address: page://oSpAT2UIFnYwDVQf
+
+----
+
+Active: 1
+
+----
+
+Uuid: X3AjzgBdF3VXBSFO

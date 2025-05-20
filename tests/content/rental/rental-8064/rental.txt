@@ -1,0 +1,25 @@
+Title: Rental 8064
+
+----
+
+Rental-id: 8064
+
+----
+
+Rental-date: 2005-07-28 17:15:38
+
+----
+
+Return-date: 2005-08-04 18:04:38
+
+----
+
+Inventory: page://YDbEAB1PMDNLcsS4
+
+----
+
+Customer: page://kypjEXl31vTFSb5v
+
+----
+
+Uuid: 5uL1WxDVHCqElrNo

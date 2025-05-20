@@ -1,0 +1,25 @@
+Title: Rental 9438
+
+----
+
+Rental-id: 9438
+
+----
+
+Rental-date: 2005-07-30 21:36:15
+
+----
+
+Return-date: 2005-08-07 16:54:15
+
+----
+
+Inventory: page://sgqyn31kICXUiWOt
+
+----
+
+Customer: page://aFkGopCOghEK7p34
+
+----
+
+Uuid: drjIDJIc7RHWPEhW

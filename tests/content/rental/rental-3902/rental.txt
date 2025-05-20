@@ -1,0 +1,25 @@
+Title: Rental 3902
+
+----
+
+Rental-id: 3902
+
+----
+
+Rental-date: 2005-07-06 19:25:18
+
+----
+
+Return-date: 2005-07-10 17:42:18
+
+----
+
+Inventory: page://bQC0tRTewIsaBMYe
+
+----
+
+Uuid: HDOEz6LLmMpbhfdC
+
+----
+
+Customer: page://S6wnyWLyFa5056NX

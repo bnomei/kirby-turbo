@@ -1,0 +1,17 @@
+Title: Inv 3238
+
+----
+
+Inventory-id: 3238
+
+----
+
+Film: page://ZL9HkYxNYQdRpf1u
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: she3XuiYbZX2JTQc

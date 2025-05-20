@@ -1,0 +1,17 @@
+Title: Inv 760
+
+----
+
+Inventory-id: 760
+
+----
+
+Film: page://eHq1c3vcaeybCh3j
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: v3Metg3Hod8Rp8ZB

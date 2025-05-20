@@ -1,0 +1,25 @@
+Title: Rental 8316
+
+----
+
+Rental-id: 8316
+
+----
+
+Rental-date: 2005-07-29 03:38:49
+
+----
+
+Return-date: 2005-08-03 07:41:49
+
+----
+
+Inventory: page://1hbbZWDMPiZu6ybf
+
+----
+
+Customer: page://HkTANTgi9H03vQyM
+
+----
+
+Uuid: vz5ZksnyxF0QoTtY

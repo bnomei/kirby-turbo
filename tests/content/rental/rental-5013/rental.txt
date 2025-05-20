@@ -1,0 +1,25 @@
+Title: Rental 5013
+
+----
+
+Rental-id: 5013
+
+----
+
+Rental-date: 2005-07-09 01:46:45
+
+----
+
+Return-date: 2005-07-16 06:57:45
+
+----
+
+Inventory: page://aV8XZiUeK6GGOZZl
+
+----
+
+Uuid: FNe1qNy06JD4ZKGM
+
+----
+
+Customer: page://G5MahFW7vTJhSf6a

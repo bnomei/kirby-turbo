@@ -1,0 +1,42 @@
+Title: CONFESSIONS MAGUIRE
+
+----
+
+Actors:
+
+- 'page://V2PTX56N00hKjCOa'
+- 'page://64SCw7TVQ1KFgpJt'
+- 'page://ltHX2Lf4QT72ZiqX'
+- 'page://EIh5zoCTJV7UmSi4'
+
+----
+
+Film-id: 173
+
+----
+
+Description: A Insightful Story of a Car And a Boy who must Battle a Technical Writer in A Baloon
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 65
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: 0JrPDqhvTbVdpCV2
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

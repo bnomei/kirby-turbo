@@ -1,0 +1,17 @@
+Title: Inv 4507
+
+----
+
+Inventory-id: 4507
+
+----
+
+Film: page://jhRMmvkq0HqU0z8X
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: hLdOeaFWbcGXotkL

@@ -1,0 +1,25 @@
+Title: Rental 14870
+
+----
+
+Rental-id: 14870
+
+----
+
+Rental-date: 2005-08-22 03:23:20
+
+----
+
+Return-date: 2005-08-23 06:50:20
+
+----
+
+Inventory: page://8255oTTVcuRwK68p
+
+----
+
+Customer: page://8819Gek69PVTaJvT
+
+----
+
+Uuid: 3vLVg8LjqsowUqP2

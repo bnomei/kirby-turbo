@@ -1,0 +1,17 @@
+Title: Inv 1567
+
+----
+
+Inventory-id: 1567
+
+----
+
+Film: page://B0vxWhm921pRGixJ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: qLAGe33P6yhhLdIz

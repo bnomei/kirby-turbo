@@ -1,0 +1,42 @@
+Title: STAR OPERATION
+
+----
+
+Actors:
+
+- 'page://S52CrIK06oYgWrwP'
+- 'page://LYJoMM1yt0Pr5l4j'
+- 'page://qCm78VMzP14zbmIL'
+- 'page://18rsmrxh7jfYQ50K'
+
+----
+
+Film-id: 841
+
+----
+
+Description: A Insightful Character Study of a Girl And a Car who must Pursue a Mad Cow in A Shark Tank
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 181
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Commentaries
+
+----
+
+Uuid: RD5nIGLm058hSZAk
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

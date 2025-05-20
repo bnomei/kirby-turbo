@@ -1,0 +1,25 @@
+Title: Rental 6220
+
+----
+
+Rental-id: 6220
+
+----
+
+Rental-date: 2005-07-11 13:22:06
+
+----
+
+Return-date: 2005-07-12 17:46:06
+
+----
+
+Inventory: page://rqe0Jdm29AeQNjGG
+
+----
+
+Uuid: EFcHMYScmK2u88lY
+
+----
+
+Customer: page://B3L4KGTOB2xEaMbu

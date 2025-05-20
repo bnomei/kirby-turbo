@@ -1,0 +1,17 @@
+Title: Inv 4532
+
+----
+
+Inventory-id: 4532
+
+----
+
+Film: page://HpOFOK6mVqzkE5h1
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: EAeZJioThiW4gvVl

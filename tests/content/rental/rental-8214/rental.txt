@@ -1,0 +1,25 @@
+Title: Rental 8214
+
+----
+
+Rental-id: 8214
+
+----
+
+Rental-date: 2005-07-28 23:37:57
+
+----
+
+Return-date: 2005-08-07 00:29:57
+
+----
+
+Inventory: page://c4GMkTjlOq7eYYk1
+
+----
+
+Customer: page://44KWZQ5iv6BSDhBb
+
+----
+
+Uuid: XXH4m1Lxty43NJyH

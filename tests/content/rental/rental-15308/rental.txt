@@ -1,0 +1,25 @@
+Title: Rental 15308
+
+----
+
+Rental-id: 15308
+
+----
+
+Rental-date: 2005-08-22 19:54:31
+
+----
+
+Return-date: 2005-08-26 23:09:31
+
+----
+
+Inventory: page://xiwhz4gbPhcrZCCv
+
+----
+
+Customer: page://uPhvBTY0GbGPCouW
+
+----
+
+Uuid: JkXX9GSAngaXMeFH

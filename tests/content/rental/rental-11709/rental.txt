@@ -1,0 +1,21 @@
+Title: Rental 11709
+
+----
+
+Rental-id: 11709
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://RFq7OleGvalMGK5G
+
+----
+
+Customer: page://INrXMEKuIOKn9hxK
+
+----
+
+Uuid: dXGiUI0S8EY0bJOE

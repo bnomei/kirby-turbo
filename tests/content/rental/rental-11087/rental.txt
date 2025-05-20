@@ -1,0 +1,25 @@
+Title: Rental 11087
+
+----
+
+Rental-id: 11087
+
+----
+
+Rental-date: 2005-08-02 07:41:41
+
+----
+
+Return-date: 2005-08-10 10:37:41
+
+----
+
+Inventory: page://pCmfEruFpUxwzTuJ
+
+----
+
+Customer: page://FiEjPjAVk9G7zTXB
+
+----
+
+Uuid: gbYEpAR3N2QUwRLS

@@ -1,0 +1,25 @@
+Title: Rental 3088
+
+----
+
+Rental-id: 3088
+
+----
+
+Rental-date: 2005-06-20 15:56:05
+
+----
+
+Return-date: 2005-06-29 13:02:05
+
+----
+
+Inventory: page://5uGFqMHK0S3uBL0w
+
+----
+
+Uuid: WejlvteysFv97J3d
+
+----
+
+Customer: page://0DViNB8AjR6M3Kvz

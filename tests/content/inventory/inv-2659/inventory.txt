@@ -1,0 +1,17 @@
+Title: Inv 2659
+
+----
+
+Inventory-id: 2659
+
+----
+
+Film: page://TOKyEYVeTRjIWeQl
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: lYrN3af6mqJ4KhpF

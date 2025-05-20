@@ -1,0 +1,25 @@
+Title: Rental 8333
+
+----
+
+Rental-id: 8333
+
+----
+
+Rental-date: 2005-07-29 04:16:40
+
+----
+
+Return-date: 2005-08-02 10:10:40
+
+----
+
+Inventory: page://8jsiPVTU7dy3y9J3
+
+----
+
+Customer: page://wPjJI94k63sf9tIo
+
+----
+
+Uuid: umWqJRZmkjml3L2n

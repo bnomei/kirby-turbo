@@ -1,0 +1,17 @@
+Title: Inv 2477
+
+----
+
+Inventory-id: 2477
+
+----
+
+Film: page://Aim29pukRwUcIrKl
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Vdz6ASM8nDyaRWP7

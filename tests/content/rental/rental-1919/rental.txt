@@ -1,0 +1,25 @@
+Title: Rental 1919
+
+----
+
+Rental-id: 1919
+
+----
+
+Rental-date: 2005-06-17 05:40:52
+
+----
+
+Return-date: 2005-06-23 05:58:52
+
+----
+
+Inventory: page://yHXZygBHCUC5ohz4
+
+----
+
+Uuid: lwL3jDB7gX19A89H
+
+----
+
+Customer: page://CcA8b6iqpwFbs801

@@ -1,0 +1,17 @@
+Title: Inv 2174
+
+----
+
+Inventory-id: 2174
+
+----
+
+Film: page://UEtOT7jTUfwt0EAK
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: iYkDikuLHtDFebTt

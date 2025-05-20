@@ -1,0 +1,17 @@
+Title: Inv 3720
+
+----
+
+Inventory-id: 3720
+
+----
+
+Film: page://ercNXUBP8HnWiyFR
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: B28nU8ALgZreZOjT

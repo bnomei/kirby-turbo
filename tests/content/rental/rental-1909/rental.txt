@@ -1,0 +1,25 @@
+Title: Rental 1909
+
+----
+
+Rental-id: 1909
+
+----
+
+Rental-date: 2005-06-17 05:11:04
+
+----
+
+Return-date: 2005-06-19 04:33:04
+
+----
+
+Inventory: page://YsM9RE1LtaDIzOYP
+
+----
+
+Uuid: G5jvvjGOiMM8nGTF
+
+----
+
+Customer: page://Cko87GK3ShDjUK4Q

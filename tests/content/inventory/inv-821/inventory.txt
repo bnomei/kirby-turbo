@@ -1,0 +1,17 @@
+Title: Inv 821
+
+----
+
+Inventory-id: 821
+
+----
+
+Film: page://oDl4KWwIRECh8CaC
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 8O3ZV5T9CcXHTYFq

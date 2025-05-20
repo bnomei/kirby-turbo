@@ -1,0 +1,25 @@
+Title: Rental 2054
+
+----
+
+Rental-id: 2054
+
+----
+
+Rental-date: 2005-06-17 15:26:37
+
+----
+
+Return-date: 2005-06-26 14:22:37
+
+----
+
+Inventory: page://nW8d3y9MgoFZhAAq
+
+----
+
+Uuid: GBj03btJXYuutfE8
+
+----
+
+Customer: page://MMjN8znOj5ltCet6

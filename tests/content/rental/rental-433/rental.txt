@@ -1,0 +1,25 @@
+Title: Rental 433
+
+----
+
+Rental-id: 433
+
+----
+
+Rental-date: 2005-05-27 16:40:40
+
+----
+
+Return-date: 2005-05-30 19:55:40
+
+----
+
+Inventory: page://5pf8DwvCiQ8MqEjv
+
+----
+
+Uuid: Z4u7m5WM2lZUIQmt
+
+----
+
+Customer: page://ezKQFYnXPCOgLSXF

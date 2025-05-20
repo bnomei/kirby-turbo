@@ -1,0 +1,17 @@
+Title: Inv 3956
+
+----
+
+Inventory-id: 3956
+
+----
+
+Film: page://vJLvuMt5tFbWxGyr
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: WFxCa7s2z2Sp6Mdw

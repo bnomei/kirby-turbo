@@ -1,0 +1,25 @@
+Title: Rental 9075
+
+----
+
+Rental-id: 9075
+
+----
+
+Rental-date: 2005-07-30 07:55:14
+
+----
+
+Return-date: 2005-08-02 13:49:14
+
+----
+
+Inventory: page://x6xuGebP2dZPFz2A
+
+----
+
+Customer: page://M8eRI142xjYReqze
+
+----
+
+Uuid: hGBXEGeX6OskkozE

@@ -1,0 +1,17 @@
+Title: Inv 1721
+
+----
+
+Inventory-id: 1721
+
+----
+
+Film: page://TpaewB7td0xFE1TU
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 62hlkSwADXRLKstK

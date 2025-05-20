@@ -1,0 +1,25 @@
+Title: Rental 13854
+
+----
+
+Rental-id: 13854
+
+----
+
+Rental-date: 2005-08-20 14:48:42
+
+----
+
+Return-date: 2005-08-21 14:55:42
+
+----
+
+Inventory: page://vK7F1r4C6ucQiRnX
+
+----
+
+Customer: page://EFq1BVursSqEGTmG
+
+----
+
+Uuid: tJnFIehMZuu06U4p

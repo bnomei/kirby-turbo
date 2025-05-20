@@ -1,0 +1,25 @@
+Title: Rental 610
+
+----
+
+Rental-id: 610
+
+----
+
+Rental-date: 2005-05-28 15:15:25
+
+----
+
+Return-date: 2005-06-02 12:30:25
+
+----
+
+Inventory: page://mrKd64UgYS6TbE6X
+
+----
+
+Uuid: ep2aJNDB22OXOXcV
+
+----
+
+Customer: page://dCSTJjEmIHM7hQ5W

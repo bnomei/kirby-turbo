@@ -1,0 +1,25 @@
+Title: Rental 4400
+
+----
+
+Rental-id: 4400
+
+----
+
+Rental-date: 2005-07-07 21:22:26
+
+----
+
+Return-date: 2005-07-16 00:59:26
+
+----
+
+Inventory: page://DeumeOdmYJM79oL8
+
+----
+
+Uuid: 2k87zZgeKJk8qZfn
+
+----
+
+Customer: page://e47avKEtCcZjXaKK

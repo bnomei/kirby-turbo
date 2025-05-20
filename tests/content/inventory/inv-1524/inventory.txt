@@ -1,0 +1,17 @@
+Title: Inv 1524
+
+----
+
+Inventory-id: 1524
+
+----
+
+Film: page://hYhmJ2sn0NMkdf5O
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: vuULd8wIS4PpiCcH

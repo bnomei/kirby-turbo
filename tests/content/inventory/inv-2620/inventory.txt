@@ -1,0 +1,17 @@
+Title: Inv 2620
+
+----
+
+Inventory-id: 2620
+
+----
+
+Film: page://TFXc8fRfSEakHd9C
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Wt8Nl23myAvCmukk

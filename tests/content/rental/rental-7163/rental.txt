@@ -1,0 +1,25 @@
+Title: Rental 7163
+
+----
+
+Rental-id: 7163
+
+----
+
+Rental-date: 2005-07-27 07:36:11
+
+----
+
+Return-date: 2005-08-04 06:03:11
+
+----
+
+Inventory: page://ZEXH9aOQzJS31iRa
+
+----
+
+Customer: page://EiH1RuNqWwCS6DfM
+
+----
+
+Uuid: mKO4zocUZfKfbzh3

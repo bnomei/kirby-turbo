@@ -1,0 +1,17 @@
+Title: Inv 1876
+
+----
+
+Inventory-id: 1876
+
+----
+
+Film: page://WcPezxIt8eTUWQ2G
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: sYGJboYoJCp0ykIL

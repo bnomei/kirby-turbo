@@ -1,0 +1,17 @@
+Title: Inv 101
+
+----
+
+Inventory-id: 101
+
+----
+
+Film: page://FmUiMEk1UHFcrfdQ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: F5OyNI4CdUrRTutQ

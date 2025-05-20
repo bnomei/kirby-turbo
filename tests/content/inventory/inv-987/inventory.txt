@@ -1,0 +1,17 @@
+Title: Inv 987
+
+----
+
+Inventory-id: 987
+
+----
+
+Film: page://lGY6DH6AdCcCNl9m
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: xiwhz4gbPhcrZCCv

@@ -1,0 +1,17 @@
+Title: Inv 3548
+
+----
+
+Inventory-id: 3548
+
+----
+
+Film: page://L5POcj41RSMhlI6c
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: EqtfyaGUQYMddraw

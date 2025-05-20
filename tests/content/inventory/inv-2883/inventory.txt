@@ -1,0 +1,17 @@
+Title: Inv 2883
+
+----
+
+Inventory-id: 2883
+
+----
+
+Film: page://U77SrZ78qdZ7CkIx
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: BBReiOotRjcFCoxh

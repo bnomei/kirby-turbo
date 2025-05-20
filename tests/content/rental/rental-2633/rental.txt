@@ -1,0 +1,25 @@
+Title: Rental 2633
+
+----
+
+Rental-id: 2633
+
+----
+
+Rental-date: 2005-06-19 08:53:10
+
+----
+
+Return-date: 2005-06-20 07:56:10
+
+----
+
+Inventory: page://zE0jQ8Q5MWvESpDG
+
+----
+
+Uuid: oiID1I43spKQFiKR
+
+----
+
+Customer: page://CUdWGJW9AwcLTKhu

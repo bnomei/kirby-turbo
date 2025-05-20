@@ -1,0 +1,17 @@
+Title: Inv 3898
+
+----
+
+Inventory-id: 3898
+
+----
+
+Film: page://iMQDG97L9v5zbtrT
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: YK4nihyORkLYbaSi

@@ -1,0 +1,17 @@
+Title: Inv 3981
+
+----
+
+Inventory-id: 3981
+
+----
+
+Film: page://jW80a4n13RGdsS4C
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: HfzLTG2WqFJTKK5j

@@ -1,0 +1,17 @@
+Title: Inv 845
+
+----
+
+Inventory-id: 845
+
+----
+
+Film: page://BfNipXpssxa81vOh
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: LkhqkLCjofjfBGML

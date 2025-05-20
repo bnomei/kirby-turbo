@@ -1,0 +1,25 @@
+Title: Rental 919
+
+----
+
+Rental-id: 919
+
+----
+
+Rental-date: 2005-05-30 11:35:06
+
+----
+
+Return-date: 2005-06-02 13:16:06
+
+----
+
+Inventory: page://3UNDVjxj1Q7CUws9
+
+----
+
+Uuid: 5jbgBsUIhPEFVZ3P
+
+----
+
+Customer: page://T8FvGnbHYCWqhKEc

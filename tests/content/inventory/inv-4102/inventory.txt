@@ -1,0 +1,17 @@
+Title: Inv 4102
+
+----
+
+Inventory-id: 4102
+
+----
+
+Film: page://TA76R8F61TYUcZhH
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: anIcmPzrk9k9dmZH

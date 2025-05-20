@@ -1,0 +1,40 @@
+Title: MIDSUMMER GROUNDHOG
+
+----
+
+Actors:
+
+- 'page://3XS33oPl7qwaYDh3'
+- 'page://IUEdThBjLk8TNUwy'
+
+----
+
+Film-id: 575
+
+----
+
+Description: A Fateful Panorama of a Moose And a Dog who must Chase a Crocodile in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 48
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: 9ZSq3jsPFNUmTNqD
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

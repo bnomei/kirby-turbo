@@ -1,0 +1,25 @@
+Title: Rental 12555
+
+----
+
+Rental-id: 12555
+
+----
+
+Rental-date: 2005-08-18 14:49:22
+
+----
+
+Return-date: 2005-08-26 14:11:22
+
+----
+
+Inventory: page://HT5yoi4VJuhfkvFB
+
+----
+
+Customer: page://vvb7rjkZaY4UCatA
+
+----
+
+Uuid: iMegpjbtBMbfRfB2

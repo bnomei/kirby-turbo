@@ -1,0 +1,44 @@
+Title: HOURS RAGE
+
+----
+
+Actors:
+
+- 'page://AvkKtwk9lLurZvzW'
+- 'page://ovAz2jwmaTIz5ph9'
+- 'page://GA1ldK0BGihIEfd4'
+- 'page://Gz114ojbruPqLOSY'
+- 'page://YBKuIiLT3VizSQRI'
+- 'page://iZwJlBg8wszU4t4i'
+
+----
+
+Film-id: 436
+
+----
+
+Description: A Fateful Story of a Explorer And a Feminist who must Meet a Technical Writer in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 122
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: E7QUwUT5dMIom8aL
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

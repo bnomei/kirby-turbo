@@ -1,0 +1,25 @@
+Title: Rental 10374
+
+----
+
+Rental-id: 10374
+
+----
+
+Rental-date: 2005-08-01 06:25:27
+
+----
+
+Return-date: 2005-08-07 05:44:27
+
+----
+
+Inventory: page://McQWDf8QBbPxASSc
+
+----
+
+Customer: page://9bpDggcJABKwr9xt
+
+----
+
+Uuid: Bd7UOHeQu2vrL2LW

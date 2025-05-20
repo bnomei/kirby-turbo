@@ -1,0 +1,17 @@
+Title: Inv 3411
+
+----
+
+Inventory-id: 3411
+
+----
+
+Film: page://p8YMJPZB1wk9DpT5
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 2aliJpb8ljFICbml

@@ -1,0 +1,25 @@
+Title: Rental 3568
+
+----
+
+Rental-id: 3568
+
+----
+
+Rental-date: 2005-07-06 03:11:57
+
+----
+
+Return-date: 2005-07-15 03:14:57
+
+----
+
+Inventory: page://IRzTJhIhqRrVUsio
+
+----
+
+Uuid: oNeAzgCArlgi1ObM
+
+----
+
+Customer: page://4Gfo2urzQMaaaZ4t

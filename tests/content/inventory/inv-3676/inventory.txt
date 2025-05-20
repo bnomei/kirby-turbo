@@ -1,0 +1,17 @@
+Title: Inv 3676
+
+----
+
+Inventory-id: 3676
+
+----
+
+Film: page://0rk75i0qsEWOb1ie
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 6fas0Gg5MeY711ql

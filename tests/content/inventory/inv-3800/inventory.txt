@@ -1,0 +1,17 @@
+Title: Inv 3800
+
+----
+
+Inventory-id: 3800
+
+----
+
+Film: page://Oi2TteOunkqza3zt
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: j7g32WiyFATvXpUP

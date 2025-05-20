@@ -1,0 +1,25 @@
+Title: Rental 10611
+
+----
+
+Rental-id: 10611
+
+----
+
+Rental-date: 2005-08-01 14:53:52
+
+----
+
+Return-date: 2005-08-07 09:15:52
+
+----
+
+Inventory: page://au5nf4DQrRNGECD0
+
+----
+
+Customer: page://85ovZXEWpqXAx1KN
+
+----
+
+Uuid: tvtTHAWKQL8y0EA1

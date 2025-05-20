@@ -1,0 +1,17 @@
+Title: Inv 1015
+
+----
+
+Inventory-id: 1015
+
+----
+
+Film: page://fMLEgaiXF2S6ow1C
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: O6QVb9X4mMu8BRfd

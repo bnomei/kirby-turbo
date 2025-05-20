@@ -1,0 +1,42 @@
+Title: GUNFIGHTER MUSSOLINI
+
+----
+
+Actors:
+
+- 'page://MKZPC2AFXFjwPRw8'
+- 'page://xBL8rppzTt5cijUB'
+- 'page://u0N0ozPCYMgg4oo9'
+- 'page://Vt3bRByOUSEypvV6'
+
+----
+
+Film-id: 389
+
+----
+
+Description: A Touching Saga of a Robot And a Boy who must Kill a Man in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 127
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: pTWG1pjdeBPdIW9h
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

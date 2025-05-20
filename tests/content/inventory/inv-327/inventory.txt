@@ -1,0 +1,17 @@
+Title: Inv 327
+
+----
+
+Inventory-id: 327
+
+----
+
+Film: page://kNARjUjZk6WzGgpN
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 8bvdnfs2Ulw9o7MT

@@ -1,0 +1,25 @@
+Title: Rental 2017
+
+----
+
+Rental-id: 2017
+
+----
+
+Rental-date: 2005-06-17 12:33:30
+
+----
+
+Return-date: 2005-06-19 10:08:30
+
+----
+
+Inventory: page://TyhfTN90k84zUXnQ
+
+----
+
+Uuid: uMZmgJUhmP5NYiOx
+
+----
+
+Customer: page://5hIhacgiGD4GRrE2

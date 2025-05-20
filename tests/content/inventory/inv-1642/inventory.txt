@@ -1,0 +1,17 @@
+Title: Inv 1642
+
+----
+
+Inventory-id: 1642
+
+----
+
+Film: page://w9l9UyxtC5FkGl4s
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: UnxidhJY3Ul3fh6p

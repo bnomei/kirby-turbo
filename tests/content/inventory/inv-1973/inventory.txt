@@ -1,0 +1,17 @@
+Title: Inv 1973
+
+----
+
+Inventory-id: 1973
+
+----
+
+Film: page://Ub4ojo390AAS6GUT
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: KDaBJNwxU0L9vhnl

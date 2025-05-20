@@ -1,0 +1,25 @@
+Title: Rental 16004
+
+----
+
+Rental-id: 16004
+
+----
+
+Rental-date: 2005-08-23 20:53:20
+
+----
+
+Return-date: 2005-08-31 15:15:20
+
+----
+
+Inventory: page://y9isXvB40iIzDXJJ
+
+----
+
+Customer: page://cT1ATboviBoOP1VF
+
+----
+
+Uuid: ZEZTyVZsYzyjwh7s

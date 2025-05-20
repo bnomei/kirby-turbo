@@ -1,0 +1,25 @@
+Title: Rental 3590
+
+----
+
+Rental-id: 3590
+
+----
+
+Rental-date: 2005-07-06 04:35:12
+
+----
+
+Return-date: 2005-07-10 05:14:12
+
+----
+
+Inventory: page://F0KENVl6wop4mUQL
+
+----
+
+Uuid: PKdtvx0MHDtKseeS
+
+----
+
+Customer: page://4Gfo2urzQMaaaZ4t

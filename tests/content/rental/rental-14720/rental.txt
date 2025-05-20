@@ -1,0 +1,25 @@
+Title: Rental 14720
+
+----
+
+Rental-id: 14720
+
+----
+
+Rental-date: 2005-08-21 21:43:53
+
+----
+
+Return-date: 2005-08-25 18:21:53
+
+----
+
+Inventory: page://KxlKcL8HxLWtzpNC
+
+----
+
+Customer: page://VN0nTajbysCGd16r
+
+----
+
+Uuid: 8Rj0PEvkhhfrfs9p

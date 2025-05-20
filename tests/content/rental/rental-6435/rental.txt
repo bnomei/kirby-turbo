@@ -1,0 +1,25 @@
+Title: Rental 6435
+
+----
+
+Rental-id: 6435
+
+----
+
+Rental-date: 2005-07-12 00:16:19
+
+----
+
+Return-date: 2005-07-17 19:15:19
+
+----
+
+Inventory: page://minAvVBm2mYcFzWR
+
+----
+
+Uuid: IElZsz0I4XUGwnj4
+
+----
+
+Customer: page://xiuePi4NIEUJXUwz

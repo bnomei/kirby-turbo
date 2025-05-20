@@ -1,0 +1,17 @@
+Title: Inv 1703
+
+----
+
+Inventory-id: 1703
+
+----
+
+Film: page://kFqayhEGFkFDzx5M
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: cqqjU898pUcpdlKN

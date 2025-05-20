@@ -1,0 +1,33 @@
+Title: JIMMIE EGGLESTON
+
+----
+
+Customer-id: 558
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JIMMIE
+
+----
+
+Last-name: EGGLESTON
+
+----
+
+Email: JIMMIE.EGGLESTON@sakilacustomer.org
+
+----
+
+Address: page://qahN8JEXDJsqHCG4
+
+----
+
+Active: 0
+
+----
+
+Uuid: t04yCyxM4vXd29Pl

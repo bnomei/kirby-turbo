@@ -1,0 +1,25 @@
+Title: Rental 10179
+
+----
+
+Rental-id: 10179
+
+----
+
+Rental-date: 2005-07-31 23:49:54
+
+----
+
+Return-date: 2005-08-01 20:46:54
+
+----
+
+Inventory: page://GunIBDHHFzfMcONB
+
+----
+
+Customer: page://N95O2afia8ED5CLD
+
+----
+
+Uuid: VcEXRrl3DKv5mqiy

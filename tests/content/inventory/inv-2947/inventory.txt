@@ -1,0 +1,17 @@
+Title: Inv 2947
+
+----
+
+Inventory-id: 2947
+
+----
+
+Film: page://2dXtH8Q2OCod0eku
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Aoecu9omuMjVnDwt

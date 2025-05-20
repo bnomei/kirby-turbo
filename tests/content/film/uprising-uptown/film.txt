@@ -1,0 +1,43 @@
+Title: UPRISING UPTOWN
+
+----
+
+Actors:
+
+- 'page://NmIbTpy4ZSHrHfnI'
+- 'page://C462ZyZJYhtiRgJM'
+- 'page://o0jpPkMBKXg668DK'
+- 'page://yg3e89enY7SGtRB6'
+- 'page://18rsmrxh7jfYQ50K'
+
+----
+
+Film-id: 927
+
+----
+
+Description: A Fanciful Reflection of a Boy And a Butler who must Pursue a Woman in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 174
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: 5pHdCaNNWpZeqyu1
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

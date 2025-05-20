@@ -1,0 +1,17 @@
+Title: Inv 1111
+
+----
+
+Inventory-id: 1111
+
+----
+
+Film: page://wBv9cUE8fywWMbfq
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: V7esrB2bgglu1md0

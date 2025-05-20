@@ -1,0 +1,17 @@
+Title: Inv 703
+
+----
+
+Inventory-id: 703
+
+----
+
+Film: page://7iG7iKaB1YUU3AaN
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: hRwKcbAU5VPfO4Gi

@@ -1,0 +1,33 @@
+Title: JUANITA MASON
+
+----
+
+Customer-id: 135
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JUANITA
+
+----
+
+Last-name: MASON
+
+----
+
+Email: JUANITA.MASON@sakilacustomer.org
+
+----
+
+Address: page://nWOfoy7gIu8uYf3j
+
+----
+
+Active: 1
+
+----
+
+Uuid: 85ovZXEWpqXAx1KN

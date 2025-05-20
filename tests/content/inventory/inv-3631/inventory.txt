@@ -1,0 +1,17 @@
+Title: Inv 3631
+
+----
+
+Inventory-id: 3631
+
+----
+
+Film: page://PaIxrOYLA8ZFY2ov
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: B8Cdlu9X2f5Ph7K4

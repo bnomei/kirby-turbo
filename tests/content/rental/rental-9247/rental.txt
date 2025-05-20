@@ -1,0 +1,25 @@
+Title: Rental 9247
+
+----
+
+Rental-id: 9247
+
+----
+
+Rental-date: 2005-07-30 14:13:56
+
+----
+
+Return-date: 2005-08-02 16:34:56
+
+----
+
+Inventory: page://yFXuBzEZowqzDLL9
+
+----
+
+Customer: page://bm01Zh4gvYAGmd89
+
+----
+
+Uuid: ewcLXoHJTFlfryG7

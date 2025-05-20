@@ -1,0 +1,25 @@
+Title: Rental 10238
+
+----
+
+Rental-id: 10238
+
+----
+
+Rental-date: 2005-08-01 02:08:05
+
+----
+
+Return-date: 2005-08-02 01:52:05
+
+----
+
+Inventory: page://f9tQt7VKQZfzI3Cz
+
+----
+
+Customer: page://S6wnyWLyFa5056NX
+
+----
+
+Uuid: Knj0HasBIxpTszCR

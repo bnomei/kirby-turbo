@@ -1,0 +1,25 @@
+Title: Rental 14568
+
+----
+
+Rental-id: 14568
+
+----
+
+Rental-date: 2005-08-21 16:30:48
+
+----
+
+Return-date: 2005-08-22 13:49:48
+
+----
+
+Inventory: page://khfymYHeqR1DJQNq
+
+----
+
+Customer: page://1IEX6ebAcThKNnCl
+
+----
+
+Uuid: ykhvBKiY5LiD3k1W

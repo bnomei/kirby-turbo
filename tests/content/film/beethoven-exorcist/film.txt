@@ -1,0 +1,44 @@
+Title: BEETHOVEN EXORCIST
+
+----
+
+Actors:
+
+- 'page://ikhz1wEjJMz3vCm4'
+- 'page://ltHX2Lf4QT72ZiqX'
+- 'page://QXMalcumIlXeK8Z2'
+- 'page://zYYZnzancmv0SOT5'
+- 'page://G2CRwpBQJFawgg9Y'
+- 'page://IUEdThBjLk8TNUwy'
+
+----
+
+Film-id: 64
+
+----
+
+Description: A Epic Display of a Pioneer And a Student who must Challenge a Butler in The Gulf of Mexico
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 151
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: jruU8p7ppM0SPdlj
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

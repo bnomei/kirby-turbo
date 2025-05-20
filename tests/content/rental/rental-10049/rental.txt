@@ -1,0 +1,25 @@
+Title: Rental 10049
+
+----
+
+Rental-id: 10049
+
+----
+
+Rental-date: 2005-07-31 19:11:11
+
+----
+
+Return-date: 2005-08-03 22:15:11
+
+----
+
+Inventory: page://HJ0QQqGFSEriFA76
+
+----
+
+Customer: page://ssKfVmN07XGOgIXz
+
+----
+
+Uuid: YF1CYYRhe87q6SNt

@@ -1,0 +1,42 @@
+Title: ESCAPE METROPOLIS
+
+----
+
+Actors:
+
+- 'page://S52CrIK06oYgWrwP'
+- 'page://OwcwI2sE5Nr5L1Ju'
+- 'page://FSTBtYrNkVQnDKPa'
+- 'page://SR0Aks2aA1YgkZ1s'
+
+----
+
+Film-id: 288
+
+----
+
+Description: A Taut Yarn of a Astronaut And a Technical Writer who must Outgun a Boat in New Orleans
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 167
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: XoJ7wKbaZ3Y7kJw7
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

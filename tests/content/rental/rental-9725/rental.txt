@@ -1,0 +1,25 @@
+Title: Rental 9725
+
+----
+
+Rental-id: 9725
+
+----
+
+Rental-date: 2005-07-31 08:35:18
+
+----
+
+Return-date: 2005-08-03 03:46:18
+
+----
+
+Inventory: page://oek3AQCQ6zkMqgcE
+
+----
+
+Customer: page://6OY6sKjbR1uPXwOW
+
+----
+
+Uuid: diIkNPhy41nGSsdl

@@ -1,0 +1,17 @@
+Title: Inv 1596
+
+----
+
+Inventory-id: 1596
+
+----
+
+Film: page://kstF1fKjigdawN11
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: iJ4xQN012LNGiTFd

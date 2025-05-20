@@ -1,0 +1,25 @@
+Title: Rental 9224
+
+----
+
+Rental-id: 9224
+
+----
+
+Rental-date: 2005-07-30 13:25:37
+
+----
+
+Return-date: 2005-08-01 15:13:37
+
+----
+
+Inventory: page://dee3Tk85K2ItiMpJ
+
+----
+
+Customer: page://vsqmV71uZbhxk7Ld
+
+----
+
+Uuid: 3uqMJYObkpIZlg3X

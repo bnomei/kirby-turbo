@@ -1,0 +1,17 @@
+Title: Inv 321
+
+----
+
+Inventory-id: 321
+
+----
+
+Film: page://1cDd3tLyJcgnY5J3
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: SbthhhQcUL4fGDyx

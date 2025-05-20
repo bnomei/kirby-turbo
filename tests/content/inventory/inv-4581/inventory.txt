@@ -1,0 +1,17 @@
+Title: Inv 4581
+
+----
+
+Inventory-id: 4581
+
+----
+
+Film: page://wSlDJdcvEJstzSAH
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: IH1jDr75hCOg7nan

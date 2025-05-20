@@ -1,0 +1,25 @@
+Title: Rental 15564
+
+----
+
+Rental-id: 15564
+
+----
+
+Rental-date: 2005-08-23 05:10:42
+
+----
+
+Return-date: 2005-08-30 03:17:42
+
+----
+
+Inventory: page://z9jPbjDe23ZIFHaF
+
+----
+
+Customer: page://wXKEkL0tNBt3nJ5m
+
+----
+
+Uuid: vRU9f03R2J3FK6fg

@@ -1,0 +1,33 @@
+Title: TYLER WREN
+
+----
+
+Customer-id: 496
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: TYLER
+
+----
+
+Last-name: WREN
+
+----
+
+Email: TYLER.WREN@sakilacustomer.org
+
+----
+
+Address: page://ADSsrcKz0CS0uGpz
+
+----
+
+Active: 1
+
+----
+
+Uuid: GOt9TBIxUNbbEEg5

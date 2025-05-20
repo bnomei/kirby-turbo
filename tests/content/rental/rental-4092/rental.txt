@@ -1,0 +1,25 @@
+Title: Rental 4092
+
+----
+
+Rental-id: 4092
+
+----
+
+Rental-date: 2005-07-07 05:54:18
+
+----
+
+Return-date: 2005-07-16 09:14:18
+
+----
+
+Inventory: page://62hlkSwADXRLKstK
+
+----
+
+Uuid: 6dV9T94ZX167bdRE
+
+----
+
+Customer: page://SnGdQyKh3vyTvpek

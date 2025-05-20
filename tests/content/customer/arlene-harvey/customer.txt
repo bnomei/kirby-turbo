@@ -1,0 +1,33 @@
+Title: ARLENE HARVEY
+
+----
+
+Customer-id: 225
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ARLENE
+
+----
+
+Last-name: HARVEY
+
+----
+
+Email: ARLENE.HARVEY@sakilacustomer.org
+
+----
+
+Address: page://CgWGRzBOYuqrVxId
+
+----
+
+Active: 1
+
+----
+
+Uuid: hiI1XI5RUVwa5yqD

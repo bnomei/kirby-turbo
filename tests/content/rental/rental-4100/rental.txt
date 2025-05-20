@@ -1,0 +1,25 @@
+Title: Rental 4100
+
+----
+
+Rental-id: 4100
+
+----
+
+Rental-date: 2005-07-07 06:20:52
+
+----
+
+Return-date: 2005-07-15 05:58:52
+
+----
+
+Inventory: page://y1xiSH00QLyXz7tU
+
+----
+
+Uuid: dVAGwOdXLd7ibo58
+
+----
+
+Customer: page://JF86ERvhL0BUaSoR

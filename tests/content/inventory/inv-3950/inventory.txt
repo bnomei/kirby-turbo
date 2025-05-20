@@ -1,0 +1,17 @@
+Title: Inv 3950
+
+----
+
+Inventory-id: 3950
+
+----
+
+Film: page://nhD9EWKAgQt71xtX
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: WWCvvuz310WUVTtf

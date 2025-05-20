@@ -1,0 +1,25 @@
+Title: Rental 7914
+
+----
+
+Rental-id: 7914
+
+----
+
+Rental-date: 2005-07-28 11:48:08
+
+----
+
+Return-date: 2005-07-30 14:14:08
+
+----
+
+Inventory: page://jqf6fZswzVu3OSD0
+
+----
+
+Customer: page://NB8qqTmaJphAOwtJ
+
+----
+
+Uuid: MLPGaAdBuHgl6Txy

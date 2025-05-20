@@ -1,0 +1,25 @@
+Title: Rental 11219
+
+----
+
+Rental-id: 11219
+
+----
+
+Rental-date: 2005-08-02 12:30:20
+
+----
+
+Return-date: 2005-08-08 13:42:20
+
+----
+
+Inventory: page://KGD3LXq65CTrNLaU
+
+----
+
+Customer: page://NRYxn443K39MMQN1
+
+----
+
+Uuid: XbG2JU79zvZBZZU4

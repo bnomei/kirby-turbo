@@ -1,0 +1,46 @@
+Title: APOLLO TEEN
+
+----
+
+Actors:
+
+- 'page://I7tdxqtamjxgIUCW'
+- 'page://Xu2nMG4ojUoJI7CN'
+- 'page://SR0Aks2aA1YgkZ1s'
+- 'page://0h8tQJYts8gmFWwG'
+- 'page://1a2BLQivFz3Ch6Lx'
+- 'page://VNoe1uWzYd7QHUzW'
+- 'page://jSbKN9X4MDWI1G5U'
+- 'page://OGjAu4hPWyVISsAa'
+
+----
+
+Film-id: 33
+
+----
+
+Description: A Action-Packed Reflection of a Crocodile And a Explorer who must Find a Sumo Wrestler in An Abandoned Mine Shaft
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 153
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: xNC5z49FXAfLbT9q
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

@@ -1,0 +1,47 @@
+Title: HOUSE DYNAMITE
+
+----
+
+Actors:
+
+- 'page://OwcwI2sE5Nr5L1Ju'
+- 'page://9NAEa97MvjisWbzN'
+- 'page://MG1O0zMGGcgzh2YX'
+- 'page://6jpBKUOTpGMSQxJe'
+- 'page://G2CRwpBQJFawgg9Y'
+- 'page://X3dUYAbt0AiREsIH'
+- 'page://nNLtL91vUU653tYz'
+- 'page://OGjAu4hPWyVISsAa'
+- 'page://nVYE704vdPRRS8fI'
+
+----
+
+Film-id: 437
+
+----
+
+Description: A Taut Story of a Pioneer And a Squirrel who must Battle a Student in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 109
+
+----
+
+Rating: R
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: dphOwxgEJ2OPYdBU
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

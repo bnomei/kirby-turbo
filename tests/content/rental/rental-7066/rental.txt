@@ -1,0 +1,25 @@
+Title: Rental 7066
+
+----
+
+Rental-id: 7066
+
+----
+
+Rental-date: 2005-07-27 03:53:52
+
+----
+
+Return-date: 2005-08-05 03:32:52
+
+----
+
+Inventory: page://iwmN9HqMa25XRDG9
+
+----
+
+Customer: page://FVBT09sa4x7FnbO2
+
+----
+
+Uuid: qXY3Mq9arNCGdFiE

@@ -1,0 +1,41 @@
+Title: ROCKY WAR
+
+----
+
+Actors:
+
+- 'page://xjeqCa9sjC8UxwnG'
+- 'page://pokjngmFMjrhDsLQ'
+- 'page://6LG8mbCuu1aKuRcl'
+
+----
+
+Film-id: 739
+
+----
+
+Description: A Fast-Paced Display of a Squirrel And a Explorer who must Outgun a Mad Scientist in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 145
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: 2pmbZu2tomx861FS
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

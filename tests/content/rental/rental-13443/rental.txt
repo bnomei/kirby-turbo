@@ -1,0 +1,25 @@
+Title: Rental 13443
+
+----
+
+Rental-id: 13443
+
+----
+
+Rental-date: 2005-08-19 23:53:42
+
+----
+
+Return-date: 2005-08-28 05:37:42
+
+----
+
+Inventory: page://zolt8RmNA7aRA3fw
+
+----
+
+Customer: page://HQxscLHxuDjEVXyk
+
+----
+
+Uuid: 669JreYmJ5W59U92

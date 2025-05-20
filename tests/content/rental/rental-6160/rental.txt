@@ -1,0 +1,25 @@
+Title: Rental 6160
+
+----
+
+Rental-id: 6160
+
+----
+
+Rental-date: 2005-07-11 10:08:13
+
+----
+
+Return-date: 2005-07-14 08:18:13
+
+----
+
+Inventory: page://Nm3ZtGM3HBQETeJ6
+
+----
+
+Uuid: p9SPrPm2yMGgWKuu
+
+----
+
+Customer: page://XZqTxsNej50wJ3aq

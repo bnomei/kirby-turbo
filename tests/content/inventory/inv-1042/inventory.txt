@@ -1,0 +1,17 @@
+Title: Inv 1042
+
+----
+
+Inventory-id: 1042
+
+----
+
+Film: page://u61mXZArei0MTQD2
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: fkUBIoAeoAVXfx6B

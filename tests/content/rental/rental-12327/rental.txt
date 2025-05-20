@@ -1,0 +1,25 @@
+Title: Rental 12327
+
+----
+
+Rental-id: 12327
+
+----
+
+Rental-date: 2005-08-18 06:43:22
+
+----
+
+Return-date: 2005-08-25 10:50:22
+
+----
+
+Inventory: page://44qmEUCllKHsmsiF
+
+----
+
+Customer: page://hKCKx3YFHHjehyrG
+
+----
+
+Uuid: 45IOpT5cFogmrxJ6

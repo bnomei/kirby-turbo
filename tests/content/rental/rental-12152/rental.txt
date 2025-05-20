@@ -1,0 +1,25 @@
+Title: Rental 12152
+
+----
+
+Rental-id: 12152
+
+----
+
+Rental-date: 2005-08-18 00:21:35
+
+----
+
+Return-date: 2005-08-22 02:51:35
+
+----
+
+Inventory: page://878O8T5tz1iHct3q
+
+----
+
+Customer: page://1Uz8TMpklCxhdMmv
+
+----
+
+Uuid: uqSA8cIkc8p0U4hL

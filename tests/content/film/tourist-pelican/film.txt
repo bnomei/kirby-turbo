@@ -1,0 +1,41 @@
+Title: TOURIST PELICAN
+
+----
+
+Actors:
+
+- 'page://MokGIRk1MnOR5ecX'
+- 'page://o0jpPkMBKXg668DK'
+- 'page://hzpjO6QvzfyB1LBD'
+
+----
+
+Film-id: 898
+
+----
+
+Description: A Boring Story of a Butler And a Astronaut who must Outrace a Pioneer in Australia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 152
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: sV23YpqeUmbQaYoT
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

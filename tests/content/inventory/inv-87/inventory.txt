@@ -1,0 +1,17 @@
+Title: Inv 87
+
+----
+
+Inventory-id: 87
+
+----
+
+Film: page://JLRiqEW0n7GbLrkV
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: QzAC4ODMvaOYLf4Q

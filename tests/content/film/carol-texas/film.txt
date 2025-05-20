@@ -1,0 +1,45 @@
+Title: CAROL TEXAS
+
+----
+
+Actors:
+
+- 'page://EfT0PAFDrVUk4H1Y'
+- 'page://lRnQ2IFMyS6K2hRd'
+- 'page://8v9dhLSIQd0NpUQl'
+- 'page://S8UoUinBIsjzumVd'
+- 'page://G2CRwpBQJFawgg9Y'
+- 'page://1a2BLQivFz3Ch6Lx'
+- 'page://DwMOxcgjVYPNg15d'
+
+----
+
+Film-id: 121
+
+----
+
+Description: A Astounding Character Study of a Composer And a Student who must Overcome a Composer in A Monastery
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 151
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: IAYc88zrCIG1DcnQ
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

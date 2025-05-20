@@ -1,0 +1,33 @@
+Title: ROBERTO VU
+
+----
+
+Customer-id: 484
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ROBERTO
+
+----
+
+Last-name: VU
+
+----
+
+Email: ROBERTO.VU@sakilacustomer.org
+
+----
+
+Address: page://tJ9RRj927JexRfsr
+
+----
+
+Active: 1
+
+----
+
+Uuid: rMm0jN6bFHVs2tRk

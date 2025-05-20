@@ -1,0 +1,33 @@
+Title: KENT ARSENAULT
+
+----
+
+Customer-id: 591
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: KENT
+
+----
+
+Last-name: ARSENAULT
+
+----
+
+Email: KENT.ARSENAULT@sakilacustomer.org
+
+----
+
+Address: page://65KXWNz7wf8j7KK1
+
+----
+
+Active: 1
+
+----
+
+Uuid: dkYED9p0YUgsDhXs

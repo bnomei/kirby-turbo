@@ -1,0 +1,17 @@
+Title: Inv 2043
+
+----
+
+Inventory-id: 2043
+
+----
+
+Film: page://tpjPaLgK24c3JWm2
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ZvCg3hdifwimECD1

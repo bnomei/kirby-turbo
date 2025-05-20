@@ -1,0 +1,33 @@
+Title: REGINA BERRY
+
+----
+
+Customer-id: 168
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: REGINA
+
+----
+
+Last-name: BERRY
+
+----
+
+Email: REGINA.BERRY@sakilacustomer.org
+
+----
+
+Address: page://U1XaF2sZLyooT635
+
+----
+
+Active: 1
+
+----
+
+Uuid: kgSm33zdyJ1gD7mK

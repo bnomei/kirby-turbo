@@ -1,0 +1,25 @@
+Title: Rental 11989
+
+----
+
+Rental-id: 11989
+
+----
+
+Rental-date: 2005-08-17 18:23:58
+
+----
+
+Return-date: 2005-08-20 20:31:58
+
+----
+
+Inventory: page://HLiWnuqw8DVakU6s
+
+----
+
+Customer: page://KliCwmxco9DJ4eNi
+
+----
+
+Uuid: py1LdoXUcc5k1YMp

@@ -1,0 +1,21 @@
+Title: CUBA ALLEN
+
+----
+
+Actors: []
+
+----
+
+Actor-id: 118
+
+----
+
+First-name: CUBA
+
+----
+
+Last-name: ALLEN
+
+----
+
+Uuid: 8sAZxgGEUjJot3JV

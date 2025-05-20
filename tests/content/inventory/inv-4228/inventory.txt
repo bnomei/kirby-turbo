@@ -1,0 +1,17 @@
+Title: Inv 4228
+
+----
+
+Inventory-id: 4228
+
+----
+
+Film: page://vOOqa1d8m79u4i9o
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: D80OcMp2sAxzOwPO

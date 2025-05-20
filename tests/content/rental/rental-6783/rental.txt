@@ -1,0 +1,25 @@
+Title: Rental 6783
+
+----
+
+Rental-id: 6783
+
+----
+
+Rental-date: 2005-07-12 16:27:56
+
+----
+
+Return-date: 2005-07-13 12:11:56
+
+----
+
+Inventory: page://rilqvqgk03Ae2PHY
+
+----
+
+Customer: page://R8IxBa5hez4twrqS
+
+----
+
+Uuid: H7I1bejSn4ZhbNZw

@@ -1,0 +1,25 @@
+Title: Rental 6419
+
+----
+
+Rental-id: 6419
+
+----
+
+Rental-date: 2005-07-11 23:36:38
+
+----
+
+Return-date: 2005-07-13 03:23:38
+
+----
+
+Inventory: page://n35IL6cfDewhpsFD
+
+----
+
+Uuid: VeTFZNS8z79Q1UKU
+
+----
+
+Customer: page://W7ZJXAG7NuFuJZ2S

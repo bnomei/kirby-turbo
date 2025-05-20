@@ -1,0 +1,25 @@
+Title: Rental 1823
+
+----
+
+Rental-id: 1823
+
+----
+
+Rental-date: 2005-06-16 21:48:16
+
+----
+
+Return-date: 2005-06-22 03:09:16
+
+----
+
+Inventory: page://cZgkSmhTKhlhGqqt
+
+----
+
+Uuid: FeKMVB23yhZjsiak
+
+----
+
+Customer: page://J2P0f5RgZsLYfwfF

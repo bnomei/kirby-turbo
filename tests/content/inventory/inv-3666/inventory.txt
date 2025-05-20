@@ -1,0 +1,17 @@
+Title: Inv 3666
+
+----
+
+Inventory-id: 3666
+
+----
+
+Film: page://1pDJmtGDeGf9MiJW
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ZEXH9aOQzJS31iRa

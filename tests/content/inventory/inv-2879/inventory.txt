@@ -1,0 +1,17 @@
+Title: Inv 2879
+
+----
+
+Inventory-id: 2879
+
+----
+
+Film: page://9DjJSZLqLT7PhOcJ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 5A5eZiQbf3QXXaiT

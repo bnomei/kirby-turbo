@@ -1,0 +1,17 @@
+Title: Inv 1727
+
+----
+
+Inventory-id: 1727
+
+----
+
+Film: page://aIzeDPhb5b1oNOHo
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 3eN9gmyLzxR9skAF

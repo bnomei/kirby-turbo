@@ -1,0 +1,17 @@
+Title: Inv 581
+
+----
+
+Inventory-id: 581
+
+----
+
+Film: page://fuV09DYoDLC2P03z
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 618XxO8ms5fnnHYu

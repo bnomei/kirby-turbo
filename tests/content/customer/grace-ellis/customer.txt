@@ -1,0 +1,33 @@
+Title: GRACE ELLIS
+
+----
+
+Customer-id: 114
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: GRACE
+
+----
+
+Last-name: ELLIS
+
+----
+
+Email: GRACE.ELLIS@sakilacustomer.org
+
+----
+
+Address: page://KNqXPn00FxidKF9F
+
+----
+
+Active: 1
+
+----
+
+Uuid: tmz3xyyMIWwOAlZu

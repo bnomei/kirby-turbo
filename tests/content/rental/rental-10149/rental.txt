@@ -1,0 +1,25 @@
+Title: Rental 10149
+
+----
+
+Rental-id: 10149
+
+----
+
+Rental-date: 2005-07-31 22:20:46
+
+----
+
+Return-date: 2005-08-07 23:12:46
+
+----
+
+Inventory: page://oo2dahHPZrLWLgpX
+
+----
+
+Customer: page://ITr0DtQiC8vNX3ax
+
+----
+
+Uuid: huHMkLUKLYuzRPmi

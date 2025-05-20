@@ -1,0 +1,17 @@
+Title: Inv 2040
+
+----
+
+Inventory-id: 2040
+
+----
+
+Film: page://tpjPaLgK24c3JWm2
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: o6VhmJmgYcWbTecr

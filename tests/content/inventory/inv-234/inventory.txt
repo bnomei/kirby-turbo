@@ -1,0 +1,17 @@
+Title: Inv 234
+
+----
+
+Inventory-id: 234
+
+----
+
+Film: page://nRKQKDvzszz9YQLo
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: b36rByi10Gu5NFHc

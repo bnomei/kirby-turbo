@@ -1,0 +1,17 @@
+Title: Inv 2301
+
+----
+
+Inventory-id: 2301
+
+----
+
+Film: page://gfzPLRHwg0xqMABq
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 6agTVkzQ7zBSbF2I

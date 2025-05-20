@@ -1,0 +1,17 @@
+Title: Inv 3868
+
+----
+
+Inventory-id: 3868
+
+----
+
+Film: page://bpyP3hyHEFde02iy
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: NREuwxk5UMQtnHa2

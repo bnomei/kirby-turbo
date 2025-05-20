@@ -1,0 +1,25 @@
+Title: Rental 8813
+
+----
+
+Rental-id: 8813
+
+----
+
+Rental-date: 2005-07-29 21:47:55
+
+----
+
+Return-date: 2005-08-05 01:16:55
+
+----
+
+Inventory: page://jFaD9ypRxGj0Z0eq
+
+----
+
+Customer: page://2MUlemyyzPeXt7QE
+
+----
+
+Uuid: 664rfU2RGqjgNtYi

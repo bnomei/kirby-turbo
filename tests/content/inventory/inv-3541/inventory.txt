@@ -1,0 +1,17 @@
+Title: Inv 3541
+
+----
+
+Inventory-id: 3541
+
+----
+
+Film: page://SvEfXlMVGnfQgOtv
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: o1YqWbRrVTqaWHnF

@@ -1,0 +1,45 @@
+Title: DOGMA FAMILY
+
+----
+
+Actors:
+
+- 'page://4hDC3FM6lySlQjxW'
+- 'page://ovAz2jwmaTIz5ph9'
+- 'page://WmeC1S3wVV4gdFE4'
+- 'page://if8hfrmRoIODgwSa'
+- 'page://wxM7fPnQeVIlPpuJ'
+- 'page://K0t8PMh78EXVZHC5'
+- 'page://OqV4tbW7WtFrMtYI'
+
+----
+
+Film-id: 239
+
+----
+
+Description: A Brilliant Character Study of a Database Administrator And a Monkey who must Succumb a Astronaut in New Orleans
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 122
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries
+
+----
+
+Uuid: cIUV5g7wlc27Eqrh
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

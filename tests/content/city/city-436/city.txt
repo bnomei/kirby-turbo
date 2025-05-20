@@ -1,0 +1,17 @@
+Title: Ruse
+
+----
+
+City-id: 436
+
+----
+
+City: Ruse
+
+----
+
+Country: page://Qmax1NxhtXT8RxJk
+
+----
+
+Uuid: FNM4mhoYxsCZtICl

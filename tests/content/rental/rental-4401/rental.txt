@@ -1,0 +1,25 @@
+Title: Rental 4401
+
+----
+
+Rental-id: 4401
+
+----
+
+Rental-date: 2005-07-07 21:26:27
+
+----
+
+Return-date: 2005-07-12 17:18:27
+
+----
+
+Inventory: page://1qaEWwicMA89OiNS
+
+----
+
+Uuid: AcKYfgA68P8FgEYE
+
+----
+
+Customer: page://E8B6f5Jketu7tOjl

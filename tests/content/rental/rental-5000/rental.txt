@@ -1,0 +1,25 @@
+Title: Rental 5000
+
+----
+
+Rental-id: 5000
+
+----
+
+Rental-date: 2005-07-09 01:16:13
+
+----
+
+Return-date: 2005-07-14 21:55:13
+
+----
+
+Inventory: page://1Zjh5aWDEwOUGWo3
+
+----
+
+Uuid: Dylve1Nq2ESY9rzX
+
+----
+
+Customer: page://BHogzYqJMJV97w4u

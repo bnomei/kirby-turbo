@@ -1,0 +1,25 @@
+Title: Rental 1601
+
+----
+
+Rental-id: 1601
+
+----
+
+Rental-date: 2005-06-16 06:11:13
+
+----
+
+Return-date: 2005-06-21 08:57:13
+
+----
+
+Inventory: page://FJoMA8u433MJQSrJ
+
+----
+
+Uuid: Qvox8RNr2vkvnQGD
+
+----
+
+Customer: page://843oz4AUIJBdB6Ag

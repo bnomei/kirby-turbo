@@ -1,0 +1,40 @@
+Title: GOLD RIVER
+
+----
+
+Actors:
+
+- 'page://twoON2iToIZq1akt'
+- 'page://3BcvBP3gfacEDPsU'
+
+----
+
+Film-id: 365
+
+----
+
+Description: A Taut Documentary of a Database Administrator And a Waitress who must Reach a Mad Scientist in A Baloon Factory
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 154
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: XaFb2ccssA5iFSfu
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

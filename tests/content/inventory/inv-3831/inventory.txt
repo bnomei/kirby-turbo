@@ -1,0 +1,17 @@
+Title: Inv 3831
+
+----
+
+Inventory-id: 3831
+
+----
+
+Film: page://JJHamnMSfiwTD6Ui
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: n5cvySRdxMg4ZWg6

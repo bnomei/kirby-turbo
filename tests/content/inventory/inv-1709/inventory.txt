@@ -1,0 +1,17 @@
+Title: Inv 1709
+
+----
+
+Inventory-id: 1709
+
+----
+
+Film: page://9C65JxCW0pw6tqcG
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: WPQSYu5L4nMsBt1o

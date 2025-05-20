@@ -1,0 +1,17 @@
+Title: Inv 762
+
+----
+
+Inventory-id: 762
+
+----
+
+Film: page://eHq1c3vcaeybCh3j
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: XHbIg44YeaBLVXit

@@ -1,0 +1,25 @@
+Title: Rental 6001
+
+----
+
+Rental-id: 6001
+
+----
+
+Rental-date: 2005-07-11 01:24:44
+
+----
+
+Return-date: 2005-07-11 22:55:44
+
+----
+
+Inventory: page://xe5fefe5pG95Nrxc
+
+----
+
+Uuid: JfQAA6Hy1pVgU78P
+
+----
+
+Customer: page://zuaErOZUavOIvBK9

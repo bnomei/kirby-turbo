@@ -1,0 +1,25 @@
+Title: Rental 7112
+
+----
+
+Rental-id: 7112
+
+----
+
+Rental-date: 2005-07-27 05:38:42
+
+----
+
+Return-date: 2005-08-03 05:35:42
+
+----
+
+Inventory: page://q28UXPS8sdxqivoX
+
+----
+
+Customer: page://uLTcc5I1Ow2yuWNp
+
+----
+
+Uuid: j5Ku0CV5U6lJRh8y

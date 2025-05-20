@@ -1,0 +1,25 @@
+Title: Rental 517
+
+----
+
+Rental-id: 517
+
+----
+
+Rental-date: 2005-05-28 03:17:57
+
+----
+
+Return-date: 2005-05-29 06:33:57
+
+----
+
+Inventory: page://b36rByi10Gu5NFHc
+
+----
+
+Uuid: shgs5dpMT8643ol3
+
+----
+
+Customer: page://sNiE3u2o38XV820m

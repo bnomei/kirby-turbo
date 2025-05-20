@@ -1,0 +1,17 @@
+Title: Inv 2668
+
+----
+
+Inventory-id: 2668
+
+----
+
+Film: page://5g6zKOX9LThAZKIY
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ivSAhyRdwqhRQow0

@@ -1,0 +1,21 @@
+Title: Rental 12672
+
+----
+
+Rental-id: 12672
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://VZBqsfNcbJ32Sp74
+
+----
+
+Customer: page://1oyElH1fZadoyZ04
+
+----
+
+Uuid: ODAvOejhSVZFHXfF

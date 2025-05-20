@@ -1,0 +1,25 @@
+Title: Rental 13813
+
+----
+
+Rental-id: 13813
+
+----
+
+Rental-date: 2005-08-20 13:03:26
+
+----
+
+Return-date: 2005-08-25 08:42:26
+
+----
+
+Inventory: page://kotZs4jCncbnYF2y
+
+----
+
+Customer: page://yZByBc3rF7VvRjSr
+
+----
+
+Uuid: znYHJEMvQEEB4WVK

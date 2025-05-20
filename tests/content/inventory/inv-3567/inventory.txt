@@ -1,0 +1,17 @@
+Title: Inv 3567
+
+----
+
+Inventory-id: 3567
+
+----
+
+Film: page://iBs3sowedbV8CX1C
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: YSbARF3nzDJv1wjh

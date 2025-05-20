@@ -1,0 +1,33 @@
+Title: MABEL HOLLAND
+
+----
+
+Customer-id: 256
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: MABEL
+
+----
+
+Last-name: HOLLAND
+
+----
+
+Email: MABEL.HOLLAND@sakilacustomer.org
+
+----
+
+Address: page://qiV04rOCFFKGM3Rw
+
+----
+
+Active: 1
+
+----
+
+Uuid: Nq991akaEgNmdCHy

@@ -1,0 +1,17 @@
+Title: Inv 3103
+
+----
+
+Inventory-id: 3103
+
+----
+
+Film: page://a0gDd5aMc5B7ovnL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: H7uLFezufdfucRL2

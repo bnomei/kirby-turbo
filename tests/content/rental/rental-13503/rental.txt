@@ -1,0 +1,25 @@
+Title: Rental 13503
+
+----
+
+Rental-id: 13503
+
+----
+
+Rental-date: 2005-08-20 02:00:33
+
+----
+
+Return-date: 2005-08-28 21:03:33
+
+----
+
+Inventory: page://NGrgZ8qzS71L9HXP
+
+----
+
+Customer: page://Np9oOnG3vThj8OAU
+
+----
+
+Uuid: BuvqnlhKJVkb2uLM

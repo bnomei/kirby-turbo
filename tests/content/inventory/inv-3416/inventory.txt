@@ -1,0 +1,17 @@
+Title: Inv 3416
+
+----
+
+Inventory-id: 3416
+
+----
+
+Film: page://p8YMJPZB1wk9DpT5
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ZFKWu2TCdJ5dBsyd

@@ -1,0 +1,40 @@
+Title: FOOL MOCKINGBIRD
+
+----
+
+Actors:
+
+- 'page://jG0aUFRzU1eFlO8R'
+- 'page://OwcwI2sE5Nr5L1Ju'
+
+----
+
+Film-id: 327
+
+----
+
+Description: A Lacklusture Tale of a Crocodile And a Composer who must Defeat a Madman in A U-Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 158
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: WkFtjN74u9SLKViC
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

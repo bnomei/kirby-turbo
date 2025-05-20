@@ -1,0 +1,25 @@
+Title: Rental 608
+
+----
+
+Rental-id: 608
+
+----
+
+Rental-date: 2005-05-28 15:03:44
+
+----
+
+Return-date: 2005-06-04 17:14:44
+
+----
+
+Inventory: page://DgyPujQXPCihY0nd
+
+----
+
+Uuid: GVxsCp7lyfCl86pf
+
+----
+
+Customer: page://wPjJI94k63sf9tIo

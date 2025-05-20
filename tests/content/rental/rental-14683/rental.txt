@@ -1,0 +1,25 @@
+Title: Rental 14683
+
+----
+
+Rental-id: 14683
+
+----
+
+Rental-date: 2005-08-21 20:27:44
+
+----
+
+Return-date: 2005-08-29 16:54:44
+
+----
+
+Inventory: page://RvSx7mphTDwfi26a
+
+----
+
+Customer: page://zmCabsBB5k9OFLQt
+
+----
+
+Uuid: mO8Qj2Fuy4dNkBJe

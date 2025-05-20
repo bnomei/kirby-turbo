@@ -1,0 +1,17 @@
+Title: Inv 1725
+
+----
+
+Inventory-id: 1725
+
+----
+
+Film: page://aIzeDPhb5b1oNOHo
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Y8WR8R5q3rNFAP6H

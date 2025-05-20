@@ -1,0 +1,17 @@
+Title: Inv 1001
+
+----
+
+Inventory-id: 1001
+
+----
+
+Film: page://zjJUqdFekT0tOcpD
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: XRGJ8YtbsikY1GlK

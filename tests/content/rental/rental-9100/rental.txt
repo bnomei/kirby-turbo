@@ -1,0 +1,25 @@
+Title: Rental 9100
+
+----
+
+Rental-id: 9100
+
+----
+
+Rental-date: 2005-07-30 08:46:09
+
+----
+
+Return-date: 2005-08-05 10:34:09
+
+----
+
+Inventory: page://WTvXKyglyY6NckLl
+
+----
+
+Customer: page://ftEMvnSK11uTw7qY
+
+----
+
+Uuid: BbB09n0foTZxAw5r

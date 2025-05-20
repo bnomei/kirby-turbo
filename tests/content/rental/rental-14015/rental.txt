@@ -1,0 +1,25 @@
+Title: Rental 14015
+
+----
+
+Rental-id: 14015
+
+----
+
+Rental-date: 2005-08-20 20:47:43
+
+----
+
+Return-date: 2005-08-26 19:37:43
+
+----
+
+Inventory: page://iqdqEfeYX40xxBgQ
+
+----
+
+Customer: page://C4htS1tLHzkKyE5J
+
+----
+
+Uuid: 4MKWr7cTD5h2ACo5

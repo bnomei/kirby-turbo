@@ -1,0 +1,17 @@
+Title: Inv 1168
+
+----
+
+Inventory-id: 1168
+
+----
+
+Film: page://WjoOh8OZSarhIBM3
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: cFARyEJxF6fNUHkR

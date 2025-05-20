@@ -1,0 +1,25 @@
+Title: Rental 9452
+
+----
+
+Rental-id: 9452
+
+----
+
+Rental-date: 2005-07-30 22:19:16
+
+----
+
+Return-date: 2005-08-04 19:26:16
+
+----
+
+Inventory: page://ZmVKhcdEIh0PDNZd
+
+----
+
+Customer: page://pDfW2rdiEx3al4Ty
+
+----
+
+Uuid: cMnzXBSp5ehVaAtx

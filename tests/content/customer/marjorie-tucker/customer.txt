@@ -1,0 +1,33 @@
+Title: MARJORIE TUCKER
+
+----
+
+Customer-id: 128
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MARJORIE
+
+----
+
+Last-name: TUCKER
+
+----
+
+Email: MARJORIE.TUCKER@sakilacustomer.org
+
+----
+
+Address: page://hV1uwiptC52ovqsw
+
+----
+
+Active: 1
+
+----
+
+Uuid: F0Kktb9GQCAISqtj

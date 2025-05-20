@@ -1,0 +1,25 @@
+Title: Rental 3671
+
+----
+
+Rental-id: 3671
+
+----
+
+Rental-date: 2005-07-06 09:01:29
+
+----
+
+Return-date: 2005-07-15 08:08:29
+
+----
+
+Inventory: page://cy5RFtPXLL3n09du
+
+----
+
+Uuid: KOrevv7dubG7A3zT
+
+----
+
+Customer: page://28btFRqxUbpYMux2

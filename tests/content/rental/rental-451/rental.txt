@@ -1,0 +1,25 @@
+Title: Rental 451
+
+----
+
+Rental-id: 451
+
+----
+
+Rental-date: 2005-05-27 19:27:54
+
+----
+
+Return-date: 2005-05-29 01:07:54
+
+----
+
+Inventory: page://IopUbQw6s8hKBBm8
+
+----
+
+Uuid: UFBwk2uixnofHdYE
+
+----
+
+Customer: page://AbMvWlf35GZBBoZ3

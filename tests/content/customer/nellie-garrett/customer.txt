@@ -1,0 +1,33 @@
+Title: NELLIE GARRETT
+
+----
+
+Customer-id: 238
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: NELLIE
+
+----
+
+Last-name: GARRETT
+
+----
+
+Email: NELLIE.GARRETT@sakilacustomer.org
+
+----
+
+Address: page://JRXupB425PtfRHHy
+
+----
+
+Active: 1
+
+----
+
+Uuid: RIEo30tJIX71MCMT

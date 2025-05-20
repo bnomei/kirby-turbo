@@ -1,0 +1,25 @@
+Title: Rental 1055
+
+----
+
+Rental-id: 1055
+
+----
+
+Rental-date: 2005-05-31 07:47:18
+
+----
+
+Return-date: 2005-06-03 01:57:18
+
+----
+
+Inventory: page://ET5GsaBWiGCRxrSO
+
+----
+
+Uuid: tiFwz2Q9Wddxdmgr
+
+----
+
+Customer: page://VPA8X8lftFbJP7Oh

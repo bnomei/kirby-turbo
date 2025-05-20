@@ -1,0 +1,17 @@
+Title: Inv 1005
+
+----
+
+Inventory-id: 1005
+
+----
+
+Film: page://lvnoaY9ColEubXcS
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: HXhWNIVRppxkTALH

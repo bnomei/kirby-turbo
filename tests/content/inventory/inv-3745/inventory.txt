@@ -1,0 +1,17 @@
+Title: Inv 3745
+
+----
+
+Inventory-id: 3745
+
+----
+
+Film: page://dzN50rhrpVWyqRRr
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ora3WdZ6BuosRKVm

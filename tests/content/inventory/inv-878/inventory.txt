@@ -1,0 +1,17 @@
+Title: Inv 878
+
+----
+
+Inventory-id: 878
+
+----
+
+Film: page://bjcVvf6Bq6N3Umgg
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: PDN4WkRc6icYFjv0

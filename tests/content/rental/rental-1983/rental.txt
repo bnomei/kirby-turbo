@@ -1,0 +1,25 @@
+Title: Rental 1983
+
+----
+
+Rental-id: 1983
+
+----
+
+Rental-date: 2005-06-17 10:22:13
+
+----
+
+Return-date: 2005-06-24 05:04:13
+
+----
+
+Inventory: page://rcHRUcklGDCFk8l2
+
+----
+
+Uuid: zd6G9UkGUEsszVme
+
+----
+
+Customer: page://qwoOdpywLcCQ6lEX

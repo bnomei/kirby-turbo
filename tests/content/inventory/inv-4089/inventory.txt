@@ -1,0 +1,17 @@
+Title: Inv 4089
+
+----
+
+Inventory-id: 4089
+
+----
+
+Film: page://BU2wrLbaMSeFvLm7
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 93NKdGxuMHQ9JY75

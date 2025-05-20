@@ -1,0 +1,17 @@
+Title: Inv 752
+
+----
+
+Inventory-id: 752
+
+----
+
+Film: page://cISnDSGiPY3Vsb7S
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: sYtnBdPoDFFl1n7I

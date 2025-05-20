@@ -1,0 +1,25 @@
+Title: Rental 4539
+
+----
+
+Rental-id: 4539
+
+----
+
+Rental-date: 2005-07-08 04:01:02
+
+----
+
+Return-date: 2005-07-14 22:32:02
+
+----
+
+Inventory: page://tKed6VXlElFCn0Pt
+
+----
+
+Uuid: CK61735CRk09gctP
+
+----
+
+Customer: page://PTRh5UK45MCW3LWn

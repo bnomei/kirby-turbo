@@ -1,0 +1,33 @@
+Title: SHARON ROBINSON
+
+----
+
+Customer-id: 20
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: SHARON
+
+----
+
+Last-name: ROBINSON
+
+----
+
+Email: SHARON.ROBINSON@sakilacustomer.org
+
+----
+
+Address: page://JyLj3TgC0jgruV5t
+
+----
+
+Active: 1
+
+----
+
+Uuid: M8eRI142xjYReqze

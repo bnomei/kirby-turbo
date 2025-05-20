@@ -1,0 +1,17 @@
+Title: Inv 736
+
+----
+
+Inventory-id: 736
+
+----
+
+Film: page://4drRiZybSd3sRdQO
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: bAcBYwfrYuPwXyvV

@@ -1,0 +1,41 @@
+Title: SEABISCUIT PUNK
+
+----
+
+Actors:
+
+- 'page://L8EgxOu9xdHGpzVg'
+- 'page://3oaBypMbXEPYhgeK'
+- 'page://9XqCStEtXKdxVnPM'
+
+----
+
+Film-id: 773
+
+----
+
+Description: A Insightful Saga of a Man And a Forensic Psychologist who must Discover a Mad Cow in A MySQL Convention
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 112
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: n7uW2rvQTttEKsGS
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

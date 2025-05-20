@@ -1,0 +1,25 @@
+Title: Rental 9385
+
+----
+
+Rental-id: 9385
+
+----
+
+Rental-date: 2005-07-30 19:25:49
+
+----
+
+Return-date: 2005-08-08 17:08:49
+
+----
+
+Inventory: page://0jrHj1z0NgyZqn06
+
+----
+
+Customer: page://mOuqyzmE17YrV1yV
+
+----
+
+Uuid: OrI7wUx2dMILGjl2

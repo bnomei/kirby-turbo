@@ -1,0 +1,33 @@
+Title: DANNY ISOM
+
+----
+
+Customer-id: 399
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: DANNY
+
+----
+
+Last-name: ISOM
+
+----
+
+Email: DANNY.ISOM@sakilacustomer.org
+
+----
+
+Address: page://v5miXCzOs6rGGNyx
+
+----
+
+Active: 1
+
+----
+
+Uuid: Lk1Hh6BTSOpo0Syr

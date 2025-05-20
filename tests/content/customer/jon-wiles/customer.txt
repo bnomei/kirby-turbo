@@ -1,0 +1,33 @@
+Title: JON WILES
+
+----
+
+Customer-id: 455
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JON
+
+----
+
+Last-name: WILES
+
+----
+
+Email: JON.WILES@sakilacustomer.org
+
+----
+
+Address: page://LPAxCR3qh0IgkcW8
+
+----
+
+Active: 1
+
+----
+
+Uuid: yZByBc3rF7VvRjSr

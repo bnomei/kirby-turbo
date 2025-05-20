@@ -1,0 +1,17 @@
+Title: Inv 1573
+
+----
+
+Inventory-id: 1573
+
+----
+
+Film: page://aoPjx0rsVDrGLVuM
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: O4hr4vFXFKdm5WIu

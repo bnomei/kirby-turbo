@@ -1,0 +1,25 @@
+Title: Rental 4058
+
+----
+
+Rental-id: 4058
+
+----
+
+Rental-date: 2005-07-07 04:02:50
+
+----
+
+Return-date: 2005-07-10 04:30:50
+
+----
+
+Inventory: page://CwWv8Qbuy7VTvPqO
+
+----
+
+Uuid: nwFZAeQBLGyCztaZ
+
+----
+
+Customer: page://eYENgXyv63Ee6XxS

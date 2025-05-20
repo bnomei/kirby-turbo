@@ -1,0 +1,25 @@
+Title: Rental 4811
+
+----
+
+Rental-id: 4811
+
+----
+
+Rental-date: 2005-07-08 17:04:24
+
+----
+
+Return-date: 2005-07-12 16:41:24
+
+----
+
+Inventory: page://E7e9o5P03OJOYfms
+
+----
+
+Uuid: 2XyY79dKLQbAbUeC
+
+----
+
+Customer: page://JwCLM6Oie6KS9Hma

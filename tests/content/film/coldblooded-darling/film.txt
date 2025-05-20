@@ -1,0 +1,42 @@
+Title: COLDBLOODED DARLING
+
+----
+
+Actors:
+
+- 'page://qGB9wRd16f9YwbHn'
+- 'page://5ruVLAhmJBWUKPci'
+- 'page://S8UoUinBIsjzumVd'
+- 'page://wxM7fPnQeVIlPpuJ'
+
+----
+
+Film-id: 165
+
+----
+
+Description: A Brilliant Panorama of a Dentist And a Moose who must Find a Student in The Gulf of Mexico
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 70
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: TL5LBeDFRujSDe5l
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

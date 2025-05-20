@@ -1,0 +1,21 @@
+Title: Rental 12064
+
+----
+
+Rental-id: 12064
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://b5ZQJGootKs0F278
+
+----
+
+Customer: page://DQdRudB4hPmZIfVZ
+
+----
+
+Uuid: qNe9mfWSccfHQubc

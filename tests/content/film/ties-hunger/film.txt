@@ -1,0 +1,44 @@
+Title: TIES HUNGER
+
+----
+
+Actors:
+
+- 'page://Tc5O2MboD06L5UFn'
+- 'page://oEbdYNCKFrP9NVLv'
+- 'page://y29OJNxDr3yTLShi'
+- 'page://YBKuIiLT3VizSQRI'
+- 'page://uyiPyWfxhKFdwYKL'
+- 'page://18rsmrxh7jfYQ50K'
+
+----
+
+Film-id: 889
+
+----
+
+Description: A Insightful Saga of a Astronaut And a Explorer who must Pursue a Mad Scientist in A U-Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 111
+
+----
+
+Rating: R
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: quDQtJ1nyf2DlxvE
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

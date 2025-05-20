@@ -1,0 +1,44 @@
+Title: HYDE DOCTOR
+
+----
+
+Actors:
+
+- 'page://9zoYPXEbxK6liKqc'
+- 'page://5ruVLAhmJBWUKPci'
+- 'page://ixmDbcb5VXh1c8bc'
+- 'page://GA1ldK0BGihIEfd4'
+- 'page://xtyCW5dEHcrv0QRa'
+- 'page://wxM7fPnQeVIlPpuJ'
+
+----
+
+Film-id: 445
+
+----
+
+Description: A Fanciful Documentary of a Boy And a Woman who must Redeem a Womanizer in A Jet Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 100
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: tjXXFfYfgCZfA1am
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

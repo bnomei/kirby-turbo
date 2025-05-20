@@ -1,0 +1,25 @@
+Title: Rental 4759
+
+----
+
+Rental-id: 4759
+
+----
+
+Rental-date: 2005-07-08 14:39:22
+
+----
+
+Return-date: 2005-07-17 15:02:22
+
+----
+
+Inventory: page://fCRA6CywI34q2dGc
+
+----
+
+Uuid: 6RdQCE518StLu3Ay
+
+----
+
+Customer: page://DQdRudB4hPmZIfVZ

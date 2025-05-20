@@ -1,0 +1,25 @@
+Title: Rental 5009
+
+----
+
+Rental-id: 5009
+
+----
+
+Rental-date: 2005-07-09 01:32:17
+
+----
+
+Return-date: 2005-07-18 03:39:17
+
+----
+
+Inventory: page://djSt6K5WQD8L3bsT
+
+----
+
+Uuid: pTVpb5OEEPyAwKnj
+
+----
+
+Customer: page://2XFuHwmZmBm0kuQs

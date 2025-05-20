@@ -1,0 +1,25 @@
+Title: Rental 11234
+
+----
+
+Rental-id: 11234
+
+----
+
+Rental-date: 2005-08-02 13:12:17
+
+----
+
+Return-date: 2005-08-05 17:37:17
+
+----
+
+Inventory: page://dK3MMBGZOb9LFnJV
+
+----
+
+Customer: page://7WkfUKxy0GqFjI0B
+
+----
+
+Uuid: 2K2ewCfF84go7kI6

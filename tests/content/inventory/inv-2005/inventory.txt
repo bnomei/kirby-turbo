@@ -1,0 +1,17 @@
+Title: Inv 2005
+
+----
+
+Inventory-id: 2005
+
+----
+
+Film: page://E7QUwUT5dMIom8aL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Pe1JqfPUBdCDMte9

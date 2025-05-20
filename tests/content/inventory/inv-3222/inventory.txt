@@ -1,0 +1,17 @@
+Title: Inv 3222
+
+----
+
+Inventory-id: 3222
+
+----
+
+Film: page://i6nK30OBgHya9YTK
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: tapUqCZan2BkqVgA

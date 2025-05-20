@@ -1,0 +1,17 @@
+Title: Inv 3633
+
+----
+
+Inventory-id: 3633
+
+----
+
+Film: page://XyKV84TkaZ4rRkps
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: rilqvqgk03Ae2PHY

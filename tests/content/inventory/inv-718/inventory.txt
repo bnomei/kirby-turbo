@@ -1,0 +1,17 @@
+Title: Inv 718
+
+----
+
+Inventory-id: 718
+
+----
+
+Film: page://VmZM1BKcaPN8hbfP
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: F6mhPS3cFLUAzDXC

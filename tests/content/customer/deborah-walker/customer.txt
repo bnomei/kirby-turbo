@@ -1,0 +1,33 @@
+Title: DEBORAH WALKER
+
+----
+
+Customer-id: 25
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: DEBORAH
+
+----
+
+Last-name: WALKER
+
+----
+
+Email: DEBORAH.WALKER@sakilacustomer.org
+
+----
+
+Address: page://glxZGvcQ0dydhZ0c
+
+----
+
+Active: 1
+
+----
+
+Uuid: UPEEX9gIWkqOHeie

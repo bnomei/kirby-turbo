@@ -1,0 +1,25 @@
+Title: Rental 4812
+
+----
+
+Rental-id: 4812
+
+----
+
+Rental-date: 2005-07-08 17:07:11
+
+----
+
+Return-date: 2005-07-17 21:03:11
+
+----
+
+Inventory: page://iy1YtHCares8C4NC
+
+----
+
+Uuid: HytUQ2ShHLSMv8tU
+
+----
+
+Customer: page://MpSgiAIrJd9YlrCV

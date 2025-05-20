@@ -1,0 +1,25 @@
+Title: Rental 377
+
+----
+
+Rental-id: 377
+
+----
+
+Rental-date: 2005-05-27 09:04:05
+
+----
+
+Return-date: 2005-06-02 03:36:05
+
+----
+
+Inventory: page://NSrnGCT6Fic33MGM
+
+----
+
+Uuid: fz7WrFENf7y0oDy5
+
+----
+
+Customer: page://rLSUHhRJgJCY5Nmr

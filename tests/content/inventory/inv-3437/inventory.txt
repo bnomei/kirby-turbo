@@ -1,0 +1,17 @@
+Title: Inv 3437
+
+----
+
+Inventory-id: 3437
+
+----
+
+Film: page://qWX4AUrS1elOCyrn
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 7jgrF9c5dnalVozj

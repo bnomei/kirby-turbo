@@ -1,0 +1,25 @@
+Title: Rental 3347
+
+----
+
+Rental-id: 3347
+
+----
+
+Rental-date: 2005-06-21 11:08:32
+
+----
+
+Return-date: 2005-06-28 09:59:32
+
+----
+
+Inventory: page://Dl399vOfSANQ5Akv
+
+----
+
+Uuid: cAl7K6kCSWqDdJG1
+
+----
+
+Customer: page://J2P0f5RgZsLYfwfF

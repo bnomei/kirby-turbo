@@ -1,0 +1,33 @@
+Title: JACK FOUST
+
+----
+
+Customer-id: 351
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JACK
+
+----
+
+Last-name: FOUST
+
+----
+
+Email: JACK.FOUST@sakilacustomer.org
+
+----
+
+Address: page://RqEKiklz17ZbgUlX
+
+----
+
+Active: 1
+
+----
+
+Uuid: UaSNpTp6KioYmoei

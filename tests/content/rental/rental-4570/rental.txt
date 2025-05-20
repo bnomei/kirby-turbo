@@ -1,0 +1,25 @@
+Title: Rental 4570
+
+----
+
+Rental-id: 4570
+
+----
+
+Rental-date: 2005-07-08 05:33:59
+
+----
+
+Return-date: 2005-07-14 09:27:59
+
+----
+
+Inventory: page://2UrnGz7uOCQzOL6X
+
+----
+
+Uuid: yClO9KxIGaGu36cT
+
+----
+
+Customer: page://6OY6sKjbR1uPXwOW

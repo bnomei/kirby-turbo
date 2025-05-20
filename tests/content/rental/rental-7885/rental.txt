@@ -1,0 +1,25 @@
+Title: Rental 7885
+
+----
+
+Rental-id: 7885
+
+----
+
+Rental-date: 2005-07-28 10:37:41
+
+----
+
+Return-date: 2005-08-05 07:56:41
+
+----
+
+Inventory: page://EGX1AfRcEkDyOr7g
+
+----
+
+Customer: page://rCrCpCNcHKJui2E7
+
+----
+
+Uuid: e2lT63IfBETDE359

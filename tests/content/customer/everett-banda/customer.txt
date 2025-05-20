@@ -1,0 +1,33 @@
+Title: EVERETT BANDA
+
+----
+
+Customer-id: 559
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: EVERETT
+
+----
+
+Last-name: BANDA
+
+----
+
+Email: EVERETT.BANDA@sakilacustomer.org
+
+----
+
+Address: page://dtsRfQV63VHHmK1i
+
+----
+
+Active: 1
+
+----
+
+Uuid: 6F345WAB76SjN8Dt

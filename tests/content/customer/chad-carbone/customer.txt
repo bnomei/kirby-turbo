@@ -1,0 +1,33 @@
+Title: CHAD CARBONE
+
+----
+
+Customer-id: 419
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CHAD
+
+----
+
+Last-name: CARBONE
+
+----
+
+Email: CHAD.CARBONE@sakilacustomer.org
+
+----
+
+Address: page://AlzKA1K5O9ypa5ke
+
+----
+
+Active: 1
+
+----
+
+Uuid: JOGcO1osu9TF8IEq

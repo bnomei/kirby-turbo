@@ -1,0 +1,25 @@
+Title: Rental 9741
+
+----
+
+Rental-id: 9741
+
+----
+
+Rental-date: 2005-07-31 09:09:22
+
+----
+
+Return-date: 2005-08-07 10:01:22
+
+----
+
+Inventory: page://dnIZXlhBtpOEQj0S
+
+----
+
+Customer: page://ozuA7F23YyJylO9U
+
+----
+
+Uuid: 7J7iyrRkAWQPnmog

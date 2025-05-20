@@ -1,0 +1,25 @@
+Title: Rental 2403
+
+----
+
+Rental-id: 2403
+
+----
+
+Rental-date: 2005-06-18 16:33:22
+
+----
+
+Return-date: 2005-06-23 19:25:22
+
+----
+
+Inventory: page://a1xjXFmPSAA7v47Z
+
+----
+
+Uuid: Hw3X3LJuptAF2zLQ
+
+----
+
+Customer: page://lw8mwYqihkZrAQDL

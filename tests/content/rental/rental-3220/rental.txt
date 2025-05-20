@@ -1,0 +1,25 @@
+Title: Rental 3220
+
+----
+
+Rental-id: 3220
+
+----
+
+Rental-date: 2005-06-21 01:46:25
+
+----
+
+Return-date: 2005-06-26 07:44:25
+
+----
+
+Inventory: page://e4kDDV9MVFWp3nmF
+
+----
+
+Uuid: AlhBMmiwySGZ3Y5D
+
+----
+
+Customer: page://ezKQFYnXPCOgLSXF

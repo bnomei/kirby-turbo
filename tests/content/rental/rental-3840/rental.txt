@@ -1,0 +1,25 @@
+Title: Rental 3840
+
+----
+
+Rental-id: 3840
+
+----
+
+Rental-date: 2005-07-06 16:30:59
+
+----
+
+Return-date: 2005-07-15 22:08:59
+
+----
+
+Inventory: page://N7LIEmBYHTUf9NkC
+
+----
+
+Uuid: lFAN27xpFS0M3EkN
+
+----
+
+Customer: page://tS8tZAomHzcsij8a

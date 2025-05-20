@@ -1,0 +1,17 @@
+Title: Inv 4381
+
+----
+
+Inventory-id: 4381
+
+----
+
+Film: page://dpXNgRLgOgqSjTHd
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: JQzcOZzkbev2pAQ0

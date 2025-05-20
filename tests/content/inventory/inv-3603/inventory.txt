@@ -1,0 +1,17 @@
+Title: Inv 3603
+
+----
+
+Inventory-id: 3603
+
+----
+
+Film: page://Tq8Lml2BrDEFFog2
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 9cL5SRA6SvlXqTPF

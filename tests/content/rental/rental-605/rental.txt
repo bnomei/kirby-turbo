@@ -1,0 +1,25 @@
+Title: Rental 605
+
+----
+
+Rental-id: 605
+
+----
+
+Rental-date: 2005-05-28 14:39:10
+
+----
+
+Return-date: 2005-06-01 09:28:10
+
+----
+
+Inventory: page://mc4Qhhkt4FPtQNda
+
+----
+
+Uuid: snLb1QP1h4MV8t1M
+
+----
+
+Customer: page://AebunhQoABksvBV9

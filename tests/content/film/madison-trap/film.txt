@@ -1,0 +1,43 @@
+Title: MADISON TRAP
+
+----
+
+Actors:
+
+- 'page://jG0aUFRzU1eFlO8R'
+- 'page://nkFKurUJ9w7y8omW'
+- 'page://xfLW2h8D6Ci3k3ux'
+- 'page://zrJrW5pbY6A6t722'
+- 'page://DwMOxcgjVYPNg15d'
+
+----
+
+Film-id: 544
+
+----
+
+Description: A Awe-Inspiring Reflection of a Monkey And a Dentist who must Overcome a Pioneer in A U-Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 147
+
+----
+
+Rating: R
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: ywuwgRqvz1XsB8wG
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

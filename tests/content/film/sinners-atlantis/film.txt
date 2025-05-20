@@ -1,0 +1,42 @@
+Title: SINNERS ATLANTIS
+
+----
+
+Actors:
+
+- 'page://H5yhLtWBsWi35xuK'
+- 'page://2VTI7EzGP0O1IYVh'
+- 'page://r5vfuwK7SifeGhUs'
+- 'page://1lkqFZByE2squnG7'
+
+----
+
+Film-id: 800
+
+----
+
+Description: A Epic Display of a Dog And a Boat who must Succumb a Mad Scientist in An Abandoned Mine Shaft
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 126
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: VfePIjEhPcDkrGU8
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

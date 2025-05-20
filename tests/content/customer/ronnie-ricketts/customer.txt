@@ -1,0 +1,33 @@
+Title: RONNIE RICKETTS
+
+----
+
+Customer-id: 456
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: RONNIE
+
+----
+
+Last-name: RICKETTS
+
+----
+
+Email: RONNIE.RICKETTS@sakilacustomer.org
+
+----
+
+Address: page://nyl5AqRAD6QgU9TR
+
+----
+
+Active: 1
+
+----
+
+Uuid: Oh34G1trTvpJM2Q0

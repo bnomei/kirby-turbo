@@ -1,0 +1,25 @@
+Title: Rental 4911
+
+----
+
+Rental-id: 4911
+
+----
+
+Rental-date: 2005-07-08 21:20:26
+
+----
+
+Return-date: 2005-07-15 03:11:26
+
+----
+
+Inventory: page://vqFjBrZAow8zvLSZ
+
+----
+
+Uuid: LunPVHohC7taVxSw
+
+----
+
+Customer: page://rtPPzvWhh7zAFt5a

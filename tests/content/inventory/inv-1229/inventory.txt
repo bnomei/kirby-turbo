@@ -1,0 +1,17 @@
+Title: Inv 1229
+
+----
+
+Inventory-id: 1229
+
+----
+
+Film: page://T3OGl7NzyBDVhv7h
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 5ow0wZqJimJd0SVj

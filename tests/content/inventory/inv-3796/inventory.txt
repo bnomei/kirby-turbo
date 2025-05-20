@@ -1,0 +1,17 @@
+Title: Inv 3796
+
+----
+
+Inventory-id: 3796
+
+----
+
+Film: page://I5vJzIp238MGKUOB
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 9koHb34pnu0fVaRn

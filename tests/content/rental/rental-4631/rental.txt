@@ -1,0 +1,25 @@
+Title: Rental 4631
+
+----
+
+Rental-id: 4631
+
+----
+
+Rental-date: 2005-07-08 08:38:22
+
+----
+
+Return-date: 2005-07-11 03:33:22
+
+----
+
+Inventory: page://Z9PWOTWlFFegrzYC
+
+----
+
+Uuid: tONZM4bM4UfUWgzP
+
+----
+
+Customer: page://C4bxh4ih8ABx3B30

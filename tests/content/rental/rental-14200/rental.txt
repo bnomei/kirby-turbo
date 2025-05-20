@@ -1,0 +1,25 @@
+Title: Rental 14200
+
+----
+
+Rental-id: 14200
+
+----
+
+Rental-date: 2005-08-21 03:51:27
+
+----
+
+Return-date: 2005-08-29 22:00:27
+
+----
+
+Inventory: page://JR8Np6gPIhneSuQn
+
+----
+
+Customer: page://Gi5FRT3pzixrT86D
+
+----
+
+Uuid: sGjgvmCP5acnFKVj

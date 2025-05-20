@@ -1,0 +1,25 @@
+Title: Rental 4464
+
+----
+
+Rental-id: 4464
+
+----
+
+Rental-date: 2005-07-08 00:07:18
+
+----
+
+Return-date: 2005-07-08 22:14:18
+
+----
+
+Inventory: page://PomkuMr08Qv3Lwn9
+
+----
+
+Uuid: cvQAz9qnbI8sJn78
+
+----
+
+Customer: page://pjmWpRpQ5NINevq0

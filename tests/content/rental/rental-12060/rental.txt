@@ -1,0 +1,25 @@
+Title: Rental 12060
+
+----
+
+Rental-id: 12060
+
+----
+
+Rental-date: 2005-08-17 21:11:57
+
+----
+
+Return-date: 2005-08-21 01:42:57
+
+----
+
+Inventory: page://T7la4MbNIyQraSkD
+
+----
+
+Customer: page://JwCLM6Oie6KS9Hma
+
+----
+
+Uuid: QYvToePuhAYI7ANM

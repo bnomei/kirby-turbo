@@ -1,0 +1,17 @@
+Title: Inv 638
+
+----
+
+Inventory-id: 638
+
+----
+
+Film: page://RnXvDXjVgDu2H8ng
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: R70swzI40D3OY0o0

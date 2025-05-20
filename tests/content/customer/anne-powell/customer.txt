@@ -1,0 +1,33 @@
+Title: ANNE POWELL
+
+----
+
+Customer-id: 85
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ANNE
+
+----
+
+Last-name: POWELL
+
+----
+
+Email: ANNE.POWELL@sakilacustomer.org
+
+----
+
+Address: page://Qjp4x1OoONiKA5DV
+
+----
+
+Active: 1
+
+----
+
+Uuid: 31oQldQUu6n6nMkk

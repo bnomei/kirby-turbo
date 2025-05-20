@@ -1,0 +1,43 @@
+Title: DOUBTFIRE LABYRINTH
+
+----
+
+Actors:
+
+- 'page://T2A5mLQSqhcfEEMm'
+- 'page://6LG8mbCuu1aKuRcl'
+- 'page://dRscV8wJJ6wok0jq'
+- 'page://QXMalcumIlXeK8Z2'
+- 'page://xXgVj4FQPZ59wjBk'
+
+----
+
+Film-id: 246
+
+----
+
+Description: A Intrepid Panorama of a Butler And a Composer who must Meet a Mad Cow in The Sahara Desert
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 154
+
+----
+
+Rating: R
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: wBv9cUE8fywWMbfq
+
+----
+
+Categories: - 'page://1zSlwtq2IyzVh9Hs'

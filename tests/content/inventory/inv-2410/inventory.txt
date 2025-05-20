@@ -1,0 +1,17 @@
+Title: Inv 2410
+
+----
+
+Inventory-id: 2410
+
+----
+
+Film: page://x5HL2MOSU2AnxXms
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 2fob43gLE5vS4foK

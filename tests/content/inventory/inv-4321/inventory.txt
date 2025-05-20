@@ -1,0 +1,17 @@
+Title: Inv 4321
+
+----
+
+Inventory-id: 4321
+
+----
+
+Film: page://dyZxxsuprh3PBLXD
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: PJnSyXrflyB2lfXV

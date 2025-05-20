@@ -1,0 +1,25 @@
+Title: Rental 1989
+
+----
+
+Rental-id: 1989
+
+----
+
+Rental-date: 2005-06-17 10:47:24
+
+----
+
+Return-date: 2005-06-19 05:12:24
+
+----
+
+Inventory: page://4uwrZyQ5JmAJ54r6
+
+----
+
+Uuid: CxMDJcrhFIVL9yoK
+
+----
+
+Customer: page://G5MahFW7vTJhSf6a

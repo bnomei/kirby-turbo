@@ -1,0 +1,25 @@
+Title: Rental 3107
+
+----
+
+Rental-id: 3107
+
+----
+
+Rental-date: 2005-06-20 17:26:05
+
+----
+
+Return-date: 2005-06-25 12:36:05
+
+----
+
+Inventory: page://N0YGExqz9VfAAJMW
+
+----
+
+Uuid: Nu0NQo8oGxNaeRcm
+
+----
+
+Customer: page://bevxYrHtglALAL6m

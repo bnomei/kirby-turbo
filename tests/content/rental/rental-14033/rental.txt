@@ -1,0 +1,25 @@
+Title: Rental 14033
+
+----
+
+Rental-id: 14033
+
+----
+
+Rental-date: 2005-08-20 21:30:53
+
+----
+
+Return-date: 2005-08-23 01:45:53
+
+----
+
+Inventory: page://xo9CevQLE3nmrHqd
+
+----
+
+Customer: page://ljcTXDJkVE3hnapx
+
+----
+
+Uuid: tuON3BcjXXTGQI1y

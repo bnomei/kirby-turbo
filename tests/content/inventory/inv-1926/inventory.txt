@@ -1,0 +1,17 @@
+Title: Inv 1926
+
+----
+
+Inventory-id: 1926
+
+----
+
+Film: page://843vIja6ZhhXNEBy
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: jB9vPLjkwl9qg4wq

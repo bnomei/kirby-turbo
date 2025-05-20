@@ -1,0 +1,25 @@
+Title: Rental 8602
+
+----
+
+Rental-id: 8602
+
+----
+
+Rental-date: 2005-07-29 13:04:27
+
+----
+
+Return-date: 2005-08-03 12:21:27
+
+----
+
+Inventory: page://fgAfCSykPhaVIBXm
+
+----
+
+Customer: page://3MFUDX6nFKFz0caB
+
+----
+
+Uuid: UZtNciAlxboB2m9r

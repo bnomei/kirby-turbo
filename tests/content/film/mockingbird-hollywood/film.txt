@@ -1,0 +1,41 @@
+Title: MOCKINGBIRD HOLLYWOOD
+
+----
+
+Actors:
+
+- 'page://oEbdYNCKFrP9NVLv'
+- 'page://kIGWs86teYEK5yIM'
+- 'page://KV54RGx9NMbLtwi4'
+
+----
+
+Film-id: 586
+
+----
+
+Description: A Thoughtful Panorama of a Man And a Car who must Sink a Composer in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 60
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: 5g6zKOX9LThAZKIY
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

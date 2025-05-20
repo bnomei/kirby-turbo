@@ -1,0 +1,25 @@
+Title: Rental 8860
+
+----
+
+Rental-id: 8860
+
+----
+
+Rental-date: 2005-07-29 23:45:57
+
+----
+
+Return-date: 2005-08-06 02:14:57
+
+----
+
+Inventory: page://tA5vLxoAMeuodoBj
+
+----
+
+Customer: page://08U0IJiadz0U6o7j
+
+----
+
+Uuid: DYzNOEIOmpnQPnnw

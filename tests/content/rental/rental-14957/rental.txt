@@ -1,0 +1,25 @@
+Title: Rental 14957
+
+----
+
+Rental-id: 14957
+
+----
+
+Rental-date: 2005-08-22 06:29:34
+
+----
+
+Return-date: 2005-08-26 04:52:34
+
+----
+
+Inventory: page://kLZ8K0A6q4FADFXv
+
+----
+
+Customer: page://Br6nNDFY9PURatbb
+
+----
+
+Uuid: sonyITchaB7GRrau

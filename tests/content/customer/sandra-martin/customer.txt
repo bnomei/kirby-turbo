@@ -1,0 +1,33 @@
+Title: SANDRA MARTIN
+
+----
+
+Customer-id: 16
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: SANDRA
+
+----
+
+Last-name: MARTIN
+
+----
+
+Email: SANDRA.MARTIN@sakilacustomer.org
+
+----
+
+Address: page://f6OkRtfOLsQsXKy8
+
+----
+
+Active: 0
+
+----
+
+Uuid: ZOdnteCiIgjV8qei

@@ -1,0 +1,17 @@
+Title: Inv 2205
+
+----
+
+Inventory-id: 2205
+
+----
+
+Film: page://Mpmv00JSvcA8JsSD
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: NhvKUwsn7Fg86vjZ

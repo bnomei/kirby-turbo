@@ -1,0 +1,17 @@
+Title: Inv 4543
+
+----
+
+Inventory-id: 4543
+
+----
+
+Film: page://agTVEuggZySkD3Np
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: EOggcT5zhM25r42z

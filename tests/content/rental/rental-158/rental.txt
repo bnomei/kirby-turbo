@@ -1,0 +1,25 @@
+Title: Rental 158
+
+----
+
+Rental-id: 158
+
+----
+
+Rental-date: 2005-05-26 01:27:11
+
+----
+
+Return-date: 2005-06-03 00:30:11
+
+----
+
+Inventory: page://IbThmBd51yCgEfTz
+
+----
+
+Uuid: GE64idkHsXXS6cvz
+
+----
+
+Customer: page://hZOnCp7oVBUSijBw

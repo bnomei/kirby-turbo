@@ -1,0 +1,25 @@
+Title: Rental 15276
+
+----
+
+Rental-id: 15276
+
+----
+
+Rental-date: 2005-08-22 18:59:01
+
+----
+
+Return-date: 2005-08-23 19:49:01
+
+----
+
+Inventory: page://9qAYIxPH9CQ5A7pn
+
+----
+
+Customer: page://Sok572NVAWg9Kowo
+
+----
+
+Uuid: ZxJ7ytYmBg5i5Jow

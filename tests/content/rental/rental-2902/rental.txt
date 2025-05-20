@@ -1,0 +1,25 @@
+Title: Rental 2902
+
+----
+
+Rental-id: 2902
+
+----
+
+Rental-date: 2005-06-20 02:45:35
+
+----
+
+Return-date: 2005-06-26 07:51:35
+
+----
+
+Inventory: page://5ETzqkyJ2YM7Tb2u
+
+----
+
+Uuid: ADqVPoXvcoNHDavn
+
+----
+
+Customer: page://MpSgiAIrJd9YlrCV

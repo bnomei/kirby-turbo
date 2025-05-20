@@ -1,0 +1,42 @@
+Title: ORIENT CLOSER
+
+----
+
+Actors:
+
+- 'page://5ruVLAhmJBWUKPci'
+- 'page://u0N0ozPCYMgg4oo9'
+- 'page://6jpBKUOTpGMSQxJe'
+- 'page://rTdvG0vGkNN8iJpQ'
+
+----
+
+Film-id: 643
+
+----
+
+Description: A Astounding Epistle of a Technical Writer And a Teacher who must Fight a Squirrel in The Sahara Desert
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 118
+
+----
+
+Rating: R
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: vhkErafCh9Wb0AlE
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

@@ -1,0 +1,44 @@
+Title: DALMATIONS SWEDEN
+
+----
+
+Actors:
+
+- 'page://Tc5O2MboD06L5UFn'
+- 'page://I2QUzWEQkTiY7Ba5'
+- 'page://JA85uxdb8uiPNO2i'
+- 'page://twoON2iToIZq1akt'
+- 'page://DJVklNozM1l2RK0x'
+- 'page://X3dUYAbt0AiREsIH'
+
+----
+
+Film-id: 204
+
+----
+
+Description: A Emotional Epistle of a Moose And a Hunter who must Overcome a Robot in A Manhattan Penthouse
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 106
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: hA8gBsJZ3UKwY7vG
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

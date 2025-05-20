@@ -1,0 +1,17 @@
+Title: Inv 3233
+
+----
+
+Inventory-id: 3233
+
+----
+
+Film: page://ZL9HkYxNYQdRpf1u
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: cC5F8TksEGWc472V

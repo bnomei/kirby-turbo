@@ -1,0 +1,25 @@
+Title: Rental 5044
+
+----
+
+Rental-id: 5044
+
+----
+
+Rental-date: 2005-07-09 03:30:25
+
+----
+
+Return-date: 2005-07-11 02:32:25
+
+----
+
+Inventory: page://hRDMDY9m7u9bttQz
+
+----
+
+Uuid: jEzpM8PVW0R3ucbp
+
+----
+
+Customer: page://cT1ATboviBoOP1VF

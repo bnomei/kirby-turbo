@@ -1,0 +1,25 @@
+Title: Rental 10807
+
+----
+
+Rental-id: 10807
+
+----
+
+Rental-date: 2005-08-01 22:26:10
+
+----
+
+Return-date: 2005-08-05 21:55:10
+
+----
+
+Inventory: page://bJtwCQn72x3yCXx7
+
+----
+
+Customer: page://LhqM4KCNZrbdEpfZ
+
+----
+
+Uuid: DNtQmZXX1DvoONBC

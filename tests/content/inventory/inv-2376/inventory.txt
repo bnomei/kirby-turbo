@@ -1,0 +1,17 @@
+Title: Inv 2376
+
+----
+
+Inventory-id: 2376
+
+----
+
+Film: page://N4NNF3HujpJLGGlK
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: VK3VJ18FazLOrxFy

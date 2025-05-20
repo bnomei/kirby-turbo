@@ -1,0 +1,17 @@
+Title: Inv 1621
+
+----
+
+Inventory-id: 1621
+
+----
+
+Film: page://I0EZve9Oa0NkqSpD
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: BL0ul67MJejsKtma

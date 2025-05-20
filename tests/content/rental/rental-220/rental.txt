@@ -1,0 +1,25 @@
+Title: Rental 220
+
+----
+
+Rental-id: 220
+
+----
+
+Rental-date: 2005-05-26 10:06:49
+
+----
+
+Return-date: 2005-06-01 07:43:49
+
+----
+
+Inventory: page://bzX0MLAwJnFOq9PF
+
+----
+
+Uuid: R7wW15eZ3PU65eMe
+
+----
+
+Customer: page://RUBCfMYZJlQfdGdQ

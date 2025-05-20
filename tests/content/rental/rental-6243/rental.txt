@@ -1,0 +1,25 @@
+Title: Rental 6243
+
+----
+
+Rental-id: 6243
+
+----
+
+Rental-date: 2005-07-11 14:53:25
+
+----
+
+Return-date: 2005-07-15 09:26:25
+
+----
+
+Inventory: page://P0hkIvrw4Sou8UdZ
+
+----
+
+Uuid: ORJgScrsS3tyQBbc
+
+----
+
+Customer: page://M0U3K1RrRahNRLAP

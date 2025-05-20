@@ -1,0 +1,25 @@
+Title: Rental 11976
+
+----
+
+Rental-id: 11976
+
+----
+
+Rental-date: 2005-08-17 17:59:19
+
+----
+
+Return-date: 2005-08-23 14:51:19
+
+----
+
+Inventory: page://zWtg8ec4MSBIbG6z
+
+----
+
+Customer: page://rpWI4a1QTMW5t3NZ
+
+----
+
+Uuid: 2wdNUOzo0yHfUms7

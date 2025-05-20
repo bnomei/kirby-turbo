@@ -1,0 +1,17 @@
+Title: Inv 532
+
+----
+
+Inventory-id: 532
+
+----
+
+Film: page://c5GOatnlFKpH3g65
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: cyWbYGrn9JLEUYmS

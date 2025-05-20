@@ -1,0 +1,25 @@
+Title: Rental 115
+
+----
+
+Rental-id: 115
+
+----
+
+Rental-date: 2005-05-25 19:13:25
+
+----
+
+Return-date: 2005-05-29 20:17:25
+
+----
+
+Inventory: page://xGrgtYMAHP6zoymv
+
+----
+
+Uuid: i7cyNnJJyyms5xxz
+
+----
+
+Customer: page://yZByBc3rF7VvRjSr

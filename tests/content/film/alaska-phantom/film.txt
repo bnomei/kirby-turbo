@@ -1,0 +1,45 @@
+Title: ALASKA PHANTOM
+
+----
+
+Actors:
+
+- 'page://JA85uxdb8uiPNO2i'
+- 'page://GA1ldK0BGihIEfd4'
+- 'page://if8hfrmRoIODgwSa'
+- 'page://75IrF5RezCSzGKrx'
+- 'page://0h8tQJYts8gmFWwG'
+- 'page://lltihsMvjhDqCGFK'
+- 'page://jSbKN9X4MDWI1G5U'
+
+----
+
+Film-id: 12
+
+----
+
+Description: A Fanciful Saga of a Hunter And a Pastry Chef who must Vanquish a Boy in Australia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 136
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: jE6CrKYWQPK6P0VI
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

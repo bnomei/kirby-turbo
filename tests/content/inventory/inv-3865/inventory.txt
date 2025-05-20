@@ -1,0 +1,17 @@
+Title: Inv 3865
+
+----
+
+Inventory-id: 3865
+
+----
+
+Film: page://trBfVok5w8tQjZwd
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 7hPCYu8FEQl2yJi3

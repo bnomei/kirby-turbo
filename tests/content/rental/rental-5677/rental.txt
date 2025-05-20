@@ -1,0 +1,25 @@
+Title: Rental 5677
+
+----
+
+Rental-id: 5677
+
+----
+
+Rental-date: 2005-07-10 08:41:28
+
+----
+
+Return-date: 2005-07-12 09:05:28
+
+----
+
+Inventory: page://tN5jEEieUpuOPZtY
+
+----
+
+Uuid: LW67NpmSLh60BWQf
+
+----
+
+Customer: page://Pif8NPYHuv0Na4Zs

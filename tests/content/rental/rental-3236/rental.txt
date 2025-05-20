@@ -1,0 +1,25 @@
+Title: Rental 3236
+
+----
+
+Rental-id: 3236
+
+----
+
+Rental-date: 2005-06-21 02:47:43
+
+----
+
+Return-date: 2005-06-29 08:04:43
+
+----
+
+Inventory: page://4FvUZybSmgchH33p
+
+----
+
+Uuid: Nz8Qz17rLAGIjpHv
+
+----
+
+Customer: page://x8Y8aJxOEpTBihF2

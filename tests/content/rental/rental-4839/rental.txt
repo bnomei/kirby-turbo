@@ -1,0 +1,25 @@
+Title: Rental 4839
+
+----
+
+Rental-id: 4839
+
+----
+
+Rental-date: 2005-07-08 18:13:10
+
+----
+
+Return-date: 2005-07-15 12:49:10
+
+----
+
+Inventory: page://01VsVMQXLX3jNPsy
+
+----
+
+Uuid: ChNKnJNQGIcfudBs
+
+----
+
+Customer: page://jvfTUTQTIh7rD2Pp

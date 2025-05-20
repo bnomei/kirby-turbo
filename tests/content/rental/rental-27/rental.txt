@@ -1,0 +1,25 @@
+Title: Rental 27
+
+----
+
+Rental-id: 27
+
+----
+
+Rental-date: 2005-05-25 03:41:50
+
+----
+
+Return-date: 2005-05-30 01:13:50
+
+----
+
+Inventory: page://JlY91niCvZsC6XbK
+
+----
+
+Uuid: POSPx4Czik0CI7QJ
+
+----
+
+Customer: page://d4uyJxb6OPu5hZso

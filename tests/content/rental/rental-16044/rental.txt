@@ -1,0 +1,25 @@
+Title: Rental 16044
+
+----
+
+Rental-id: 16044
+
+----
+
+Rental-date: 2005-08-23 22:24:39
+
+----
+
+Return-date: 2005-08-25 04:08:39
+
+----
+
+Inventory: page://QML0Oy51ZzK4dkmt
+
+----
+
+Customer: page://tS8tZAomHzcsij8a
+
+----
+
+Uuid: PAGkMI74qEgJHpl8

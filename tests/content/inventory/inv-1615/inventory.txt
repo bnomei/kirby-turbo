@@ -1,0 +1,17 @@
+Title: Inv 1615
+
+----
+
+Inventory-id: 1615
+
+----
+
+Film: page://ytugxH0cLSUbdLx9
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: kdV1kgavlmq4d3wl

@@ -1,0 +1,17 @@
+Title: Inv 2757
+
+----
+
+Inventory-id: 2757
+
+----
+
+Film: page://SLyePdrenwqQTvQq
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: HILm6WBYJxbxb6BW

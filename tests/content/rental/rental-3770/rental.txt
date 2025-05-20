@@ -1,0 +1,25 @@
+Title: Rental 3770
+
+----
+
+Rental-id: 3770
+
+----
+
+Rental-date: 2005-07-06 13:14:28
+
+----
+
+Return-date: 2005-07-13 09:23:28
+
+----
+
+Inventory: page://DGfvXRfjadqjPtcy
+
+----
+
+Uuid: p4nxLVt3fWNTgrNq
+
+----
+
+Customer: page://RoYFWCky1f4iZ5Q3

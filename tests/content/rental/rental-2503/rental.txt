@@ -1,0 +1,25 @@
+Title: Rental 2503
+
+----
+
+Rental-id: 2503
+
+----
+
+Rental-date: 2005-06-18 23:17:19
+
+----
+
+Return-date: 2005-06-23 03:57:19
+
+----
+
+Inventory: page://a1iPdadZTMiLeyLs
+
+----
+
+Uuid: 9TbMWh0AmsnnnekZ
+
+----
+
+Customer: page://8I9W8oDFPxssbhIJ

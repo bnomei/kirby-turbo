@@ -1,0 +1,25 @@
+Title: Rental 3130
+
+----
+
+Rental-id: 3130
+
+----
+
+Rental-date: 2005-06-20 19:03:22
+
+----
+
+Return-date: 2005-06-29 18:05:22
+
+----
+
+Inventory: page://XZsdX9Pztzeg9ULi
+
+----
+
+Uuid: 6eZ1WssFKCovDOOD
+
+----
+
+Customer: page://AaZEhsrTACZoHuzm

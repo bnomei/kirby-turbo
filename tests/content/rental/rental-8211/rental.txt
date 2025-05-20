@@ -1,0 +1,25 @@
+Title: Rental 8211
+
+----
+
+Rental-id: 8211
+
+----
+
+Rental-date: 2005-07-28 23:34:22
+
+----
+
+Return-date: 2005-08-04 21:18:22
+
+----
+
+Inventory: page://JPTk74Hq0NkeZSWf
+
+----
+
+Customer: page://Ndg2gok9kt3kezoh
+
+----
+
+Uuid: Z3khi3Ahyth43D4E

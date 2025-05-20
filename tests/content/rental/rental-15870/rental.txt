@@ -1,0 +1,25 @@
+Title: Rental 15870
+
+----
+
+Rental-id: 15870
+
+----
+
+Rental-date: 2005-08-23 16:23:08
+
+----
+
+Return-date: 2005-08-28 20:30:08
+
+----
+
+Inventory: page://G8lWORxILNSK68z4
+
+----
+
+Customer: page://cRRGmCnzUGugZdVF
+
+----
+
+Uuid: FhVTTfjC322Qp7Ne

@@ -1,0 +1,17 @@
+Title: Inv 2353
+
+----
+
+Inventory-id: 2353
+
+----
+
+Film: page://p2Ruaq8LmbhZrrQU
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 6wG5qCEIBLrvv4nx

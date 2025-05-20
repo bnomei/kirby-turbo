@@ -1,0 +1,17 @@
+Title: Inv 1496
+
+----
+
+Inventory-id: 1496
+
+----
+
+Film: page://WkFtjN74u9SLKViC
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: RpG6Tf8IO141QOA5

@@ -1,0 +1,43 @@
+Title: ANACONDA CONFESSIONS
+
+----
+
+Actors:
+
+- 'page://NhPOWxCYnyDlMqLk'
+- 'page://lzPNV2QlqjXMSB7U'
+- 'page://RdNo3TYVhV9JmDu6'
+- 'page://uyiPyWfxhKFdwYKL'
+- 'page://nGhJyQbze3rAAH9v'
+
+----
+
+Film-id: 23
+
+----
+
+Description: A Lacklusture Display of a Dentist And a Dentist who must Fight a Girl in Australia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 92
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: BjgKt2G0fMC3XAhu
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

@@ -1,0 +1,25 @@
+Title: Rental 298
+
+----
+
+Rental-id: 298
+
+----
+
+Rental-date: 2005-05-26 20:52:26
+
+----
+
+Return-date: 2005-05-29 22:08:26
+
+----
+
+Inventory: page://SqelFCcBBeOQcOkI
+
+----
+
+Uuid: k4RI6Q3YlcvLbp1F
+
+----
+
+Customer: page://8rYUMFeo4rjtDGSj

@@ -1,0 +1,17 @@
+Title: Inv 3532
+
+----
+
+Inventory-id: 3532
+
+----
+
+Film: page://n7uW2rvQTttEKsGS
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: EpDSYYfg5TkmpCMO

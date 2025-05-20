@@ -1,0 +1,25 @@
+Title: Rental 11961
+
+----
+
+Rental-id: 11961
+
+----
+
+Rental-date: 2005-08-17 17:28:01
+
+----
+
+Return-date: 2005-08-21 20:43:01
+
+----
+
+Inventory: page://8ig2Bh3GpE6JcOz8
+
+----
+
+Customer: page://ITr0DtQiC8vNX3ax
+
+----
+
+Uuid: 4zOJXIoXEigAEUhB

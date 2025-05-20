@@ -1,0 +1,43 @@
+Title: NORTH TEQUILA
+
+----
+
+Actors:
+
+- 'page://lRnQ2IFMyS6K2hRd'
+- 'page://HMQFYCzd6sL7s9te'
+- 'page://lWEFCFc3fpMkkCVm'
+- 'page://WFF82auh2AgpYPoL'
+- 'page://zYYZnzancmv0SOT5'
+
+----
+
+Film-id: 627
+
+----
+
+Description: A Beautiful Character Study of a Mad Cow And a Robot who must Reach a Womanizer in New Orleans
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 67
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: Tb6G4JMoVBTwHEKW
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

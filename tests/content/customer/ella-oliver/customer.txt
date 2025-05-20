@@ -1,0 +1,33 @@
+Title: ELLA OLIVER
+
+----
+
+Customer-id: 210
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ELLA
+
+----
+
+Last-name: OLIVER
+
+----
+
+Email: ELLA.OLIVER@sakilacustomer.org
+
+----
+
+Address: page://omXsF02nG5EIqxyu
+
+----
+
+Active: 1
+
+----
+
+Uuid: 1WQt30TIXN0K56Ie

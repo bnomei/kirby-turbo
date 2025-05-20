@@ -1,0 +1,25 @@
+Title: Rental 9300
+
+----
+
+Rental-id: 9300
+
+----
+
+Rental-date: 2005-07-30 16:33:12
+
+----
+
+Return-date: 2005-08-05 15:56:12
+
+----
+
+Inventory: page://ET5GsaBWiGCRxrSO
+
+----
+
+Customer: page://NrH2ag1h7sBRKnqA
+
+----
+
+Uuid: vxlf8d0D2I7uLOS5

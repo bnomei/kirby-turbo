@@ -1,0 +1,33 @@
+Title: BRETT CORNWELL
+
+----
+
+Customer-id: 502
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: BRETT
+
+----
+
+Last-name: CORNWELL
+
+----
+
+Email: BRETT.CORNWELL@sakilacustomer.org
+
+----
+
+Address: page://Rs50mHe72GWMTAQI
+
+----
+
+Active: 1
+
+----
+
+Uuid: 9bRTDRu3HEwd7H8l

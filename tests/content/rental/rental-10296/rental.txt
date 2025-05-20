@@ -1,0 +1,25 @@
+Title: Rental 10296
+
+----
+
+Rental-id: 10296
+
+----
+
+Rental-date: 2005-08-01 04:04:37
+
+----
+
+Return-date: 2005-08-01 23:59:37
+
+----
+
+Inventory: page://wawudtz2vguh76ct
+
+----
+
+Customer: page://fh18zcKIesBiok66
+
+----
+
+Uuid: l23tYFsZAJjOU8BD

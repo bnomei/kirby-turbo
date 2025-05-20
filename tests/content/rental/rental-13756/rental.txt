@@ -1,0 +1,21 @@
+Title: Rental 13756
+
+----
+
+Rental-id: 13756
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://mvw4xtQNwskOTeci
+
+----
+
+Customer: page://wnNII2TCsO0AokjP
+
+----
+
+Uuid: FLw7kFP9daulBqEY

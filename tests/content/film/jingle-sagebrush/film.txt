@@ -1,0 +1,40 @@
+Title: JINGLE SAGEBRUSH
+
+----
+
+Actors:
+
+- 'page://eZEz0vHTFLlEKlUs'
+- 'page://V93xbOGPlOsB9ymO'
+
+----
+
+Film-id: 487
+
+----
+
+Description: A Epic Character Study of a Feminist And a Student who must Meet a Woman in A Baloon
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 124
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: 4Zjvyg2ad1nkSByn
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

@@ -1,0 +1,46 @@
+Title: MOTIONS DETAILS
+
+----
+
+Actors:
+
+- 'page://xbVuFnPKikNsqVkK'
+- 'page://RdNo3TYVhV9JmDu6'
+- 'page://xuTGKKs3dxu4jXhx'
+- 'page://eJszhRe2rjIvWjny'
+- 'page://f3T5R3qlMgXii7Oj'
+- 'page://xfLW2h8D6Ci3k3ux'
+- 'page://pokjngmFMjrhDsLQ'
+- 'page://r5vfuwK7SifeGhUs'
+
+----
+
+Film-id: 600
+
+----
+
+Description: A Awe-Inspiring Reflection of a Dog And a Student who must Kill a Car in An Abandoned Fun House
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 166
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: lZPjfMSIExYeKiaQ
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

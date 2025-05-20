@@ -1,0 +1,17 @@
+Title: Inv 3786
+
+----
+
+Inventory-id: 3786
+
+----
+
+Film: page://ZMhLCoZXlzYKInCX
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: FGakGt08SCjCzeMl

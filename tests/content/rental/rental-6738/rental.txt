@@ -1,0 +1,25 @@
+Title: Rental 6738
+
+----
+
+Rental-id: 6738
+
+----
+
+Rental-date: 2005-07-12 14:17:55
+
+----
+
+Return-date: 2005-07-21 10:11:55
+
+----
+
+Inventory: page://ZED1Zsh9g4VZHDp3
+
+----
+
+Uuid: T0iufWBkLj8E5Lug
+
+----
+
+Customer: page://YQtY5BLLYVMlkjV2

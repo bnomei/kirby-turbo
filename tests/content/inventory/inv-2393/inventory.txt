@@ -1,0 +1,17 @@
+Title: Inv 2393
+
+----
+
+Inventory-id: 2393
+
+----
+
+Film: page://SA9UgFYhuldqEWsA
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: D2Zg7krCak8pRFLQ

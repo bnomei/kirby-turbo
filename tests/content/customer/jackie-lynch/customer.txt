@@ -1,0 +1,33 @@
+Title: JACKIE LYNCH
+
+----
+
+Customer-id: 235
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JACKIE
+
+----
+
+Last-name: LYNCH
+
+----
+
+Email: JACKIE.LYNCH@sakilacustomer.org
+
+----
+
+Address: page://RSoEMAwg7vbMjwD5
+
+----
+
+Active: 1
+
+----
+
+Uuid: U0fmtb7mDA7lmArJ

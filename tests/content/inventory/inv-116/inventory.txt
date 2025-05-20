@@ -1,0 +1,17 @@
+Title: Inv 116
+
+----
+
+Inventory-id: 116
+
+----
+
+Film: page://BjgKt2G0fMC3XAhu
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: nCk0scw07Lcn2ji2

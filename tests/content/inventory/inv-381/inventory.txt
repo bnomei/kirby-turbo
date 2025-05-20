@@ -1,0 +1,17 @@
+Title: Inv 381
+
+----
+
+Inventory-id: 381
+
+----
+
+Film: page://XSxeVIKyxD2lROr7
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 54GBlpYGzPnyflxG

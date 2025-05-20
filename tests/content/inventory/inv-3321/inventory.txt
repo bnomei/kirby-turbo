@@ -1,0 +1,17 @@
+Title: Inv 3321
+
+----
+
+Inventory-id: 3321
+
+----
+
+Film: page://6CdKH5MPZuKWNMzd
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 39JGyuKW4iPqaCYL

@@ -1,0 +1,25 @@
+Title: Rental 10806
+
+----
+
+Rental-id: 10806
+
+----
+
+Rental-date: 2005-08-01 22:25:29
+
+----
+
+Return-date: 2005-08-04 18:46:29
+
+----
+
+Inventory: page://CpYIxtioO1RFY8aF
+
+----
+
+Customer: page://62MZSyLkLyVVQ5Cs
+
+----
+
+Uuid: NQDa0VPi83QVh89n

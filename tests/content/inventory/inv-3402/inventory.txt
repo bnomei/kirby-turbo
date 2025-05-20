@@ -1,0 +1,17 @@
+Title: Inv 3402
+
+----
+
+Inventory-id: 3402
+
+----
+
+Film: page://cRgWUGZu2oruoPZV
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: fgHORPWxi4raC5Ng

@@ -1,0 +1,25 @@
+Title: Rental 15006
+
+----
+
+Rental-id: 15006
+
+----
+
+Rental-date: 2005-08-22 08:20:15
+
+----
+
+Return-date: 2005-08-23 11:57:15
+
+----
+
+Inventory: page://xdORbjIaGU69ds7X
+
+----
+
+Customer: page://6haKa35Xyz3iTAFh
+
+----
+
+Uuid: DDBETPBccUZbfwvK

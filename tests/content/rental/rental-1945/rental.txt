@@ -1,0 +1,25 @@
+Title: Rental 1945
+
+----
+
+Rental-id: 1945
+
+----
+
+Rental-date: 2005-06-17 07:51:26
+
+----
+
+Return-date: 2005-06-23 13:22:26
+
+----
+
+Inventory: page://BYTF7qdTVxsfwfw5
+
+----
+
+Uuid: qIZTvHILMGix7KBW
+
+----
+
+Customer: page://wMkYUds0NaSHubNn

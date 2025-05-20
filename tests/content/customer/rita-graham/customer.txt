@@ -1,0 +1,33 @@
+Title: RITA GRAHAM
+
+----
+
+Customer-id: 104
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: RITA
+
+----
+
+Last-name: GRAHAM
+
+----
+
+Email: RITA.GRAHAM@sakilacustomer.org
+
+----
+
+Address: page://tY7Flb001hbXObGu
+
+----
+
+Active: 1
+
+----
+
+Uuid: BnkjNKRbR7N7yyga

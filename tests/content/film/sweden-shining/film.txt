@@ -1,0 +1,43 @@
+Title: SWEDEN SHINING
+
+----
+
+Actors:
+
+- 'page://qd0io4mUKZ4KUkyk'
+- 'page://I2QUzWEQkTiY7Ba5'
+- 'page://9dZ7pytlckFxJvGe'
+- 'page://0h8tQJYts8gmFWwG'
+- 'page://FLMpVB5CVJFKSGVy'
+
+----
+
+Film-id: 871
+
+----
+
+Description: A Taut Documentary of a Car And a Robot who must Conquer a Boy in The Canadian Rockies
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 176
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: vVqAIfsqY30wZlDZ
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

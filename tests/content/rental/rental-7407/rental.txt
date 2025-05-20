@@ -1,0 +1,25 @@
+Title: Rental 7407
+
+----
+
+Rental-id: 7407
+
+----
+
+Rental-date: 2005-07-27 16:29:04
+
+----
+
+Return-date: 2005-08-01 17:47:04
+
+----
+
+Inventory: page://M4L2dhCrwKi9vbQS
+
+----
+
+Customer: page://qq0m1YSvvt7HbeBW
+
+----
+
+Uuid: hVavVa1Axh9Iqv25

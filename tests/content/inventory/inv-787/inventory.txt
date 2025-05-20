@@ -1,0 +1,17 @@
+Title: Inv 787
+
+----
+
+Inventory-id: 787
+
+----
+
+Film: page://wgGSeQQNIgIH75fJ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: xVfrpykj9QTufR6N

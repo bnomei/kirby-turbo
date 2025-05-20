@@ -1,0 +1,13 @@
+Title: Faroe Islands
+
+----
+
+Country-id: 32
+
+----
+
+Country: Faroe Islands
+
+----
+
+Uuid: I9KJo96jGk9LEKUD

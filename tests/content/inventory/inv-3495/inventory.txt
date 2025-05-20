@@ -1,0 +1,17 @@
+Title: Inv 3495
+
+----
+
+Inventory-id: 3495
+
+----
+
+Film: page://VlPZniHiSztz1Eiy
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 5Y2ecAZn3WxOT121

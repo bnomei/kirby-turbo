@@ -1,0 +1,25 @@
+Title: Rental 6580
+
+----
+
+Rental-id: 6580
+
+----
+
+Rental-date: 2005-07-12 06:26:10
+
+----
+
+Return-date: 2005-07-13 06:44:10
+
+----
+
+Inventory: page://79FoakKyTOaK6OBe
+
+----
+
+Uuid: kQc4M6wzNcuepHln
+
+----
+
+Customer: page://l2Jzx2MX7M9qrgyM

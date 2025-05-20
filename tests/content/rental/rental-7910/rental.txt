@@ -1,0 +1,25 @@
+Title: Rental 7910
+
+----
+
+Rental-id: 7910
+
+----
+
+Rental-date: 2005-07-28 11:44:56
+
+----
+
+Return-date: 2005-08-05 14:37:56
+
+----
+
+Inventory: page://I8z8VfpkKe10m9AX
+
+----
+
+Customer: page://VhNFaZVA09U1QRJB
+
+----
+
+Uuid: MlTIxRmNkLNRM91X

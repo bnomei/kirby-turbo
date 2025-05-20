@@ -1,0 +1,25 @@
+Title: Rental 8363
+
+----
+
+Rental-id: 8363
+
+----
+
+Rental-date: 2005-07-29 05:10:08
+
+----
+
+Return-date: 2005-08-06 00:11:08
+
+----
+
+Inventory: page://d9oJJQJ8rfgUyhow
+
+----
+
+Customer: page://EN43JZfYCm84hq5t
+
+----
+
+Uuid: KO2JidAgar2ChxJi

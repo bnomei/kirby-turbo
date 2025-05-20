@@ -1,0 +1,33 @@
+Title: MICHELLE CLARK
+
+----
+
+Customer-id: 21
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MICHELLE
+
+----
+
+Last-name: CLARK
+
+----
+
+Email: MICHELLE.CLARK@sakilacustomer.org
+
+----
+
+Address: page://M0aLZf8E0IEw4k1i
+
+----
+
+Active: 1
+
+----
+
+Uuid: KYkY8aG06K2r16Xn

@@ -1,0 +1,25 @@
+Title: Rental 1325
+
+----
+
+Rental-id: 1325
+
+----
+
+Rental-date: 2005-06-15 11:03:24
+
+----
+
+Return-date: 2005-06-20 10:54:24
+
+----
+
+Inventory: page://qnC37qjyyvBcjMtB
+
+----
+
+Uuid: 3BZmr2cBLXMmNUWN
+
+----
+
+Customer: page://Ndg2gok9kt3kezoh

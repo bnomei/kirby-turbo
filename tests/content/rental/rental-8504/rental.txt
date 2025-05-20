@@ -1,0 +1,25 @@
+Title: Rental 8504
+
+----
+
+Rental-id: 8504
+
+----
+
+Rental-date: 2005-07-29 09:20:16
+
+----
+
+Return-date: 2005-08-07 04:27:16
+
+----
+
+Inventory: page://EFSG4Jw7yTeMAioh
+
+----
+
+Customer: page://xiuePi4NIEUJXUwz
+
+----
+
+Uuid: ep8Or9gOxtsk1Iyf

@@ -1,0 +1,25 @@
+Title: Rental 8423
+
+----
+
+Rental-id: 8423
+
+----
+
+Rental-date: 2005-07-29 07:02:57
+
+----
+
+Return-date: 2005-08-06 04:59:57
+
+----
+
+Inventory: page://hqf2106WBwPWhf7s
+
+----
+
+Customer: page://tS8tZAomHzcsij8a
+
+----
+
+Uuid: JPCtlffShwVmbxEm

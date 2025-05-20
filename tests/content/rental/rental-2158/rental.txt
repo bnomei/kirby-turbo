@@ -1,0 +1,25 @@
+Title: Rental 2158
+
+----
+
+Rental-id: 2158
+
+----
+
+Rental-date: 2005-06-17 23:36:27
+
+----
+
+Return-date: 2005-06-19 19:25:27
+
+----
+
+Inventory: page://JMoSy4vHM8N8JXmI
+
+----
+
+Uuid: iUzrEQohvm3O3t8Q
+
+----
+
+Customer: page://a0kMdWVetvJ1ZDeW

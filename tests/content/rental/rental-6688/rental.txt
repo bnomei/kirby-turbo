@@ -1,0 +1,25 @@
+Title: Rental 6688
+
+----
+
+Rental-id: 6688
+
+----
+
+Rental-date: 2005-07-12 12:22:12
+
+----
+
+Return-date: 2005-07-14 14:05:12
+
+----
+
+Inventory: page://dtX4JLTBCLqsshV0
+
+----
+
+Uuid: UMVV8UtwWVxayc3k
+
+----
+
+Customer: page://SnGdQyKh3vyTvpek

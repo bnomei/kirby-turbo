@@ -1,0 +1,17 @@
+Title: Inv 3247
+
+----
+
+Inventory-id: 3247
+
+----
+
+Film: page://rd4DarJuariNYBST
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: dyEjRIK9h0gKk6Xf

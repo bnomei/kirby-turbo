@@ -1,0 +1,42 @@
+Title: BEVERLY OUTLAW
+
+----
+
+Actors:
+
+- 'page://ikhz1wEjJMz3vCm4'
+- 'page://nkFKurUJ9w7y8omW'
+- 'page://Gz114ojbruPqLOSY'
+- 'page://zDG4LP4a8BGDrQEW'
+
+----
+
+Film-id: 69
+
+----
+
+Description: A Fanciful Documentary of a Womanizer And a Boat who must Defeat a Madman in The First Manned Space Station
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 85
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: FAam9GaXVxjeoyCE
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

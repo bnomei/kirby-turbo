@@ -1,0 +1,25 @@
+Title: Rental 14142
+
+----
+
+Rental-id: 14142
+
+----
+
+Rental-date: 2005-08-21 02:07:43
+
+----
+
+Return-date: 2005-08-23 02:37:43
+
+----
+
+Inventory: page://FcbyKTWS16YcIk4Z
+
+----
+
+Customer: page://T9MMayXBdDHCkZUr
+
+----
+
+Uuid: mpe7tmsrpE6oKeF2

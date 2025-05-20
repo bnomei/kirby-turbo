@@ -1,0 +1,17 @@
+Title: Inv 805
+
+----
+
+Inventory-id: 805
+
+----
+
+Film: page://PYAzRBqaiMQm2DKW
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Oo0tZW2zHM3MDGQz

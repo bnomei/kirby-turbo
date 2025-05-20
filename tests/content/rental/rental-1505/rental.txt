@@ -1,0 +1,25 @@
+Title: Rental 1505
+
+----
+
+Rental-id: 1505
+
+----
+
+Rental-date: 2005-06-15 22:12:50
+
+----
+
+Return-date: 2005-06-17 21:37:50
+
+----
+
+Inventory: page://2SykiZAizWd5qOqT
+
+----
+
+Uuid: b4xvClTaJfn6fWOb
+
+----
+
+Customer: page://xiuePi4NIEUJXUwz

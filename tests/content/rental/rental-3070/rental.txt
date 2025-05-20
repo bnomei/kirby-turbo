@@ -1,0 +1,25 @@
+Title: Rental 3070
+
+----
+
+Rental-id: 3070
+
+----
+
+Rental-date: 2005-06-20 14:15:39
+
+----
+
+Return-date: 2005-06-25 12:52:39
+
+----
+
+Inventory: page://rWkxoDWLJom9MEdS
+
+----
+
+Uuid: 187xa36Tlr9arXHY
+
+----
+
+Customer: page://DmLqAKJqqCmbO2QP

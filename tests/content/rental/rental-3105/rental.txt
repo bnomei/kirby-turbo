@@ -1,0 +1,25 @@
+Title: Rental 3105
+
+----
+
+Rental-id: 3105
+
+----
+
+Rental-date: 2005-06-20 17:11:46
+
+----
+
+Return-date: 2005-06-21 11:48:46
+
+----
+
+Inventory: page://L1rbNKxgbXHUXX3o
+
+----
+
+Uuid: tHTHvx7RwjV9SKcG
+
+----
+
+Customer: page://Touuz3iduKG3abAU

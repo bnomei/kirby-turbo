@@ -1,0 +1,42 @@
+Title: VANISHING ROCKY
+
+----
+
+Actors:
+
+- 'page://K3jNN1L9qHT9bFIC'
+- 'page://fpycclHxIOPEPbuu'
+- 'page://HMQFYCzd6sL7s9te'
+- 'page://C462ZyZJYhtiRgJM'
+
+----
+
+Film-id: 936
+
+----
+
+Description: A Brilliant Reflection of a Man And a Woman who must Conquer a Pioneer in A MySQL Convention
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 123
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: 9cdDMs1GwB0y1Px9
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

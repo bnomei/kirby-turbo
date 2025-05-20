@@ -1,0 +1,17 @@
+Title: Inv 84
+
+----
+
+Inventory-id: 84
+
+----
+
+Film: page://zzl0zHHkjjt6wvGt
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: UYN9Q5EVyNd2ndMs

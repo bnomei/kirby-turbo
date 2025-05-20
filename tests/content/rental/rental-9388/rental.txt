@@ -1,0 +1,25 @@
+Title: Rental 9388
+
+----
+
+Rental-id: 9388
+
+----
+
+Rental-date: 2005-07-30 19:27:22
+
+----
+
+Return-date: 2005-08-08 15:31:22
+
+----
+
+Inventory: page://wn7HPnWiWlQpVykK
+
+----
+
+Customer: page://JF86ERvhL0BUaSoR
+
+----
+
+Uuid: N1UGZ4FGaxRyXZoO

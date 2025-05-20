@@ -1,0 +1,25 @@
+Title: Rental 7528
+
+----
+
+Rental-id: 7528
+
+----
+
+Rental-date: 2005-07-27 21:15:25
+
+----
+
+Return-date: 2005-08-03 19:12:25
+
+----
+
+Inventory: page://ebMfIkj1nkT86ioc
+
+----
+
+Customer: page://SXP8ih15ziLTUonG
+
+----
+
+Uuid: ut5mSHfMvV4oQcfv

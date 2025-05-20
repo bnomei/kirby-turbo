@@ -1,0 +1,25 @@
+Title: Rental 5490
+
+----
+
+Rental-id: 5490
+
+----
+
+Rental-date: 2005-07-10 00:09:11
+
+----
+
+Return-date: 2005-07-14 21:23:11
+
+----
+
+Inventory: page://W5vOkOibiF1JbPm2
+
+----
+
+Uuid: hdjX2LiaA74pDSzw
+
+----
+
+Customer: page://1Uz8TMpklCxhdMmv

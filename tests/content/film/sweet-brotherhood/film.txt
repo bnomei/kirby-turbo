@@ -1,0 +1,44 @@
+Title: SWEET BROTHERHOOD
+
+----
+
+Actors:
+
+- 'page://I440rKCeu4AX6xcF'
+- 'page://KWXiI33RIY2Yllal'
+- 'page://K0t8PMh78EXVZHC5'
+- 'page://hzpjO6QvzfyB1LBD'
+- 'page://CBtLT02Rklp5i11L'
+- 'page://QybR1sXOQQQZIPXG'
+
+----
+
+Film-id: 872
+
+----
+
+Description: A Unbelieveable Epistle of a Sumo Wrestler And a Hunter who must Chase a Forensic Psychologist in A Baloon
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 185
+
+----
+
+Rating: R
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: YzbrhGwubNUJ4lvQ
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

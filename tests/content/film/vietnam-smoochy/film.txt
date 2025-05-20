@@ -1,0 +1,40 @@
+Title: VIETNAM SMOOCHY
+
+----
+
+Actors:
+
+- 'page://nkFKurUJ9w7y8omW'
+- 'page://6jpBKUOTpGMSQxJe'
+
+----
+
+Film-id: 942
+
+----
+
+Description: A Lacklusture Display of a Butler And a Man who must Sink a Explorer in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 174
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: DiFdXSuoPSTY6Kn0
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

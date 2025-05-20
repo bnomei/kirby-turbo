@@ -1,0 +1,42 @@
+Title: ENEMY ODDS
+
+----
+
+Actors:
+
+- 'page://q71V781JfgIPJGVL'
+- 'page://IR4s9CmH1R8G51Ej'
+- 'page://Gsxc5TuqHyoQn1c1'
+- 'page://IUEdThBjLk8TNUwy'
+
+----
+
+Film-id: 284
+
+----
+
+Description: A Fanciful Panorama of a Mad Scientist And a Woman who must Pursue a Astronaut in Ancient India
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 77
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: EQSADmhd1pq4x4wf
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

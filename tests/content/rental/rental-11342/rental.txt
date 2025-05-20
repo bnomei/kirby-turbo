@@ -1,0 +1,25 @@
+Title: Rental 11342
+
+----
+
+Rental-id: 11342
+
+----
+
+Rental-date: 2005-08-02 17:11:35
+
+----
+
+Return-date: 2005-08-07 15:04:35
+
+----
+
+Inventory: page://JBhiD1t0DmSrHWPJ
+
+----
+
+Customer: page://28btFRqxUbpYMux2
+
+----
+
+Uuid: cpNG22GTFGAT48Kk

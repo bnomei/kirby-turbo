@@ -1,0 +1,17 @@
+Title: Inv 2001
+
+----
+
+Inventory-id: 2001
+
+----
+
+Film: page://E7QUwUT5dMIom8aL
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: UTfVxO4ma9RWzlB9

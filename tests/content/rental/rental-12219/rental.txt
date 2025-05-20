@@ -1,0 +1,25 @@
+Title: Rental 12219
+
+----
+
+Rental-id: 12219
+
+----
+
+Rental-date: 2005-08-18 02:49:54
+
+----
+
+Return-date: 2005-08-23 07:52:54
+
+----
+
+Inventory: page://bioGvn37UcBVrHcN
+
+----
+
+Customer: page://2LSdRoTDkGNKivkh
+
+----
+
+Uuid: wZ9tJPIpO1kpySXg

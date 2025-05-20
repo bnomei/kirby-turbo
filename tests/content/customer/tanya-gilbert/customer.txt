@@ -1,0 +1,33 @@
+Title: TANYA GILBERT
+
+----
+
+Customer-id: 237
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: TANYA
+
+----
+
+Last-name: GILBERT
+
+----
+
+Email: TANYA.GILBERT@sakilacustomer.org
+
+----
+
+Address: page://8d7xzlsUq4ooyjid
+
+----
+
+Active: 1
+
+----
+
+Uuid: C3eafCVvL0UMkPhL

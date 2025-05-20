@@ -1,0 +1,17 @@
+Title: Inv 1796
+
+----
+
+Inventory-id: 1796
+
+----
+
+Film: page://0AzRccnaJXQEYyuS
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: DF1xQveyolfhA7r8

@@ -1,0 +1,40 @@
+Title: NUTS TIES
+
+----
+
+Actors:
+
+- 'page://OwcwI2sE5Nr5L1Ju'
+- 'page://2VTI7EzGP0O1IYVh'
+
+----
+
+Film-id: 632
+
+----
+
+Description: A Thoughtful Drama of a Explorer And a Womanizer who must Meet a Teacher in California
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 145
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: U77SrZ78qdZ7CkIx
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

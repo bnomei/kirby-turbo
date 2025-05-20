@@ -1,0 +1,17 @@
+Title: Inv 1804
+
+----
+
+Inventory-id: 1804
+
+----
+
+Film: page://8wDEgH9F2alyHozl
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: YAaJZs5Hif09rwnG

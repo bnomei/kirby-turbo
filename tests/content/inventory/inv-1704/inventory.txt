@@ -1,0 +1,17 @@
+Title: Inv 1704
+
+----
+
+Inventory-id: 1704
+
+----
+
+Film: page://kFqayhEGFkFDzx5M
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: J2GQfSxM2L6V83Ia

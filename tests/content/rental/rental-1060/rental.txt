@@ -1,0 +1,25 @@
+Title: Rental 1060
+
+----
+
+Rental-id: 1060
+
+----
+
+Rental-date: 2005-05-31 08:21:43
+
+----
+
+Return-date: 2005-06-09 04:02:43
+
+----
+
+Inventory: page://mhVf0WxMqwKb4hwU
+
+----
+
+Uuid: E0Wu3eJlzzIwlo0k
+
+----
+
+Customer: page://mOuqyzmE17YrV1yV

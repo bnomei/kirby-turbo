@@ -1,0 +1,25 @@
+Title: Rental 707
+
+----
+
+Rental-id: 707
+
+----
+
+Rental-date: 2005-05-29 03:18:19
+
+----
+
+Return-date: 2005-05-30 02:45:19
+
+----
+
+Inventory: page://x8fAnSHCIFerbOip
+
+----
+
+Uuid: fhRelYFytgiWjoUO
+
+----
+
+Customer: page://wnNII2TCsO0AokjP

@@ -1,0 +1,17 @@
+Title: Inv 699
+
+----
+
+Inventory-id: 699
+
+----
+
+Film: page://FFIp07Vl2C06w2wW
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Sg3iHfClRbSTzab1

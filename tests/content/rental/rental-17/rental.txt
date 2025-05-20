@@ -1,0 +1,25 @@
+Title: Rental 17
+
+----
+
+Rental-id: 17
+
+----
+
+Rental-date: 2005-05-25 01:06:36
+
+----
+
+Return-date: 2005-05-27 00:43:36
+
+----
+
+Inventory: page://gE4B1Aee4uyvBQfj
+
+----
+
+Uuid: uCi3X9DEIdIcB13e
+
+----
+
+Customer: page://rrY2EqqBMU56rgxn

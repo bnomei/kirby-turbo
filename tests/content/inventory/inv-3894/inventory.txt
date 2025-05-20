@@ -1,0 +1,17 @@
+Title: Inv 3894
+
+----
+
+Inventory-id: 3894
+
+----
+
+Film: page://kCQk0Lz7pqypJ6Wf
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: HX5OXGZg8aZRrTMq

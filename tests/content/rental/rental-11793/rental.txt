@@ -1,0 +1,25 @@
+Title: Rental 11793
+
+----
+
+Rental-id: 11793
+
+----
+
+Rental-date: 2005-08-17 11:05:53
+
+----
+
+Return-date: 2005-08-25 12:25:53
+
+----
+
+Inventory: page://rcHRUcklGDCFk8l2
+
+----
+
+Customer: page://alzSQpRBPNGWEUd4
+
+----
+
+Uuid: geiKZkgluBEZGjAA

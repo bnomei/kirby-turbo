@@ -1,0 +1,33 @@
+Title: YVONNE WATKINS
+
+----
+
+Customer-id: 174
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: YVONNE
+
+----
+
+Last-name: WATKINS
+
+----
+
+Email: YVONNE.WATKINS@sakilacustomer.org
+
+----
+
+Address: page://TAoSGQn6oIYSKBXX
+
+----
+
+Active: 1
+
+----
+
+Uuid: nvOO1pUtPnPOyBtk

@@ -1,0 +1,25 @@
+Title: Rental 5518
+
+----
+
+Rental-id: 5518
+
+----
+
+Rental-date: 2005-07-10 01:15:11
+
+----
+
+Return-date: 2005-07-18 19:28:11
+
+----
+
+Inventory: page://wZQlhGyh3fJeDJU0
+
+----
+
+Uuid: s0utliO3bLgP3OP0
+
+----
+
+Customer: page://JG06E1zPSAEHpqss

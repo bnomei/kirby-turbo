@@ -1,0 +1,25 @@
+Title: Rental 14570
+
+----
+
+Rental-id: 14570
+
+----
+
+Rental-date: 2005-08-21 16:32:32
+
+----
+
+Return-date: 2005-08-30 12:03:32
+
+----
+
+Inventory: page://JupKFqRcZ2pObZ04
+
+----
+
+Customer: page://B846my6UhlL6l6CA
+
+----
+
+Uuid: xuxMVLWBRutmoTXH

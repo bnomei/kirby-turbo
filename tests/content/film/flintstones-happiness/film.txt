@@ -1,0 +1,42 @@
+Title: FLINTSTONES HAPPINESS
+
+----
+
+Actors:
+
+- 'page://DJVklNozM1l2RK0x'
+- 'page://nGhJyQbze3rAAH9v'
+- 'page://OGjAu4hPWyVISsAa'
+- 'page://IUEdThBjLk8TNUwy'
+
+----
+
+Film-id: 324
+
+----
+
+Description: A Fateful Story of a Husband And a Moose who must Vanquish a Boy in California
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 148
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: 4qllX4lclo3VoZcl
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

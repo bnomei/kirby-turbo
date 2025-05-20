@@ -1,0 +1,25 @@
+Title: Rental 12730
+
+----
+
+Rental-id: 12730
+
+----
+
+Rental-date: 2005-08-18 21:55:01
+
+----
+
+Return-date: 2005-08-22 01:23:01
+
+----
+
+Inventory: page://aN6sM8hLWJuYM8FB
+
+----
+
+Customer: page://Azw9Nv7ouxsZUKzG
+
+----
+
+Uuid: eCQjMVyIilzVoMtT

@@ -1,0 +1,17 @@
+Title: Inv 1799
+
+----
+
+Inventory-id: 1799
+
+----
+
+Film: page://E2fI4o15d3WqMKiN
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: OMAE4caeWQjpxtgM

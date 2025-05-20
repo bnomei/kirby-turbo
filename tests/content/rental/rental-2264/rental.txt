@@ -1,0 +1,25 @@
+Title: Rental 2264
+
+----
+
+Rental-id: 2264
+
+----
+
+Rental-date: 2005-06-18 05:58:45
+
+----
+
+Return-date: 2005-06-19 00:57:45
+
+----
+
+Inventory: page://xWB8xghTqt4FBA60
+
+----
+
+Uuid: l8TL5xWv1zxMjDLW
+
+----
+
+Customer: page://Cu40qk5iMNg9WfrC

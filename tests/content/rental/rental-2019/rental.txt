@@ -1,0 +1,25 @@
+Title: Rental 2019
+
+----
+
+Rental-id: 2019
+
+----
+
+Rental-date: 2005-06-17 12:38:44
+
+----
+
+Return-date: 2005-06-23 17:38:44
+
+----
+
+Inventory: page://5mTlvaBuJ4xCTTJG
+
+----
+
+Uuid: G1pNV124C7h9eaKo
+
+----
+
+Customer: page://JY1mPZSxratt4tn6

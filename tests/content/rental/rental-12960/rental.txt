@@ -1,0 +1,25 @@
+Title: Rental 12960
+
+----
+
+Rental-id: 12960
+
+----
+
+Rental-date: 2005-08-19 06:21:52
+
+----
+
+Return-date: 2005-08-25 04:16:52
+
+----
+
+Inventory: page://0TRZnnwE1bqyersi
+
+----
+
+Customer: page://mEEAl0d4gMjFDZVU
+
+----
+
+Uuid: y1jSozU9npxWa8Eq

@@ -1,0 +1,25 @@
+Title: Rental 3006
+
+----
+
+Rental-id: 3006
+
+----
+
+Rental-date: 2005-06-20 10:10:29
+
+----
+
+Return-date: 2005-06-22 07:26:29
+
+----
+
+Inventory: page://SW8KTgjYs82b9HWT
+
+----
+
+Uuid: ZAWSEnhQhU2bFKDD
+
+----
+
+Customer: page://YTXWnGj3tTFKF9yc

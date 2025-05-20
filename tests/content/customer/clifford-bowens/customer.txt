@@ -1,0 +1,33 @@
+Title: CLIFFORD BOWENS
+
+----
+
+Customer-id: 447
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CLIFFORD
+
+----
+
+Last-name: BOWENS
+
+----
+
+Email: CLIFFORD.BOWENS@sakilacustomer.org
+
+----
+
+Address: page://cUfjh7CxUfdllLvK
+
+----
+
+Active: 1
+
+----
+
+Uuid: Oh5C897HuaFVNnEP

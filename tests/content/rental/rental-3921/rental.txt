@@ -1,0 +1,25 @@
+Title: Rental 3921
+
+----
+
+Rental-id: 3921
+
+----
+
+Rental-date: 2005-07-06 20:29:48
+
+----
+
+Return-date: 2005-07-14 01:44:48
+
+----
+
+Inventory: page://JAFF2tb3YXWpu2mN
+
+----
+
+Uuid: 94z8btYAPl8owciF
+
+----
+
+Customer: page://08U0IJiadz0U6o7j

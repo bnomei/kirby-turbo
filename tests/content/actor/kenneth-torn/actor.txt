@@ -1,0 +1,21 @@
+Title: KENNETH TORN
+
+----
+
+Actors: []
+
+----
+
+Actor-id: 94
+
+----
+
+First-name: KENNETH
+
+----
+
+Last-name: TORN
+
+----
+
+Uuid: nN3rIVkI7hNgoDlp

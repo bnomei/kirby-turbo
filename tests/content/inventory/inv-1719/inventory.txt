@@ -1,0 +1,17 @@
+Title: Inv 1719
+
+----
+
+Inventory-id: 1719
+
+----
+
+Film: page://hzLknIz6iEXqG2Qw
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: QE1tEV3Vmn7nJM81

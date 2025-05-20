@@ -1,0 +1,17 @@
+Title: Inv 1874
+
+----
+
+Inventory-id: 1874
+
+----
+
+Film: page://WcPezxIt8eTUWQ2G
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: UScPddcspjDgoIIU

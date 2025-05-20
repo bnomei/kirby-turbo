@@ -1,0 +1,17 @@
+Title: Inv 1695
+
+----
+
+Inventory-id: 1695
+
+----
+
+Film: page://BFGasPoqtLyEFozz
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: G83TcaP1kU8Wq0xG

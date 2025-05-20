@@ -1,0 +1,25 @@
+Title: Rental 5287
+
+----
+
+Rental-id: 5287
+
+----
+
+Rental-date: 2005-07-09 15:11:54
+
+----
+
+Return-date: 2005-07-16 16:05:54
+
+----
+
+Inventory: page://o2le0ZJYSJ4NJ37U
+
+----
+
+Uuid: BZ68ZzB3oqiqxhtM
+
+----
+
+Customer: page://KvtWcYY1YyV3aYsM

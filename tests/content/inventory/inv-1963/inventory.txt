@@ -1,0 +1,17 @@
+Title: Inv 1963
+
+----
+
+Inventory-id: 1963
+
+----
+
+Film: page://IsYaFDNiNusvs7iX
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Lb4lBpaT4Q7VOwnP

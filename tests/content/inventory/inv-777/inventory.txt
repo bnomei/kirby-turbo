@@ -1,0 +1,17 @@
+Title: Inv 777
+
+----
+
+Inventory-id: 777
+
+----
+
+Film: page://JkW7m02yeXJO7TMU
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: mnQDLFYhJmPq1Iyu

@@ -1,0 +1,17 @@
+Title: Inv 731
+
+----
+
+Inventory-id: 731
+
+----
+
+Film: page://PPtZE2Wn6tV3XJJA
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: NedOU0P9v6AGDo8z

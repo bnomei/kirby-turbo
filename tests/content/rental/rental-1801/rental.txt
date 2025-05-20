@@ -1,0 +1,25 @@
+Title: Rental 1801
+
+----
+
+Rental-id: 1801
+
+----
+
+Rental-date: 2005-06-16 20:21:53
+
+----
+
+Return-date: 2005-06-18 23:18:53
+
+----
+
+Inventory: page://O6QVb9X4mMu8BRfd
+
+----
+
+Uuid: NM28npKK5VQ3Y3B2
+
+----
+
+Customer: page://hkYVD2f74BBcnfGT

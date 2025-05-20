@@ -1,0 +1,25 @@
+Title: Rental 8806
+
+----
+
+Rental-id: 8806
+
+----
+
+Rental-date: 2005-07-29 21:36:34
+
+----
+
+Return-date: 2005-08-02 00:58:34
+
+----
+
+Inventory: page://vsXE3GNQNap4d8gd
+
+----
+
+Customer: page://2QCpyeeQilmvnk6g
+
+----
+
+Uuid: YviJ3aJRAgOdJM82

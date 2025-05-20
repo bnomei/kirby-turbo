@@ -1,0 +1,17 @@
+Title: Inv 4434
+
+----
+
+Inventory-id: 4434
+
+----
+
+Film: page://2ox845aHAlq9RkP9
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: HT5yoi4VJuhfkvFB

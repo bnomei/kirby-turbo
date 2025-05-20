@@ -1,0 +1,17 @@
+Title: Inv 472
+
+----
+
+Inventory-id: 472
+
+----
+
+Film: page://9yDVnskpaehT7Njf
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: FZsubmZow4ZiMmun

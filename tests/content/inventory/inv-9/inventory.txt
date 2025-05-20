@@ -1,0 +1,17 @@
+Title: Inv 9
+
+----
+
+Inventory-id: 9
+
+----
+
+Film: page://0UDDu8BEAy0rU9LQ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: R9hCsANhvRRs0u30

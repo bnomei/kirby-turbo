@@ -1,0 +1,17 @@
+Title: Inv 2908
+
+----
+
+Inventory-id: 2908
+
+----
+
+Film: page://Y8LjgsKHVj6dq3cU
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: nHJRWt7ukodtT61r

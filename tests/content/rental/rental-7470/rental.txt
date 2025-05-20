@@ -1,0 +1,25 @@
+Title: Rental 7470
+
+----
+
+Rental-id: 7470
+
+----
+
+Rental-date: 2005-07-27 19:01:03
+
+----
+
+Return-date: 2005-08-05 19:16:03
+
+----
+
+Inventory: page://71pIWGx355NL0sTF
+
+----
+
+Customer: page://IRu2BC3kihoj0lej
+
+----
+
+Uuid: LPWwL4e9iaWGJFfV

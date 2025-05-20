@@ -1,0 +1,17 @@
+Title: Inv 4043
+
+----
+
+Inventory-id: 4043
+
+----
+
+Film: page://WXh3BGqLeYMMDxlq
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 2ENqiKWTSSEirXnK

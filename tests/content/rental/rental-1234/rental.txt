@@ -1,0 +1,25 @@
+Title: Rental 1234
+
+----
+
+Rental-id: 1234
+
+----
+
+Rental-date: 2005-06-15 04:21:52
+
+----
+
+Return-date: 2005-06-22 03:25:52
+
+----
+
+Inventory: page://FzebHfCQ07Bzv266
+
+----
+
+Uuid: mXMe2bmEoW1aMjIT
+
+----
+
+Customer: page://6T1yeRwVMaJSaTXA

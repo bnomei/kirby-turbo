@@ -1,0 +1,25 @@
+Title: Rental 4511
+
+----
+
+Rental-id: 4511
+
+----
+
+Rental-date: 2005-07-08 02:36:21
+
+----
+
+Return-date: 2005-07-15 06:01:21
+
+----
+
+Inventory: page://HZ9IXEnPMWP3VjAV
+
+----
+
+Uuid: vtyD1vbbjwE6BYdM
+
+----
+
+Customer: page://x5SWKXQpXhzjUJdL

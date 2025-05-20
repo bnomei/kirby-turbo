@@ -1,0 +1,25 @@
+Title: Rental 170
+
+----
+
+Rental-id: 170
+
+----
+
+Rental-date: 2005-05-26 03:11:12
+
+----
+
+Return-date: 2005-06-02 03:53:12
+
+----
+
+Inventory: page://fwFvFP16h6Limgx1
+
+----
+
+Uuid: ekbAjOGgSttvOjWZ
+
+----
+
+Customer: page://daiDyhYRb8z7fkl0

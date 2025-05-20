@@ -1,0 +1,42 @@
+Title: CORE SUIT
+
+----
+
+Actors:
+
+- 'page://eJszhRe2rjIvWjny'
+- 'page://pokjngmFMjrhDsLQ'
+- 'page://k43wur9uhLztfZOP'
+- 'page://VNoe1uWzYd7QHUzW'
+
+----
+
+Film-id: 184
+
+----
+
+Description: A Unbelieveable Tale of a Car And a Explorer who must Confront a Boat in A Manhattan Penthouse
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 92
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: hTvm7SDwmXNti9YK
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

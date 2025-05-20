@@ -1,0 +1,17 @@
+Title: Inv 3808
+
+----
+
+Inventory-id: 3808
+
+----
+
+Film: page://Rvrqa9MKpxBulY85
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 4QZp2jjzea3kSxWJ

@@ -1,0 +1,25 @@
+Title: Rental 2881
+
+----
+
+Rental-id: 2881
+
+----
+
+Rental-date: 2005-06-20 01:26:18
+
+----
+
+Return-date: 2005-06-26 23:42:18
+
+----
+
+Inventory: page://dRMtxKwuY9ob4OCe
+
+----
+
+Uuid: CAFmZT6LUOZy57le
+
+----
+
+Customer: page://9bpDggcJABKwr9xt

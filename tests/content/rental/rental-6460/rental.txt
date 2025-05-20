@@ -1,0 +1,25 @@
+Title: Rental 6460
+
+----
+
+Rental-id: 6460
+
+----
+
+Rental-date: 2005-07-12 01:13:44
+
+----
+
+Return-date: 2005-07-17 04:51:44
+
+----
+
+Inventory: page://vmqy3NUeMyXdAYvF
+
+----
+
+Uuid: gt5fdGCaKUnBEodA
+
+----
+
+Customer: page://CWfw6rX3ydLvFm4G

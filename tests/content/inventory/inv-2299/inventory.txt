@@ -1,0 +1,17 @@
+Title: Inv 2299
+
+----
+
+Inventory-id: 2299
+
+----
+
+Film: page://gfzPLRHwg0xqMABq
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: sxxUrAVnKXS5bEiB

@@ -1,0 +1,41 @@
+Title: SLING LUKE
+
+----
+
+Actors:
+
+- 'page://NkG0QBqlgfweHNxN'
+- 'page://s69sG8lNdmqtvA7p'
+- 'page://SR0Aks2aA1YgkZ1s'
+
+----
+
+Film-id: 808
+
+----
+
+Description: A Intrepid Character Study of a Robot And a Monkey who must Reach a Secret Agent in An Abandoned Amusement Park
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 84
+
+----
+
+Rating: R
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: XfpqJiQyWDqF9n65
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

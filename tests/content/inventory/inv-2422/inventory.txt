@@ -1,0 +1,17 @@
+Title: Inv 2422
+
+----
+
+Inventory-id: 2422
+
+----
+
+Film: page://3k1PVjsO8htXJspc
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 4EZMbEjFUOXF1YId

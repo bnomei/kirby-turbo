@@ -1,0 +1,17 @@
+Title: Inv 77
+
+----
+
+Inventory-id: 77
+
+----
+
+Film: page://mdhbOqFgjCraCy5l
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: XBv4kHSa7L6PyDZR

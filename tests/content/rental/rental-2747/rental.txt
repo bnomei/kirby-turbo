@@ -1,0 +1,25 @@
+Title: Rental 2747
+
+----
+
+Rental-id: 2747
+
+----
+
+Rental-date: 2005-06-19 16:22:07
+
+----
+
+Return-date: 2005-06-24 19:28:07
+
+----
+
+Inventory: page://AQrG8uneQgyzPWH3
+
+----
+
+Uuid: XNhk7i5xtpVICSgo
+
+----
+
+Customer: page://B6FDvvDBHRaKmtPn

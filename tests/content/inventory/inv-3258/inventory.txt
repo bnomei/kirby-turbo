@@ -1,0 +1,17 @@
+Title: Inv 3258
+
+----
+
+Inventory-id: 3258
+
+----
+
+Film: page://30NSV676rcSQ6IZA
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: MXXNfswWU1LljzPk

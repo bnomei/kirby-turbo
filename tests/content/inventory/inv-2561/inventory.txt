@@ -1,0 +1,17 @@
+Title: Inv 2561
+
+----
+
+Inventory-id: 2561
+
+----
+
+Film: page://z0R1w2WeUBW0GKtB
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: U7jSpAHG0Yt9OIt5

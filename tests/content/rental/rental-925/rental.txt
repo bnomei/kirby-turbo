@@ -1,0 +1,25 @@
+Title: Rental 925
+
+----
+
+Rental-id: 925
+
+----
+
+Rental-date: 2005-05-30 12:13:52
+
+----
+
+Return-date: 2005-06-02 14:41:52
+
+----
+
+Inventory: page://FFhfhQrBHjVNVC72
+
+----
+
+Uuid: GzMX9Rbh7kqESaJd
+
+----
+
+Customer: page://JGObmqCrrIzDgkRb

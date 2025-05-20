@@ -1,0 +1,25 @@
+Title: Rental 6839
+
+----
+
+Rental-id: 6839
+
+----
+
+Rental-date: 2005-07-12 19:03:19
+
+----
+
+Return-date: 2005-07-15 23:48:19
+
+----
+
+Inventory: page://zpLl3fyDgklKKIM7
+
+----
+
+Customer: page://CTF6K45F9gpJS5GA
+
+----
+
+Uuid: z2d6w37F7yh3Xy6A

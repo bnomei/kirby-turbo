@@ -1,0 +1,17 @@
+Title: Inv 1395
+
+----
+
+Inventory-id: 1395
+
+----
+
+Film: page://A7odjzMG4nCFnxTI
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 10biyOzZ3qFVNPGS

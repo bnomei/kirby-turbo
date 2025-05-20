@@ -1,0 +1,25 @@
+Title: Rental 7731
+
+----
+
+Rental-id: 7731
+
+----
+
+Rental-date: 2005-07-28 05:01:18
+
+----
+
+Return-date: 2005-07-29 02:22:18
+
+----
+
+Inventory: page://VyrjOysw8T1hPk56
+
+----
+
+Customer: page://RnVJUD7kCw5r9OCn
+
+----
+
+Uuid: cMC6OHtD5favzNoT

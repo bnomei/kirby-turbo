@@ -1,0 +1,25 @@
+Title: Rental 11002
+
+----
+
+Rental-id: 11002
+
+----
+
+Rental-date: 2005-08-02 05:02:56
+
+----
+
+Return-date: 2005-08-05 07:04:56
+
+----
+
+Inventory: page://Q2j5kMVAY2qltin9
+
+----
+
+Customer: page://pjmWpRpQ5NINevq0
+
+----
+
+Uuid: aSIX99VaUXu5WLfb

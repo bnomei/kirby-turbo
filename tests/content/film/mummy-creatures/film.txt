@@ -1,0 +1,51 @@
+Title: MUMMY CREATURES
+
+----
+
+Actors:
+
+- 'page://H5yhLtWBsWi35xuK'
+- 'page://I2QUzWEQkTiY7Ba5'
+- 'page://CXnMd8oVYWgOtYAB'
+- 'page://e0jga56TJCBrOXvD'
+- 'page://rrHZ6f6sSm29JuNB'
+- 'page://RaBnN0JojPRLBj7c'
+- 'page://xfLW2h8D6Ci3k3ux'
+- 'page://if8hfrmRoIODgwSa'
+- 'page://wxM7fPnQeVIlPpuJ'
+- 'page://64SCw7TVQ1KFgpJt'
+- 'page://r6UF6pUyhmwAPzIH'
+- 'page://9XqCStEtXKdxVnPM'
+- 'page://EIh5zoCTJV7UmSi4'
+
+----
+
+Film-id: 606
+
+----
+
+Description: A Fateful Character Study of a Crocodile And a Monkey who must Meet a Dentist in Australia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 160
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: Rz32UKPhHnkqHQzA
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

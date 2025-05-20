@@ -1,0 +1,17 @@
+Title: Inv 648
+
+----
+
+Inventory-id: 648
+
+----
+
+Film: page://UVB34h6ORZE6BH5q
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 9edV4rT6xnEsCwZU

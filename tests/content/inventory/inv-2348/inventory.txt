@@ -1,0 +1,17 @@
+Title: Inv 2348
+
+----
+
+Inventory-id: 2348
+
+----
+
+Film: page://7WCQXs9LnFovxfXj
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: KCnbGl5rruwddydh

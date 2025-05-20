@@ -1,0 +1,25 @@
+Title: Rental 8004
+
+----
+
+Rental-id: 8004
+
+----
+
+Rental-date: 2005-07-28 15:14:07
+
+----
+
+Return-date: 2005-07-30 19:32:07
+
+----
+
+Inventory: page://ly8XRn38TUP55YBi
+
+----
+
+Customer: page://yO6kHtaF5LxeJoOU
+
+----
+
+Uuid: OWUA8FPPVQozTu53

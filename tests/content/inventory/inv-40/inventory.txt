@@ -1,0 +1,17 @@
+Title: Inv 40
+
+----
+
+Inventory-id: 40
+
+----
+
+Film: page://8CThZqVAR1yZ373z
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: mNXMU6X8I8cZjnw2

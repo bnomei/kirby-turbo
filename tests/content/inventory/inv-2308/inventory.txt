@@ -1,0 +1,17 @@
+Title: Inv 2308
+
+----
+
+Inventory-id: 2308
+
+----
+
+Film: page://UNE4Tp1X96yAuAd5
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: YtEhxyDDVjLgTGeK

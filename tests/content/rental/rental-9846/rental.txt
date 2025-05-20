@@ -1,0 +1,25 @@
+Title: Rental 9846
+
+----
+
+Rental-id: 9846
+
+----
+
+Rental-date: 2005-07-31 12:30:12
+
+----
+
+Return-date: 2005-08-05 08:24:12
+
+----
+
+Inventory: page://lQ1mtnog8bqm8a6f
+
+----
+
+Customer: page://fh18zcKIesBiok66
+
+----
+
+Uuid: GExc0qLq4URStyu8

@@ -1,0 +1,25 @@
+Title: Rental 14096
+
+----
+
+Rental-id: 14096
+
+----
+
+Rental-date: 2005-08-21 00:27:46
+
+----
+
+Return-date: 2005-08-22 22:53:46
+
+----
+
+Inventory: page://swk35KY7jZM6vBVq
+
+----
+
+Customer: page://zmCabsBB5k9OFLQt
+
+----
+
+Uuid: zZQKBIDKgdXJvxc3

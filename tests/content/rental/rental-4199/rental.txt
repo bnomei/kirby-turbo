@@ -1,0 +1,25 @@
+Title: Rental 4199
+
+----
+
+Rental-id: 4199
+
+----
+
+Rental-date: 2005-07-07 11:13:07
+
+----
+
+Return-date: 2005-07-11 07:17:07
+
+----
+
+Inventory: page://L7Bsh6540tRr2RM1
+
+----
+
+Uuid: 0GVy5GB5FxKHYkgz
+
+----
+
+Customer: page://lYVwpdgEXKLspdxt

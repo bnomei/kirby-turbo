@@ -1,0 +1,33 @@
+Title: JOSE ANDREW
+
+----
+
+Customer-id: 326
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JOSE
+
+----
+
+Last-name: ANDREW
+
+----
+
+Email: JOSE.ANDREW@sakilacustomer.org
+
+----
+
+Address: page://okNlD4xk72gMv8IW
+
+----
+
+Active: 1
+
+----
+
+Uuid: Z6uneo5K4mIsEkh3

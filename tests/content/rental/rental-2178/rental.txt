@@ -1,0 +1,25 @@
+Title: Rental 2178
+
+----
+
+Rental-id: 2178
+
+----
+
+Rental-date: 2005-06-18 00:38:35
+
+----
+
+Return-date: 2005-06-21 02:56:35
+
+----
+
+Inventory: page://72vQY4anpqLCf2UA
+
+----
+
+Uuid: HhbGFT9tv0KEyOpP
+
+----
+
+Customer: page://rCrCpCNcHKJui2E7

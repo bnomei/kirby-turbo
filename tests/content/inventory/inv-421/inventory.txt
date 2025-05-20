@@ -1,0 +1,17 @@
+Title: Inv 421
+
+----
+
+Inventory-id: 421
+
+----
+
+Film: page://xyLfnZKFV1kYd6wS
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: tnkUUc2qGc4y6crG

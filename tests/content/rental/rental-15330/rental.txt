@@ -1,0 +1,25 @@
+Title: Rental 15330
+
+----
+
+Rental-id: 15330
+
+----
+
+Rental-date: 2005-08-22 20:35:30
+
+----
+
+Return-date: 2005-08-30 21:54:30
+
+----
+
+Inventory: page://HWCf5GXqG8qO2ICd
+
+----
+
+Customer: page://H1iYUUjd9JG1DGh7
+
+----
+
+Uuid: b80J54o3A07T23dJ

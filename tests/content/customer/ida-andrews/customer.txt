@@ -1,0 +1,33 @@
+Title: IDA ANDREWS
+
+----
+
+Customer-id: 183
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: IDA
+
+----
+
+Last-name: ANDREWS
+
+----
+
+Email: IDA.ANDREWS@sakilacustomer.org
+
+----
+
+Address: page://NdO33rwsiTHlhhF6
+
+----
+
+Active: 1
+
+----
+
+Uuid: DMcOFvIGwUGtGqRT

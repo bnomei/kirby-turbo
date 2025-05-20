@@ -1,0 +1,25 @@
+Title: Rental 12639
+
+----
+
+Rental-id: 12639
+
+----
+
+Rental-date: 2005-08-18 18:13:05
+
+----
+
+Return-date: 2005-08-27 16:00:05
+
+----
+
+Inventory: page://eqYxV8lz8OOrmC8y
+
+----
+
+Customer: page://dCSTJjEmIHM7hQ5W
+
+----
+
+Uuid: Fx0tZckiASNk6ru9

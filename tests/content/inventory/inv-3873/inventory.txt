@@ -1,0 +1,17 @@
+Title: Inv 3873
+
+----
+
+Inventory-id: 3873
+
+----
+
+Film: page://bpyP3hyHEFde02iy
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: HwHJ8mMSQnB7ulHO

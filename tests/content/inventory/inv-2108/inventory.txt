@@ -1,0 +1,17 @@
+Title: Inv 2108
+
+----
+
+Inventory-id: 2108
+
+----
+
+Film: page://rUbIc6sEBrJjva9Z
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: AOF9KAFhfOPoVV66

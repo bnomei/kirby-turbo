@@ -1,0 +1,33 @@
+Title: DERRICK BOURQUE
+
+----
+
+Customer-id: 476
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: DERRICK
+
+----
+
+Last-name: BOURQUE
+
+----
+
+Email: DERRICK.BOURQUE@sakilacustomer.org
+
+----
+
+Address: page://jNMeRoQcTzINRxl6
+
+----
+
+Active: 1
+
+----
+
+Uuid: kbGqUGnsmmbvnI45

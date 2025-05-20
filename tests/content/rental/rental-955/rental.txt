@@ -1,0 +1,25 @@
+Title: Rental 955
+
+----
+
+Rental-id: 955
+
+----
+
+Rental-date: 2005-05-30 16:59:03
+
+----
+
+Return-date: 2005-05-31 11:58:03
+
+----
+
+Inventory: page://SZaNdEaEo8GeMrWx
+
+----
+
+Uuid: WQexrzxQ4tESfYdT
+
+----
+
+Customer: page://d4uyJxb6OPu5hZso

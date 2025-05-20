@@ -1,0 +1,17 @@
+Title: Inv 3713
+
+----
+
+Inventory-id: 3713
+
+----
+
+Film: page://wRP0xWifgqOiaUfB
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: iMdzSewDJNSBCz1z

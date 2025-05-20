@@ -1,0 +1,25 @@
+Title: Rental 9278
+
+----
+
+Rental-id: 9278
+
+----
+
+Rental-date: 2005-07-30 15:15:19
+
+----
+
+Return-date: 2005-08-03 20:21:19
+
+----
+
+Inventory: page://6xPye7rGacl10VWf
+
+----
+
+Customer: page://WkdWOiV7wx4C2nmh
+
+----
+
+Uuid: OLyQ3ysX9YB323eB

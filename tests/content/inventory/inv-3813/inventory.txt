@@ -1,0 +1,17 @@
+Title: Inv 3813
+
+----
+
+Inventory-id: 3813
+
+----
+
+Film: page://55vGON9GLR96M3OI
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: PwdvfEK8CYMQEbSE

@@ -1,0 +1,25 @@
+Title: Rental 1039
+
+----
+
+Rental-id: 1039
+
+----
+
+Rental-date: 2005-05-31 05:32:29
+
+----
+
+Return-date: 2005-06-01 06:04:29
+
+----
+
+Inventory: page://unttrDQrROxOwwQk
+
+----
+
+Uuid: PD1mnGGo5UODhRVA
+
+----
+
+Customer: page://PRYZKLCz6ndr3bge

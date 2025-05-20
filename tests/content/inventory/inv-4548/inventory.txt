@@ -1,0 +1,17 @@
+Title: Inv 4548
+
+----
+
+Inventory-id: 4548
+
+----
+
+Film: page://1lOKl6qdDNbWRyyC
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: zzk3AEjaFRtYygmO

@@ -1,0 +1,17 @@
+Title: Inv 4301
+
+----
+
+Inventory-id: 4301
+
+----
+
+Film: page://MILGhCJg92KmiUZL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: xO3MndWjdhPx70mw

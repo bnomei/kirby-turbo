@@ -1,0 +1,17 @@
+Title: Inv 3316
+
+----
+
+Inventory-id: 3316
+
+----
+
+Film: page://6CdKH5MPZuKWNMzd
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: PLZn6nfMAeGCuGGY

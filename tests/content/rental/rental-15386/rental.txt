@@ -1,0 +1,25 @@
+Title: Rental 15386
+
+----
+
+Rental-id: 15386
+
+----
+
+Rental-date: 2005-08-22 22:41:14
+
+----
+
+Return-date: 2005-08-29 22:29:14
+
+----
+
+Inventory: page://rCj6BanEoLa9jog2
+
+----
+
+Customer: page://wFOjfrR0gpP7jV9B
+
+----
+
+Uuid: Du4HPBkrTunHMne4

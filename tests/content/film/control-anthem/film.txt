@@ -1,0 +1,41 @@
+Title: CONTROL ANTHEM
+
+----
+
+Actors:
+
+- 'page://7FlTvfT4DDNge34z'
+- 'page://MKZPC2AFXFjwPRw8'
+- 'page://CsoOTyxORoAs7uZy'
+
+----
+
+Film-id: 182
+
+----
+
+Description: A Fateful Documentary of a Robot And a Student who must Battle a Cat in A Monastery
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 185
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries
+
+----
+
+Uuid: ktHlY2PLVWH1cLkh
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

@@ -1,0 +1,17 @@
+Title: Inv 4563
+
+----
+
+Inventory-id: 4563
+
+----
+
+Film: page://ABo1OKSwTKwjbYRN
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: j1CgOwML3WLiuEJ0

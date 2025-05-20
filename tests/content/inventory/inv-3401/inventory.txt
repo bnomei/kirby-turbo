@@ -1,0 +1,17 @@
+Title: Inv 3401
+
+----
+
+Inventory-id: 3401
+
+----
+
+Film: page://cRgWUGZu2oruoPZV
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: k0Kt5AR6gmBAXSuk

@@ -1,0 +1,25 @@
+Title: Rental 4323
+
+----
+
+Rental-id: 4323
+
+----
+
+Rental-date: 2005-07-07 17:55:53
+
+----
+
+Return-date: 2005-07-13 16:43:53
+
+----
+
+Inventory: page://iJTkEUyNFrVexTRD
+
+----
+
+Uuid: wKbsWF9mGgisg3Rv
+
+----
+
+Customer: page://MsMpwiaowsqI4bXD

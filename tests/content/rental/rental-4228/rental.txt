@@ -1,0 +1,25 @@
+Title: Rental 4228
+
+----
+
+Rental-id: 4228
+
+----
+
+Rental-date: 2005-07-07 12:42:02
+
+----
+
+Return-date: 2005-07-12 10:52:02
+
+----
+
+Inventory: page://dK3MMBGZOb9LFnJV
+
+----
+
+Uuid: dbdHYHGJGqojtVTg
+
+----
+
+Customer: page://EiH1RuNqWwCS6DfM

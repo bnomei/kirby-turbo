@@ -1,0 +1,17 @@
+Title: Inv 1579
+
+----
+
+Inventory-id: 1579
+
+----
+
+Film: page://TdN5H8oupvm1ySSj
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 2vKPggsvBzY15Ytt

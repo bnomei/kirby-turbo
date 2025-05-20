@@ -1,0 +1,25 @@
+Title: Rental 681
+
+----
+
+Rental-id: 681
+
+----
+
+Rental-date: 2005-05-28 23:39:44
+
+----
+
+Return-date: 2005-06-01 01:42:44
+
+----
+
+Inventory: page://wGj3zkWYQYUi6uKS
+
+----
+
+Uuid: PzBIIHngJPxzfHTV
+
+----
+
+Customer: page://08U0IJiadz0U6o7j

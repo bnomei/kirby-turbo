@@ -1,0 +1,25 @@
+Title: Rental 658
+
+----
+
+Rental-id: 658
+
+----
+
+Rental-date: 2005-05-28 20:23:23
+
+----
+
+Return-date: 2005-06-06 19:31:23
+
+----
+
+Inventory: page://4aee1L9NnuRrDhPU
+
+----
+
+Uuid: ft8JI0incosSqT3M
+
+----
+
+Customer: page://hqAf8WYPlK0t8DAi

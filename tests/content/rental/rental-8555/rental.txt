@@ -1,0 +1,25 @@
+Title: Rental 8555
+
+----
+
+Rental-id: 8555
+
+----
+
+Rental-date: 2005-07-29 11:18:01
+
+----
+
+Return-date: 2005-07-30 10:47:01
+
+----
+
+Inventory: page://SKSVD1xI1fH3l79H
+
+----
+
+Customer: page://4PvCN4u0ZNDQjU3C
+
+----
+
+Uuid: 2xjRCEYpiE8AAUDH

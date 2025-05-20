@@ -1,0 +1,25 @@
+Title: Rental 1937
+
+----
+
+Rental-id: 1937
+
+----
+
+Rental-date: 2005-06-17 07:16:46
+
+----
+
+Return-date: 2005-06-21 04:22:46
+
+----
+
+Inventory: page://10ndvL8SD6buSumJ
+
+----
+
+Uuid: Y8dAae5cttpUTqiM
+
+----
+
+Customer: page://Touuz3iduKG3abAU

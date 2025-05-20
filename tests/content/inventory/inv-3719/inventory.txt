@@ -1,0 +1,17 @@
+Title: Inv 3719
+
+----
+
+Inventory-id: 3719
+
+----
+
+Film: page://EoaTSoqYKv778Eh3
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: kfiaKa43nJDidrOc

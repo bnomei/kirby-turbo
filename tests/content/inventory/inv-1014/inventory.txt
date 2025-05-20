@@ -1,0 +1,17 @@
+Title: Inv 1014
+
+----
+
+Inventory-id: 1014
+
+----
+
+Film: page://fMLEgaiXF2S6ow1C
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: YtnbIGIBHB9goawI

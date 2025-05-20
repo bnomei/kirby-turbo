@@ -1,0 +1,25 @@
+Title: Rental 471
+
+----
+
+Rental-id: 471
+
+----
+
+Rental-date: 2005-05-27 21:32:42
+
+----
+
+Return-date: 2005-05-31 00:39:42
+
+----
+
+Inventory: page://GPydWbPWiNcuAlCy
+
+----
+
+Uuid: XzrvuQKHjtb0hvwN
+
+----
+
+Customer: page://7xbkabb9oALGCtIT

@@ -1,0 +1,25 @@
+Title: Rental 6138
+
+----
+
+Rental-id: 6138
+
+----
+
+Rental-date: 2005-07-11 08:36:04
+
+----
+
+Return-date: 2005-07-13 10:30:04
+
+----
+
+Inventory: page://ZQEO3HFoF1Fw9iJt
+
+----
+
+Uuid: RPQ5EqrwERUgH8eW
+
+----
+
+Customer: page://GsCMla3dLxvFaycH

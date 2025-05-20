@@ -1,0 +1,17 @@
+Title: Inv 3049
+
+----
+
+Inventory-id: 3049
+
+----
+
+Film: page://sFQyTHl2l1Zx7qKA
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 5uGFqMHK0S3uBL0w

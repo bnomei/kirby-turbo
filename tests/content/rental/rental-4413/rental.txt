@@ -1,0 +1,25 @@
+Title: Rental 4413
+
+----
+
+Rental-id: 4413
+
+----
+
+Rental-date: 2005-07-07 22:00:04
+
+----
+
+Return-date: 2005-07-10 18:20:04
+
+----
+
+Inventory: page://ZzJBG3qi0UXS1NmH
+
+----
+
+Uuid: HPq6WT97uhyXFZng
+
+----
+
+Customer: page://7AM12dZR8dD0mO7c

@@ -1,0 +1,25 @@
+Title: Rental 312
+
+----
+
+Rental-id: 312
+
+----
+
+Rental-date: 2005-05-26 22:52:19
+
+----
+
+Return-date: 2005-06-02 18:14:19
+
+----
+
+Inventory: page://QeNNXLINAQGF6afy
+
+----
+
+Uuid: tXxWNWXc48XJ9Kzl
+
+----
+
+Customer: page://o07yBM7EP4XLPfD9

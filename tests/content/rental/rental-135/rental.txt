@@ -1,0 +1,25 @@
+Title: Rental 135
+
+----
+
+Rental-id: 135
+
+----
+
+Rental-date: 2005-05-25 21:58:58
+
+----
+
+Return-date: 2005-06-03 17:50:58
+
+----
+
+Inventory: page://svaN1zdBuoCera9t
+
+----
+
+Uuid: 83ij79ekmlEvm9La
+
+----
+
+Customer: page://MpSgiAIrJd9YlrCV

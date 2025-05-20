@@ -1,0 +1,37 @@
+Title: SLACKER LIAISONS
+
+----
+
+Actors: []
+
+----
+
+Film-id: 803
+
+----
+
+Description: A Fast-Paced Tale of a A Shark And a Student who must Meet a Crocodile in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 179
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: 1pDJmtGDeGf9MiJW
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

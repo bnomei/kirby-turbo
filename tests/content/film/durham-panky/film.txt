@@ -1,0 +1,46 @@
+Title: DURHAM PANKY
+
+----
+
+Actors:
+
+- 'page://K3jNN1L9qHT9bFIC'
+- 'page://pAFoAtJmRtH6ome4'
+- 'page://I440rKCeu4AX6xcF'
+- 'page://S8UoUinBIsjzumVd'
+- 'page://QXMalcumIlXeK8Z2'
+- 'page://FSTBtYrNkVQnDKPa'
+- 'page://qCm78VMzP14zbmIL'
+- 'page://qXajFtQVbGpQUZAN'
+
+----
+
+Film-id: 263
+
+----
+
+Description: A Brilliant Panorama of a Girl And a Boy who must Face a Mad Scientist in An Abandoned Mine Shaft
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 154
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: R92D6CCZJwoNZbE3
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

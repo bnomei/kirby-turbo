@@ -1,0 +1,17 @@
+Title: Inv 1218
+
+----
+
+Inventory-id: 1218
+
+----
+
+Film: page://PJ7bhn1I2shBev24
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ebMfIkj1nkT86ioc

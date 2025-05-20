@@ -1,0 +1,33 @@
+Title: JEREMY HURTADO
+
+----
+
+Customer-id: 374
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JEREMY
+
+----
+
+Last-name: HURTADO
+
+----
+
+Email: JEREMY.HURTADO@sakilacustomer.org
+
+----
+
+Address: page://kbx7GQypkSE4RY97
+
+----
+
+Active: 1
+
+----
+
+Uuid: T8FvGnbHYCWqhKEc

@@ -1,0 +1,25 @@
+Title: Rental 5845
+
+----
+
+Rental-id: 5845
+
+----
+
+Rental-date: 2005-07-10 17:23:14
+
+----
+
+Return-date: 2005-07-12 16:29:14
+
+----
+
+Inventory: page://siIjgmDTgQzyzqOj
+
+----
+
+Uuid: iIhzJXq5fighzbFn
+
+----
+
+Customer: page://1lV61pgXzMTI9zGL

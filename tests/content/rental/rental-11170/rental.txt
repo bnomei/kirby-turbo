@@ -1,0 +1,25 @@
+Title: Rental 11170
+
+----
+
+Rental-id: 11170
+
+----
+
+Rental-date: 2005-08-02 10:21:53
+
+----
+
+Return-date: 2005-08-08 11:08:53
+
+----
+
+Inventory: page://O5sq6I4cmkTy33GO
+
+----
+
+Customer: page://RTsWat8aWp87UcBi
+
+----
+
+Uuid: swt9nh0STQK45f6s

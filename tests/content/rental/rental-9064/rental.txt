@@ -1,0 +1,25 @@
+Title: Rental 9064
+
+----
+
+Rental-id: 9064
+
+----
+
+Rental-date: 2005-07-30 07:24:55
+
+----
+
+Return-date: 2005-08-07 08:44:55
+
+----
+
+Inventory: page://XFHINKVPybG8qBoV
+
+----
+
+Customer: page://3WUOY4VXzpqWI6NO
+
+----
+
+Uuid: 76hJdhzBRnTtS24L

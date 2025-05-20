@@ -1,0 +1,42 @@
+Title: BLOOD ARGONAUTS
+
+----
+
+Actors:
+
+- 'page://q6i5HOIdG8dGz8Im'
+- 'page://KV54RGx9NMbLtwi4'
+- 'page://r5vfuwK7SifeGhUs'
+- 'page://Q7LFBcb3oEdhSO9W'
+
+----
+
+Film-id: 82
+
+----
+
+Description: A Boring Drama of a Explorer And a Man who must Kill a Lumberjack in A Manhattan Penthouse
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 71
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: r6RbLIsQFlaQLYEq
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

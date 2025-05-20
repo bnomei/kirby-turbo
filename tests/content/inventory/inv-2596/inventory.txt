@@ -1,0 +1,17 @@
+Title: Inv 2596
+
+----
+
+Inventory-id: 2596
+
+----
+
+Film: page://zF6RRO0L4ynOo4F0
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Ixq26DnOo1KabdY9

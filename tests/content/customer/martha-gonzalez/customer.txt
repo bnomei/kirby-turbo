@@ -1,0 +1,33 @@
+Title: MARTHA GONZALEZ
+
+----
+
+Customer-id: 38
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MARTHA
+
+----
+
+Last-name: GONZALEZ
+
+----
+
+Email: MARTHA.GONZALEZ@sakilacustomer.org
+
+----
+
+Address: page://ZmPV2vBMePQYiZna
+
+----
+
+Active: 1
+
+----
+
+Uuid: EiH1RuNqWwCS6DfM

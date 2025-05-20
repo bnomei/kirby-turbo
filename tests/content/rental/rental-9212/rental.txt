@@ -1,0 +1,25 @@
+Title: Rental 9212
+
+----
+
+Rental-id: 9212
+
+----
+
+Rental-date: 2005-07-30 13:03:13
+
+----
+
+Return-date: 2005-08-06 09:48:13
+
+----
+
+Inventory: page://W5TpbmeB5rO7ferf
+
+----
+
+Customer: page://j6w051LSx5dWYnKn
+
+----
+
+Uuid: IAXwek7mOKUgTkse

@@ -1,0 +1,25 @@
+Title: Rental 4424
+
+----
+
+Rental-id: 4424
+
+----
+
+Rental-date: 2005-07-07 22:14:43
+
+----
+
+Return-date: 2005-07-11 01:17:43
+
+----
+
+Inventory: page://U8iDW5l43WEXwYV3
+
+----
+
+Uuid: cdhvYlW8n9CYOYL8
+
+----
+
+Customer: page://0DViNB8AjR6M3Kvz

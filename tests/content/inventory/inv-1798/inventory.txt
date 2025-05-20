@@ -1,0 +1,17 @@
+Title: Inv 1798
+
+----
+
+Inventory-id: 1798
+
+----
+
+Film: page://E2fI4o15d3WqMKiN
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ktzSYgFa3ojZQ92p

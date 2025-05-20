@@ -1,0 +1,17 @@
+Title: Inv 1826
+
+----
+
+Inventory-id: 1826
+
+----
+
+Film: page://WGXDM1RG4lfMpY2G
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: wtDBagWh0o3huDnG

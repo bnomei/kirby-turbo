@@ -1,0 +1,17 @@
+Title: Inv 4313
+
+----
+
+Inventory-id: 4313
+
+----
+
+Film: page://6unOli73wZXXuTqM
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: zeN8VmhkLUf3CEzP

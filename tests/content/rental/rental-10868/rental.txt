@@ -1,0 +1,25 @@
+Title: Rental 10868
+
+----
+
+Rental-id: 10868
+
+----
+
+Rental-date: 2005-08-02 00:25:15
+
+----
+
+Return-date: 2005-08-10 02:31:15
+
+----
+
+Inventory: page://Lj0OYQ9Vssa1VApc
+
+----
+
+Customer: page://dDebWAl7EXyRrJnM
+
+----
+
+Uuid: 1OKn65v8VrYzWVQh

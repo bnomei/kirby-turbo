@@ -1,0 +1,17 @@
+Title: Inv 3100
+
+----
+
+Inventory-id: 3100
+
+----
+
+Film: page://a0gDd5aMc5B7ovnL
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 3oYIcspbbLEdusfc

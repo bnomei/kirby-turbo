@@ -1,0 +1,17 @@
+Title: Inv 4523
+
+----
+
+Inventory-id: 4523
+
+----
+
+Film: page://LDxNmINGckMivcDR
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 9qAYIxPH9CQ5A7pn

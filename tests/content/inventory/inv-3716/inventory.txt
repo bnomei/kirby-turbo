@@ -1,0 +1,17 @@
+Title: Inv 3716
+
+----
+
+Inventory-id: 3716
+
+----
+
+Film: page://EoaTSoqYKv778Eh3
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: z1XTZgHskzVaXdsS

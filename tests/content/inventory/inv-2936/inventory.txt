@@ -1,0 +1,17 @@
+Title: Inv 2936
+
+----
+
+Inventory-id: 2936
+
+----
+
+Film: page://GQ2XElfoSILD5DVR
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: gms69fcbIpnOhv2x

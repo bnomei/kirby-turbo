@@ -1,0 +1,25 @@
+Title: Rental 1942
+
+----
+
+Rental-id: 1942
+
+----
+
+Rental-date: 2005-06-17 07:43:39
+
+----
+
+Return-date: 2005-06-25 02:24:39
+
+----
+
+Inventory: page://wBIqV8nzgLvt27tC
+
+----
+
+Uuid: 8JUpx7qhflGVFUBW
+
+----
+
+Customer: page://o07yBM7EP4XLPfD9

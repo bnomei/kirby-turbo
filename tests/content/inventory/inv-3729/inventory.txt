@@ -1,0 +1,17 @@
+Title: Inv 3729
+
+----
+
+Inventory-id: 3729
+
+----
+
+Film: page://yE38r27z9EzE0Emr
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: YgyyR6IQlNGAaCGU

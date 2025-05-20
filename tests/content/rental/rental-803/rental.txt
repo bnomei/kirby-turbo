@@ -1,0 +1,25 @@
+Title: Rental 803
+
+----
+
+Rental-id: 803
+
+----
+
+Rental-date: 2005-05-29 17:52:30
+
+----
+
+Return-date: 2005-05-30 14:35:30
+
+----
+
+Inventory: page://8xSuI5bKlOlYYV4D
+
+----
+
+Uuid: pzveJdWI3xcqPHc9
+
+----
+
+Customer: page://B846my6UhlL6l6CA

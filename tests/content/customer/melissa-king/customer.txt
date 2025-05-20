@@ -1,0 +1,33 @@
+Title: MELISSA KING
+
+----
+
+Customer-id: 30
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MELISSA
+
+----
+
+Last-name: KING
+
+----
+
+Email: MELISSA.KING@sakilacustomer.org
+
+----
+
+Address: page://bK43qFpgtqk7c66n
+
+----
+
+Active: 1
+
+----
+
+Uuid: bZxKFtO3mqYYQdiA

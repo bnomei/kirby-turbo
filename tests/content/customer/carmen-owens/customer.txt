@@ -1,0 +1,33 @@
+Title: CARMEN OWENS
+
+----
+
+Customer-id: 111
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CARMEN
+
+----
+
+Last-name: OWENS
+
+----
+
+Email: CARMEN.OWENS@sakilacustomer.org
+
+----
+
+Address: page://W9zMngyq17rcFR1K
+
+----
+
+Active: 1
+
+----
+
+Uuid: 3oDVHadirwJKNUrH

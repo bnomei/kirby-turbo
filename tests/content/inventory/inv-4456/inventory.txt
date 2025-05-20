@@ -1,0 +1,17 @@
+Title: Inv 4456
+
+----
+
+Inventory-id: 4456
+
+----
+
+Film: page://mpE9RTqrJOxDUbqz
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: bOMDHeKkzfrrr6us

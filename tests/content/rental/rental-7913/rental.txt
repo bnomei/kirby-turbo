@@ -1,0 +1,25 @@
+Title: Rental 7913
+
+----
+
+Rental-id: 7913
+
+----
+
+Rental-date: 2005-07-28 11:47:23
+
+----
+
+Return-date: 2005-08-05 06:36:23
+
+----
+
+Inventory: page://zMrxbbO4aHtdMQ7s
+
+----
+
+Customer: page://YWOr146BeG0pdDed
+
+----
+
+Uuid: LvPBRP8TJP3WHmNK

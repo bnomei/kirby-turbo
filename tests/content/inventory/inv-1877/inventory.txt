@@ -1,0 +1,17 @@
+Title: Inv 1877
+
+----
+
+Inventory-id: 1877
+
+----
+
+Film: page://WcPezxIt8eTUWQ2G
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: sM5P6x0aVTi2gtGf

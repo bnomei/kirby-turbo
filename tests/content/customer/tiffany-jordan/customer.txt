@@ -1,0 +1,33 @@
+Title: TIFFANY JORDAN
+
+----
+
+Customer-id: 110
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: TIFFANY
+
+----
+
+Last-name: JORDAN
+
+----
+
+Email: TIFFANY.JORDAN@sakilacustomer.org
+
+----
+
+Address: page://r6rAZX9cxFZMCkgJ
+
+----
+
+Active: 1
+
+----
+
+Uuid: XZqTxsNej50wJ3aq

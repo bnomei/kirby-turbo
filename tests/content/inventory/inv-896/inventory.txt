@@ -1,0 +1,17 @@
+Title: Inv 896
+
+----
+
+Inventory-id: 896
+
+----
+
+Film: page://w6mqZN9tHvV761EL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: k22OAK3CDfbkZgTD

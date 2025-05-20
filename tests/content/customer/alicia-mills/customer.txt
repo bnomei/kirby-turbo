@@ -1,0 +1,33 @@
+Title: ALICIA MILLS
+
+----
+
+Customer-id: 152
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ALICIA
+
+----
+
+Last-name: MILLS
+
+----
+
+Email: ALICIA.MILLS@sakilacustomer.org
+
+----
+
+Address: page://cxMMzwexiupICckH
+
+----
+
+Active: 1
+
+----
+
+Uuid: mEEAl0d4gMjFDZVU

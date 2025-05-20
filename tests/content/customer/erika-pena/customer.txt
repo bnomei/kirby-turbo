@@ -1,0 +1,33 @@
+Title: ERIKA PENA
+
+----
+
+Customer-id: 298
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ERIKA
+
+----
+
+Last-name: PENA
+
+----
+
+Email: ERIKA.PENA@sakilacustomer.org
+
+----
+
+Address: page://k885QM0jSGVcHmS1
+
+----
+
+Active: 1
+
+----
+
+Uuid: kggfDZMvkg2kYXlE

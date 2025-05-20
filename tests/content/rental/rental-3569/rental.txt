@@ -1,0 +1,25 @@
+Title: Rental 3569
+
+----
+
+Rental-id: 3569
+
+----
+
+Rental-date: 2005-07-06 03:17:23
+
+----
+
+Return-date: 2005-07-14 03:58:23
+
+----
+
+Inventory: page://79pet6IvUawxP3ll
+
+----
+
+Uuid: KetxVITAdmHY0QHX
+
+----
+
+Customer: page://GOt9TBIxUNbbEEg5

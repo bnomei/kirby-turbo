@@ -1,0 +1,25 @@
+Title: Rental 7352
+
+----
+
+Rental-id: 7352
+
+----
+
+Rental-date: 2005-07-27 14:38:29
+
+----
+
+Return-date: 2005-07-28 14:24:29
+
+----
+
+Inventory: page://pdp6QcHMFAuAzueA
+
+----
+
+Customer: page://j2E1ltZ4ghv3z4iP
+
+----
+
+Uuid: HJQ8tmypoRNKFqeU

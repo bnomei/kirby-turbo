@@ -1,0 +1,17 @@
+Title: Inv 3501
+
+----
+
+Inventory-id: 3501
+
+----
+
+Film: page://i09ZUgQcDRxEVuGe
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: MbVanIVejoa4qHXx

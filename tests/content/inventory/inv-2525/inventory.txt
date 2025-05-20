@@ -1,0 +1,17 @@
+Title: Inv 2525
+
+----
+
+Inventory-id: 2525
+
+----
+
+Film: page://SR6DpfbquVcVhHuW
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: vbswNi70dbpysvri

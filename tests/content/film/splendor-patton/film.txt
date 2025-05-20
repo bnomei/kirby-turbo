@@ -1,0 +1,48 @@
+Title: SPLENDOR PATTON
+
+----
+
+Actors:
+
+- 'page://xbVuFnPKikNsqVkK'
+- 'page://RW4ixiF3bbh7oXkH'
+- 'page://4hDC3FM6lySlQjxW'
+- 'page://L8EgxOu9xdHGpzVg'
+- 'page://S8UoUinBIsjzumVd'
+- 'page://CsoOTyxORoAs7uZy'
+- 'page://OqV4tbW7WtFrMtYI'
+- 'page://X3dUYAbt0AiREsIH'
+- 'page://V93xbOGPlOsB9ymO'
+- 'page://IUEdThBjLk8TNUwy'
+
+----
+
+Film-id: 833
+
+----
+
+Description: A Taut Story of a Dog And a Explorer who must Find a Astronaut in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 134
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: BMtazaGmS6oQnaij
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

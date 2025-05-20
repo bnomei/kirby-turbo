@@ -1,0 +1,25 @@
+Title: Rental 3002
+
+----
+
+Rental-id: 3002
+
+----
+
+Rental-date: 2005-06-20 09:56:12
+
+----
+
+Return-date: 2005-06-24 12:15:12
+
+----
+
+Inventory: page://iI2ZQ715xYNwdQ0p
+
+----
+
+Uuid: X78q3A68kxwX4sxp
+
+----
+
+Customer: page://mfYh9J5zA5Ib3tjU

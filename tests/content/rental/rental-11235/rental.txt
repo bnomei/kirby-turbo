@@ -1,0 +1,25 @@
+Title: Rental 11235
+
+----
+
+Rental-id: 11235
+
+----
+
+Rental-date: 2005-08-02 13:13:21
+
+----
+
+Return-date: 2005-08-03 07:17:21
+
+----
+
+Inventory: page://qRBXDdxkIrhmKxN1
+
+----
+
+Customer: page://JwCLM6Oie6KS9Hma
+
+----
+
+Uuid: slITZynBE8RIolCI

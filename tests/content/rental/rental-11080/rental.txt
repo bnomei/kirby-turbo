@@ -1,0 +1,25 @@
+Title: Rental 11080
+
+----
+
+Rental-id: 11080
+
+----
+
+Rental-date: 2005-08-02 07:29:56
+
+----
+
+Return-date: 2005-08-08 05:58:56
+
+----
+
+Inventory: page://sZpUH237unQUzFzh
+
+----
+
+Customer: page://NrH2ag1h7sBRKnqA
+
+----
+
+Uuid: yUwOSX3sMd3xXzns

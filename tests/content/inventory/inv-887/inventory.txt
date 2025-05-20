@@ -1,0 +1,17 @@
+Title: Inv 887
+
+----
+
+Inventory-id: 887
+
+----
+
+Film: page://DDFWUj57QnR4PLle
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: IvzbpVSNPkVaucLo

@@ -1,0 +1,25 @@
+Title: Rental 13400
+
+----
+
+Rental-id: 13400
+
+----
+
+Rental-date: 2005-08-19 22:11:44
+
+----
+
+Return-date: 2005-08-20 23:27:44
+
+----
+
+Inventory: page://M5WjbRtemj6kYlzN
+
+----
+
+Customer: page://28btFRqxUbpYMux2
+
+----
+
+Uuid: BrbBl9CACme9Tt5B

@@ -1,0 +1,25 @@
+Title: Rental 4039
+
+----
+
+Rental-id: 4039
+
+----
+
+Rental-date: 2005-07-07 02:57:59
+
+----
+
+Return-date: 2005-07-12 03:44:59
+
+----
+
+Inventory: page://aw3fd97Z4M3Ngvr9
+
+----
+
+Uuid: 6xuQc8tjqcY6pjjf
+
+----
+
+Customer: page://88ZpPvHuxTFZYKCY

@@ -1,0 +1,25 @@
+Title: Rental 10091
+
+----
+
+Rental-id: 10091
+
+----
+
+Rental-date: 2005-07-31 20:23:13
+
+----
+
+Return-date: 2005-08-02 21:58:13
+
+----
+
+Inventory: page://TRYOMVnkwvIfpFcU
+
+----
+
+Customer: page://85ovZXEWpqXAx1KN
+
+----
+
+Uuid: uWFZp0BEW9T6u5Un

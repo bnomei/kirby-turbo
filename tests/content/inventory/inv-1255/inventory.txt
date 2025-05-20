@@ -1,0 +1,17 @@
+Title: Inv 1255
+
+----
+
+Inventory-id: 1255
+
+----
+
+Film: page://8evlJvoBciSmROxc
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: zkT1XDDDqr6zhJN7

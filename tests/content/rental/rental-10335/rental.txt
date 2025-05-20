@@ -1,0 +1,25 @@
+Title: Rental 10335
+
+----
+
+Rental-id: 10335
+
+----
+
+Rental-date: 2005-08-01 04:59:30
+
+----
+
+Return-date: 2005-08-05 02:26:30
+
+----
+
+Inventory: page://FMOZq2fAHVTpHFXM
+
+----
+
+Customer: page://Cc0UnWjmLMYrhwNc
+
+----
+
+Uuid: qdxDcoQVnkJDrJjy

@@ -1,0 +1,25 @@
+Title: Rental 9378
+
+----
+
+Rental-id: 9378
+
+----
+
+Rental-date: 2005-07-30 19:12:54
+
+----
+
+Return-date: 2005-08-05 18:16:54
+
+----
+
+Inventory: page://Bji0Nen2KYbHedb1
+
+----
+
+Customer: page://CcA8b6iqpwFbs801
+
+----
+
+Uuid: PkkKsuRO7jTT13De

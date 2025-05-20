@@ -1,0 +1,33 @@
+Title: MAE FLETCHER
+
+----
+
+Customer-id: 293
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: MAE
+
+----
+
+Last-name: FLETCHER
+
+----
+
+Email: MAE.FLETCHER@sakilacustomer.org
+
+----
+
+Address: page://zPeWWtWqdBMwvJum
+
+----
+
+Active: 1
+
+----
+
+Uuid: Hpp58DeoLb615BZP

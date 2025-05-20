@@ -1,0 +1,25 @@
+Title: Rental 10396
+
+----
+
+Rental-id: 10396
+
+----
+
+Rental-date: 2005-08-01 07:08:46
+
+----
+
+Return-date: 2005-08-08 03:47:46
+
+----
+
+Inventory: page://In3T6OzHKI0FCO9B
+
+----
+
+Customer: page://DQdRudB4hPmZIfVZ
+
+----
+
+Uuid: L7HqI9NoWiRpyYDb

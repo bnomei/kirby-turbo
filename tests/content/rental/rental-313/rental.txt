@@ -1,0 +1,25 @@
+Title: Rental 313
+
+----
+
+Rental-id: 313
+
+----
+
+Rental-date: 2005-05-26 22:56:19
+
+----
+
+Return-date: 2005-05-29 01:29:19
+
+----
+
+Inventory: page://2VZEUkPqYSZvJMnQ
+
+----
+
+Uuid: kWUJ2RRzldfROTFV
+
+----
+
+Customer: page://DZzK6reO3V0LDrPm

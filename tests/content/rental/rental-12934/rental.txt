@@ -1,0 +1,25 @@
+Title: Rental 12934
+
+----
+
+Rental-id: 12934
+
+----
+
+Rental-date: 2005-08-19 05:18:42
+
+----
+
+Return-date: 2005-08-24 10:42:42
+
+----
+
+Inventory: page://zyvfKDCl22ASQLFc
+
+----
+
+Customer: page://dkYED9p0YUgsDhXs
+
+----
+
+Uuid: Ip5AVQYMVnkGfSbj

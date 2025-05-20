@@ -1,0 +1,25 @@
+Title: Rental 12035
+
+----
+
+Rental-id: 12035
+
+----
+
+Rental-date: 2005-08-17 20:18:06
+
+----
+
+Return-date: 2005-08-21 16:41:06
+
+----
+
+Inventory: page://RpKonbph7tC2ryrq
+
+----
+
+Customer: page://NB8qqTmaJphAOwtJ
+
+----
+
+Uuid: sLfGJCj7THOBFRBY

@@ -1,0 +1,25 @@
+Title: Rental 109
+
+----
+
+Rental-id: 109
+
+----
+
+Rental-date: 2005-05-25 18:40:20
+
+----
+
+Return-date: 2005-05-29 20:39:20
+
+----
+
+Inventory: page://ogsVRgnI97xR8myq
+
+----
+
+Uuid: tYZApFm3PD7OI2pf
+
+----
+
+Customer: page://6OY6sKjbR1uPXwOW

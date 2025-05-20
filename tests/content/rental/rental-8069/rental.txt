@@ -1,0 +1,25 @@
+Title: Rental 8069
+
+----
+
+Rental-id: 8069
+
+----
+
+Rental-date: 2005-07-28 17:23:46
+
+----
+
+Return-date: 2005-07-30 16:19:46
+
+----
+
+Inventory: page://sQShDtv9okLu0GAr
+
+----
+
+Customer: page://julxqmzKuY3KPZ0W
+
+----
+
+Uuid: qAAGDxdjm7QqOGgv

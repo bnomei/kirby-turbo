@@ -1,0 +1,25 @@
+Title: Rental 3976
+
+----
+
+Rental-id: 3976
+
+----
+
+Rental-date: 2005-07-06 23:00:20
+
+----
+
+Return-date: 2005-07-07 21:51:20
+
+----
+
+Inventory: page://VT5OW5CW02sWJUqX
+
+----
+
+Uuid: 936GxUB7UTyugdol
+
+----
+
+Customer: page://uPhvBTY0GbGPCouW

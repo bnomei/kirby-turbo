@@ -1,0 +1,17 @@
+Title: Inv 598
+
+----
+
+Inventory-id: 598
+
+----
+
+Film: page://pG8v2NjQVkShZ4bI
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 04NLGJzm4VdSHTvD

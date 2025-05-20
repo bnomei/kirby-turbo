@@ -1,0 +1,25 @@
+Title: Rental 4792
+
+----
+
+Rental-id: 4792
+
+----
+
+Rental-date: 2005-07-08 16:29:38
+
+----
+
+Return-date: 2005-07-10 16:31:38
+
+----
+
+Inventory: page://BVkYtw1AY3JMqgJw
+
+----
+
+Uuid: tGtcn1VELixhS5b3
+
+----
+
+Customer: page://cT1ATboviBoOP1VF

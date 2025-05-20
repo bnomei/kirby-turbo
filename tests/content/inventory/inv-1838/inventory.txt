@@ -1,0 +1,17 @@
+Title: Inv 1838
+
+----
+
+Inventory-id: 1838
+
+----
+
+Film: page://x4IUXMPMsyLaDzVI
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 6WuHKy55BedehGdD

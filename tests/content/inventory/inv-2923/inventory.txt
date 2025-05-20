@@ -1,0 +1,17 @@
+Title: Inv 2923
+
+----
+
+Inventory-id: 2923
+
+----
+
+Film: page://vhkErafCh9Wb0AlE
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: U9zkdQLM76KFOyPF

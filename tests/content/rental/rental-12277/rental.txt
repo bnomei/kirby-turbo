@@ -1,0 +1,21 @@
+Title: Rental 12277
+
+----
+
+Rental-id: 12277
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://7a20mXf372dLZEzD
+
+----
+
+Customer: page://Cc0UnWjmLMYrhwNc
+
+----
+
+Uuid: Ioyf8jgISEdsPLbb

@@ -1,0 +1,25 @@
+Title: Rental 12958
+
+----
+
+Rental-id: 12958
+
+----
+
+Rental-date: 2005-08-19 06:19:21
+
+----
+
+Return-date: 2005-08-20 02:21:21
+
+----
+
+Inventory: page://8mhfzaaCRUNjFSSB
+
+----
+
+Customer: page://yvKogFHQVJDnr873
+
+----
+
+Uuid: pzysZACG7oItlz8C

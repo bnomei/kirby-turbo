@@ -1,0 +1,25 @@
+Title: Rental 6080
+
+----
+
+Rental-id: 6080
+
+----
+
+Rental-date: 2005-07-11 05:08:11
+
+----
+
+Return-date: 2005-07-16 09:54:11
+
+----
+
+Inventory: page://sUNGQV7aPoUnL8pa
+
+----
+
+Uuid: slJxDnMt3KL1LvA5
+
+----
+
+Customer: page://j8uyjiPeUtgzKjW3

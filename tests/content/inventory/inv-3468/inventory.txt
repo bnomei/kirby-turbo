@@ -1,0 +1,17 @@
+Title: Inv 3468
+
+----
+
+Inventory-id: 3468
+
+----
+
+Film: page://QkPR08jHprrRWEr9
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: K27NFZUs0fK8T2O3

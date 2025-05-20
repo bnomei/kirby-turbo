@@ -1,0 +1,25 @@
+Title: Rental 1045
+
+----
+
+Rental-id: 1045
+
+----
+
+Rental-date: 2005-05-31 06:29:01
+
+----
+
+Return-date: 2005-06-09 04:31:01
+
+----
+
+Inventory: page://LttMUX6LK57gfPXr
+
+----
+
+Uuid: ZydaL08cD5jPcHuc
+
+----
+
+Customer: page://DZzK6reO3V0LDrPm

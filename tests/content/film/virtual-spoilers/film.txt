@@ -1,0 +1,41 @@
+Title: VIRTUAL SPOILERS
+
+----
+
+Actors:
+
+- 'page://8v9dhLSIQd0NpUQl'
+- 'page://HMQFYCzd6sL7s9te'
+- 'page://CBtLT02Rklp5i11L'
+
+----
+
+Film-id: 946
+
+----
+
+Description: A Fateful Tale of a Database Administrator And a Squirrel who must Discover a Student in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 144
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: YvmY2dKl32dFuhg0
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

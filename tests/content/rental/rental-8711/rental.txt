@@ -1,0 +1,25 @@
+Title: Rental 8711
+
+----
+
+Rental-id: 8711
+
+----
+
+Rental-date: 2005-07-29 17:27:15
+
+----
+
+Return-date: 2005-07-31 12:57:15
+
+----
+
+Inventory: page://kafrIjdT7c00Q1MD
+
+----
+
+Customer: page://rrY2EqqBMU56rgxn
+
+----
+
+Uuid: qI8hKY1M3v5ckPGk

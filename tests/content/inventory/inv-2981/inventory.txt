@@ -1,0 +1,17 @@
+Title: Inv 2981
+
+----
+
+Inventory-id: 2981
+
+----
+
+Film: page://r8LaBmm77NP8V866
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: WAhIN6SUVuBCDqCq

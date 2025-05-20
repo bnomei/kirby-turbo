@@ -1,0 +1,25 @@
+Title: Rental 5916
+
+----
+
+Rental-id: 5916
+
+----
+
+Rental-date: 2005-07-10 21:26:31
+
+----
+
+Return-date: 2005-07-19 20:23:31
+
+----
+
+Inventory: page://vNjkc6bvJdA3vMTa
+
+----
+
+Uuid: CyduJDNSgchzWBmb
+
+----
+
+Customer: page://G5MahFW7vTJhSf6a

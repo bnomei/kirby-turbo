@@ -1,0 +1,25 @@
+Title: Rental 748
+
+----
+
+Rental-id: 748
+
+----
+
+Rental-date: 2005-05-29 09:27:00
+
+----
+
+Return-date: 2005-06-03 04:25:00
+
+----
+
+Inventory: page://fDE7iWwu5W1Z9wOq
+
+----
+
+Uuid: 3BG7okKhaS5vKRfR
+
+----
+
+Customer: page://Azw9Nv7ouxsZUKzG

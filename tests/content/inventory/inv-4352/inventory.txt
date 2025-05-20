@@ -1,0 +1,17 @@
+Title: Inv 4352
+
+----
+
+Inventory-id: 4352
+
+----
+
+Film: page://z5ZmTXM5Y5iCD3Pc
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ZFbXhxg1E2cotWkF

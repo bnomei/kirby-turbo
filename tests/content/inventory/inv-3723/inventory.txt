@@ -1,0 +1,17 @@
+Title: Inv 3723
+
+----
+
+Inventory-id: 3723
+
+----
+
+Film: page://ercNXUBP8HnWiyFR
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 9rFGpc1GTRXs2Kql

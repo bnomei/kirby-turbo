@@ -1,0 +1,33 @@
+Title: MARGARET MOORE
+
+----
+
+Customer-id: 9
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: MARGARET
+
+----
+
+Last-name: MOORE
+
+----
+
+Email: MARGARET.MOORE@sakilacustomer.org
+
+----
+
+Address: page://PUMMLeATwQmH5MjS
+
+----
+
+Active: 1
+
+----
+
+Uuid: woNj5GQ9VpxY7M5X

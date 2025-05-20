@@ -1,0 +1,25 @@
+Title: Rental 15134
+
+----
+
+Rental-id: 15134
+
+----
+
+Rental-date: 2005-08-22 13:18:25
+
+----
+
+Return-date: 2005-08-29 18:03:25
+
+----
+
+Inventory: page://222n9GcMQKGxtMat
+
+----
+
+Customer: page://WYN3R1xdu8tNVx9R
+
+----
+
+Uuid: YyPWnnZ0TfaiJco8

@@ -1,0 +1,25 @@
+Title: Rental 3920
+
+----
+
+Rental-id: 3920
+
+----
+
+Rental-date: 2005-07-06 20:26:40
+
+----
+
+Return-date: 2005-07-15 15:00:40
+
+----
+
+Inventory: page://H30gRIvMZmGTJVVy
+
+----
+
+Uuid: twhQfbHBiHPbq8dp
+
+----
+
+Customer: page://36F29rZd3q9eaQjs

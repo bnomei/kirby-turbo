@@ -1,0 +1,25 @@
+Title: Rental 6115
+
+----
+
+Rental-id: 6115
+
+----
+
+Rental-date: 2005-07-11 07:36:50
+
+----
+
+Return-date: 2005-07-13 11:30:50
+
+----
+
+Inventory: page://uBtRghPmgJf43sAO
+
+----
+
+Uuid: gi8hXBI1E10OJlV8
+
+----
+
+Customer: page://7WkfUKxy0GqFjI0B

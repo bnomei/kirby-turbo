@@ -1,0 +1,17 @@
+Title: Inv 4326
+
+----
+
+Inventory-id: 4326
+
+----
+
+Film: page://DiFdXSuoPSTY6Kn0
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: VomidCri6Y8nJoKs

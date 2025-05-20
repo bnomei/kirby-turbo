@@ -1,0 +1,25 @@
+Title: Rental 1172
+
+----
+
+Rental-id: 1172
+
+----
+
+Rental-date: 2005-06-14 23:54:34
+
+----
+
+Return-date: 2005-06-16 02:26:34
+
+----
+
+Inventory: page://kcvyQFcm4gXFnGM5
+
+----
+
+Uuid: 7Nm6p34xP45QWg3s
+
+----
+
+Customer: page://2C8Z04rPFee2aFn8

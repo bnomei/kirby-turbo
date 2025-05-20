@@ -1,0 +1,25 @@
+Title: Rental 4916
+
+----
+
+Rental-id: 4916
+
+----
+
+Rental-date: 2005-07-08 21:32:17
+
+----
+
+Return-date: 2005-07-14 20:55:17
+
+----
+
+Inventory: page://tPlXuz40ODDo6Uqw
+
+----
+
+Uuid: JwJruczNkaJ2fD5E
+
+----
+
+Customer: page://66OVCYFZ1KPdAPEm

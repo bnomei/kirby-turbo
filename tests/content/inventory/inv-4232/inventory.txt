@@ -1,0 +1,17 @@
+Title: Inv 4232
+
+----
+
+Inventory-id: 4232
+
+----
+
+Film: page://EGBbhwexVKfnd31B
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: mc4Qhhkt4FPtQNda

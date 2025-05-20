@@ -1,0 +1,42 @@
+Title: DAUGHTER MADIGAN
+
+----
+
+Actors:
+
+- 'page://gxNf949gkwS5ks3A'
+- 'page://SR0Aks2aA1YgkZ1s'
+- 'page://WFF82auh2AgpYPoL'
+- 'page://zDG4LP4a8BGDrQEW'
+
+----
+
+Film-id: 214
+
+----
+
+Description: A Beautiful Tale of a Hunter And a Mad Scientist who must Confront a Squirrel in The First Manned Space Station
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 59
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: f9CPopvxbMHB6a1l
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

@@ -1,0 +1,17 @@
+Title: Inv 3231
+
+----
+
+Inventory-id: 3231
+
+----
+
+Film: page://WgpGVhjldNvIG7Gp
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: lrX1oIBmOCakvcKT

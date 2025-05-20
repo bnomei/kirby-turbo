@@ -1,0 +1,33 @@
+Title: DEREK BLAKELY
+
+----
+
+Customer-id: 461
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: DEREK
+
+----
+
+Last-name: BLAKELY
+
+----
+
+Email: DEREK.BLAKELY@sakilacustomer.org
+
+----
+
+Address: page://ylwbAUk0xUkdW8t6
+
+----
+
+Active: 1
+
+----
+
+Uuid: NRYxn443K39MMQN1

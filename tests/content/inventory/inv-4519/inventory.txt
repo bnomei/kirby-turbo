@@ -1,0 +1,17 @@
+Title: Inv 4519
+
+----
+
+Inventory-id: 4519
+
+----
+
+Film: page://FnTv4J9zqjUvg8Pa
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: xAVsiVjGGIwJgYJX

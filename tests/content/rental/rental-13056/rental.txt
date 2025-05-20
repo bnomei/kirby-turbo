@@ -1,0 +1,21 @@
+Title: Rental 13056
+
+----
+
+Rental-id: 13056
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://m22ENcP7BZYYz987
+
+----
+
+Customer: page://j8uyjiPeUtgzKjW3
+
+----
+
+Uuid: Knt9nlKgh7cJeSJi

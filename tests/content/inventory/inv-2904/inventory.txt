@@ -1,0 +1,17 @@
+Title: Inv 2904
+
+----
+
+Inventory-id: 2904
+
+----
+
+Film: page://Y8LjgsKHVj6dq3cU
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Wuh70OqgN8NNsAxy

@@ -1,0 +1,33 @@
+Title: ANN EVANS
+
+----
+
+Customer-id: 48
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ANN
+
+----
+
+Last-name: EVANS
+
+----
+
+Email: ANN.EVANS@sakilacustomer.org
+
+----
+
+Address: page://ZC1wtcLbD5AKOwYO
+
+----
+
+Active: 1
+
+----
+
+Uuid: nZVFUQsoyO1MvhAU

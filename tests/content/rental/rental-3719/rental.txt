@@ -1,0 +1,25 @@
+Title: Rental 3719
+
+----
+
+Rental-id: 3719
+
+----
+
+Rental-date: 2005-07-06 11:05:55
+
+----
+
+Return-date: 2005-07-11 08:10:55
+
+----
+
+Inventory: page://5run77WJkEXf5qyp
+
+----
+
+Uuid: wHc9pJklTAldDwvS
+
+----
+
+Customer: page://20Yola6tVbTLAtmZ

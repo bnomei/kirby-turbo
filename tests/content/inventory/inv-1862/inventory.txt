@@ -1,0 +1,17 @@
+Title: Inv 1862
+
+----
+
+Inventory-id: 1862
+
+----
+
+Film: page://3feoASLQJovEikjc
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: iwmN9HqMa25XRDG9

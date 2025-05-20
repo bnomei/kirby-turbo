@@ -1,0 +1,25 @@
+Title: Rental 4592
+
+----
+
+Rental-id: 4592
+
+----
+
+Rental-date: 2005-07-08 06:31:28
+
+----
+
+Return-date: 2005-07-10 06:08:28
+
+----
+
+Inventory: page://l4zsI7O2bNyLE5oJ
+
+----
+
+Uuid: Lu9uj5T9OC9I0Oyr
+
+----
+
+Customer: page://U0fmtb7mDA7lmArJ

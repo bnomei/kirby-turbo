@@ -1,0 +1,17 @@
+Title: Inv 4163
+
+----
+
+Inventory-id: 4163
+
+----
+
+Film: page://I28aAptXi3bWMm6Q
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: e4RSDJ3ExbS3WRAT

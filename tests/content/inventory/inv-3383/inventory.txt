@@ -1,0 +1,17 @@
+Title: Inv 3383
+
+----
+
+Inventory-id: 3383
+
+----
+
+Film: page://e1YITmRSbApaTRTv
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: cH3BSnPQQ6PkgUab

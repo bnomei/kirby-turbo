@@ -1,0 +1,25 @@
+Title: Rental 178
+
+----
+
+Rental-id: 178
+
+----
+
+Rental-date: 2005-05-26 04:21:46
+
+----
+
+Return-date: 2005-06-04 07:09:46
+
+----
+
+Inventory: page://XT8NRKqy0i5TCvBn
+
+----
+
+Uuid: 2tu8KnnaOeBU3dyt
+
+----
+
+Customer: page://TCHvKARcBg3R487d

@@ -1,0 +1,25 @@
+Title: Rental 4638
+
+----
+
+Rental-id: 4638
+
+----
+
+Rental-date: 2005-07-08 08:57:20
+
+----
+
+Return-date: 2005-07-10 05:08:20
+
+----
+
+Inventory: page://dGcsFLF8pLNTOf8k
+
+----
+
+Uuid: DSIN6gk6cx8St0Pp
+
+----
+
+Customer: page://7iGZLGyiqgYlIYqZ

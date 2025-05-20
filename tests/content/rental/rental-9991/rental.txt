@@ -1,0 +1,25 @@
+Title: Rental 9991
+
+----
+
+Rental-id: 9991
+
+----
+
+Rental-date: 2005-07-31 17:26:27
+
+----
+
+Return-date: 2005-08-03 17:36:27
+
+----
+
+Inventory: page://kSdLT4dsIsey3Lz9
+
+----
+
+Customer: page://0ErgJ6kLkZUKKYCI
+
+----
+
+Uuid: AE3svdhQBHUi6PEj

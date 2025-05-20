@@ -1,0 +1,25 @@
+Title: Rental 12106
+
+----
+
+Rental-id: 12106
+
+----
+
+Rental-date: 2005-08-17 22:55:32
+
+----
+
+Return-date: 2005-08-19 23:55:32
+
+----
+
+Inventory: page://DRrSUFYATBO0AvR5
+
+----
+
+Customer: page://6GC3Hgx1HgV9Jfdp
+
+----
+
+Uuid: FmWRLQc7uyohpnOK

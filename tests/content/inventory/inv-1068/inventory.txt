@@ -1,0 +1,17 @@
+Title: Inv 1068
+
+----
+
+Inventory-id: 1068
+
+----
+
+Film: page://GSA3cw3HVidSJ3u3
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: jDgA0Bcv24oshFeF

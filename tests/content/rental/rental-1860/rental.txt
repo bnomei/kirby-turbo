@@ -1,0 +1,25 @@
+Title: Rental 1860
+
+----
+
+Rental-id: 1860
+
+----
+
+Rental-date: 2005-06-17 01:17:12
+
+----
+
+Return-date: 2005-06-21 22:35:12
+
+----
+
+Inventory: page://gQrqdrQrmZss5mWq
+
+----
+
+Uuid: sFdhYQA1mPJlhR2S
+
+----
+
+Customer: page://Hpp58DeoLb615BZP

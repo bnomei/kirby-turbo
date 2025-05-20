@@ -1,0 +1,25 @@
+Title: Rental 5939
+
+----
+
+Rental-id: 5939
+
+----
+
+Rental-date: 2005-07-10 22:30:05
+
+----
+
+Return-date: 2005-07-14 00:02:05
+
+----
+
+Inventory: page://3jm7bSssvqiEr1Dd
+
+----
+
+Uuid: Gcpndr3TRIrL4GIy
+
+----
+
+Customer: page://wMkYUds0NaSHubNn

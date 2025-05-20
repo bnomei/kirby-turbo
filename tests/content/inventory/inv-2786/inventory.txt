@@ -1,0 +1,17 @@
+Title: Inv 2786
+
+----
+
+Inventory-id: 2786
+
+----
+
+Film: page://3UBsgfesYaEE18sw
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 5xru6LQV3a4Ueu8W

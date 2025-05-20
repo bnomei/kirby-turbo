@@ -1,0 +1,25 @@
+Title: Rental 1973
+
+----
+
+Rental-id: 1973
+
+----
+
+Rental-date: 2005-06-17 09:26:15
+
+----
+
+Return-date: 2005-06-21 10:18:15
+
+----
+
+Inventory: page://Xvivdy6popzK2aKS
+
+----
+
+Uuid: HiVthiqLoMnc9Dys
+
+----
+
+Customer: page://Nq991akaEgNmdCHy

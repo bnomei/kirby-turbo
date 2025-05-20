@@ -1,0 +1,17 @@
+Title: Inv 3770
+
+----
+
+Inventory-id: 3770
+
+----
+
+Film: page://B47pc300dBObDlEY
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: HPat0x7pCGLh35mM

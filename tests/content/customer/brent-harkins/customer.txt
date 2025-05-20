@@ -1,0 +1,33 @@
+Title: BRENT HARKINS
+
+----
+
+Customer-id: 493
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: BRENT
+
+----
+
+Last-name: HARKINS
+
+----
+
+Email: BRENT.HARKINS@sakilacustomer.org
+
+----
+
+Address: page://doHna44IlZQejndS
+
+----
+
+Active: 1
+
+----
+
+Uuid: frnhXD3aQVG6hXRV

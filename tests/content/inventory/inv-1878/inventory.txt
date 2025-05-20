@@ -1,0 +1,17 @@
+Title: Inv 1878
+
+----
+
+Inventory-id: 1878
+
+----
+
+Film: page://WcPezxIt8eTUWQ2G
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: TRYOMVnkwvIfpFcU

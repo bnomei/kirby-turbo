@@ -1,0 +1,33 @@
+Title: DUANE TUBBS
+
+----
+
+Customer-id: 513
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: DUANE
+
+----
+
+Last-name: TUBBS
+
+----
+
+Email: DUANE.TUBBS@sakilacustomer.org
+
+----
+
+Address: page://7Coeh5kL0Rlra4zy
+
+----
+
+Active: 1
+
+----
+
+Uuid: i7YOMN6TypeotXP0

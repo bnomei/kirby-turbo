@@ -1,0 +1,17 @@
+Title: Inv 1603
+
+----
+
+Inventory-id: 1603
+
+----
+
+Film: page://kstF1fKjigdawN11
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 91TRkhgom2qlLG15

@@ -1,0 +1,17 @@
+Title: Inv 341
+
+----
+
+Inventory-id: 341
+
+----
+
+Film: page://M7wUHR0JaZobNNXm
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 8R4P7JDWEDWM5LLw

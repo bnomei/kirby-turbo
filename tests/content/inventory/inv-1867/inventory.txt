@@ -1,0 +1,17 @@
+Title: Inv 1867
+
+----
+
+Inventory-id: 1867
+
+----
+
+Film: page://x0gO7YRtpNfgYnvF
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: TcUSBcYZobn5TDmc

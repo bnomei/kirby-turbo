@@ -1,0 +1,25 @@
+Title: Rental 6331
+
+----
+
+Rental-id: 6331
+
+----
+
+Rental-date: 2005-07-11 19:17:21
+
+----
+
+Return-date: 2005-07-18 18:35:21
+
+----
+
+Inventory: page://pbY3ddRLvdcXjGBS
+
+----
+
+Uuid: 6ZH2NGxR8zJmc8V2
+
+----
+
+Customer: page://MMjN8znOj5ltCet6

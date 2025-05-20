@@ -1,0 +1,25 @@
+Title: Rental 2850
+
+----
+
+Rental-id: 2850
+
+----
+
+Rental-date: 2005-06-19 23:06:28
+
+----
+
+Return-date: 2005-06-28 03:30:28
+
+----
+
+Inventory: page://cH0DNw3fgyf6iSeP
+
+----
+
+Uuid: jMHJWkLgIt1e3aqG
+
+----
+
+Customer: page://eLvYHcB0z8NgTgF8

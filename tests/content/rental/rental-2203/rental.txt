@@ -1,0 +1,25 @@
+Title: Rental 2203
+
+----
+
+Rental-id: 2203
+
+----
+
+Rental-date: 2005-06-18 02:10:42
+
+----
+
+Return-date: 2005-06-22 06:25:42
+
+----
+
+Inventory: page://JSfcxqfGgCTS9RA3
+
+----
+
+Uuid: ZdQkX5JNCsGtK9dk
+
+----
+
+Customer: page://uTsl9Wlh901HIAgF

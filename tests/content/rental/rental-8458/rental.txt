@@ -1,0 +1,25 @@
+Title: Rental 8458
+
+----
+
+Rental-id: 8458
+
+----
+
+Rental-date: 2005-07-29 08:05:09
+
+----
+
+Return-date: 2005-08-02 03:42:09
+
+----
+
+Inventory: page://DBblKzVSnBD0dBIx
+
+----
+
+Customer: page://LjRXWt8yhDRV7QH6
+
+----
+
+Uuid: 7KnWZwraO5oiXECO

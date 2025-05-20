@@ -1,0 +1,25 @@
+Title: Rental 6313
+
+----
+
+Rental-id: 6313
+
+----
+
+Rental-date: 2005-07-11 18:29:52
+
+----
+
+Return-date: 2005-07-14 21:34:52
+
+----
+
+Inventory: page://ExqGYZoUx2aC7Zs8
+
+----
+
+Uuid: Eh8j14YUGQBH5cyf
+
+----
+
+Customer: page://4Gfo2urzQMaaaZ4t

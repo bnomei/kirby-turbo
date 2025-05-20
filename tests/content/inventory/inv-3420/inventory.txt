@@ -1,0 +1,17 @@
+Title: Inv 3420
+
+----
+
+Inventory-id: 3420
+
+----
+
+Film: page://Mz3jWnwuHGzDCRlb
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: AUXd3GFu6O6NYWDD

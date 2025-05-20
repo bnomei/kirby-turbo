@@ -1,0 +1,25 @@
+Title: Rental 11006
+
+----
+
+Rental-id: 11006
+
+----
+
+Rental-date: 2005-08-02 05:05:52
+
+----
+
+Return-date: 2005-08-05 03:33:52
+
+----
+
+Inventory: page://jsJkNLWEfTAnI71s
+
+----
+
+Customer: page://2Ez2viSHVAxcAVWy
+
+----
+
+Uuid: DejKFNubx18ZH8UO

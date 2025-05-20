@@ -1,0 +1,17 @@
+Title: Inv 4061
+
+----
+
+Inventory-id: 4061
+
+----
+
+Film: page://38DDE3zbU2qYh05g
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: x4rXJCNhae0b3evo

@@ -1,0 +1,33 @@
+Title: BESSIE MORRISON
+
+----
+
+Customer-id: 221
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: BESSIE
+
+----
+
+Last-name: MORRISON
+
+----
+
+Email: BESSIE.MORRISON@sakilacustomer.org
+
+----
+
+Address: page://MpM3EXTUrpf7U1AL
+
+----
+
+Active: 1
+
+----
+
+Uuid: d4QlKSk7SAC1uz7S

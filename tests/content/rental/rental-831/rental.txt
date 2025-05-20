@@ -1,0 +1,25 @@
+Title: Rental 831
+
+----
+
+Rental-id: 831
+
+----
+
+Rental-date: 2005-05-29 22:50:25
+
+----
+
+Return-date: 2005-06-06 02:27:25
+
+----
+
+Inventory: page://WhHDS7nsNHs8ITHt
+
+----
+
+Uuid: KVRMM6Ol0DtE6szr
+
+----
+
+Customer: page://44KWZQ5iv6BSDhBb

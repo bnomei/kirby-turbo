@@ -1,0 +1,46 @@
+Title: ARACHNOPHOBIA ROLLERCOASTER
+
+----
+
+Actors:
+
+- 'page://V2PTX56N00hKjCOa'
+- 'page://xBL8rppzTt5cijUB'
+- 'page://lWEFCFc3fpMkkCVm'
+- 'page://DC9iJim4HlVvOiTH'
+- 'page://8sAZxgGEUjJot3JV'
+- 'page://1JHTierDMQdVCXSe'
+- 'page://Gsxc5TuqHyoQn1c1'
+- 'page://HBk8OpEyVf68VCvH'
+
+----
+
+Film-id: 35
+
+----
+
+Description: A Action-Packed Reflection of a Pastry Chef And a Composer who must Discover a Mad Scientist in The First Manned Space Station
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 147
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: xAwGhjBIkg6G0hCP
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

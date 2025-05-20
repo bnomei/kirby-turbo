@@ -1,0 +1,33 @@
+Title: JORGE OLIVARES
+
+----
+
+Customer-id: 473
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JORGE
+
+----
+
+Last-name: OLIVARES
+
+----
+
+Email: JORGE.OLIVARES@sakilacustomer.org
+
+----
+
+Address: page://kGXyw0L6T5lRcSgg
+
+----
+
+Active: 1
+
+----
+
+Uuid: 2Ez2viSHVAxcAVWy

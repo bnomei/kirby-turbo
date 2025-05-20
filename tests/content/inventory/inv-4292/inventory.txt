@@ -1,0 +1,17 @@
+Title: Inv 4292
+
+----
+
+Inventory-id: 4292
+
+----
+
+Film: page://lWRzW3aOXeYs88QU
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: VCR93IyjfBpHuuvU

@@ -1,0 +1,33 @@
+Title: DORA MEDINA
+
+----
+
+Customer-id: 249
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: DORA
+
+----
+
+Last-name: MEDINA
+
+----
+
+Email: DORA.MEDINA@sakilacustomer.org
+
+----
+
+Address: page://jyWZePMKQS1otqON
+
+----
+
+Active: 1
+
+----
+
+Uuid: 2o7Ua8bnQm0l3GDC

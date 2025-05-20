@@ -1,0 +1,33 @@
+Title: TOMMY COLLAZO
+
+----
+
+Customer-id: 459
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: TOMMY
+
+----
+
+Last-name: COLLAZO
+
+----
+
+Email: TOMMY.COLLAZO@sakilacustomer.org
+
+----
+
+Address: page://cboXgnsRcBbtkiW9
+
+----
+
+Active: 1
+
+----
+
+Uuid: YWOr146BeG0pdDed

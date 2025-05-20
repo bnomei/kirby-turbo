@@ -1,0 +1,21 @@
+Title: Rental 11848
+
+----
+
+Rental-id: 11848
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://yYCFIGWkmK0uy0dI
+
+----
+
+Customer: page://mEEAl0d4gMjFDZVU
+
+----
+
+Uuid: RPBzCqCCDN4BCKBr

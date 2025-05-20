@@ -1,0 +1,17 @@
+Title: Inv 496
+
+----
+
+Inventory-id: 496
+
+----
+
+Film: page://PpkTKzMDLmwTeeTW
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: wYgyucBYwO3Ru8Qm

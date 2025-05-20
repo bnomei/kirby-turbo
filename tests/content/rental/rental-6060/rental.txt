@@ -1,0 +1,25 @@
+Title: Rental 6060
+
+----
+
+Rental-id: 6060
+
+----
+
+Rental-date: 2005-07-11 04:06:17
+
+----
+
+Return-date: 2005-07-12 03:05:17
+
+----
+
+Inventory: page://GeqzLH33dMLYNJZx
+
+----
+
+Uuid: xhUF5g7wL6B4voep
+
+----
+
+Customer: page://zmCabsBB5k9OFLQt

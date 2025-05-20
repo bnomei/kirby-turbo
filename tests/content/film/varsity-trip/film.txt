@@ -1,0 +1,41 @@
+Title: VARSITY TRIP
+
+----
+
+Actors:
+
+- 'page://JeeyeDJ3FmxSMbIy'
+- 'page://NlhyBSq5UemRMvfg'
+- 'page://h9gp2o2uGocb4AUV'
+
+----
+
+Film-id: 937
+
+----
+
+Description: A Action-Packed Character Study of a Astronaut And a Explorer who must Reach a Monkey in A MySQL Convention
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 85
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: MILGhCJg92KmiUZL
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

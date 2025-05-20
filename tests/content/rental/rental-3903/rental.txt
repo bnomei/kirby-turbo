@@ -1,0 +1,25 @@
+Title: Rental 3903
+
+----
+
+Rental-id: 3903
+
+----
+
+Rental-date: 2005-07-06 19:27:32
+
+----
+
+Return-date: 2005-07-08 23:27:32
+
+----
+
+Inventory: page://npOvTyQPVwCWY76w
+
+----
+
+Uuid: ATTBEimPUyhgHvwi
+
+----
+
+Customer: page://J9AjFYg5VoQ4Yy04

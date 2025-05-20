@@ -1,0 +1,17 @@
+Title: Inv 3125
+
+----
+
+Inventory-id: 3125
+
+----
+
+Film: page://ZIJygfycgSQH5kxt
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: g53wM5ISC0zRKNqQ

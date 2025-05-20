@@ -1,0 +1,42 @@
+Title: WITCHES PANIC
+
+----
+
+Actors:
+
+- 'page://Gz114ojbruPqLOSY'
+- 'page://KWXiI33RIY2Yllal'
+- 'page://xfLW2h8D6Ci3k3ux'
+- 'page://vMUybiWmK5EriDRU'
+
+----
+
+Film-id: 979
+
+----
+
+Description: A Awe-Inspiring Drama of a Secret Agent And a Hunter who must Fight a Moose in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 100
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: zieBHsHWeKZUZGj4
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

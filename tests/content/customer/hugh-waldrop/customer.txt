@@ -1,0 +1,33 @@
+Title: HUGH WALDROP
+
+----
+
+Customer-id: 552
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: HUGH
+
+----
+
+Last-name: WALDROP
+
+----
+
+Email: HUGH.WALDROP@sakilacustomer.org
+
+----
+
+Address: page://rW1lmBfdpXXiMZl6
+
+----
+
+Active: 1
+
+----
+
+Uuid: B2GGWZGpzqZm6Gp7

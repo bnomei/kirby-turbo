@@ -1,0 +1,17 @@
+Title: Inv 2827
+
+----
+
+Inventory-id: 2827
+
+----
+
+Film: page://mkWoeGh7AKqZpfaB
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 2fVVrdX7oqHaRNCT

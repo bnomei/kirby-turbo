@@ -1,0 +1,25 @@
+Title: Rental 3148
+
+----
+
+Rental-id: 3148
+
+----
+
+Rental-date: 2005-06-20 20:27:18
+
+----
+
+Return-date: 2005-06-24 20:30:18
+
+----
+
+Inventory: page://S89zqxJQjSClfwbQ
+
+----
+
+Uuid: 7ILoFrzLSrDSQnZX
+
+----
+
+Customer: page://xf0Razr3zNGtiAuD

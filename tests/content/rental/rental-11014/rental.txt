@@ -1,0 +1,25 @@
+Title: Rental 11014
+
+----
+
+Rental-id: 11014
+
+----
+
+Rental-date: 2005-08-02 05:12:22
+
+----
+
+Return-date: 2005-08-07 09:33:22
+
+----
+
+Inventory: page://mT7jdpz3AQYssXqf
+
+----
+
+Customer: page://Cko87GK3ShDjUK4Q
+
+----
+
+Uuid: Tb36l8pBai40TNj0

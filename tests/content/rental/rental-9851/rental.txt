@@ -1,0 +1,25 @@
+Title: Rental 9851
+
+----
+
+Rental-id: 9851
+
+----
+
+Rental-date: 2005-07-31 12:50:24
+
+----
+
+Return-date: 2005-08-08 08:30:24
+
+----
+
+Inventory: page://PPmqhviIta1KVCc6
+
+----
+
+Customer: page://94UnL6NulGJKXEIF
+
+----
+
+Uuid: Eygr9V3tzMSQptsV

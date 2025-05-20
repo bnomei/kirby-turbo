@@ -1,0 +1,17 @@
+Title: Inv 414
+
+----
+
+Inventory-id: 414
+
+----
+
+Film: page://JrgFunZeT85yBhXi
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 1XfTOA8oC0Os6h8i

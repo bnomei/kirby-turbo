@@ -1,0 +1,17 @@
+Title: Inv 765
+
+----
+
+Inventory-id: 765
+
+----
+
+Film: page://2hqLMXmuK75wH2iH
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: EP8dXTdInmoswuae

@@ -1,0 +1,17 @@
+Title: Inv 2582
+
+----
+
+Inventory-id: 2582
+
+----
+
+Film: page://jMhMNQqlA8C8Kpo0
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: xxmf8evAu5uO1obq

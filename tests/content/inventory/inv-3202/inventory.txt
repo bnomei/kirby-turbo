@@ -1,0 +1,17 @@
+Title: Inv 3202
+
+----
+
+Inventory-id: 3202
+
+----
+
+Film: page://swpdsGvy1fo5PnDf
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: JXKz2uaDh2yF5IzX

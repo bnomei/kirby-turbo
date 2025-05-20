@@ -1,0 +1,17 @@
+Title: Inv 3038
+
+----
+
+Inventory-id: 3038
+
+----
+
+Film: page://A0ozKMrIP6DmhW4Z
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 0qmVMCiQ9ZLO4kJw

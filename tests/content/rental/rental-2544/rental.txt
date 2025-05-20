@@ -1,0 +1,25 @@
+Title: Rental 2544
+
+----
+
+Rental-id: 2544
+
+----
+
+Rental-date: 2005-06-19 02:16:17
+
+----
+
+Return-date: 2005-06-22 21:45:17
+
+----
+
+Inventory: page://W0XZpEqQzgHtn3Z7
+
+----
+
+Uuid: vC500TuZpvHaVkX3
+
+----
+
+Customer: page://t04yCyxM4vXd29Pl

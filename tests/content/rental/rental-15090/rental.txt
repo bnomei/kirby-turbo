@@ -1,0 +1,25 @@
+Title: Rental 15090
+
+----
+
+Rental-id: 15090
+
+----
+
+Rental-date: 2005-08-22 11:34:33
+
+----
+
+Return-date: 2005-08-31 06:09:33
+
+----
+
+Inventory: page://UP2REhrzEHmugDaw
+
+----
+
+Customer: page://1IEX6ebAcThKNnCl
+
+----
+
+Uuid: z1B7rpw4Ui9PYddb

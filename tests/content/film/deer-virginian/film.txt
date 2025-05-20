@@ -1,0 +1,41 @@
+Title: DEER VIRGINIAN
+
+----
+
+Actors:
+
+- 'page://wxM7fPnQeVIlPpuJ'
+- 'page://IR4s9CmH1R8G51Ej'
+- 'page://humVtsLQfFTV2gvC'
+
+----
+
+Film-id: 220
+
+----
+
+Description: A Thoughtful Story of a Mad Cow And a Womanizer who must Overcome a Mad Scientist in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 106
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: lGY6DH6AdCcCNl9m
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

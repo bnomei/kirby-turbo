@@ -1,0 +1,25 @@
+Title: Rental 8944
+
+----
+
+Rental-id: 8944
+
+----
+
+Rental-date: 2005-07-30 03:11:44
+
+----
+
+Return-date: 2005-08-06 23:15:44
+
+----
+
+Inventory: page://l4lu2QtCOHqZTj0H
+
+----
+
+Customer: page://EyDPLO3Eg43hOXws
+
+----
+
+Uuid: IfxpVL1mWWf998Pe

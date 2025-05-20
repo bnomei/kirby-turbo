@@ -1,0 +1,25 @@
+Title: Rental 2134
+
+----
+
+Rental-id: 2134
+
+----
+
+Rental-date: 2005-06-17 21:13:44
+
+----
+
+Return-date: 2005-06-26 16:28:44
+
+----
+
+Inventory: page://ANQlT2Rvvtkd3HCO
+
+----
+
+Uuid: 4k18kLPUz5x64e4e
+
+----
+
+Customer: page://EmoWqGxzAidMQXb2

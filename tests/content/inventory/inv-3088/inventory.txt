@@ -1,0 +1,17 @@
+Title: Inv 3088
+
+----
+
+Inventory-id: 3088
+
+----
+
+Film: page://Kix8SxAMrVV3Jdl2
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: HXrWpUVu502ic7On

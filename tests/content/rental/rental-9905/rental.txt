@@ -1,0 +1,25 @@
+Title: Rental 9905
+
+----
+
+Rental-id: 9905
+
+----
+
+Rental-date: 2005-07-31 14:37:03
+
+----
+
+Return-date: 2005-08-01 15:55:03
+
+----
+
+Inventory: page://rrTaeuEmhIkwSBOh
+
+----
+
+Customer: page://irfr6sLBx1gfJ688
+
+----
+
+Uuid: pgQZnPah3D7yMxyx

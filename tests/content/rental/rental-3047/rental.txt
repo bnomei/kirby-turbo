@@ -1,0 +1,25 @@
+Title: Rental 3047
+
+----
+
+Rental-id: 3047
+
+----
+
+Rental-date: 2005-06-20 12:45:33
+
+----
+
+Return-date: 2005-06-29 13:09:33
+
+----
+
+Inventory: page://sYljPQwqfVWOeaQr
+
+----
+
+Uuid: ci4s5Whuj3mmNbZs
+
+----
+
+Customer: page://xpGeSpKewe1fsRYQ

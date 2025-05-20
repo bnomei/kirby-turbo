@@ -1,0 +1,25 @@
+Title: Rental 6032
+
+----
+
+Rental-id: 6032
+
+----
+
+Rental-date: 2005-07-11 02:49:01
+
+----
+
+Return-date: 2005-07-18 05:05:01
+
+----
+
+Inventory: page://bFK1OD9VVGVio9Dr
+
+----
+
+Uuid: OTEJzlSl1TJwmqPC
+
+----
+
+Customer: page://9GMMxk4OJQFuLIWJ

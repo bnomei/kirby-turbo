@@ -1,0 +1,25 @@
+Title: Rental 10558
+
+----
+
+Rental-id: 10558
+
+----
+
+Rental-date: 2005-08-01 13:00:20
+
+----
+
+Return-date: 2005-08-05 16:31:20
+
+----
+
+Inventory: page://ZnwYpu1EFUwfc9IZ
+
+----
+
+Customer: page://yTAX5pfgcdJzZ9ZS
+
+----
+
+Uuid: qZqbkVgiDaSqOEW0

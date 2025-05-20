@@ -1,0 +1,25 @@
+Title: Rental 14074
+
+----
+
+Rental-id: 14074
+
+----
+
+Rental-date: 2005-08-20 23:16:07
+
+----
+
+Return-date: 2005-08-26 04:45:07
+
+----
+
+Inventory: page://6cNsCQbMhJO5cOtL
+
+----
+
+Customer: page://R8IxBa5hez4twrqS
+
+----
+
+Uuid: vJDh6kqASjwgwbrW

@@ -1,0 +1,25 @@
+Title: Rental 10164
+
+----
+
+Rental-id: 10164
+
+----
+
+Rental-date: 2005-07-31 23:17:57
+
+----
+
+Return-date: 2005-08-05 19:43:57
+
+----
+
+Inventory: page://e4zGzmIXsulRyFkT
+
+----
+
+Customer: page://62MZSyLkLyVVQ5Cs
+
+----
+
+Uuid: gsq12KfWvrmAsJsi

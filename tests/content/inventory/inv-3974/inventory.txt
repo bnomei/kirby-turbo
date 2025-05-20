@@ -1,0 +1,17 @@
+Title: Inv 3974
+
+----
+
+Inventory-id: 3974
+
+----
+
+Film: page://d3ucrSFTIamNJlRe
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Ce3KKwhanGdLvSnk

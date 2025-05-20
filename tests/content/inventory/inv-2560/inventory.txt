@@ -1,0 +1,17 @@
+Title: Inv 2560
+
+----
+
+Inventory-id: 2560
+
+----
+
+Film: page://z0R1w2WeUBW0GKtB
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: gXHYyAz0Q6H564BT

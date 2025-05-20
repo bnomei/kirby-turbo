@@ -1,0 +1,25 @@
+Title: Rental 167
+
+----
+
+Rental-id: 167
+
+----
+
+Rental-date: 2005-05-26 02:50:31
+
+----
+
+Return-date: 2005-05-27 03:07:31
+
+----
+
+Inventory: page://4nLEx2hbkxKwO99a
+
+----
+
+Uuid: XeMCw4ZcqsOGvBYa
+
+----
+
+Customer: page://1MBJgHibrmstnhcE

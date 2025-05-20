@@ -1,0 +1,33 @@
+Title: EDWIN BURK
+
+----
+
+Customer-id: 432
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: EDWIN
+
+----
+
+Last-name: BURK
+
+----
+
+Email: EDWIN.BURK@sakilacustomer.org
+
+----
+
+Address: page://bU7eX6HgfXQAU6xG
+
+----
+
+Active: 1
+
+----
+
+Uuid: UUq0CNtGhFxoj9KF

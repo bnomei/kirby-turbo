@@ -1,0 +1,25 @@
+Title: Rental 1730
+
+----
+
+Rental-id: 1730
+
+----
+
+Rental-date: 2005-06-16 15:30:01
+
+----
+
+Return-date: 2005-06-19 12:56:01
+
+----
+
+Inventory: page://7UWgSTyvgfXukw7n
+
+----
+
+Uuid: 0JSYmc61JyVXEbz9
+
+----
+
+Customer: page://pqDg6kDmCdvbDclp

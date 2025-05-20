@@ -1,0 +1,25 @@
+Title: Rental 8828
+
+----
+
+Rental-id: 8828
+
+----
+
+Rental-date: 2005-07-29 22:32:54
+
+----
+
+Return-date: 2005-07-30 20:41:54
+
+----
+
+Inventory: page://kJKmnTUeHvEhvan1
+
+----
+
+Customer: page://RTsWat8aWp87UcBi
+
+----
+
+Uuid: 9nRiw4NazmPp9rr4

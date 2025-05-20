@@ -1,0 +1,25 @@
+Title: Rental 7306
+
+----
+
+Rental-id: 7306
+
+----
+
+Rental-date: 2005-07-27 12:57:26
+
+----
+
+Return-date: 2005-08-03 09:35:26
+
+----
+
+Inventory: page://5kvDYDq2Ev7AQPaF
+
+----
+
+Customer: page://wMkYUds0NaSHubNn
+
+----
+
+Uuid: WP135f0GejrLaZb0

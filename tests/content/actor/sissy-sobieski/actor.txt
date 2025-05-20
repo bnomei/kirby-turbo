@@ -1,0 +1,21 @@
+Title: SISSY SOBIESKI
+
+----
+
+Actors: []
+
+----
+
+Actor-id: 31
+
+----
+
+First-name: SISSY
+
+----
+
+Last-name: SOBIESKI
+
+----
+
+Uuid: xjeqCa9sjC8UxwnG

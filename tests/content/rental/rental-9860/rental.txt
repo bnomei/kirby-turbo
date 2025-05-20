@@ -1,0 +1,25 @@
+Title: Rental 9860
+
+----
+
+Rental-id: 9860
+
+----
+
+Rental-date: 2005-07-31 13:03:24
+
+----
+
+Return-date: 2005-08-07 07:28:24
+
+----
+
+Inventory: page://1CGNnhvqOTTqvTHD
+
+----
+
+Customer: page://SKKb5efZdNtiX2jG
+
+----
+
+Uuid: lKpZ8N6FlHXWNixk

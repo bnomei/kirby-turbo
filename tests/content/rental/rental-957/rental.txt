@@ -1,0 +1,25 @@
+Title: Rental 957
+
+----
+
+Rental-id: 957
+
+----
+
+Rental-date: 2005-05-30 17:53:29
+
+----
+
+Return-date: 2005-06-03 15:31:29
+
+----
+
+Inventory: page://ly8XRn38TUP55YBi
+
+----
+
+Uuid: tAn5rWMdHQYaniAD
+
+----
+
+Customer: page://sGF0A1vUMDn16Llg

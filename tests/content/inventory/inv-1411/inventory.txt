@@ -1,0 +1,17 @@
+Title: Inv 1411
+
+----
+
+Inventory-id: 1411
+
+----
+
+Film: page://jDmMJMlMtQvpyiHa
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: l9VSy68dJNmQVWO8

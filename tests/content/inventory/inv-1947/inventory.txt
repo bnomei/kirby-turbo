@@ -1,0 +1,17 @@
+Title: Inv 1947
+
+----
+
+Inventory-id: 1947
+
+----
+
+Film: page://CBx5LMg6ZlhPo5mQ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: aVkZaPNqtctVfEMW

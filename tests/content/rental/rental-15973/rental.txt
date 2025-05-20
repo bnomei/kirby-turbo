@@ -1,0 +1,25 @@
+Title: Rental 15973
+
+----
+
+Rental-id: 15973
+
+----
+
+Rental-date: 2005-08-23 20:04:41
+
+----
+
+Return-date: 2005-09-01 20:08:41
+
+----
+
+Inventory: page://iGFXcjnSzJBgrbTi
+
+----
+
+Customer: page://yuQ0ATSAaA5g7ZDj
+
+----
+
+Uuid: CPjo8lLopFcNF1n3

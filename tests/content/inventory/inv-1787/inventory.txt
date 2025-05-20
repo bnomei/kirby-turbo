@@ -1,0 +1,17 @@
+Title: Inv 1787
+
+----
+
+Inventory-id: 1787
+
+----
+
+Film: page://VXTF2B4oApgM5diU
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: MM3qVsvLxmFxVCCg

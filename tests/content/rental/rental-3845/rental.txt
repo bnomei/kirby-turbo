@@ -1,0 +1,25 @@
+Title: Rental 3845
+
+----
+
+Rental-id: 3845
+
+----
+
+Rental-date: 2005-07-06 16:38:14
+
+----
+
+Return-date: 2005-07-09 14:59:14
+
+----
+
+Inventory: page://I771XQ5zjw0SHlHC
+
+----
+
+Uuid: KejRnLo9e0LORnef
+
+----
+
+Customer: page://9GMMxk4OJQFuLIWJ

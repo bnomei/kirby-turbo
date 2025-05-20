@@ -1,0 +1,25 @@
+Title: Rental 10643
+
+----
+
+Rental-id: 10643
+
+----
+
+Rental-date: 2005-08-01 15:48:33
+
+----
+
+Return-date: 2005-08-06 20:24:33
+
+----
+
+Inventory: page://3WqqLIw1ADtPU1Lt
+
+----
+
+Customer: page://ozuA7F23YyJylO9U
+
+----
+
+Uuid: ZLXxTpzmQM6NdOnm

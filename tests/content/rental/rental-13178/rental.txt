@@ -1,0 +1,21 @@
+Title: Rental 13178
+
+----
+
+Rental-id: 13178
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://qqT4lz1MgfJuWyCD
+
+----
+
+Customer: page://HiWqju3pijeJQEv1
+
+----
+
+Uuid: ImNjnIBeVFzGd6aD

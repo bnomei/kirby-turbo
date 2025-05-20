@@ -1,0 +1,17 @@
+Title: Inv 3102
+
+----
+
+Inventory-id: 3102
+
+----
+
+Film: page://a0gDd5aMc5B7ovnL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: HJdFXE35RVvrkftZ

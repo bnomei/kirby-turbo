@@ -1,0 +1,17 @@
+Title: Inv 924
+
+----
+
+Inventory-id: 924
+
+----
+
+Film: page://yWGZAev1Zb3s0bnw
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: QApmIM0nqFWbydhb

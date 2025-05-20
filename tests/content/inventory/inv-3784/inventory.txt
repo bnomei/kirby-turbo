@@ -1,0 +1,17 @@
+Title: Inv 3784
+
+----
+
+Inventory-id: 3784
+
+----
+
+Film: page://mnxo95pbbvWRc0UI
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: dhodv8PBZ8JA2Chq

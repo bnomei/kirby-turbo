@@ -1,0 +1,25 @@
+Title: Rental 409
+
+----
+
+Rental-id: 409
+
+----
+
+Rental-date: 2005-05-27 14:10:58
+
+----
+
+Return-date: 2005-06-02 10:40:58
+
+----
+
+Inventory: page://EHFNHlw1Zw1jKNf4
+
+----
+
+Uuid: lIXJKT94xV3Cf9dJ
+
+----
+
+Customer: page://MuXF2o48u2i4miEF

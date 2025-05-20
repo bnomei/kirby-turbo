@@ -1,0 +1,25 @@
+Title: Rental 5131
+
+----
+
+Rental-id: 5131
+
+----
+
+Rental-date: 2005-07-09 07:35:03
+
+----
+
+Return-date: 2005-07-10 06:05:03
+
+----
+
+Inventory: page://s3OTZJAl9Bp5YNPZ
+
+----
+
+Uuid: GwGwSTowXAD3DUIY
+
+----
+
+Customer: page://W5URxqu7M4t7ujHI

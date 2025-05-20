@@ -1,0 +1,25 @@
+Title: Rental 8265
+
+----
+
+Rental-id: 8265
+
+----
+
+Rental-date: 2005-07-29 01:20:15
+
+----
+
+Return-date: 2005-08-06 19:32:15
+
+----
+
+Inventory: page://eoevEVliYL0ZXYX8
+
+----
+
+Customer: page://uedEHcyGADIOfSLA
+
+----
+
+Uuid: p2Iivbg6adzJwn0U

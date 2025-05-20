@@ -1,0 +1,41 @@
+Title: BUBBLE GROSSE
+
+----
+
+Actors:
+
+- 'page://G2CRwpBQJFawgg9Y'
+- 'page://VNoe1uWzYd7QHUzW'
+- 'page://9XqCStEtXKdxVnPM'
+
+----
+
+Film-id: 102
+
+----
+
+Description: A Awe-Inspiring Panorama of a Crocodile And a Moose who must Confront a Girl in A Baloon
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 60
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: ROQFc1QdiiZaWDUZ
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

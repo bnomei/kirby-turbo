@@ -1,0 +1,21 @@
+Title: Rental 15294
+
+----
+
+Rental-id: 15294
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://7wrj8SYeWMDpdvqI
+
+----
+
+Customer: page://VPA8X8lftFbJP7Oh
+
+----
+
+Uuid: 1dtGaQX30s5N9FLo

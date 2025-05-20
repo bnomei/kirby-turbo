@@ -1,0 +1,33 @@
+Title: DIANNE SHELTON
+
+----
+
+Customer-id: 279
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: DIANNE
+
+----
+
+Last-name: SHELTON
+
+----
+
+Email: DIANNE.SHELTON@sakilacustomer.org
+
+----
+
+Address: page://Acn4gFdzFyGu9ivc
+
+----
+
+Active: 1
+
+----
+
+Uuid: TqDbE1YY8IbS4H7K

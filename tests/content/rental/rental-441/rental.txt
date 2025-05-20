@@ -1,0 +1,25 @@
+Title: Rental 441
+
+----
+
+Rental-id: 441
+
+----
+
+Rental-date: 2005-05-27 18:11:05
+
+----
+
+Return-date: 2005-05-30 22:45:05
+
+----
+
+Inventory: page://v16YsygYD8Q0TDaA
+
+----
+
+Uuid: hNX0bRUoK93nockc
+
+----
+
+Customer: page://DCfm6V0az1u3cAdq

@@ -1,0 +1,25 @@
+Title: Rental 8238
+
+----
+
+Rental-id: 8238
+
+----
+
+Rental-date: 2005-07-29 00:30:06
+
+----
+
+Return-date: 2005-08-02 22:52:06
+
+----
+
+Inventory: page://n895a0quwG02jybR
+
+----
+
+Customer: page://f8De5bhXCAHFGrbE
+
+----
+
+Uuid: AtloggUHJSgh6g4W

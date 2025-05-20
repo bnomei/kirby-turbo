@@ -1,0 +1,17 @@
+Title: Inv 3936
+
+----
+
+Inventory-id: 3936
+
+----
+
+Film: page://x1ui97TqXAH2TdXk
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: v7RaOx0birCeSVQb

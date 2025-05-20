@@ -1,0 +1,25 @@
+Title: Rental 8226
+
+----
+
+Rental-id: 8226
+
+----
+
+Rental-date: 2005-07-29 00:01:04
+
+----
+
+Return-date: 2005-08-01 19:08:04
+
+----
+
+Inventory: page://o1YqWbRrVTqaWHnF
+
+----
+
+Customer: page://iYFUE0tzXJVxueTP
+
+----
+
+Uuid: RZUydq6CoetP34Kz

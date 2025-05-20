@@ -1,0 +1,25 @@
+Title: Rental 901
+
+----
+
+Rental-id: 901
+
+----
+
+Rental-date: 2005-05-30 09:40:40
+
+----
+
+Return-date: 2005-06-02 10:32:40
+
+----
+
+Inventory: page://v3Metg3Hod8Rp8ZB
+
+----
+
+Uuid: PuPxrFioBKwGs2A7
+
+----
+
+Customer: page://lYVwpdgEXKLspdxt

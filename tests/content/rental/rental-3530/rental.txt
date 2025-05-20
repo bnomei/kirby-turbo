@@ -1,0 +1,25 @@
+Title: Rental 3530
+
+----
+
+Rental-id: 3530
+
+----
+
+Rental-date: 2005-07-06 01:22:45
+
+----
+
+Return-date: 2005-07-10 03:23:45
+
+----
+
+Inventory: page://0bRwxoYsRpk6keuf
+
+----
+
+Uuid: 4WnkPzyV43L7mqm1
+
+----
+
+Customer: page://kgSm33zdyJ1gD7mK

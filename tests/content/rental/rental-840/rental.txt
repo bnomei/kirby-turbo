@@ -1,0 +1,25 @@
+Title: Rental 840
+
+----
+
+Rental-id: 840
+
+----
+
+Rental-date: 2005-05-30 00:28:41
+
+----
+
+Return-date: 2005-05-31 20:39:41
+
+----
+
+Inventory: page://CNjAyeISoQvtS8lN
+
+----
+
+Uuid: do6SwHz4QLwUyN5Y
+
+----
+
+Customer: page://bZY1vsN3giMcQSdf

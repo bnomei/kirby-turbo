@@ -1,0 +1,25 @@
+Title: Rental 430
+
+----
+
+Rental-id: 430
+
+----
+
+Rental-date: 2005-05-27 16:22:10
+
+----
+
+Return-date: 2005-06-05 13:10:10
+
+----
+
+Inventory: page://EsAAxcNXXPph0sd5
+
+----
+
+Uuid: 63hITOf0nnwT5i0Y
+
+----
+
+Customer: page://6kK9aIjaQGPeA4BK

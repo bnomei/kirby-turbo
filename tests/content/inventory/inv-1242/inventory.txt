@@ -1,0 +1,17 @@
+Title: Inv 1242
+
+----
+
+Inventory-id: 1242
+
+----
+
+Film: page://lzf9i2E9ieyWeuWC
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 9QtXRZY0bPFP4KAO

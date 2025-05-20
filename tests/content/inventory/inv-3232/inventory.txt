@@ -1,0 +1,17 @@
+Title: Inv 3232
+
+----
+
+Inventory-id: 3232
+
+----
+
+Film: page://WgpGVhjldNvIG7Gp
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: lPqz4mUPpOKHvAaf

@@ -1,0 +1,25 @@
+Title: Rental 6296
+
+----
+
+Rental-id: 6296
+
+----
+
+Rental-date: 2005-07-11 17:34:04
+
+----
+
+Return-date: 2005-07-17 21:12:04
+
+----
+
+Inventory: page://vDyjVPAFRs1c8CaC
+
+----
+
+Uuid: Be7nnXR70KnxwzJN
+
+----
+
+Customer: page://rMm0jN6bFHVs2tRk

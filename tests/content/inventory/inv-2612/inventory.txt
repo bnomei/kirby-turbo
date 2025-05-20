@@ -1,0 +1,17 @@
+Title: Inv 2612
+
+----
+
+Inventory-id: 2612
+
+----
+
+Film: page://zvaoZlFDs3OYcy8r
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 2UrnGz7uOCQzOL6X

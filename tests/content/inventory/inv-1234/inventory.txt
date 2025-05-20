@@ -1,0 +1,17 @@
+Title: Inv 1234
+
+----
+
+Inventory-id: 1234
+
+----
+
+Film: page://dUaroWhMD6Ug8PIq
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: SvPIW5L8pZdrnmei

@@ -1,0 +1,33 @@
+Title: CHRISTIAN JUNG
+
+----
+
+Customer-id: 534
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CHRISTIAN
+
+----
+
+Last-name: JUNG
+
+----
+
+Email: CHRISTIAN.JUNG@sakilacustomer.org
+
+----
+
+Address: page://MAaE2bo8NGC8rZVH
+
+----
+
+Active: 0
+
+----
+
+Uuid: 5cEtw749lfuLkqIc

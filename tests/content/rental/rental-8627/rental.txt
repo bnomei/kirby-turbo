@@ -1,0 +1,25 @@
+Title: Rental 8627
+
+----
+
+Rental-id: 8627
+
+----
+
+Rental-date: 2005-07-29 14:05:12
+
+----
+
+Return-date: 2005-08-05 16:53:12
+
+----
+
+Inventory: page://MyFU8yoGz8B6lDlW
+
+----
+
+Customer: page://9Iscnwps7hF64rUC
+
+----
+
+Uuid: kHsYOxKdomVYFaBa

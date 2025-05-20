@@ -1,0 +1,25 @@
+Title: Rental 5169
+
+----
+
+Rental-id: 5169
+
+----
+
+Rental-date: 2005-07-09 09:22:25
+
+----
+
+Return-date: 2005-07-10 03:48:25
+
+----
+
+Inventory: page://z3uwznJtDms99iym
+
+----
+
+Uuid: tYEud31KFhe9jzOB
+
+----
+
+Customer: page://T9Zm4dl6jOmrQnrt

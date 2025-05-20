@@ -1,0 +1,25 @@
+Title: Rental 4159
+
+----
+
+Rental-id: 4159
+
+----
+
+Rental-date: 2005-07-07 09:10:57
+
+----
+
+Return-date: 2005-07-09 10:19:57
+
+----
+
+Inventory: page://oSM1NtzepNmWdtzB
+
+----
+
+Uuid: LZ6RiOIaQwuVuxUK
+
+----
+
+Customer: page://YyPBQe8b3YphbbXY

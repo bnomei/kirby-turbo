@@ -1,0 +1,33 @@
+Title: ROBERTA HARPER
+
+----
+
+Customer-id: 185
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ROBERTA
+
+----
+
+Last-name: HARPER
+
+----
+
+Email: ROBERTA.HARPER@sakilacustomer.org
+
+----
+
+Address: page://BVQ4EGrHHuBGq2gL
+
+----
+
+Active: 1
+
+----
+
+Uuid: FVBT09sa4x7FnbO2

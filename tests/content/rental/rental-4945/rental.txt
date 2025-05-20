@@ -1,0 +1,25 @@
+Title: Rental 4945
+
+----
+
+Rental-id: 4945
+
+----
+
+Rental-date: 2005-07-08 22:45:02
+
+----
+
+Return-date: 2005-07-11 23:59:02
+
+----
+
+Inventory: page://XHImIMInVrB6us6v
+
+----
+
+Uuid: cSLPJN2KRkEOSXR4
+
+----
+
+Customer: page://V0viosrFvqcsWPKv

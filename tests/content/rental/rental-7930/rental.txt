@@ -1,0 +1,25 @@
+Title: Rental 7930
+
+----
+
+Rental-id: 7930
+
+----
+
+Rental-date: 2005-07-28 12:21:08
+
+----
+
+Return-date: 2005-07-30 11:56:08
+
+----
+
+Inventory: page://Tf9EvOmrhQP9kcOP
+
+----
+
+Customer: page://f8De5bhXCAHFGrbE
+
+----
+
+Uuid: gBiFNMLtJEYub5sj

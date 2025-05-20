@@ -1,0 +1,25 @@
+Title: Rental 8215
+
+----
+
+Rental-id: 8215
+
+----
+
+Rental-date: 2005-07-28 23:43:56
+
+----
+
+Return-date: 2005-08-03 19:30:56
+
+----
+
+Inventory: page://kGzwzAP9p0jaBi1i
+
+----
+
+Customer: page://PRxS4w02V4uKvZWV
+
+----
+
+Uuid: qPcAv7nq8qz3Ll4A

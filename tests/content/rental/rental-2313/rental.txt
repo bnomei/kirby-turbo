@@ -1,0 +1,25 @@
+Title: Rental 2313
+
+----
+
+Rental-id: 2313
+
+----
+
+Rental-date: 2005-06-18 08:56:45
+
+----
+
+Return-date: 2005-06-26 10:30:45
+
+----
+
+Inventory: page://Z4pPSTPxUWD1ArKh
+
+----
+
+Uuid: xEaIeDJ9GIEg2tC3
+
+----
+
+Customer: page://siVW5dXKEILolbt4

@@ -1,0 +1,17 @@
+Title: Inv 3930
+
+----
+
+Inventory-id: 3930
+
+----
+
+Film: page://49OxLFvwrrHYZnmn
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Q28FZEoaukO2W4b3

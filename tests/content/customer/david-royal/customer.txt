@@ -1,0 +1,33 @@
+Title: DAVID ROYAL
+
+----
+
+Customer-id: 304
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: DAVID
+
+----
+
+Last-name: ROYAL
+
+----
+
+Email: DAVID.ROYAL@sakilacustomer.org
+
+----
+
+Address: page://tzg2H1pmOr1eYeOV
+
+----
+
+Active: 1
+
+----
+
+Uuid: MpSgiAIrJd9YlrCV

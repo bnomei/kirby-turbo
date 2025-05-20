@@ -1,0 +1,25 @@
+Title: Rental 9866
+
+----
+
+Rental-id: 9866
+
+----
+
+Rental-date: 2005-07-31 13:13:50
+
+----
+
+Return-date: 2005-08-07 15:11:50
+
+----
+
+Inventory: page://cvzY78l0TfJSTLib
+
+----
+
+Customer: page://T8FvGnbHYCWqhKEc
+
+----
+
+Uuid: 0NdpAlMDDKQabiwi

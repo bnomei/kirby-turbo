@@ -1,0 +1,25 @@
+Title: Rental 15272
+
+----
+
+Rental-id: 15272
+
+----
+
+Rental-date: 2005-08-22 18:49:40
+
+----
+
+Return-date: 2005-08-28 21:22:40
+
+----
+
+Inventory: page://WM912EdrP5RBX9u6
+
+----
+
+Customer: page://B6FDvvDBHRaKmtPn
+
+----
+
+Uuid: OfHpPrOzEQWZ1Q5B

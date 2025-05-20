@@ -1,0 +1,25 @@
+Title: Rental 3693
+
+----
+
+Rental-id: 3693
+
+----
+
+Rental-date: 2005-07-06 09:56:09
+
+----
+
+Return-date: 2005-07-15 06:50:09
+
+----
+
+Inventory: page://ClT0cKhm8UxvEX0J
+
+----
+
+Uuid: zWq301XOnl3x7xhs
+
+----
+
+Customer: page://Yh1wxvDrPfYOmxl5

@@ -1,0 +1,25 @@
+Title: Rental 10297
+
+----
+
+Rental-id: 10297
+
+----
+
+Rental-date: 2005-08-01 04:05:04
+
+----
+
+Return-date: 2005-08-09 06:08:04
+
+----
+
+Inventory: page://nKIqUF2mYvH1R6d6
+
+----
+
+Customer: page://6AKt4qOv738O4v4p
+
+----
+
+Uuid: s8kYTJQn22BcJOzd

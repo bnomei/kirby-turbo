@@ -1,0 +1,25 @@
+Title: Rental 6095
+
+----
+
+Rental-id: 6095
+
+----
+
+Rental-date: 2005-07-11 06:06:41
+
+----
+
+Return-date: 2005-07-19 06:14:41
+
+----
+
+Inventory: page://kS9qvXHzDFinwwG7
+
+----
+
+Uuid: jziHlMWNTiBHbkTK
+
+----
+
+Customer: page://AebunhQoABksvBV9

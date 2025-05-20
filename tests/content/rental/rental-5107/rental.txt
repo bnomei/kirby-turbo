@@ -1,0 +1,25 @@
+Title: Rental 5107
+
+----
+
+Rental-id: 5107
+
+----
+
+Rental-date: 2005-07-09 06:42:32
+
+----
+
+Return-date: 2005-07-10 08:21:32
+
+----
+
+Inventory: page://GVro3rFkjthpPssu
+
+----
+
+Uuid: 0Mhn39gAqvTbQIUu
+
+----
+
+Customer: page://KYkY8aG06K2r16Xn

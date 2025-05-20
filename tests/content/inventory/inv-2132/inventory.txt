@@ -1,0 +1,17 @@
+Title: Inv 2132
+
+----
+
+Inventory-id: 2132
+
+----
+
+Film: page://Rn5g2YUTKyFz0znU
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: BVkYtw1AY3JMqgJw

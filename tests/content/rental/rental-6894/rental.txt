@@ -1,0 +1,25 @@
+Title: Rental 6894
+
+----
+
+Rental-id: 6894
+
+----
+
+Rental-date: 2005-07-12 21:20:50
+
+----
+
+Return-date: 2005-07-20 23:42:50
+
+----
+
+Inventory: page://JSfcxqfGgCTS9RA3
+
+----
+
+Customer: page://DJ9aTh2f2iT5jahF
+
+----
+
+Uuid: hLNaQMF44oR9YpCi

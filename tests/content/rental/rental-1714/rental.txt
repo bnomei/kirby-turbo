@@ -1,0 +1,25 @@
+Title: Rental 1714
+
+----
+
+Rental-id: 1714
+
+----
+
+Rental-date: 2005-06-16 14:29:59
+
+----
+
+Return-date: 2005-06-24 17:27:59
+
+----
+
+Inventory: page://gsgqiuqiEo1Mrlo4
+
+----
+
+Uuid: 2vWE8I2Ldkevbuj8
+
+----
+
+Customer: page://0oAUPq4K85BBzcfb

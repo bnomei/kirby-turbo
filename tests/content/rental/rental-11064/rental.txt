@@ -1,0 +1,25 @@
+Title: Rental 11064
+
+----
+
+Rental-id: 11064
+
+----
+
+Rental-date: 2005-08-02 06:55:17
+
+----
+
+Return-date: 2005-08-06 03:29:17
+
+----
+
+Inventory: page://NSrnGCT6Fic33MGM
+
+----
+
+Customer: page://e5QOScWwwaP51UiZ
+
+----
+
+Uuid: y1iHg18uh4NquvQa

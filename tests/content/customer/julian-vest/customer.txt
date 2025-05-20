@@ -1,0 +1,33 @@
+Title: JULIAN VEST
+
+----
+
+Customer-id: 574
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JULIAN
+
+----
+
+Last-name: VEST
+
+----
+
+Email: JULIAN.VEST@sakilacustomer.org
+
+----
+
+Address: page://RRsORrUHIsRNFnHv
+
+----
+
+Active: 1
+
+----
+
+Uuid: ezKQFYnXPCOgLSXF

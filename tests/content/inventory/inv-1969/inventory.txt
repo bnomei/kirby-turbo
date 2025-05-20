@@ -1,0 +1,17 @@
+Title: Inv 1969
+
+----
+
+Inventory-id: 1969
+
+----
+
+Film: page://KEPRmmZ3KEJaDCbq
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: sho2G3799TlQleZO

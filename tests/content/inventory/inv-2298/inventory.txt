@@ -1,0 +1,17 @@
+Title: Inv 2298
+
+----
+
+Inventory-id: 2298
+
+----
+
+Film: page://gfzPLRHwg0xqMABq
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: TwTS2lioppXaWuAX

@@ -1,0 +1,17 @@
+Title: Inv 1291
+
+----
+
+Inventory-id: 1291
+
+----
+
+Film: page://FdO70OChefMPnCgJ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Gale8bgQvNK8DZ88

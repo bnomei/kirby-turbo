@@ -1,0 +1,17 @@
+Title: Inv 3712
+
+----
+
+Inventory-id: 3712
+
+----
+
+Film: page://wRP0xWifgqOiaUfB
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: kQ13L3CWuWLi2pAd

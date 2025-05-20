@@ -1,0 +1,25 @@
+Title: Rental 3038
+
+----
+
+Rental-id: 3038
+
+----
+
+Rental-date: 2005-06-20 12:28:59
+
+----
+
+Return-date: 2005-06-25 07:48:59
+
+----
+
+Inventory: page://DoRrsNETeyin92pn
+
+----
+
+Uuid: E8E2AVTEcG3UE7zr
+
+----
+
+Customer: page://7WkfUKxy0GqFjI0B

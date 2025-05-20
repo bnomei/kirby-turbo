@@ -1,0 +1,17 @@
+Title: Inv 273
+
+----
+
+Inventory-id: 273
+
+----
+
+Film: page://IyZ5AziWSQmMWUFP
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 5JJgJdf0Tw89snff

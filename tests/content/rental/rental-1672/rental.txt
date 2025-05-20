@@ -1,0 +1,25 @@
+Title: Rental 1672
+
+----
+
+Rental-id: 1672
+
+----
+
+Rental-date: 2005-06-16 10:37:34
+
+----
+
+Return-date: 2005-06-23 05:30:34
+
+----
+
+Inventory: page://QO3v1QLR0zwbYZ38
+
+----
+
+Uuid: PIGQZiRy8WjsZYiG
+
+----
+
+Customer: page://6JTzEhgDMKDUF6HS

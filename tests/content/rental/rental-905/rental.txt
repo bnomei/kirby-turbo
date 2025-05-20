@@ -1,0 +1,25 @@
+Title: Rental 905
+
+----
+
+Rental-id: 905
+
+----
+
+Rental-date: 2005-05-30 10:25:00
+
+----
+
+Return-date: 2005-06-06 06:23:00
+
+----
+
+Inventory: page://LYx7Fy29s7LxFnlE
+
+----
+
+Uuid: ruvMBBWfcNOGjsQG
+
+----
+
+Customer: page://SGDmUxNER90s6kyU

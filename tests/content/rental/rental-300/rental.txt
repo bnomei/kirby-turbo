@@ -1,0 +1,25 @@
+Title: Rental 300
+
+----
+
+Rental-id: 300
+
+----
+
+Rental-date: 2005-05-26 20:57:00
+
+----
+
+Return-date: 2005-06-05 01:34:00
+
+----
+
+Inventory: page://IxOedrpXVZMgLy4y
+
+----
+
+Uuid: qkfxLy1Mpd83Ak7K
+
+----
+
+Customer: page://NrafIAvjIpyEt9v1

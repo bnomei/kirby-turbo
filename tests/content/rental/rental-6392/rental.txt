@@ -1,0 +1,25 @@
+Title: Rental 6392
+
+----
+
+Rental-id: 6392
+
+----
+
+Rental-date: 2005-07-11 22:25:19
+
+----
+
+Return-date: 2005-07-16 04:24:19
+
+----
+
+Inventory: page://6fwjGY54bGYzk6hW
+
+----
+
+Uuid: q4yrX2YiGHgxUYOn
+
+----
+
+Customer: page://tS8tZAomHzcsij8a

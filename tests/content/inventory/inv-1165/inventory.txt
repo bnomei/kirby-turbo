@@ -1,0 +1,17 @@
+Title: Inv 1165
+
+----
+
+Inventory-id: 1165
+
+----
+
+Film: page://WjoOh8OZSarhIBM3
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: UD71W41ARPPJnsSX

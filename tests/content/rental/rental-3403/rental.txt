@@ -1,0 +1,25 @@
+Title: Rental 3403
+
+----
+
+Rental-id: 3403
+
+----
+
+Rental-date: 2005-06-21 15:55:06
+
+----
+
+Return-date: 2005-06-27 12:34:06
+
+----
+
+Inventory: page://tsBVs0Pb6PmjGiLX
+
+----
+
+Uuid: DFCqyamjaEMk32Gh
+
+----
+
+Customer: page://PTRh5UK45MCW3LWn

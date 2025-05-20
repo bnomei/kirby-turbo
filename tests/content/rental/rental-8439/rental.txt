@@ -1,0 +1,25 @@
+Title: Rental 8439
+
+----
+
+Rental-id: 8439
+
+----
+
+Rental-date: 2005-07-29 07:28:43
+
+----
+
+Return-date: 2005-08-04 11:22:43
+
+----
+
+Inventory: page://zQUqL5HaHogHHeIm
+
+----
+
+Customer: page://80F1v8ydAhQRg8pT
+
+----
+
+Uuid: qV4P35c9GVYkcMzo

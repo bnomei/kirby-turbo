@@ -1,0 +1,33 @@
+Title: JIM REA
+
+----
+
+Customer-id: 451
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JIM
+
+----
+
+Last-name: REA
+
+----
+
+Email: JIM.REA@sakilacustomer.org
+
+----
+
+Address: page://xZOPF0QAnB9vncyy
+
+----
+
+Active: 1
+
+----
+
+Uuid: JG06E1zPSAEHpqss

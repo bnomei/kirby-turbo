@@ -1,0 +1,17 @@
+Title: Inv 1622
+
+----
+
+Inventory-id: 1622
+
+----
+
+Film: page://I0EZve9Oa0NkqSpD
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: xCpFzNxLmej2A4qC

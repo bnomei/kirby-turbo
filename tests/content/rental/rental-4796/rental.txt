@@ -1,0 +1,25 @@
+Title: Rental 4796
+
+----
+
+Rental-id: 4796
+
+----
+
+Rental-date: 2005-07-08 16:35:44
+
+----
+
+Return-date: 2005-07-13 11:08:44
+
+----
+
+Inventory: page://chjVfR59K1ezhXmY
+
+----
+
+Uuid: HZvo65NOZi4SIDgJ
+
+----
+
+Customer: page://woNj5GQ9VpxY7M5X

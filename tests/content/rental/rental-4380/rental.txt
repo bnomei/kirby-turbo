@@ -1,0 +1,25 @@
+Title: Rental 4380
+
+----
+
+Rental-id: 4380
+
+----
+
+Rental-date: 2005-07-07 20:35:00
+
+----
+
+Return-date: 2005-07-14 17:06:00
+
+----
+
+Inventory: page://QOD60J5i0pv1d3pe
+
+----
+
+Uuid: 3FohJg2cfoGFXRLY
+
+----
+
+Customer: page://wXKEkL0tNBt3nJ5m

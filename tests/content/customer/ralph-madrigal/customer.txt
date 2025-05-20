@@ -1,0 +1,33 @@
+Title: RALPH MADRIGAL
+
+----
+
+Customer-id: 360
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: RALPH
+
+----
+
+Last-name: MADRIGAL
+
+----
+
+Email: RALPH.MADRIGAL@sakilacustomer.org
+
+----
+
+Address: page://YwqICQCKHCayBSHv
+
+----
+
+Active: 1
+
+----
+
+Uuid: 7SY2KMPnL0FSeq6W

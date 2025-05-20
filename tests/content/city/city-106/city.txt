@@ -1,0 +1,17 @@
+Title: Celaya
+
+----
+
+City-id: 106
+
+----
+
+City: Celaya
+
+----
+
+Country: page://75LiB5VPxWG9vtyQ
+
+----
+
+Uuid: A4gSvYQxwVYebHo9

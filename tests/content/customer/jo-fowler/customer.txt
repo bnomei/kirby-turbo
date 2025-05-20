@@ -1,0 +1,33 @@
+Title: JO FOWLER
+
+----
+
+Customer-id: 250
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JO
+
+----
+
+Last-name: FOWLER
+
+----
+
+Email: JO.FOWLER@sakilacustomer.org
+
+----
+
+Address: page://DKIwwvjSaH0m6On5
+
+----
+
+Active: 1
+
+----
+
+Uuid: VWOoBtkgAHj7sget

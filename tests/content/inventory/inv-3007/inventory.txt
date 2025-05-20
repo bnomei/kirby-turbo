@@ -1,0 +1,17 @@
+Title: Inv 3007
+
+----
+
+Inventory-id: 3007
+
+----
+
+Film: page://vXH73fvVYrQ6QbzQ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: tfTj1e2LLh0vOzee

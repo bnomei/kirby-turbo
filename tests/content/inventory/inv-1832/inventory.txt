@@ -1,0 +1,17 @@
+Title: Inv 1832
+
+----
+
+Inventory-id: 1832
+
+----
+
+Film: page://WGXDM1RG4lfMpY2G
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: lBgPOmHapF55Rg5H

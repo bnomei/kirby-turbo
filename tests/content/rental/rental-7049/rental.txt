@@ -1,0 +1,25 @@
+Title: Rental 7049
+
+----
+
+Rental-id: 7049
+
+----
+
+Rental-date: 2005-07-27 03:32:41
+
+----
+
+Return-date: 2005-08-04 08:32:41
+
+----
+
+Inventory: page://j0lfIvwTNDYJ9No4
+
+----
+
+Customer: page://JF86ERvhL0BUaSoR
+
+----
+
+Uuid: 9AL1x7xESoaOlDhg

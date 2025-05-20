@@ -1,0 +1,25 @@
+Title: Rental 769
+
+----
+
+Rental-id: 769
+
+----
+
+Rental-date: 2005-05-29 12:51:44
+
+----
+
+Return-date: 2005-06-01 17:43:44
+
+----
+
+Inventory: page://9m5rZSqYjwno5SFG
+
+----
+
+Uuid: gWQVZJ7sOKdEkdNM
+
+----
+
+Customer: page://rrY2EqqBMU56rgxn

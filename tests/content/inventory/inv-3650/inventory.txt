@@ -1,0 +1,17 @@
+Title: Inv 3650
+
+----
+
+Inventory-id: 3650
+
+----
+
+Film: page://GtyyiCWqM4s15MCP
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 0iixx3AHcJ28kYjW

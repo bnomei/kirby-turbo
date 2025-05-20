@@ -1,0 +1,25 @@
+Title: Rental 6609
+
+----
+
+Rental-id: 6609
+
+----
+
+Rental-date: 2005-07-12 08:19:41
+
+----
+
+Return-date: 2005-07-19 08:19:41
+
+----
+
+Inventory: page://eemWygMGO7KiwOt2
+
+----
+
+Uuid: W8SDolpVAvK95uYe
+
+----
+
+Customer: page://YTXWnGj3tTFKF9yc

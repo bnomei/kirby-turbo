@@ -1,0 +1,33 @@
+Title: JOSHUA MARK
+
+----
+
+Customer-id: 336
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JOSHUA
+
+----
+
+Last-name: MARK
+
+----
+
+Email: JOSHUA.MARK@sakilacustomer.org
+
+----
+
+Address: page://HlcBquXIqeybMKpC
+
+----
+
+Active: 1
+
+----
+
+Uuid: MsMpwiaowsqI4bXD

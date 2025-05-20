@@ -1,0 +1,25 @@
+Title: Rental 10527
+
+----
+
+Rental-id: 10527
+
+----
+
+Rental-date: 2005-08-01 11:55:54
+
+----
+
+Return-date: 2005-08-05 15:56:54
+
+----
+
+Inventory: page://EG011nZSdkeBXa0o
+
+----
+
+Customer: page://0AtuJCBei0DLVh5W
+
+----
+
+Uuid: NaAlgObpOrmCrDgs

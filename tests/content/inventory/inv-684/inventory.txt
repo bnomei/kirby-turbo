@@ -1,0 +1,17 @@
+Title: Inv 684
+
+----
+
+Inventory-id: 684
+
+----
+
+Film: page://VgaqjUQcQdq5w9OH
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 3JDJ9dBpF5jm1f9u

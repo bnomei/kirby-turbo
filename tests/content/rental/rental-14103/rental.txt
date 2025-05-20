@@ -1,0 +1,25 @@
+Title: Rental 14103
+
+----
+
+Rental-id: 14103
+
+----
+
+Rental-date: 2005-08-21 00:37:00
+
+----
+
+Return-date: 2005-08-25 22:09:00
+
+----
+
+Inventory: page://SeEo8zV6Dpsj5kvF
+
+----
+
+Customer: page://uedEHcyGADIOfSLA
+
+----
+
+Uuid: 0eYVouX3B8tbpcDg

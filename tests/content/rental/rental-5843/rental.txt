@@ -1,0 +1,25 @@
+Title: Rental 5843
+
+----
+
+Rental-id: 5843
+
+----
+
+Rental-date: 2005-07-10 17:14:27
+
+----
+
+Return-date: 2005-07-15 21:18:27
+
+----
+
+Inventory: page://kdV1kgavlmq4d3wl
+
+----
+
+Uuid: oRxr4ElpsJWd0aUo
+
+----
+
+Customer: page://yIwfaiZ5vQfAWusn

@@ -1,0 +1,44 @@
+Title: BOOGIE AMELIE
+
+----
+
+Actors:
+
+- 'page://I2QUzWEQkTiY7Ba5'
+- 'page://nkFKurUJ9w7y8omW'
+- 'page://WmeC1S3wVV4gdFE4'
+- 'page://4H5a71re4eGpTLKc'
+- 'page://lltihsMvjhDqCGFK'
+- 'page://QybR1sXOQQQZIPXG'
+
+----
+
+Film-id: 86
+
+----
+
+Description: A Lacklusture Character Study of a Husband And a Sumo Wrestler who must Succumb a Technical Writer in The Gulf of Mexico
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 121
+
+----
+
+Rating: R
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: wEJb7GxHt8TVKLil
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

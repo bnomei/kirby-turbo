@@ -1,0 +1,47 @@
+Title: ALABAMA DEVIL
+
+----
+
+Actors:
+
+- 'page://EOOflmfeZlmBOGUJ'
+- 'page://RdNo3TYVhV9JmDu6'
+- 'page://jG0aUFRzU1eFlO8R'
+- 'page://NlhyBSq5UemRMvfg'
+- 'page://8DAvKBc0CuAdRfXU'
+- 'page://RvgM0TLzgQDo6vY7'
+- 'page://Sl1QfOYn2gZWMd2L'
+- 'page://ohgPd8XBH6s5Q55J'
+- 'page://QybR1sXOQQQZIPXG'
+
+----
+
+Film-id: 9
+
+----
+
+Description: A Thoughtful Panorama of a Database Administrator And a Mad Scientist who must Outgun a Mad Scientist in A Jet Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 114
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: msiPzQjMlcmUp6S6
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

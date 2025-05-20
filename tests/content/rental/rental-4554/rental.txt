@@ -1,0 +1,25 @@
+Title: Rental 4554
+
+----
+
+Rental-id: 4554
+
+----
+
+Rental-date: 2005-07-08 04:48:03
+
+----
+
+Return-date: 2005-07-16 04:34:03
+
+----
+
+Inventory: page://bT9sCFX71hwGJp34
+
+----
+
+Uuid: dKqAQwQ4J7pyFVCo
+
+----
+
+Customer: page://20Yola6tVbTLAtmZ

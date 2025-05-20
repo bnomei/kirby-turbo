@@ -1,0 +1,25 @@
+Title: Rental 12997
+
+----
+
+Rental-id: 12997
+
+----
+
+Rental-date: 2005-08-19 07:31:46
+
+----
+
+Return-date: 2005-08-24 09:20:46
+
+----
+
+Inventory: page://5C3RqwfvlawQWGBK
+
+----
+
+Customer: page://W7ZJXAG7NuFuJZ2S
+
+----
+
+Uuid: hzGA8RHeURV8EGVs

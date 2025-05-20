@@ -1,0 +1,25 @@
+Title: Rental 7088
+
+----
+
+Rental-id: 7088
+
+----
+
+Rental-date: 2005-07-27 04:42:28
+
+----
+
+Return-date: 2005-08-04 07:09:28
+
+----
+
+Inventory: page://zAPWZFaAAuiOSDHa
+
+----
+
+Customer: page://f1BLMiQFWjWGI1Fh
+
+----
+
+Uuid: zQeS0iUMufpmXBYW

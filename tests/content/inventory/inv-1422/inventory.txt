@@ -1,0 +1,17 @@
+Title: Inv 1422
+
+----
+
+Inventory-id: 1422
+
+----
+
+Film: page://HVileugisimUJPvj
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: e7ENE5StD0D5vgTu

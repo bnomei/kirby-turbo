@@ -1,0 +1,17 @@
+Title: Inv 3551
+
+----
+
+Inventory-id: 3551
+
+----
+
+Film: page://L5POcj41RSMhlI6c
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: c1eKusxAPXW85Psy

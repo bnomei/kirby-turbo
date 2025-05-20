@@ -1,0 +1,17 @@
+Title: Inv 198
+
+----
+
+Inventory-id: 198
+
+----
+
+Film: page://yH44ITnR88OkWpTR
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: A7mf9vmOD6sYpe0z

@@ -1,0 +1,25 @@
+Title: Rental 1980
+
+----
+
+Rental-id: 1980
+
+----
+
+Rental-date: 2005-06-17 09:48:05
+
+----
+
+Return-date: 2005-06-23 14:43:05
+
+----
+
+Inventory: page://Gyd9tYia7O835bWh
+
+----
+
+Uuid: PeGuA0Ytko7vl9M3
+
+----
+
+Customer: page://sbXQhVfx2HJ5Lrqi

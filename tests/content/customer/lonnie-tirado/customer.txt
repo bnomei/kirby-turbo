@@ -1,0 +1,33 @@
+Title: LONNIE TIRADO
+
+----
+
+Customer-id: 542
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: LONNIE
+
+----
+
+Last-name: TIRADO
+
+----
+
+Email: LONNIE.TIRADO@sakilacustomer.org
+
+----
+
+Address: page://q0n0om9Z6C6jtdp0
+
+----
+
+Active: 1
+
+----
+
+Uuid: RUBCfMYZJlQfdGdQ

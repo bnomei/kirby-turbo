@@ -1,0 +1,25 @@
+Title: Rental 13934
+
+----
+
+Rental-id: 13934
+
+----
+
+Rental-date: 2005-08-20 17:18:48
+
+----
+
+Return-date: 2005-08-26 15:31:48
+
+----
+
+Inventory: page://Y8K7im3F0Gui7oF4
+
+----
+
+Customer: page://ssKfVmN07XGOgIXz
+
+----
+
+Uuid: tavzqHNd81Jt7tc2

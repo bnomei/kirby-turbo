@@ -1,0 +1,17 @@
+Title: Inv 4418
+
+----
+
+Inventory-id: 4418
+
+----
+
+Film: page://jT2qphuszrqnOmXs
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: JSmYp2qSPpJpo3mb

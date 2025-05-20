@@ -1,0 +1,17 @@
+Title: Inv 1768
+
+----
+
+Inventory-id: 1768
+
+----
+
+Film: page://6u7cclpzdri98KSA
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: t7H7jDKJZTX34zJb

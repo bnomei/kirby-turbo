@@ -1,0 +1,33 @@
+Title: BEN EASTER
+
+----
+
+Customer-id: 510
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: BEN
+
+----
+
+Last-name: EASTER
+
+----
+
+Email: BEN.EASTER@sakilacustomer.org
+
+----
+
+Address: page://fCaAvs8lVaa0NCc3
+
+----
+
+Active: 0
+
+----
+
+Uuid: 4dgC5GQYx4NZ72Ge

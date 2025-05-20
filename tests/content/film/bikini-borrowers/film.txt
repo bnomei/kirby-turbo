@@ -1,0 +1,40 @@
+Title: BIKINI BORROWERS
+
+----
+
+Actors:
+
+- 'page://qGB9wRd16f9YwbHn'
+- 'page://pokjngmFMjrhDsLQ'
+
+----
+
+Film-id: 70
+
+----
+
+Description: A Astounding Drama of a Astronaut And a Cat who must Discover a Woman in The First Manned Space Station
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 142
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: Iz7siQEkQ1P7p5Bv
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

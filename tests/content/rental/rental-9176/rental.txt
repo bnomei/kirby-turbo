@@ -1,0 +1,25 @@
+Title: Rental 9176
+
+----
+
+Rental-id: 9176
+
+----
+
+Rental-date: 2005-07-30 11:50:54
+
+----
+
+Return-date: 2005-08-02 14:25:54
+
+----
+
+Inventory: page://lYrN3af6mqJ4KhpF
+
+----
+
+Customer: page://rCrCpCNcHKJui2E7
+
+----
+
+Uuid: 72EhFQz9P9w7ulvF

@@ -1,0 +1,17 @@
+Title: Inv 4032
+
+----
+
+Inventory-id: 4032
+
+----
+
+Film: page://HKg3NNjXThfALrX0
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: E7e9o5P03OJOYfms

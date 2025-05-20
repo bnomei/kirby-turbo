@@ -1,0 +1,17 @@
+Title: Inv 2780
+
+----
+
+Inventory-id: 2780
+
+----
+
+Film: page://ST9ip5PSHdw6JvAf
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 2uXMp18AeebNn4Xp

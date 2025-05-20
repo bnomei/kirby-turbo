@@ -1,0 +1,17 @@
+Title: Inv 623
+
+----
+
+Inventory-id: 623
+
+----
+
+Film: page://C8VGh18xAG37kxNf
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: P2Kfh632Ti36X0YJ

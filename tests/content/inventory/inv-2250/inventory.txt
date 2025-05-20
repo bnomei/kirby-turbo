@@ -1,0 +1,17 @@
+Title: Inv 2250
+
+----
+
+Inventory-id: 2250
+
+----
+
+Film: page://akd2nbizcRkJHL9W
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 3gj2VIVzooIcSBbW

@@ -1,0 +1,33 @@
+Title: TERRI VASQUEZ
+
+----
+
+Customer-id: 206
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: TERRI
+
+----
+
+Last-name: VASQUEZ
+
+----
+
+Email: TERRI.VASQUEZ@sakilacustomer.org
+
+----
+
+Address: page://3ZKmR5ieQ2sJtJ0M
+
+----
+
+Active: 1
+
+----
+
+Uuid: sGInB7tHdn5ONvtH

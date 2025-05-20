@@ -1,0 +1,25 @@
+Title: Rental 9723
+
+----
+
+Rental-id: 9723
+
+----
+
+Rental-date: 2005-07-31 08:31:18
+
+----
+
+Return-date: 2005-08-03 10:25:18
+
+----
+
+Inventory: page://uEpLQGdH6VYldYKF
+
+----
+
+Customer: page://uQ3yoFTPxzlyQ9oP
+
+----
+
+Uuid: ZtgTyQqPrg5q8kxq

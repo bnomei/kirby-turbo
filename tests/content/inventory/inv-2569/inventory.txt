@@ -1,0 +1,17 @@
+Title: Inv 2569
+
+----
+
+Inventory-id: 2569
+
+----
+
+Film: page://f5yjsxVf2dF8Dw1L
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: XZsdX9Pztzeg9ULi

@@ -1,0 +1,17 @@
+Title: Inv 723
+
+----
+
+Inventory-id: 723
+
+----
+
+Film: page://ngy47YPsc0wCrBpL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: FOGmGW6RCJDOHmLJ

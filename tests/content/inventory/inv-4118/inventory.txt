@@ -1,0 +1,17 @@
+Title: Inv 4118
+
+----
+
+Inventory-id: 4118
+
+----
+
+Film: page://TPkZVC39VxUe2ANz
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 1hbbZWDMPiZu6ybf

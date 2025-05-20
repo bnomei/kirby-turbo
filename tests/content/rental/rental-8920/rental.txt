@@ -1,0 +1,25 @@
+Title: Rental 8920
+
+----
+
+Rental-id: 8920
+
+----
+
+Rental-date: 2005-07-30 01:59:24
+
+----
+
+Return-date: 2005-08-02 22:37:24
+
+----
+
+Inventory: page://Pn2QhJ36ovHcDL5S
+
+----
+
+Customer: page://do7XIsVNaFXaDfM6
+
+----
+
+Uuid: gTixRPx4aItIiwCi

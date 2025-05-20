@@ -1,0 +1,17 @@
+Title: Béchar
+
+----
+
+City-id: 63
+
+----
+
+City: Béchar
+
+----
+
+Country: page://2ScFcrQDDUXjTGrz
+
+----
+
+Uuid: ZR6Sa7epfaAQ0Awg

@@ -1,0 +1,25 @@
+Title: Rental 370
+
+----
+
+Rental-id: 370
+
+----
+
+Rental-date: 2005-05-27 07:49:43
+
+----
+
+Return-date: 2005-06-05 06:39:43
+
+----
+
+Inventory: page://9hQwmgOQpmisyAu8
+
+----
+
+Uuid: IUAbkROQxFt3XeN0
+
+----
+
+Customer: page://WYN3R1xdu8tNVx9R

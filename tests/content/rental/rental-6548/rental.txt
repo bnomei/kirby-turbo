@@ -1,0 +1,25 @@
+Title: Rental 6548
+
+----
+
+Rental-id: 6548
+
+----
+
+Rental-date: 2005-07-12 05:00:46
+
+----
+
+Return-date: 2005-07-19 04:40:46
+
+----
+
+Inventory: page://HmHojj5nL2Xlou95
+
+----
+
+Uuid: wRs7k5AY9wgRS6zM
+
+----
+
+Customer: page://kypjEXl31vTFSb5v

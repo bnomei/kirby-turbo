@@ -1,0 +1,17 @@
+Title: Inv 2734
+
+----
+
+Inventory-id: 2734
+
+----
+
+Film: page://lZPjfMSIExYeKiaQ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: tSeMHBDh8kv5HUlV

@@ -1,0 +1,17 @@
+Title: Inv 3669
+
+----
+
+Inventory-id: 3669
+
+----
+
+Film: page://1pDJmtGDeGf9MiJW
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Xvivdy6popzK2aKS

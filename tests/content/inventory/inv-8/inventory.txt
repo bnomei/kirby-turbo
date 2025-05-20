@@ -1,0 +1,17 @@
+Title: Inv 8
+
+----
+
+Inventory-id: 8
+
+----
+
+Film: page://t4byNBnqBoMcJLhW
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: waQd6aHoN1Rz8KsL

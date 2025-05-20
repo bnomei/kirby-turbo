@@ -1,0 +1,17 @@
+Title: Inv 798
+
+----
+
+Inventory-id: 798
+
+----
+
+Film: page://VGG6oep9Cae1K7dP
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Z21WMPtcLqi9bJEd

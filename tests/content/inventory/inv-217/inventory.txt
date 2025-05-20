@@ -1,0 +1,17 @@
+Title: Inv 217
+
+----
+
+Inventory-id: 217
+
+----
+
+Film: page://WXq95CIaw2UE281Z
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: mI8O2WrbRrZCWaZT

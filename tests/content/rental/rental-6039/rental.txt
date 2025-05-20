@@ -1,0 +1,25 @@
+Title: Rental 6039
+
+----
+
+Rental-id: 6039
+
+----
+
+Rental-date: 2005-07-11 03:12:19
+
+----
+
+Return-date: 2005-07-19 05:46:19
+
+----
+
+Inventory: page://W6TrPZVaLjgzGnWv
+
+----
+
+Uuid: neMHyDQZmoOv72jy
+
+----
+
+Customer: page://JGObmqCrrIzDgkRb

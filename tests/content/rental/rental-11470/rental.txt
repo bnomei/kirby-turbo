@@ -1,0 +1,25 @@
+Title: Rental 11470
+
+----
+
+Rental-id: 11470
+
+----
+
+Rental-date: 2005-08-02 21:48:28
+
+----
+
+Return-date: 2005-08-05 23:58:28
+
+----
+
+Inventory: page://z84Z6zOBr7oSVu4Z
+
+----
+
+Customer: page://WxMkfWnfG0RH07zl
+
+----
+
+Uuid: vBMn1dntpPwFKI4p

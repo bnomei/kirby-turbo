@@ -1,0 +1,33 @@
+Title: RUBEN GEARY
+
+----
+
+Customer-id: 501
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: RUBEN
+
+----
+
+Last-name: GEARY
+
+----
+
+Email: RUBEN.GEARY@sakilacustomer.org
+
+----
+
+Address: page://JtRrRnZoFpExumF3
+
+----
+
+Active: 1
+
+----
+
+Uuid: AebunhQoABksvBV9

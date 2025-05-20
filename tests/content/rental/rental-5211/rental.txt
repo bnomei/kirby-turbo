@@ -1,0 +1,25 @@
+Title: Rental 5211
+
+----
+
+Rental-id: 5211
+
+----
+
+Rental-date: 2005-07-09 11:26:50
+
+----
+
+Return-date: 2005-07-16 15:30:50
+
+----
+
+Inventory: page://rgfjj57rt4pAffcg
+
+----
+
+Uuid: nsPwx3AxiwzVyTN8
+
+----
+
+Customer: page://rmOh3yVOFYLI9fTa

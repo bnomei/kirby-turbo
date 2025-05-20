@@ -1,0 +1,17 @@
+Title: Inv 2912
+
+----
+
+Inventory-id: 2912
+
+----
+
+Film: page://Eus5x1mFT3JhBb84
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: VpqmzxPbb4N5U6ki

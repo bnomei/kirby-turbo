@@ -1,0 +1,17 @@
+Title: Inv 719
+
+----
+
+Inventory-id: 719
+
+----
+
+Film: page://ngy47YPsc0wCrBpL
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 3IABP2lUXS5daBe6

@@ -1,0 +1,17 @@
+Title: Inv 3078
+
+----
+
+Inventory-id: 3078
+
+----
+
+Film: page://vQMS4iF0S8RAhXzI
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: za5vK1X3oA6tu7B4

@@ -1,0 +1,42 @@
+Title: ENCOUNTERS CURTAIN
+
+----
+
+Actors:
+
+- 'page://AvkKtwk9lLurZvzW'
+- 'page://NmIbTpy4ZSHrHfnI'
+- 'page://Gsxc5TuqHyoQn1c1'
+- 'page://nfzjlyLmEQ6Q1S80'
+
+----
+
+Film-id: 282
+
+----
+
+Description: A Insightful Epistle of a Pastry Chef And a Womanizer who must Build a Boat in New Orleans
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 92
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: lpJLwXlAZKSwUsLl
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

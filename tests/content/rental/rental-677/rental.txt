@@ -1,0 +1,25 @@
+Title: Rental 677
+
+----
+
+Rental-id: 677
+
+----
+
+Rental-date: 2005-05-28 23:00:08
+
+----
+
+Return-date: 2005-06-05 19:11:08
+
+----
+
+Inventory: page://RNFOw3VLKNXFXbQM
+
+----
+
+Uuid: dfRIVrGy4Asf6C0Z
+
+----
+
+Customer: page://3WUOY4VXzpqWI6NO

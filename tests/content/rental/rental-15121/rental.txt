@@ -1,0 +1,25 @@
+Title: Rental 15121
+
+----
+
+Rental-id: 15121
+
+----
+
+Rental-date: 2005-08-22 12:46:37
+
+----
+
+Return-date: 2005-08-25 17:42:37
+
+----
+
+Inventory: page://WAhIN6SUVuBCDqCq
+
+----
+
+Customer: page://A7gLRZtZiSgkz8K8
+
+----
+
+Uuid: Sa6UX2jFdOk0pQUX

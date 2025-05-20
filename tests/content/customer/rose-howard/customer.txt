@@ -1,0 +1,33 @@
+Title: ROSE HOWARD
+
+----
+
+Customer-id: 65
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ROSE
+
+----
+
+Last-name: HOWARD
+
+----
+
+Email: ROSE.HOWARD@sakilacustomer.org
+
+----
+
+Address: page://lbuXcTzPXBOVgetz
+
+----
+
+Active: 1
+
+----
+
+Uuid: kWd5QCzRzfjxEGaD

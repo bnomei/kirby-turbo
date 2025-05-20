@@ -1,0 +1,17 @@
+Title: Inv 2270
+
+----
+
+Inventory-id: 2270
+
+----
+
+Film: page://jGmVHtV5VR5Nsg4l
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: jVIyfp0RybJfKCHe

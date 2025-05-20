@@ -1,0 +1,43 @@
+Title: EARRING INSTINCT
+
+----
+
+Actors:
+
+- 'page://EfT0PAFDrVUk4H1Y'
+- 'page://5ruVLAhmJBWUKPci'
+- 'page://I7tdxqtamjxgIUCW'
+- 'page://1JHTierDMQdVCXSe'
+- 'page://yg3e89enY7SGtRB6'
+
+----
+
+Film-id: 269
+
+----
+
+Description: A Stunning Character Study of a Dentist And a Mad Cow who must Find a Teacher in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 98
+
+----
+
+Rating: R
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: NHVHTtdHsYsvIuaE
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

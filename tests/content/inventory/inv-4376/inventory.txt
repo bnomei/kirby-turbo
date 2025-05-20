@@ -1,0 +1,17 @@
+Title: Inv 4376
+
+----
+
+Inventory-id: 4376
+
+----
+
+Film: page://RS5u8QarUfg8hpku
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: sskH77yyE5YqLmyB

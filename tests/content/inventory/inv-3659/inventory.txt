@@ -1,0 +1,17 @@
+Title: Inv 3659
+
+----
+
+Inventory-id: 3659
+
+----
+
+Film: page://zWrh1txaQfkLlnIm
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: zOvD5rdeCsBh12nJ

@@ -1,0 +1,17 @@
+Title: Inv 1865
+
+----
+
+Inventory-id: 1865
+
+----
+
+Film: page://qLix6pcRTT29nMTs
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: rFWUtoq6NnhwnbIf

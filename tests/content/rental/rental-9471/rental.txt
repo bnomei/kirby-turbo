@@ -1,0 +1,25 @@
+Title: Rental 9471
+
+----
+
+Rental-id: 9471
+
+----
+
+Rental-date: 2005-07-30 23:02:36
+
+----
+
+Return-date: 2005-08-04 17:49:36
+
+----
+
+Inventory: page://RcVa8JG24WmaApqr
+
+----
+
+Customer: page://sVIdcOA4yjcw5Z24
+
+----
+
+Uuid: 8qN6GLiCYdTvtShF

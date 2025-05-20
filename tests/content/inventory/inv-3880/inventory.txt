@@ -1,0 +1,17 @@
+Title: Inv 3880
+
+----
+
+Inventory-id: 3880
+
+----
+
+Film: page://5U0F7Wf4gUCmiG0y
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: OuEk2DQ1RjCawAAs

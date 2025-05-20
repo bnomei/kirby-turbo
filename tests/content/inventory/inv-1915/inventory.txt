@@ -1,0 +1,17 @@
+Title: Inv 1915
+
+----
+
+Inventory-id: 1915
+
+----
+
+Film: page://wfXmwV94pZGldMnr
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: vXncbQK1KVq0Y2qc

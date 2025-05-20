@@ -1,0 +1,41 @@
+Title: ROLLERCOASTER BRINGING
+
+----
+
+Actors:
+
+- 'page://T2A5mLQSqhcfEEMm'
+- 'page://c9RVWbTiHNxSUsUJ'
+- 'page://CBtLT02Rklp5i11L'
+
+----
+
+Film-id: 740
+
+----
+
+Description: A Beautiful Drama of a Robot And a Lumberjack who must Discover a Technical Writer in A Shark Tank
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 153
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: aGP4U7YfinHEWklw
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

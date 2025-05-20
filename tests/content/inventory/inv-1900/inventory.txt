@@ -1,0 +1,17 @@
+Title: Inv 1900
+
+----
+
+Inventory-id: 1900
+
+----
+
+Film: page://xE5uq6m7QdwMy9ie
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: WHhkAmxG9wUTuFC3

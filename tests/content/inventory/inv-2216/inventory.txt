@@ -1,0 +1,17 @@
+Title: Inv 2216
+
+----
+
+Inventory-id: 2216
+
+----
+
+Film: page://Q1ki6GVflXeLx7Ws
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: rgfjj57rt4pAffcg

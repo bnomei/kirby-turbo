@@ -1,0 +1,17 @@
+Title: Inv 1762
+
+----
+
+Inventory-id: 1762
+
+----
+
+Film: page://0MfWh6FVARMvO6ca
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 7rnXLIkAwB4y0CEd

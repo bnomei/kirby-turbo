@@ -1,0 +1,45 @@
+Title: GROUNDHOG UNCUT
+
+----
+
+Actors:
+
+- 'page://xbVuFnPKikNsqVkK'
+- 'page://EHffowmlWDEyJ7Ij'
+- 'page://ixmDbcb5VXh1c8bc'
+- 'page://L8EgxOu9xdHGpzVg'
+- 'page://kIGWs86teYEK5yIM'
+- 'page://3O7lqRPKBygXUoTl'
+- 'page://V93xbOGPlOsB9ymO'
+
+----
+
+Film-id: 385
+
+----
+
+Description: A Brilliant Panorama of a Astronaut And a Technical Writer who must Discover a Butler in A Manhattan Penthouse
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 139
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: 0p3oorDikAl7RkVZ
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

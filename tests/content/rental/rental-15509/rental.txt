@@ -1,0 +1,25 @@
+Title: Rental 15509
+
+----
+
+Rental-id: 15509
+
+----
+
+Rental-date: 2005-08-23 02:51:24
+
+----
+
+Return-date: 2005-08-31 06:21:24
+
+----
+
+Inventory: page://Gale8bgQvNK8DZ88
+
+----
+
+Customer: page://X3AjzgBdF3VXBSFO
+
+----
+
+Uuid: ShdQ4W2w9tqc1Co9

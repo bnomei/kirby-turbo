@@ -1,0 +1,25 @@
+Title: Rental 2831
+
+----
+
+Rental-id: 2831
+
+----
+
+Rental-date: 2005-06-19 21:17:06
+
+----
+
+Return-date: 2005-06-22 16:56:06
+
+----
+
+Inventory: page://93NKdGxuMHQ9JY75
+
+----
+
+Uuid: VMJL6SBVSYT0De5J
+
+----
+
+Customer: page://tS8tZAomHzcsij8a

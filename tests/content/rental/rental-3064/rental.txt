@@ -1,0 +1,25 @@
+Title: Rental 3064
+
+----
+
+Rental-id: 3064
+
+----
+
+Rental-date: 2005-06-20 13:53:13
+
+----
+
+Return-date: 2005-06-25 16:33:13
+
+----
+
+Inventory: page://usda1LF8fc2DrQKb
+
+----
+
+Uuid: BiKJrvAkctqwL6lo
+
+----
+
+Customer: page://ITr0DtQiC8vNX3ax

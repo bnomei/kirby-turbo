@@ -1,0 +1,17 @@
+Title: Inv 558
+
+----
+
+Inventory-id: 558
+
+----
+
+Film: page://IAYc88zrCIG1DcnQ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: urCxjX8IAczo6Y2q

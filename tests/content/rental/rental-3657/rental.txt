@@ -1,0 +1,25 @@
+Title: Rental 3657
+
+----
+
+Rental-id: 3657
+
+----
+
+Rental-date: 2005-07-06 07:55:30
+
+----
+
+Return-date: 2005-07-11 07:18:30
+
+----
+
+Inventory: page://cguGumQtNLPSXJGy
+
+----
+
+Uuid: ttKBiNgaDYqfRxiJ
+
+----
+
+Customer: page://f9IsYLta6d6VDgIZ

@@ -1,0 +1,33 @@
+Title: TONY CARRANZA
+
+----
+
+Customer-id: 401
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: TONY
+
+----
+
+Last-name: CARRANZA
+
+----
+
+Email: TONY.CARRANZA@sakilacustomer.org
+
+----
+
+Address: page://0OD50HYNhvRtKiTW
+
+----
+
+Active: 1
+
+----
+
+Uuid: 1MBJgHibrmstnhcE

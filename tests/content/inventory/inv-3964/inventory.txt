@@ -1,0 +1,17 @@
+Title: Inv 3964
+
+----
+
+Inventory-id: 3964
+
+----
+
+Film: page://88hxFI59PQnYCyxO
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Y3hEz2gNNdjU8zGf

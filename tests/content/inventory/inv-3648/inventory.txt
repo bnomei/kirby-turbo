@@ -1,0 +1,17 @@
+Title: Inv 3648
+
+----
+
+Inventory-id: 3648
+
+----
+
+Film: page://S97f6YPhQeV6Kw2Q
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 3q0k3nQ5v6McTPML

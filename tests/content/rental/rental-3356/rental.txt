@@ -1,0 +1,25 @@
+Title: Rental 3356
+
+----
+
+Rental-id: 3356
+
+----
+
+Rental-date: 2005-06-21 11:38:45
+
+----
+
+Return-date: 2005-06-26 17:18:45
+
+----
+
+Inventory: page://EAeZJioThiW4gvVl
+
+----
+
+Uuid: OwQLUysS5aeEoJXx
+
+----
+
+Customer: page://sNiE3u2o38XV820m

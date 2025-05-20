@@ -1,0 +1,17 @@
+Title: Inv 2941
+
+----
+
+Inventory-id: 2941
+
+----
+
+Film: page://6i5lN9tUkEsMBBrH
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: n895a0quwG02jybR

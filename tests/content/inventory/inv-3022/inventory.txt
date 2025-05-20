@@ -1,0 +1,17 @@
+Title: Inv 3022
+
+----
+
+Inventory-id: 3022
+
+----
+
+Film: page://kZs95FwsP3In7Yk1
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 1nU0xkDXont1D2UP

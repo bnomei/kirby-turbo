@@ -1,0 +1,25 @@
+Title: Rental 5072
+
+----
+
+Rental-id: 5072
+
+----
+
+Rental-date: 2005-07-09 05:01:58
+
+----
+
+Return-date: 2005-07-18 08:17:58
+
+----
+
+Inventory: page://yqyQM6DuJJ8V1Vei
+
+----
+
+Uuid: uwmVjHcEBSaShfE3
+
+----
+
+Customer: page://v2N94muKJ3uhMCtA

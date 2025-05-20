@@ -1,0 +1,33 @@
+Title: BYRON BOX
+
+----
+
+Customer-id: 573
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: BYRON
+
+----
+
+Last-name: BOX
+
+----
+
+Email: BYRON.BOX@sakilacustomer.org
+
+----
+
+Address: page://o7BVaABMwenmTQti
+
+----
+
+Active: 1
+
+----
+
+Uuid: fh18zcKIesBiok66

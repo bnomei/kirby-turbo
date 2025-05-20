@@ -1,0 +1,25 @@
+Title: Rental 6611
+
+----
+
+Rental-id: 6611
+
+----
+
+Rental-date: 2005-07-12 08:20:23
+
+----
+
+Return-date: 2005-07-16 07:19:23
+
+----
+
+Inventory: page://3VKdbr70jPUUIHcv
+
+----
+
+Uuid: 6xIYhoCLbrIpTeS4
+
+----
+
+Customer: page://luJ7Uo5a2aftAMEN

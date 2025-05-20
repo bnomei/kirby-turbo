@@ -1,0 +1,25 @@
+Title: Rental 5814
+
+----
+
+Rental-id: 5814
+
+----
+
+Rental-date: 2005-07-10 15:46:50
+
+----
+
+Return-date: 2005-07-13 15:28:50
+
+----
+
+Inventory: page://EoBWYqD027MPL2HK
+
+----
+
+Uuid: 4bA8IG0dnoUnC6sG
+
+----
+
+Customer: page://gao3Tz3ycoSuDV8Z

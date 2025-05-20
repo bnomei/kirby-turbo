@@ -1,0 +1,42 @@
+Title: HOOK CHARIOTS
+
+----
+
+Actors:
+
+- 'page://RdNo3TYVhV9JmDu6'
+- 'page://I7tdxqtamjxgIUCW'
+- 'page://wedufH6fwkxwowcr'
+- 'page://wxM7fPnQeVIlPpuJ'
+
+----
+
+Film-id: 430
+
+----
+
+Description: A Insightful Story of a Boy And a Dog who must Redeem a Boy in Australia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 49
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: Ub4ojo390AAS6GUT
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

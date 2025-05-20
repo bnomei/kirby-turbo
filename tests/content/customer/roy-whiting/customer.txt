@@ -1,0 +1,33 @@
+Title: ROY WHITING
+
+----
+
+Customer-id: 363
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ROY
+
+----
+
+Last-name: WHITING
+
+----
+
+Email: ROY.WHITING@sakilacustomer.org
+
+----
+
+Address: page://JM1CcZJ3IHnyhJQg
+
+----
+
+Active: 1
+
+----
+
+Uuid: qWf2WdBnN3xSlT1B

@@ -1,0 +1,25 @@
+Title: Rental 9170
+
+----
+
+Rental-id: 9170
+
+----
+
+Rental-date: 2005-07-30 11:35:24
+
+----
+
+Return-date: 2005-08-05 05:36:24
+
+----
+
+Inventory: page://wr5gL6MTHXmxsxIT
+
+----
+
+Customer: page://Tk6dRJV6KbPM8ESQ
+
+----
+
+Uuid: 7KNrV2pHzMvQ0qjG

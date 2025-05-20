@@ -1,0 +1,33 @@
+Title: TARA RYAN
+
+----
+
+Customer-id: 203
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: TARA
+
+----
+
+Last-name: RYAN
+
+----
+
+Email: TARA.RYAN@sakilacustomer.org
+
+----
+
+Address: page://arKOS5BY4VXbLvCe
+
+----
+
+Active: 1
+
+----
+
+Uuid: 9zYzK9WI4NUQdKUP

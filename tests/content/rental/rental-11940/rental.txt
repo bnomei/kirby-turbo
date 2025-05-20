@@ -1,0 +1,25 @@
+Title: Rental 11940
+
+----
+
+Rental-id: 11940
+
+----
+
+Rental-date: 2005-08-17 16:56:28
+
+----
+
+Return-date: 2005-08-18 15:09:28
+
+----
+
+Inventory: page://J20wVHtx8GbX9ZzK
+
+----
+
+Customer: page://dH8QcNydtJRu0BPQ
+
+----
+
+Uuid: EpPjB7oYjDtmxGZE

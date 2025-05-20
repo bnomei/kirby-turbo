@@ -1,0 +1,25 @@
+Title: Rental 4433
+
+----
+
+Rental-id: 4433
+
+----
+
+Rental-date: 2005-07-07 22:45:41
+
+----
+
+Return-date: 2005-07-16 23:30:41
+
+----
+
+Inventory: page://mC6KBZYB7FkIXmKV
+
+----
+
+Uuid: nQFMzmt8PvnsqaNc
+
+----
+
+Customer: page://qJJ8JizjbgmdQ5eD

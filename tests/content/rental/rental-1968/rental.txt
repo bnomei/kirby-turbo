@@ -1,0 +1,25 @@
+Title: Rental 1968
+
+----
+
+Rental-id: 1968
+
+----
+
+Rental-date: 2005-06-17 09:20:36
+
+----
+
+Return-date: 2005-06-18 11:06:36
+
+----
+
+Inventory: page://fNwpXhCc6GR0XDoa
+
+----
+
+Uuid: 4d3TnS91RwGvlHEa
+
+----
+
+Customer: page://SnGdQyKh3vyTvpek

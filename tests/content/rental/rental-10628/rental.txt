@@ -1,0 +1,25 @@
+Title: Rental 10628
+
+----
+
+Rental-id: 10628
+
+----
+
+Rental-date: 2005-08-01 15:33:19
+
+----
+
+Return-date: 2005-08-05 17:27:19
+
+----
+
+Inventory: page://v1BV4HV04L24UG89
+
+----
+
+Customer: page://lur9c4IA9ICHuaKZ
+
+----
+
+Uuid: 2lsU2Bv058Cb894u

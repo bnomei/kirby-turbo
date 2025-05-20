@@ -1,0 +1,25 @@
+Title: Rental 2108
+
+----
+
+Rental-id: 2108
+
+----
+
+Rental-date: 2005-06-17 19:35:26
+
+----
+
+Return-date: 2005-06-25 15:45:26
+
+----
+
+Inventory: page://10biyOzZ3qFVNPGS
+
+----
+
+Uuid: 42wdiI3px9wNzxAT
+
+----
+
+Customer: page://6OY6sKjbR1uPXwOW

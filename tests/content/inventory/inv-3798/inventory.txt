@@ -1,0 +1,17 @@
+Title: Inv 3798
+
+----
+
+Inventory-id: 3798
+
+----
+
+Film: page://Oi2TteOunkqza3zt
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: a4jdKyVegCexw8F9

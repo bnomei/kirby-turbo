@@ -1,0 +1,21 @@
+Title: Rental 11652
+
+----
+
+Rental-id: 11652
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://xCpFzNxLmej2A4qC
+
+----
+
+Customer: page://zIyxrm1tFzZPIrxF
+
+----
+
+Uuid: lEqsmWpFG6C4EnQv

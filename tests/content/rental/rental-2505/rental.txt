@@ -1,0 +1,25 @@
+Title: Rental 2505
+
+----
+
+Rental-id: 2505
+
+----
+
+Rental-date: 2005-06-18 23:28:27
+
+----
+
+Return-date: 2005-06-26 01:36:27
+
+----
+
+Inventory: page://s7zjyT9KnLuhikNl
+
+----
+
+Uuid: G2RuqNSCoRq6St3m
+
+----
+
+Customer: page://irfr6sLBx1gfJ688

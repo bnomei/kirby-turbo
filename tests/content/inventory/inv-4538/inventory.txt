@@ -1,0 +1,17 @@
+Title: Inv 4538
+
+----
+
+Inventory-id: 4538
+
+----
+
+Film: page://ZXTM7tsCkXieNdvb
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 2gujwp7WqvHz1G2s

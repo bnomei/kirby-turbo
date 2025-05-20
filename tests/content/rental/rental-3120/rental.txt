@@ -1,0 +1,25 @@
+Title: Rental 3120
+
+----
+
+Rental-id: 3120
+
+----
+
+Rental-date: 2005-06-20 18:19:29
+
+----
+
+Return-date: 2005-06-23 23:40:29
+
+----
+
+Inventory: page://LSqWPJci0fU319io
+
+----
+
+Uuid: 0vYYxcPVn4AFI9iQ
+
+----
+
+Customer: page://daiDyhYRb8z7fkl0

@@ -1,0 +1,17 @@
+Title: Inv 398
+
+----
+
+Inventory-id: 398
+
+----
+
+Film: page://I4KHi6rWSbJHuKLj
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: cJkXOMWKyM9Kbl1K

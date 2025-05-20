@@ -1,0 +1,25 @@
+Title: Rental 9086
+
+----
+
+Rental-id: 9086
+
+----
+
+Rental-date: 2005-07-30 08:18:46
+
+----
+
+Return-date: 2005-08-06 06:10:46
+
+----
+
+Inventory: page://KRloJxYpxLjPtUU7
+
+----
+
+Customer: page://kcW3Aiv2w6cJeXdK
+
+----
+
+Uuid: hDxI8OH7qDVQ1KtB

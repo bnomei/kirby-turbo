@@ -1,0 +1,25 @@
+Title: Rental 327
+
+----
+
+Rental-id: 327
+
+----
+
+Rental-date: 2005-05-27 01:18:57
+
+----
+
+Return-date: 2005-06-04 04:06:57
+
+----
+
+Inventory: page://YhEee9CAB9g4z3ae
+
+----
+
+Uuid: clSFcEHRXXL8Qi1O
+
+----
+
+Customer: page://Pif8NPYHuv0Na4Zs

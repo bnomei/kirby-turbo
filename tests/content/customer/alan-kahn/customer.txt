@@ -1,0 +1,33 @@
+Title: ALAN KAHN
+
+----
+
+Customer-id: 389
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ALAN
+
+----
+
+Last-name: KAHN
+
+----
+
+Email: ALAN.KAHN@sakilacustomer.org
+
+----
+
+Address: page://WMQ8UNp9HLYAaBHs
+
+----
+
+Active: 1
+
+----
+
+Uuid: 3MkHP5Qqv8Lg3Njc

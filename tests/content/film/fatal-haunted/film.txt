@@ -1,0 +1,44 @@
+Title: FATAL HAUNTED
+
+----
+
+Actors:
+
+- 'page://gxNf949gkwS5ks3A'
+- 'page://nkFKurUJ9w7y8omW'
+- 'page://Ppjj85F3dapvXsi8'
+- 'page://LYJoMM1yt0Pr5l4j'
+- 'page://pW1gtWYG8hgYIJM4'
+- 'page://18rsmrxh7jfYQ50K'
+
+----
+
+Film-id: 305
+
+----
+
+Description: A Beautiful Drama of a Student And a Secret Agent who must Confront a Dentist in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 91
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: A7odjzMG4nCFnxTI
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

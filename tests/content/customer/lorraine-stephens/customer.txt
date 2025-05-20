@@ -1,0 +1,33 @@
+Title: LORRAINE STEPHENS
+
+----
+
+Customer-id: 165
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: LORRAINE
+
+----
+
+Last-name: STEPHENS
+
+----
+
+Email: LORRAINE.STEPHENS@sakilacustomer.org
+
+----
+
+Address: page://cGtWK90xUvlGpVYN
+
+----
+
+Active: 1
+
+----
+
+Uuid: V0viosrFvqcsWPKv

@@ -1,0 +1,33 @@
+Title: LEO EBERT
+
+----
+
+Customer-id: 466
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: LEO
+
+----
+
+Last-name: EBERT
+
+----
+
+Email: LEO.EBERT@sakilacustomer.org
+
+----
+
+Address: page://1u0A984BdjlbQKZ1
+
+----
+
+Active: 1
+
+----
+
+Uuid: QG9yqDQNwdOwdXOt

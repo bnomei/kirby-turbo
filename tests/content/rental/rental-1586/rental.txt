@@ -1,0 +1,25 @@
+Title: Rental 1586
+
+----
+
+Rental-id: 1586
+
+----
+
+Rental-date: 2005-06-16 04:51:18
+
+----
+
+Return-date: 2005-06-21 06:54:18
+
+----
+
+Inventory: page://FTlNvtk00mSFrD6K
+
+----
+
+Uuid: c7ty3wDfPbGwmNG3
+
+----
+
+Customer: page://mCddyJpSaBf2Pnai

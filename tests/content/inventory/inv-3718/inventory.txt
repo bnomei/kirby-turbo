@@ -1,0 +1,17 @@
+Title: Inv 3718
+
+----
+
+Inventory-id: 3718
+
+----
+
+Film: page://EoaTSoqYKv778Eh3
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: VF3B9roFQcc5y8mk

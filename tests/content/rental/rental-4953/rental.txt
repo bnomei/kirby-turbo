@@ -1,0 +1,25 @@
+Title: Rental 4953
+
+----
+
+Rental-id: 4953
+
+----
+
+Rental-date: 2005-07-08 23:09:48
+
+----
+
+Return-date: 2005-07-11 02:08:48
+
+----
+
+Inventory: page://E9s4H0S7EN0lmT6D
+
+----
+
+Uuid: 4x5ukYKu056gF9IE
+
+----
+
+Customer: page://kgSm33zdyJ1gD7mK

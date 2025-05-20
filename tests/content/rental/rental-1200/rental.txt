@@ -1,0 +1,25 @@
+Title: Rental 1200
+
+----
+
+Rental-id: 1200
+
+----
+
+Rental-date: 2005-06-15 01:59:51
+
+----
+
+Return-date: 2005-06-21 21:33:51
+
+----
+
+Inventory: page://heoWm8towAihVOcs
+
+----
+
+Uuid: z1ICyAPAMzjSIwda
+
+----
+
+Customer: page://5hIhacgiGD4GRrE2

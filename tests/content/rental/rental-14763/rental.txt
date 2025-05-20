@@ -1,0 +1,25 @@
+Title: Rental 14763
+
+----
+
+Rental-id: 14763
+
+----
+
+Rental-date: 2005-08-21 23:34:00
+
+----
+
+Return-date: 2005-08-31 03:58:00
+
+----
+
+Inventory: page://2bjJCFQd1h3NOmUD
+
+----
+
+Customer: page://T9Zm4dl6jOmrQnrt
+
+----
+
+Uuid: UVgl5DZgPI5A4Zyo

@@ -1,0 +1,17 @@
+Title: Inv 758
+
+----
+
+Inventory-id: 758
+
+----
+
+Film: page://eHq1c3vcaeybCh3j
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: tX3gFSbBHzH9xyOJ

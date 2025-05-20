@@ -1,0 +1,25 @@
+Title: Rental 2414
+
+----
+
+Rental-id: 2414
+
+----
+
+Rental-date: 2005-06-18 17:01:55
+
+----
+
+Return-date: 2005-06-20 17:42:55
+
+----
+
+Inventory: page://4R5uP1IAOecGAQax
+
+----
+
+Uuid: cMP1Gv2u8CIJDvkD
+
+----
+
+Customer: page://Ux04BSv2KWensEQv

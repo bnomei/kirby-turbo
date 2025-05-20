@@ -1,0 +1,25 @@
+Title: Rental 15197
+
+----
+
+Rental-id: 15197
+
+----
+
+Rental-date: 2005-08-22 16:14:25
+
+----
+
+Return-date: 2005-08-26 16:22:25
+
+----
+
+Inventory: page://DH4rOMdOMIHCCrUK
+
+----
+
+Customer: page://q1NfZkNoffXnWY4c
+
+----
+
+Uuid: VWvreHctOBePrJ2u

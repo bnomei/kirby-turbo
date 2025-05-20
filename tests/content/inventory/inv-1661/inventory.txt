@@ -1,0 +1,17 @@
+Title: Inv 1661
+
+----
+
+Inventory-id: 1661
+
+----
+
+Film: page://SUMTsSQ2ilMXfenM
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 5C3RqwfvlawQWGBK

@@ -1,0 +1,25 @@
+Title: Rental 900
+
+----
+
+Rental-id: 900
+
+----
+
+Rental-date: 2005-05-30 09:38:41
+
+----
+
+Return-date: 2005-06-07 11:54:41
+
+----
+
+Inventory: page://lehSOyEiBkeImnOK
+
+----
+
+Uuid: 9mUBoPQ6yDRWDfer
+
+----
+
+Customer: page://BepniifsBA7v57Xe

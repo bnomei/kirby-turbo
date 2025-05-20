@@ -1,0 +1,44 @@
+Title: LANGUAGE COWBOY
+
+----
+
+Actors:
+
+- 'page://NhPOWxCYnyDlMqLk'
+- 'page://qGB9wRd16f9YwbHn'
+- 'page://m4qBDyQ4vBdo5EcB'
+- 'page://ltHX2Lf4QT72ZiqX'
+- 'page://isKOKKisNfJh2ta1'
+- 'page://Q7LFBcb3oEdhSO9W'
+
+----
+
+Film-id: 509
+
+----
+
+Description: A Epic Yarn of a Cat And a Madman who must Vanquish a Dentist in An Abandoned Amusement Park
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 78
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: xBi7QEvf1n5OccQ5
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

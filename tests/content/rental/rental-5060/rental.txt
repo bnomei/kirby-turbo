@@ -1,0 +1,25 @@
+Title: Rental 5060
+
+----
+
+Rental-id: 5060
+
+----
+
+Rental-date: 2005-07-09 04:28:03
+
+----
+
+Return-date: 2005-07-12 07:41:03
+
+----
+
+Inventory: page://Ir7EgiH0xek3K8LC
+
+----
+
+Uuid: 6kCnGpRF6CYwWeBP
+
+----
+
+Customer: page://kcW3Aiv2w6cJeXdK

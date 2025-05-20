@@ -1,0 +1,33 @@
+Title: KATHERINE RIVERA
+
+----
+
+Customer-id: 61
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: KATHERINE
+
+----
+
+Last-name: RIVERA
+
+----
+
+Email: KATHERINE.RIVERA@sakilacustomer.org
+
+----
+
+Address: page://AlT9JjCLI888mFtT
+
+----
+
+Active: 1
+
+----
+
+Uuid: 4vdxTdPqT9PGFejv

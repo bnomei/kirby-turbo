@@ -1,0 +1,33 @@
+Title: MORRIS MCCARTER
+
+----
+
+Customer-id: 576
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: MORRIS
+
+----
+
+Last-name: MCCARTER
+
+----
+
+Email: MORRIS.MCCARTER@sakilacustomer.org
+
+----
+
+Address: page://v8eHpuUU4k1PnWKl
+
+----
+
+Active: 1
+
+----
+
+Uuid: XIaKK8hOYK8JJ3Lj

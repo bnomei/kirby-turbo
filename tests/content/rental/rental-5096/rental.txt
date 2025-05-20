@@ -1,0 +1,25 @@
+Title: Rental 5096
+
+----
+
+Rental-id: 5096
+
+----
+
+Rental-date: 2005-07-09 06:08:23
+
+----
+
+Return-date: 2005-07-14 11:36:23
+
+----
+
+Inventory: page://Na2VnNOGlbHy8px8
+
+----
+
+Uuid: esAVuGqsqDS6pxcQ
+
+----
+
+Customer: page://szu2PM9zfcteUR6L

@@ -1,0 +1,17 @@
+Title: Inv 205
+
+----
+
+Inventory-id: 205
+
+----
+
+Film: page://gF8Ib5R1eOp5F3sY
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: IopUbQw6s8hKBBm8

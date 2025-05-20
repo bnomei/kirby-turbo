@@ -1,0 +1,25 @@
+Title: Rental 5552
+
+----
+
+Rental-id: 5552
+
+----
+
+Rental-date: 2005-07-10 03:01:19
+
+----
+
+Return-date: 2005-07-13 06:53:19
+
+----
+
+Inventory: page://5A5eZiQbf3QXXaiT
+
+----
+
+Uuid: NHIm878GlPhQj3cL
+
+----
+
+Customer: page://7WkfUKxy0GqFjI0B

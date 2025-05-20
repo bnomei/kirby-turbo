@@ -1,0 +1,17 @@
+Title: Inv 3436
+
+----
+
+Inventory-id: 3436
+
+----
+
+Film: page://qWX4AUrS1elOCyrn
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: qat2GPqHqUoiwfTq

@@ -1,0 +1,25 @@
+Title: Rental 2557
+
+----
+
+Rental-id: 2557
+
+----
+
+Rental-date: 2005-06-19 03:08:51
+
+----
+
+Return-date: 2005-06-20 07:59:51
+
+----
+
+Inventory: page://wOR6RImfPyFAgeYa
+
+----
+
+Uuid: s10Xrs2UlcAnQRMB
+
+----
+
+Customer: page://RjuxtMHbOY6NJALL

@@ -1,0 +1,25 @@
+Title: Rental 5496
+
+----
+
+Rental-id: 5496
+
+----
+
+Rental-date: 2005-07-10 00:20:23
+
+----
+
+Return-date: 2005-07-18 21:10:23
+
+----
+
+Inventory: page://FZal92Hh5xdguiLl
+
+----
+
+Uuid: bY38Aug8IhQH08Hm
+
+----
+
+Customer: page://J9AjFYg5VoQ4Yy04

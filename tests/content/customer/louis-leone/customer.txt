@@ -1,0 +1,33 @@
+Title: LOUIS LEONE
+
+----
+
+Customer-id: 373
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: LOUIS
+
+----
+
+Last-name: LEONE
+
+----
+
+Email: LOUIS.LEONE@sakilacustomer.org
+
+----
+
+Address: page://CFraCxlbXfK7S9u9
+
+----
+
+Active: 1
+
+----
+
+Uuid: rpWI4a1QTMW5t3NZ

@@ -1,0 +1,25 @@
+Title: Rental 3984
+
+----
+
+Rental-id: 3984
+
+----
+
+Rental-date: 2005-07-06 23:22:36
+
+----
+
+Return-date: 2005-07-08 21:40:36
+
+----
+
+Inventory: page://NhvKUwsn7Fg86vjZ
+
+----
+
+Uuid: a94WWSuBZPZpHjK4
+
+----
+
+Customer: page://mOuqyzmE17YrV1yV

@@ -1,0 +1,25 @@
+Title: Rental 10384
+
+----
+
+Rental-id: 10384
+
+----
+
+Rental-date: 2005-08-01 06:39:14
+
+----
+
+Return-date: 2005-08-02 03:06:14
+
+----
+
+Inventory: page://HqUWBRSpGdZCczGl
+
+----
+
+Customer: page://YQtY5BLLYVMlkjV2
+
+----
+
+Uuid: 2SXPgX60XtRVmFET

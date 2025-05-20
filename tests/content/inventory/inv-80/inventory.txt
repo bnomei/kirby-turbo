@@ -1,0 +1,17 @@
+Title: Inv 80
+
+----
+
+Inventory-id: 80
+
+----
+
+Film: page://mdhbOqFgjCraCy5l
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Xk5HTiW6edpCPG4k

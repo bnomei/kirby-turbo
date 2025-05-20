@@ -1,0 +1,25 @@
+Title: Rental 101
+
+----
+
+Rental-id: 101
+
+----
+
+Rental-date: 2005-05-25 17:17:04
+
+----
+
+Return-date: 2005-05-31 19:47:04
+
+----
+
+Inventory: page://ywcjVsI4sVj9Lytm
+
+----
+
+Uuid: UN7BiuLPWJqy4Fi7
+
+----
+
+Customer: page://tS8tZAomHzcsij8a

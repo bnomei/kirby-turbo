@@ -1,0 +1,25 @@
+Title: Rental 4681
+
+----
+
+Rental-id: 4681
+
+----
+
+Rental-date: 2005-07-08 10:36:03
+
+----
+
+Return-date: 2005-07-16 09:21:03
+
+----
+
+Inventory: page://Fdxu0MwIljjUcVKl
+
+----
+
+Uuid: KfrUjidFVnAMLEuN
+
+----
+
+Customer: page://YTXWnGj3tTFKF9yc

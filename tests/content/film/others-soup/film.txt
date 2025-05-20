@@ -1,0 +1,42 @@
+Title: OTHERS SOUP
+
+----
+
+Actors:
+
+- 'page://8uCKHWVFS7qGgYjl'
+- 'page://OwcwI2sE5Nr5L1Ju'
+- 'page://GA1ldK0BGihIEfd4'
+- 'page://hzpjO6QvzfyB1LBD'
+
+----
+
+Film-id: 645
+
+----
+
+Description: A Lacklusture Documentary of a Mad Cow And a Madman who must Sink a Moose in The Gulf of Mexico
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 118
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: GQ2XElfoSILD5DVR
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

@@ -1,0 +1,25 @@
+Title: Rental 9193
+
+----
+
+Rental-id: 9193
+
+----
+
+Rental-date: 2005-07-30 12:28:42
+
+----
+
+Return-date: 2005-08-02 12:17:42
+
+----
+
+Inventory: page://LttMUX6LK57gfPXr
+
+----
+
+Customer: page://THfMzLFg9xGh6L0X
+
+----
+
+Uuid: 0gS250vnBwFcWznC

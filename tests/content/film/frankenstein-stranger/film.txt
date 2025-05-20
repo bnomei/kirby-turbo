@@ -1,0 +1,40 @@
+Title: FRANKENSTEIN STRANGER
+
+----
+
+Actors:
+
+- 'page://u0N0ozPCYMgg4oo9'
+- 'page://o0jpPkMBKXg668DK'
+
+----
+
+Film-id: 332
+
+----
+
+Description: A Insightful Character Study of a Feminist And a Pioneer who must Pursue a Pastry Chef in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 159
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: IWJsKz7gMwRGMwJq
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

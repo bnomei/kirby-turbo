@@ -1,0 +1,17 @@
+Title: Inv 297
+
+----
+
+Inventory-id: 297
+
+----
+
+Film: page://Dfv0e5Nc8Xyf5wF3
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: E7Bqoqg5GIwnDcCi

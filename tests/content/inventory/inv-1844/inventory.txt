@@ -1,0 +1,17 @@
+Title: Inv 1844
+
+----
+
+Inventory-id: 1844
+
+----
+
+Film: page://380e5JVPUj70wMoB
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: K62fJHif16mjuzKN

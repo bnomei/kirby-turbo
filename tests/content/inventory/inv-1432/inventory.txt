@@ -1,0 +1,17 @@
+Title: Inv 1432
+
+----
+
+Inventory-id: 1432
+
+----
+
+Film: page://uuu5q1T1bVer0EUX
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 6nu4KapAD84GpHwf

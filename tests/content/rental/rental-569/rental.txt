@@ -1,0 +1,25 @@
+Title: Rental 569
+
+----
+
+Rental-id: 569
+
+----
+
+Rental-date: 2005-05-28 10:12:41
+
+----
+
+Return-date: 2005-06-03 10:08:41
+
+----
+
+Inventory: page://XPnkAzyER8PxMlCZ
+
+----
+
+Uuid: 29r0tVywkxWrjjwd
+
+----
+
+Customer: page://BRlxR8jBrlgBWqGm

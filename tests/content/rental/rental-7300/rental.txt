@@ -1,0 +1,25 @@
+Title: Rental 7300
+
+----
+
+Rental-id: 7300
+
+----
+
+Rental-date: 2005-07-27 12:50:17
+
+----
+
+Return-date: 2005-08-04 18:43:17
+
+----
+
+Inventory: page://JsOXXytPQxzFHnaY
+
+----
+
+Customer: page://ZOo5G7TWezJJco39
+
+----
+
+Uuid: O9tXQrVgtgZcerDO

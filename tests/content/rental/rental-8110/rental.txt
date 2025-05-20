@@ -1,0 +1,25 @@
+Title: Rental 8110
+
+----
+
+Rental-id: 8110
+
+----
+
+Rental-date: 2005-07-28 19:07:45
+
+----
+
+Return-date: 2005-08-04 22:12:45
+
+----
+
+Inventory: page://x4XxScAHXZ0hW4nh
+
+----
+
+Customer: page://hiI1XI5RUVwa5yqD
+
+----
+
+Uuid: XODfgqBIl0Ec36op

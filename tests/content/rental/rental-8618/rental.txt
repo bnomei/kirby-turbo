@@ -1,0 +1,25 @@
+Title: Rental 8618
+
+----
+
+Rental-id: 8618
+
+----
+
+Rental-date: 2005-07-29 13:48:20
+
+----
+
+Return-date: 2005-08-06 14:12:20
+
+----
+
+Inventory: page://0RKIvRQFZ1LixKge
+
+----
+
+Customer: page://YNtCpMJMomhTZceJ
+
+----
+
+Uuid: AkFhsvsCI4YZyCvr

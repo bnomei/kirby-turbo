@@ -1,0 +1,33 @@
+Title: KATHY JAMES
+
+----
+
+Customer-id: 71
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: KATHY
+
+----
+
+Last-name: JAMES
+
+----
+
+Email: KATHY.JAMES@sakilacustomer.org
+
+----
+
+Address: page://uPbiV6j3nAYCno7j
+
+----
+
+Active: 1
+
+----
+
+Uuid: gao3Tz3ycoSuDV8Z

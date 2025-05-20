@@ -1,0 +1,25 @@
+Title: Rental 838
+
+----
+
+Rental-id: 838
+
+----
+
+Rental-date: 2005-05-30 00:27:57
+
+----
+
+Return-date: 2005-06-06 22:19:57
+
+----
+
+Inventory: page://mXpv9VKr66yoKh6D
+
+----
+
+Uuid: 2GV55PAIVTYefksz
+
+----
+
+Customer: page://3TbKsrXXeDJmJc4J

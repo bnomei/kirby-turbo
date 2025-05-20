@@ -1,0 +1,25 @@
+Title: Rental 13192
+
+----
+
+Rental-id: 13192
+
+----
+
+Rental-date: 2005-08-19 14:30:06
+
+----
+
+Return-date: 2005-08-27 15:20:06
+
+----
+
+Inventory: page://VjXGTqygAKr7rSdy
+
+----
+
+Customer: page://jNinHUxNSvO3KbCp
+
+----
+
+Uuid: 0yh1tqaBBc3FjQJw

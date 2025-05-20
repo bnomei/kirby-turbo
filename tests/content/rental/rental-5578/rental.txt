@@ -1,0 +1,25 @@
+Title: Rental 5578
+
+----
+
+Rental-id: 5578
+
+----
+
+Rental-date: 2005-07-10 04:00:31
+
+----
+
+Return-date: 2005-07-16 08:06:31
+
+----
+
+Inventory: page://EOggcT5zhM25r42z
+
+----
+
+Uuid: EnuIcYpPI9vDbZrq
+
+----
+
+Customer: page://EmoWqGxzAidMQXb2

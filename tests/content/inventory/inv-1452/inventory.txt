@@ -1,0 +1,17 @@
+Title: Inv 1452
+
+----
+
+Inventory-id: 1452
+
+----
+
+Film: page://kTWA4HcxTtN2yojH
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 3ehHbcuw532SPk6j

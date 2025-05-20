@@ -1,0 +1,17 @@
+Title: Inv 2361
+
+----
+
+Inventory-id: 2361
+
+----
+
+Film: page://EaSM2LRmuOtGg6lI
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: jyXEWAD4qxYv9VVf

@@ -1,0 +1,25 @@
+Title: Rental 9639
+
+----
+
+Rental-id: 9639
+
+----
+
+Rental-date: 2005-07-31 05:32:10
+
+----
+
+Return-date: 2005-08-03 07:04:10
+
+----
+
+Inventory: page://PhOofSM9Ob3prbrT
+
+----
+
+Customer: page://YWOr146BeG0pdDed
+
+----
+
+Uuid: R5ChykMACLMk1CAm

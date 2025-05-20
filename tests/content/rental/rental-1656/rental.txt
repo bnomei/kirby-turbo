@@ -1,0 +1,25 @@
+Title: Rental 1656
+
+----
+
+Rental-id: 1656
+
+----
+
+Rental-date: 2005-06-16 10:05:40
+
+----
+
+Return-date: 2005-06-22 06:26:40
+
+----
+
+Inventory: page://ZY6pJXyfWlEvjbJx
+
+----
+
+Uuid: qwCVLeOnWtaczUm1
+
+----
+
+Customer: page://l2Jzx2MX7M9qrgyM

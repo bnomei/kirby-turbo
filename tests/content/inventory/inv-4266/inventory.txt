@@ -1,0 +1,17 @@
+Title: Inv 4266
+
+----
+
+Inventory-id: 4266
+
+----
+
+Film: page://X6Ufud2ZtQ4XFoEP
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 4OgNrkgeRu05QDLo

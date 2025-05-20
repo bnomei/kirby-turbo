@@ -1,0 +1,17 @@
+Title: Inv 3413
+
+----
+
+Inventory-id: 3413
+
+----
+
+Film: page://p8YMJPZB1wk9DpT5
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: QaPRQWTuh9zJgpoc

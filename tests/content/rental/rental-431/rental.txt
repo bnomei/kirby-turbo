@@ -1,0 +1,25 @@
+Title: Rental 431
+
+----
+
+Rental-id: 431
+
+----
+
+Rental-date: 2005-05-27 16:31:05
+
+----
+
+Return-date: 2005-06-05 11:29:05
+
+----
+
+Inventory: page://hLdOeaFWbcGXotkL
+
+----
+
+Uuid: zJGu9oYcaLt0LrVn
+
+----
+
+Customer: page://1lV61pgXzMTI9zGL

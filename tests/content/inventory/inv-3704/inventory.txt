@@ -1,0 +1,17 @@
+Title: Inv 3704
+
+----
+
+Inventory-id: 3704
+
+----
+
+Film: page://cxBX1iuD9IbXYvn0
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Xz9Cna7gwvWSKvaQ

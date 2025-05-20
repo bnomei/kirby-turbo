@@ -1,0 +1,17 @@
+Title: Inv 2196
+
+----
+
+Inventory-id: 2196
+
+----
+
+Film: page://JpQpmmX5y9DiYtpq
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: jTSQNS22zWZh92zL

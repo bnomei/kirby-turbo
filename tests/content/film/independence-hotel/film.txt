@@ -1,0 +1,47 @@
+Title: INDEPENDENCE HOTEL
+
+----
+
+Actors:
+
+- 'page://qd0io4mUKZ4KUkyk'
+- 'page://H5yhLtWBsWi35xuK'
+- 'page://fpycclHxIOPEPbuu'
+- 'page://ixmDbcb5VXh1c8bc'
+- 'page://WmeC1S3wVV4gdFE4'
+- 'page://nN3rIVkI7hNgoDlp'
+- 'page://twoON2iToIZq1akt'
+- 'page://K0t8PMh78EXVZHC5'
+- 'page://eZEz0vHTFLlEKlUs'
+
+----
+
+Film-id: 457
+
+----
+
+Description: A Thrilling Tale of a Technical Writer And a Boy who must Face a Pioneer in A Monastery
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 157
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: rUbIc6sEBrJjva9Z
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

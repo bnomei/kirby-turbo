@@ -1,0 +1,17 @@
+Title: Adana
+
+----
+
+City-id: 5
+
+----
+
+City: Adana
+
+----
+
+Country: page://lUNLyfX8cAjy4Uga
+
+----
+
+Uuid: VuaIdgP8k8Tzu1MN

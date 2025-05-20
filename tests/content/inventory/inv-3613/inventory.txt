@@ -1,0 +1,17 @@
+Title: Inv 3613
+
+----
+
+Inventory-id: 3613
+
+----
+
+Film: page://aAkTwopuYZivPiG2
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: GtibFM6tDRQ5yA5l

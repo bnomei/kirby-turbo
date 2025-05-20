@@ -1,0 +1,33 @@
+Title: MARY SMITH
+
+----
+
+Customer-id: 1
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MARY
+
+----
+
+Last-name: SMITH
+
+----
+
+Email: MARY.SMITH@sakilacustomer.org
+
+----
+
+Address: page://QkZW44EN5mQsauhB
+
+----
+
+Active: 1
+
+----
+
+Uuid: XT1tDVBbJppqjfak

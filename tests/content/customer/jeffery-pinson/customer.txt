@@ -1,0 +1,33 @@
+Title: JEFFERY PINSON
+
+----
+
+Customer-id: 416
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JEFFERY
+
+----
+
+Last-name: PINSON
+
+----
+
+Email: JEFFERY.PINSON@sakilacustomer.org
+
+----
+
+Address: page://cCkqwolBRXTJHqzN
+
+----
+
+Active: 1
+
+----
+
+Uuid: Hw6vCBoFgUCMOqCI

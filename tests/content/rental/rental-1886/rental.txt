@@ -1,0 +1,25 @@
+Title: Rental 1886
+
+----
+
+Rental-id: 1886
+
+----
+
+Rental-date: 2005-06-17 03:36:02
+
+----
+
+Return-date: 2005-06-19 08:12:02
+
+----
+
+Inventory: page://IP8dsO29Q1YkiQYG
+
+----
+
+Uuid: GiumgyvD4Z39clQs
+
+----
+
+Customer: page://kIByXaqyonxT2CUq

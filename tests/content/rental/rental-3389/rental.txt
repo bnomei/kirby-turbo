@@ -1,0 +1,25 @@
+Title: Rental 3389
+
+----
+
+Rental-id: 3389
+
+----
+
+Rental-date: 2005-06-21 14:37:55
+
+----
+
+Return-date: 2005-06-28 18:13:55
+
+----
+
+Inventory: page://kS9qvXHzDFinwwG7
+
+----
+
+Uuid: URHU9L0JP90VbdXH
+
+----
+
+Customer: page://VN0nTajbysCGd16r

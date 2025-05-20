@@ -1,0 +1,17 @@
+Title: Inv 1568
+
+----
+
+Inventory-id: 1568
+
+----
+
+Film: page://B0vxWhm921pRGixJ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: d5rpkWwZgTjyp5XZ

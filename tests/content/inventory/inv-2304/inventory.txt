@@ -1,0 +1,17 @@
+Title: Inv 2304
+
+----
+
+Inventory-id: 2304
+
+----
+
+Film: page://UNE4Tp1X96yAuAd5
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: SGAj2Op6B7SZKvu0

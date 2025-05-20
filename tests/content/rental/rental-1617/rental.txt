@@ -1,0 +1,25 @@
+Title: Rental 1617
+
+----
+
+Rental-id: 1617
+
+----
+
+Rental-date: 2005-06-16 07:06:06
+
+----
+
+Return-date: 2005-06-25 03:35:06
+
+----
+
+Inventory: page://hjfT3ZeA3qFeRQZR
+
+----
+
+Uuid: j9n1ZqQF7nQ9zkOL
+
+----
+
+Customer: page://QhHb9hdgHPArUJss

@@ -1,0 +1,25 @@
+Title: Rental 12029
+
+----
+
+Rental-id: 12029
+
+----
+
+Rental-date: 2005-08-17 20:07:01
+
+----
+
+Return-date: 2005-08-19 19:36:01
+
+----
+
+Inventory: page://RV28PfYMumzblmQp
+
+----
+
+Customer: page://bp3076yXkpG6TsZ7
+
+----
+
+Uuid: WV2MZp9WH8ED8XPF

@@ -1,0 +1,25 @@
+Title: Rental 1264
+
+----
+
+Rental-id: 1264
+
+----
+
+Rental-date: 2005-06-15 06:59:39
+
+----
+
+Return-date: 2005-06-18 08:10:39
+
+----
+
+Inventory: page://xndkltEvJ5EcZCPa
+
+----
+
+Uuid: PXwPvoAeWfbP7a16
+
+----
+
+Customer: page://KliCwmxco9DJ4eNi

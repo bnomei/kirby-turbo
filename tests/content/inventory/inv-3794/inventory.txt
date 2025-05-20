@@ -1,0 +1,17 @@
+Title: Inv 3794
+
+----
+
+Inventory-id: 3794
+
+----
+
+Film: page://I5vJzIp238MGKUOB
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: TpJevg7a4SsNxQwQ

@@ -1,0 +1,17 @@
+Title: Inv 650
+
+----
+
+Inventory-id: 650
+
+----
+
+Film: page://33GzHnyOAkT0s7Kb
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: j0okfv9FmtBdbYS4

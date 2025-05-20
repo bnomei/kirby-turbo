@@ -1,0 +1,43 @@
+Title: RULES HUMAN
+
+----
+
+Actors:
+
+- 'page://NhPOWxCYnyDlMqLk'
+- 'page://8v9dhLSIQd0NpUQl'
+- 'page://GwUKN9N7u1wbNu4w'
+- 'page://gELBLdH4G3cmVmcs'
+- 'page://yg3e89enY7SGtRB6'
+
+----
+
+Film-id: 749
+
+----
+
+Description: A Beautiful Epistle of a Astronaut And a Student who must Confront a Monkey in An Abandoned Fun House
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 153
+
+----
+
+Rating: R
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: Mz3jWnwuHGzDCRlb
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

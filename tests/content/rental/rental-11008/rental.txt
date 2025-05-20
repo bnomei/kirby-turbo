@@ -1,0 +1,25 @@
+Title: Rental 11008
+
+----
+
+Rental-id: 11008
+
+----
+
+Rental-date: 2005-08-02 05:06:17
+
+----
+
+Return-date: 2005-08-10 01:22:17
+
+----
+
+Inventory: page://H8PqF71IxsGoowof
+
+----
+
+Customer: page://sXFRFNABQAAwfZCO
+
+----
+
+Uuid: UWUMfq5CNVB4VrEH

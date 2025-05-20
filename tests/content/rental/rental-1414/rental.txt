@@ -1,0 +1,25 @@
+Title: Rental 1414
+
+----
+
+Rental-id: 1414
+
+----
+
+Rental-date: 2005-06-15 17:26:32
+
+----
+
+Return-date: 2005-06-22 22:30:32
+
+----
+
+Inventory: page://Dpk630yVUuSDvKO4
+
+----
+
+Uuid: fKaD7oxMYioMaJTp
+
+----
+
+Customer: page://MpSgiAIrJd9YlrCV

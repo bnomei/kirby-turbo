@@ -1,0 +1,44 @@
+Title: GLADIATOR WESTWARD
+
+----
+
+Actors:
+
+- 'page://oEbdYNCKFrP9NVLv'
+- 'page://4hDC3FM6lySlQjxW'
+- 'page://L8EgxOu9xdHGpzVg'
+- 'page://rTdvG0vGkNN8iJpQ'
+- 'page://humVtsLQfFTV2gvC'
+- 'page://s3p9MagWJdWouacJ'
+
+----
+
+Film-id: 359
+
+----
+
+Description: A Astounding Reflection of a Squirrel And a Sumo Wrestler who must Sink a Dentist in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 173
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: FEwvS6W0MX8WrhqE
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

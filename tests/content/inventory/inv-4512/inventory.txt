@@ -1,0 +1,17 @@
+Title: Inv 4512
+
+----
+
+Inventory-id: 4512
+
+----
+
+Film: page://j44nFK3M0tKa4wzG
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 8ebM6bKWzTfQKJDc

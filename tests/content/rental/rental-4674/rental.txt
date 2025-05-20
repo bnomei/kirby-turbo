@@ -1,0 +1,25 @@
+Title: Rental 4674
+
+----
+
+Rental-id: 4674
+
+----
+
+Rental-date: 2005-07-08 10:19:28
+
+----
+
+Return-date: 2005-07-12 12:54:28
+
+----
+
+Inventory: page://6lws4sqUuxHFlkDu
+
+----
+
+Uuid: DOfbuTf31S4dWYKj
+
+----
+
+Customer: page://uPhvBTY0GbGPCouW

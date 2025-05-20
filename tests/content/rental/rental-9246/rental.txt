@@ -1,0 +1,25 @@
+Title: Rental 9246
+
+----
+
+Rental-id: 9246
+
+----
+
+Rental-date: 2005-07-30 14:12:31
+
+----
+
+Return-date: 2005-08-02 14:25:31
+
+----
+
+Inventory: page://pZ31go53avCwCC4v
+
+----
+
+Customer: page://FVBT09sa4x7FnbO2
+
+----
+
+Uuid: 8fzobKp20ZLmzclx

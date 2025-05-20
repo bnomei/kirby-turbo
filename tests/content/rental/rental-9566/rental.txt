@@ -1,0 +1,25 @@
+Title: Rental 9566
+
+----
+
+Rental-id: 9566
+
+----
+
+Rental-date: 2005-07-31 02:32:10
+
+----
+
+Return-date: 2005-08-02 23:54:10
+
+----
+
+Inventory: page://Ml9mmtKTxorTpuIi
+
+----
+
+Customer: page://WxMkfWnfG0RH07zl
+
+----
+
+Uuid: sbw48v5XHWIOkSCy

@@ -1,0 +1,25 @@
+Title: Rental 1984
+
+----
+
+Rental-id: 1984
+
+----
+
+Rental-date: 2005-06-17 10:25:28
+
+----
+
+Return-date: 2005-06-23 08:18:28
+
+----
+
+Inventory: page://qQmOf8vB9VhaimHV
+
+----
+
+Uuid: ukYmHyt8QSfsnxNm
+
+----
+
+Customer: page://9nmXEbNtguZWpwtU

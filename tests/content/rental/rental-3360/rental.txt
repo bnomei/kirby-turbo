@@ -1,0 +1,25 @@
+Title: Rental 3360
+
+----
+
+Rental-id: 3360
+
+----
+
+Rental-date: 2005-06-21 12:12:41
+
+----
+
+Return-date: 2005-06-26 06:32:41
+
+----
+
+Inventory: page://PETWkcc8PO7WVZFE
+
+----
+
+Uuid: Uv5nnIJyNCMiDfXJ
+
+----
+
+Customer: page://2lQ4vbsZnRXuEptp

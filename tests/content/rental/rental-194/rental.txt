@@ -1,0 +1,25 @@
+Title: Rental 194
+
+----
+
+Rental-id: 194
+
+----
+
+Rental-date: 2005-05-26 06:52:33
+
+----
+
+Return-date: 2005-05-30 04:08:33
+
+----
+
+Inventory: page://Gsfomb4ZmBMwVd4J
+
+----
+
+Uuid: I3PXquE210j95yL2
+
+----
+
+Customer: page://c7lkRFQFPsFgIejg

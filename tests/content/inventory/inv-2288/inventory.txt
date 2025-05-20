@@ -1,0 +1,17 @@
+Title: Inv 2288
+
+----
+
+Inventory-id: 2288
+
+----
+
+Film: page://UdUYy1wSW39nsWE8
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: j9mpN8z3GHuap32v

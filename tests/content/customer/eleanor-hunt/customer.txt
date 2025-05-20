@@ -1,0 +1,33 @@
+Title: ELEANOR HUNT
+
+----
+
+Customer-id: 148
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ELEANOR
+
+----
+
+Last-name: HUNT
+
+----
+
+Email: ELEANOR.HUNT@sakilacustomer.org
+
+----
+
+Address: page://jpUc8bca2M75bqBS
+
+----
+
+Active: 1
+
+----
+
+Uuid: bp3076yXkpG6TsZ7

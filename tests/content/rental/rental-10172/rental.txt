@@ -1,0 +1,25 @@
+Title: Rental 10172
+
+----
+
+Rental-id: 10172
+
+----
+
+Rental-date: 2005-07-31 23:29:51
+
+----
+
+Return-date: 2005-08-09 01:57:51
+
+----
+
+Inventory: page://wRKFhWM7pmS2LGnp
+
+----
+
+Customer: page://bm01Zh4gvYAGmd89
+
+----
+
+Uuid: XrvkRE5orN9R8kmJ

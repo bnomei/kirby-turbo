@@ -1,0 +1,25 @@
+Title: Rental 14211
+
+----
+
+Rental-id: 14211
+
+----
+
+Rental-date: 2005-08-21 04:29:11
+
+----
+
+Return-date: 2005-08-24 02:50:11
+
+----
+
+Inventory: page://7jDkNm53bV1FzTiO
+
+----
+
+Customer: page://bw4m0tZ1D4xQh5s8
+
+----
+
+Uuid: 6a38tDD2kquD91OF

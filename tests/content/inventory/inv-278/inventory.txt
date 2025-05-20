@@ -1,0 +1,17 @@
+Title: Inv 278
+
+----
+
+Inventory-id: 278
+
+----
+
+Film: page://qeZApx9fSZJK9mfS
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: EETKPhvrdaXjXC9j

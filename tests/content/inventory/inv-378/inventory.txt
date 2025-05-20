@@ -1,0 +1,17 @@
+Title: Inv 378
+
+----
+
+Inventory-id: 378
+
+----
+
+Film: page://wsVJXNfnbxmaVfQ6
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: uoHKcJAJZUHifo8J

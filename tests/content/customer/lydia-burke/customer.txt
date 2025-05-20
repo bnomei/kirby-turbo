@@ -1,0 +1,33 @@
+Title: LYDIA BURKE
+
+----
+
+Customer-id: 243
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: LYDIA
+
+----
+
+Last-name: BURKE
+
+----
+
+Email: LYDIA.BURKE@sakilacustomer.org
+
+----
+
+Address: page://XOGa9lsgRdQwdpu1
+
+----
+
+Active: 1
+
+----
+
+Uuid: ljcTXDJkVE3hnapx

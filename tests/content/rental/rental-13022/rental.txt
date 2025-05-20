@@ -1,0 +1,21 @@
+Title: Rental 13022
+
+----
+
+Rental-id: 13022
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://yC33CdnFelNPGxdm
+
+----
+
+Customer: page://MsMpwiaowsqI4bXD
+
+----
+
+Uuid: 5i0txtgpF3eOH2cN

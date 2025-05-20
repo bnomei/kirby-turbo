@@ -1,0 +1,25 @@
+Title: Rental 10455
+
+----
+
+Rental-id: 10455
+
+----
+
+Rental-date: 2005-08-01 09:15:00
+
+----
+
+Return-date: 2005-08-05 13:35:00
+
+----
+
+Inventory: page://YS3idUf9iX4HK8VU
+
+----
+
+Customer: page://ThgYfQ8UF68tkRWf
+
+----
+
+Uuid: e1yr8gbE9226rVGQ

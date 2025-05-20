@@ -1,0 +1,25 @@
+Title: Rental 10886
+
+----
+
+Rental-id: 10886
+
+----
+
+Rental-date: 2005-08-02 00:52:34
+
+----
+
+Return-date: 2005-08-08 00:30:34
+
+----
+
+Inventory: page://N2xq7eE4kAoqPIsJ
+
+----
+
+Customer: page://ssRpWEJq6gKOyUIh
+
+----
+
+Uuid: 8OuFqlS7I3mN2IMB

@@ -1,0 +1,25 @@
+Title: Rental 11953
+
+----
+
+Rental-id: 11953
+
+----
+
+Rental-date: 2005-08-17 17:16:42
+
+----
+
+Return-date: 2005-08-23 18:28:42
+
+----
+
+Inventory: page://idv9Y5Tqsq5Wkzx8
+
+----
+
+Customer: page://Lk1Hh6BTSOpo0Syr
+
+----
+
+Uuid: wKBCsPk74ANXblYo

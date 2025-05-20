@@ -1,0 +1,33 @@
+Title: JERRY JORDON
+
+----
+
+Customer-id: 337
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JERRY
+
+----
+
+Last-name: JORDON
+
+----
+
+Email: JERRY.JORDON@sakilacustomer.org
+
+----
+
+Address: page://okco9apOMXdjqyOE
+
+----
+
+Active: 1
+
+----
+
+Uuid: ZMPHt1kBgzua3Tmb

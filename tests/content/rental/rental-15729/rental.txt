@@ -1,0 +1,21 @@
+Title: Rental 15729
+
+----
+
+Rental-id: 15729
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://6YiDzOGwK6VXZAoO
+
+----
+
+Customer: page://Ndg2gok9kt3kezoh
+
+----
+
+Uuid: QLvHuLwcAdwD3rWk

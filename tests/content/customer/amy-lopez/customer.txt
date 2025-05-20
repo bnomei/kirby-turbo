@@ -1,0 +1,33 @@
+Title: AMY LOPEZ
+
+----
+
+Customer-id: 32
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: AMY
+
+----
+
+Last-name: LOPEZ
+
+----
+
+Email: AMY.LOPEZ@sakilacustomer.org
+
+----
+
+Address: page://0vFmmOYK4zikpg3h
+
+----
+
+Active: 1
+
+----
+
+Uuid: B846my6UhlL6l6CA

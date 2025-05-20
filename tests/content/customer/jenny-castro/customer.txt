@@ -1,0 +1,33 @@
+Title: JENNY CASTRO
+
+----
+
+Customer-id: 282
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JENNY
+
+----
+
+Last-name: CASTRO
+
+----
+
+Email: JENNY.CASTRO@sakilacustomer.org
+
+----
+
+Address: page://otBWFJ5DiR1XnAuI
+
+----
+
+Active: 1
+
+----
+
+Uuid: Tj29qTVQAQ0HCcNy

@@ -1,0 +1,25 @@
+Title: Rental 3901
+
+----
+
+Rental-id: 3901
+
+----
+
+Rental-date: 2005-07-06 19:24:55
+
+----
+
+Return-date: 2005-07-14 20:30:55
+
+----
+
+Inventory: page://KGxbfsvaducqvON1
+
+----
+
+Uuid: llSSN2ZgnW9zN8Y8
+
+----
+
+Customer: page://36F29rZd3q9eaQjs

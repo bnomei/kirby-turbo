@@ -1,0 +1,17 @@
+Title: Inv 3916
+
+----
+
+Inventory-id: 3916
+
+----
+
+Film: page://c0ASMjM9iHb8dRVM
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: jBPrD8uw9k4SEMMA

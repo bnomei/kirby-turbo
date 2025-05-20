@@ -1,0 +1,25 @@
+Title: Rental 6651
+
+----
+
+Rental-id: 6651
+
+----
+
+Rental-date: 2005-07-12 10:57:28
+
+----
+
+Return-date: 2005-07-15 06:06:28
+
+----
+
+Inventory: page://XpF0SAvrvUPJO97O
+
+----
+
+Uuid: EnPBCgj8bjhs1r65
+
+----
+
+Customer: page://Oh5C897HuaFVNnEP

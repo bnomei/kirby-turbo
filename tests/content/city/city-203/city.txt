@@ -1,0 +1,17 @@
+Title: Higashiosaka
+
+----
+
+City-id: 203
+
+----
+
+City: Higashiosaka
+
+----
+
+Country: page://XEyP9uxOgFESeyaK
+
+----
+
+Uuid: dg8Fc8zsiG2DWDmP

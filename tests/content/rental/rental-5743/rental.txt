@@ -1,0 +1,25 @@
+Title: Rental 5743
+
+----
+
+Rental-id: 5743
+
+----
+
+Rental-date: 2005-07-10 11:57:38
+
+----
+
+Return-date: 2005-07-19 15:38:38
+
+----
+
+Inventory: page://NskFQvf0sttOeWLf
+
+----
+
+Uuid: uzcr6XQZ9rPT5SEm
+
+----
+
+Customer: page://OuCE5gs5Pt217cWx

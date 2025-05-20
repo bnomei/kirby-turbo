@@ -1,0 +1,17 @@
+Title: Inv 1193
+
+----
+
+Inventory-id: 1193
+
+----
+
+Film: page://9wVld7gJLsuDCDGi
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ZkDlUBuOtbGECVxE

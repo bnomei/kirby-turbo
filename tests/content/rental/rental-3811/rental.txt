@@ -1,0 +1,25 @@
+Title: Rental 3811
+
+----
+
+Rental-id: 3811
+
+----
+
+Rental-date: 2005-07-06 15:20:37
+
+----
+
+Return-date: 2005-07-08 16:26:37
+
+----
+
+Inventory: page://GZSm4eu007poSNOS
+
+----
+
+Uuid: SLt5CW7NM97eySwa
+
+----
+
+Customer: page://cnvPsOJZCE8gIQ4P

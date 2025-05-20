@@ -1,0 +1,17 @@
+Title: Inv 1923
+
+----
+
+Inventory-id: 1923
+
+----
+
+Film: page://843vIja6ZhhXNEBy
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: phBR6WoclRy3uiz4

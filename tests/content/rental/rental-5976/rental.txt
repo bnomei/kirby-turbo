@@ -1,0 +1,25 @@
+Title: Rental 5976
+
+----
+
+Rental-id: 5976
+
+----
+
+Rental-date: 2005-07-11 00:16:35
+
+----
+
+Return-date: 2005-07-20 01:30:35
+
+----
+
+Inventory: page://Bs7AZ67EVXbeF8Rh
+
+----
+
+Uuid: DmgZ8hpVs5yv8liH
+
+----
+
+Customer: page://kIByXaqyonxT2CUq

@@ -1,0 +1,25 @@
+Title: Rental 8569
+
+----
+
+Rental-id: 8569
+
+----
+
+Rental-date: 2005-07-29 11:39:17
+
+----
+
+Return-date: 2005-07-31 07:50:17
+
+----
+
+Inventory: page://NRezFDfvIcL0mLKC
+
+----
+
+Customer: page://K253MbSwnklxbl62
+
+----
+
+Uuid: e8yiIXnoHLwcwdMX

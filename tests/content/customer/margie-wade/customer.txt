@@ -1,0 +1,33 @@
+Title: MARGIE WADE
+
+----
+
+Customer-id: 267
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MARGIE
+
+----
+
+Last-name: WADE
+
+----
+
+Email: MARGIE.WADE@sakilacustomer.org
+
+----
+
+Address: page://np4zICwHOScDKlx4
+
+----
+
+Active: 1
+
+----
+
+Uuid: YC1uNdmmt4LG2OJc

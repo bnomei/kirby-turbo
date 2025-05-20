@@ -1,0 +1,25 @@
+Title: Rental 9169
+
+----
+
+Rental-id: 9169
+
+----
+
+Rental-date: 2005-07-30 11:35:00
+
+----
+
+Return-date: 2005-08-06 16:16:00
+
+----
+
+Inventory: page://qLAGe33P6yhhLdIz
+
+----
+
+Customer: page://pb7ZrH0vPEWpfLP3
+
+----
+
+Uuid: ZssTOAvgSmCcABhB

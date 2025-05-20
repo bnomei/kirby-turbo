@@ -1,0 +1,25 @@
+Title: Rental 536
+
+----
+
+Rental-id: 536
+
+----
+
+Rental-date: 2005-05-28 06:17:33
+
+----
+
+Return-date: 2005-06-03 10:02:33
+
+----
+
+Inventory: page://yCNfAOI45qOPPovi
+
+----
+
+Uuid: T4XD8Mw84AZkc5po
+
+----
+
+Customer: page://cyMlL5yPpoS1G4BT

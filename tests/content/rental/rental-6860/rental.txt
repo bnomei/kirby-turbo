@@ -1,0 +1,25 @@
+Title: Rental 6860
+
+----
+
+Rental-id: 6860
+
+----
+
+Rental-date: 2005-07-12 19:54:17
+
+----
+
+Return-date: 2005-07-18 13:59:17
+
+----
+
+Inventory: page://JEzbjEgS5kbpbt7E
+
+----
+
+Customer: page://OukV1G0vQXX07Xku
+
+----
+
+Uuid: Zn110oxUqmOud1Ob

@@ -1,0 +1,17 @@
+Title: Inv 3281
+
+----
+
+Inventory-id: 3281
+
+----
+
+Film: page://0kAw1PNKkjKg2Rgu
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: iy1YtHCares8C4NC

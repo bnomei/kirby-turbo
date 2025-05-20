@@ -1,0 +1,17 @@
+Title: Santa Bárbara d´Oeste
+
+----
+
+City-id: 456
+
+----
+
+City: Santa Bárbara d´Oeste
+
+----
+
+Country: page://jIqa2ZvYow6Egqhx
+
+----
+
+Uuid: pG8LLATEqfFBkZTu

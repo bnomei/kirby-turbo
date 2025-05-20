@@ -1,0 +1,17 @@
+Title: Inv 4343
+
+----
+
+Inventory-id: 4343
+
+----
+
+Film: page://YvmY2dKl32dFuhg0
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: P3uWR5bPoK5sbivP

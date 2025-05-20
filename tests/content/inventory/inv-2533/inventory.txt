@@ -1,0 +1,17 @@
+Title: Inv 2533
+
+----
+
+Inventory-id: 2533
+
+----
+
+Film: page://13S7zSOw1xZLbc73
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 0IPa4wyyvU081RZv

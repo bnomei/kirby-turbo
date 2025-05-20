@@ -1,0 +1,41 @@
+Title: SUPER WYOMING
+
+----
+
+Actors:
+
+- 'page://JbsPWnOXBNKX1tM5'
+- 'page://4H5a71re4eGpTLKc'
+- 'page://HBk8OpEyVf68VCvH'
+
+----
+
+Film-id: 867
+
+----
+
+Description: A Action-Packed Saga of a Pastry Chef And a Explorer who must Discover a A Shark in The Outback
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 58
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: zSN9mWRbcQlkweJ3
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

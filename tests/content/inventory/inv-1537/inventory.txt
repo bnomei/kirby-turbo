@@ -1,0 +1,17 @@
+Title: Inv 1537
+
+----
+
+Inventory-id: 1537
+
+----
+
+Film: page://0rCBtFgTBU5lFT4Z
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: lNjBwX9R1KYrRY2p

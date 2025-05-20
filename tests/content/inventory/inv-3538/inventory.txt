@@ -1,0 +1,17 @@
+Title: Inv 3538
+
+----
+
+Inventory-id: 3538
+
+----
+
+Film: page://n7uW2rvQTttEKsGS
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: qmZAEwl1I5OT7TWt

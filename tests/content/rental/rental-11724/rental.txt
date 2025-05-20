@@ -1,0 +1,25 @@
+Title: Rental 11724
+
+----
+
+Rental-id: 11724
+
+----
+
+Rental-date: 2005-08-17 08:04:44
+
+----
+
+Return-date: 2005-08-25 03:25:44
+
+----
+
+Inventory: page://PomkuMr08Qv3Lwn9
+
+----
+
+Customer: page://wMkYUds0NaSHubNn
+
+----
+
+Uuid: b0X1GrWyjgsxaOpr

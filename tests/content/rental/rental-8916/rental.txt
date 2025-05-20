@@ -1,0 +1,25 @@
+Title: Rental 8916
+
+----
+
+Rental-id: 8916
+
+----
+
+Rental-date: 2005-07-30 01:42:21
+
+----
+
+Return-date: 2005-08-03 05:28:21
+
+----
+
+Inventory: page://IUOkUVUigGGQJrgi
+
+----
+
+Customer: page://zLiLkW2YJgd9qzFC
+
+----
+
+Uuid: qP9BpfQRtI46JeJn

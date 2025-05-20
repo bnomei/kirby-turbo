@@ -1,0 +1,17 @@
+Title: Inv 1012
+
+----
+
+Inventory-id: 1012
+
+----
+
+Film: page://fMLEgaiXF2S6ow1C
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: xwQo2A3B66GTxb8p

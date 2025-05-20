@@ -1,0 +1,25 @@
+Title: Rental 11040
+
+----
+
+Rental-id: 11040
+
+----
+
+Rental-date: 2005-08-02 06:03:22
+
+----
+
+Return-date: 2005-08-03 07:58:22
+
+----
+
+Inventory: page://jxwLFZiK9JNtbXI0
+
+----
+
+Customer: page://EcxXI702tDu4xH3y
+
+----
+
+Uuid: R3cOmIC0E6ftg3e4

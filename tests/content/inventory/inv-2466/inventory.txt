@@ -1,0 +1,17 @@
+Title: Inv 2466
+
+----
+
+Inventory-id: 2466
+
+----
+
+Film: page://WxjJOOFf93DuYwYk
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ak2Nr2HrWmU1bTNY

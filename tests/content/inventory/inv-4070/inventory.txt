@@ -1,0 +1,17 @@
+Title: Inv 4070
+
+----
+
+Inventory-id: 4070
+
+----
+
+Film: page://Mk00fN7mmOAZR9j4
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: vT3FVvLvXauUTDyw

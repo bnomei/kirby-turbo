@@ -1,0 +1,17 @@
+Title: Inv 3019
+
+----
+
+Inventory-id: 3019
+
+----
+
+Film: page://kZs95FwsP3In7Yk1
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: hhLvLC9QQJDzzvD8

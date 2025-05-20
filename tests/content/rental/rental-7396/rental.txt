@@ -1,0 +1,25 @@
+Title: Rental 7396
+
+----
+
+Rental-id: 7396
+
+----
+
+Rental-date: 2005-07-27 16:03:53
+
+----
+
+Return-date: 2005-08-05 10:36:53
+
+----
+
+Inventory: page://wGj3zkWYQYUi6uKS
+
+----
+
+Customer: page://dAwe6HV7cqMe4xEm
+
+----
+
+Uuid: H1nx7mXuvqxRnVMI

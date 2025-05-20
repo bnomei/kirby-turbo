@@ -1,0 +1,25 @@
+Title: Rental 6575
+
+----
+
+Rental-id: 6575
+
+----
+
+Rental-date: 2005-07-12 06:12:53
+
+----
+
+Return-date: 2005-07-18 07:55:53
+
+----
+
+Inventory: page://XAyqSXBAqcIy5OXQ
+
+----
+
+Uuid: uSIOtTfEay6XOfVy
+
+----
+
+Customer: page://I6RvfHo1Bz3UuSTP

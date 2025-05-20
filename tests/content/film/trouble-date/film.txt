@@ -1,0 +1,46 @@
+Title: TROUBLE DATE
+
+----
+
+Actors:
+
+- 'page://EOOflmfeZlmBOGUJ'
+- 'page://I2QUzWEQkTiY7Ba5'
+- 'page://xBL8rppzTt5cijUB'
+- 'page://sDEWocF2a3nQjJMo'
+- 'page://3XS33oPl7qwaYDh3'
+- 'page://Vt3bRByOUSEypvV6'
+- 'page://EMAJfjeYpdsSEXq5'
+- 'page://zrJrW5pbY6A6t722'
+
+----
+
+Film-id: 914
+
+----
+
+Description: A Lacklusture Panorama of a Forensic Psychologist And a Woman who must Kill a Explorer in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 61
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: 4DJfx08RDOiusw3S
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

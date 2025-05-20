@@ -1,0 +1,25 @@
+Title: Rental 11454
+
+----
+
+Rental-id: 11454
+
+----
+
+Rental-date: 2005-08-02 21:04:39
+
+----
+
+Return-date: 2005-08-05 19:03:39
+
+----
+
+Inventory: page://5Pp4lSmXYRRZDv5o
+
+----
+
+Customer: page://aR5C6yOEP2AWS3bi
+
+----
+
+Uuid: LTLzxFuePONUofN2

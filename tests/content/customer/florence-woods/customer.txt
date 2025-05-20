@@ -1,0 +1,33 @@
+Title: FLORENCE WOODS
+
+----
+
+Customer-id: 107
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: FLORENCE
+
+----
+
+Last-name: WOODS
+
+----
+
+Email: FLORENCE.WOODS@sakilacustomer.org
+
+----
+
+Address: page://6yffNqxweYLqZavH
+
+----
+
+Active: 1
+
+----
+
+Uuid: daiDyhYRb8z7fkl0

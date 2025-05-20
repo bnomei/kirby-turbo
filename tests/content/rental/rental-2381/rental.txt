@@ -1,0 +1,25 @@
+Title: Rental 2381
+
+----
+
+Rental-id: 2381
+
+----
+
+Rental-date: 2005-06-18 15:00:30
+
+----
+
+Return-date: 2005-06-22 11:38:30
+
+----
+
+Inventory: page://z5vu0vu3vBRceWgX
+
+----
+
+Uuid: 2Zve8nTtikUKFalq
+
+----
+
+Customer: page://W5URxqu7M4t7ujHI

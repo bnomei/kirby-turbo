@@ -1,0 +1,25 @@
+Title: Rental 15880
+
+----
+
+Rental-id: 15880
+
+----
+
+Rental-date: 2005-08-23 16:43:54
+
+----
+
+Return-date: 2005-08-31 14:40:54
+
+----
+
+Inventory: page://vU5k5Or82oxSzqSq
+
+----
+
+Customer: page://JY1mPZSxratt4tn6
+
+----
+
+Uuid: uyiBNCrWksqikS69

@@ -1,0 +1,25 @@
+Title: Rental 15107
+
+----
+
+Rental-id: 15107
+
+----
+
+Rental-date: 2005-08-22 12:05:02
+
+----
+
+Return-date: 2005-08-23 11:09:02
+
+----
+
+Inventory: page://eQtlV97T9sBLeAKW
+
+----
+
+Customer: page://20Yola6tVbTLAtmZ
+
+----
+
+Uuid: 407uCz0vpDylAtp3

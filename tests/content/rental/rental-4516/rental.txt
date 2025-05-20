@@ -1,0 +1,25 @@
+Title: Rental 4516
+
+----
+
+Rental-id: 4516
+
+----
+
+Rental-date: 2005-07-08 02:43:41
+
+----
+
+Return-date: 2005-07-14 02:20:41
+
+----
+
+Inventory: page://5mTlvaBuJ4xCTTJG
+
+----
+
+Uuid: 7tR7TfCjbDRZPZTw
+
+----
+
+Customer: page://2MUlemyyzPeXt7QE

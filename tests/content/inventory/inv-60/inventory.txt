@@ -1,0 +1,17 @@
+Title: Inv 60
+
+----
+
+Inventory-id: 60
+
+----
+
+Film: page://jE6CrKYWQPK6P0VI
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: nUzk0bKU1CbKX8oE

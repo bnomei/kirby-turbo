@@ -1,0 +1,43 @@
+Title: FRIDA SLIPPER
+
+----
+
+Actors:
+
+- 'page://xbVuFnPKikNsqVkK'
+- 'page://ixmDbcb5VXh1c8bc'
+- 'page://qiUMbGq5mbDqGQZm'
+- 'page://nN3rIVkI7hNgoDlp'
+- 'page://6LG8mbCuu1aKuRcl'
+
+----
+
+Film-id: 337
+
+----
+
+Description: A Fateful Story of a Lumberjack And a Car who must Escape a Boat in An Abandoned Mine Shaft
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 73
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: pCiw3vrnyD9uIv5L
+
+----
+
+Categories: - 'page://1zSlwtq2IyzVh9Hs'

@@ -1,0 +1,17 @@
+Title: Inv 1841
+
+----
+
+Inventory-id: 1841
+
+----
+
+Film: page://JjidP6lSaa8M8qWs
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: xJgGTnTA3KsEbZCg

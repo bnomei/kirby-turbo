@@ -1,0 +1,33 @@
+Title: SHAWN HEATON
+
+----
+
+Customer-id: 390
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: SHAWN
+
+----
+
+Last-name: HEATON
+
+----
+
+Email: SHAWN.HEATON@sakilacustomer.org
+
+----
+
+Address: page://ZZDl0Z979jfCzsD8
+
+----
+
+Active: 1
+
+----
+
+Uuid: pqDg6kDmCdvbDclp

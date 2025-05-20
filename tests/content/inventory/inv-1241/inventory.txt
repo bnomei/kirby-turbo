@@ -1,0 +1,17 @@
+Title: Inv 1241
+
+----
+
+Inventory-id: 1241
+
+----
+
+Film: page://lzf9i2E9ieyWeuWC
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: VG2iuGKug9cmxij9

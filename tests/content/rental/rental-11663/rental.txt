@@ -1,0 +1,25 @@
+Title: Rental 11663
+
+----
+
+Rental-id: 11663
+
+----
+
+Rental-date: 2005-08-17 05:30:19
+
+----
+
+Return-date: 2005-08-25 08:14:19
+
+----
+
+Inventory: page://a4jdKyVegCexw8F9
+
+----
+
+Customer: page://rpWI4a1QTMW5t3NZ
+
+----
+
+Uuid: 4INCIYNZOAH2u9e8

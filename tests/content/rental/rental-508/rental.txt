@@ -1,0 +1,25 @@
+Title: Rental 508
+
+----
+
+Rental-id: 508
+
+----
+
+Rental-date: 2005-05-28 02:40:50
+
+----
+
+Return-date: 2005-06-05 03:05:50
+
+----
+
+Inventory: page://2scjHBrlfCeEIdMY
+
+----
+
+Uuid: X0YIksgVOcRdfpa6
+
+----
+
+Customer: page://XnsJqH5poBI9AFGR

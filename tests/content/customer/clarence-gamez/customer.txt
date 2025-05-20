@@ -1,0 +1,33 @@
+Title: CLARENCE GAMEZ
+
+----
+
+Customer-id: 391
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CLARENCE
+
+----
+
+Last-name: GAMEZ
+
+----
+
+Email: CLARENCE.GAMEZ@sakilacustomer.org
+
+----
+
+Address: page://vjGmWOTJdxwRmWL2
+
+----
+
+Active: 1
+
+----
+
+Uuid: PkN2CyC6PbKojoAi

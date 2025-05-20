@@ -1,0 +1,17 @@
+Title: Inv 3615
+
+----
+
+Inventory-id: 3615
+
+----
+
+Film: page://aAkTwopuYZivPiG2
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: WyAF9BIbjdtEt8ZM

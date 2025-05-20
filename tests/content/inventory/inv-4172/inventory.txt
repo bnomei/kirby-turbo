@@ -1,0 +1,17 @@
+Title: Inv 4172
+
+----
+
+Inventory-id: 4172
+
+----
+
+Film: page://C0Cy1IyrmkeBtlTR
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 69oiGMJxnlDDqhH8

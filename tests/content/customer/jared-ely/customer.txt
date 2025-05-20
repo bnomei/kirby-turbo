@@ -1,0 +1,33 @@
+Title: JARED ELY
+
+----
+
+Customer-id: 524
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JARED
+
+----
+
+Last-name: ELY
+
+----
+
+Email: JARED.ELY@sakilacustomer.org
+
+----
+
+Address: page://ta6pIrblv2zxRYO0
+
+----
+
+Active: 1
+
+----
+
+Uuid: DVIVTmAM0LOCEI7a

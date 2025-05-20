@@ -1,0 +1,33 @@
+Title: KATHLEEN ADAMS
+
+----
+
+Customer-id: 36
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: KATHLEEN
+
+----
+
+Last-name: ADAMS
+
+----
+
+Email: KATHLEEN.ADAMS@sakilacustomer.org
+
+----
+
+Address: page://eq12MgoG19IiDE96
+
+----
+
+Active: 1
+
+----
+
+Uuid: qeEo6FrEXh8ohhLi

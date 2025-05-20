@@ -1,0 +1,25 @@
+Title: Rental 426
+
+----
+
+Rental-id: 426
+
+----
+
+Rental-date: 2005-05-27 15:56:57
+
+----
+
+Return-date: 2005-06-05 11:45:57
+
+----
+
+Inventory: page://aPsiXe5KzwKvmSBg
+
+----
+
+Uuid: INWWNTSr8RlOSDkc
+
+----
+
+Customer: page://azLzg4bnImGnXayq

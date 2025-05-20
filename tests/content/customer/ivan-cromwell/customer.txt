@@ -1,0 +1,33 @@
+Title: IVAN CROMWELL
+
+----
+
+Customer-id: 570
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: IVAN
+
+----
+
+Last-name: CROMWELL
+
+----
+
+Email: IVAN.CROMWELL@sakilacustomer.org
+
+----
+
+Address: page://1PnkH0yynsR6D3Xr
+
+----
+
+Active: 1
+
+----
+
+Uuid: mOuqyzmE17YrV1yV

@@ -1,0 +1,17 @@
+Title: Inv 3273
+
+----
+
+Inventory-id: 3273
+
+----
+
+Film: page://Sr0NE2VXTDOgjf6z
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: JcPDPa2xbLux9vTn

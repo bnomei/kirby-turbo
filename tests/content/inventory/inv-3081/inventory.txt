@@ -1,0 +1,17 @@
+Title: Inv 3081
+
+----
+
+Inventory-id: 3081
+
+----
+
+Film: page://vQMS4iF0S8RAhXzI
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ARDWs26e4zUa67yB

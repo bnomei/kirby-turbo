@@ -1,0 +1,17 @@
+Title: Inv 3624
+
+----
+
+Inventory-id: 3624
+
+----
+
+Film: page://kh9nIsdUqUaqo5w1
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: q5R4bisRSBpZqQYx

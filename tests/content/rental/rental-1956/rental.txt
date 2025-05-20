@@ -1,0 +1,25 @@
+Title: Rental 1956
+
+----
+
+Rental-id: 1956
+
+----
+
+Rental-date: 2005-06-17 08:43:32
+
+----
+
+Return-date: 2005-06-21 11:08:32
+
+----
+
+Inventory: page://fipEgkLMK4QobHwu
+
+----
+
+Uuid: FrziuPAXzuYILkl6
+
+----
+
+Customer: page://hJsIj1OWdl6YyocQ

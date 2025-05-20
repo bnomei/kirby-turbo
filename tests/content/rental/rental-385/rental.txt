@@ -1,0 +1,25 @@
+Title: Rental 385
+
+----
+
+Rental-id: 385
+
+----
+
+Rental-date: 2005-05-27 10:23:25
+
+----
+
+Return-date: 2005-05-30 15:27:25
+
+----
+
+Inventory: page://DPKfhh2CNRTJaRB4
+
+----
+
+Uuid: GHAHERItd2zy6Pej
+
+----
+
+Customer: page://SXP8ih15ziLTUonG

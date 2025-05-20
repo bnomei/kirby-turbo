@@ -1,0 +1,25 @@
+Title: Rental 4718
+
+----
+
+Rental-id: 4718
+
+----
+
+Rental-date: 2005-07-08 12:32:08
+
+----
+
+Return-date: 2005-07-17 17:34:08
+
+----
+
+Inventory: page://NHACPa9XvVpcDeZW
+
+----
+
+Uuid: EZ2PKfwvumtUIRal
+
+----
+
+Customer: page://cTnAL41dTr6SZ2Pz

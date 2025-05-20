@@ -1,0 +1,25 @@
+Title: Rental 8727
+
+----
+
+Rental-id: 8727
+
+----
+
+Rental-date: 2005-07-29 18:09:57
+
+----
+
+Return-date: 2005-08-03 13:41:57
+
+----
+
+Inventory: page://reMl6GrevaXS7N7n
+
+----
+
+Customer: page://JY1mPZSxratt4tn6
+
+----
+
+Uuid: cNJtKaCKKo73DPwa

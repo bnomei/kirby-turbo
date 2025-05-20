@@ -1,0 +1,17 @@
+Title: Inv 573
+
+----
+
+Inventory-id: 573
+
+----
+
+Film: page://vTDYEN7PxOPAgXgn
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ens3uiKD7UHmp3QL

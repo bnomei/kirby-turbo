@@ -1,0 +1,17 @@
+Title: Inv 3212
+
+----
+
+Inventory-id: 3212
+
+----
+
+Film: page://oyImgiKupqbFTHvj
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: FXdZvRjjL9qbYpdl

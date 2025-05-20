@@ -1,0 +1,17 @@
+Title: Inv 4073
+
+----
+
+Inventory-id: 4073
+
+----
+
+Film: page://mMqvLXKacBXMG67Y
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: xH2qfLT22m3GhvAy

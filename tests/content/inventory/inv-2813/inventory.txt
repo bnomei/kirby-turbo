@@ -1,0 +1,17 @@
+Title: Inv 2813
+
+----
+
+Inventory-id: 2813
+
+----
+
+Film: page://XpqKP1d8q1RYw2NO
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: pAC0VxeIor7hP4Y7

@@ -1,0 +1,17 @@
+Title: Inv 1453
+
+----
+
+Inventory-id: 1453
+
+----
+
+Film: page://kTWA4HcxTtN2yojH
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: BXQbD6xXJg9l0dOd

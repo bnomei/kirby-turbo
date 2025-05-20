@@ -1,0 +1,17 @@
+Title: Inv 2698
+
+----
+
+Inventory-id: 2698
+
+----
+
+Film: page://wYQDxxZ9z7n1xG4t
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: VMEKb5ryw5DlMcoZ

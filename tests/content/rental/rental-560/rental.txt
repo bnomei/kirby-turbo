@@ -1,0 +1,25 @@
+Title: Rental 560
+
+----
+
+Rental-id: 560
+
+----
+
+Rental-date: 2005-05-28 08:53:02
+
+----
+
+Return-date: 2005-06-04 12:27:02
+
+----
+
+Inventory: page://P8JxLX9oiBFEGzbu
+
+----
+
+Uuid: 73Z0zcg0Ava7tFV0
+
+----
+
+Customer: page://zhBBNcqh1xiZ57GZ

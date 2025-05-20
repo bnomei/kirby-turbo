@@ -1,0 +1,43 @@
+Title: BOWFINGER GABLES
+
+----
+
+Actors:
+
+- 'page://qd0io4mUKZ4KUkyk'
+- 'page://6YS8rkTURbcXafoi'
+- 'page://l9F1V32tlG60bBdO'
+- 'page://qiUMbGq5mbDqGQZm'
+- 'page://18rsmrxh7jfYQ50K'
+
+----
+
+Film-id: 92
+
+----
+
+Description: A Fast-Paced Yarn of a Waitress And a Composer who must Outgun a Dentist in California
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 72
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: xyLfnZKFV1kYd6wS
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

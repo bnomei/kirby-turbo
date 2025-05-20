@@ -1,0 +1,17 @@
+Title: Inv 3750
+
+----
+
+Inventory-id: 3750
+
+----
+
+Film: page://rVwGkWkqe4ZfFnJo
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: m4Av15rZYVVu5mgK

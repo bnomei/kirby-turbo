@@ -1,0 +1,25 @@
+Title: Rental 14023
+
+----
+
+Rental-id: 14023
+
+----
+
+Rental-date: 2005-08-20 21:10:32
+
+----
+
+Return-date: 2005-08-23 20:57:32
+
+----
+
+Inventory: page://ivSAhyRdwqhRQow0
+
+----
+
+Customer: page://MpSgiAIrJd9YlrCV
+
+----
+
+Uuid: CTCCmG9cft9UkUws

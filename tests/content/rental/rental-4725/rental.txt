@@ -1,0 +1,25 @@
+Title: Rental 4725
+
+----
+
+Rental-id: 4725
+
+----
+
+Rental-date: 2005-07-08 12:47:11
+
+----
+
+Return-date: 2005-07-15 09:08:11
+
+----
+
+Inventory: page://O8tqyhKachVqX4UR
+
+----
+
+Uuid: cU1d5HYD9lKzb9Wp
+
+----
+
+Customer: page://zr15m47K6VY9URjq

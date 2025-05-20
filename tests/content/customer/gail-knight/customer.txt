@@ -1,0 +1,33 @@
+Title: GAIL KNIGHT
+
+----
+
+Customer-id: 155
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: GAIL
+
+----
+
+Last-name: KNIGHT
+
+----
+
+Email: GAIL.KNIGHT@sakilacustomer.org
+
+----
+
+Address: page://57k96fDNe5ku6Elf
+
+----
+
+Active: 1
+
+----
+
+Uuid: NYz6xFh3YMDJXr29

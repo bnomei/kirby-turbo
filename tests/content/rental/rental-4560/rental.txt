@@ -1,0 +1,25 @@
+Title: Rental 4560
+
+----
+
+Rental-id: 4560
+
+----
+
+Rental-date: 2005-07-08 04:58:48
+
+----
+
+Return-date: 2005-07-10 04:27:48
+
+----
+
+Inventory: page://1AG3lyOuQ0m3nSc9
+
+----
+
+Uuid: sNCu294BbbQIKTze
+
+----
+
+Customer: page://qeEo6FrEXh8ohhLi

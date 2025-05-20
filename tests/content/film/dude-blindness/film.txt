@@ -1,0 +1,45 @@
+Title: DUDE BLINDNESS
+
+----
+
+Actors:
+
+- 'page://ikhz1wEjJMz3vCm4'
+- 'page://JA85uxdb8uiPNO2i'
+- 'page://WmeC1S3wVV4gdFE4'
+- 'page://Gz114ojbruPqLOSY'
+- 'page://u0N0ozPCYMgg4oo9'
+- 'page://QXMalcumIlXeK8Z2'
+- 'page://k43wur9uhLztfZOP'
+
+----
+
+Film-id: 260
+
+----
+
+Description: A Stunning Reflection of a Husband And a Lumberjack who must Face a Frisbee in An Abandoned Fun House
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 132
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: ZKewGEraEtLTZY2Z
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

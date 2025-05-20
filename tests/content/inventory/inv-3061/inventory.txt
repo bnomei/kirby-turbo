@@ -1,0 +1,17 @@
+Title: Inv 3061
+
+----
+
+Inventory-id: 3061
+
+----
+
+Film: page://kGbNpCoyrIROVvsU
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: sKtSFyOiPycTa8SI

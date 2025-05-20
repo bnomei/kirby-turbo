@@ -1,0 +1,17 @@
+Title: Inv 1505
+
+----
+
+Inventory-id: 1505
+
+----
+
+Film: page://VOKqzXnmt525ArH9
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: y9dUJ3mGdVN62gMF

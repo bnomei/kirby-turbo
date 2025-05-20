@@ -1,0 +1,17 @@
+Title: Inv 670
+
+----
+
+Inventory-id: 670
+
+----
+
+Film: page://NuVGP2Z1dYriqtlg
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ma9xb2GGWG81pjKu

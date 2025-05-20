@@ -1,0 +1,45 @@
+Title: CADDYSHACK JEDI
+
+----
+
+Actors:
+
+- 'page://NQADDP2SQLBL6U9D'
+- 'page://RdNo3TYVhV9JmDu6'
+- 'page://Kx231VrTuxlFk3Xg'
+- 'page://OwcwI2sE5Nr5L1Ju'
+- 'page://sDEWocF2a3nQjJMo'
+- 'page://nfzjlyLmEQ6Q1S80'
+- 'page://9XqCStEtXKdxVnPM'
+
+----
+
+Film-id: 111
+
+----
+
+Description: A Awe-Inspiring Epistle of a Woman And a Madman who must Fight a Robot in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 52
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: dz5sVOmAKPQNMBEj
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

@@ -1,0 +1,25 @@
+Title: Rental 6497
+
+----
+
+Rental-id: 6497
+
+----
+
+Rental-date: 2005-07-12 03:04:29
+
+----
+
+Return-date: 2005-07-17 21:36:29
+
+----
+
+Inventory: page://Kvj986fiYKfufRx9
+
+----
+
+Uuid: IkQiHDFTsWW1Uhfl
+
+----
+
+Customer: page://Y16ImlJTc5Q7Tqiw

@@ -1,0 +1,21 @@
+Title: ALBERT NOLTE
+
+----
+
+Actors: []
+
+----
+
+Actor-id: 125
+
+----
+
+First-name: ALBERT
+
+----
+
+Last-name: NOLTE
+
+----
+
+Uuid: DJVklNozM1l2RK0x

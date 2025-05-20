@@ -1,0 +1,25 @@
+Title: Rental 1204
+
+----
+
+Rental-id: 1204
+
+----
+
+Rental-date: 2005-06-15 02:21:46
+
+----
+
+Return-date: 2005-06-20 07:14:46
+
+----
+
+Inventory: page://tKed6VXlElFCn0Pt
+
+----
+
+Uuid: 8RseABskY8iytl09
+
+----
+
+Customer: page://2o7Ua8bnQm0l3GDC

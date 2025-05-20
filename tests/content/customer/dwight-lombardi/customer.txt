@@ -1,0 +1,33 @@
+Title: DWIGHT LOMBARDI
+
+----
+
+Customer-id: 555
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: DWIGHT
+
+----
+
+Last-name: LOMBARDI
+
+----
+
+Email: DWIGHT.LOMBARDI@sakilacustomer.org
+
+----
+
+Address: page://QNJ8lJud5kIeb9xV
+
+----
+
+Active: 1
+
+----
+
+Uuid: lsHQKiMkRVDTWpEH

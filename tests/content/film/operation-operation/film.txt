@@ -1,0 +1,41 @@
+Title: OPERATION OPERATION
+
+----
+
+Actors:
+
+- 'page://2VTI7EzGP0O1IYVh'
+- 'page://L8EgxOu9xdHGpzVg'
+- 'page://zrJrW5pbY6A6t722'
+
+----
+
+Film-id: 638
+
+----
+
+Description: A Intrepid Character Study of a Man And a Frisbee who must Overcome a Madman in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 156
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: Y8LjgsKHVj6dq3cU
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

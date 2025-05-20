@@ -1,0 +1,33 @@
+Title: DIANA ALEXANDER
+
+----
+
+Customer-id: 96
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: DIANA
+
+----
+
+Last-name: ALEXANDER
+
+----
+
+Email: DIANA.ALEXANDER@sakilacustomer.org
+
+----
+
+Address: page://gGl8E4EiUI9HrrGw
+
+----
+
+Active: 1
+
+----
+
+Uuid: KrHokPx3Wvb3FqWi

@@ -1,0 +1,25 @@
+Title: Rental 720
+
+----
+
+Rental-id: 720
+
+----
+
+Rental-date: 2005-05-29 05:17:30
+
+----
+
+Return-date: 2005-06-06 02:47:30
+
+----
+
+Inventory: page://yTxzXH7HLB1S87oL
+
+----
+
+Uuid: JUKcLmCVsQQyLLAb
+
+----
+
+Customer: page://VhNFaZVA09U1QRJB

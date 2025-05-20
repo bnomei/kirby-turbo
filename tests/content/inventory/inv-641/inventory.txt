@@ -1,0 +1,17 @@
+Title: Inv 641
+
+----
+
+Inventory-id: 641
+
+----
+
+Film: page://RnXvDXjVgDu2H8ng
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: pUakMbTevZYSg6IE

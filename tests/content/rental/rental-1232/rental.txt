@@ -1,0 +1,25 @@
+Title: Rental 1232
+
+----
+
+Rental-id: 1232
+
+----
+
+Rental-date: 2005-06-15 04:18:10
+
+----
+
+Return-date: 2005-06-17 06:02:10
+
+----
+
+Inventory: page://PQEsOW5k1hR4qo5z
+
+----
+
+Uuid: Vsok0MCn7Pv6siM6
+
+----
+
+Customer: page://PkN2CyC6PbKojoAi

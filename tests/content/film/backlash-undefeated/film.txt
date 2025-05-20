@@ -1,0 +1,45 @@
+Title: BACKLASH UNDEFEATED
+
+----
+
+Actors:
+
+- 'page://2VTI7EzGP0O1IYVh'
+- 'page://RaBnN0JojPRLBj7c'
+- 'page://m4qBDyQ4vBdo5EcB'
+- 'page://75IrF5RezCSzGKrx'
+- 'page://r6UF6pUyhmwAPzIH'
+- 'page://gELBLdH4G3cmVmcs'
+- 'page://iZwJlBg8wszU4t4i'
+
+----
+
+Film-id: 48
+
+----
+
+Description: A Stunning Character Study of a Mad Scientist And a Mad Cow who must Kill a Car in A Monastery
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 118
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: BGZXRX8bOD4EHdrH
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

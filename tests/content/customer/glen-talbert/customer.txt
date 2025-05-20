@@ -1,0 +1,33 @@
+Title: GLEN TALBERT
+
+----
+
+Customer-id: 486
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: GLEN
+
+----
+
+Last-name: TALBERT
+
+----
+
+Email: GLEN.TALBERT@sakilacustomer.org
+
+----
+
+Address: page://96VxuRPNhMUDELFE
+
+----
+
+Active: 1
+
+----
+
+Uuid: JrFUnPiIScwISMV4

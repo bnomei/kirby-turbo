@@ -1,0 +1,17 @@
+Title: Inv 32
+
+----
+
+Inventory-id: 32
+
+----
+
+Film: page://nmYHiDwDPPC3rX1p
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: TUj2idUesJwILUYa

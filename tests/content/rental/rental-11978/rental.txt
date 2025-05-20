@@ -1,0 +1,25 @@
+Title: Rental 11978
+
+----
+
+Rental-id: 11978
+
+----
+
+Rental-date: 2005-08-17 18:02:10
+
+----
+
+Return-date: 2005-08-18 20:40:10
+
+----
+
+Inventory: page://5PWLOTyKQPIwZTpi
+
+----
+
+Customer: page://uRdLZLKD6zhz7xZm
+
+----
+
+Uuid: 2yl6VN80yooOVldK

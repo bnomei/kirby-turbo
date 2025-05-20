@@ -1,0 +1,42 @@
+Title: WILD APOLLO
+
+----
+
+Actors:
+
+- 'page://Tc5O2MboD06L5UFn'
+- 'page://lRnQ2IFMyS6K2hRd'
+- 'page://kglHBUzvM27ekW4e'
+- 'page://vMUybiWmK5EriDRU'
+
+----
+
+Film-id: 974
+
+----
+
+Description: A Beautiful Story of a Monkey And a Sumo Wrestler who must Conquer a A Shark in A MySQL Convention
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 181
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: m6fHrtiVAbaCs4f6
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

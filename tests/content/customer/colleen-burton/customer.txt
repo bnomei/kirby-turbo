@@ -1,0 +1,33 @@
+Title: COLLEEN BURTON
+
+----
+
+Customer-id: 227
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: COLLEEN
+
+----
+
+Last-name: BURTON
+
+----
+
+Email: COLLEEN.BURTON@sakilacustomer.org
+
+----
+
+Address: page://J9j2D8fn7DvQ3dF0
+
+----
+
+Active: 1
+
+----
+
+Uuid: IvL5IgcIEWInX0H5

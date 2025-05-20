@@ -1,0 +1,33 @@
+Title: BRADLEY MOTLEY
+
+----
+
+Customer-id: 426
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: BRADLEY
+
+----
+
+Last-name: MOTLEY
+
+----
+
+Email: BRADLEY.MOTLEY@sakilacustomer.org
+
+----
+
+Address: page://IA7dwcoKOip0rGwW
+
+----
+
+Active: 1
+
+----
+
+Uuid: bm01Zh4gvYAGmd89

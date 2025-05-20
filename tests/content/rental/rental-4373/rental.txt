@@ -1,0 +1,25 @@
+Title: Rental 4373
+
+----
+
+Rental-id: 4373
+
+----
+
+Rental-date: 2005-07-07 20:10:59
+
+----
+
+Return-date: 2005-07-12 21:30:59
+
+----
+
+Inventory: page://oyXWrauudXxkZ8ji
+
+----
+
+Uuid: VpGkIlCvVDHYV7MZ
+
+----
+
+Customer: page://DVrrnVZUrEDSKye7

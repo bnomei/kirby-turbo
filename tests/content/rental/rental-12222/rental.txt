@@ -1,0 +1,21 @@
+Title: Rental 12222
+
+----
+
+Rental-id: 12222
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://68U5M7ftFPoeBfkz
+
+----
+
+Customer: page://WYN3R1xdu8tNVx9R
+
+----
+
+Uuid: Le9VZhMdRozGVcHJ

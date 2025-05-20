@@ -1,0 +1,25 @@
+Title: Rental 1935
+
+----
+
+Rental-id: 1935
+
+----
+
+Rental-date: 2005-06-17 07:14:15
+
+----
+
+Return-date: 2005-06-20 05:59:15
+
+----
+
+Inventory: page://Zfk5tUIEPljUD4nf
+
+----
+
+Uuid: rcel9wZUHBZpKvKt
+
+----
+
+Customer: page://MMjN8znOj5ltCet6

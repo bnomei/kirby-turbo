@@ -1,0 +1,21 @@
+Title: Rental 14488
+
+----
+
+Rental-id: 14488
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://vDyjVPAFRs1c8CaC
+
+----
+
+Customer: page://x5SWKXQpXhzjUJdL
+
+----
+
+Uuid: k8inQwWzRqIwEqui

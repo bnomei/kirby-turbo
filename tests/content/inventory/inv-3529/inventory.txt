@@ -1,0 +1,17 @@
+Title: Inv 3529
+
+----
+
+Inventory-id: 3529
+
+----
+
+Film: page://Ynj7XwfJrRqE5Bc6
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 8rFel78It8oJjrIR

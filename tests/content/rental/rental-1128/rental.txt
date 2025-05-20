@@ -1,0 +1,25 @@
+Title: Rental 1128
+
+----
+
+Rental-id: 1128
+
+----
+
+Rental-date: 2005-05-31 17:49:26
+
+----
+
+Return-date: 2005-06-05 19:51:26
+
+----
+
+Inventory: page://RpG6Tf8IO141QOA5
+
+----
+
+Uuid: fv1UMO408z9sHNfk
+
+----
+
+Customer: page://W7ZJXAG7NuFuJZ2S

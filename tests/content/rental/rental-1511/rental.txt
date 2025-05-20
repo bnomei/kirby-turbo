@@ -1,0 +1,25 @@
+Title: Rental 1511
+
+----
+
+Rental-id: 1511
+
+----
+
+Rental-date: 2005-06-15 22:45:06
+
+----
+
+Return-date: 2005-06-22 22:48:06
+
+----
+
+Inventory: page://NF1vDzUUN18G27xk
+
+----
+
+Uuid: fvnxfiTF5Nu8pahP
+
+----
+
+Customer: page://INrXMEKuIOKn9hxK

@@ -1,0 +1,25 @@
+Title: Rental 7212
+
+----
+
+Rental-id: 7212
+
+----
+
+Rental-date: 2005-07-27 09:21:22
+
+----
+
+Return-date: 2005-08-01 04:47:22
+
+----
+
+Inventory: page://vZYb8MdbsSkLG4tq
+
+----
+
+Customer: page://dkYED9p0YUgsDhXs
+
+----
+
+Uuid: bcYLRjw4JpnLCtns

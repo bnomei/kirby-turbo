@@ -1,0 +1,25 @@
+Title: Rental 8518
+
+----
+
+Rental-id: 8518
+
+----
+
+Rental-date: 2005-07-29 10:05:27
+
+----
+
+Return-date: 2005-08-02 05:39:27
+
+----
+
+Inventory: page://mmDnX7lVH9nJZhww
+
+----
+
+Customer: page://Touuz3iduKG3abAU
+
+----
+
+Uuid: viJboKg5NGtB729Q

@@ -1,0 +1,17 @@
+Title: Inv 4210
+
+----
+
+Inventory-id: 4210
+
+----
+
+Film: page://ztRx1p49w42jzucX
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: id42nEYdT2oFx5HR

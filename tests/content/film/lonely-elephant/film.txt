@@ -1,0 +1,50 @@
+Title: LONELY ELEPHANT
+
+----
+
+Actors:
+
+- 'page://jG0aUFRzU1eFlO8R'
+- 'page://JA85uxdb8uiPNO2i'
+- 'page://sDEWocF2a3nQjJMo'
+- 'page://S8UoUinBIsjzumVd'
+- 'page://nx1fXkDUW4gS66DW'
+- 'page://CsoOTyxORoAs7uZy'
+- 'page://kIGWs86teYEK5yIM'
+- 'page://xfLW2h8D6Ci3k3ux'
+- 'page://Gsxc5TuqHyoQn1c1'
+- 'page://V93xbOGPlOsB9ymO'
+- 'page://j4GwVyPWyXE95Bdj'
+- 'page://9XqCStEtXKdxVnPM'
+
+----
+
+Film-id: 529
+
+----
+
+Description: A Intrepid Story of a Student And a Dog who must Challenge a Explorer in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 67
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: GsTPSYahKtRqTYGM
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

@@ -1,0 +1,25 @@
+Title: Rental 4006
+
+----
+
+Rental-id: 4006
+
+----
+
+Rental-date: 2005-07-07 00:25:29
+
+----
+
+Return-date: 2005-07-08 05:30:29
+
+----
+
+Inventory: page://BTlo2kUU1RjWa6NR
+
+----
+
+Uuid: BV0t5zqZRfgK4hPL
+
+----
+
+Customer: page://2Ez2viSHVAxcAVWy

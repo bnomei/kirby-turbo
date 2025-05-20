@@ -1,0 +1,44 @@
+Title: PULP BEVERLY
+
+----
+
+Actors:
+
+- 'page://rWwSmn6uTovtpXae'
+- 'page://8v9dhLSIQd0NpUQl'
+- 'page://RvgM0TLzgQDo6vY7'
+- 'page://Sl1QfOYn2gZWMd2L'
+- 'page://isKOKKisNfJh2ta1'
+- 'page://k43wur9uhLztfZOP'
+
+----
+
+Film-id: 702
+
+----
+
+Description: A Unbelieveable Display of a Dog And a Crocodile who must Outrace a Man in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 89
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: 7S4R7Q48Dqtajn2q
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

@@ -1,0 +1,33 @@
+Title: SAMUEL MARLOW
+
+----
+
+Customer-id: 358
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: SAMUEL
+
+----
+
+Last-name: MARLOW
+
+----
+
+Email: SAMUEL.MARLOW@sakilacustomer.org
+
+----
+
+Address: page://g76xank4px8BJNyi
+
+----
+
+Active: 1
+
+----
+
+Uuid: McQYe94eIKGmnPhl

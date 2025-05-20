@@ -1,0 +1,25 @@
+Title: Rental 5863
+
+----
+
+Rental-id: 5863
+
+----
+
+Rental-date: 2005-07-10 18:25:23
+
+----
+
+Return-date: 2005-07-15 23:49:23
+
+----
+
+Inventory: page://slzXpSGgzBej2vFn
+
+----
+
+Uuid: cRhMj7oSV7GZXCdY
+
+----
+
+Customer: page://JOGcO1osu9TF8IEq

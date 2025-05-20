@@ -1,0 +1,25 @@
+Title: Rental 88
+
+----
+
+Rental-id: 88
+
+----
+
+Rental-date: 2005-05-25 14:13:54
+
+----
+
+Return-date: 2005-05-29 09:32:54
+
+----
+
+Inventory: page://09sEYrzqXQuZ6kiw
+
+----
+
+Uuid: 9i8aMb4zHgxjCBmb
+
+----
+
+Customer: page://4gdcUTd8Bs7vlXxm

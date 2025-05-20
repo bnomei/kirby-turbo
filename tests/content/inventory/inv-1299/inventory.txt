@@ -1,0 +1,17 @@
+Title: Inv 1299
+
+----
+
+Inventory-id: 1299
+
+----
+
+Film: page://JnBVTiYjE406f6Ty
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: zQWeoVYn9O4shZTm

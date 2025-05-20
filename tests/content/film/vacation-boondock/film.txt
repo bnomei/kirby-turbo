@@ -1,0 +1,44 @@
+Title: VACATION BOONDOCK
+
+----
+
+Actors:
+
+- 'page://EOOflmfeZlmBOGUJ'
+- 'page://CcQ0grF6yUDI2k9n'
+- 'page://MG1O0zMGGcgzh2YX'
+- 'page://Sl1QfOYn2gZWMd2L'
+- 'page://KV54RGx9NMbLtwi4'
+- 'page://kglHBUzvM27ekW4e'
+
+----
+
+Film-id: 930
+
+----
+
+Description: A Fanciful Character Study of a Secret Agent And a Mad Scientist who must Reach a Teacher in Australia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 145
+
+----
+
+Rating: R
+
+----
+
+Special-features: Commentaries
+
+----
+
+Uuid: Z3cVMbhAE2HQubYN
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

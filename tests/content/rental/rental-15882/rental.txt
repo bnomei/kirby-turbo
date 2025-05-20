@@ -1,0 +1,25 @@
+Title: Rental 15882
+
+----
+
+Rental-id: 15882
+
+----
+
+Rental-date: 2005-08-23 16:44:31
+
+----
+
+Return-date: 2005-09-01 15:44:31
+
+----
+
+Inventory: page://jkHJLEhWNOn354KC
+
+----
+
+Customer: page://ppv8UwyuW8pv2cNH
+
+----
+
+Uuid: 2FcKVpDjok4Nz7Jy

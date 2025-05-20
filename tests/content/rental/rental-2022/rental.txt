@@ -1,0 +1,25 @@
+Title: Rental 2022
+
+----
+
+Rental-id: 2022
+
+----
+
+Rental-date: 2005-06-17 12:44:39
+
+----
+
+Return-date: 2005-06-25 12:32:39
+
+----
+
+Inventory: page://tZJIA290XB1qYZBC
+
+----
+
+Uuid: kOy2unL7BMCk6uaO
+
+----
+
+Customer: page://RTsWat8aWp87UcBi

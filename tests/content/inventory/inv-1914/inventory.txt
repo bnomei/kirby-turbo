@@ -1,0 +1,17 @@
+Title: Inv 1914
+
+----
+
+Inventory-id: 1914
+
+----
+
+Film: page://wfXmwV94pZGldMnr
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: fw7bLoBETbGZ8Mcy

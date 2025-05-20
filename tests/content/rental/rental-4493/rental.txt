@@ -1,0 +1,25 @@
+Title: Rental 4493
+
+----
+
+Rental-id: 4493
+
+----
+
+Rental-date: 2005-07-08 01:40:24
+
+----
+
+Return-date: 2005-07-09 02:17:24
+
+----
+
+Inventory: page://0OcWVE8YUKOncYfL
+
+----
+
+Uuid: GfJnXYVjV7nrTuYz
+
+----
+
+Customer: page://W5URxqu7M4t7ujHI

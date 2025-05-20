@@ -1,0 +1,17 @@
+Title: Inv 23
+
+----
+
+Inventory-id: 23
+
+----
+
+Film: page://uULDHizChVGXnNdG
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 7VWSxcFEhWvPRnxa

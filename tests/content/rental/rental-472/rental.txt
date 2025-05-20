@@ -1,0 +1,25 @@
+Title: Rental 472
+
+----
+
+Rental-id: 472
+
+----
+
+Rental-date: 2005-05-27 21:36:15
+
+----
+
+Return-date: 2005-05-29 21:07:15
+
+----
+
+Inventory: page://fwI46hQBFf5AkUpy
+
+----
+
+Uuid: DUYlYZGEL1jyPXl1
+
+----
+
+Customer: page://JY1mPZSxratt4tn6

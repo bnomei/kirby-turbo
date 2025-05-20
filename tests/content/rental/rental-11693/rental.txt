@@ -1,0 +1,25 @@
+Title: Rental 11693
+
+----
+
+Rental-id: 11693
+
+----
+
+Rental-date: 2005-08-17 06:56:56
+
+----
+
+Return-date: 2005-08-24 06:20:56
+
+----
+
+Inventory: page://QqIDvbBjuDkazdyk
+
+----
+
+Customer: page://d4QlKSk7SAC1uz7S
+
+----
+
+Uuid: NTMK5CM2w6v40b9i

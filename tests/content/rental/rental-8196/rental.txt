@@ -1,0 +1,25 @@
+Title: Rental 8196
+
+----
+
+Rental-id: 8196
+
+----
+
+Rental-date: 2005-07-28 22:56:11
+
+----
+
+Return-date: 2005-08-06 04:53:11
+
+----
+
+Inventory: page://JAFUQxohSIkElHFf
+
+----
+
+Customer: page://KYkY8aG06K2r16Xn
+
+----
+
+Uuid: UWtaBbzgRReywNZg

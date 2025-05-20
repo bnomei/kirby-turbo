@@ -1,0 +1,17 @@
+Title: Inv 3300
+
+----
+
+Inventory-id: 3300
+
+----
+
+Film: page://YhpCLiB2EwZVsA5W
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: RGreXVnP2nVopWZX

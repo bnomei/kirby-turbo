@@ -1,0 +1,33 @@
+Title: SALLY PIERCE
+
+----
+
+Customer-id: 167
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: SALLY
+
+----
+
+Last-name: PIERCE
+
+----
+
+Email: SALLY.PIERCE@sakilacustomer.org
+
+----
+
+Address: page://5t59O8VR39YL5tWJ
+
+----
+
+Active: 1
+
+----
+
+Uuid: W5URxqu7M4t7ujHI

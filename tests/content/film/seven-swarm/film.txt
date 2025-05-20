@@ -1,0 +1,45 @@
+Title: SEVEN SWARM
+
+----
+
+Actors:
+
+- 'page://huljhPJQohi6UE64'
+- 'page://fpycclHxIOPEPbuu'
+- 'page://RdhM2Q1bNuSOC3ck'
+- 'page://rrHZ6f6sSm29JuNB'
+- 'page://wxM7fPnQeVIlPpuJ'
+- 'page://SR0Aks2aA1YgkZ1s'
+- 'page://s3p9MagWJdWouacJ'
+
+----
+
+Film-id: 781
+
+----
+
+Description: A Unbelieveable Character Study of a Dog And a Mad Cow who must Kill a Monkey in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 127
+
+----
+
+Rating: R
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: nW3eYfhx2BMmcv9u
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

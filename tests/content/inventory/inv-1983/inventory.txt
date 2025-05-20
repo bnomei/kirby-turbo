@@ -1,0 +1,17 @@
+Title: Inv 1983
+
+----
+
+Inventory-id: 1983
+
+----
+
+Film: page://I7OIMvs65BrrSs7w
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: E3EHvboKjTy4My9K

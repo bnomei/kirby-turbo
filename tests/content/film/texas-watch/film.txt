@@ -1,0 +1,44 @@
+Title: TEXAS WATCH
+
+----
+
+Actors:
+
+- 'page://jG0aUFRzU1eFlO8R'
+- 'page://75IrF5RezCSzGKrx'
+- 'page://IR4s9CmH1R8G51Ej'
+- 'page://WFF82auh2AgpYPoL'
+- 'page://humVtsLQfFTV2gvC'
+- 'page://s3p9MagWJdWouacJ'
+
+----
+
+Film-id: 885
+
+----
+
+Description: A Awe-Inspiring Yarn of a Student And a Teacher who must Fight a Teacher in An Abandoned Amusement Park
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 179
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: 38DDE3zbU2qYh05g
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

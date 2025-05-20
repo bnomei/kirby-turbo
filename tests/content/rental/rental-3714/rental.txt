@@ -1,0 +1,25 @@
+Title: Rental 3714
+
+----
+
+Rental-id: 3714
+
+----
+
+Rental-date: 2005-07-06 10:51:28
+
+----
+
+Return-date: 2005-07-09 13:57:28
+
+----
+
+Inventory: page://SUjc2evoujn0ODsC
+
+----
+
+Uuid: EQbNzg9PcLVhfqqv
+
+----
+
+Customer: page://ITr0DtQiC8vNX3ax

@@ -1,0 +1,17 @@
+Title: Inv 3099
+
+----
+
+Inventory-id: 3099
+
+----
+
+Film: page://a0gDd5aMc5B7ovnL
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: xQazaazegtUoLtO1

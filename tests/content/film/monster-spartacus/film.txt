@@ -1,0 +1,45 @@
+Title: MONSTER SPARTACUS
+
+----
+
+Actors:
+
+- 'page://9NAEa97MvjisWbzN'
+- 'page://ltHX2Lf4QT72ZiqX'
+- 'page://Sl1QfOYn2gZWMd2L'
+- 'page://eZEz0vHTFLlEKlUs'
+- 'page://j4GwVyPWyXE95Bdj'
+- 'page://zDG4LP4a8BGDrQEW'
+- 'page://s3p9MagWJdWouacJ'
+
+----
+
+Film-id: 592
+
+----
+
+Description: A Fast-Paced Story of a Waitress And a Cat who must Fight a Girl in Australia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 107
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: wYQDxxZ9z7n1xG4t
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

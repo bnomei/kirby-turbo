@@ -1,0 +1,17 @@
+Title: Inv 1201
+
+----
+
+Inventory-id: 1201
+
+----
+
+Film: page://JL8NNhjpnRA2lPaC
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ZJZXg84GPMDKbI7H

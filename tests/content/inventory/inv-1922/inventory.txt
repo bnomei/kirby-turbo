@@ -1,0 +1,17 @@
+Title: Inv 1922
+
+----
+
+Inventory-id: 1922
+
+----
+
+Film: page://AUYUSAlHslxGZN9K
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: MNWJ2YzNWWIJcd1B

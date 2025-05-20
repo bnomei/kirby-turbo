@@ -1,0 +1,25 @@
+Title: Rental 6628
+
+----
+
+Rental-id: 6628
+
+----
+
+Rental-date: 2005-07-12 09:18:08
+
+----
+
+Return-date: 2005-07-21 04:27:08
+
+----
+
+Inventory: page://5zD91f2vEUMs3iZu
+
+----
+
+Uuid: euM7W50wDjArU9Fl
+
+----
+
+Customer: page://2MJV1ploMc8lFO2Z

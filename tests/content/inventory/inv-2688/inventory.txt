@@ -1,0 +1,17 @@
+Title: Inv 2688
+
+----
+
+Inventory-id: 2688
+
+----
+
+Film: page://IlxVnWFJz6N2jShF
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 5ijXu4T3ogOKwOiZ

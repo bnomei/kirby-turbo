@@ -1,0 +1,17 @@
+Title: Inv 2453
+
+----
+
+Inventory-id: 2453
+
+----
+
+Film: page://Xlyu5TAdYaCmurqW
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: QnEnJJ0pGVkNCNKN

@@ -1,0 +1,33 @@
+Title: ETHEL WEBB
+
+----
+
+Customer-id: 125
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ETHEL
+
+----
+
+Last-name: WEBB
+
+----
+
+Email: ETHEL.WEBB@sakilacustomer.org
+
+----
+
+Address: page://oGzrh9iCDLHNalCY
+
+----
+
+Active: 1
+
+----
+
+Uuid: FDHzmAWHKzLyv0Hg

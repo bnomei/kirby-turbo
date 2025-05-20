@@ -1,0 +1,25 @@
+Title: Rental 11692
+
+----
+
+Rental-id: 11692
+
+----
+
+Rental-date: 2005-08-17 06:52:41
+
+----
+
+Return-date: 2005-08-24 12:17:41
+
+----
+
+Inventory: page://n1LKbQ3AhetkN4TZ
+
+----
+
+Customer: page://0i52La06CjBDGVTC
+
+----
+
+Uuid: XU89kMyYSBVGjyp0

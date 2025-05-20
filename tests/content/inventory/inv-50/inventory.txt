@@ -1,0 +1,17 @@
+Title: Inv 50
+
+----
+
+Inventory-id: 50
+
+----
+
+Film: page://xd1W44uPvTkTsfI1
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: UAKG8mdPiQVL1EsA

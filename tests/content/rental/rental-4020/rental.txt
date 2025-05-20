@@ -1,0 +1,25 @@
+Title: Rental 4020
+
+----
+
+Rental-id: 4020
+
+----
+
+Rental-date: 2005-07-07 01:42:22
+
+----
+
+Return-date: 2005-07-10 00:53:22
+
+----
+
+Inventory: page://ObNHSZWZF4WAh2Ev
+
+----
+
+Uuid: lHQz5cP8axhU3HWF
+
+----
+
+Customer: page://14NHpOTSxGxpMsWX

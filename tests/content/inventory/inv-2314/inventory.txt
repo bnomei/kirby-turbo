@@ -1,0 +1,17 @@
+Title: Inv 2314
+
+----
+
+Inventory-id: 2314
+
+----
+
+Film: page://blzE5PZiY9bBh7xH
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 5mTlvaBuJ4xCTTJG

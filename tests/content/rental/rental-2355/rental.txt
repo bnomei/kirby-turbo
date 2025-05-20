@@ -1,0 +1,25 @@
+Title: Rental 2355
+
+----
+
+Rental-id: 2355
+
+----
+
+Rental-date: 2005-06-18 12:57:06
+
+----
+
+Return-date: 2005-06-26 07:32:06
+
+----
+
+Inventory: page://GtibFM6tDRQ5yA5l
+
+----
+
+Uuid: H1JFq8iGcq9xqL5m
+
+----
+
+Customer: page://FDHzmAWHKzLyv0Hg

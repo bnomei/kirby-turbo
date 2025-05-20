@@ -1,0 +1,17 @@
+Title: Inv 2320
+
+----
+
+Inventory-id: 2320
+
+----
+
+Film: page://vnd4rT8AXXoPv80H
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ibUwgkqR3y52kYxn

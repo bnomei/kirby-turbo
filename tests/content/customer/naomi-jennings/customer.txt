@@ -1,0 +1,33 @@
+Title: NAOMI JENNINGS
+
+----
+
+Customer-id: 274
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: NAOMI
+
+----
+
+Last-name: JENNINGS
+
+----
+
+Email: NAOMI.JENNINGS@sakilacustomer.org
+
+----
+
+Address: page://Hn903rYRYI6Ez1gV
+
+----
+
+Active: 1
+
+----
+
+Uuid: 9bJXvFRudHnbyDta

@@ -1,0 +1,21 @@
+Title: Rental 15407
+
+----
+
+Rental-id: 15407
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://A3k8YtEQN830McmH
+
+----
+
+Customer: page://PBAxbbLPwokG6bh1
+
+----
+
+Uuid: orjKVHzSiibNbnEI

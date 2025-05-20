@@ -1,0 +1,25 @@
+Title: Rental 8422
+
+----
+
+Rental-id: 8422
+
+----
+
+Rental-date: 2005-07-29 07:02:55
+
+----
+
+Return-date: 2005-08-03 12:35:55
+
+----
+
+Inventory: page://rwmzbgAniSLXCbEh
+
+----
+
+Customer: page://Azw9Nv7ouxsZUKzG
+
+----
+
+Uuid: 6N4k2omB3F8NN6wr

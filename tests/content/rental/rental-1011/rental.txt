@@ -1,0 +1,25 @@
+Title: Rental 1011
+
+----
+
+Rental-id: 1011
+
+----
+
+Rental-date: 2005-05-31 02:05:39
+
+----
+
+Return-date: 2005-06-04 21:27:39
+
+----
+
+Inventory: page://EE4qIuAIsQHdiTqh
+
+----
+
+Uuid: JIFwQRod0yL2XjZv
+
+----
+
+Customer: page://psNaEAJbImBLLUq8

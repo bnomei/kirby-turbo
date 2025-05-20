@@ -1,0 +1,25 @@
+Title: Rental 235
+
+----
+
+Rental-id: 235
+
+----
+
+Rental-date: 2005-05-26 11:51:09
+
+----
+
+Return-date: 2005-06-04 09:36:09
+
+----
+
+Inventory: page://CKCZD8CBbua9cxDV
+
+----
+
+Uuid: zAFhedb4ypAIoYdJ
+
+----
+
+Customer: page://9bytxFo8pm9kA4Nc

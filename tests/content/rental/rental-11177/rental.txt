@@ -1,0 +1,25 @@
+Title: Rental 11177
+
+----
+
+Rental-id: 11177
+
+----
+
+Rental-date: 2005-08-02 10:43:48
+
+----
+
+Return-date: 2005-08-10 10:55:48
+
+----
+
+Inventory: page://lXJp5dmLjDRtnVXR
+
+----
+
+Customer: page://FiEjPjAVk9G7zTXB
+
+----
+
+Uuid: Afb55ula0Nc5bZjZ

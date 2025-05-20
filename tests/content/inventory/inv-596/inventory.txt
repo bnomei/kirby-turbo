@@ -1,0 +1,17 @@
+Title: Inv 596
+
+----
+
+Inventory-id: 596
+
+----
+
+Film: page://pG8v2NjQVkShZ4bI
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Kb5sIUwLzb60moKn

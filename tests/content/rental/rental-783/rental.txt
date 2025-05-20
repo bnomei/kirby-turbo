@@ -1,0 +1,25 @@
+Title: Rental 783
+
+----
+
+Rental-id: 783
+
+----
+
+Rental-date: 2005-05-29 14:41:18
+
+----
+
+Return-date: 2005-06-06 10:39:18
+
+----
+
+Inventory: page://nvLzJAl9fijBZha2
+
+----
+
+Uuid: f9d4PDwzU7siWyC9
+
+----
+
+Customer: page://4gdcUTd8Bs7vlXxm

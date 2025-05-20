@@ -1,0 +1,25 @@
+Title: Rental 6259
+
+----
+
+Rental-id: 6259
+
+----
+
+Rental-date: 2005-07-11 15:25:52
+
+----
+
+Return-date: 2005-07-13 11:54:52
+
+----
+
+Inventory: page://tfTj1e2LLh0vOzee
+
+----
+
+Uuid: eoqTxAWNxHI91Z3E
+
+----
+
+Customer: page://cwgSUWzYLMDqVZzh

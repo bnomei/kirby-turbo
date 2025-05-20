@@ -1,0 +1,17 @@
+Title: Inv 1324
+
+----
+
+Inventory-id: 1324
+
+----
+
+Film: page://CH4btgLIdvjp8AWX
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: DyIgkU70kogTjJlh

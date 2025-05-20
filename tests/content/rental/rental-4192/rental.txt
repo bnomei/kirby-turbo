@@ -1,0 +1,25 @@
+Title: Rental 4192
+
+----
+
+Rental-id: 4192
+
+----
+
+Rental-date: 2005-07-07 10:57:06
+
+----
+
+Return-date: 2005-07-13 16:30:06
+
+----
+
+Inventory: page://sYljPQwqfVWOeaQr
+
+----
+
+Uuid: oap9VowiMYnO5YBT
+
+----
+
+Customer: page://t04yCyxM4vXd29Pl

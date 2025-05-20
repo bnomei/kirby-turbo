@@ -1,0 +1,25 @@
+Title: Rental 10206
+
+----
+
+Rental-id: 10206
+
+----
+
+Rental-date: 2005-08-01 00:52:40
+
+----
+
+Return-date: 2005-08-10 02:36:40
+
+----
+
+Inventory: page://vqFjBrZAow8zvLSZ
+
+----
+
+Customer: page://ELKy5zef6YWcOPEC
+
+----
+
+Uuid: ePWwNZmNsAW0Lr59

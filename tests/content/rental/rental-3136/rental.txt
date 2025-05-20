@@ -1,0 +1,25 @@
+Title: Rental 3136
+
+----
+
+Rental-id: 3136
+
+----
+
+Rental-date: 2005-06-20 19:39:08
+
+----
+
+Return-date: 2005-06-22 23:35:08
+
+----
+
+Inventory: page://35IxUOphmBl7GE4A
+
+----
+
+Uuid: HdtruxbKdXYsMAJ9
+
+----
+
+Customer: page://zLiLkW2YJgd9qzFC

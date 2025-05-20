@@ -1,0 +1,17 @@
+Title: Inv 4031
+
+----
+
+Inventory-id: 4031
+
+----
+
+Film: page://HKg3NNjXThfALrX0
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: z1Pb3B3rYwixzpNA

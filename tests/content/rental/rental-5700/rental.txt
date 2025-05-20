@@ -1,0 +1,25 @@
+Title: Rental 5700
+
+----
+
+Rental-id: 5700
+
+----
+
+Rental-date: 2005-07-10 09:49:42
+
+----
+
+Return-date: 2005-07-19 04:20:42
+
+----
+
+Inventory: page://7OdXpukaTsuEqQms
+
+----
+
+Uuid: MV0yp5M7EG8WaLCl
+
+----
+
+Customer: page://AbMvWlf35GZBBoZ3

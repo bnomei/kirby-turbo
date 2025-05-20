@@ -1,0 +1,25 @@
+Title: Rental 7501
+
+----
+
+Rental-id: 7501
+
+----
+
+Rental-date: 2005-07-27 20:16:59
+
+----
+
+Return-date: 2005-08-04 00:11:59
+
+----
+
+Inventory: page://5ZIqc4dmXTusGmxo
+
+----
+
+Customer: page://B7BnhDPJcre02BJt
+
+----
+
+Uuid: bojToBiF0yMlrq5q

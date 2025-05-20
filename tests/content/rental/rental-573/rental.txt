@@ -1,0 +1,25 @@
+Title: Rental 573
+
+----
+
+Rental-id: 573
+
+----
+
+Rental-date: 2005-05-28 10:35:23
+
+----
+
+Return-date: 2005-06-03 06:32:23
+
+----
+
+Inventory: page://BkslQ1zNimG3R3qs
+
+----
+
+Uuid: rpLxGY8HU5v1rvXO
+
+----
+
+Customer: page://XT1tDVBbJppqjfak

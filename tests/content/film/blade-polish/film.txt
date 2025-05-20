@@ -1,0 +1,43 @@
+Title: BLADE POLISH
+
+----
+
+Actors:
+
+- 'page://lzPNV2QlqjXMSB7U'
+- 'page://AvkKtwk9lLurZvzW'
+- 'page://gELBLdH4G3cmVmcs'
+- 'page://K0t8PMh78EXVZHC5'
+- 'page://k43wur9uhLztfZOP'
+
+----
+
+Film-id: 79
+
+----
+
+Description: A Thoughtful Character Study of a Frisbee And a Pastry Chef who must Fight a Dentist in The First Manned Space Station
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 114
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: 5Uu2aOKmthpeLUbJ
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

@@ -1,0 +1,25 @@
+Title: Rental 3382
+
+----
+
+Rental-id: 3382
+
+----
+
+Rental-date: 2005-06-21 14:05:23
+
+----
+
+Return-date: 2005-06-29 19:13:23
+
+----
+
+Inventory: page://TZwNeMCieGAnDPP5
+
+----
+
+Uuid: pHooshi7VGXakEUK
+
+----
+
+Customer: page://AaZEhsrTACZoHuzm

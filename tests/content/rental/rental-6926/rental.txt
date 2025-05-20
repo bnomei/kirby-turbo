@@ -1,0 +1,25 @@
+Title: Rental 6926
+
+----
+
+Rental-id: 6926
+
+----
+
+Rental-date: 2005-07-26 22:52:45
+
+----
+
+Return-date: 2005-07-28 18:32:45
+
+----
+
+Inventory: page://8YP7VM0LLyTGwWc7
+
+----
+
+Customer: page://hZOnCp7oVBUSijBw
+
+----
+
+Uuid: SaK8EZyWw0PXT8Vr

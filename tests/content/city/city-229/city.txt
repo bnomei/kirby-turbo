@@ -1,0 +1,17 @@
+Title: Izumisano
+
+----
+
+City-id: 229
+
+----
+
+City: Izumisano
+
+----
+
+Country: page://XEyP9uxOgFESeyaK
+
+----
+
+Uuid: i3egqKO9mwjXh21r

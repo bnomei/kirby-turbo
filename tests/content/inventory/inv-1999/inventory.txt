@@ -1,0 +1,17 @@
+Title: Inv 1999
+
+----
+
+Inventory-id: 1999
+
+----
+
+Film: page://kMrmpCl3M7gR9cMD
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 7RqgKo0eBB4L2hlt

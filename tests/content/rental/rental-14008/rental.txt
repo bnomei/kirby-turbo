@@ -1,0 +1,25 @@
+Title: Rental 14008
+
+----
+
+Rental-id: 14008
+
+----
+
+Rental-date: 2005-08-20 20:26:00
+
+----
+
+Return-date: 2005-08-28 17:23:00
+
+----
+
+Inventory: page://eKiqMPij5tE1lpWO
+
+----
+
+Customer: page://HpeLAHrM5mtnQogB
+
+----
+
+Uuid: qHf4kHt7yqhqbVAV

@@ -1,0 +1,25 @@
+Title: Rental 6718
+
+----
+
+Rental-id: 6718
+
+----
+
+Rental-date: 2005-07-12 13:38:06
+
+----
+
+Return-date: 2005-07-18 09:05:06
+
+----
+
+Inventory: page://Gzdb0dHmdpdFe3n6
+
+----
+
+Uuid: gaBIafEfytD5RdWJ
+
+----
+
+Customer: page://ySJHEKSdmqJXUMT3

@@ -1,0 +1,25 @@
+Title: Rental 15960
+
+----
+
+Rental-id: 15960
+
+----
+
+Rental-date: 2005-08-23 19:35:42
+
+----
+
+Return-date: 2005-08-26 17:36:42
+
+----
+
+Inventory: page://GBBMnQMTX3px0xQd
+
+----
+
+Customer: page://0AtuJCBei0DLVh5W
+
+----
+
+Uuid: PinsUFPYdGYdQjiR

@@ -1,0 +1,17 @@
+Title: Inv 1534
+
+----
+
+Inventory-id: 1534
+
+----
+
+Film: page://0rCBtFgTBU5lFT4Z
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: PNEVWFV6IgoZPWcD

@@ -1,0 +1,17 @@
+Title: Inv 1679
+
+----
+
+Inventory-id: 1679
+
+----
+
+Film: page://yyRGFoXZxZZSiUak
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: p1J0iOQqUQqRXAC5

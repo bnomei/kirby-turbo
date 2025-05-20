@@ -1,0 +1,17 @@
+Title: Inv 3824
+
+----
+
+Inventory-id: 3824
+
+----
+
+Film: page://skK0aeeoPpJBf53T
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 46AVjkrCIUyurnSG

@@ -1,0 +1,25 @@
+Title: Rental 3931
+
+----
+
+Rental-id: 3931
+
+----
+
+Rental-date: 2005-07-06 21:03:46
+
+----
+
+Return-date: 2005-07-16 01:32:46
+
+----
+
+Inventory: page://zQUqL5HaHogHHeIm
+
+----
+
+Uuid: aoqCtubIAeX10msh
+
+----
+
+Customer: page://8I9W8oDFPxssbhIJ

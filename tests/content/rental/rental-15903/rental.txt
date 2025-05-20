@@ -1,0 +1,25 @@
+Title: Rental 15903
+
+----
+
+Rental-id: 15903
+
+----
+
+Rental-date: 2005-08-23 17:30:40
+
+----
+
+Return-date: 2005-08-29 14:12:40
+
+----
+
+Inventory: page://wCHcV1JmpVthfsEi
+
+----
+
+Customer: page://YC1uNdmmt4LG2OJc
+
+----
+
+Uuid: EhhDZbj7p6UXm8I0

@@ -1,0 +1,41 @@
+Title: SEARCHERS WAIT
+
+----
+
+Actors:
+
+- 'page://wxM7fPnQeVIlPpuJ'
+- 'page://q6i5HOIdG8dGz8Im'
+- 'page://9XqCStEtXKdxVnPM'
+
+----
+
+Film-id: 774
+
+----
+
+Description: A Fast-Paced Tale of a Car And a Mad Scientist who must Kill a Womanizer in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 182
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: SvEfXlMVGnfQgOtv
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

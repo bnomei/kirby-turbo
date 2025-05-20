@@ -1,0 +1,25 @@
+Title: Rental 13253
+
+----
+
+Rental-id: 13253
+
+----
+
+Rental-date: 2005-08-19 16:53:56
+
+----
+
+Return-date: 2005-08-20 11:38:56
+
+----
+
+Inventory: page://FZsubmZow4ZiMmun
+
+----
+
+Customer: page://Lk1Hh6BTSOpo0Syr
+
+----
+
+Uuid: bwPIOjPpSj3r19tM

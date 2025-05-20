@@ -1,0 +1,17 @@
+Title: Inv 1921
+
+----
+
+Inventory-id: 1921
+
+----
+
+Film: page://AUYUSAlHslxGZN9K
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: TvPPAOnOcudh8mt9

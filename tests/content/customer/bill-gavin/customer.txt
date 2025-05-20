@@ -1,0 +1,33 @@
+Title: BILL GAVIN
+
+----
+
+Customer-id: 457
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: BILL
+
+----
+
+Last-name: GAVIN
+
+----
+
+Email: BILL.GAVIN@sakilacustomer.org
+
+----
+
+Address: page://muP6n0co2Nff4piP
+
+----
+
+Active: 1
+
+----
+
+Uuid: ssKfVmN07XGOgIXz

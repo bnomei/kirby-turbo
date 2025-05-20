@@ -1,0 +1,25 @@
+Title: Rental 768
+
+----
+
+Rental-id: 768
+
+----
+
+Rental-date: 2005-05-29 12:30:46
+
+----
+
+Return-date: 2005-06-07 09:00:46
+
+----
+
+Inventory: page://9SeqEAwAipoS4JV9
+
+----
+
+Uuid: 8bdE535E3H80WTKM
+
+----
+
+Customer: page://kiN3u3DN0FkdJzU9

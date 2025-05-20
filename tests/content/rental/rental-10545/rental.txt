@@ -1,0 +1,25 @@
+Title: Rental 10545
+
+----
+
+Rental-id: 10545
+
+----
+
+Rental-date: 2005-08-01 12:37:46
+
+----
+
+Return-date: 2005-08-04 16:02:46
+
+----
+
+Inventory: page://RvwV1VVuuDbr7biN
+
+----
+
+Customer: page://Tk6dRJV6KbPM8ESQ
+
+----
+
+Uuid: WmNgvK60uqekPYkG

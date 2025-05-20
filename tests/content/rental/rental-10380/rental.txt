@@ -1,0 +1,25 @@
+Title: Rental 10380
+
+----
+
+Rental-id: 10380
+
+----
+
+Rental-date: 2005-08-01 06:34:36
+
+----
+
+Return-date: 2005-08-02 09:08:36
+
+----
+
+Inventory: page://66eEUY3tywcs6NSe
+
+----
+
+Customer: page://oltj71DespIyD8V2
+
+----
+
+Uuid: ZuK2XDO6F5hZLKas

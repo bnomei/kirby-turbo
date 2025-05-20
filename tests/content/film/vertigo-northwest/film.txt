@@ -1,0 +1,42 @@
+Title: VERTIGO NORTHWEST
+
+----
+
+Actors:
+
+- 'page://NhPOWxCYnyDlMqLk'
+- 'page://r6UF6pUyhmwAPzIH'
+- 'page://ltHX2Lf4QT72ZiqX'
+- 'page://IUEdThBjLk8TNUwy'
+
+----
+
+Film-id: 939
+
+----
+
+Description: A Unbelieveable Display of a Mad Scientist And a Mad Scientist who must Outgun a Mad Cow in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 90
+
+----
+
+Rating: R
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: 6unOli73wZXXuTqM
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

@@ -1,0 +1,33 @@
+Title: LENA JENSEN
+
+----
+
+Customer-id: 259
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: LENA
+
+----
+
+Last-name: JENSEN
+
+----
+
+Email: LENA.JENSEN@sakilacustomer.org
+
+----
+
+Address: page://AaAp8GkzSasGH650
+
+----
+
+Active: 1
+
+----
+
+Uuid: lYVwpdgEXKLspdxt

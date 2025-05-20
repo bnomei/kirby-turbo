@@ -1,0 +1,17 @@
+Title: Inv 3932
+
+----
+
+Inventory-id: 3932
+
+----
+
+Film: page://49OxLFvwrrHYZnmn
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: edMkWmLlq3WkLELv

@@ -1,0 +1,25 @@
+Title: Rental 4872
+
+----
+
+Rental-id: 4872
+
+----
+
+Rental-date: 2005-07-08 19:23:16
+
+----
+
+Return-date: 2005-07-10 14:17:16
+
+----
+
+Inventory: page://SsXrEKwLh3JNK4qe
+
+----
+
+Uuid: 9lgZ2fgQ7WS0AiP8
+
+----
+
+Customer: page://hqAf8WYPlK0t8DAi

@@ -1,0 +1,17 @@
+Title: Inv 245
+
+----
+
+Inventory-id: 245
+
+----
+
+Film: page://PyzZpMmR5hCM3BAX
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: OHsv5PvutLGuYjaa

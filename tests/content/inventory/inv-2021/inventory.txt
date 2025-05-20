@@ -1,0 +1,17 @@
+Title: Inv 2021
+
+----
+
+Inventory-id: 2021
+
+----
+
+Film: page://d9QYrciSHAxHU0xI
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: cEdflg7KRKhr27R0

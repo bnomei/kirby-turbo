@@ -1,0 +1,33 @@
+Title: MARVIN YEE
+
+----
+
+Customer-id: 413
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: MARVIN
+
+----
+
+Last-name: YEE
+
+----
+
+Email: MARVIN.YEE@sakilacustomer.org
+
+----
+
+Address: page://zYW3l7aMmXhNjJAs
+
+----
+
+Active: 1
+
+----
+
+Uuid: RnVJUD7kCw5r9OCn

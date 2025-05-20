@@ -1,0 +1,25 @@
+Title: Rental 10365
+
+----
+
+Rental-id: 10365
+
+----
+
+Rental-date: 2005-08-01 06:08:44
+
+----
+
+Return-date: 2005-08-06 02:07:44
+
+----
+
+Inventory: page://E7e9o5P03OJOYfms
+
+----
+
+Customer: page://eYENgXyv63Ee6XxS
+
+----
+
+Uuid: xt4r55p3bUBmy3Mp

@@ -1,0 +1,17 @@
+Title: Inv 2735
+
+----
+
+Inventory-id: 2735
+
+----
+
+Film: page://lZPjfMSIExYeKiaQ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: dv9paDQ3TFmmIVWr

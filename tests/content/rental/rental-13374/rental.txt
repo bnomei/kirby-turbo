@@ -1,0 +1,21 @@
+Title: Rental 13374
+
+----
+
+Rental-id: 13374
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://5aRi0NxYMmtdq1mW
+
+----
+
+Customer: page://IvL5IgcIEWInX0H5
+
+----
+
+Uuid: 9Bdare6YI9zBCLyp

@@ -1,0 +1,41 @@
+Title: SISTER FREDDY
+
+----
+
+Actors:
+
+- 'page://VQ2tezOinyzNJNH4'
+- 'page://nGhJyQbze3rAAH9v'
+- 'page://zrJrW5pbY6A6t722'
+
+----
+
+Film-id: 801
+
+----
+
+Description: A Stunning Saga of a Butler And a Woman who must Pursue a Explorer in Australia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 152
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: EBbjd6svXXwgvENt
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

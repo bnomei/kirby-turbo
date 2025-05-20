@@ -1,0 +1,17 @@
+Title: Inv 1249
+
+----
+
+Inventory-id: 1249
+
+----
+
+Film: page://f0EGvOfdhLE3kABW
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: nXX3dnGKW5Sfjert

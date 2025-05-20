@@ -1,0 +1,25 @@
+Title: Rental 3970
+
+----
+
+Rental-id: 3970
+
+----
+
+Rental-date: 2005-07-06 22:48:17
+
+----
+
+Return-date: 2005-07-15 19:07:17
+
+----
+
+Inventory: page://MhLcSzcrDhdHSXir
+
+----
+
+Uuid: NOVgKtGloO4Uf8l7
+
+----
+
+Customer: page://gKmpQHO21X5bYTQe

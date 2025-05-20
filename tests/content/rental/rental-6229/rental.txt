@@ -1,0 +1,25 @@
+Title: Rental 6229
+
+----
+
+Rental-id: 6229
+
+----
+
+Rental-date: 2005-07-11 13:59:50
+
+----
+
+Return-date: 2005-07-20 09:26:50
+
+----
+
+Inventory: page://Wfgb2F0eQ2oDg7a0
+
+----
+
+Uuid: sI49gogpvI6hVNjB
+
+----
+
+Customer: page://Lk1Hh6BTSOpo0Syr

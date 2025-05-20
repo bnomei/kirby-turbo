@@ -1,0 +1,17 @@
+Title: Inv 2373
+
+----
+
+Inventory-id: 2373
+
+----
+
+Film: page://N4NNF3HujpJLGGlK
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: T7la4MbNIyQraSkD

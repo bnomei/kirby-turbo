@@ -1,0 +1,25 @@
+Title: Rental 3983
+
+----
+
+Rental-id: 3983
+
+----
+
+Rental-date: 2005-07-06 23:14:21
+
+----
+
+Return-date: 2005-07-12 17:55:21
+
+----
+
+Inventory: page://gOVFv2QxeOkwoD7V
+
+----
+
+Uuid: AdJg0TLwTZruUYxl
+
+----
+
+Customer: page://X3AjzgBdF3VXBSFO

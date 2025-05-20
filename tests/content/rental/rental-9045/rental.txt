@@ -1,0 +1,25 @@
+Title: Rental 9045
+
+----
+
+Rental-id: 9045
+
+----
+
+Rental-date: 2005-07-30 06:36:57
+
+----
+
+Return-date: 2005-08-08 01:51:57
+
+----
+
+Inventory: page://tkvJywWtxQrEbT0X
+
+----
+
+Customer: page://uTsl9Wlh901HIAgF
+
+----
+
+Uuid: dTl3LDTIVN1wL5WM

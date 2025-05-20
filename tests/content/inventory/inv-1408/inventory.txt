@@ -1,0 +1,17 @@
+Title: Inv 1408
+
+----
+
+Inventory-id: 1408
+
+----
+
+Film: page://15obrm4OByu6GdYh
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ZZstr2FtVNjBtAUN

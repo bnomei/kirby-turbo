@@ -1,0 +1,17 @@
+Title: Inv 2666
+
+----
+
+Inventory-id: 2666
+
+----
+
+Film: page://ZIGdtyccfqkSYSuA
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 5jIzKeFX3NQpm3Nx

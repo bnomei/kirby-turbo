@@ -1,0 +1,25 @@
+Title: Rental 3758
+
+----
+
+Rental-id: 3758
+
+----
+
+Rental-date: 2005-07-06 12:43:11
+
+----
+
+Return-date: 2005-07-14 12:52:11
+
+----
+
+Inventory: page://ivBVa8fwp5mdYCLC
+
+----
+
+Uuid: zsmTKKU68az6J4yF
+
+----
+
+Customer: page://nZVFUQsoyO1MvhAU

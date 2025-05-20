@@ -1,0 +1,21 @@
+Title: Rental 13008
+
+----
+
+Rental-id: 13008
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://6WuHKy55BedehGdD
+
+----
+
+Customer: page://5RcmhHbYnxl64mW8
+
+----
+
+Uuid: D1NMDggZeyevMAmF

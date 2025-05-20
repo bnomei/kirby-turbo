@@ -1,0 +1,45 @@
+Title: LOVER TRUMAN
+
+----
+
+Actors:
+
+- 'page://q71V781JfgIPJGVL'
+- 'page://8Pmn5SWwDYgkHBaA'
+- 'page://JrsbillMdFUVLTOe'
+- 'page://I440rKCeu4AX6xcF'
+- 'page://VNoe1uWzYd7QHUzW'
+- 'page://kglHBUzvM27ekW4e'
+- 'page://DwMOxcgjVYPNg15d'
+
+----
+
+Film-id: 537
+
+----
+
+Description: A Emotional Yarn of a Robot And a Boy who must Outgun a Technical Writer in A U-Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 75
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: XVOfGanSHXV6A1gA
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

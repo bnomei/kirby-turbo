@@ -1,0 +1,25 @@
+Title: Rental 648
+
+----
+
+Rental-id: 648
+
+----
+
+Rental-date: 2005-05-28 19:25:54
+
+----
+
+Return-date: 2005-06-03 15:57:54
+
+----
+
+Inventory: page://plydQO3cHpIMaN0g
+
+----
+
+Uuid: wQBzVOt5AZJp1v5P
+
+----
+
+Customer: page://hd1gRLl3i3JFAUfJ

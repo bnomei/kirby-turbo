@@ -1,0 +1,17 @@
+Title: Inv 4513
+
+----
+
+Inventory-id: 4513
+
+----
+
+Film: page://j44nFK3M0tKa4wzG
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: KXnmS4BQzqgxpNYT

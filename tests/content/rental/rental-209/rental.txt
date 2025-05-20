@@ -1,0 +1,25 @@
+Title: Rental 209
+
+----
+
+Rental-id: 209
+
+----
+
+Rental-date: 2005-05-26 08:14:01
+
+----
+
+Return-date: 2005-05-27 09:00:01
+
+----
+
+Inventory: page://Bc22HrdjMAOP5fLC
+
+----
+
+Uuid: nWac3lZxHxs5Njgz
+
+----
+
+Customer: page://siVW5dXKEILolbt4

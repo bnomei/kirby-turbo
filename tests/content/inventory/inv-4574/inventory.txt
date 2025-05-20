@@ -1,0 +1,17 @@
+Title: Inv 4574
+
+----
+
+Inventory-id: 4574
+
+----
+
+Film: page://wSlDJdcvEJstzSAH
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: LcK4V2OGSUxc9Yqi

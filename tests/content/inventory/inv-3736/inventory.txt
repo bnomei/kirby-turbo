@@ -1,0 +1,17 @@
+Title: Inv 3736
+
+----
+
+Inventory-id: 3736
+
+----
+
+Film: page://Ke4SavcgjPgEaepB
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: BLWj6RO15uZiETEK

@@ -1,0 +1,25 @@
+Title: Rental 2809
+
+----
+
+Rental-id: 2809
+
+----
+
+Rental-date: 2005-06-19 19:40:27
+
+----
+
+Return-date: 2005-06-27 15:28:27
+
+----
+
+Inventory: page://ZFalzkCpqRhiKl2b
+
+----
+
+Uuid: LSBLcisLF3nZjr5u
+
+----
+
+Customer: page://074m4vQayjqUygEq

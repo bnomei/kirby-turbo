@@ -1,0 +1,25 @@
+Title: Rental 651
+
+----
+
+Rental-id: 651
+
+----
+
+Rental-date: 2005-05-28 19:46:50
+
+----
+
+Return-date: 2005-05-30 16:29:50
+
+----
+
+Inventory: page://NW7VpzfBDM2vy0hy
+
+----
+
+Uuid: dLg8UuJ0wk3gDRSz
+
+----
+
+Customer: page://mfYh9J5zA5Ib3tjU

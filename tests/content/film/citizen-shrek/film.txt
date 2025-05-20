@@ -1,0 +1,46 @@
+Title: CITIZEN SHREK
+
+----
+
+Actors:
+
+- 'page://I2QUzWEQkTiY7Ba5'
+- 'page://lRnQ2IFMyS6K2hRd'
+- 'page://9NAEa97MvjisWbzN'
+- 'page://GwUKN9N7u1wbNu4w'
+- 'page://nN3rIVkI7hNgoDlp'
+- 'page://3BcvBP3gfacEDPsU'
+- 'page://o0jpPkMBKXg668DK'
+- 'page://humVtsLQfFTV2gvC'
+
+----
+
+Film-id: 153
+
+----
+
+Description: A Fanciful Character Study of a Technical Writer And a Husband who must Redeem a Robot in The Outback
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 165
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: FFIp07Vl2C06w2wW
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

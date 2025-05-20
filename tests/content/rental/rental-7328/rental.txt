@@ -1,0 +1,25 @@
+Title: Rental 7328
+
+----
+
+Rental-id: 7328
+
+----
+
+Rental-date: 2005-07-27 13:55:18
+
+----
+
+Return-date: 2005-08-01 19:52:18
+
+----
+
+Inventory: page://xR6PNRoiw9ogiAQL
+
+----
+
+Customer: page://M0U3K1RrRahNRLAP
+
+----
+
+Uuid: HapNMBvR1wO3wsHL

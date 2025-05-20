@@ -1,0 +1,44 @@
+Title: PARIS WEEKEND
+
+----
+
+Actors:
+
+- 'page://eJszhRe2rjIvWjny'
+- 'page://ovAz2jwmaTIz5ph9'
+- 'page://Ppjj85F3dapvXsi8'
+- 'page://IR4s9CmH1R8G51Ej'
+- 'page://m11q5cdDfIefOEY5'
+- 'page://s3p9MagWJdWouacJ'
+
+----
+
+Film-id: 658
+
+----
+
+Description: A Intrepid Story of a Squirrel And a Crocodile who must Defeat a Monkey in The Outback
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 121
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: KOYLfJgzTKApEtFJ
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

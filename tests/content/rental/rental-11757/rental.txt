@@ -1,0 +1,21 @@
+Title: Rental 11757
+
+----
+
+Rental-id: 11757
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://IjazuNLcwlbNuszz
+
+----
+
+Customer: page://x8Y8aJxOEpTBihF2
+
+----
+
+Uuid: nZK25yYfI2r5I52X

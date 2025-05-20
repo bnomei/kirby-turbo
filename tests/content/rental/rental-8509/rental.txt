@@ -1,0 +1,25 @@
+Title: Rental 8509
+
+----
+
+Rental-id: 8509
+
+----
+
+Rental-date: 2005-07-29 09:38:19
+
+----
+
+Return-date: 2005-08-04 11:45:19
+
+----
+
+Inventory: page://tkAdUPPNPBvVMYFt
+
+----
+
+Customer: page://Kfg59yZzb8JuYq1o
+
+----
+
+Uuid: EI7tUZCyiMrux8zN

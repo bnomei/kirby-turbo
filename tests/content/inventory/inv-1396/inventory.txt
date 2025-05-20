@@ -1,0 +1,17 @@
+Title: Inv 1396
+
+----
+
+Inventory-id: 1396
+
+----
+
+Film: page://A7odjzMG4nCFnxTI
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: QbMaDqrdsjV2K1Dv

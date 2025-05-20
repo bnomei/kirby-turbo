@@ -1,0 +1,25 @@
+Title: Rental 8609
+
+----
+
+Rental-id: 8609
+
+----
+
+Rental-date: 2005-07-29 13:19:25
+
+----
+
+Return-date: 2005-08-06 08:33:25
+
+----
+
+Inventory: page://q9fn90RZFKVqXeoK
+
+----
+
+Customer: page://hZOnCp7oVBUSijBw
+
+----
+
+Uuid: yDqYp2KLr2yovB3P

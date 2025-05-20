@@ -1,0 +1,21 @@
+Title: Rental 11754
+
+----
+
+Rental-id: 11754
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://FDT64qBtBVD9GndE
+
+----
+
+Customer: page://dH8QcNydtJRu0BPQ
+
+----
+
+Uuid: L5m7v5yJj0ck0N3b

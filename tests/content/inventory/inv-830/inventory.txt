@@ -1,0 +1,17 @@
+Title: Inv 830
+
+----
+
+Inventory-id: 830
+
+----
+
+Film: page://mPgHvtizcr5X4Xab
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: gE4B1Aee4uyvBQfj

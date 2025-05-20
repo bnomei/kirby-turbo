@@ -1,0 +1,17 @@
+Title: Inv 3958
+
+----
+
+Inventory-id: 3958
+
+----
+
+Film: page://vJLvuMt5tFbWxGyr
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: fpSfwKbJQcR65H9j

@@ -1,0 +1,25 @@
+Title: Rental 2967
+
+----
+
+Rental-id: 2967
+
+----
+
+Rental-date: 2005-06-20 07:40:35
+
+----
+
+Return-date: 2005-06-29 05:50:35
+
+----
+
+Inventory: page://OlB9oeiGzxJiRolV
+
+----
+
+Uuid: vbbwcS3ZhLAp5zjv
+
+----
+
+Customer: page://W7ZJXAG7NuFuJZ2S

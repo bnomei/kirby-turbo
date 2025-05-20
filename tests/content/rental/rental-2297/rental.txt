@@ -1,0 +1,25 @@
+Title: Rental 2297
+
+----
+
+Rental-id: 2297
+
+----
+
+Rental-date: 2005-06-18 08:17:41
+
+----
+
+Return-date: 2005-06-26 05:08:41
+
+----
+
+Inventory: page://eJQg7wijR8FExZLg
+
+----
+
+Uuid: zdZC7iKWchQLpMNO
+
+----
+
+Customer: page://3oDVHadirwJKNUrH

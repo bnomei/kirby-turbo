@@ -1,0 +1,17 @@
+Title: Inv 876
+
+----
+
+Inventory-id: 876
+
+----
+
+Film: page://bjcVvf6Bq6N3Umgg
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: jTRxP7vm9FVkgiTW

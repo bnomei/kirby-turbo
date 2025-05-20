@@ -1,0 +1,25 @@
+Title: Rental 3973
+
+----
+
+Rental-id: 3973
+
+----
+
+Rental-date: 2005-07-06 22:58:31
+
+----
+
+Return-date: 2005-07-16 03:27:31
+
+----
+
+Inventory: page://HdoWA9uekOAPPv6Y
+
+----
+
+Uuid: 3adaWEGV1KieIwrU
+
+----
+
+Customer: page://YaIz0DYOIEnfvgdw

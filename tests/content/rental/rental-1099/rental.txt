@@ -1,0 +1,25 @@
+Title: Rental 1099
+
+----
+
+Rental-id: 1099
+
+----
+
+Rental-date: 2005-05-31 13:54:48
+
+----
+
+Return-date: 2005-06-05 13:04:48
+
+----
+
+Inventory: page://QApmIM0nqFWbydhb
+
+----
+
+Uuid: pCcxAh2vBABLmygC
+
+----
+
+Customer: page://Cko87GK3ShDjUK4Q

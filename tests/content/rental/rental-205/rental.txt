@@ -1,0 +1,25 @@
+Title: Rental 205
+
+----
+
+Rental-id: 205
+
+----
+
+Rental-date: 2005-05-26 07:59:37
+
+----
+
+Return-date: 2005-05-29 09:43:37
+
+----
+
+Inventory: page://1AG3lyOuQ0m3nSc9
+
+----
+
+Uuid: bdNbEndXE6SojqoN
+
+----
+
+Customer: page://tmz3xyyMIWwOAlZu

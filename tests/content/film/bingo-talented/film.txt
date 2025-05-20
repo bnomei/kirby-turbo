@@ -1,0 +1,43 @@
+Title: BINGO TALENTED
+
+----
+
+Actors:
+
+- 'page://e0jga56TJCBrOXvD'
+- 'page://RdhM2Q1bNuSOC3ck'
+- 'page://GwUKN9N7u1wbNu4w'
+- 'page://CBtLT02Rklp5i11L'
+- 'page://EMAJfjeYpdsSEXq5'
+
+----
+
+Film-id: 73
+
+----
+
+Description: A Touching Tale of a Girl And a Crocodile who must Discover a Waitress in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 150
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: kNARjUjZk6WzGgpN
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

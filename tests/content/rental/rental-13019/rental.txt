@@ -1,0 +1,25 @@
+Title: Rental 13019
+
+----
+
+Rental-id: 13019
+
+----
+
+Rental-date: 2005-08-19 08:07:43
+
+----
+
+Return-date: 2005-08-20 12:09:43
+
+----
+
+Inventory: page://2fVVrdX7oqHaRNCT
+
+----
+
+Customer: page://zIyxrm1tFzZPIrxF
+
+----
+
+Uuid: FdRItwS6Rt5F4027

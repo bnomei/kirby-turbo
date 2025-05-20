@@ -1,0 +1,17 @@
+Title: Inv 1702
+
+----
+
+Inventory-id: 1702
+
+----
+
+Film: page://bCaKrzrFoyWGdG2h
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: yA41ldIaPmVIYbBo

@@ -1,0 +1,17 @@
+Title: Inv 4045
+
+----
+
+Inventory-id: 4045
+
+----
+
+Film: page://WXh3BGqLeYMMDxlq
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 59p2NPMvWzLGmstB

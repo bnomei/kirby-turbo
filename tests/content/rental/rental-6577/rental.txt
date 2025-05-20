@@ -1,0 +1,25 @@
+Title: Rental 6577
+
+----
+
+Rental-id: 6577
+
+----
+
+Rental-date: 2005-07-12 06:15:05
+
+----
+
+Return-date: 2005-07-15 06:23:05
+
+----
+
+Inventory: page://48aLTRkQSHvMIXqm
+
+----
+
+Uuid: WNvzrcYVG5iJ0XBC
+
+----
+
+Customer: page://KliCwmxco9DJ4eNi

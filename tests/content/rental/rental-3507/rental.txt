@@ -1,0 +1,25 @@
+Title: Rental 3507
+
+----
+
+Rental-id: 3507
+
+----
+
+Rental-date: 2005-07-06 00:23:43
+
+----
+
+Return-date: 2005-07-15 04:19:43
+
+----
+
+Inventory: page://OYSBRAoB14ayvfhk
+
+----
+
+Uuid: S8HkBCaXAJ4ANJpG
+
+----
+
+Customer: page://VhNFaZVA09U1QRJB

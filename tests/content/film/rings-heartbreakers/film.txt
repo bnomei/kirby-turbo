@@ -1,0 +1,49 @@
+Title: RINGS HEARTBREAKERS
+
+----
+
+Actors:
+
+- 'page://S52CrIK06oYgWrwP'
+- 'page://jG0aUFRzU1eFlO8R'
+- 'page://ikhz1wEjJMz3vCm4'
+- 'page://xBL8rppzTt5cijUB'
+- 'page://OwcwI2sE5Nr5L1Ju'
+- 'page://75IrF5RezCSzGKrx'
+- 'page://rTdvG0vGkNN8iJpQ'
+- 'page://DC9iJim4HlVvOiTH'
+- 'page://zYYZnzancmv0SOT5'
+- 'page://NRH2DcjJcFwzgjEd'
+- 'page://jSbKN9X4MDWI1G5U'
+
+----
+
+Film-id: 732
+
+----
+
+Description: A Amazing Yarn of a Sumo Wrestler And a Boat who must Conquer a Waitress in New Orleans
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 58
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: hc3yVVn1FfUvg8AH
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

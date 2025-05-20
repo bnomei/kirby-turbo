@@ -1,0 +1,25 @@
+Title: Rental 788
+
+----
+
+Rental-id: 788
+
+----
+
+Rental-date: 2005-05-29 16:13:55
+
+----
+
+Return-date: 2005-05-31 16:40:55
+
+----
+
+Inventory: page://AvlDJFaKve3MTNRO
+
+----
+
+Uuid: fWgCr2dhUeWbokhK
+
+----
+
+Customer: page://dDebWAl7EXyRrJnM

@@ -1,0 +1,17 @@
+Title: Inv 4320
+
+----
+
+Inventory-id: 4320
+
+----
+
+Film: page://dyZxxsuprh3PBLXD
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: mh1NStBh8qzxLtBn

@@ -1,0 +1,17 @@
+Title: al-Manama
+
+----
+
+City-id: 14
+
+----
+
+City: al-Manama
+
+----
+
+Country: page://HAyIBTccqwCFC54F
+
+----
+
+Uuid: iv9Jwtslpu6cGptt

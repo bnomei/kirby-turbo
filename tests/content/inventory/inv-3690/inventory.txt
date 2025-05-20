@@ -1,0 +1,17 @@
+Title: Inv 3690
+
+----
+
+Inventory-id: 3690
+
+----
+
+Film: page://5oG1iQBEBTq5Gusj
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: vZ3jBtkeitS0x17k

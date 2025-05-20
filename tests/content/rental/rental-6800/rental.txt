@@ -1,0 +1,25 @@
+Title: Rental 6800
+
+----
+
+Rental-id: 6800
+
+----
+
+Rental-date: 2005-07-12 17:03:56
+
+----
+
+Return-date: 2005-07-21 20:32:56
+
+----
+
+Inventory: page://TMRjMUgLxPloQ29n
+
+----
+
+Customer: page://yIwfaiZ5vQfAWusn
+
+----
+
+Uuid: 6bTLh6yE4vdEUFuB

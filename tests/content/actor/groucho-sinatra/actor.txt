@@ -1,0 +1,21 @@
+Title: GROUCHO SINATRA
+
+----
+
+Actors: []
+
+----
+
+Actor-id: 78
+
+----
+
+First-name: GROUCHO
+
+----
+
+Last-name: SINATRA
+
+----
+
+Uuid: WmeC1S3wVV4gdFE4

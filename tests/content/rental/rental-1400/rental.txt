@@ -1,0 +1,25 @@
+Title: Rental 1400
+
+----
+
+Rental-id: 1400
+
+----
+
+Rental-date: 2005-06-15 16:29:56
+
+----
+
+Return-date: 2005-06-21 14:43:56
+
+----
+
+Inventory: page://O2hXh3s0zV7iL7ZZ
+
+----
+
+Uuid: R9ExHpvm7K74VG7t
+
+----
+
+Customer: page://NrH2ag1h7sBRKnqA

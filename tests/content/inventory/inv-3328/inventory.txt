@@ -1,0 +1,17 @@
+Title: Inv 3328
+
+----
+
+Inventory-id: 3328
+
+----
+
+Film: page://hc3yVVn1FfUvg8AH
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ifAZjCjnkc3sj8QC

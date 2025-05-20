@@ -1,0 +1,25 @@
+Title: Rental 8095
+
+----
+
+Rental-id: 8095
+
+----
+
+Rental-date: 2005-07-28 18:32:40
+
+----
+
+Return-date: 2005-08-06 23:45:40
+
+----
+
+Inventory: page://kcvyQFcm4gXFnGM5
+
+----
+
+Customer: page://PBAxbbLPwokG6bh1
+
+----
+
+Uuid: B0Dt3gTCtm2QVMdm

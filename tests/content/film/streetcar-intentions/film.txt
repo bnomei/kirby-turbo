@@ -1,0 +1,45 @@
+Title: STREETCAR INTENTIONS
+
+----
+
+Actors:
+
+- 'page://q71V781JfgIPJGVL'
+- 'page://RW4ixiF3bbh7oXkH'
+- 'page://2VTI7EzGP0O1IYVh'
+- 'page://l9F1V32tlG60bBdO'
+- 'page://xtyCW5dEHcrv0QRa'
+- 'page://64SCw7TVQ1KFgpJt'
+- 'page://1lkqFZByE2squnG7'
+
+----
+
+Film-id: 856
+
+----
+
+Description: A Insightful Character Study of a Waitress And a Crocodile who must Sink a Waitress in The Gulf of Mexico
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 73
+
+----
+
+Rating: R
+
+----
+
+Special-features: Commentaries
+
+----
+
+Uuid: ub96YyrefbgE7aUK
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

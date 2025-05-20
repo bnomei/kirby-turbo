@@ -1,0 +1,17 @@
+Title: Inv 1040
+
+----
+
+Inventory-id: 1040
+
+----
+
+Film: page://lcEu05g561SkYnmL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: wDG3qiZaf3joaw62

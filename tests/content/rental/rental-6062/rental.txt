@@ -1,0 +1,25 @@
+Title: Rental 6062
+
+----
+
+Rental-id: 6062
+
+----
+
+Rental-date: 2005-07-11 04:11:58
+
+----
+
+Return-date: 2005-07-15 05:00:58
+
+----
+
+Inventory: page://hGWcPYsV0pmr30jY
+
+----
+
+Uuid: 7c424WCTrAJHFE2f
+
+----
+
+Customer: page://X8y0Q9Q9rEkii7ym

@@ -1,0 +1,17 @@
+Title: Inv 3487
+
+----
+
+Inventory-id: 3487
+
+----
+
+Film: page://eV27o8I9MzmQIqQQ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: KDcWNvapm7uBrdIE

@@ -1,0 +1,17 @@
+Title: Inv 2236
+
+----
+
+Inventory-id: 2236
+
+----
+
+Film: page://TgET8y6ulzmChjPL
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: z2BjtTufhmRJ1JOq

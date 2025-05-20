@@ -1,0 +1,25 @@
+Title: Rental 1899
+
+----
+
+Rental-id: 1899
+
+----
+
+Rental-date: 2005-06-17 04:29:15
+
+----
+
+Return-date: 2005-06-26 08:39:15
+
+----
+
+Inventory: page://iwTkV7PCVwqzk4Zg
+
+----
+
+Uuid: 5wgfFBICPf6HtPgM
+
+----
+
+Customer: page://9M7WmMyIHxnO6lL5

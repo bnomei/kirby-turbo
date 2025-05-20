@@ -1,0 +1,25 @@
+Title: Rental 15743
+
+----
+
+Rental-id: 15743
+
+----
+
+Rental-date: 2005-08-23 12:12:05
+
+----
+
+Return-date: 2005-08-26 11:35:05
+
+----
+
+Inventory: page://hRDMDY9m7u9bttQz
+
+----
+
+Customer: page://IASgNEvWFJebynwM
+
+----
+
+Uuid: 6I2pLZXzzs8xwmyW

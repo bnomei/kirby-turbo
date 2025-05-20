@@ -1,0 +1,17 @@
+Title: Inv 1746
+
+----
+
+Inventory-id: 1746
+
+----
+
+Film: page://g4dp4eGNZ1bFLnGu
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 7PRgtiut617sO6fQ

@@ -1,0 +1,41 @@
+Title: TWISTED PIRATES
+
+----
+
+Actors:
+
+- 'page://OwcwI2sE5Nr5L1Ju'
+- 'page://9NAEa97MvjisWbzN'
+- 'page://L8EgxOu9xdHGpzVg'
+
+----
+
+Film-id: 918
+
+----
+
+Description: A Touching Display of a Frisbee And a Boat who must Kill a Girl in A MySQL Convention
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 152
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: Dgqi9DiNS6SU8ufc
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

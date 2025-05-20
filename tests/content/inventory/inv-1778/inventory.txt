@@ -1,0 +1,17 @@
+Title: Inv 1778
+
+----
+
+Inventory-id: 1778
+
+----
+
+Film: page://oiXuz11Z5KGGG2vj
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: wF29RWkS4a54kI2f

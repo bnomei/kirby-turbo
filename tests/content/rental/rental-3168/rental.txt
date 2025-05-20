@@ -1,0 +1,25 @@
+Title: Rental 3168
+
+----
+
+Rental-id: 3168
+
+----
+
+Rental-date: 2005-06-20 21:46:01
+
+----
+
+Return-date: 2005-06-22 20:40:01
+
+----
+
+Inventory: page://hGpbD3Ofn21rNivG
+
+----
+
+Uuid: vvfus6QSsLWLlVr4
+
+----
+
+Customer: page://LxYXYVT8Su7lX0Xb

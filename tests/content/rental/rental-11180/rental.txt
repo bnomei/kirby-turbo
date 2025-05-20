@@ -1,0 +1,25 @@
+Title: Rental 11180
+
+----
+
+Rental-id: 11180
+
+----
+
+Rental-date: 2005-08-02 10:54:30
+
+----
+
+Return-date: 2005-08-11 15:55:30
+
+----
+
+Inventory: page://tDfw4xDHXdzHh3yT
+
+----
+
+Customer: page://5cEtw749lfuLkqIc
+
+----
+
+Uuid: EUUOJDfpFJakDYlX

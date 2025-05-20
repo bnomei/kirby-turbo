@@ -1,0 +1,17 @@
+Title: Inv 1382
+
+----
+
+Inventory-id: 1382
+
+----
+
+Film: page://SfVKFITCqVw73PWG
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: hjfT3ZeA3qFeRQZR

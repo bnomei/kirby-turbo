@@ -1,0 +1,25 @@
+Title: Rental 1985
+
+----
+
+Rental-id: 1985
+
+----
+
+Rental-date: 2005-06-17 10:31:37
+
+----
+
+Return-date: 2005-06-22 11:17:37
+
+----
+
+Inventory: page://QzAC4ODMvaOYLf4Q
+
+----
+
+Uuid: uqCsnCZz0127bVeN
+
+----
+
+Customer: page://QLQpAHNndEIHvGr2

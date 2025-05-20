@@ -1,0 +1,17 @@
+Title: Inv 2725
+
+----
+
+Inventory-id: 2725
+
+----
+
+Film: page://vora5sVe9reu6u3d
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 1qaEWwicMA89OiNS

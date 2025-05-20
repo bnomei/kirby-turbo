@@ -1,0 +1,49 @@
+Title: TELEMARK HEARTBREAKERS
+
+----
+
+Actors:
+
+- 'page://qd0io4mUKZ4KUkyk'
+- 'page://H5yhLtWBsWi35xuK'
+- 'page://oEbdYNCKFrP9NVLv'
+- 'page://xjeqCa9sjC8UxwnG'
+- 'page://WmeC1S3wVV4gdFE4'
+- 'page://kIGWs86teYEK5yIM'
+- 'page://uyiPyWfxhKFdwYKL'
+- 'page://m11q5cdDfIefOEY5'
+- 'page://G2CRwpBQJFawgg9Y'
+- 'page://yg3e89enY7SGtRB6'
+- 'page://nVYE704vdPRRS8fI'
+
+----
+
+Film-id: 880
+
+----
+
+Description: A Action-Packed Panorama of a Technical Writer And a Man who must Build a Forensic Psychologist in A Manhattan Penthouse
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 152
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: WXh3BGqLeYMMDxlq
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

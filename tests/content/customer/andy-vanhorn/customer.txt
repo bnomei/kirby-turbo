@@ -1,0 +1,33 @@
+Title: ANDY VANHORN
+
+----
+
+Customer-id: 582
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ANDY
+
+----
+
+Last-name: VANHORN
+
+----
+
+Email: ANDY.VANHORN@sakilacustomer.org
+
+----
+
+Address: page://Gzm3t0c4LeYOoHj6
+
+----
+
+Active: 1
+
+----
+
+Uuid: 1IEX6ebAcThKNnCl

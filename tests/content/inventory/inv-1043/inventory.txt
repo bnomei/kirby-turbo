@@ -1,0 +1,17 @@
+Title: Inv 1043
+
+----
+
+Inventory-id: 1043
+
+----
+
+Film: page://u61mXZArei0MTQD2
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: g1oLVYXxSDs8NtmE

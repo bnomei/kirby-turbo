@@ -1,0 +1,44 @@
+Title: MINDS TRUMAN
+
+----
+
+Actors:
+
+- 'page://NmIbTpy4ZSHrHfnI'
+- 'page://GA1ldK0BGihIEfd4'
+- 'page://u0N0ozPCYMgg4oo9'
+- 'page://X4t5CWB88ooC26Na'
+- 'page://nNLtL91vUU653tYz'
+- 'page://WNZ5mNUGrC10JaZI'
+
+----
+
+Film-id: 579
+
+----
+
+Description: A Taut Yarn of a Mad Scientist And a Crocodile who must Outgun a Database Administrator in A Monastery
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 149
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: oZYFoTbpvPwLRK4u
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

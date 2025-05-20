@@ -1,0 +1,17 @@
+Title: Inv 1925
+
+----
+
+Inventory-id: 1925
+
+----
+
+Film: page://843vIja6ZhhXNEBy
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: if9kvhctp5ncEdmu

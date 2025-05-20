@@ -1,0 +1,25 @@
+Title: Rental 76
+
+----
+
+Rental-id: 76
+
+----
+
+Rental-date: 2005-05-25 11:30:37
+
+----
+
+Return-date: 2005-06-03 12:00:37
+
+----
+
+Inventory: page://pGBWVDa2kzPbhuy8
+
+----
+
+Uuid: 41hXy2Mc4BkP5P7r
+
+----
+
+Customer: page://XT1tDVBbJppqjfak

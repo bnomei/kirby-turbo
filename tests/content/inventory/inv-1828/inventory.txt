@@ -1,0 +1,17 @@
+Title: Inv 1828
+
+----
+
+Inventory-id: 1828
+
+----
+
+Film: page://WGXDM1RG4lfMpY2G
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: M4NY1Rt7VAisn58Y

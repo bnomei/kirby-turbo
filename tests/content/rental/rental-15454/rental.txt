@@ -1,0 +1,21 @@
+Title: Rental 15454
+
+----
+
+Rental-id: 15454
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://LllXxHJDgM5BRiTE
+
+----
+
+Customer: page://S7Bt2TM6J9ACe4bP
+
+----
+
+Uuid: 0zoC5uZkJpYZ16wi

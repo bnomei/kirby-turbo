@@ -1,0 +1,25 @@
+Title: Rental 1080
+
+----
+
+Rental-id: 1080
+
+----
+
+Rental-date: 2005-05-31 10:55:26
+
+----
+
+Return-date: 2005-06-03 13:13:26
+
+----
+
+Inventory: page://waCj8TQ5WIYsdxNk
+
+----
+
+Uuid: M8x8pfQZHYsMpnVi
+
+----
+
+Customer: page://Waos8TO100plOpAg

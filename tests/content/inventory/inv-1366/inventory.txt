@@ -1,0 +1,17 @@
+Title: Inv 1366
+
+----
+
+Inventory-id: 1366
+
+----
+
+Film: page://nRJJF55eLzvB955V
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: oQudtONExUPV6B2k

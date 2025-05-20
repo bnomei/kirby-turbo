@@ -1,0 +1,17 @@
+Title: Inv 4237
+
+----
+
+Inventory-id: 4237
+
+----
+
+Film: page://y8BuDfsEAT5aJhE5
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 6kOYWtw2NUlZQ2vi

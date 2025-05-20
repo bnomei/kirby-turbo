@@ -1,0 +1,25 @@
+Title: Rental 13953
+
+----
+
+Rental-id: 13953
+
+----
+
+Rental-date: 2005-08-20 18:00:37
+
+----
+
+Return-date: 2005-08-28 14:52:37
+
+----
+
+Inventory: page://7sAzMSlmfYt4ABdC
+
+----
+
+Customer: page://CWfw6rX3ydLvFm4G
+
+----
+
+Uuid: APwqNZ33Nc6YNfrE

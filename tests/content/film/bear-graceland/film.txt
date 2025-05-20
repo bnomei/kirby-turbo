@@ -1,0 +1,41 @@
+Title: BEAR GRACELAND
+
+----
+
+Actors:
+
+- 'page://u0N0ozPCYMgg4oo9'
+- 'page://pokjngmFMjrhDsLQ'
+- 'page://o0jpPkMBKXg668DK'
+
+----
+
+Film-id: 59
+
+----
+
+Description: A Astounding Saga of a Dog And a Boy who must Kill a Teacher in The First Manned Space Station
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 160
+
+----
+
+Rating: R
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: 5NQTf4tRDgZfrmlY
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

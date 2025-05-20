@@ -1,0 +1,17 @@
+Title: Inv 3840
+
+----
+
+Inventory-id: 3840
+
+----
+
+Film: page://RD5nIGLm058hSZAk
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: vZzXKY1Js5StybV0

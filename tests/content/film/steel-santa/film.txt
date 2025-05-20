@@ -1,0 +1,41 @@
+Title: STEEL SANTA
+
+----
+
+Actors:
+
+- 'page://xbVuFnPKikNsqVkK'
+- 'page://nx1fXkDUW4gS66DW'
+- 'page://FLMpVB5CVJFKSGVy'
+
+----
+
+Film-id: 843
+
+----
+
+Description: A Fast-Paced Yarn of a Composer And a Frisbee who must Face a Moose in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 143
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: wu9cEQ1sS4zbyXA7
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

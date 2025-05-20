@@ -1,0 +1,17 @@
+Title: Inv 3276
+
+----
+
+Inventory-id: 3276
+
+----
+
+Film: page://SOGubtObTY7V7FqY
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: uFhRYjMmSfShw09Q

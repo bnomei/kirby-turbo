@@ -1,0 +1,25 @@
+Title: Rental 5510
+
+----
+
+Rental-id: 5510
+
+----
+
+Rental-date: 2005-07-10 00:58:37
+
+----
+
+Return-date: 2005-07-17 22:02:37
+
+----
+
+Inventory: page://x1MF1GJl8B5Df9ut
+
+----
+
+Uuid: YDtV4zwM8MooK3Ce
+
+----
+
+Customer: page://qwuyaWIZTC7pwwND

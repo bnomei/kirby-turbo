@@ -1,0 +1,25 @@
+Title: Rental 12160
+
+----
+
+Rental-id: 12160
+
+----
+
+Rental-date: 2005-08-18 00:37:59
+
+----
+
+Return-date: 2005-08-19 20:51:59
+
+----
+
+Inventory: page://IPXXzZvIrclw2sv9
+
+----
+
+Customer: page://6B5jExq3JyrPdaga
+
+----
+
+Uuid: B2pWg6OP8JFm9zQP

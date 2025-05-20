@@ -1,0 +1,17 @@
+Title: Inv 3611
+
+----
+
+Inventory-id: 3611
+
+----
+
+Film: page://aAkTwopuYZivPiG2
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: tfLiNBpjF5fRb4PU

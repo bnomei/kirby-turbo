@@ -1,0 +1,25 @@
+Title: Rental 16008
+
+----
+
+Rental-id: 16008
+
+----
+
+Rental-date: 2005-08-23 21:04:51
+
+----
+
+Return-date: 2005-08-31 22:09:51
+
+----
+
+Inventory: page://JcPDPa2xbLux9vTn
+
+----
+
+Customer: page://SVZoWH6J14ZTtsdK
+
+----
+
+Uuid: MLnG1j0bDC5aAd1n

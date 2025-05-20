@@ -1,0 +1,45 @@
+Title: NEIGHBORS CHARADE
+
+----
+
+Actors:
+
+- 'page://pAFoAtJmRtH6ome4'
+- 'page://Kx231VrTuxlFk3Xg'
+- 'page://Gz114ojbruPqLOSY'
+- 'page://u0N0ozPCYMgg4oo9'
+- 'page://lWEFCFc3fpMkkCVm'
+- 'page://LYJoMM1yt0Pr5l4j'
+- 'page://18rsmrxh7jfYQ50K'
+
+----
+
+Film-id: 619
+
+----
+
+Description: A Fanciful Reflection of a Crocodile And a Astronaut who must Outrace a Feminist in An Abandoned Amusement Park
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 161
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: 81wJ7zw9EOgn8jgO
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

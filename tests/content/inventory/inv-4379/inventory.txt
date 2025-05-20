@@ -1,0 +1,17 @@
+Title: Inv 4379
+
+----
+
+Inventory-id: 4379
+
+----
+
+Film: page://dpXNgRLgOgqSjTHd
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: RwGPQmYvXOy0zdiU

@@ -1,0 +1,25 @@
+Title: Rental 314
+
+----
+
+Rental-id: 314
+
+----
+
+Rental-date: 2005-05-26 23:09:41
+
+----
+
+Return-date: 2005-05-28 22:49:41
+
+----
+
+Inventory: page://UDIWcqKajil4z1kZ
+
+----
+
+Uuid: j4CkToavUOOYkZLv
+
+----
+
+Customer: page://9zYzK9WI4NUQdKUP

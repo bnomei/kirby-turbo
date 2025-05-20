@@ -1,0 +1,17 @@
+Title: Inv 3308
+
+----
+
+Inventory-id: 3308
+
+----
+
+Film: page://02UqpE473F2Z3lTF
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: OkfYRZcgzSBEaqX3

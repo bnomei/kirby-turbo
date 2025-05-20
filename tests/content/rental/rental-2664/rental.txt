@@ -1,0 +1,25 @@
+Title: Rental 2664
+
+----
+
+Rental-id: 2664
+
+----
+
+Rental-date: 2005-06-19 11:11:23
+
+----
+
+Return-date: 2005-06-28 08:30:23
+
+----
+
+Inventory: page://B50dOXGvnDGBG1to
+
+----
+
+Uuid: WcAs0xCTdEMaq52e
+
+----
+
+Customer: page://igxQ7vxPZAcLSAoP

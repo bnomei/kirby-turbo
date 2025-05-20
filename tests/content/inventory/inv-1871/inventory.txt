@@ -1,0 +1,17 @@
+Title: Inv 1871
+
+----
+
+Inventory-id: 1871
+
+----
+
+Film: page://x0gO7YRtpNfgYnvF
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: vBpo959UeV3y7QQf

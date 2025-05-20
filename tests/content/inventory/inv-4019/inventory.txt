@@ -1,0 +1,17 @@
+Title: Inv 4019
+
+----
+
+Inventory-id: 4019
+
+----
+
+Film: page://CKCoA588LLOvH6sL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 3wpC3NPJAX1pxRRY

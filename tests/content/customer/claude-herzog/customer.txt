@@ -1,0 +1,33 @@
+Title: CLAUDE HERZOG
+
+----
+
+Customer-id: 528
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CLAUDE
+
+----
+
+Last-name: HERZOG
+
+----
+
+Email: CLAUDE.HERZOG@sakilacustomer.org
+
+----
+
+Address: page://JReRs3E9fnmvMbwC
+
+----
+
+Active: 1
+
+----
+
+Uuid: JY1mPZSxratt4tn6

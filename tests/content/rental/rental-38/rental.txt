@@ -1,0 +1,25 @@
+Title: Rental 38
+
+----
+
+Rental-id: 38
+
+----
+
+Rental-date: 2005-05-25 04:47:44
+
+----
+
+Return-date: 2005-06-01 00:58:44
+
+----
+
+Inventory: page://Pkyusi2Vni8SFYmF
+
+----
+
+Uuid: d8YlY54p29OzSyzB
+
+----
+
+Customer: page://EN43JZfYCm84hq5t

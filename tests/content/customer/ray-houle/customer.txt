@@ -1,0 +1,33 @@
+Title: RAY HOULE
+
+----
+
+Customer-id: 430
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: RAY
+
+----
+
+Last-name: HOULE
+
+----
+
+Email: RAY.HOULE@sakilacustomer.org
+
+----
+
+Address: page://ozhwFbtkXOcCQHRT
+
+----
+
+Active: 1
+
+----
+
+Uuid: 0fWIE3b7YqBRG1Jt

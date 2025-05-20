@@ -1,0 +1,25 @@
+Title: Rental 171
+
+----
+
+Rental-id: 171
+
+----
+
+Rental-date: 2005-05-26 03:14:15
+
+----
+
+Return-date: 2005-06-03 00:24:15
+
+----
+
+Inventory: page://E8AlQPXYZJZzbgCW
+
+----
+
+Uuid: Qul7bpj0OkpzzHQG
+
+----
+
+Customer: page://NE2vG7J7KOOmGrbQ

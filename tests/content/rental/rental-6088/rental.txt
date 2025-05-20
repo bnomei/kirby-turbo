@@ -1,0 +1,25 @@
+Title: Rental 6088
+
+----
+
+Rental-id: 6088
+
+----
+
+Rental-date: 2005-07-11 05:40:35
+
+----
+
+Return-date: 2005-07-17 07:14:35
+
+----
+
+Inventory: page://9koHb34pnu0fVaRn
+
+----
+
+Uuid: KzKceIlov58Acyog
+
+----
+
+Customer: page://2lQ4vbsZnRXuEptp

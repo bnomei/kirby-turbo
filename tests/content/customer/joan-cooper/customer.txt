@@ -1,0 +1,33 @@
+Title: JOAN COOPER
+
+----
+
+Customer-id: 62
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JOAN
+
+----
+
+Last-name: COOPER
+
+----
+
+Email: JOAN.COOPER@sakilacustomer.org
+
+----
+
+Address: page://Hiou4adtEiURlOoQ
+
+----
+
+Active: 1
+
+----
+
+Uuid: YyPBQe8b3YphbbXY

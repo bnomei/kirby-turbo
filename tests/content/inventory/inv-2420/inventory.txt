@@ -1,0 +1,17 @@
+Title: Inv 2420
+
+----
+
+Inventory-id: 2420
+
+----
+
+Film: page://3k1PVjsO8htXJspc
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 6sn0K3NCF0ZgzWqq

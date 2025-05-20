@@ -1,0 +1,25 @@
+Title: Rental 807
+
+----
+
+Rental-id: 807
+
+----
+
+Rental-date: 2005-05-29 18:50:50
+
+----
+
+Return-date: 2005-06-03 18:36:50
+
+----
+
+Inventory: page://ufmawLi50lgmn3VN
+
+----
+
+Uuid: 0NSDgm3XYBqZ7MME
+
+----
+
+Customer: page://U0fmtb7mDA7lmArJ

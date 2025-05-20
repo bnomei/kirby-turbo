@@ -1,0 +1,25 @@
+Title: Rental 1884
+
+----
+
+Rental-id: 1884
+
+----
+
+Rental-date: 2005-06-17 03:19:20
+
+----
+
+Return-date: 2005-06-21 00:19:20
+
+----
+
+Inventory: page://Y8K7im3F0Gui7oF4
+
+----
+
+Uuid: mQI6KNjzoLsVMBIy
+
+----
+
+Customer: page://7iGZLGyiqgYlIYqZ

@@ -1,0 +1,33 @@
+Title: ENRIQUE FORSYTHE
+
+----
+
+Customer-id: 596
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ENRIQUE
+
+----
+
+Last-name: FORSYTHE
+
+----
+
+Email: ENRIQUE.FORSYTHE@sakilacustomer.org
+
+----
+
+Address: page://ZfJY6juOmb9MxWux
+
+----
+
+Active: 1
+
+----
+
+Uuid: cximYF0fTdcPdV2q

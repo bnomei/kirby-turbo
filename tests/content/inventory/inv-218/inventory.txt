@@ -1,0 +1,17 @@
+Title: Inv 218
+
+----
+
+Inventory-id: 218
+
+----
+
+Film: page://WXq95CIaw2UE281Z
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 5NgHhzBbW2lvGrsg

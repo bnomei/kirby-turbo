@@ -1,0 +1,25 @@
+Title: Rental 469
+
+----
+
+Rental-id: 469
+
+----
+
+Rental-date: 2005-05-27 21:14:26
+
+----
+
+Return-date: 2005-06-05 21:51:26
+
+----
+
+Inventory: page://Yo4TA5PAYx1dJyok
+
+----
+
+Uuid: BRHGoL4zxGN49f2A
+
+----
+
+Customer: page://cUF1fk2bBpJmuvzJ

@@ -1,0 +1,43 @@
+Title: ZOOLANDER FICTION
+
+----
+
+Actors:
+
+- 'page://6YS8rkTURbcXafoi'
+- 'page://9dZ7pytlckFxJvGe'
+- 'page://pokjngmFMjrhDsLQ'
+- 'page://isKOKKisNfJh2ta1'
+- 'page://3XS33oPl7qwaYDh3'
+
+----
+
+Film-id: 999
+
+----
+
+Description: A Fateful Reflection of a Waitress And a Boat who must Discover a Sumo Wrestler in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 101
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: xsl9RHv93yeclUCw
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

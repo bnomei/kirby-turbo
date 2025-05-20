@@ -1,0 +1,25 @@
+Title: Rental 2437
+
+----
+
+Rental-id: 2437
+
+----
+
+Rental-date: 2005-06-18 18:30:26
+
+----
+
+Return-date: 2005-06-21 18:36:26
+
+----
+
+Inventory: page://OMAE4caeWQjpxtgM
+
+----
+
+Uuid: ns5eeV64UrHErr1d
+
+----
+
+Customer: page://2QCpyeeQilmvnk6g

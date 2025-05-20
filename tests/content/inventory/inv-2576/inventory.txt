@@ -1,0 +1,17 @@
+Title: Inv 2576
+
+----
+
+Inventory-id: 2576
+
+----
+
+Film: page://R4nj5fVTb7oOSsgk
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: U73IfqGvaPISHSOW

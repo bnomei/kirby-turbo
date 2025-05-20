@@ -1,0 +1,17 @@
+Title: Inv 2306
+
+----
+
+Inventory-id: 2306
+
+----
+
+Film: page://UNE4Tp1X96yAuAd5
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 6Gcd16XPZRjks1po

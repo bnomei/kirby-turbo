@@ -1,0 +1,25 @@
+Title: Rental 7512
+
+----
+
+Rental-id: 7512
+
+----
+
+Rental-date: 2005-07-27 20:40:40
+
+----
+
+Return-date: 2005-08-05 01:44:40
+
+----
+
+Inventory: page://zOScUSA3n4y3HzfT
+
+----
+
+Customer: page://alzSQpRBPNGWEUd4
+
+----
+
+Uuid: oDlOOqJhuAzu9VOx

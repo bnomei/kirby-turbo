@@ -1,0 +1,25 @@
+Title: Rental 9406
+
+----
+
+Rental-id: 9406
+
+----
+
+Rental-date: 2005-07-30 20:24:00
+
+----
+
+Return-date: 2005-08-07 19:50:00
+
+----
+
+Inventory: page://AyIrVf8yxfMOCS3c
+
+----
+
+Customer: page://KtdUvW4BiY66VFBy
+
+----
+
+Uuid: 5nS2JjIszIGLqoUT

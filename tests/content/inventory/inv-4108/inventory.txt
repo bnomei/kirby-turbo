@@ -1,0 +1,17 @@
+Title: Inv 4108
+
+----
+
+Inventory-id: 4108
+
+----
+
+Film: page://TA76R8F61TYUcZhH
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 6f9ss08iRIAe6Mee

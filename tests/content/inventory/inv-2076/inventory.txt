@@ -1,0 +1,17 @@
+Title: Inv 2076
+
+----
+
+Inventory-id: 2076
+
+----
+
+Film: page://lyaPuzFBKAqATiG8
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Xs9WrTKvnICz8vwc

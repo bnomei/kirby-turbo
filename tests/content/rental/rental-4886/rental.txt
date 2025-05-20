@@ -1,0 +1,25 @@
+Title: Rental 4886
+
+----
+
+Rental-id: 4886
+
+----
+
+Rental-date: 2005-07-08 19:53:22
+
+----
+
+Return-date: 2005-07-09 17:05:22
+
+----
+
+Inventory: page://fge913WGgdVnabze
+
+----
+
+Uuid: 3MfAauvNZ6duPv3z
+
+----
+
+Customer: page://MfhMnukEGd8RhsqE

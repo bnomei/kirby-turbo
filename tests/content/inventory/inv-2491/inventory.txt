@@ -1,0 +1,17 @@
+Title: Inv 2491
+
+----
+
+Inventory-id: 2491
+
+----
+
+Film: page://wVJJOiHKbMUefRpc
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: QFVHal69YvhCmwRp

@@ -1,0 +1,17 @@
+Title: Inv 174
+
+----
+
+Inventory-id: 174
+
+----
+
+Film: page://edmnyIXRwbWbqYt0
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 2wzQUj9v2I3i0O6D

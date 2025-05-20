@@ -1,0 +1,25 @@
+Title: Rental 8083
+
+----
+
+Rental-id: 8083
+
+----
+
+Rental-date: 2005-07-28 18:09:48
+
+----
+
+Return-date: 2005-08-04 21:47:48
+
+----
+
+Inventory: page://ucNZUVEyqixNiCbK
+
+----
+
+Customer: page://bZxKFtO3mqYYQdiA
+
+----
+
+Uuid: tVaaZa8qaFIRoZaQ

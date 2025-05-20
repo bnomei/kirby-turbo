@@ -1,0 +1,45 @@
+Title: MAGNOLIA FORRESTER
+
+----
+
+Actors:
+
+- 'page://RW4ixiF3bbh7oXkH'
+- 'page://2VTI7EzGP0O1IYVh'
+- 'page://WmeC1S3wVV4gdFE4'
+- 'page://Sl1QfOYn2gZWMd2L'
+- 'page://r5vfuwK7SifeGhUs'
+- 'page://hzpjO6QvzfyB1LBD'
+- 'page://EIh5zoCTJV7UmSi4'
+
+----
+
+Film-id: 549
+
+----
+
+Description: A Thoughtful Documentary of a Composer And a Explorer who must Conquer a Dentist in New Orleans
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 171
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: ye42nC8g5oTVQ0ZU
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

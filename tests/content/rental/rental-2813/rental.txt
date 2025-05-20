@@ -1,0 +1,25 @@
+Title: Rental 2813
+
+----
+
+Rental-id: 2813
+
+----
+
+Rental-date: 2005-06-19 20:01:47
+
+----
+
+Return-date: 2005-06-27 01:51:47
+
+----
+
+Inventory: page://AUXd3GFu6O6NYWDD
+
+----
+
+Uuid: yTfm3FVCKssOXDuW
+
+----
+
+Customer: page://DQdRudB4hPmZIfVZ

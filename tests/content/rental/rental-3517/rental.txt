@@ -1,0 +1,25 @@
+Title: Rental 3517
+
+----
+
+Rental-id: 3517
+
+----
+
+Rental-date: 2005-07-06 00:52:35
+
+----
+
+Return-date: 2005-07-08 20:10:35
+
+----
+
+Inventory: page://dWkXg1sPSWEcMJvI
+
+----
+
+Uuid: XR9lWkX5W4wc606j
+
+----
+
+Customer: page://Ouab56J6iNBuj7fa

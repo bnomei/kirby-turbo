@@ -1,0 +1,25 @@
+Title: Rental 1994
+
+----
+
+Rental-id: 1994
+
+----
+
+Rental-date: 2005-06-17 11:07:06
+
+----
+
+Return-date: 2005-06-25 08:32:06
+
+----
+
+Inventory: page://gmniX9C6FIFwqmhW
+
+----
+
+Uuid: K8HgcgcDcQb3KjzC
+
+----
+
+Customer: page://WxMkfWnfG0RH07zl

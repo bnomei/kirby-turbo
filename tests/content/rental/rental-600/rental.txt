@@ -1,0 +1,25 @@
+Title: Rental 600
+
+----
+
+Rental-id: 600
+
+----
+
+Rental-date: 2005-05-28 14:08:19
+
+----
+
+Return-date: 2005-06-03 11:57:19
+
+----
+
+Inventory: page://qLAGe33P6yhhLdIz
+
+----
+
+Uuid: C4ZTfvZBbYfQwVtI
+
+----
+
+Customer: page://JF86ERvhL0BUaSoR

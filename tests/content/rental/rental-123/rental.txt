@@ -1,0 +1,25 @@
+Title: Rental 123
+
+----
+
+Rental-id: 123
+
+----
+
+Rental-date: 2005-05-25 20:26:42
+
+----
+
+Return-date: 2005-05-26 19:41:42
+
+----
+
+Inventory: page://MkTWt2netOHMMS72
+
+----
+
+Uuid: e9vel2nEHDsa18Oc
+
+----
+
+Customer: page://4bqmvXdivlrT2tgo

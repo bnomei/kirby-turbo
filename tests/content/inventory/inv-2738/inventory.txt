@@ -1,0 +1,17 @@
+Title: Inv 2738
+
+----
+
+Inventory-id: 2738
+
+----
+
+Film: page://7ZRPJgGw1ni3mh5Z
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: v108WCclO6Du8lqh

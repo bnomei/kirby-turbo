@@ -1,0 +1,25 @@
+Title: Rental 8560
+
+----
+
+Rental-id: 8560
+
+----
+
+Rental-date: 2005-07-29 11:27:27
+
+----
+
+Return-date: 2005-08-01 12:05:27
+
+----
+
+Inventory: page://Yj756yoDqF6xRn31
+
+----
+
+Customer: page://0fWIE3b7YqBRG1Jt
+
+----
+
+Uuid: RH8ekNdtApZTgb7P

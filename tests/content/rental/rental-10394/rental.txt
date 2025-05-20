@@ -1,0 +1,25 @@
+Title: Rental 10394
+
+----
+
+Rental-id: 10394
+
+----
+
+Rental-date: 2005-08-01 06:58:17
+
+----
+
+Return-date: 2005-08-05 02:09:17
+
+----
+
+Inventory: page://1MSheNSMZ193LNs0
+
+----
+
+Customer: page://F0Kktb9GQCAISqtj
+
+----
+
+Uuid: swbGrouS10zr6h0H

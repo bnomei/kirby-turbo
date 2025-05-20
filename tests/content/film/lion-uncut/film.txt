@@ -1,0 +1,41 @@
+Title: LION UNCUT
+
+----
+
+Actors:
+
+- 'page://xbVuFnPKikNsqVkK'
+- 'page://eJszhRe2rjIvWjny'
+- 'page://IUEdThBjLk8TNUwy'
+
+----
+
+Film-id: 524
+
+----
+
+Description: A Intrepid Display of a Pastry Chef And a Cat who must Kill a A Shark in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 50
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: U0JQRmR5aJgSHnQT
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

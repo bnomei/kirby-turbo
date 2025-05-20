@@ -1,0 +1,25 @@
+Title: Rental 1156
+
+----
+
+Rental-id: 1156
+
+----
+
+Rental-date: 2005-05-31 22:37:34
+
+----
+
+Return-date: 2005-06-01 23:02:34
+
+----
+
+Inventory: page://f1RtnLRgFd4s1eMW
+
+----
+
+Uuid: PVIZDIBkXpmzsbjI
+
+----
+
+Customer: page://eJUwVKxCunZWV9Rg

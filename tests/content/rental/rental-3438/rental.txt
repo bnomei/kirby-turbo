@@ -1,0 +1,25 @@
+Title: Rental 3438
+
+----
+
+Rental-id: 3438
+
+----
+
+Rental-date: 2005-06-21 19:31:40
+
+----
+
+Return-date: 2005-06-30 19:08:40
+
+----
+
+Inventory: page://DqPURRvITSsRBbh3
+
+----
+
+Uuid: N7V2Ra6jlXFwz6Ex
+
+----
+
+Customer: page://jvfTUTQTIh7rD2Pp

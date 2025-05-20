@@ -1,0 +1,25 @@
+Title: Rental 3214
+
+----
+
+Rental-id: 3214
+
+----
+
+Rental-date: 2005-06-21 01:08:26
+
+----
+
+Return-date: 2005-06-23 03:24:26
+
+----
+
+Inventory: page://P2JS4zZCz8BsUUoP
+
+----
+
+Uuid: bmMsItHL2NvdsBms
+
+----
+
+Customer: page://S7Bt2TM6J9ACe4bP

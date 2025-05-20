@@ -1,0 +1,25 @@
+Title: Rental 1811
+
+----
+
+Rental-id: 1811
+
+----
+
+Rental-date: 2005-06-16 21:06:20
+
+----
+
+Return-date: 2005-06-21 21:59:20
+
+----
+
+Inventory: page://NhQCNk87baksk0C8
+
+----
+
+Uuid: RJq4DDEC0HmkbEbh
+
+----
+
+Customer: page://U0fmtb7mDA7lmArJ

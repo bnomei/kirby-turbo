@@ -1,0 +1,25 @@
+Title: Rental 14508
+
+----
+
+Rental-id: 14508
+
+----
+
+Rental-date: 2005-08-21 14:33:58
+
+----
+
+Return-date: 2005-08-27 10:45:58
+
+----
+
+Inventory: page://hRwKcbAU5VPfO4Gi
+
+----
+
+Customer: page://FypwLDxElvzTV30Q
+
+----
+
+Uuid: 3PagDVfe1BuVUXTl

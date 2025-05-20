@@ -1,0 +1,25 @@
+Title: Rental 2987
+
+----
+
+Rental-id: 2987
+
+----
+
+Rental-date: 2005-06-20 08:55:50
+
+----
+
+Return-date: 2005-06-28 13:02:50
+
+----
+
+Inventory: page://CX3E6toMTs5LudBp
+
+----
+
+Uuid: e7DKVLBRvjvOnCjd
+
+----
+
+Customer: page://Gi5FRT3pzixrT86D

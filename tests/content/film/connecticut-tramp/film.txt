@@ -1,0 +1,45 @@
+Title: CONNECTICUT TRAMP
+
+----
+
+Actors:
+
+- 'page://qd0io4mUKZ4KUkyk'
+- 'page://EfT0PAFDrVUk4H1Y'
+- 'page://JR0gbBMz8ekt1gGa'
+- 'page://ovAz2jwmaTIz5ph9'
+- 'page://MG1O0zMGGcgzh2YX'
+- 'page://0h8tQJYts8gmFWwG'
+- 'page://G2CRwpBQJFawgg9Y'
+
+----
+
+Film-id: 177
+
+----
+
+Description: A Unbelieveable Drama of a Crocodile And a Mad Cow who must Reach a Dentist in A Shark Tank
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 172
+
+----
+
+Rating: R
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: VU95TWUnWuaRHDOy
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

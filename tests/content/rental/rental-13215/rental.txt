@@ -1,0 +1,25 @@
+Title: Rental 13215
+
+----
+
+Rental-id: 13215
+
+----
+
+Rental-date: 2005-08-19 15:35:38
+
+----
+
+Return-date: 2005-08-27 12:16:38
+
+----
+
+Inventory: page://gBP5gZgZS4vJyERx
+
+----
+
+Customer: page://8rYUMFeo4rjtDGSj
+
+----
+
+Uuid: lDyfWUJsfAva4rQ8

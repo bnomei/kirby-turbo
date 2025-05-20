@@ -1,0 +1,25 @@
+Title: Rental 2478
+
+----
+
+Rental-id: 2478
+
+----
+
+Rental-date: 2005-06-18 21:01:21
+
+----
+
+Return-date: 2005-06-24 00:20:21
+
+----
+
+Inventory: page://98MFQAO88zdgcuqy
+
+----
+
+Uuid: 7PkfMk97KGev7m6K
+
+----
+
+Customer: page://rmOh3yVOFYLI9fTa

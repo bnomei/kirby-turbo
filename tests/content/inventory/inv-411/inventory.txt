@@ -1,0 +1,17 @@
+Title: Inv 411
+
+----
+
+Inventory-id: 411
+
+----
+
+Film: page://JrgFunZeT85yBhXi
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: XObYajF8eh0jx5vP

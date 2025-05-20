@@ -1,0 +1,33 @@
+Title: BONNIE HUGHES
+
+----
+
+Customer-id: 88
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: BONNIE
+
+----
+
+Last-name: HUGHES
+
+----
+
+Email: BONNIE.HUGHES@sakilacustomer.org
+
+----
+
+Address: page://WIQdX8e7HrQh9fsa
+
+----
+
+Active: 1
+
+----
+
+Uuid: f1BLMiQFWjWGI1Fh

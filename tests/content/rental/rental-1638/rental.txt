@@ -1,0 +1,25 @@
+Title: Rental 1638
+
+----
+
+Rental-id: 1638
+
+----
+
+Rental-date: 2005-06-16 08:32:36
+
+----
+
+Return-date: 2005-06-18 07:11:36
+
+----
+
+Inventory: page://rozEe8C0GQc5X3J4
+
+----
+
+Uuid: nMl6jHtImaij2mbP
+
+----
+
+Customer: page://5RcmhHbYnxl64mW8

@@ -1,0 +1,17 @@
+Title: Inv 2481
+
+----
+
+Inventory-id: 2481
+
+----
+
+Film: page://ywuwgRqvz1XsB8wG
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: gFQ7KmMDa2WX9dsV

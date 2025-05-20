@@ -1,0 +1,25 @@
+Title: Rental 3143
+
+----
+
+Rental-id: 3143
+
+----
+
+Rental-date: 2005-06-20 20:01:52
+
+----
+
+Return-date: 2005-06-26 19:26:52
+
+----
+
+Inventory: page://UArJmLYdzj6QBJre
+
+----
+
+Uuid: WFzxrydBjtzL2uex
+
+----
+
+Customer: page://Waos8TO100plOpAg

@@ -1,0 +1,46 @@
+Title: DOUBLE WRATH
+
+----
+
+Actors:
+
+- 'page://I2QUzWEQkTiY7Ba5'
+- 'page://xuTGKKs3dxu4jXhx'
+- 'page://8uCKHWVFS7qGgYjl'
+- 'page://HMQFYCzd6sL7s9te'
+- 'page://GwUKN9N7u1wbNu4w'
+- 'page://lWEFCFc3fpMkkCVm'
+- 'page://T2A5mLQSqhcfEEMm'
+- 'page://dRscV8wJJ6wok0jq'
+
+----
+
+Film-id: 245
+
+----
+
+Description: A Thoughtful Yarn of a Womanizer And a Dog who must Challenge a Madman in The Gulf of Mexico
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 177
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: EgGdxolht54hoaBM
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

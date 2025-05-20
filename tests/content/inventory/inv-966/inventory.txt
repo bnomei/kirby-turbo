@@ -1,0 +1,17 @@
+Title: Inv 966
+
+----
+
+Inventory-id: 966
+
+----
+
+Film: page://YmWE87FyAY8q9lnG
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: VjXGTqygAKr7rSdy

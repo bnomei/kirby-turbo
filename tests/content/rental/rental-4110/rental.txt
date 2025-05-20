@@ -1,0 +1,25 @@
+Title: Rental 4110
+
+----
+
+Rental-id: 4110
+
+----
+
+Rental-date: 2005-07-07 06:44:27
+
+----
+
+Return-date: 2005-07-12 05:43:27
+
+----
+
+Inventory: page://fHud6f1zUVIYFfd8
+
+----
+
+Uuid: wqJLdM4CmxVXwdkP
+
+----
+
+Customer: page://JrFUnPiIScwISMV4

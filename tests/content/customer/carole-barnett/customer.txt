@@ -1,0 +1,33 @@
+Title: CAROLE BARNETT
+
+----
+
+Customer-id: 275
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: CAROLE
+
+----
+
+Last-name: BARNETT
+
+----
+
+Email: CAROLE.BARNETT@sakilacustomer.org
+
+----
+
+Address: page://vcduWggBWMxgyAVr
+
+----
+
+Active: 1
+
+----
+
+Uuid: Ux04BSv2KWensEQv

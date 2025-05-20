@@ -1,0 +1,25 @@
+Title: Rental 619
+
+----
+
+Rental-id: 619
+
+----
+
+Rental-date: 2005-05-28 15:52:26
+
+----
+
+Return-date: 2005-06-06 17:55:26
+
+----
+
+Inventory: page://PhwbQa9xICXHcerh
+
+----
+
+Uuid: AiqyBCkyldjEAVKw
+
+----
+
+Customer: page://UvN7vXxqD6JnHXLQ

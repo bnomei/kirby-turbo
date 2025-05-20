@@ -1,0 +1,17 @@
+Title: Inv 467
+
+----
+
+Inventory-id: 467
+
+----
+
+Film: page://9yDVnskpaehT7Njf
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: DdXToSLG67dwZRXD

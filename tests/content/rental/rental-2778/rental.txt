@@ -1,0 +1,25 @@
+Title: Rental 2778
+
+----
+
+Rental-id: 2778
+
+----
+
+Rental-date: 2005-06-19 18:18:12
+
+----
+
+Return-date: 2005-06-28 21:43:12
+
+----
+
+Inventory: page://EX4SZYmAhJfPiR72
+
+----
+
+Uuid: OLsn8Tg62PZLePzR
+
+----
+
+Customer: page://B6FDvvDBHRaKmtPn

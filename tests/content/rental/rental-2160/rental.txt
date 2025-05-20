@@ -1,0 +1,25 @@
+Title: Rental 2160
+
+----
+
+Rental-id: 2160
+
+----
+
+Rental-date: 2005-06-17 23:39:11
+
+----
+
+Return-date: 2005-06-22 20:04:11
+
+----
+
+Inventory: page://mtwUkOQ5kyOngj1m
+
+----
+
+Uuid: lsI2iwgcfn5r4MxD
+
+----
+
+Customer: page://B846my6UhlL6l6CA

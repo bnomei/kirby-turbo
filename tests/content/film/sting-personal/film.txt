@@ -1,0 +1,45 @@
+Title: STING PERSONAL
+
+----
+
+Actors:
+
+- 'page://V2PTX56N00hKjCOa'
+- 'page://MKZPC2AFXFjwPRw8'
+- 'page://wedufH6fwkxwowcr'
+- 'page://KWXiI33RIY2Yllal'
+- 'page://T2A5mLQSqhcfEEMm'
+- 'page://gELBLdH4G3cmVmcs'
+- 'page://o0jpPkMBKXg668DK'
+
+----
+
+Film-id: 846
+
+----
+
+Description: A Fanciful Drama of a Frisbee And a Dog who must Fight a Madman in A Jet Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 93
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: bpyP3hyHEFde02iy
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

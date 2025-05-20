@@ -1,0 +1,25 @@
+Title: Rental 8839
+
+----
+
+Rental-id: 8839
+
+----
+
+Rental-date: 2005-07-29 22:52:34
+
+----
+
+Return-date: 2005-08-05 03:24:34
+
+----
+
+Inventory: page://nFBjWSZlsuKPQWMg
+
+----
+
+Customer: page://BEkVvrNrXDjHfDO4
+
+----
+
+Uuid: cspI595vc3xJhoaH

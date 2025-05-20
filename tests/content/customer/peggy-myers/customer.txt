@@ -1,0 +1,33 @@
+Title: PEGGY MYERS
+
+----
+
+Customer-id: 101
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: PEGGY
+
+----
+
+Last-name: MYERS
+
+----
+
+Email: PEGGY.MYERS@sakilacustomer.org
+
+----
+
+Address: page://fyNLveGPZwHGVujz
+
+----
+
+Active: 1
+
+----
+
+Uuid: uLTcc5I1Ow2yuWNp

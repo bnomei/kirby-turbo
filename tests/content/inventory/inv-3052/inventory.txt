@@ -1,0 +1,17 @@
+Title: Inv 3052
+
+----
+
+Inventory-id: 3052
+
+----
+
+Film: page://sFQyTHl2l1Zx7qKA
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: g0jYNJiqzrIUKPET

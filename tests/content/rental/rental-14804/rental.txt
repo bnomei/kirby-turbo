@@ -1,0 +1,25 @@
+Title: Rental 14804
+
+----
+
+Rental-id: 14804
+
+----
+
+Rental-date: 2005-08-22 00:51:25
+
+----
+
+Return-date: 2005-08-26 21:15:25
+
+----
+
+Inventory: page://TMMKfJjPMZNKsyVx
+
+----
+
+Customer: page://pOTTT1NDQCsreRQz
+
+----
+
+Uuid: cdbdFPMG7NlyDQZK

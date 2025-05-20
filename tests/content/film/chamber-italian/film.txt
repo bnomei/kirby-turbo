@@ -1,0 +1,45 @@
+Title: CHAMBER ITALIAN
+
+----
+
+Actors:
+
+- 'page://AvkKtwk9lLurZvzW'
+- 'page://ovAz2jwmaTIz5ph9'
+- 'page://8DAvKBc0CuAdRfXU'
+- 'page://wxM7fPnQeVIlPpuJ'
+- 'page://KV54RGx9NMbLtwi4'
+- 'page://3O7lqRPKBygXUoTl'
+- 'page://pjeR3SovMBBZGi9m'
+
+----
+
+Film-id: 133
+
+----
+
+Description: A Fateful Reflection of a Moose And a Husband who must Overcome a Monkey in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 117
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: mT46wASJZ2ZHT8dB
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

@@ -1,0 +1,44 @@
+Title: KICK SAVANNAH
+
+----
+
+Actors:
+
+- 'page://Ppjj85F3dapvXsi8'
+- 'page://ZyRQLJXso6IqRkwR'
+- 'page://CI649GdI5JvIKbQ1'
+- 'page://1lkqFZByE2squnG7'
+- 'page://j4GwVyPWyXE95Bdj'
+- 'page://gLWxCWOnObb0fT65'
+
+----
+
+Film-id: 496
+
+----
+
+Description: A Emotional Drama of a Monkey And a Robot who must Defeat a Monkey in New Orleans
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 179
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: UdUYy1wSW39nsWE8
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

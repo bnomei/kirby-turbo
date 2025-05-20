@@ -1,0 +1,17 @@
+Title: Inv 654
+
+----
+
+Inventory-id: 654
+
+----
+
+Film: page://KDZLBGmL5muBYMZ5
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: pCmfEruFpUxwzTuJ

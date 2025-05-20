@@ -1,0 +1,25 @@
+Title: Rental 264
+
+----
+
+Rental-id: 264
+
+----
+
+Rental-date: 2005-05-26 16:00:49
+
+----
+
+Return-date: 2005-05-27 10:12:49
+
+----
+
+Inventory: page://BiJ9mrCevIyAeSgH
+
+----
+
+Uuid: DnP6lMEhJUjQFn2e
+
+----
+
+Customer: page://cRRGmCnzUGugZdVF

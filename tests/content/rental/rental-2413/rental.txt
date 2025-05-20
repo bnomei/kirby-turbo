@@ -1,0 +1,25 @@
+Title: Rental 2413
+
+----
+
+Rental-id: 2413
+
+----
+
+Rental-date: 2005-06-18 16:59:34
+
+----
+
+Return-date: 2005-06-27 16:10:34
+
+----
+
+Inventory: page://jB7je7oTgn4WiScx
+
+----
+
+Uuid: u0rj7KLLdjbCcNK3
+
+----
+
+Customer: page://rLSUHhRJgJCY5Nmr

@@ -1,0 +1,40 @@
+Title: HUNCHBACK IMPOSSIBLE
+
+----
+
+Actors:
+
+- 'page://twoON2iToIZq1akt'
+- 'page://ohgPd8XBH6s5Q55J'
+
+----
+
+Film-id: 439
+
+----
+
+Description: A Touching Yarn of a Frisbee And a Dentist who must Fight a Composer in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 151
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: d9QYrciSHAxHU0xI
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

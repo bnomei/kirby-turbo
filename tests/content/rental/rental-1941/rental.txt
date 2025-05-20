@@ -1,0 +1,25 @@
+Title: Rental 1941
+
+----
+
+Rental-id: 1941
+
+----
+
+Rental-date: 2005-06-17 07:42:45
+
+----
+
+Return-date: 2005-06-20 07:12:45
+
+----
+
+Inventory: page://fDw3tHATvSGtSr4N
+
+----
+
+Uuid: Xn2PGzHeem7RsLsS
+
+----
+
+Customer: page://irfr6sLBx1gfJ688

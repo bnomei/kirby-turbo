@@ -1,0 +1,46 @@
+Title: WIZARD COLDBLOODED
+
+----
+
+Actors:
+
+- 'page://NhPOWxCYnyDlMqLk'
+- 'page://EOOflmfeZlmBOGUJ'
+- 'page://CXnMd8oVYWgOtYAB'
+- 'page://y29OJNxDr3yTLShi'
+- 'page://NmIbTpy4ZSHrHfnI'
+- 'page://NlhyBSq5UemRMvfg'
+- 'page://Bfp6QX9U0O1ZLM64'
+- 'page://xfLW2h8D6Ci3k3ux'
+
+----
+
+Film-id: 980
+
+----
+
+Description: A Lacklusture Display of a Robot And a Girl who must Defeat a Sumo Wrestler in A MySQL Convention
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 75
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: EYk6slPKy8me46Pf
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

@@ -1,0 +1,25 @@
+Title: Rental 13973
+
+----
+
+Rental-id: 13973
+
+----
+
+Rental-date: 2005-08-20 18:52:43
+
+----
+
+Return-date: 2005-08-21 19:11:43
+
+----
+
+Inventory: page://4cvlwdAOca5zg3Jk
+
+----
+
+Customer: page://Q7dhYbg8UImMpiau
+
+----
+
+Uuid: c08cYM2SEnNrEvyN

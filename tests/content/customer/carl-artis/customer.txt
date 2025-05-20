@@ -1,0 +1,33 @@
+Title: CARL ARTIS
+
+----
+
+Customer-id: 345
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CARL
+
+----
+
+Last-name: ARTIS
+
+----
+
+Email: CARL.ARTIS@sakilacustomer.org
+
+----
+
+Address: page://R1TIU18IPNbpZqPy
+
+----
+
+Active: 1
+
+----
+
+Uuid: hSOBI3AqQMwJph8C

@@ -1,0 +1,25 @@
+Title: Rental 14913
+
+----
+
+Rental-id: 14913
+
+----
+
+Rental-date: 2005-08-22 04:52:13
+
+----
+
+Return-date: 2005-08-23 06:49:13
+
+----
+
+Inventory: page://Yyt3EZUqe6iJ0FQO
+
+----
+
+Customer: page://6OY6sKjbR1uPXwOW
+
+----
+
+Uuid: Y0BGgE97aBWqOWF0

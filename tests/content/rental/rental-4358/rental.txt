@@ -1,0 +1,25 @@
+Title: Rental 4358
+
+----
+
+Rental-id: 4358
+
+----
+
+Rental-date: 2005-07-07 19:27:04
+
+----
+
+Return-date: 2005-07-14 23:46:04
+
+----
+
+Inventory: page://fOTu9p67K3IRcehO
+
+----
+
+Uuid: QukKA3okSPDtpiX9
+
+----
+
+Customer: page://LxYXYVT8Su7lX0Xb

@@ -1,0 +1,17 @@
+Title: Inv 1420
+
+----
+
+Inventory-id: 1420
+
+----
+
+Film: page://HVileugisimUJPvj
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: zCoFjIK4V7Pd7Xr9

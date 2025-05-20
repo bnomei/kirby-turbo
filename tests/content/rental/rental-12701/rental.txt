@@ -1,0 +1,25 @@
+Title: Rental 12701
+
+----
+
+Rental-id: 12701
+
+----
+
+Rental-date: 2005-08-18 20:26:47
+
+----
+
+Return-date: 2005-08-26 23:36:47
+
+----
+
+Inventory: page://vuNmeLuMS4TAKxLC
+
+----
+
+Customer: page://Wo2cU6s6b3fySp3g
+
+----
+
+Uuid: pF24bKhDnFtM1LZc

@@ -1,0 +1,25 @@
+Title: Rental 1887
+
+----
+
+Rental-id: 1887
+
+----
+
+Rental-date: 2005-06-17 03:53:18
+
+----
+
+Return-date: 2005-06-25 07:37:18
+
+----
+
+Inventory: page://OUi0Sbsl3cQq9CaL
+
+----
+
+Uuid: gqX7Vhwn7iqyYFUG
+
+----
+
+Customer: page://B846my6UhlL6l6CA

@@ -1,0 +1,25 @@
+Title: Rental 660
+
+----
+
+Rental-id: 660
+
+----
+
+Rental-date: 2005-05-28 20:53:31
+
+----
+
+Return-date: 2005-05-30 15:26:31
+
+----
+
+Inventory: page://XAyqSXBAqcIy5OXQ
+
+----
+
+Uuid: 79pduilVVIffXf7I
+
+----
+
+Customer: page://cVyeNQ8g1rAU35Mi

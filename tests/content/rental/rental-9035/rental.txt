@@ -1,0 +1,25 @@
+Title: Rental 9035
+
+----
+
+Rental-id: 9035
+
+----
+
+Rental-date: 2005-07-30 06:16:07
+
+----
+
+Return-date: 2005-08-06 09:22:07
+
+----
+
+Inventory: page://HlEGqTyT2rdntMiL
+
+----
+
+Customer: page://ljcTXDJkVE3hnapx
+
+----
+
+Uuid: hdWYPTAUrzBA35K9

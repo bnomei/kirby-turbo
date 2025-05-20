@@ -1,0 +1,25 @@
+Title: Rental 907
+
+----
+
+Rental-id: 907
+
+----
+
+Rental-date: 2005-05-30 10:37:27
+
+----
+
+Return-date: 2005-06-02 09:51:27
+
+----
+
+Inventory: page://tZtubjPIFTwVDCzp
+
+----
+
+Uuid: Oyn38Kq4oELFXlkN
+
+----
+
+Customer: page://R8IxBa5hez4twrqS

@@ -1,0 +1,17 @@
+Title: Inv 1728
+
+----
+
+Inventory-id: 1728
+
+----
+
+Film: page://aIzeDPhb5b1oNOHo
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: PPdtcbHXziswHMfm

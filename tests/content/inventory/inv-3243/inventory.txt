@@ -1,0 +1,17 @@
+Title: Inv 3243
+
+----
+
+Inventory-id: 3243
+
+----
+
+Film: page://FhYniv8kx1pUHlNs
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 30Y3VqNyddGXro1k

@@ -1,0 +1,33 @@
+Title: PEARL GARZA
+
+----
+
+Customer-id: 224
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: PEARL
+
+----
+
+Last-name: GARZA
+
+----
+
+Email: PEARL.GARZA@sakilacustomer.org
+
+----
+
+Address: page://EoLE6lfUtQ81u3Q2
+
+----
+
+Active: 1
+
+----
+
+Uuid: 80F1v8ydAhQRg8pT

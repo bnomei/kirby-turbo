@@ -1,0 +1,25 @@
+Title: Rental 7612
+
+----
+
+Rental-id: 7612
+
+----
+
+Rental-date: 2005-07-28 00:11:55
+
+----
+
+Return-date: 2005-07-30 00:47:55
+
+----
+
+Inventory: page://l9VSy68dJNmQVWO8
+
+----
+
+Customer: page://dxsn5YIdpOZbxgA0
+
+----
+
+Uuid: WmkClmQhNJiDDRS0

@@ -1,0 +1,25 @@
+Title: Rental 4831
+
+----
+
+Rental-id: 4831
+
+----
+
+Rental-date: 2005-07-08 18:00:14
+
+----
+
+Return-date: 2005-07-12 15:54:14
+
+----
+
+Inventory: page://XbSONoiKXyGdAijC
+
+----
+
+Uuid: BDiOb8xTcFaMtAbR
+
+----
+
+Customer: page://ljcTXDJkVE3hnapx

@@ -1,0 +1,25 @@
+Title: Rental 9947
+
+----
+
+Rental-id: 9947
+
+----
+
+Rental-date: 2005-07-31 15:49:40
+
+----
+
+Return-date: 2005-08-08 11:11:40
+
+----
+
+Inventory: page://4LGJ52dWcKZUyUhW
+
+----
+
+Customer: page://d4Qzzmipb5Xdc54C
+
+----
+
+Uuid: 3DkhIxSgZdidSNT6

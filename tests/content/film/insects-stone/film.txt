@@ -1,0 +1,42 @@
+Title: INSECTS STONE
+
+----
+
+Actors:
+
+- 'page://lRnQ2IFMyS6K2hRd'
+- 'page://qiUMbGq5mbDqGQZm'
+- 'page://CBtLT02Rklp5i11L'
+- 'page://zrJrW5pbY6A6t722'
+
+----
+
+Film-id: 461
+
+----
+
+Description: A Epic Display of a Butler And a Dog who must Vanquish a Crocodile in A Manhattan Penthouse
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 123
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: Rn5g2YUTKyFz0znU
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

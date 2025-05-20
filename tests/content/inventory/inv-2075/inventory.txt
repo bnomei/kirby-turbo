@@ -1,0 +1,17 @@
+Title: Inv 2075
+
+----
+
+Inventory-id: 2075
+
+----
+
+Film: page://lyaPuzFBKAqATiG8
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Q14D2Pb9lOIuTkel

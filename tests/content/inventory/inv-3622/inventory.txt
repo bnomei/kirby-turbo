@@ -1,0 +1,17 @@
+Title: Inv 3622
+
+----
+
+Inventory-id: 3622
+
+----
+
+Film: page://8fqUuJnM1g7cWwBp
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: BMVz2StG6MwzptZ0

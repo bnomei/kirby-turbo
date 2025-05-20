@@ -1,0 +1,47 @@
+Title: BORN SPINAL
+
+----
+
+Actors:
+
+- 'page://rWwSmn6uTovtpXae'
+- 'page://xjeqCa9sjC8UxwnG'
+- 'page://JeeyeDJ3FmxSMbIy'
+- 'page://8v9dhLSIQd0NpUQl'
+- 'page://Bfp6QX9U0O1ZLM64'
+- 'page://sDEWocF2a3nQjJMo'
+- 'page://r6UF6pUyhmwAPzIH'
+- 'page://1JHTierDMQdVCXSe'
+- 'page://QybR1sXOQQQZIPXG'
+
+----
+
+Film-id: 88
+
+----
+
+Description: A Touching Epistle of a Frisbee And a Husband who must Pursue a Student in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 179
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: I4KHi6rWSbJHuKLj
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

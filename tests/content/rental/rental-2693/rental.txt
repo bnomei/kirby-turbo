@@ -1,0 +1,25 @@
+Title: Rental 2693
+
+----
+
+Rental-id: 2693
+
+----
+
+Rental-date: 2005-06-19 13:11:47
+
+----
+
+Return-date: 2005-06-27 11:17:47
+
+----
+
+Inventory: page://ZiU9NtJCYjE25xqp
+
+----
+
+Uuid: 2dz2GsjHAD6crKtb
+
+----
+
+Customer: page://daiDyhYRb8z7fkl0

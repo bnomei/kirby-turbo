@@ -1,0 +1,33 @@
+Title: JEAN BELL
+
+----
+
+Customer-id: 58
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JEAN
+
+----
+
+Last-name: BELL
+
+----
+
+Email: JEAN.BELL@sakilacustomer.org
+
+----
+
+Address: page://iTaq3cmlQhSjpmVt
+
+----
+
+Active: 1
+
+----
+
+Uuid: Q7dhYbg8UImMpiau

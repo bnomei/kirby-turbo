@@ -1,0 +1,25 @@
+Title: Rental 7753
+
+----
+
+Rental-id: 7753
+
+----
+
+Rental-date: 2005-07-28 06:09:19
+
+----
+
+Return-date: 2005-08-06 06:17:19
+
+----
+
+Inventory: page://04X0rbt53K4CL3Xi
+
+----
+
+Customer: page://08U0IJiadz0U6o7j
+
+----
+
+Uuid: f1soQRGLCpfchpaN

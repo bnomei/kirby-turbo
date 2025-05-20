@@ -1,0 +1,25 @@
+Title: Rental 7343
+
+----
+
+Rental-id: 7343
+
+----
+
+Rental-date: 2005-07-27 14:27:13
+
+----
+
+Return-date: 2005-07-30 09:27:13
+
+----
+
+Inventory: page://11rqD30FjGntoWmd
+
+----
+
+Customer: page://yQcQ1eHjHG2TC2t0
+
+----
+
+Uuid: 7K2NatTmF1sa67Ns

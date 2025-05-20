@@ -1,0 +1,40 @@
+Title: LOCK REAR
+
+----
+
+Actors:
+
+- 'page://xfLW2h8D6Ci3k3ux'
+- 'page://yg3e89enY7SGtRB6'
+
+----
+
+Film-id: 526
+
+----
+
+Description: A Thoughtful Character Study of a Squirrel And a Technical Writer who must Outrace a Student in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 120
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: x5HL2MOSU2AnxXms
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

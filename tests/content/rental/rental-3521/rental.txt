@@ -1,0 +1,25 @@
+Title: Rental 3521
+
+----
+
+Rental-id: 3521
+
+----
+
+Rental-date: 2005-07-06 01:00:11
+
+----
+
+Return-date: 2005-07-11 19:15:11
+
+----
+
+Inventory: page://RXTzDFlVm5qlJMS4
+
+----
+
+Uuid: BsV1Il3VQVv3li4j
+
+----
+
+Customer: page://eLvYHcB0z8NgTgF8

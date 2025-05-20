@@ -1,0 +1,25 @@
+Title: Rental 4901
+
+----
+
+Rental-id: 4901
+
+----
+
+Rental-date: 2005-07-08 20:44:51
+
+----
+
+Return-date: 2005-07-10 01:04:51
+
+----
+
+Inventory: page://ucNZUVEyqixNiCbK
+
+----
+
+Uuid: uAcJfjpp2EgB64pY
+
+----
+
+Customer: page://Avue2EhXksh2zAWH

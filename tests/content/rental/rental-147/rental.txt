@@ -1,0 +1,25 @@
+Title: Rental 147
+
+----
+
+Rental-id: 147
+
+----
+
+Rental-date: 2005-05-26 00:17:50
+
+----
+
+Return-date: 2005-05-29 23:21:50
+
+----
+
+Inventory: page://NW4RQjPds1ieaCi9
+
+----
+
+Uuid: BjBNzU8bd905lSRU
+
+----
+
+Customer: page://9bJXvFRudHnbyDta

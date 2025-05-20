@@ -1,0 +1,25 @@
+Title: Rental 8822
+
+----
+
+Rental-id: 8822
+
+----
+
+Rental-date: 2005-07-29 22:20:21
+
+----
+
+Return-date: 2005-08-06 03:00:21
+
+----
+
+Inventory: page://ClWvW3T0C3geRt6d
+
+----
+
+Customer: page://G5MahFW7vTJhSf6a
+
+----
+
+Uuid: E41TB7PuSTicoPD2

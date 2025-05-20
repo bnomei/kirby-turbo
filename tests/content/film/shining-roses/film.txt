@@ -1,0 +1,42 @@
+Title: SHINING ROSES
+
+----
+
+Actors:
+
+- 'page://EHffowmlWDEyJ7Ij'
+- 'page://Xu2nMG4ojUoJI7CN'
+- 'page://c9RVWbTiHNxSUsUJ'
+- 'page://HBk8OpEyVf68VCvH'
+
+----
+
+Film-id: 787
+
+----
+
+Description: A Awe-Inspiring Character Study of a Astronaut And a Forensic Psychologist who must Challenge a Madman in Ancient India
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 125
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: Tq8Lml2BrDEFFog2
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

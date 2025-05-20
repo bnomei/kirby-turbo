@@ -1,0 +1,25 @@
+Title: Rental 2918
+
+----
+
+Rental-id: 2918
+
+----
+
+Rental-date: 2005-06-20 04:09:04
+
+----
+
+Return-date: 2005-06-21 10:07:04
+
+----
+
+Inventory: page://SUjc2evoujn0ODsC
+
+----
+
+Uuid: X6ARL0GHWXzjRx7w
+
+----
+
+Customer: page://Waos8TO100plOpAg

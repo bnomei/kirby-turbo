@@ -1,0 +1,17 @@
+Title: Juazeiro do Norte
+
+----
+
+City-id: 247
+
+----
+
+City: Juazeiro do Norte
+
+----
+
+Country: page://jIqa2ZvYow6Egqhx
+
+----
+
+Uuid: bAgdi6ha5kJY6pgU

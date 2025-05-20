@@ -1,0 +1,21 @@
+Title: Rental 15458
+
+----
+
+Rental-id: 15458
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://PPmqhviIta1KVCc6
+
+----
+
+Customer: page://wxusBiuOww6HZZuQ
+
+----
+
+Uuid: we0u5a2500uX8TCQ

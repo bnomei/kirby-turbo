@@ -1,0 +1,17 @@
+Title: Inv 4488
+
+----
+
+Inventory-id: 4488
+
+----
+
+Film: page://EYk6slPKy8me46Pf
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 2QfdGt6528PoGSEu

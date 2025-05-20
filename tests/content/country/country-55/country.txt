@@ -1,0 +1,13 @@
+Title: Liechtenstein
+
+----
+
+Country-id: 55
+
+----
+
+Country: Liechtenstein
+
+----
+
+Uuid: QbrgtLWOrIAbl9V0

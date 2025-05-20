@@ -1,0 +1,17 @@
+Title: Inv 3776
+
+----
+
+Inventory-id: 3776
+
+----
+
+Film: page://XkYdTumKc3zQL718
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: gebohdxyinOTC9EY

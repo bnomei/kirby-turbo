@@ -1,0 +1,25 @@
+Title: Rental 5090
+
+----
+
+Rental-id: 5090
+
+----
+
+Rental-date: 2005-07-09 05:48:22
+
+----
+
+Return-date: 2005-07-11 06:50:22
+
+----
+
+Inventory: page://PPdtcbHXziswHMfm
+
+----
+
+Uuid: Losyq6m7jxvSfp7m
+
+----
+
+Customer: page://UxrVUUMWkjZpGsKW

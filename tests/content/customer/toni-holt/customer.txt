@@ -1,0 +1,33 @@
+Title: TONI HOLT
+
+----
+
+Customer-id: 291
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: TONI
+
+----
+
+Last-name: HOLT
+
+----
+
+Email: TONI.HOLT@sakilacustomer.org
+
+----
+
+Address: page://MR3lb8r6OKhY2tg2
+
+----
+
+Active: 1
+
+----
+
+Uuid: nUS9IDqP0XmLpG9F

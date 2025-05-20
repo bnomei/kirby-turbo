@@ -1,0 +1,25 @@
+Title: Rental 7792
+
+----
+
+Rental-id: 7792
+
+----
+
+Rental-date: 2005-07-28 07:24:02
+
+----
+
+Return-date: 2005-08-04 11:13:02
+
+----
+
+Inventory: page://BLWj6RO15uZiETEK
+
+----
+
+Customer: page://HQxscLHxuDjEVXyk
+
+----
+
+Uuid: AzBjqDkRcfEHJhk8

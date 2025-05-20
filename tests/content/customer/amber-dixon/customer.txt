@@ -1,0 +1,33 @@
+Title: AMBER DIXON
+
+----
+
+Customer-id: 139
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: AMBER
+
+----
+
+Last-name: DIXON
+
+----
+
+Email: AMBER.DIXON@sakilacustomer.org
+
+----
+
+Address: page://jSD4QyQXeHvVmczy
+
+----
+
+Active: 1
+
+----
+
+Uuid: IASgNEvWFJebynwM

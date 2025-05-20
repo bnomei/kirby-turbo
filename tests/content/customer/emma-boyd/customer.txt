@@ -1,0 +1,33 @@
+Title: EMMA BOYD
+
+----
+
+Customer-id: 134
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: EMMA
+
+----
+
+Last-name: BOYD
+
+----
+
+Email: EMMA.BOYD@sakilacustomer.org
+
+----
+
+Address: page://0dAsZNGKb5ERzZHH
+
+----
+
+Active: 1
+
+----
+
+Uuid: zeAqUQXxiV8V74u5

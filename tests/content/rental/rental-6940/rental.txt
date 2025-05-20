@@ -1,0 +1,25 @@
+Title: Rental 6940
+
+----
+
+Rental-id: 6940
+
+----
+
+Rental-date: 2005-07-26 23:18:35
+
+----
+
+Return-date: 2005-08-05 01:44:35
+
+----
+
+Inventory: page://gacjsbNeSt1m30fK
+
+----
+
+Customer: page://hKFzOIjEbiQlZ9Km
+
+----
+
+Uuid: uZ6TW1U717vLL1ea

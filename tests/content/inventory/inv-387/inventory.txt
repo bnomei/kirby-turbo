@@ -1,0 +1,17 @@
+Title: Inv 387
+
+----
+
+Inventory-id: 387
+
+----
+
+Film: page://wEJb7GxHt8TVKLil
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 82g4gbEfT6SXi3PH

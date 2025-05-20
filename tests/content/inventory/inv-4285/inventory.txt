@@ -1,0 +1,17 @@
+Title: Inv 4285
+
+----
+
+Inventory-id: 4285
+
+----
+
+Film: page://XLpffK1Bpo0GE1jm
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 7ywPpIBiAy0rlCCN

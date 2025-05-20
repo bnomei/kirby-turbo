@@ -1,0 +1,41 @@
+Title: IMPACT ALADDIN
+
+----
+
+Actors:
+
+- 'page://q71V781JfgIPJGVL'
+- 'page://wxM7fPnQeVIlPpuJ'
+- 'page://ltHX2Lf4QT72ZiqX'
+
+----
+
+Film-id: 454
+
+----
+
+Description: A Epic Character Study of a Frisbee And a Moose who must Outgun a Technical Writer in A Shark Tank
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 180
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: tq3Q0JmEdXrpLqyY
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

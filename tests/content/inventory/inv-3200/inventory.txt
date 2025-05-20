@@ -1,0 +1,17 @@
+Title: Inv 3200
+
+----
+
+Inventory-id: 3200
+
+----
+
+Film: page://P4DSJ06AP2DRsgeV
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: W9PQlInHaelWCkUZ

@@ -1,0 +1,25 @@
+Title: Rental 4440
+
+----
+
+Rental-id: 4440
+
+----
+
+Rental-date: 2005-07-07 23:00:58
+
+----
+
+Return-date: 2005-07-08 21:31:58
+
+----
+
+Inventory: page://zqHHMoSluIWnrYQO
+
+----
+
+Uuid: GK2s0xAkE67vB9e1
+
+----
+
+Customer: page://Avue2EhXksh2zAWH

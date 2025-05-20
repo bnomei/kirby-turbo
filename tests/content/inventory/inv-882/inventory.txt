@@ -1,0 +1,17 @@
+Title: Inv 882
+
+----
+
+Inventory-id: 882
+
+----
+
+Film: page://KQG6ZFPaIhZFyXjn
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: BUTBR9VpaQqZSkE5

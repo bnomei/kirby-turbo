@@ -1,0 +1,17 @@
+Title: Inv 2050
+
+----
+
+Inventory-id: 2050
+
+----
+
+Film: page://tjXXFfYfgCZfA1am
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: vqYj5SQYnffR9jyG

@@ -1,0 +1,25 @@
+Title: Rental 10391
+
+----
+
+Rental-id: 10391
+
+----
+
+Rental-date: 2005-08-01 06:49:05
+
+----
+
+Return-date: 2005-08-04 01:51:05
+
+----
+
+Inventory: page://gmniX9C6FIFwqmhW
+
+----
+
+Customer: page://CTF6K45F9gpJS5GA
+
+----
+
+Uuid: 7L7EReyq3gZUzmrp

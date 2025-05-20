@@ -1,0 +1,25 @@
+Title: Rental 10973
+
+----
+
+Rental-id: 10973
+
+----
+
+Rental-date: 2005-08-02 04:09:42
+
+----
+
+Return-date: 2005-08-08 05:24:42
+
+----
+
+Inventory: page://j9XWROPpLZZnvPoz
+
+----
+
+Customer: page://JwCLM6Oie6KS9Hma
+
+----
+
+Uuid: NHKsOpg3t1As01GR

@@ -1,0 +1,17 @@
+Title: Inv 3219
+
+----
+
+Inventory-id: 3219
+
+----
+
+Film: page://i6nK30OBgHya9YTK
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: C66xdwjRGNGPlySe

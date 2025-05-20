@@ -1,0 +1,25 @@
+Title: Rental 3411
+
+----
+
+Rental-id: 3411
+
+----
+
+Rental-date: 2005-06-21 16:31:27
+
+----
+
+Return-date: 2005-06-28 12:27:27
+
+----
+
+Inventory: page://7CJNFmyBJRTIMFoo
+
+----
+
+Uuid: xIY0Yqsh4BuP1bQN
+
+----
+
+Customer: page://CGZMdA6lJNzUzePV

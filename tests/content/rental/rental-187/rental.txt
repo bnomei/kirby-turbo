@@ -1,0 +1,25 @@
+Title: Rental 187
+
+----
+
+Rental-id: 187
+
+----
+
+Rental-date: 2005-05-26 05:42:37
+
+----
+
+Return-date: 2005-06-04 00:38:37
+
+----
+
+Inventory: page://mQuFV5mDiffeirLX
+
+----
+
+Uuid: IwTr0uexemIkFLUA
+
+----
+
+Customer: page://JRYbP7gqVkCUmiP0

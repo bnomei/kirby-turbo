@@ -1,0 +1,25 @@
+Title: Rental 69
+
+----
+
+Rental-id: 69
+
+----
+
+Rental-date: 2005-05-25 10:10:14
+
+----
+
+Return-date: 2005-05-27 14:02:14
+
+----
+
+Inventory: page://JFDF5SDZA88eeP8x
+
+----
+
+Uuid: WHDIabPUkm7yBOFQ
+
+----
+
+Customer: page://7iGZLGyiqgYlIYqZ

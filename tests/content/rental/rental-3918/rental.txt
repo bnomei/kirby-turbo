@@ -1,0 +1,25 @@
+Title: Rental 3918
+
+----
+
+Rental-id: 3918
+
+----
+
+Rental-date: 2005-07-06 20:26:15
+
+----
+
+Return-date: 2005-07-15 20:32:15
+
+----
+
+Inventory: page://V7esrB2bgglu1md0
+
+----
+
+Uuid: XirxvmRLw9e4Owbl
+
+----
+
+Customer: page://tKN7Oy29ebd7wIX1

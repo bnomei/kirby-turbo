@@ -1,0 +1,17 @@
+Title: Inv 3780
+
+----
+
+Inventory-id: 3780
+
+----
+
+Film: page://XkYdTumKc3zQL718
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 2pZbH24PESmaDtqu

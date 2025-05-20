@@ -1,0 +1,25 @@
+Title: Rental 9090
+
+----
+
+Rental-id: 9090
+
+----
+
+Rental-date: 2005-07-30 08:24:42
+
+----
+
+Return-date: 2005-08-08 06:17:42
+
+----
+
+Inventory: page://8ohMwD16mCBKGTta
+
+----
+
+Customer: page://BnkjNKRbR7N7yyga
+
+----
+
+Uuid: L1tHY9IFBJGn6Ir7

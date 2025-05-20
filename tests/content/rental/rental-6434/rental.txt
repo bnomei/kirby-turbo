@@ -1,0 +1,25 @@
+Title: Rental 6434
+
+----
+
+Rental-id: 6434
+
+----
+
+Rental-date: 2005-07-12 00:14:25
+
+----
+
+Return-date: 2005-07-20 19:54:25
+
+----
+
+Inventory: page://hxjBAO6bJ8FiBetJ
+
+----
+
+Uuid: hvjnc7taYJAI7213
+
+----
+
+Customer: page://2XFuHwmZmBm0kuQs

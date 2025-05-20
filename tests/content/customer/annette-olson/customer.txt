@@ -1,0 +1,33 @@
+Title: ANNETTE OLSON
+
+----
+
+Customer-id: 175
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ANNETTE
+
+----
+
+Last-name: OLSON
+
+----
+
+Email: ANNETTE.OLSON@sakilacustomer.org
+
+----
+
+Address: page://KdLQxGlqK8Z6Brx9
+
+----
+
+Active: 1
+
+----
+
+Uuid: pxFnJpraXIkoHiiZ

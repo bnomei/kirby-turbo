@@ -1,0 +1,25 @@
+Title: Rental 5031
+
+----
+
+Rental-id: 5031
+
+----
+
+Rental-date: 2005-07-09 02:36:37
+
+----
+
+Return-date: 2005-07-14 03:09:37
+
+----
+
+Inventory: page://qIQF2cIoe8OZb14X
+
+----
+
+Uuid: leiVXcG75nuoHAlr
+
+----
+
+Customer: page://ppv8UwyuW8pv2cNH

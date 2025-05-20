@@ -1,0 +1,25 @@
+Title: Rental 1116
+
+----
+
+Rental-id: 1116
+
+----
+
+Rental-date: 2005-05-31 16:10:46
+
+----
+
+Return-date: 2005-06-01 20:27:46
+
+----
+
+Inventory: page://pbY3ddRLvdcXjGBS
+
+----
+
+Uuid: 8v1mr2LTAHfBClIj
+
+----
+
+Customer: page://Nq991akaEgNmdCHy

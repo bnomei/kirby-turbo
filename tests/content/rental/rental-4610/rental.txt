@@ -1,0 +1,25 @@
+Title: Rental 4610
+
+----
+
+Rental-id: 4610
+
+----
+
+Rental-date: 2005-07-08 07:28:05
+
+----
+
+Return-date: 2005-07-14 02:10:05
+
+----
+
+Inventory: page://f4imjh8TzkxO1YIW
+
+----
+
+Uuid: 3VFKMzIIYc8Fcg9D
+
+----
+
+Customer: page://EuCelU8WBhgPVGZL

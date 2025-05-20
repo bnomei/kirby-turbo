@@ -1,0 +1,17 @@
+Title: Inv 1920
+
+----
+
+Inventory-id: 1920
+
+----
+
+Film: page://AUYUSAlHslxGZN9K
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: EsAAxcNXXPph0sd5

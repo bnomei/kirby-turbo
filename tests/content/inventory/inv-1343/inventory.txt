@@ -1,0 +1,17 @@
+Title: Inv 1343
+
+----
+
+Inventory-id: 1343
+
+----
+
+Film: page://xop717uobQ0PNzJg
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: zOScUSA3n4y3HzfT

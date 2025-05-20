@@ -1,0 +1,17 @@
+Title: Inv 3920
+
+----
+
+Inventory-id: 3920
+
+----
+
+Film: page://ub96YyrefbgE7aUK
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 0IF9ZWSk32wgdP9d

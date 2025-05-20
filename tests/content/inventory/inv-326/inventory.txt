@@ -1,0 +1,17 @@
+Title: Inv 326
+
+----
+
+Inventory-id: 326
+
+----
+
+Film: page://kNARjUjZk6WzGgpN
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: bTlMhRB9YU3Eyz5G

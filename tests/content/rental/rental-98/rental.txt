@@ -1,0 +1,25 @@
+Title: Rental 98
+
+----
+
+Rental-id: 98
+
+----
+
+Rental-date: 2005-05-25 16:48:24
+
+----
+
+Return-date: 2005-05-27 11:29:24
+
+----
+
+Inventory: page://qIFobm2O3jZXdPBU
+
+----
+
+Uuid: HuMeW9iAStyoy9yP
+
+----
+
+Customer: page://Cko87GK3ShDjUK4Q

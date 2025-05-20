@@ -1,0 +1,25 @@
+Title: Rental 6324
+
+----
+
+Rental-id: 6324
+
+----
+
+Rental-date: 2005-07-11 19:02:34
+
+----
+
+Return-date: 2005-07-17 15:57:34
+
+----
+
+Inventory: page://d5tBkNWUdDtN6w2n
+
+----
+
+Uuid: sXaxXFpnCqgOgGHF
+
+----
+
+Customer: page://EHSB9jDLk6k6ip5D

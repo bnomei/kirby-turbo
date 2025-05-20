@@ -1,0 +1,45 @@
+Title: DRAGON SQUAD
+
+----
+
+Actors:
+
+- 'page://NmIbTpy4ZSHrHfnI'
+- 'page://RaBnN0JojPRLBj7c'
+- 'page://f3T5R3qlMgXii7Oj'
+- 'page://KWXiI33RIY2Yllal'
+- 'page://DJVklNozM1l2RK0x'
+- 'page://C462ZyZJYhtiRgJM'
+- 'page://NRH2DcjJcFwzgjEd'
+
+----
+
+Film-id: 250
+
+----
+
+Description: A Taut Reflection of a Boy And a Waitress who must Outgun a Teacher in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 170
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: utq4X55mtCg9gU77
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

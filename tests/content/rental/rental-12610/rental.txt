@@ -1,0 +1,21 @@
+Title: Rental 12610
+
+----
+
+Rental-id: 12610
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://1mHp95MJlIMaFNU1
+
+----
+
+Customer: page://Cko87GK3ShDjUK4Q
+
+----
+
+Uuid: zCmRZaE0T7quFZJ3

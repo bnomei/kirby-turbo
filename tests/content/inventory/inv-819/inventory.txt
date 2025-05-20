@@ -1,0 +1,17 @@
+Title: Inv 819
+
+----
+
+Inventory-id: 819
+
+----
+
+Film: page://oDl4KWwIRECh8CaC
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: x8fAnSHCIFerbOip

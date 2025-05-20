@@ -1,0 +1,25 @@
+Title: Rental 7009
+
+----
+
+Rental-id: 7009
+
+----
+
+Rental-date: 2005-07-27 01:45:44
+
+----
+
+Return-date: 2005-07-28 05:50:44
+
+----
+
+Inventory: page://v7WEez3sHiHsA5xv
+
+----
+
+Customer: page://0ErgJ6kLkZUKKYCI
+
+----
+
+Uuid: v7KBwpqX1WyV2Izb

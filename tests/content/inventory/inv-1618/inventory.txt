@@ -1,0 +1,17 @@
+Title: Inv 1618
+
+----
+
+Inventory-id: 1618
+
+----
+
+Film: page://ytugxH0cLSUbdLx9
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ZatFj1SnIhEm5Qws

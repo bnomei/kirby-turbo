@@ -1,0 +1,25 @@
+Title: Rental 12326
+
+----
+
+Rental-id: 12326
+
+----
+
+Rental-date: 2005-08-18 06:41:59
+
+----
+
+Return-date: 2005-08-19 10:16:59
+
+----
+
+Inventory: page://rFWUtoq6NnhwnbIf
+
+----
+
+Customer: page://tmz3xyyMIWwOAlZu
+
+----
+
+Uuid: FSJGm5lHcKM71RK7

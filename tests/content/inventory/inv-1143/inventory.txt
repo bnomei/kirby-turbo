@@ -1,0 +1,17 @@
+Title: Inv 1143
+
+----
+
+Inventory-id: 1143
+
+----
+
+Film: page://fyFmOAIfACaURa4D
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: aHd1GJggkPg0aUI8

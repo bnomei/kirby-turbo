@@ -1,0 +1,17 @@
+Title: Inv 1912
+
+----
+
+Inventory-id: 1912
+
+----
+
+Film: page://wfXmwV94pZGldMnr
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: MAljLulo1PVqFF1U

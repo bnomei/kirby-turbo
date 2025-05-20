@@ -1,0 +1,25 @@
+Title: Rental 5506
+
+----
+
+Rental-id: 5506
+
+----
+
+Rental-date: 2005-07-10 00:45:48
+
+----
+
+Return-date: 2005-07-18 20:35:48
+
+----
+
+Inventory: page://17CGqG9moJFrC9Nf
+
+----
+
+Uuid: 4CyYRhKk9At8GeJc
+
+----
+
+Customer: page://yTAX5pfgcdJzZ9ZS

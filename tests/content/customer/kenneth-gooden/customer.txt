@@ -1,0 +1,33 @@
+Title: KENNETH GOODEN
+
+----
+
+Customer-id: 315
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: KENNETH
+
+----
+
+Last-name: GOODEN
+
+----
+
+Email: KENNETH.GOODEN@sakilacustomer.org
+
+----
+
+Address: page://LHbNfbDsAoHsyO4Q
+
+----
+
+Active: 0
+
+----
+
+Uuid: DJ9aTh2f2iT5jahF

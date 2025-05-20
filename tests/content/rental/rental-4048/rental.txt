@@ -1,0 +1,25 @@
+Title: Rental 4048
+
+----
+
+Rental-id: 4048
+
+----
+
+Rental-date: 2005-07-07 03:30:52
+
+----
+
+Return-date: 2005-07-14 05:05:52
+
+----
+
+Inventory: page://3tFlXDkYB9LIywKy
+
+----
+
+Uuid: 16TKWWxlisAVDiN6
+
+----
+
+Customer: page://MfhMnukEGd8RhsqE

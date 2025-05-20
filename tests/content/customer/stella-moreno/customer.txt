@@ -1,0 +1,33 @@
+Title: STELLA MORENO
+
+----
+
+Customer-id: 247
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: STELLA
+
+----
+
+Last-name: MORENO
+
+----
+
+Email: STELLA.MORENO@sakilacustomer.org
+
+----
+
+Address: page://CdxfujWuypS9S8T0
+
+----
+
+Active: 1
+
+----
+
+Uuid: Z0SLCRZPQYYmETgw

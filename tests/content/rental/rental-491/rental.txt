@@ -1,0 +1,25 @@
+Title: Rental 491
+
+----
+
+Rental-id: 491
+
+----
+
+Rental-date: 2005-05-28 00:13:35
+
+----
+
+Return-date: 2005-05-29 00:11:35
+
+----
+
+Inventory: page://NoMI7F73MBjylSEw
+
+----
+
+Uuid: wCTBXPDLtiamPneN
+
+----
+
+Customer: page://TCHvKARcBg3R487d

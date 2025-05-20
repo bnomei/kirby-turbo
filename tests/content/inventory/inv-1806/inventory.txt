@@ -1,0 +1,17 @@
+Title: Inv 1806
+
+----
+
+Inventory-id: 1806
+
+----
+
+Film: page://8wDEgH9F2alyHozl
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: g0GNuVbwYv0MStkx

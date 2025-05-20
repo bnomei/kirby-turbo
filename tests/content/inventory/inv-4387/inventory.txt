@@ -1,0 +1,17 @@
+Title: Inv 4387
+
+----
+
+Inventory-id: 4387
+
+----
+
+Film: page://E0HFh9eHbYsvXG9C
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: b3GG8WtXBpsg9Uq7

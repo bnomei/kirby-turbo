@@ -1,0 +1,33 @@
+Title: TED BREAUX
+
+----
+
+Customer-id: 538
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: TED
+
+----
+
+Last-name: BREAUX
+
+----
+
+Email: TED.BREAUX@sakilacustomer.org
+
+----
+
+Address: page://n2hDLjUXMNS8hmr8
+
+----
+
+Active: 1
+
+----
+
+Uuid: gyF67nPwxWbRqkYZ

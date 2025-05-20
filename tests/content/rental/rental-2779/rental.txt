@@ -1,0 +1,25 @@
+Title: Rental 2779
+
+----
+
+Rental-id: 2779
+
+----
+
+Rental-date: 2005-06-19 18:19:07
+
+----
+
+Return-date: 2005-06-23 18:25:07
+
+----
+
+Inventory: page://dK3MMBGZOb9LFnJV
+
+----
+
+Uuid: bfZ6zrOLdPQ5Boda
+
+----
+
+Customer: page://20Yola6tVbTLAtmZ

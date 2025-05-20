@@ -1,0 +1,17 @@
+Title: Inv 2999
+
+----
+
+Inventory-id: 2999
+
+----
+
+Film: page://IgiUwsTJqOx9tguK
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: mFBeWos8vJloinIK

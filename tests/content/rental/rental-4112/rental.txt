@@ -1,0 +1,25 @@
+Title: Rental 4112
+
+----
+
+Rental-id: 4112
+
+----
+
+Rental-date: 2005-07-07 06:49:09
+
+----
+
+Return-date: 2005-07-16 06:53:09
+
+----
+
+Inventory: page://JpnOrw30U9vrSxni
+
+----
+
+Uuid: RpPAX3C7hYYVmIu1
+
+----
+
+Customer: page://oltj71DespIyD8V2

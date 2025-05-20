@@ -1,0 +1,25 @@
+Title: Rental 404
+
+----
+
+Rental-id: 404
+
+----
+
+Rental-date: 2005-05-27 13:31:51
+
+----
+
+Return-date: 2005-05-30 16:58:51
+
+----
+
+Inventory: page://rMFIVyyxoCXgY81U
+
+----
+
+Uuid: k6kIt09jjM6d2aox
+
+----
+
+Customer: page://kgSm33zdyJ1gD7mK

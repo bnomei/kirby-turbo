@@ -1,0 +1,17 @@
+Title: Inv 737
+
+----
+
+Inventory-id: 737
+
+----
+
+Film: page://4drRiZybSd3sRdQO
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Dh4JhclpyKEauuHX

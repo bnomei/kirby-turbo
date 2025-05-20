@@ -1,0 +1,25 @@
+Title: Rental 6428
+
+----
+
+Rental-id: 6428
+
+----
+
+Rental-date: 2005-07-12 00:01:51
+
+----
+
+Return-date: 2005-07-20 22:02:51
+
+----
+
+Inventory: page://lJl2fMtlsYcwPsc2
+
+----
+
+Uuid: SLyzyrNpZChmjeop
+
+----
+
+Customer: page://Hch3ic6HbUBQQHSI

@@ -1,0 +1,25 @@
+Title: Rental 6457
+
+----
+
+Rental-id: 6457
+
+----
+
+Rental-date: 2005-07-12 01:06:35
+
+----
+
+Return-date: 2005-07-14 03:27:35
+
+----
+
+Inventory: page://qIFobm2O3jZXdPBU
+
+----
+
+Uuid: FO4J3ZjjeTuLOMQ5
+
+----
+
+Customer: page://3MFUDX6nFKFz0caB

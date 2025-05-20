@@ -1,0 +1,17 @@
+Title: Inv 4526
+
+----
+
+Inventory-id: 4526
+
+----
+
+Film: page://2WrWVuDwLaDCOlID
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: dmBDMNeYAi7ZKtFp

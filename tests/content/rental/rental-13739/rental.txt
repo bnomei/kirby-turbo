@@ -1,0 +1,25 @@
+Title: Rental 13739
+
+----
+
+Rental-id: 13739
+
+----
+
+Rental-date: 2005-08-20 10:45:10
+
+----
+
+Return-date: 2005-08-28 08:46:10
+
+----
+
+Inventory: page://CUO2dIfjl7nUIJje
+
+----
+
+Customer: page://kLc3AfN8siSKFtqK
+
+----
+
+Uuid: 6t1gM0xbmmjwFM0s

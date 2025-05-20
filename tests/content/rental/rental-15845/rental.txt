@@ -1,0 +1,25 @@
+Title: Rental 15845
+
+----
+
+Rental-id: 15845
+
+----
+
+Rental-date: 2005-08-23 15:38:34
+
+----
+
+Return-date: 2005-08-25 10:06:34
+
+----
+
+Inventory: page://osaQnWJowtF1OKPy
+
+----
+
+Customer: page://62MZSyLkLyVVQ5Cs
+
+----
+
+Uuid: qzGjmRx2lOUlAJKj

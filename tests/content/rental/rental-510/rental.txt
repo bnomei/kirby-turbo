@@ -1,0 +1,25 @@
+Title: Rental 510
+
+----
+
+Rental-id: 510
+
+----
+
+Rental-date: 2005-05-28 02:52:14
+
+----
+
+Return-date: 2005-05-30 21:20:14
+
+----
+
+Inventory: page://amvtBmstbgZ4SUnj
+
+----
+
+Uuid: Z3nOW17PrTopPe5u
+
+----
+
+Customer: page://f9IsYLta6d6VDgIZ

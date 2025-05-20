@@ -1,0 +1,33 @@
+Title: HECTOR POINDEXTER
+
+----
+
+Customer-id: 487
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: HECTOR
+
+----
+
+Last-name: POINDEXTER
+
+----
+
+Email: HECTOR.POINDEXTER@sakilacustomer.org
+
+----
+
+Address: page://69PWmf4SJ1GuLgzh
+
+----
+
+Active: 1
+
+----
+
+Uuid: z84M1eOE64VO5Dm4

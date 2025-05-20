@@ -1,0 +1,25 @@
+Title: Rental 864
+
+----
+
+Rental-id: 864
+
+----
+
+Rental-date: 2005-05-30 03:27:17
+
+----
+
+Return-date: 2005-06-06 08:28:17
+
+----
+
+Inventory: page://6n3ERzLgaZ1ymSuj
+
+----
+
+Uuid: pgRg2xUse5kS7CZS
+
+----
+
+Customer: page://T9MMayXBdDHCkZUr

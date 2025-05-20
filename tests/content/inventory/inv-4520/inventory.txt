@@ -1,0 +1,17 @@
+Title: Inv 4520
+
+----
+
+Inventory-id: 4520
+
+----
+
+Film: page://FnTv4J9zqjUvg8Pa
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: wcjy4ey4zqOr0xos

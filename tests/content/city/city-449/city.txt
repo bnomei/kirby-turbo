@@ -1,0 +1,17 @@
+Title: San Bernardino
+
+----
+
+City-id: 449
+
+----
+
+City: San Bernardino
+
+----
+
+Country: page://HBPJSDQApQJ9JcmS
+
+----
+
+Uuid: Mm3BuU1hnXd8D0H9

@@ -1,0 +1,25 @@
+Title: Rental 8645
+
+----
+
+Rental-id: 8645
+
+----
+
+Rental-date: 2005-07-29 14:47:45
+
+----
+
+Return-date: 2005-07-30 14:56:45
+
+----
+
+Inventory: page://Kza25iwvwTUScVlw
+
+----
+
+Customer: page://cTnAL41dTr6SZ2Pz
+
+----
+
+Uuid: fUXYqGrVAyxAnUtl

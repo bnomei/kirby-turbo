@@ -1,0 +1,25 @@
+Title: Rental 1674
+
+----
+
+Rental-id: 1674
+
+----
+
+Rental-date: 2005-06-16 10:57:00
+
+----
+
+Return-date: 2005-06-18 07:31:00
+
+----
+
+Inventory: page://3GwO9v4mzdOQJjgm
+
+----
+
+Uuid: elol7WkNStBcc6KE
+
+----
+
+Customer: page://tXU6KMhmykXTBWCU

@@ -1,0 +1,25 @@
+Title: Rental 8072
+
+----
+
+Rental-id: 8072
+
+----
+
+Rental-date: 2005-07-28 17:27:59
+
+----
+
+Return-date: 2005-07-30 19:08:59
+
+----
+
+Inventory: page://ZjRI5Arckx2fExBp
+
+----
+
+Customer: page://ThgYfQ8UF68tkRWf
+
+----
+
+Uuid: gWIHrnXVqsVEocwD

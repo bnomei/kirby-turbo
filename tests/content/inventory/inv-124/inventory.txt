@@ -1,0 +1,17 @@
+Title: Inv 124
+
+----
+
+Inventory-id: 124
+
+----
+
+Film: page://lJxiqdvJVqqmeEXz
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: UoM3Thtz5lboUbrN

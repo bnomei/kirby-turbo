@@ -1,0 +1,17 @@
+Title: Inv 1272
+
+----
+
+Inventory-id: 1272
+
+----
+
+Film: page://lpJLwXlAZKSwUsLl
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: wkUGff9E27iqOHBI

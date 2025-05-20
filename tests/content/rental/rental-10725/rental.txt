@@ -1,0 +1,25 @@
+Title: Rental 10725
+
+----
+
+Rental-id: 10725
+
+----
+
+Rental-date: 2005-08-01 19:11:04
+
+----
+
+Return-date: 2005-08-07 18:16:04
+
+----
+
+Inventory: page://xcX0J5zUUe5OEqYg
+
+----
+
+Customer: page://5cEtw749lfuLkqIc
+
+----
+
+Uuid: GWXvanZREGgv37Ny

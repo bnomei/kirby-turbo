@@ -1,0 +1,33 @@
+Title: GUY BROWNLEE
+
+----
+
+Customer-id: 550
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: GUY
+
+----
+
+Last-name: BROWNLEE
+
+----
+
+Email: GUY.BROWNLEE@sakilacustomer.org
+
+----
+
+Address: page://UH5KcKJCZcuXlEzi
+
+----
+
+Active: 1
+
+----
+
+Uuid: x8Y8aJxOEpTBihF2

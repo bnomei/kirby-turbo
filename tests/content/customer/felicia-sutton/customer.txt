@@ -1,0 +1,33 @@
+Title: FELICIA SUTTON
+
+----
+
+Customer-id: 283
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: FELICIA
+
+----
+
+Last-name: SUTTON
+
+----
+
+Email: FELICIA.SUTTON@sakilacustomer.org
+
+----
+
+Address: page://hu7RP42LR3rXCGpg
+
+----
+
+Active: 1
+
+----
+
+Uuid: 4Gfo2urzQMaaaZ4t

@@ -1,0 +1,25 @@
+Title: Rental 3043
+
+----
+
+Rental-id: 3043
+
+----
+
+Rental-date: 2005-06-20 12:38:35
+
+----
+
+Return-date: 2005-06-29 14:16:35
+
+----
+
+Inventory: page://NW4RQjPds1ieaCi9
+
+----
+
+Uuid: v4UZSwj863KuRiYj
+
+----
+
+Customer: page://yIwfaiZ5vQfAWusn

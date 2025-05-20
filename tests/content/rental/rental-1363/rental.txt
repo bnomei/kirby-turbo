@@ -1,0 +1,25 @@
+Title: Rental 1363
+
+----
+
+Rental-id: 1363
+
+----
+
+Rental-date: 2005-06-15 14:05:11
+
+----
+
+Return-date: 2005-06-17 19:53:11
+
+----
+
+Inventory: page://CwuNmUMu8kOq6ZUP
+
+----
+
+Uuid: 1yEwHtCvqDrwmbLc
+
+----
+
+Customer: page://CcA8b6iqpwFbs801

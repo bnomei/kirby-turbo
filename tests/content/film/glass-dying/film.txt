@@ -1,0 +1,42 @@
+Title: GLASS DYING
+
+----
+
+Actors:
+
+- 'page://6jpBKUOTpGMSQxJe'
+- 'page://VQ2tezOinyzNJNH4'
+- 'page://X3dUYAbt0AiREsIH'
+- 'page://nVYE704vdPRRS8fI'
+
+----
+
+Film-id: 360
+
+----
+
+Description: A Astounding Drama of a Frisbee And a Astronaut who must Fight a Dog in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 103
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: EWkJHl8fhlpw8Z7R
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

@@ -1,0 +1,17 @@
+Title: Inv 30
+
+----
+
+Inventory-id: 30
+
+----
+
+Film: page://jPUSIoHLxunFFFgu
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: TnE3Y5H4TLBPzMYZ

@@ -1,0 +1,17 @@
+Title: Inv 3783
+
+----
+
+Inventory-id: 3783
+
+----
+
+Film: page://mnxo95pbbvWRc0UI
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: UZHvNnSQrGpu1cH4

@@ -1,0 +1,25 @@
+Title: Rental 8710
+
+----
+
+Rental-id: 8710
+
+----
+
+Rental-date: 2005-07-29 17:26:03
+
+----
+
+Return-date: 2005-07-30 19:51:03
+
+----
+
+Inventory: page://zm0WrlkBabz3ZZsk
+
+----
+
+Customer: page://kiN3u3DN0FkdJzU9
+
+----
+
+Uuid: Wer46t7KVRKhaTqn

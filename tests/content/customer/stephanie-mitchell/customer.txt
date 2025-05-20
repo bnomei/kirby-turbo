@@ -1,0 +1,33 @@
+Title: STEPHANIE MITCHELL
+
+----
+
+Customer-id: 41
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: STEPHANIE
+
+----
+
+Last-name: MITCHELL
+
+----
+
+Email: STEPHANIE.MITCHELL@sakilacustomer.org
+
+----
+
+Address: page://k8hTpGxrfSwJ6Jxc
+
+----
+
+Active: 1
+
+----
+
+Uuid: uE84jSPn6fUxfq6A

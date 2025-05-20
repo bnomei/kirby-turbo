@@ -1,0 +1,25 @@
+Title: Rental 9180
+
+----
+
+Rental-id: 9180
+
+----
+
+Rental-date: 2005-07-30 12:03:15
+
+----
+
+Return-date: 2005-08-01 14:25:15
+
+----
+
+Inventory: page://Ltx6DOg79ywEoNyw
+
+----
+
+Customer: page://eYENgXyv63Ee6XxS
+
+----
+
+Uuid: oGOaiD4LgSY1biUe

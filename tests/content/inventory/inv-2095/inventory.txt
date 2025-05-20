@@ -1,0 +1,17 @@
+Title: Inv 2095
+
+----
+
+Inventory-id: 2095
+
+----
+
+Film: page://tq3Q0JmEdXrpLqyY
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 7Ptjr4r7sZE9W6Wh

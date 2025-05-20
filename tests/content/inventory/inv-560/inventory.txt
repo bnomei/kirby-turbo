@@ -1,0 +1,17 @@
+Title: Inv 560
+
+----
+
+Inventory-id: 560
+
+----
+
+Film: page://QhHzuZm4hAClGL03
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: quBBhPsqmx6f4Ere

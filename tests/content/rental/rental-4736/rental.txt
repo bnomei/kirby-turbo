@@ -1,0 +1,25 @@
+Title: Rental 4736
+
+----
+
+Rental-id: 4736
+
+----
+
+Rental-date: 2005-07-08 13:22:55
+
+----
+
+Return-date: 2005-07-17 07:27:55
+
+----
+
+Inventory: page://tKBpMn1aWEmL2vRs
+
+----
+
+Uuid: a3U4q9EqHIvH9W2D
+
+----
+
+Customer: page://bZY1vsN3giMcQSdf

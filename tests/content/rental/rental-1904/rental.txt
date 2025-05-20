@@ -1,0 +1,25 @@
+Title: Rental 1904
+
+----
+
+Rental-id: 1904
+
+----
+
+Rental-date: 2005-06-17 04:45:41
+
+----
+
+Return-date: 2005-06-17 23:56:41
+
+----
+
+Inventory: page://gnxEWb4wcx9F2rBi
+
+----
+
+Uuid: loMkKmSasf0DT6G8
+
+----
+
+Customer: page://AbMvWlf35GZBBoZ3

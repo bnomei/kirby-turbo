@@ -1,0 +1,25 @@
+Title: Rental 5502
+
+----
+
+Rental-id: 5502
+
+----
+
+Rental-date: 2005-07-10 00:34:15
+
+----
+
+Return-date: 2005-07-11 21:44:15
+
+----
+
+Inventory: page://kQ13L3CWuWLi2pAd
+
+----
+
+Uuid: miZGs14tymZ0QTYC
+
+----
+
+Customer: page://ljcTXDJkVE3hnapx

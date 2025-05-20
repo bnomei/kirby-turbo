@@ -1,0 +1,25 @@
+Title: Rental 9263
+
+----
+
+Rental-id: 9263
+
+----
+
+Rental-date: 2005-07-30 14:48:24
+
+----
+
+Return-date: 2005-08-04 19:06:24
+
+----
+
+Inventory: page://PL7VwocVKdPz1sHZ
+
+----
+
+Customer: page://qq0m1YSvvt7HbeBW
+
+----
+
+Uuid: 8b86mkyPu9GkcVcv

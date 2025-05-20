@@ -1,0 +1,42 @@
+Title: STEERS ARMAGEDDON
+
+----
+
+Actors:
+
+- 'page://fpycclHxIOPEPbuu'
+- 'page://r6UF6pUyhmwAPzIH'
+- 'page://qXajFtQVbGpQUZAN'
+- 'page://1a2BLQivFz3Ch6Lx'
+
+----
+
+Film-id: 844
+
+----
+
+Description: A Stunning Character Study of a Car And a Girl who must Succumb a Car in A MySQL Convention
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 140
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: PVCpe560oeJI6ryI
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

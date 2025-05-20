@@ -1,0 +1,25 @@
+Title: Rental 789
+
+----
+
+Rental-id: 789
+
+----
+
+Rental-date: 2005-05-29 16:17:07
+
+----
+
+Return-date: 2005-06-06 18:15:07
+
+----
+
+Inventory: page://dK0CSBUycmieLgKI
+
+----
+
+Uuid: UxxN643MkqL8dCls
+
+----
+
+Customer: page://3ZP9ENxbl27URSN0

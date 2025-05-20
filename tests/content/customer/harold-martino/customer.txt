@@ -1,0 +1,33 @@
+Title: HAROLD MARTINO
+
+----
+
+Customer-id: 342
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: HAROLD
+
+----
+
+Last-name: MARTINO
+
+----
+
+Email: HAROLD.MARTINO@sakilacustomer.org
+
+----
+
+Address: page://gY44GvrGQIsuG9BV
+
+----
+
+Active: 1
+
+----
+
+Uuid: zmCabsBB5k9OFLQt

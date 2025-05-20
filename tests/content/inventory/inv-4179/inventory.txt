@@ -1,0 +1,17 @@
+Title: Inv 4179
+
+----
+
+Inventory-id: 4179
+
+----
+
+Film: page://OlTydIgGZVrSdAh0
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 2scjHBrlfCeEIdMY

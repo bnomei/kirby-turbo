@@ -1,0 +1,25 @@
+Title: Rental 10003
+
+----
+
+Rental-id: 10003
+
+----
+
+Rental-date: 2005-07-31 17:48:51
+
+----
+
+Return-date: 2005-08-02 14:23:51
+
+----
+
+Inventory: page://91TRkhgom2qlLG15
+
+----
+
+Customer: page://xpGeSpKewe1fsRYQ
+
+----
+
+Uuid: 5lFIgq13PLYdN2p6

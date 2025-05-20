@@ -1,0 +1,17 @@
+Title: Inv 1843
+
+----
+
+Inventory-id: 1843
+
+----
+
+Film: page://380e5JVPUj70wMoB
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: M3sszhPq7xAgNKYh

@@ -1,0 +1,17 @@
+Title: Inv 1488
+
+----
+
+Inventory-id: 1488
+
+----
+
+Film: page://oezWSCFfJShYLNTc
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: i7cQQlWbKE4FPDwV

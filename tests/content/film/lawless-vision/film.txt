@@ -1,0 +1,42 @@
+Title: LAWLESS VISION
+
+----
+
+Actors:
+
+- 'page://Tc5O2MboD06L5UFn'
+- 'page://7FlTvfT4DDNge34z'
+- 'page://eJszhRe2rjIvWjny'
+- 'page://nVYE704vdPRRS8fI'
+
+----
+
+Film-id: 510
+
+----
+
+Description: A Insightful Yarn of a Boy And a Sumo Wrestler who must Outgun a Car in The Outback
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 181
+
+----
+
+Rating: G
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: FYjzIqhWEasX3iU3
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

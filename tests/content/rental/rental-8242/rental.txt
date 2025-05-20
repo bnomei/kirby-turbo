@@ -1,0 +1,25 @@
+Title: Rental 8242
+
+----
+
+Rental-id: 8242
+
+----
+
+Rental-date: 2005-07-29 00:34:27
+
+----
+
+Return-date: 2005-08-05 23:13:27
+
+----
+
+Inventory: page://lvVhUpPvkuLBihra
+
+----
+
+Customer: page://ThgYfQ8UF68tkRWf
+
+----
+
+Uuid: x3vHw2Hso9ypDCHQ

@@ -1,0 +1,25 @@
+Title: Rental 2600
+
+----
+
+Rental-id: 2600
+
+----
+
+Rental-date: 2005-06-19 06:07:25
+
+----
+
+Return-date: 2005-06-28 03:37:25
+
+----
+
+Inventory: page://CCX4y8JsCuINtDHE
+
+----
+
+Uuid: AyHmRulNzhcPS2pd
+
+----
+
+Customer: page://yiLH1F5ptBYYkAUt

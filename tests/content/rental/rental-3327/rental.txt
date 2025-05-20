@@ -1,0 +1,25 @@
+Title: Rental 3327
+
+----
+
+Rental-id: 3327
+
+----
+
+Rental-date: 2005-06-21 09:04:50
+
+----
+
+Return-date: 2005-06-30 05:45:50
+
+----
+
+Inventory: page://DBsy5958MRsFDgmS
+
+----
+
+Uuid: IBtN3r4Pb3zVn8Gf
+
+----
+
+Customer: page://YyPBQe8b3YphbbXY

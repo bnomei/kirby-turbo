@@ -1,0 +1,25 @@
+Title: Rental 6833
+
+----
+
+Rental-id: 6833
+
+----
+
+Rental-date: 2005-07-12 18:53:34
+
+----
+
+Return-date: 2005-07-19 22:21:34
+
+----
+
+Inventory: page://A9fANaUNQ2XT23M0
+
+----
+
+Customer: page://d4uyJxb6OPu5hZso
+
+----
+
+Uuid: 16Sob7ZTGql5nZmb

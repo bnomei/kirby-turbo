@@ -1,0 +1,44 @@
+Title: WISDOM WORKER
+
+----
+
+Actors:
+
+- 'page://xjeqCa9sjC8UxwnG'
+- 'page://8Pmn5SWwDYgkHBaA'
+- 'page://Xu2nMG4ojUoJI7CN'
+- 'page://f3T5R3qlMgXii7Oj'
+- 'page://r5vfuwK7SifeGhUs'
+- 'page://ohgPd8XBH6s5Q55J'
+
+----
+
+Film-id: 978
+
+----
+
+Description: A Unbelieveable Saga of a Forensic Psychologist And a Student who must Face a Squirrel in The First Manned Space Station
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 98
+
+----
+
+Rating: R
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: gAmHwmMFUJQaaa7l
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

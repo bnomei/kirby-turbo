@@ -1,0 +1,33 @@
+Title: DORIS REED
+
+----
+
+Customer-id: 55
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: DORIS
+
+----
+
+Last-name: REED
+
+----
+
+Email: DORIS.REED@sakilacustomer.org
+
+----
+
+Address: page://Oi8yy48w5Fg51775
+
+----
+
+Active: 1
+
+----
+
+Uuid: kBsIg9g94BpAQk08

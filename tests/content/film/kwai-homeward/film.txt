@@ -1,0 +1,43 @@
+Title: KWAI HOMEWARD
+
+----
+
+Actors:
+
+- 'page://OwcwI2sE5Nr5L1Ju'
+- 'page://l9F1V32tlG60bBdO'
+- 'page://3XS33oPl7qwaYDh3'
+- 'page://k43wur9uhLztfZOP'
+- 'page://qXajFtQVbGpQUZAN'
+
+----
+
+Film-id: 504
+
+----
+
+Description: A Amazing Drama of a Car And a Squirrel who must Pursue a Car in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 46
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: vnd4rT8AXXoPv80H
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

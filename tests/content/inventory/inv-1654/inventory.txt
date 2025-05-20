@@ -1,0 +1,17 @@
+Title: Inv 1654
+
+----
+
+Inventory-id: 1654
+
+----
+
+Film: page://rXszfXc0PapWBC5w
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: CBr218EoQtIFWpfB

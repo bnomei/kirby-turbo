@@ -1,0 +1,25 @@
+Title: Rental 5817
+
+----
+
+Rental-id: 5817
+
+----
+
+Rental-date: 2005-07-10 15:49:12
+
+----
+
+Return-date: 2005-07-18 19:30:12
+
+----
+
+Inventory: page://idv9Y5Tqsq5Wkzx8
+
+----
+
+Uuid: PciNehNSWPyrMGbW
+
+----
+
+Customer: page://9GMMxk4OJQFuLIWJ

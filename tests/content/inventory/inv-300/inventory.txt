@@ -1,0 +1,17 @@
+Title: Inv 300
+
+----
+
+Inventory-id: 300
+
+----
+
+Film: page://Y3V4WSTxXj4Kclnf
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 7jDkNm53bV1FzTiO

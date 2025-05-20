@@ -1,0 +1,25 @@
+Title: Rental 6713
+
+----
+
+Rental-id: 6713
+
+----
+
+Rental-date: 2005-07-12 13:27:36
+
+----
+
+Return-date: 2005-07-16 11:14:36
+
+----
+
+Inventory: page://mBcsVm3atty8U9eW
+
+----
+
+Uuid: HZ3PCCRXryO330i3
+
+----
+
+Customer: page://vvb7rjkZaY4UCatA

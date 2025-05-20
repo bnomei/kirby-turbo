@@ -1,0 +1,17 @@
+Title: Inv 1943
+
+----
+
+Inventory-id: 1943
+
+----
+
+Film: page://E3ABPaB1Zep7Rcb1
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: vE8F27vcHfOZkTeE

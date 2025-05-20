@@ -1,0 +1,25 @@
+Title: Rental 9678
+
+----
+
+Rental-id: 9678
+
+----
+
+Rental-date: 2005-07-31 06:40:47
+
+----
+
+Return-date: 2005-08-02 00:57:47
+
+----
+
+Inventory: page://C4hxN8A9FGnEnfRV
+
+----
+
+Customer: page://4AtPAY3CI88EjmxK
+
+----
+
+Uuid: sxBUnHYX8cfHA6KX

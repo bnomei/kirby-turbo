@@ -1,0 +1,17 @@
+Title: Inv 724
+
+----
+
+Inventory-id: 724
+
+----
+
+Film: page://rYU3xQcgKGdlwLY7
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: HBOFUqcLSyk5GpAg

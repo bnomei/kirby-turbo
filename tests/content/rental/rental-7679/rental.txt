@@ -1,0 +1,25 @@
+Title: Rental 7679
+
+----
+
+Rental-id: 7679
+
+----
+
+Rental-date: 2005-07-28 02:58:39
+
+----
+
+Return-date: 2005-08-02 04:58:39
+
+----
+
+Inventory: page://fDw3tHATvSGtSr4N
+
+----
+
+Customer: page://P5692hWxDSp2ZLGu
+
+----
+
+Uuid: YUYznlrwUtjCHVVs

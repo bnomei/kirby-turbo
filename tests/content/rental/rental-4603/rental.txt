@@ -1,0 +1,25 @@
+Title: Rental 4603
+
+----
+
+Rental-id: 4603
+
+----
+
+Rental-date: 2005-07-08 06:57:07
+
+----
+
+Return-date: 2005-07-17 04:32:07
+
+----
+
+Inventory: page://KQaatXb0AWrDgcVa
+
+----
+
+Uuid: S0zfxKUJGGl9ikL3
+
+----
+
+Customer: page://1lV61pgXzMTI9zGL

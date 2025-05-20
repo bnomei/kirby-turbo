@@ -1,0 +1,25 @@
+Title: Rental 929
+
+----
+
+Rental-id: 929
+
+----
+
+Rental-date: 2005-05-30 12:32:39
+
+----
+
+Return-date: 2005-06-06 12:17:39
+
+----
+
+Inventory: page://PWp6b40MvwE12vRt
+
+----
+
+Uuid: toRSwU7NqLG19iYU
+
+----
+
+Customer: page://lw8mwYqihkZrAQDL

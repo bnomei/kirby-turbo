@@ -1,0 +1,21 @@
+Title: Rental 13421
+
+----
+
+Rental-id: 13421
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://R9hCsANhvRRs0u30
+
+----
+
+Customer: page://YQtY5BLLYVMlkjV2
+
+----
+
+Uuid: ISI96H2e3eilnZV1

@@ -1,0 +1,21 @@
+Title: Rental 15326
+
+----
+
+Rental-id: 15326
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://tZtubjPIFTwVDCzp
+
+----
+
+Customer: page://Q7dhYbg8UImMpiau
+
+----
+
+Uuid: ut2KfWE8qEYmoCNC

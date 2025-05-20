@@ -1,0 +1,33 @@
+Title: PAUL TROUT
+
+----
+
+Customer-id: 311
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: PAUL
+
+----
+
+Last-name: TROUT
+
+----
+
+Email: PAUL.TROUT@sakilacustomer.org
+
+----
+
+Address: page://ov7rW6jzBiOp598W
+
+----
+
+Active: 1
+
+----
+
+Uuid: W7ZJXAG7NuFuJZ2S

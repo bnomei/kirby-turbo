@@ -1,0 +1,25 @@
+Title: Rental 15873
+
+----
+
+Rental-id: 15873
+
+----
+
+Rental-date: 2005-08-23 16:27:59
+
+----
+
+Return-date: 2005-08-26 11:11:59
+
+----
+
+Inventory: page://zzk3AEjaFRtYygmO
+
+----
+
+Customer: page://M9liVKyqTs6BXoqT
+
+----
+
+Uuid: 3tKhkKf6rFYlDWM4

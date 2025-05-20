@@ -1,0 +1,25 @@
+Title: Rental 8392
+
+----
+
+Rental-id: 8392
+
+----
+
+Rental-date: 2005-07-29 06:00:27
+
+----
+
+Return-date: 2005-08-02 00:30:27
+
+----
+
+Inventory: page://OEZ39NDnHnm9eYSd
+
+----
+
+Customer: page://kWd5QCzRzfjxEGaD
+
+----
+
+Uuid: 7eT8A6QcChnDN6j0

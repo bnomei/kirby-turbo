@@ -1,0 +1,25 @@
+Title: Rental 6211
+
+----
+
+Rental-id: 6211
+
+----
+
+Rental-date: 2005-07-11 12:39:01
+
+----
+
+Return-date: 2005-07-20 15:59:01
+
+----
+
+Inventory: page://6YiDzOGwK6VXZAoO
+
+----
+
+Uuid: TEOwe87hWDYEWX1i
+
+----
+
+Customer: page://X3AjzgBdF3VXBSFO

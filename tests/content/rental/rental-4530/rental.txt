@@ -1,0 +1,25 @@
+Title: Rental 4530
+
+----
+
+Rental-id: 4530
+
+----
+
+Rental-date: 2005-07-08 03:27:05
+
+----
+
+Return-date: 2005-07-11 07:44:05
+
+----
+
+Inventory: page://pIAD2TfJ8xXttmNj
+
+----
+
+Uuid: obR4TCBMIVaMV9Ts
+
+----
+
+Customer: page://bZY1vsN3giMcQSdf

@@ -1,0 +1,17 @@
+Title: Inv 2041
+
+----
+
+Inventory-id: 2041
+
+----
+
+Film: page://tpjPaLgK24c3JWm2
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 9umJ6mJ3M97ul3fm

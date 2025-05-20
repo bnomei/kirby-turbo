@@ -1,0 +1,17 @@
+Title: Inv 2081
+
+----
+
+Inventory-id: 2081
+
+----
+
+Film: page://GuXKGWXBSaYloVkz
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: PWEIdMA2wlnJTAka

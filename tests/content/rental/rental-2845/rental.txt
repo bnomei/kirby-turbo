@@ -1,0 +1,25 @@
+Title: Rental 2845
+
+----
+
+Rental-id: 2845
+
+----
+
+Rental-date: 2005-06-19 22:46:37
+
+----
+
+Return-date: 2005-06-23 03:31:37
+
+----
+
+Inventory: page://5QOmfXRhOiqfuRVV
+
+----
+
+Uuid: dnhOHeT5zyExHvzW
+
+----
+
+Customer: page://pjmWpRpQ5NINevq0

@@ -1,0 +1,25 @@
+Title: Rental 647
+
+----
+
+Rental-id: 647
+
+----
+
+Rental-date: 2005-05-28 19:22:52
+
+----
+
+Return-date: 2005-06-01 00:10:52
+
+----
+
+Inventory: page://JAFUQxohSIkElHFf
+
+----
+
+Uuid: thrI6ATdpRwpiH8A
+
+----
+
+Customer: page://yvKogFHQVJDnr873

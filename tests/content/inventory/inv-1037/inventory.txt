@@ -1,0 +1,17 @@
+Title: Inv 1037
+
+----
+
+Inventory-id: 1037
+
+----
+
+Film: page://lcEu05g561SkYnmL
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: KpgMQJFkriKz1ycA

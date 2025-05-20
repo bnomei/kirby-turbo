@@ -1,0 +1,25 @@
+Title: Rental 3029
+
+----
+
+Rental-id: 3029
+
+----
+
+Rental-date: 2005-06-20 11:51:30
+
+----
+
+Return-date: 2005-06-25 16:42:30
+
+----
+
+Inventory: page://8bvdnfs2Ulw9o7MT
+
+----
+
+Uuid: ddxmlrPHk2BEwTnp
+
+----
+
+Customer: page://LjRXWt8yhDRV7QH6

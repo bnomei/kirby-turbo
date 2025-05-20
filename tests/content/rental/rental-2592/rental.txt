@@ -1,0 +1,25 @@
+Title: Rental 2592
+
+----
+
+Rental-id: 2592
+
+----
+
+Rental-date: 2005-06-19 05:36:54
+
+----
+
+Return-date: 2005-06-21 08:44:54
+
+----
+
+Inventory: page://ME5suLXH01GNA1mG
+
+----
+
+Uuid: pXi566GQNhhcQxmC
+
+----
+
+Customer: page://cnvPsOJZCE8gIQ4P

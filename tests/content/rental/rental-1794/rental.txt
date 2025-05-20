@@ -1,0 +1,25 @@
+Title: Rental 1794
+
+----
+
+Rental-id: 1794
+
+----
+
+Rental-date: 2005-06-16 20:08:37
+
+----
+
+Return-date: 2005-06-22 01:54:37
+
+----
+
+Inventory: page://m3D3g7gj2yEyBUIc
+
+----
+
+Uuid: EiDAuicdgp6NugkE
+
+----
+
+Customer: page://CS8B0NAcj8qNk9MR

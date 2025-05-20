@@ -1,0 +1,43 @@
+Title: TORQUE BOUND
+
+----
+
+Actors:
+
+- 'page://xbVuFnPKikNsqVkK'
+- 'page://OwcwI2sE5Nr5L1Ju'
+- 'page://KV54RGx9NMbLtwi4'
+- 'page://C462ZyZJYhtiRgJM'
+- 'page://xXgVj4FQPZ59wjBk'
+
+----
+
+Film-id: 897
+
+----
+
+Description: A Emotional Display of a Crocodile And a Husband who must Reach a Man in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 179
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: vAOVQlW5bz9Di45k
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

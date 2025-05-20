@@ -1,0 +1,17 @@
+Title: Inv 2044
+
+----
+
+Inventory-id: 2044
+
+----
+
+Film: page://tpjPaLgK24c3JWm2
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: I8z8VfpkKe10m9AX

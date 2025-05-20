@@ -1,0 +1,17 @@
+Title: Inv 518
+
+----
+
+Inventory-id: 518
+
+----
+
+Film: page://wlg2iwFhtozEXl5U
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: HR8VqH5VhOx6J4R2

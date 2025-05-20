@@ -1,0 +1,25 @@
+Title: Rental 15841
+
+----
+
+Rental-id: 15841
+
+----
+
+Rental-date: 2005-08-23 15:35:59
+
+----
+
+Return-date: 2005-08-30 19:30:59
+
+----
+
+Inventory: page://6ohgN2Z71TlfBsIk
+
+----
+
+Customer: page://NrH2ag1h7sBRKnqA
+
+----
+
+Uuid: MS0M9pgUhe4Xt3rF

@@ -1,0 +1,17 @@
+Title: Inv 1410
+
+----
+
+Inventory-id: 1410
+
+----
+
+Film: page://jDmMJMlMtQvpyiHa
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: pz6XQS1zEk8VLsWM

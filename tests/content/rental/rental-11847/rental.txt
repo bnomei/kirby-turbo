@@ -1,0 +1,21 @@
+Title: Rental 11847
+
+----
+
+Rental-id: 11847
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://ADzEQqEwLcGFxkDY
+
+----
+
+Customer: page://ZMPHt1kBgzua3Tmb
+
+----
+
+Uuid: RvgV0VtplapyTxbd

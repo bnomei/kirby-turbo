@@ -1,0 +1,25 @@
+Title: Rental 10245
+
+----
+
+Rental-id: 10245
+
+----
+
+Rental-date: 2005-08-01 02:24:09
+
+----
+
+Return-date: 2005-08-02 02:31:09
+
+----
+
+Inventory: page://PC8lJ3cSkj52klNW
+
+----
+
+Customer: page://dH8QcNydtJRu0BPQ
+
+----
+
+Uuid: 0zn0UBLJYu8Sunhp

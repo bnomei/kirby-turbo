@@ -1,0 +1,25 @@
+Title: Rental 411
+
+----
+
+Rental-id: 411
+
+----
+
+Rental-date: 2005-05-27 14:14:14
+
+----
+
+Return-date: 2005-06-03 17:39:14
+
+----
+
+Inventory: page://TyhfTN90k84zUXnQ
+
+----
+
+Uuid: 9OFQ4EwLpmJZCmbt
+
+----
+
+Customer: page://dkuwbLEfkaF29Y6o

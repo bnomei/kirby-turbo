@@ -1,0 +1,25 @@
+Title: Rental 1965
+
+----
+
+Rental-id: 1965
+
+----
+
+Rental-date: 2005-06-17 09:17:39
+
+----
+
+Return-date: 2005-06-18 12:35:39
+
+----
+
+Inventory: page://SpcU9pZGy2BAYp9x
+
+----
+
+Uuid: N9DpugddFXhNvAg9
+
+----
+
+Customer: page://Nq991akaEgNmdCHy

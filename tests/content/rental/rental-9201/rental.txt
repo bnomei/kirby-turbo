@@ -1,0 +1,25 @@
+Title: Rental 9201
+
+----
+
+Rental-id: 9201
+
+----
+
+Rental-date: 2005-07-30 12:42:21
+
+----
+
+Return-date: 2005-08-08 06:50:21
+
+----
+
+Inventory: page://b3GG8WtXBpsg9Uq7
+
+----
+
+Customer: page://nUS9IDqP0XmLpG9F
+
+----
+
+Uuid: wtPH1piP975wLCXC

@@ -1,0 +1,25 @@
+Title: Rental 7714
+
+----
+
+Rental-id: 7714
+
+----
+
+Rental-date: 2005-07-28 04:32:30
+
+----
+
+Return-date: 2005-08-02 07:10:30
+
+----
+
+Inventory: page://5GnqcONtRyhSf1lB
+
+----
+
+Customer: page://OgdGkik1rnAhaDTs
+
+----
+
+Uuid: 6tOEOxxIjyk630QH

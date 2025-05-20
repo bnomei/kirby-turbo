@@ -1,0 +1,25 @@
+Title: Rental 6504
+
+----
+
+Rental-id: 6504
+
+----
+
+Rental-date: 2005-07-12 03:19:14
+
+----
+
+Return-date: 2005-07-17 01:13:14
+
+----
+
+Inventory: page://FGakGt08SCjCzeMl
+
+----
+
+Uuid: wmYIm74665H2Xiyp
+
+----
+
+Customer: page://cTnAL41dTr6SZ2Pz

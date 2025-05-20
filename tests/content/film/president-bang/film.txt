@@ -1,0 +1,43 @@
+Title: PRESIDENT BANG
+
+----
+
+Actors:
+
+- 'page://oEbdYNCKFrP9NVLv'
+- 'page://8sAZxgGEUjJot3JV'
+- 'page://WFF82auh2AgpYPoL'
+- 'page://OGjAu4hPWyVISsAa'
+- 'page://EIh5zoCTJV7UmSi4'
+
+----
+
+Film-id: 695
+
+----
+
+Description: A Fateful Panorama of a Technical Writer And a Moose who must Battle a Robot in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 144
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: Pvon2oRGK7j52UtZ
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

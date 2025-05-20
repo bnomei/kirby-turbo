@@ -1,0 +1,25 @@
+Title: Rental 9911
+
+----
+
+Rental-id: 9911
+
+----
+
+Rental-date: 2005-07-31 14:48:01
+
+----
+
+Return-date: 2005-08-06 11:55:01
+
+----
+
+Inventory: page://n1GEWb8BC1lbxg87
+
+----
+
+Customer: page://azB08HSjJtUYxOM2
+
+----
+
+Uuid: xsKJ3Ry2D7CrnfbV

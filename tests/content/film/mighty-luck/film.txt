@@ -1,0 +1,46 @@
+Title: MIGHTY LUCK
+
+----
+
+Actors:
+
+- 'page://EHffowmlWDEyJ7Ij'
+- 'page://NlhyBSq5UemRMvfg'
+- 'page://ZyRQLJXso6IqRkwR'
+- 'page://dRscV8wJJ6wok0jq'
+- 'page://isKOKKisNfJh2ta1'
+- 'page://K0t8PMh78EXVZHC5'
+- 'page://Vt3bRByOUSEypvV6'
+- 'page://IUEdThBjLk8TNUwy'
+
+----
+
+Film-id: 576
+
+----
+
+Description: A Astounding Epistle of a Mad Scientist And a Pioneer who must Escape a Database Administrator in A MySQL Convention
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 122
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: myANyf2XSVCSt5a5
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

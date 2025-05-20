@@ -1,0 +1,33 @@
+Title: DAN PAINE
+
+----
+
+Customer-id: 477
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: DAN
+
+----
+
+Last-name: PAINE
+
+----
+
+Email: DAN.PAINE@sakilacustomer.org
+
+----
+
+Address: page://c2pyqOIyp4BC7U8S
+
+----
+
+Active: 1
+
+----
+
+Uuid: 0oAUPq4K85BBzcfb

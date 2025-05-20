@@ -1,0 +1,17 @@
+Title: Inv 813
+
+----
+
+Inventory-id: 813
+
+----
+
+Film: page://QgtpMrzq3HyF6puV
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 3fd52x8NDbUdPBd3

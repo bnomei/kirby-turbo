@@ -1,0 +1,25 @@
+Title: Rental 276
+
+----
+
+Rental-id: 276
+
+----
+
+Rental-date: 2005-05-26 17:16:07
+
+----
+
+Return-date: 2005-06-03 12:59:07
+
+----
+
+Inventory: page://LOBOwVqIppeO399K
+
+----
+
+Uuid: IxFhiwt4ujKWSCIi
+
+----
+
+Customer: page://Q7dhYbg8UImMpiau

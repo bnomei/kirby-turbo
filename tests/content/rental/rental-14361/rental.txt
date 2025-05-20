@@ -1,0 +1,21 @@
+Title: Rental 14361
+
+----
+
+Rental-id: 14361
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://za5PhUgH3da1hL8A
+
+----
+
+Customer: page://bHbo1PFIkaygpNBz
+
+----
+
+Uuid: uUSDfecM9VoJ56aD

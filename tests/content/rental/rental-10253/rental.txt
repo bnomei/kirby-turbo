@@ -1,0 +1,25 @@
+Title: Rental 10253
+
+----
+
+Rental-id: 10253
+
+----
+
+Rental-date: 2005-08-01 02:39:49
+
+----
+
+Return-date: 2005-08-08 04:28:49
+
+----
+
+Inventory: page://JPY8O27MCQjBKNh4
+
+----
+
+Customer: page://uLTcc5I1Ow2yuWNp
+
+----
+
+Uuid: PbdbzAqnQCTApa01

@@ -1,0 +1,25 @@
+Title: Rental 14514
+
+----
+
+Rental-id: 14514
+
+----
+
+Rental-date: 2005-08-21 14:51:52
+
+----
+
+Return-date: 2005-08-30 10:40:52
+
+----
+
+Inventory: page://bzX0MLAwJnFOq9PF
+
+----
+
+Customer: page://MMjN8znOj5ltCet6
+
+----
+
+Uuid: AJZk3la8P0kyTfn2

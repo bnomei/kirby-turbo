@@ -1,0 +1,25 @@
+Title: Rental 470
+
+----
+
+Rental-id: 470
+
+----
+
+Rental-date: 2005-05-27 21:17:08
+
+----
+
+Return-date: 2005-06-04 17:47:08
+
+----
+
+Inventory: page://MaDzIs54QcvDoaSx
+
+----
+
+Uuid: HsdLyTIZQx7bsgYO
+
+----
+
+Customer: page://3TbKsrXXeDJmJc4J

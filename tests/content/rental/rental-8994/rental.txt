@@ -1,0 +1,25 @@
+Title: Rental 8994
+
+----
+
+Rental-id: 8994
+
+----
+
+Rental-date: 2005-07-30 04:51:32
+
+----
+
+Return-date: 2005-08-07 09:41:32
+
+----
+
+Inventory: page://JnnOGvjv1DBHLip1
+
+----
+
+Customer: page://LhqM4KCNZrbdEpfZ
+
+----
+
+Uuid: 9wMdRzQgnCwN39B3

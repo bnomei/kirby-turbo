@@ -1,0 +1,17 @@
+Title: Inv 785
+
+----
+
+Inventory-id: 785
+
+----
+
+Film: page://wgGSeQQNIgIH75fJ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 7sN3SpRAusRqFSFJ

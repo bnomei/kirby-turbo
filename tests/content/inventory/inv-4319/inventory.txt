@@ -1,0 +1,17 @@
+Title: Inv 4319
+
+----
+
+Inventory-id: 4319
+
+----
+
+Film: page://dyZxxsuprh3PBLXD
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 1eRhTVQdQtxbYX9P

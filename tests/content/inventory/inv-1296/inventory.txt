@@ -1,0 +1,17 @@
+Title: Inv 1296
+
+----
+
+Inventory-id: 1296
+
+----
+
+Film: page://JnBVTiYjE406f6Ty
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Od1pFDBrRBpdQ2FZ

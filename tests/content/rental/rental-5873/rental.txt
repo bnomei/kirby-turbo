@@ -1,0 +1,25 @@
+Title: Rental 5873
+
+----
+
+Rental-id: 5873
+
+----
+
+Rental-date: 2005-07-10 19:02:10
+
+----
+
+Return-date: 2005-07-14 19:13:10
+
+----
+
+Inventory: page://7KMTEBdCRtYtMajb
+
+----
+
+Uuid: umi2AJzHE0ooaogc
+
+----
+
+Customer: page://hZOnCp7oVBUSijBw

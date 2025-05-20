@@ -1,0 +1,25 @@
+Title: Rental 4700
+
+----
+
+Rental-id: 4700
+
+----
+
+Rental-date: 2005-07-08 11:37:21
+
+----
+
+Return-date: 2005-07-12 15:41:21
+
+----
+
+Inventory: page://S9NxQOtYq6TqQjql
+
+----
+
+Uuid: 1qdjafBoXsbxgah1
+
+----
+
+Customer: page://LjRXWt8yhDRV7QH6

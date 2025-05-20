@@ -1,0 +1,25 @@
+Title: Rental 1851
+
+----
+
+Rental-id: 1851
+
+----
+
+Rental-date: 2005-06-17 00:32:26
+
+----
+
+Return-date: 2005-06-22 19:54:26
+
+----
+
+Inventory: page://iQfDtbwd3hLY4a0E
+
+----
+
+Uuid: cDNBNm6mTNHoJVbm
+
+----
+
+Customer: page://JG06E1zPSAEHpqss

@@ -1,0 +1,25 @@
+Title: Rental 6072
+
+----
+
+Rental-id: 6072
+
+----
+
+Rental-date: 2005-07-11 04:52:40
+
+----
+
+Return-date: 2005-07-18 01:02:40
+
+----
+
+Inventory: page://Q7dno1Oz4XqN5wJd
+
+----
+
+Uuid: dDh8gPNdrtmZbRUH
+
+----
+
+Customer: page://bG9DDgWMAFbLUMhy

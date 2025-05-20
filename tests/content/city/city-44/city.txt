@@ -1,0 +1,17 @@
+Title: Bagé
+
+----
+
+City-id: 44
+
+----
+
+City: Bagé
+
+----
+
+Country: page://jIqa2ZvYow6Egqhx
+
+----
+
+Uuid: zmTbq6NOdMpqGrd1

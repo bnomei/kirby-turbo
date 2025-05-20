@@ -1,0 +1,25 @@
+Title: Rental 15930
+
+----
+
+Rental-id: 15930
+
+----
+
+Rental-date: 2005-08-23 18:26:51
+
+----
+
+Return-date: 2005-08-31 16:12:51
+
+----
+
+Inventory: page://7ZgvmoTgPWAKPDZK
+
+----
+
+Customer: page://siVW5dXKEILolbt4
+
+----
+
+Uuid: 9SUYAKEtwzoa4uTq

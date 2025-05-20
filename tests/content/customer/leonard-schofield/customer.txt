@@ -1,0 +1,33 @@
+Title: LEONARD SCHOFIELD
+
+----
+
+Customer-id: 405
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: LEONARD
+
+----
+
+Last-name: SCHOFIELD
+
+----
+
+Email: LEONARD.SCHOFIELD@sakilacustomer.org
+
+----
+
+Address: page://r3W6G9ziU2Y8vLQS
+
+----
+
+Active: 1
+
+----
+
+Uuid: E8B6f5Jketu7tOjl

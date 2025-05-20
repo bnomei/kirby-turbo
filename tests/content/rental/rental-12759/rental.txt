@@ -1,0 +1,21 @@
+Title: Rental 12759
+
+----
+
+Rental-id: 12759
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://gp6xV1gcqUHFGFdH
+
+----
+
+Customer: page://hZOnCp7oVBUSijBw
+
+----
+
+Uuid: e1XPnqNrRsbWvPJM

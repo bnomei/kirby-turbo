@@ -1,0 +1,25 @@
+Title: Rental 5990
+
+----
+
+Rental-id: 5990
+
+----
+
+Rental-date: 2005-07-11 01:03:14
+
+----
+
+Return-date: 2005-07-15 19:32:14
+
+----
+
+Inventory: page://YKiolH32WT9dYI1O
+
+----
+
+Uuid: jWvk9Y1qhwWicbE9
+
+----
+
+Customer: page://UUq0CNtGhFxoj9KF

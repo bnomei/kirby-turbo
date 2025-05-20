@@ -1,0 +1,25 @@
+Title: Rental 1484
+
+----
+
+Rental-id: 1484
+
+----
+
+Rental-date: 2005-06-15 21:22:35
+
+----
+
+Return-date: 2005-06-20 02:27:35
+
+----
+
+Inventory: page://FUxUxSVSCaiAdJIF
+
+----
+
+Uuid: dvcFZWNobExQBxlA
+
+----
+
+Customer: page://f8De5bhXCAHFGrbE

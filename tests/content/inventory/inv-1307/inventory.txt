@@ -1,0 +1,17 @@
+Title: Inv 1307
+
+----
+
+Inventory-id: 1307
+
+----
+
+Film: page://XoJ7wKbaZ3Y7kJw7
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: RUuVzXN2jcZu5NoH

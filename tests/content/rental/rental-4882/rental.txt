@@ -1,0 +1,25 @@
+Title: Rental 4882
+
+----
+
+Rental-id: 4882
+
+----
+
+Rental-date: 2005-07-08 19:42:03
+
+----
+
+Return-date: 2005-07-16 22:24:03
+
+----
+
+Inventory: page://M99CjiQ3cKqwD8pV
+
+----
+
+Uuid: ABENFpqt1u03MXBt
+
+----
+
+Customer: page://lbp1BbLq7Ei9MNWx

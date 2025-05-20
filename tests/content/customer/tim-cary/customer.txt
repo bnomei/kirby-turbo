@@ -1,0 +1,33 @@
+Title: TIM CARY
+
+----
+
+Customer-id: 468
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: TIM
+
+----
+
+Last-name: CARY
+
+----
+
+Email: TIM.CARY@sakilacustomer.org
+
+----
+
+Address: page://GrQ8UVdNiehzoIIH
+
+----
+
+Active: 1
+
+----
+
+Uuid: tS8tZAomHzcsij8a

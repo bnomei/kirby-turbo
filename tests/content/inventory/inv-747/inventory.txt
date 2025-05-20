@@ -1,0 +1,17 @@
+Title: Inv 747
+
+----
+
+Inventory-id: 747
+
+----
+
+Film: page://OHnDiDEdYHsPNVrg
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: OzEQuRZjaFDuAK4T

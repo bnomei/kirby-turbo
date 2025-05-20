@@ -1,0 +1,42 @@
+Title: ATTACKS HATE
+
+----
+
+Actors:
+
+- 'page://NkG0QBqlgfweHNxN'
+- 'page://I440rKCeu4AX6xcF'
+- 'page://twoON2iToIZq1akt'
+- 'page://h9gp2o2uGocb4AUV'
+
+----
+
+Film-id: 44
+
+----
+
+Description: A Fast-Paced Panorama of a Technical Writer And a Mad Scientist who must Find a Feminist in An Abandoned Mine Shaft
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 113
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: yH44ITnR88OkWpTR
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

@@ -1,0 +1,17 @@
+Title: Inv 3005
+
+----
+
+Inventory-id: 3005
+
+----
+
+Film: page://ZBMBy0rCVBWBK5bQ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: QuaVCGEeAbh1icz9

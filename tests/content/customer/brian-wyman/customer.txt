@@ -1,0 +1,33 @@
+Title: BRIAN WYMAN
+
+----
+
+Customer-id: 318
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: BRIAN
+
+----
+
+Last-name: WYMAN
+
+----
+
+Email: BRIAN.WYMAN@sakilacustomer.org
+
+----
+
+Address: page://yQ6npAgmQTp54Qrd
+
+----
+
+Active: 1
+
+----
+
+Uuid: TA72aJUhlha5GAhY

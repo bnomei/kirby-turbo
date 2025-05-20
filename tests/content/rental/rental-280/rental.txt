@@ -1,0 +1,25 @@
+Title: Rental 280
+
+----
+
+Rental-id: 280
+
+----
+
+Rental-date: 2005-05-26 18:36:58
+
+----
+
+Return-date: 2005-05-27 23:42:58
+
+----
+
+Inventory: page://tVcJyAjPP0XlcaNp
+
+----
+
+Uuid: lAdnjEGVk5r8UCE0
+
+----
+
+Customer: page://W5URxqu7M4t7ujHI

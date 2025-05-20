@@ -1,0 +1,17 @@
+Title: Inv 1680
+
+----
+
+Inventory-id: 1680
+
+----
+
+Film: page://yyRGFoXZxZZSiUak
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: x4ihTbw3EN3zo1HU

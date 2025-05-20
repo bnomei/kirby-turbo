@@ -1,0 +1,17 @@
+Title: Inv 608
+
+----
+
+Inventory-id: 608
+
+----
+
+Film: page://sj6OKWzUbULhhmbx
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: X4J5W3oqLnQxeJNB

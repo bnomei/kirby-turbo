@@ -1,0 +1,17 @@
+Title: Inv 4569
+
+----
+
+Inventory-id: 4569
+
+----
+
+Film: page://xsl9RHv93yeclUCw
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: roJfcOPjf2D8JdeJ

@@ -1,0 +1,17 @@
+Title: Inv 1764
+
+----
+
+Inventory-id: 1764
+
+----
+
+Film: page://0MfWh6FVARMvO6ca
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: h5KvAldEBLW7OTPF

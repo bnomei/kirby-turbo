@@ -1,0 +1,17 @@
+Title: Inv 2513
+
+----
+
+Inventory-id: 2513
+
+----
+
+Film: page://OluPI03kV72pYmRj
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: sk9nJBXN6NTTh5rt

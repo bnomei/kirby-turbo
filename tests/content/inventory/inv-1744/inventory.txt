@@ -1,0 +1,17 @@
+Title: Inv 1744
+
+----
+
+Inventory-id: 1744
+
+----
+
+Film: page://g4dp4eGNZ1bFLnGu
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 9uBFf1b79X6U3UUX

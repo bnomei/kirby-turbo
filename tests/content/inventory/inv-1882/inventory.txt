@@ -1,0 +1,17 @@
+Title: Inv 1882
+
+----
+
+Inventory-id: 1882
+
+----
+
+Film: page://MiyXWOeAe6qfciiw
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: fVUU5viU7tOR1dlc

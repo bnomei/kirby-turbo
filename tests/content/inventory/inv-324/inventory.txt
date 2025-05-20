@@ -1,0 +1,17 @@
+Title: Inv 324
+
+----
+
+Inventory-id: 324
+
+----
+
+Film: page://1cDd3tLyJcgnY5J3
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: McRMYKMWCcjQ58Zs

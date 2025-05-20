@@ -1,0 +1,33 @@
+Title: SUZANNE NICHOLS
+
+----
+
+Customer-id: 153
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: SUZANNE
+
+----
+
+Last-name: NICHOLS
+
+----
+
+Email: SUZANNE.NICHOLS@sakilacustomer.org
+
+----
+
+Address: page://9arB4cM6R8Aldse3
+
+----
+
+Active: 1
+
+----
+
+Uuid: 1pdzc851na0nGZ94

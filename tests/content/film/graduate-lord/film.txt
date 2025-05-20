@@ -1,0 +1,40 @@
+Title: GRADUATE LORD
+
+----
+
+Actors:
+
+- 'page://Gsxc5TuqHyoQn1c1'
+- 'page://isKOKKisNfJh2ta1'
+
+----
+
+Film-id: 373
+
+----
+
+Description: A Lacklusture Epistle of a Girl And a A Shark who must Meet a Mad Scientist in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 156
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: 9C65JxCW0pw6tqcG
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

@@ -1,0 +1,25 @@
+Title: Rental 2621
+
+----
+
+Rental-id: 2621
+
+----
+
+Rental-date: 2005-06-19 08:07:31
+
+----
+
+Return-date: 2005-06-28 05:36:31
+
+----
+
+Inventory: page://7PRgtiut617sO6fQ
+
+----
+
+Uuid: dhqSEH1IDhKGgyNf
+
+----
+
+Customer: page://KliCwmxco9DJ4eNi

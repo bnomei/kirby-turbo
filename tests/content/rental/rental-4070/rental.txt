@@ -1,0 +1,25 @@
+Title: Rental 4070
+
+----
+
+Rental-id: 4070
+
+----
+
+Rental-date: 2005-07-07 04:37:09
+
+----
+
+Return-date: 2005-07-08 04:19:09
+
+----
+
+Inventory: page://TmkCX4hX6GEcnb1P
+
+----
+
+Uuid: DhxgbBD53BQtRUTV
+
+----
+
+Customer: page://GOt9TBIxUNbbEEg5

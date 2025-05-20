@@ -1,0 +1,17 @@
+Title: Inv 722
+
+----
+
+Inventory-id: 722
+
+----
+
+Film: page://ngy47YPsc0wCrBpL
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 9WXw6z6SJ1FAYHXm

@@ -1,0 +1,25 @@
+Title: Rental 6956
+
+----
+
+Rental-id: 6956
+
+----
+
+Rental-date: 2005-07-26 23:55:57
+
+----
+
+Return-date: 2005-08-03 21:41:57
+
+----
+
+Inventory: page://oh0wtvrNQrThiOip
+
+----
+
+Customer: page://Cu40qk5iMNg9WfrC
+
+----
+
+Uuid: lANkODsfnAd9JdQ0

@@ -1,0 +1,25 @@
+Title: Rental 4764
+
+----
+
+Rental-id: 4764
+
+----
+
+Rental-date: 2005-07-08 15:01:25
+
+----
+
+Return-date: 2005-07-17 15:16:25
+
+----
+
+Inventory: page://J20wVHtx8GbX9ZzK
+
+----
+
+Uuid: j8RrfI3RASBS6rZP
+
+----
+
+Customer: page://62MZSyLkLyVVQ5Cs

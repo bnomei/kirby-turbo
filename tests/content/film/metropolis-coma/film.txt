@@ -1,0 +1,44 @@
+Title: METROPOLIS COMA
+
+----
+
+Actors:
+
+- 'page://JA85uxdb8uiPNO2i'
+- 'page://8v9dhLSIQd0NpUQl'
+- 'page://Bfp6QX9U0O1ZLM64'
+- 'page://wedufH6fwkxwowcr'
+- 'page://f3T5R3qlMgXii7Oj'
+- 'page://8sAZxgGEUjJot3JV'
+
+----
+
+Film-id: 572
+
+----
+
+Description: A Emotional Saga of a Database Administrator And a Pastry Chef who must Confront a Teacher in A Baloon Factory
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 64
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: JCsvpX3EEwo6WY99
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

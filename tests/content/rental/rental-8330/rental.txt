@@ -1,0 +1,25 @@
+Title: Rental 8330
+
+----
+
+Rental-id: 8330
+
+----
+
+Rental-date: 2005-07-29 04:09:07
+
+----
+
+Return-date: 2005-08-05 05:00:07
+
+----
+
+Inventory: page://uOVGfaqpL6N7MkG7
+
+----
+
+Customer: page://7L8rEdWDVFlYJ1mL
+
+----
+
+Uuid: TomhlZJIdMQfqfqb

@@ -1,0 +1,41 @@
+Title: SUICIDES SILENCE
+
+----
+
+Actors:
+
+- 'page://Bfp6QX9U0O1ZLM64'
+- 'page://dRscV8wJJ6wok0jq'
+- 'page://FSTBtYrNkVQnDKPa'
+
+----
+
+Film-id: 860
+
+----
+
+Description: A Emotional Character Study of a Car And a Girl who must Face a Composer in A U-Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 93
+
+----
+
+Rating: G
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: jUKwdCbh3bEKp6wB
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

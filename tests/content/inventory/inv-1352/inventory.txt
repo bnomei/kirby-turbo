@@ -1,0 +1,17 @@
+Title: Inv 1352
+
+----
+
+Inventory-id: 1352
+
+----
+
+Film: page://pE9A3dF9KlWL4gdM
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: TIBcjzFVHUNB8Gcx

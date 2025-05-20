@@ -1,0 +1,25 @@
+Title: Rental 1604
+
+----
+
+Rental-id: 1604
+
+----
+
+Rental-date: 2005-06-16 06:14:25
+
+----
+
+Return-date: 2005-06-17 03:53:25
+
+----
+
+Inventory: page://4aee1L9NnuRrDhPU
+
+----
+
+Uuid: gMvHCJQEOGMW9O9e
+
+----
+
+Customer: page://ZOo5G7TWezJJco39

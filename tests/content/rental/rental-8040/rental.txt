@@ -1,0 +1,25 @@
+Title: Rental 8040
+
+----
+
+Rental-id: 8040
+
+----
+
+Rental-date: 2005-07-28 16:39:43
+
+----
+
+Return-date: 2005-08-02 20:00:43
+
+----
+
+Inventory: page://EOggcT5zhM25r42z
+
+----
+
+Customer: page://dH8QcNydtJRu0BPQ
+
+----
+
+Uuid: 9rKTj7l0DFTpxyHk

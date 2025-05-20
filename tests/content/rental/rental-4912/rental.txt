@@ -1,0 +1,25 @@
+Title: Rental 4912
+
+----
+
+Rental-id: 4912
+
+----
+
+Rental-date: 2005-07-08 21:26:11
+
+----
+
+Return-date: 2005-07-18 02:19:11
+
+----
+
+Inventory: page://sp7PlJkIKBzABGmG
+
+----
+
+Uuid: LFG2KQVzpRtMus83
+
+----
+
+Customer: page://Ux04BSv2KWensEQv

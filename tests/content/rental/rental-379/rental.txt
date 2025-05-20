@@ -1,0 +1,25 @@
+Title: Rental 379
+
+----
+
+Rental-id: 379
+
+----
+
+Rental-date: 2005-05-27 09:25:32
+
+----
+
+Return-date: 2005-06-02 06:19:32
+
+----
+
+Inventory: page://zE0jQ8Q5MWvESpDG
+
+----
+
+Uuid: 8dX6jhLHV2UMxroh
+
+----
+
+Customer: page://39hvxMFvUZi2TOlv

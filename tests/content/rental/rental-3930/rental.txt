@@ -1,0 +1,25 @@
+Title: Rental 3930
+
+----
+
+Rental-id: 3930
+
+----
+
+Rental-date: 2005-07-06 20:54:07
+
+----
+
+Return-date: 2005-07-10 18:31:07
+
+----
+
+Inventory: page://BUhamFBUGn205mnd
+
+----
+
+Uuid: A1gv4QUWKaD59r22
+
+----
+
+Customer: page://fh18zcKIesBiok66

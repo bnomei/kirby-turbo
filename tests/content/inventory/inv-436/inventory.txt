@@ -1,0 +1,17 @@
+Title: Inv 436
+
+----
+
+Inventory-id: 436
+
+----
+
+Film: page://rcvjkFSNuD846WP8
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: TwKw8vdL9sKEqzP9

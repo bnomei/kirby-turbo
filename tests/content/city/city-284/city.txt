@@ -1,0 +1,17 @@
+Title: Kurashiki
+
+----
+
+City-id: 284
+
+----
+
+City: Kurashiki
+
+----
+
+Country: page://XEyP9uxOgFESeyaK
+
+----
+
+Uuid: IR9e5flHposRyPSA

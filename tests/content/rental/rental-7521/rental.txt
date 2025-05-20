@@ -1,0 +1,25 @@
+Title: Rental 7521
+
+----
+
+Rental-id: 7521
+
+----
+
+Rental-date: 2005-07-27 21:04:42
+
+----
+
+Return-date: 2005-08-03 16:06:42
+
+----
+
+Inventory: page://hxaqZndHkiSJSckE
+
+----
+
+Customer: page://8I9W8oDFPxssbhIJ
+
+----
+
+Uuid: rBzPSIk37s632wcZ

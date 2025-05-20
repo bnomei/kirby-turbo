@@ -1,0 +1,17 @@
+Title: São Bernardo do Campo
+
+----
+
+City-id: 485
+
+----
+
+City: São Bernardo do Campo
+
+----
+
+Country: page://jIqa2ZvYow6Egqhx
+
+----
+
+Uuid: uxBbML9EficbUvmH

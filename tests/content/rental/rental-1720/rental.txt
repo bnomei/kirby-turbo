@@ -1,0 +1,25 @@
+Title: Rental 1720
+
+----
+
+Rental-id: 1720
+
+----
+
+Rental-date: 2005-06-16 15:00:14
+
+----
+
+Return-date: 2005-06-21 13:57:14
+
+----
+
+Inventory: page://NaTNnxoUgyl3CLzM
+
+----
+
+Uuid: QTMVwKUx6Kp24I1K
+
+----
+
+Customer: page://DmLqAKJqqCmbO2QP

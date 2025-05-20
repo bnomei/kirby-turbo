@@ -1,0 +1,33 @@
+Title: TROY QUIGLEY
+
+----
+
+Customer-id: 436
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: TROY
+
+----
+
+Last-name: QUIGLEY
+
+----
+
+Email: TROY.QUIGLEY@sakilacustomer.org
+
+----
+
+Address: page://sKD3yRNVxUJjfL4D
+
+----
+
+Active: 1
+
+----
+
+Uuid: bsdF0qup1RBkJReP

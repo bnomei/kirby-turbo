@@ -1,0 +1,25 @@
+Title: Rental 9070
+
+----
+
+Rental-id: 9070
+
+----
+
+Rental-date: 2005-07-30 07:40:39
+
+----
+
+Return-date: 2005-08-01 04:19:39
+
+----
+
+Inventory: page://vZ3jBtkeitS0x17k
+
+----
+
+Customer: page://ITr0DtQiC8vNX3ax
+
+----
+
+Uuid: 3eLTnlZfmLjnme0F

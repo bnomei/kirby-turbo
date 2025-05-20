@@ -1,0 +1,33 @@
+Title: BARBARA JONES
+
+----
+
+Customer-id: 4
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: BARBARA
+
+----
+
+Last-name: JONES
+
+----
+
+Email: BARBARA.JONES@sakilacustomer.org
+
+----
+
+Address: page://XuUxOsq3eDAIBqzB
+
+----
+
+Active: 1
+
+----
+
+Uuid: ftEMvnSK11uTw7qY

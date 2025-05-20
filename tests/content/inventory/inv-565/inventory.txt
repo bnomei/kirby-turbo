@@ -1,0 +1,17 @@
+Title: Inv 565
+
+----
+
+Inventory-id: 565
+
+----
+
+Film: page://QhHzuZm4hAClGL03
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 1h5QphJOk6owZiZd

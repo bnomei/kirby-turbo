@@ -1,0 +1,25 @@
+Title: Rental 14001
+
+----
+
+Rental-id: 14001
+
+----
+
+Rental-date: 2005-08-20 20:07:15
+
+----
+
+Return-date: 2005-08-27 00:50:15
+
+----
+
+Inventory: page://CC9uGTlLnOUSeY7C
+
+----
+
+Customer: page://7XleW0b2x259mfJ9
+
+----
+
+Uuid: DKre5kuj9Y3QDuqN

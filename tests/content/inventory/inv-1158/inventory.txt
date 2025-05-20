@@ -1,0 +1,17 @@
+Title: Inv 1158
+
+----
+
+Inventory-id: 1158
+
+----
+
+Film: page://GiwaAwcsTjemWf4N
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Peta8vvUWvCUtxF9

@@ -1,0 +1,17 @@
+Title: Inv 2615
+
+----
+
+Inventory-id: 2615
+
+----
+
+Film: page://zvaoZlFDs3OYcy8r
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: vzoYOgTkGSFdZUGP

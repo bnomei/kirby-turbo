@@ -1,0 +1,17 @@
+Title: Inv 2765
+
+----
+
+Inventory-id: 2765
+
+----
+
+Film: page://Ot6UtgoqLM35goYk
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: G56XJcok3qa2EHu2

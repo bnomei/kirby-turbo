@@ -1,0 +1,17 @@
+Title: Inv 4023
+
+----
+
+Inventory-id: 4023
+
+----
+
+Film: page://FO7WooEjSehhlJ7I
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: M5xBE9txsuaTxr20

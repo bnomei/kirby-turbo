@@ -1,0 +1,25 @@
+Title: Rental 4805
+
+----
+
+Rental-id: 4805
+
+----
+
+Rental-date: 2005-07-08 16:59:12
+
+----
+
+Return-date: 2005-07-09 15:02:12
+
+----
+
+Inventory: page://fbVWBF0U0pW8Ri7r
+
+----
+
+Uuid: RSD36Rbj7Gi9Zo1y
+
+----
+
+Customer: page://KtdUvW4BiY66VFBy

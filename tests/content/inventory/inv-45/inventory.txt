@@ -1,0 +1,17 @@
+Title: Inv 45
+
+----
+
+Inventory-id: 45
+
+----
+
+Film: page://msiPzQjMlcmUp6S6
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: QMqNrrN3ajbYBr0H

@@ -1,0 +1,17 @@
+Title: Inv 477
+
+----
+
+Inventory-id: 477
+
+----
+
+Film: page://DOtC9jr927fiH9Lg
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 6QU4ISJ724bqFFhD

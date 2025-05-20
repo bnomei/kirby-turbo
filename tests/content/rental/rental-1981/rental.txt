@@ -1,0 +1,25 @@
+Title: Rental 1981
+
+----
+
+Rental-id: 1981
+
+----
+
+Rental-date: 2005-06-17 10:03:34
+
+----
+
+Return-date: 2005-06-20 13:14:34
+
+----
+
+Inventory: page://FuJwnfXIIn43H6nJ
+
+----
+
+Uuid: ngJBDY6jlBA9er9y
+
+----
+
+Customer: page://yQcQ1eHjHG2TC2t0

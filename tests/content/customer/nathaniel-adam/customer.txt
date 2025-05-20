@@ -1,0 +1,33 @@
+Title: NATHANIEL ADAM
+
+----
+
+Customer-id: 504
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: NATHANIEL
+
+----
+
+Last-name: ADAM
+
+----
+
+Email: NATHANIEL.ADAM@sakilacustomer.org
+
+----
+
+Address: page://oOzPefzaTIGJmOBH
+
+----
+
+Active: 1
+
+----
+
+Uuid: 3TbKsrXXeDJmJc4J

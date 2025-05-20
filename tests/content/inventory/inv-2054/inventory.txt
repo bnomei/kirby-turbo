@@ -1,0 +1,17 @@
+Title: Inv 2054
+
+----
+
+Inventory-id: 2054
+
+----
+
+Film: page://cg8mLwYSOE42izJZ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: GdVMSHh9Pms4pUPw

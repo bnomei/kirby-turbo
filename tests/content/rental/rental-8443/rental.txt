@@ -1,0 +1,25 @@
+Title: Rental 8443
+
+----
+
+Rental-id: 8443
+
+----
+
+Rental-date: 2005-07-29 07:33:12
+
+----
+
+Return-date: 2005-08-02 01:36:12
+
+----
+
+Inventory: page://j5JaLMf1cRO2Cory
+
+----
+
+Customer: page://cRRGmCnzUGugZdVF
+
+----
+
+Uuid: IrcMySHQuC4ruc5t

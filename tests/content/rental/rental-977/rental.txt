@@ -1,0 +1,25 @@
+Title: Rental 977
+
+----
+
+Rental-id: 977
+
+----
+
+Rental-date: 2005-05-30 21:22:26
+
+----
+
+Return-date: 2005-06-04 22:32:26
+
+----
+
+Inventory: page://HjRSoNEVHdV7Wul5
+
+----
+
+Uuid: WFjSilqL3JlRkUSP
+
+----
+
+Customer: page://HiWqju3pijeJQEv1

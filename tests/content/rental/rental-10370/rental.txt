@@ -1,0 +1,25 @@
+Title: Rental 10370
+
+----
+
+Rental-id: 10370
+
+----
+
+Rental-date: 2005-08-01 06:18:04
+
+----
+
+Return-date: 2005-08-05 01:41:04
+
+----
+
+Inventory: page://giHzoIL69LSDCtUy
+
+----
+
+Customer: page://d0yy9DCHO4pfzlZU
+
+----
+
+Uuid: 7jXKbAeot0rte1yP

@@ -1,0 +1,25 @@
+Title: Rental 730
+
+----
+
+Rental-id: 730
+
+----
+
+Rental-date: 2005-05-29 07:00:59
+
+----
+
+Return-date: 2005-06-06 01:17:59
+
+----
+
+Inventory: page://m1d3qwlbAt6ebWrt
+
+----
+
+Uuid: e77A488uoFKBdi7N
+
+----
+
+Customer: page://CcA8b6iqpwFbs801

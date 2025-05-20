@@ -1,0 +1,25 @@
+Title: Rental 9480
+
+----
+
+Rental-id: 9480
+
+----
+
+Rental-date: 2005-07-30 23:26:03
+
+----
+
+Return-date: 2005-08-04 21:18:03
+
+----
+
+Inventory: page://oomGmBkPoyUCwCMv
+
+----
+
+Customer: page://rpWI4a1QTMW5t3NZ
+
+----
+
+Uuid: miRVhL5q3Bv4IRP3

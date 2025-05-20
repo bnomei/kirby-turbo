@@ -1,0 +1,42 @@
+Title: AMISTAD MIDSUMMER
+
+----
+
+Actors:
+
+- 'page://GwUKN9N7u1wbNu4w'
+- 'page://lWEFCFc3fpMkkCVm'
+- 'page://rnDcbekdB8oOqt97'
+- 'page://QXMalcumIlXeK8Z2'
+
+----
+
+Film-id: 22
+
+----
+
+Description: A Emotional Character Study of a Dentist And a Crocodile who must Meet a Sumo Wrestler in California
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 85
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: b1Jwkyx0EgqGxI7i
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

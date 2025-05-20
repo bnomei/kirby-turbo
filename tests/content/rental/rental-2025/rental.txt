@@ -1,0 +1,25 @@
+Title: Rental 2025
+
+----
+
+Rental-id: 2025
+
+----
+
+Rental-date: 2005-06-17 13:04:00
+
+----
+
+Return-date: 2005-06-18 18:45:00
+
+----
+
+Inventory: page://v1iKluoCRqRUcdie
+
+----
+
+Uuid: pBF4ceNE4uDTBJXZ
+
+----
+
+Customer: page://Oh5C897HuaFVNnEP

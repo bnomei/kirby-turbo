@@ -1,0 +1,25 @@
+Title: Rental 2340
+
+----
+
+Rental-id: 2340
+
+----
+
+Rental-date: 2005-06-18 11:30:56
+
+----
+
+Return-date: 2005-06-23 06:00:56
+
+----
+
+Inventory: page://sB5Z17SL618qW1av
+
+----
+
+Uuid: 0utBgZ35doVOlZP6
+
+----
+
+Customer: page://AkaRCOxNSCiOcy32

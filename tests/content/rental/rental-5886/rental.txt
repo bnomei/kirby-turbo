@@ -1,0 +1,25 @@
+Title: Rental 5886
+
+----
+
+Rental-id: 5886
+
+----
+
+Rental-date: 2005-07-10 19:36:25
+
+----
+
+Return-date: 2005-07-11 22:24:25
+
+----
+
+Inventory: page://QNrzeqBTYnW2Ukch
+
+----
+
+Uuid: pbgr3rxrVxoWMcux
+
+----
+
+Customer: page://Waos8TO100plOpAg

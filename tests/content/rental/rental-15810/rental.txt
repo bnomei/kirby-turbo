@@ -1,0 +1,25 @@
+Title: Rental 15810
+
+----
+
+Rental-id: 15810
+
+----
+
+Rental-date: 2005-08-23 14:43:15
+
+----
+
+Return-date: 2005-08-25 17:41:15
+
+----
+
+Inventory: page://jTSQNS22zWZh92zL
+
+----
+
+Customer: page://a8PAxcavjVVdCjjp
+
+----
+
+Uuid: yfoEITKQqhd6str7

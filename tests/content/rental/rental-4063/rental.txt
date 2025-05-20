@@ -1,0 +1,25 @@
+Title: Rental 4063
+
+----
+
+Rental-id: 4063
+
+----
+
+Rental-date: 2005-07-07 04:23:57
+
+----
+
+Return-date: 2005-07-14 23:35:57
+
+----
+
+Inventory: page://3ehHbcuw532SPk6j
+
+----
+
+Uuid: ARqdsOnyajpHmIx3
+
+----
+
+Customer: page://DxMKPSznn9C2XI5l

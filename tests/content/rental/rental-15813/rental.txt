@@ -1,0 +1,21 @@
+Title: Rental 15813
+
+----
+
+Rental-id: 15813
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://GcVifQZB8ji9mVha
+
+----
+
+Customer: page://woNj5GQ9VpxY7M5X
+
+----
+
+Uuid: jpvPqJg4GI5XMq8Q

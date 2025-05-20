@@ -1,0 +1,25 @@
+Title: Rental 7812
+
+----
+
+Rental-id: 7812
+
+----
+
+Rental-date: 2005-07-28 08:06:52
+
+----
+
+Return-date: 2005-07-31 09:57:52
+
+----
+
+Inventory: page://vheC7uHXBd1C66eh
+
+----
+
+Customer: page://C3eafCVvL0UMkPhL
+
+----
+
+Uuid: wfy2EYjLIEtrhuzr

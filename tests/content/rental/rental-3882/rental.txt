@@ -1,0 +1,25 @@
+Title: Rental 3882
+
+----
+
+Rental-id: 3882
+
+----
+
+Rental-date: 2005-07-06 18:38:21
+
+----
+
+Return-date: 2005-07-09 14:55:21
+
+----
+
+Inventory: page://bF5WxZawOR8Hs39R
+
+----
+
+Uuid: G6RbgCdL07BPSOYd
+
+----
+
+Customer: page://v2N94muKJ3uhMCtA

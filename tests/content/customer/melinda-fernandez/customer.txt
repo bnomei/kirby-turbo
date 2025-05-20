@@ -1,0 +1,33 @@
+Title: MELINDA FERNANDEZ
+
+----
+
+Customer-id: 223
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MELINDA
+
+----
+
+Last-name: FERNANDEZ
+
+----
+
+Email: MELINDA.FERNANDEZ@sakilacustomer.org
+
+----
+
+Address: page://FODubo1oyonMWkXa
+
+----
+
+Active: 1
+
+----
+
+Uuid: EcxXI702tDu4xH3y

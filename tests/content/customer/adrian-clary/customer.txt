@@ -1,0 +1,33 @@
+Title: ADRIAN CLARY
+
+----
+
+Customer-id: 525
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ADRIAN
+
+----
+
+Last-name: CLARY
+
+----
+
+Email: ADRIAN.CLARY@sakilacustomer.org
+
+----
+
+Address: page://OVxIseMnrEDgheAy
+
+----
+
+Active: 1
+
+----
+
+Uuid: AFChx19aWGlTZnX0

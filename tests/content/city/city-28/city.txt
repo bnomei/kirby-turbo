@@ -1,0 +1,17 @@
+Title: Aparecida de Goiânia
+
+----
+
+City-id: 28
+
+----
+
+City: Aparecida de Goiânia
+
+----
+
+Country: page://jIqa2ZvYow6Egqhx
+
+----
+
+Uuid: 5om5vHhb78OSDKcS

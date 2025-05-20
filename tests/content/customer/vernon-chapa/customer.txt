@@ -1,0 +1,33 @@
+Title: VERNON CHAPA
+
+----
+
+Customer-id: 483
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: VERNON
+
+----
+
+Last-name: CHAPA
+
+----
+
+Email: VERNON.CHAPA@sakilacustomer.org
+
+----
+
+Address: page://Gb2hFlQuQwULCt6U
+
+----
+
+Active: 1
+
+----
+
+Uuid: reaWSdyj7YyLoivl

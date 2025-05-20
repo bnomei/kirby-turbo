@@ -1,0 +1,17 @@
+Title: Inv 2060
+
+----
+
+Inventory-id: 2060
+
+----
+
+Film: page://Xvezg1HAGLbTRKmJ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: dq8IimEXDgBhOOe7

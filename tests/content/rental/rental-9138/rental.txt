@@ -1,0 +1,25 @@
+Title: Rental 9138
+
+----
+
+Rental-id: 9138
+
+----
+
+Rental-date: 2005-07-30 10:11:52
+
+----
+
+Return-date: 2005-07-31 07:05:52
+
+----
+
+Inventory: page://DIRVZ57eznUL83OL
+
+----
+
+Customer: page://RShdmMICVp8lAUwL
+
+----
+
+Uuid: aVEAT6xacCMot1Gr

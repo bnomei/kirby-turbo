@@ -1,0 +1,17 @@
+Title: Inv 3398
+
+----
+
+Inventory-id: 3398
+
+----
+
+Film: page://fvcS3Vnuhg3KHjnx
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: OTHNe8S4Ue4wAH82

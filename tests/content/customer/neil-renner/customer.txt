@@ -1,0 +1,33 @@
+Title: NEIL RENNER
+
+----
+
+Customer-id: 532
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: NEIL
+
+----
+
+Last-name: RENNER
+
+----
+
+Email: NEIL.RENNER@sakilacustomer.org
+
+----
+
+Address: page://waala3tz3cURYrKJ
+
+----
+
+Active: 1
+
+----
+
+Uuid: jNinHUxNSvO3KbCp

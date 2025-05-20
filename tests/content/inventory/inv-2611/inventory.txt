@@ -1,0 +1,17 @@
+Title: Inv 2611
+
+----
+
+Inventory-id: 2611
+
+----
+
+Film: page://JCsvpX3EEwo6WY99
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: wSB9XjgRKHlpjIdb

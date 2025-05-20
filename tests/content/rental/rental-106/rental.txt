@@ -1,0 +1,25 @@
+Title: Rental 106
+
+----
+
+Rental-id: 106
+
+----
+
+Rental-date: 2005-05-25 18:18:19
+
+----
+
+Return-date: 2005-06-04 00:01:19
+
+----
+
+Inventory: page://XyYTXpV2AnPKzsLa
+
+----
+
+Uuid: GF14Tl3djv0Vb35a
+
+----
+
+Customer: page://TCHvKARcBg3R487d

@@ -1,0 +1,25 @@
+Title: Rental 1020
+
+----
+
+Rental-id: 1020
+
+----
+
+Rental-date: 2005-05-31 03:06:08
+
+----
+
+Return-date: 2005-06-02 08:57:08
+
+----
+
+Inventory: page://fgHORPWxi4raC5Ng
+
+----
+
+Uuid: iuWQ1Cbg3Hu62N5Z
+
+----
+
+Customer: page://d4Qzzmipb5Xdc54C

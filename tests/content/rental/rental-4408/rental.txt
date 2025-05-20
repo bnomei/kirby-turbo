@@ -1,0 +1,25 @@
+Title: Rental 4408
+
+----
+
+Rental-id: 4408
+
+----
+
+Rental-date: 2005-07-07 21:41:06
+
+----
+
+Return-date: 2005-07-11 00:32:06
+
+----
+
+Inventory: page://PhwbQa9xICXHcerh
+
+----
+
+Uuid: nLxExqemH3LIpptZ
+
+----
+
+Customer: page://zIZEZREf483r6GLp

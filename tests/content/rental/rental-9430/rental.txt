@@ -1,0 +1,25 @@
+Title: Rental 9430
+
+----
+
+Rental-id: 9430
+
+----
+
+Rental-date: 2005-07-30 21:20:13
+
+----
+
+Return-date: 2005-08-04 21:45:13
+
+----
+
+Inventory: page://GggLyFfFI4gOoF1R
+
+----
+
+Customer: page://1Uz8TMpklCxhdMmv
+
+----
+
+Uuid: Gxkl7pxrs1q6IP5G

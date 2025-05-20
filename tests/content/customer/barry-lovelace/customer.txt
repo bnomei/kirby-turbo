@@ -1,0 +1,33 @@
+Title: BARRY LOVELACE
+
+----
+
+Customer-id: 438
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: BARRY
+
+----
+
+Last-name: LOVELACE
+
+----
+
+Email: BARRY.LOVELACE@sakilacustomer.org
+
+----
+
+Address: page://4kTHBrFmrC0v6TYj
+
+----
+
+Active: 1
+
+----
+
+Uuid: GsCMla3dLxvFaycH

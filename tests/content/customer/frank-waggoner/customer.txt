@@ -1,0 +1,33 @@
+Title: FRANK WAGGONER
+
+----
+
+Customer-id: 329
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: FRANK
+
+----
+
+Last-name: WAGGONER
+
+----
+
+Email: FRANK.WAGGONER@sakilacustomer.org
+
+----
+
+Address: page://YnY1LObqEU9xMc47
+
+----
+
+Active: 1
+
+----
+
+Uuid: uPhvBTY0GbGPCouW

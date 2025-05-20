@@ -1,0 +1,25 @@
+Title: Rental 4818
+
+----
+
+Rental-id: 4818
+
+----
+
+Rental-date: 2005-07-08 17:18:22
+
+----
+
+Return-date: 2005-07-14 14:40:22
+
+----
+
+Inventory: page://IxtExppiFRPFzjgt
+
+----
+
+Uuid: HwQp78pAvU6YGkLC
+
+----
+
+Customer: page://rug4r6NdvQakm9EC

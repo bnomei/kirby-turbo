@@ -1,0 +1,25 @@
+Title: Rental 15331
+
+----
+
+Rental-id: 15331
+
+----
+
+Rental-date: 2005-08-22 20:37:57
+
+----
+
+Return-date: 2005-08-25 21:56:57
+
+----
+
+Inventory: page://45mLNyVKi1eyNpvw
+
+----
+
+Customer: page://cT1ATboviBoOP1VF
+
+----
+
+Uuid: aOgE0GFdezjwuAAW

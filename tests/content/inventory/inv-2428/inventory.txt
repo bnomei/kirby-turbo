@@ -1,0 +1,17 @@
+Title: Inv 2428
+
+----
+
+Inventory-id: 2428
+
+----
+
+Film: page://L2z7f35aAXCyKGgv
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: n9loZRUyOiYpL2LY

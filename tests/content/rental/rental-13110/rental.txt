@@ -1,0 +1,25 @@
+Title: Rental 13110
+
+----
+
+Rental-id: 13110
+
+----
+
+Rental-date: 2005-08-19 11:24:37
+
+----
+
+Return-date: 2005-08-21 05:48:37
+
+----
+
+Inventory: page://k5BdPzHG2gLhxmhm
+
+----
+
+Customer: page://Oh5C897HuaFVNnEP
+
+----
+
+Uuid: 1Lv8sqeaOjoaTZcY

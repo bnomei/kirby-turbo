@@ -1,0 +1,25 @@
+Title: Rental 10947
+
+----
+
+Rental-id: 10947
+
+----
+
+Rental-date: 2005-08-02 03:23:17
+
+----
+
+Return-date: 2005-08-07 05:25:17
+
+----
+
+Inventory: page://fQQq0tPzT5JyheoS
+
+----
+
+Customer: page://dCSTJjEmIHM7hQ5W
+
+----
+
+Uuid: Tw6sWwDwI5TBHI6a

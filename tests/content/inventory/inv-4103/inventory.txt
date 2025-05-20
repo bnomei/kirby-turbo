@@ -1,0 +1,17 @@
+Title: Inv 4103
+
+----
+
+Inventory-id: 4103
+
+----
+
+Film: page://TA76R8F61TYUcZhH
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: u5GkEWurGmLDK781

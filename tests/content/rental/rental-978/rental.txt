@@ -1,0 +1,25 @@
+Title: Rental 978
+
+----
+
+Rental-id: 978
+
+----
+
+Rental-date: 2005-05-30 21:30:52
+
+----
+
+Return-date: 2005-06-07 16:22:52
+
+----
+
+Inventory: page://7a20mXf372dLZEzD
+
+----
+
+Uuid: QpQfQFwO3Yx3LIDx
+
+----
+
+Customer: page://cUF1fk2bBpJmuvzJ

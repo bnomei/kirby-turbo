@@ -1,0 +1,25 @@
+Title: Rental 1499
+
+----
+
+Rental-id: 1499
+
+----
+
+Rental-date: 2005-06-15 21:58:07
+
+----
+
+Return-date: 2005-06-22 19:37:07
+
+----
+
+Inventory: page://BUhamFBUGn205mnd
+
+----
+
+Uuid: ZnhhZB2aFow5cWzw
+
+----
+
+Customer: page://sXFRFNABQAAwfZCO

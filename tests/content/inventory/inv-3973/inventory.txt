@@ -1,0 +1,17 @@
+Title: Inv 3973
+
+----
+
+Inventory-id: 3973
+
+----
+
+Film: page://d3ucrSFTIamNJlRe
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: z5gGyUW0piDLVi5b

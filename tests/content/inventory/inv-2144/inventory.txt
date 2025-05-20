@@ -1,0 +1,17 @@
+Title: Inv 2144
+
+----
+
+Inventory-id: 2144
+
+----
+
+Film: page://hLgDlzjCk0dFza0Z
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: w5epcep7HEgf7QS4

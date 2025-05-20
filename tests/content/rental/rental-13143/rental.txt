@@ -1,0 +1,25 @@
+Title: Rental 13143
+
+----
+
+Rental-id: 13143
+
+----
+
+Rental-date: 2005-08-19 12:44:38
+
+----
+
+Return-date: 2005-08-25 10:59:38
+
+----
+
+Inventory: page://1MSheNSMZ193LNs0
+
+----
+
+Customer: page://CWfw6rX3ydLvFm4G
+
+----
+
+Uuid: jSAn2F0A5ARDQocJ

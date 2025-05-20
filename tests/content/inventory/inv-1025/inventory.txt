@@ -1,0 +1,17 @@
+Title: Inv 1025
+
+----
+
+Inventory-id: 1025
+
+----
+
+Film: page://oflhBCkeFO0XcxrB
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Fdxu0MwIljjUcVKl

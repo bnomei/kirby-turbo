@@ -1,0 +1,17 @@
+Title: Inv 388
+
+----
+
+Inventory-id: 388
+
+----
+
+Film: page://wEJb7GxHt8TVKLil
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: wecXno56ERunJiB7

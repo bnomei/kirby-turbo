@@ -1,0 +1,25 @@
+Title: Rental 8731
+
+----
+
+Rental-id: 8731
+
+----
+
+Rental-date: 2005-07-29 18:23:57
+
+----
+
+Return-date: 2005-08-05 19:38:57
+
+----
+
+Inventory: page://H36u8eimSZfNTcv6
+
+----
+
+Customer: page://28btFRqxUbpYMux2
+
+----
+
+Uuid: tiClqpBrXLUlcJkp

@@ -1,0 +1,33 @@
+Title: SHELLY WATTS
+
+----
+
+Customer-id: 294
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: SHELLY
+
+----
+
+Last-name: WATTS
+
+----
+
+Email: SHELLY.WATTS@sakilacustomer.org
+
+----
+
+Address: page://MBB6WQ4sV5GW9CJh
+
+----
+
+Active: 1
+
+----
+
+Uuid: lFmyRUfgnuMLYrme

@@ -1,0 +1,25 @@
+Title: Rental 834
+
+----
+
+Rental-id: 834
+
+----
+
+Rental-date: 2005-05-29 23:24:30
+
+----
+
+Return-date: 2005-05-30 22:00:30
+
+----
+
+Inventory: page://k4wcQYuhEH7gqFTB
+
+----
+
+Uuid: ZcIGB5eKoaIM4hnp
+
+----
+
+Customer: page://cwgSUWzYLMDqVZzh

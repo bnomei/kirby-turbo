@@ -1,0 +1,25 @@
+Title: Rental 401
+
+----
+
+Rental-id: 401
+
+----
+
+Rental-date: 2005-05-27 12:57:55
+
+----
+
+Return-date: 2005-05-29 17:55:55
+
+----
+
+Inventory: page://RwUS96gg0CAYPY1T
+
+----
+
+Uuid: dSr1ZbgWKcyBpKYm
+
+----
+
+Customer: page://uTsl9Wlh901HIAgF

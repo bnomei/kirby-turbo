@@ -1,0 +1,33 @@
+Title: BERTHA FERGUSON
+
+----
+
+Customer-id: 156
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: BERTHA
+
+----
+
+Last-name: FERGUSON
+
+----
+
+Email: BERTHA.FERGUSON@sakilacustomer.org
+
+----
+
+Address: page://vv1slBVV5WEoO1EP
+
+----
+
+Active: 1
+
+----
+
+Uuid: rcuufatqxgEb3aDf

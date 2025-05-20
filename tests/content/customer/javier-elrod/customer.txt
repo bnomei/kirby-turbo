@@ -1,0 +1,33 @@
+Title: JAVIER ELROD
+
+----
+
+Customer-id: 535
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JAVIER
+
+----
+
+Last-name: ELROD
+
+----
+
+Email: JAVIER.ELROD@sakilacustomer.org
+
+----
+
+Address: page://PtfLJpZPOwqe9Bhn
+
+----
+
+Active: 1
+
+----
+
+Uuid: cTnAL41dTr6SZ2Pz

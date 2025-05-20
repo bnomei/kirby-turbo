@@ -1,0 +1,25 @@
+Title: Rental 848
+
+----
+
+Rental-id: 848
+
+----
+
+Rental-date: 2005-05-30 01:19:53
+
+----
+
+Return-date: 2005-06-05 23:40:53
+
+----
+
+Inventory: page://m3AzKnJjJoORyEYV
+
+----
+
+Uuid: 1Y9ixE2nRtR83DIP
+
+----
+
+Customer: page://bsdF0qup1RBkJReP

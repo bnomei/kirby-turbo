@@ -1,0 +1,25 @@
+Title: Rental 4136
+
+----
+
+Rental-id: 4136
+
+----
+
+Rental-date: 2005-07-07 08:15:52
+
+----
+
+Return-date: 2005-07-10 04:22:52
+
+----
+
+Inventory: page://bFXjrnISsub7uSzA
+
+----
+
+Uuid: r8J8hMN8uMiQISDv
+
+----
+
+Customer: page://9zYzK9WI4NUQdKUP

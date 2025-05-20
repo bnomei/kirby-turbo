@@ -1,0 +1,17 @@
+Title: Inv 3423
+
+----
+
+Inventory-id: 3423
+
+----
+
+Film: page://TsRnYPZMeN40cRNG
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 8bIwH0WdwV16pFQ7

@@ -1,0 +1,17 @@
+Title: Inv 2271
+
+----
+
+Inventory-id: 2271
+
+----
+
+Film: page://jGmVHtV5VR5Nsg4l
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Wq17MMYNCWWcC45v

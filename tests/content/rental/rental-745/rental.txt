@@ -1,0 +1,25 @@
+Title: Rental 745
+
+----
+
+Rental-id: 745
+
+----
+
+Rental-date: 2005-05-29 09:22:57
+
+----
+
+Return-date: 2005-06-01 09:10:57
+
+----
+
+Inventory: page://618XxO8ms5fnnHYu
+
+----
+
+Uuid: y3rlcy7ciKEWgkES
+
+----
+
+Customer: page://mEEAl0d4gMjFDZVU

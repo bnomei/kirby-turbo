@@ -1,0 +1,33 @@
+Title: VELMA LUCAS
+
+----
+
+Customer-id: 286
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: VELMA
+
+----
+
+Last-name: LUCAS
+
+----
+
+Email: VELMA.LUCAS@sakilacustomer.org
+
+----
+
+Address: page://ZylPS54huO9RPGaM
+
+----
+
+Active: 1
+
+----
+
+Uuid: luJ7Uo5a2aftAMEN

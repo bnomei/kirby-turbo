@@ -1,0 +1,40 @@
+Title: CREATURES SHAKESPEARE
+
+----
+
+Actors:
+
+- 'page://twoON2iToIZq1akt'
+- 'page://vMUybiWmK5EriDRU'
+
+----
+
+Film-id: 189
+
+----
+
+Description: A Emotional Drama of a Womanizer And a Squirrel who must Vanquish a Crocodile in Ancient India
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 139
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: qWq8CSbd7l4g3gHF
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

@@ -1,0 +1,25 @@
+Title: Rental 5427
+
+----
+
+Rental-id: 5427
+
+----
+
+Rental-date: 2005-07-09 21:12:26
+
+----
+
+Return-date: 2005-07-14 01:02:26
+
+----
+
+Inventory: page://vvmdxUaMxIOjKEIm
+
+----
+
+Uuid: MRKBZf7jFoft2E32
+
+----
+
+Customer: page://uRdLZLKD6zhz7xZm

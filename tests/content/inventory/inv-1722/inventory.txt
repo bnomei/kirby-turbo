@@ -1,0 +1,17 @@
+Title: Inv 1722
+
+----
+
+Inventory-id: 1722
+
+----
+
+Film: page://aIzeDPhb5b1oNOHo
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: VZBqsfNcbJ32Sp74

@@ -1,0 +1,25 @@
+Title: Rental 8111
+
+----
+
+Rental-id: 8111
+
+----
+
+Rental-date: 2005-07-28 19:10:03
+
+----
+
+Return-date: 2005-07-29 22:25:03
+
+----
+
+Inventory: page://4aee1L9NnuRrDhPU
+
+----
+
+Customer: page://bp3076yXkpG6TsZ7
+
+----
+
+Uuid: FGMvab10STJUrIVO

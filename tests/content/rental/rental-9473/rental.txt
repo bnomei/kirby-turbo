@@ -1,0 +1,25 @@
+Title: Rental 9473
+
+----
+
+Rental-id: 9473
+
+----
+
+Rental-date: 2005-07-30 23:04:13
+
+----
+
+Return-date: 2005-08-04 21:48:13
+
+----
+
+Inventory: page://rqe0Jdm29AeQNjGG
+
+----
+
+Customer: page://FVBT09sa4x7FnbO2
+
+----
+
+Uuid: fhcc18I0kutBdSGc

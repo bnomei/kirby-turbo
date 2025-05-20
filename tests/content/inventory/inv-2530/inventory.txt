@@ -1,0 +1,17 @@
+Title: Inv 2530
+
+----
+
+Inventory-id: 2530
+
+----
+
+Film: page://SR6DpfbquVcVhHuW
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: LSqWPJci0fU319io

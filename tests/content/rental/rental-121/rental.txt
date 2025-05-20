@@ -1,0 +1,25 @@
+Title: Rental 121
+
+----
+
+Rental-id: 121
+
+----
+
+Rental-date: 2005-05-25 19:41:29
+
+----
+
+Return-date: 2005-05-29 21:31:29
+
+----
+
+Inventory: page://RC5bw0voTV8W2VN5
+
+----
+
+Uuid: N7BighQmPsBJeSTL
+
+----
+
+Customer: page://E8B6f5Jketu7tOjl

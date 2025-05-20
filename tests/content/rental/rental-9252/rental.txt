@@ -1,0 +1,25 @@
+Title: Rental 9252
+
+----
+
+Rental-id: 9252
+
+----
+
+Rental-date: 2005-07-30 14:19:59
+
+----
+
+Return-date: 2005-08-07 15:17:59
+
+----
+
+Inventory: page://O29ITF6QuNXc8klO
+
+----
+
+Customer: page://oJcvcv4yGdx8WGkJ
+
+----
+
+Uuid: JMtJ6pQkjKxbWtol

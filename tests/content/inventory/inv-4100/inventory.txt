@@ -1,0 +1,17 @@
+Title: Inv 4100
+
+----
+
+Inventory-id: 4100
+
+----
+
+Film: page://GnFJxbp7YPoNmcsu
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Ma06TJCVlGgMhNSe

@@ -1,0 +1,33 @@
+Title: ARMANDO GRUBER
+
+----
+
+Customer-id: 556
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ARMANDO
+
+----
+
+Last-name: GRUBER
+
+----
+
+Email: ARMANDO.GRUBER@sakilacustomer.org
+
+----
+
+Address: page://HG87Y25jaQc7HorR
+
+----
+
+Active: 1
+
+----
+
+Uuid: jvfTUTQTIh7rD2Pp

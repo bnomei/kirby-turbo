@@ -1,0 +1,33 @@
+Title: WILMA RICHARDS
+
+----
+
+Customer-id: 212
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: WILMA
+
+----
+
+Last-name: RICHARDS
+
+----
+
+Email: WILMA.RICHARDS@sakilacustomer.org
+
+----
+
+Address: page://daGFYIdpOJcZqaH4
+
+----
+
+Active: 1
+
+----
+
+Uuid: 66OVCYFZ1KPdAPEm

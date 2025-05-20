@@ -1,0 +1,17 @@
+Title: Inv 2066
+
+----
+
+Inventory-id: 2066
+
+----
+
+Film: page://DmgJGeI5izOLiQ5J
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: rqlQM5KdsUgIecXB

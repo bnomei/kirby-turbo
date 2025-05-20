@@ -1,0 +1,33 @@
+Title: WILLIAM SATTERFIELD
+
+----
+
+Customer-id: 303
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: WILLIAM
+
+----
+
+Last-name: SATTERFIELD
+
+----
+
+Email: WILLIAM.SATTERFIELD@sakilacustomer.org
+
+----
+
+Address: page://dfPcW1nmnHMyFnO9
+
+----
+
+Active: 1
+
+----
+
+Uuid: bevxYrHtglALAL6m

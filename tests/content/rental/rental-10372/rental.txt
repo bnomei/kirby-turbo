@@ -1,0 +1,25 @@
+Title: Rental 10372
+
+----
+
+Rental-id: 10372
+
+----
+
+Rental-date: 2005-08-01 06:23:48
+
+----
+
+Return-date: 2005-08-06 03:47:48
+
+----
+
+Inventory: page://gCjzrAWi2Z7fk0ET
+
+----
+
+Customer: page://JOGcO1osu9TF8IEq
+
+----
+
+Uuid: Ly2r1mA2ChzaPP3k

@@ -1,0 +1,17 @@
+Title: Inv 1927
+
+----
+
+Inventory-id: 1927
+
+----
+
+Film: page://843vIja6ZhhXNEBy
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: myiyyDmvrNY2WBln

@@ -1,0 +1,25 @@
+Title: Rental 2939
+
+----
+
+Rental-id: 2939
+
+----
+
+Rental-date: 2005-06-20 05:18:16
+
+----
+
+Return-date: 2005-06-26 06:56:16
+
+----
+
+Inventory: page://H36u8eimSZfNTcv6
+
+----
+
+Uuid: DBZCV4EycUv1Q92v
+
+----
+
+Customer: page://9zYzK9WI4NUQdKUP

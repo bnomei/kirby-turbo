@@ -1,0 +1,17 @@
+Title: Inv 3512
+
+----
+
+Inventory-id: 3512
+
+----
+
+Film: page://twtLQqLxMR9UfGAw
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: LGnKO9IQXWfCtbod

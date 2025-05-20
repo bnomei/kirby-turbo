@@ -1,0 +1,33 @@
+Title: SHEILA WELLS
+
+----
+
+Customer-id: 124
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: SHEILA
+
+----
+
+Last-name: WELLS
+
+----
+
+Email: SHEILA.WELLS@sakilacustomer.org
+
+----
+
+Address: page://4zuRLcNrvFGtThJb
+
+----
+
+Active: 0
+
+----
+
+Uuid: PRYZKLCz6ndr3bge

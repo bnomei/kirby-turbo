@@ -1,0 +1,25 @@
+Title: Rental 7031
+
+----
+
+Rental-id: 7031
+
+----
+
+Rental-date: 2005-07-27 03:02:07
+
+----
+
+Return-date: 2005-08-02 07:14:07
+
+----
+
+Inventory: page://4fCrxpFVm9xXakmo
+
+----
+
+Customer: page://a0kMdWVetvJ1ZDeW
+
+----
+
+Uuid: E0EEL01OzUYPzKJT

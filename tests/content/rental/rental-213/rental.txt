@@ -1,0 +1,25 @@
+Title: Rental 213
+
+----
+
+Rental-id: 213
+
+----
+
+Rental-date: 2005-05-26 08:44:08
+
+----
+
+Return-date: 2005-05-31 12:33:08
+
+----
+
+Inventory: page://y9dUJ3mGdVN62gMF
+
+----
+
+Uuid: QNxDdEOg0NsewyMt
+
+----
+
+Customer: page://HiWqju3pijeJQEv1

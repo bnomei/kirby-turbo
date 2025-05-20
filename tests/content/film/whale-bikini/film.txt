@@ -1,0 +1,43 @@
+Title: WHALE BIKINI
+
+----
+
+Actors:
+
+- 'page://NQADDP2SQLBL6U9D'
+- 'page://MKZPC2AFXFjwPRw8'
+- 'page://ovAz2jwmaTIz5ph9'
+- 'page://8DAvKBc0CuAdRfXU'
+- 'page://zrJrW5pbY6A6t722'
+
+----
+
+Film-id: 971
+
+----
+
+Description: A Intrepid Story of a Pastry Chef And a Database Administrator who must Kill a Feminist in A MySQL Convention
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 109
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: TdUiDOSySk31crNC
+
+----
+
+Categories: - 'page://1zSlwtq2IyzVh9Hs'

@@ -1,0 +1,17 @@
+Title: Inv 2646
+
+----
+
+Inventory-id: 2646
+
+----
+
+Film: page://fMVuGw73V1AQomf3
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: uE7qDVCyka86wrnw

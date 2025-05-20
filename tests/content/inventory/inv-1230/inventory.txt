@@ -1,0 +1,17 @@
+Title: Inv 1230
+
+----
+
+Inventory-id: 1230
+
+----
+
+Film: page://dUaroWhMD6Ug8PIq
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: w58v88cSS5A19muM

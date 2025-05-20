@@ -1,0 +1,25 @@
+Title: Rental 9682
+
+----
+
+Rental-id: 9682
+
+----
+
+Rental-date: 2005-07-31 06:47:10
+
+----
+
+Return-date: 2005-08-04 09:07:10
+
+----
+
+Inventory: page://eKiqMPij5tE1lpWO
+
+----
+
+Customer: page://Tk6dRJV6KbPM8ESQ
+
+----
+
+Uuid: KMdu7F7DerkF8twt

@@ -1,0 +1,44 @@
+Title: FRONTIER CABIN
+
+----
+
+Actors:
+
+- 'page://S52CrIK06oYgWrwP'
+- 'page://jG0aUFRzU1eFlO8R'
+- 'page://CcQ0grF6yUDI2k9n'
+- 'page://9NAEa97MvjisWbzN'
+- 'page://S8UoUinBIsjzumVd'
+- 'page://yg3e89enY7SGtRB6'
+
+----
+
+Film-id: 340
+
+----
+
+Description: A Emotional Story of a Madman And a Waitress who must Battle a Teacher in An Abandoned Fun House
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 183
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: AaaW7QASq8GGOi6U
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

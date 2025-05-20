@@ -1,0 +1,25 @@
+Title: Rental 6928
+
+----
+
+Rental-id: 6928
+
+----
+
+Rental-date: 2005-07-26 22:56:21
+
+----
+
+Return-date: 2005-07-30 04:46:21
+
+----
+
+Inventory: page://g13kKY9Cpy6VhvPb
+
+----
+
+Customer: page://z84M1eOE64VO5Dm4
+
+----
+
+Uuid: Ld5p4SyHcbXCBDbf

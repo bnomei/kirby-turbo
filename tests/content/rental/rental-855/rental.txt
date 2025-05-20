@@ -1,0 +1,25 @@
+Title: Rental 855
+
+----
+
+Rental-id: 855
+
+----
+
+Rental-date: 2005-05-30 02:00:28
+
+----
+
+Return-date: 2005-06-03 20:16:28
+
+----
+
+Inventory: page://k9iqFNTbkhUcZSNw
+
+----
+
+Uuid: GJpvoRfBbtZGH5Ek
+
+----
+
+Customer: page://vsqmV71uZbhxk7Ld

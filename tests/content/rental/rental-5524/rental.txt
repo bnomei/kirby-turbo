@@ -1,0 +1,25 @@
+Title: Rental 5524
+
+----
+
+Rental-id: 5524
+
+----
+
+Rental-date: 2005-07-10 01:49:24
+
+----
+
+Return-date: 2005-07-14 22:55:24
+
+----
+
+Inventory: page://dLRt0r5e9JWrePKb
+
+----
+
+Uuid: 7L2bET53XH5DkKFb
+
+----
+
+Customer: page://EHSB9jDLk6k6ip5D

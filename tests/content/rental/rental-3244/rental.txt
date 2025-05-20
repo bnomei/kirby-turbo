@@ -1,0 +1,25 @@
+Title: Rental 3244
+
+----
+
+Rental-id: 3244
+
+----
+
+Rental-date: 2005-06-21 03:01:10
+
+----
+
+Return-date: 2005-06-24 06:59:10
+
+----
+
+Inventory: page://pmNezfStUOcsKTaQ
+
+----
+
+Uuid: Al73qc0zKUXyAKEI
+
+----
+
+Customer: page://4gdcUTd8Bs7vlXxm

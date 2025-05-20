@@ -1,0 +1,46 @@
+Title: PURPLE MOVIE
+
+----
+
+Actors:
+
+- 'page://Kx231VrTuxlFk3Xg'
+- 'page://8uCKHWVFS7qGgYjl'
+- 'page://f54gdCyL7WpJ8aUr'
+- 'page://RHCn9jMuVT1ewFhv'
+- 'page://qXajFtQVbGpQUZAN'
+- 'page://VNoe1uWzYd7QHUzW'
+- 'page://gLWxCWOnObb0fT65'
+- 'page://EIh5zoCTJV7UmSi4'
+
+----
+
+Film-id: 705
+
+----
+
+Description: A Boring Display of a Pastry Chef And a Sumo Wrestler who must Discover a Frisbee in An Abandoned Amusement Park
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 88
+
+----
+
+Rating: R
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: 1LIf1DaCQFAKfsoP
+
+----
+
+Categories: - 'page://1zSlwtq2IyzVh9Hs'

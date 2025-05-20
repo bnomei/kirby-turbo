@@ -1,0 +1,17 @@
+Title: Inv 4496
+
+----
+
+Inventory-id: 4496
+
+----
+
+Film: page://h96BO6lDsQ8BHOhV
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: TBXPnJD20Re20jjC

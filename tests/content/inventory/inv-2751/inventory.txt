@@ -1,0 +1,17 @@
+Title: Inv 2751
+
+----
+
+Inventory-id: 2751
+
+----
+
+Film: page://S36rO7YzPhvQcg67
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: sFZ5C8SHHxpuFe62

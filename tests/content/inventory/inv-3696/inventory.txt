@@ -1,0 +1,17 @@
+Title: Inv 3696
+
+----
+
+Inventory-id: 3696
+
+----
+
+Film: page://pLWWf84HXTSSEGAv
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 9l4mKQdMc62PM9G1

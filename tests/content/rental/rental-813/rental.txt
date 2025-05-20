@@ -1,0 +1,25 @@
+Title: Rental 813
+
+----
+
+Rental-id: 813
+
+----
+
+Rental-date: 2005-05-29 20:14:34
+
+----
+
+Return-date: 2005-06-05 20:56:34
+
+----
+
+Inventory: page://PUjZDSwTW0ilwJac
+
+----
+
+Uuid: 90seoeAz5Mws4eYX
+
+----
+
+Customer: page://gEZ3qN9Yi6NtmTSr

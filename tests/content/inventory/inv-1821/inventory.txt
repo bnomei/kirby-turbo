@@ -1,0 +1,17 @@
+Title: Inv 1821
+
+----
+
+Inventory-id: 1821
+
+----
+
+Film: page://9xGJfbXF8aoV5B2N
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ZMNOS54b4n6o0HnA

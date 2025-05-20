@@ -1,0 +1,42 @@
+Title: SILENCE KANE
+
+----
+
+Actors:
+
+- 'page://ikhz1wEjJMz3vCm4'
+- 'page://8Pmn5SWwDYgkHBaA'
+- 'page://6LG8mbCuu1aKuRcl'
+- 'page://gLWxCWOnObb0fT65'
+
+----
+
+Film-id: 797
+
+----
+
+Description: A Emotional Drama of a Sumo Wrestler And a Dentist who must Confront a Sumo Wrestler in A Baloon
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 67
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: GtyyiCWqM4s15MCP
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

@@ -1,0 +1,25 @@
+Title: Rental 4803
+
+----
+
+Rental-id: 4803
+
+----
+
+Rental-date: 2005-07-08 16:56:34
+
+----
+
+Return-date: 2005-07-14 20:16:34
+
+----
+
+Inventory: page://ZFalzkCpqRhiKl2b
+
+----
+
+Uuid: IBEbPY7Lb3nI7GQR
+
+----
+
+Customer: page://nvOO1pUtPnPOyBtk

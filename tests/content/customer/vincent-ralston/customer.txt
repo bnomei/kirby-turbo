@@ -1,0 +1,33 @@
+Title: VINCENT RALSTON
+
+----
+
+Customer-id: 414
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: VINCENT
+
+----
+
+Last-name: RALSTON
+
+----
+
+Email: VINCENT.RALSTON@sakilacustomer.org
+
+----
+
+Address: page://7W3QyD6VYx2sXzth
+
+----
+
+Active: 1
+
+----
+
+Uuid: 0ErgJ6kLkZUKKYCI

@@ -1,0 +1,25 @@
+Title: Rental 230
+
+----
+
+Rental-id: 230
+
+----
+
+Rental-date: 2005-05-26 11:31:50
+
+----
+
+Return-date: 2005-05-30 15:22:50
+
+----
+
+Inventory: page://JjEbdBwMnQe5epV5
+
+----
+
+Uuid: nRE0UQsiA8mQNeRf
+
+----
+
+Customer: page://Q7dhYbg8UImMpiau

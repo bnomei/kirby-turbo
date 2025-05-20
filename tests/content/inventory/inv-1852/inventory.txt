@@ -1,0 +1,17 @@
+Title: Inv 1852
+
+----
+
+Inventory-id: 1852
+
+----
+
+Film: page://k5CyzCLS8YJyub7p
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 4Oy6TVMsgNsxyoHr

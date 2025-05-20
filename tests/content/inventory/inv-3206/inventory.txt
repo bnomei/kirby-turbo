@@ -1,0 +1,17 @@
+Title: Inv 3206
+
+----
+
+Inventory-id: 3206
+
+----
+
+Film: page://swpdsGvy1fo5PnDf
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Bon4wbd7mF59Qilw

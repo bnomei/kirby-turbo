@@ -1,0 +1,25 @@
+Title: Rental 2644
+
+----
+
+Rental-id: 2644
+
+----
+
+Rental-date: 2005-06-19 09:42:30
+
+----
+
+Return-date: 2005-06-27 07:23:30
+
+----
+
+Inventory: page://phBR6WoclRy3uiz4
+
+----
+
+Uuid: OWR7huXfMd0srBYD
+
+----
+
+Customer: page://6W4MNt60QNzdOkOf

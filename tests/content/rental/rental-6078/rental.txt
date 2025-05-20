@@ -1,0 +1,25 @@
+Title: Rental 6078
+
+----
+
+Rental-id: 6078
+
+----
+
+Rental-date: 2005-07-11 05:06:52
+
+----
+
+Return-date: 2005-07-17 06:13:52
+
+----
+
+Inventory: page://GpJePcNVlsVmPRsY
+
+----
+
+Uuid: pVZrbcvOlvwGOhTN
+
+----
+
+Customer: page://OukV1G0vQXX07Xku

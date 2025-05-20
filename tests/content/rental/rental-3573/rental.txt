@@ -1,0 +1,25 @@
+Title: Rental 3573
+
+----
+
+Rental-id: 3573
+
+----
+
+Rental-date: 2005-07-06 03:33:48
+
+----
+
+Return-date: 2005-07-07 22:39:48
+
+----
+
+Inventory: page://45mLNyVKi1eyNpvw
+
+----
+
+Uuid: FkWBEyS6uH9JpzkC
+
+----
+
+Customer: page://rtPPzvWhh7zAFt5a

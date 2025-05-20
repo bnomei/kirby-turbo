@@ -1,0 +1,25 @@
+Title: Rental 5034
+
+----
+
+Rental-id: 5034
+
+----
+
+Rental-date: 2005-07-09 02:48:15
+
+----
+
+Return-date: 2005-07-11 23:13:15
+
+----
+
+Inventory: page://zNgo645SNmjZSMXR
+
+----
+
+Uuid: 5DH5QMfsGD3bHcuN
+
+----
+
+Customer: page://bp3076yXkpG6TsZ7

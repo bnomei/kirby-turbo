@@ -1,0 +1,25 @@
+Title: Rental 11590
+
+----
+
+Rental-id: 11590
+
+----
+
+Rental-date: 2005-08-17 02:28:33
+
+----
+
+Return-date: 2005-08-20 03:13:33
+
+----
+
+Inventory: page://lJzHwwCEv38EzLh7
+
+----
+
+Customer: page://kAtIvC3GuVrHNW6C
+
+----
+
+Uuid: YzKqZwu82nMpBiFI

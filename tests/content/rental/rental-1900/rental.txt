@@ -1,0 +1,25 @@
+Title: Rental 1900
+
+----
+
+Rental-id: 1900
+
+----
+
+Rental-date: 2005-06-17 04:29:58
+
+----
+
+Return-date: 2005-06-21 05:58:58
+
+----
+
+Inventory: page://csr0tvh16FPqtqCe
+
+----
+
+Uuid: XSXCbYynf9lvUWA2
+
+----
+
+Customer: page://meRS5ZpTiS6VB9kT

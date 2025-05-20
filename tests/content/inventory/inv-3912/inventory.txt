@@ -1,0 +1,17 @@
+Title: Inv 3912
+
+----
+
+Inventory-id: 3912
+
+----
+
+Film: page://jc625Y6KCs37MnEK
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: WhHDS7nsNHs8ITHt

@@ -1,0 +1,17 @@
+Title: Inv 395
+
+----
+
+Inventory-id: 395
+
+----
+
+Film: page://I4KHi6rWSbJHuKLj
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: WeWYKVUnIwy9VAnD

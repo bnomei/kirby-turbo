@@ -1,0 +1,25 @@
+Title: Rental 4944
+
+----
+
+Rental-id: 4944
+
+----
+
+Rental-date: 2005-07-08 22:44:28
+
+----
+
+Return-date: 2005-07-17 21:51:28
+
+----
+
+Inventory: page://3q0k3nQ5v6McTPML
+
+----
+
+Uuid: C9mDCaa5ZLCzTILN
+
+----
+
+Customer: page://Hpp58DeoLb615BZP

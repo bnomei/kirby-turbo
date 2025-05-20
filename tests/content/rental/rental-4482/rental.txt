@@ -1,0 +1,25 @@
+Title: Rental 4482
+
+----
+
+Rental-id: 4482
+
+----
+
+Rental-date: 2005-07-08 01:01:18
+
+----
+
+Return-date: 2005-07-11 01:18:18
+
+----
+
+Inventory: page://NaTNnxoUgyl3CLzM
+
+----
+
+Uuid: sDevn6m6x4QWna3u
+
+----
+
+Customer: page://HrN99fyzUbUZdiNT

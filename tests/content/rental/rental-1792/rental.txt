@@ -1,0 +1,25 @@
+Title: Rental 1792
+
+----
+
+Rental-id: 1792
+
+----
+
+Rental-date: 2005-06-16 20:04:50
+
+----
+
+Return-date: 2005-06-26 00:57:50
+
+----
+
+Inventory: page://j7g32WiyFATvXpUP
+
+----
+
+Uuid: SaMKXMkYm5A0ZYrE
+
+----
+
+Customer: page://UaSNpTp6KioYmoei

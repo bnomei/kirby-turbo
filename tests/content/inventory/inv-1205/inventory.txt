@@ -1,0 +1,17 @@
+Title: Inv 1205
+
+----
+
+Inventory-id: 1205
+
+----
+
+Film: page://JL8NNhjpnRA2lPaC
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 6DCHD2TR4aYofVeA

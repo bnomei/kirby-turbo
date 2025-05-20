@@ -1,0 +1,25 @@
+Title: Rental 4153
+
+----
+
+Rental-id: 4153
+
+----
+
+Rental-date: 2005-07-07 08:53:08
+
+----
+
+Return-date: 2005-07-11 05:09:08
+
+----
+
+Inventory: page://KW82Six3QQp0zo2V
+
+----
+
+Uuid: o1tr6HCZRswXTAHk
+
+----
+
+Customer: page://igxQ7vxPZAcLSAoP

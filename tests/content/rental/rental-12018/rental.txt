@@ -1,0 +1,25 @@
+Title: Rental 12018
+
+----
+
+Rental-id: 12018
+
+----
+
+Rental-date: 2005-08-17 19:44:46
+
+----
+
+Return-date: 2005-08-26 20:24:46
+
+----
+
+Inventory: page://TvPPAOnOcudh8mt9
+
+----
+
+Customer: page://cfEQjWDHZTFukeSP
+
+----
+
+Uuid: oGWTGLdDkZ1w52wH

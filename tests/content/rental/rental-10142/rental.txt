@@ -1,0 +1,25 @@
+Title: Rental 10142
+
+----
+
+Rental-id: 10142
+
+----
+
+Rental-date: 2005-07-31 22:10:54
+
+----
+
+Return-date: 2005-08-09 19:04:54
+
+----
+
+Inventory: page://whCiXknad7tfbu5W
+
+----
+
+Customer: page://RjuxtMHbOY6NJALL
+
+----
+
+Uuid: rCYLJZ5gGndNjBy5

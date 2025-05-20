@@ -1,0 +1,25 @@
+Title: Rental 15803
+
+----
+
+Rental-id: 15803
+
+----
+
+Rental-date: 2005-08-23 14:27:07
+
+----
+
+Return-date: 2005-08-28 12:01:07
+
+----
+
+Inventory: page://En39P626Mru6HubH
+
+----
+
+Customer: page://Pif8NPYHuv0Na4Zs
+
+----
+
+Uuid: PD83oRBQWATWqC7t

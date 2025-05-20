@@ -1,0 +1,17 @@
+Title: Inv 1285
+
+----
+
+Inventory-id: 1285
+
+----
+
+Film: page://EQSADmhd1pq4x4wf
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: VBo1VhR0xhnQJgSe

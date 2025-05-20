@@ -1,0 +1,17 @@
+Title: Inv 707
+
+----
+
+Inventory-id: 707
+
+----
+
+Film: page://7iG7iKaB1YUU3AaN
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: mGFdettf4av8Onty

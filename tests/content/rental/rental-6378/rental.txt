@@ -1,0 +1,25 @@
+Title: Rental 6378
+
+----
+
+Rental-id: 6378
+
+----
+
+Rental-date: 2005-07-11 21:45:23
+
+----
+
+Return-date: 2005-07-14 16:56:23
+
+----
+
+Inventory: page://YTtoqdCQKUkPT9pz
+
+----
+
+Uuid: lyiIU7gGrPkxtPro
+
+----
+
+Customer: page://yjYvst4Pui2DtNsv

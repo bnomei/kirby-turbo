@@ -1,0 +1,25 @@
+Title: Rental 15616
+
+----
+
+Rental-id: 15616
+
+----
+
+Rental-date: 2005-08-23 07:06:38
+
+----
+
+Return-date: 2005-08-30 04:16:38
+
+----
+
+Inventory: page://Aoecu9omuMjVnDwt
+
+----
+
+Customer: page://OgdGkik1rnAhaDTs
+
+----
+
+Uuid: r7YUnHGomszmFqMJ

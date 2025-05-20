@@ -1,0 +1,33 @@
+Title: NINA SOTO
+
+----
+
+Customer-id: 268
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: NINA
+
+----
+
+Last-name: SOTO
+
+----
+
+Email: NINA.SOTO@sakilacustomer.org
+
+----
+
+Address: page://uyv4VETHzq8jBBSp
+
+----
+
+Active: 1
+
+----
+
+Uuid: VeTDo26Y3oPKF7Sh

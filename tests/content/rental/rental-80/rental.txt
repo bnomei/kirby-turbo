@@ -1,0 +1,25 @@
+Title: Rental 80
+
+----
+
+Rental-id: 80
+
+----
+
+Rental-date: 2005-05-25 12:12:07
+
+----
+
+Return-date: 2005-05-31 17:46:07
+
+----
+
+Inventory: page://iM9fjYudrMXKQgPh
+
+----
+
+Uuid: hNWDBcXxv6CgcjiW
+
+----
+
+Customer: page://Ouab56J6iNBuj7fa

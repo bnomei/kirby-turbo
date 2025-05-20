@@ -1,0 +1,17 @@
+Title: Inv 2720
+
+----
+
+Inventory-id: 2720
+
+----
+
+Film: page://5glA4WKAhbUUaA0Y
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: JxLBCxlsVtRkcb8b

@@ -1,0 +1,33 @@
+Title: HAZEL WARREN
+
+----
+
+Customer-id: 138
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: HAZEL
+
+----
+
+Last-name: WARREN
+
+----
+
+Email: HAZEL.WARREN@sakilacustomer.org
+
+----
+
+Address: page://qKA7JQOnejq6usvA
+
+----
+
+Active: 1
+
+----
+
+Uuid: d4Qzzmipb5Xdc54C

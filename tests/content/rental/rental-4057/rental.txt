@@ -1,0 +1,25 @@
+Title: Rental 4057
+
+----
+
+Rental-id: 4057
+
+----
+
+Rental-date: 2005-07-07 04:00:20
+
+----
+
+Return-date: 2005-07-12 08:14:20
+
+----
+
+Inventory: page://5ecqfiQga0Wbfsfn
+
+----
+
+Uuid: jcAmUcqkJzOenDEX
+
+----
+
+Customer: page://CBjxjbIdtlQzauUw

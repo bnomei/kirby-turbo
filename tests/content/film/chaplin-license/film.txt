@@ -1,0 +1,44 @@
+Title: CHAPLIN LICENSE
+
+----
+
+Actors:
+
+- 'page://CXnMd8oVYWgOtYAB'
+- 'page://pokjngmFMjrhDsLQ'
+- 'page://twoON2iToIZq1akt'
+- 'page://wxM7fPnQeVIlPpuJ'
+- 'page://8sAZxgGEUjJot3JV'
+- 'page://zYYZnzancmv0SOT5'
+
+----
+
+Film-id: 136
+
+----
+
+Description: A Boring Drama of a Dog And a Forensic Psychologist who must Outrace a Explorer in Ancient India
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 146
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: 6kIA2KfOqXm8EJSj
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

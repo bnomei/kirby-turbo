@@ -1,0 +1,41 @@
+Title: DETECTIVE VISION
+
+----
+
+Actors:
+
+- 'page://nN3rIVkI7hNgoDlp'
+- 'page://k43wur9uhLztfZOP'
+- 'page://WNZ5mNUGrC10JaZI'
+
+----
+
+Film-id: 228
+
+----
+
+Description: A Fanciful Documentary of a Pioneer And a Woman who must Redeem a Hunter in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 143
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: n0fvcXFZB7agzjDc
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

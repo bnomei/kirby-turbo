@@ -1,0 +1,41 @@
+Title: CHARADE DUFFEL
+
+----
+
+Actors:
+
+- 'page://s69sG8lNdmqtvA7p'
+- 'page://YBKuIiLT3VizSQRI'
+- 'page://RvgM0TLzgQDo6vY7'
+
+----
+
+Film-id: 137
+
+----
+
+Description: A Action-Packed Display of a Man And a Waitress who must Build a Dog in A MySQL Convention
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 66
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: 31TVeyr9M9myVWtf
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

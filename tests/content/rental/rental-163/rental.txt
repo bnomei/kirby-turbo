@@ -1,0 +1,25 @@
+Title: Rental 163
+
+----
+
+Rental-id: 163
+
+----
+
+Rental-date: 2005-05-26 02:26:23
+
+----
+
+Return-date: 2005-06-04 06:36:23
+
+----
+
+Inventory: page://6Gcd16XPZRjks1po
+
+----
+
+Uuid: 4h1VvkmY8isw8GJj
+
+----
+
+Customer: page://BnkjNKRbR7N7yyga

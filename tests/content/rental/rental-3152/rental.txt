@@ -1,0 +1,25 @@
+Title: Rental 3152
+
+----
+
+Rental-id: 3152
+
+----
+
+Rental-date: 2005-06-20 20:42:41
+
+----
+
+Return-date: 2005-06-28 21:12:41
+
+----
+
+Inventory: page://yG2NvPjUo8YaCe3l
+
+----
+
+Uuid: Wal15ZWWLvL8MM1b
+
+----
+
+Customer: page://SnGdQyKh3vyTvpek

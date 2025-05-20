@@ -1,0 +1,25 @@
+Title: Rental 14636
+
+----
+
+Rental-id: 14636
+
+----
+
+Rental-date: 2005-08-21 18:59:17
+
+----
+
+Return-date: 2005-08-23 13:19:17
+
+----
+
+Inventory: page://oS7jjyYjOb1iaS7u
+
+----
+
+Customer: page://bG9DDgWMAFbLUMhy
+
+----
+
+Uuid: Ugyz2igPdI3SiY4R

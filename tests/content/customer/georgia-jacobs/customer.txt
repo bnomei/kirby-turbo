@@ -1,0 +1,33 @@
+Title: GEORGIA JACOBS
+
+----
+
+Customer-id: 231
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: GEORGIA
+
+----
+
+Last-name: JACOBS
+
+----
+
+Email: GEORGIA.JACOBS@sakilacustomer.org
+
+----
+
+Address: page://nAw92Cav7QeYoIqt
+
+----
+
+Active: 1
+
+----
+
+Uuid: szu2PM9zfcteUR6L

@@ -1,0 +1,25 @@
+Title: Rental 8614
+
+----
+
+Rental-id: 8614
+
+----
+
+Rental-date: 2005-07-29 13:32:05
+
+----
+
+Return-date: 2005-08-04 15:26:05
+
+----
+
+Inventory: page://3XNs717SNd83jINV
+
+----
+
+Customer: page://B2GGWZGpzqZm6Gp7
+
+----
+
+Uuid: ggCRUWcywMZ7Wqvk

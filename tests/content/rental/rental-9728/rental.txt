@@ -1,0 +1,25 @@
+Title: Rental 9728
+
+----
+
+Rental-id: 9728
+
+----
+
+Rental-date: 2005-07-31 08:40:54
+
+----
+
+Return-date: 2005-08-03 04:14:54
+
+----
+
+Inventory: page://oDytYCQjArv7yHtA
+
+----
+
+Customer: page://Lk1Hh6BTSOpo0Syr
+
+----
+
+Uuid: Ncj1bKAL4foNZASL

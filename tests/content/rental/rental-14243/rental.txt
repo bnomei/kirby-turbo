@@ -1,0 +1,21 @@
+Title: Rental 14243
+
+----
+
+Rental-id: 14243
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://XT8NRKqy0i5TCvBn
+
+----
+
+Customer: page://PTRh5UK45MCW3LWn
+
+----
+
+Uuid: 05GjJd4Bm2guxXus

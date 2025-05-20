@@ -1,0 +1,25 @@
+Title: Rental 5042
+
+----
+
+Rental-id: 5042
+
+----
+
+Rental-date: 2005-07-09 03:20:30
+
+----
+
+Return-date: 2005-07-15 07:22:30
+
+----
+
+Inventory: page://Yyt3EZUqe6iJ0FQO
+
+----
+
+Uuid: AoyNyvXFonpzRxvQ
+
+----
+
+Customer: page://v2N94muKJ3uhMCtA

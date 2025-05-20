@@ -1,0 +1,17 @@
+Title: Inv 4208
+
+----
+
+Inventory-id: 4208
+
+----
+
+Film: page://ztRx1p49w42jzucX
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: GMyuduS0FxGUjmOB

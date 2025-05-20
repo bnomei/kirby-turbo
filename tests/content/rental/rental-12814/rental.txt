@@ -1,0 +1,25 @@
+Title: Rental 12814
+
+----
+
+Rental-id: 12814
+
+----
+
+Rental-date: 2005-08-19 00:58:24
+
+----
+
+Return-date: 2005-08-21 05:46:24
+
+----
+
+Inventory: page://oQxM5TkOmSoFMIjp
+
+----
+
+Customer: page://6GC3Hgx1HgV9Jfdp
+
+----
+
+Uuid: q5Bgy07jLzNKosp8

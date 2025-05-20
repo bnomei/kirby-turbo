@@ -1,0 +1,33 @@
+Title: THOMAS GRIGSBY
+
+----
+
+Customer-id: 308
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: THOMAS
+
+----
+
+Last-name: GRIGSBY
+
+----
+
+Email: THOMAS.GRIGSBY@sakilacustomer.org
+
+----
+
+Address: page://ypipfx2u89ITBECE
+
+----
+
+Active: 1
+
+----
+
+Uuid: ngKtnxHdAXVpAIrL

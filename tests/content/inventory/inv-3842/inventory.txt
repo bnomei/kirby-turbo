@@ -1,0 +1,17 @@
+Title: Inv 3842
+
+----
+
+Inventory-id: 3842
+
+----
+
+Film: page://RD5nIGLm058hSZAk
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 2okgYPLbeGSPe2Yz

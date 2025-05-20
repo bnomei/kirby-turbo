@@ -1,0 +1,25 @@
+Title: Rental 6691
+
+----
+
+Rental-id: 6691
+
+----
+
+Rental-date: 2005-07-12 12:26:38
+
+----
+
+Return-date: 2005-07-18 13:26:38
+
+----
+
+Inventory: page://8YHnrefSJfdIAfK4
+
+----
+
+Uuid: KLshrs4TWHHVXP6c
+
+----
+
+Customer: page://S6wnyWLyFa5056NX

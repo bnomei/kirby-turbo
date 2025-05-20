@@ -1,0 +1,25 @@
+Title: Rental 3080
+
+----
+
+Rental-id: 3080
+
+----
+
+Rental-date: 2005-06-20 15:22:32
+
+----
+
+Return-date: 2005-06-24 11:08:32
+
+----
+
+Inventory: page://EE4qIuAIsQHdiTqh
+
+----
+
+Uuid: OTtr72DxubsboyaE
+
+----
+
+Customer: page://zLiLkW2YJgd9qzFC

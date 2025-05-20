@@ -1,0 +1,25 @@
+Title: Rental 906
+
+----
+
+Rental-id: 906
+
+----
+
+Rental-date: 2005-05-30 10:30:38
+
+----
+
+Return-date: 2005-06-07 06:44:38
+
+----
+
+Inventory: page://iwmN9HqMa25XRDG9
+
+----
+
+Uuid: 0k7JWxzt3BeN1FhW
+
+----
+
+Customer: page://HkTANTgi9H03vQyM

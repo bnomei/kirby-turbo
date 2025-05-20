@@ -1,0 +1,17 @@
+Title: Inv 2703
+
+----
+
+Inventory-id: 2703
+
+----
+
+Film: page://YhpwaSeGCZssd2Qj
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ItLh6aR1v8v9aNy1

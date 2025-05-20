@@ -1,0 +1,17 @@
+Title: Inv 1204
+
+----
+
+Inventory-id: 1204
+
+----
+
+Film: page://JL8NNhjpnRA2lPaC
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: hwtiGzVjlt4TO6q4

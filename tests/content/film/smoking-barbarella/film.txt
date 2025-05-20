@@ -1,0 +1,44 @@
+Title: SMOKING BARBARELLA
+
+----
+
+Actors:
+
+- 'page://qd0io4mUKZ4KUkyk'
+- 'page://AvkKtwk9lLurZvzW'
+- 'page://6YS8rkTURbcXafoi'
+- 'page://qiUMbGq5mbDqGQZm'
+- 'page://6LG8mbCuu1aKuRcl'
+- 'page://G2CRwpBQJFawgg9Y'
+
+----
+
+Film-id: 812
+
+----
+
+Description: A Lacklusture Saga of a Mad Cow And a Mad Scientist who must Sink a Cat in A MySQL Convention
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 50
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: wRP0xWifgqOiaUfB
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

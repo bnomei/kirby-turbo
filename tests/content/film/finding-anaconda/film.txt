@@ -1,0 +1,43 @@
+Title: FINDING ANACONDA
+
+----
+
+Actors:
+
+- 'page://8uCKHWVFS7qGgYjl'
+- 'page://8DAvKBc0CuAdRfXU'
+- 'page://6jpBKUOTpGMSQxJe'
+- 'page://if8hfrmRoIODgwSa'
+- 'page://Q7LFBcb3oEdhSO9W'
+
+----
+
+Film-id: 315
+
+----
+
+Description: A Fateful Tale of a Database Administrator And a Girl who must Battle a Squirrel in New Orleans
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 156
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: YtWfuRPjNQYow5Pd
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

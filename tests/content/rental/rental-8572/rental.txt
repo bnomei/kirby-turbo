@@ -1,0 +1,25 @@
+Title: Rental 8572
+
+----
+
+Rental-id: 8572
+
+----
+
+Rental-date: 2005-07-29 11:51:24
+
+----
+
+Return-date: 2005-08-02 11:44:24
+
+----
+
+Inventory: page://m9OarvghnjQQHSiR
+
+----
+
+Customer: page://YC1uNdmmt4LG2OJc
+
+----
+
+Uuid: cANlrEHf4MGyG3pK

@@ -1,0 +1,21 @@
+Title: Rental 12489
+
+----
+
+Rental-id: 12489
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://82g4gbEfT6SXi3PH
+
+----
+
+Customer: page://wPyg9sLQxXlxD9Q9
+
+----
+
+Uuid: wct6NA9ZP4zHGZgr

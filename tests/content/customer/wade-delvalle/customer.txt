@@ -1,0 +1,33 @@
+Title: WADE DELVALLE
+
+----
+
+Customer-id: 598
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: WADE
+
+----
+
+Last-name: DELVALLE
+
+----
+
+Email: WADE.DELVALLE@sakilacustomer.org
+
+----
+
+Address: page://PeRdriIyvE2YZ4As
+
+----
+
+Active: 1
+
+----
+
+Uuid: I6RvfHo1Bz3UuSTP

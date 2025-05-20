@@ -1,0 +1,25 @@
+Title: Rental 7159
+
+----
+
+Rental-id: 7159
+
+----
+
+Rental-date: 2005-07-27 07:24:00
+
+----
+
+Return-date: 2005-08-05 11:13:00
+
+----
+
+Inventory: page://G1ZkTZT6PH0q9FAf
+
+----
+
+Customer: page://EFq1BVursSqEGTmG
+
+----
+
+Uuid: xxmBAftgezVKsuqb

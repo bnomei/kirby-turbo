@@ -1,0 +1,41 @@
+Title: HANKY OCTOBER
+
+----
+
+Actors:
+
+- 'page://3O7lqRPKBygXUoTl'
+- 'page://hzpjO6QvzfyB1LBD'
+- 'page://kglHBUzvM27ekW4e'
+
+----
+
+Film-id: 397
+
+----
+
+Description: A Boring Epistle of a Database Administrator And a Explorer who must Pursue a Madman in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 107
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: WGXDM1RG4lfMpY2G
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

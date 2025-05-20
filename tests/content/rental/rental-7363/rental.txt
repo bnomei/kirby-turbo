@@ -1,0 +1,25 @@
+Title: Rental 7363
+
+----
+
+Rental-id: 7363
+
+----
+
+Rental-date: 2005-07-27 14:58:29
+
+----
+
+Return-date: 2005-08-05 09:02:29
+
+----
+
+Inventory: page://wuwtjgZEbeHeEjCk
+
+----
+
+Customer: page://UvN7vXxqD6JnHXLQ
+
+----
+
+Uuid: 0VODdrmNymoq9miA

@@ -1,0 +1,25 @@
+Title: Rental 799
+
+----
+
+Rental-id: 799
+
+----
+
+Rental-date: 2005-05-29 17:24:48
+
+----
+
+Return-date: 2005-06-05 12:25:48
+
+----
+
+Inventory: page://8lDlbrh4RlEbBhgh
+
+----
+
+Uuid: mvKnx07wjGV197xS
+
+----
+
+Customer: page://j2E1ltZ4ghv3z4iP

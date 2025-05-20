@@ -1,0 +1,17 @@
+Title: Inv 4000
+
+----
+
+Inventory-id: 4000
+
+----
+
+Film: page://vVqAIfsqY30wZlDZ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: prLFeWbblQSWsooU

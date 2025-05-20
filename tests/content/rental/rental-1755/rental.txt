@@ -1,0 +1,25 @@
+Title: Rental 1755
+
+----
+
+Rental-id: 1755
+
+----
+
+Rental-date: 2005-06-16 17:18:44
+
+----
+
+Return-date: 2005-06-17 16:54:44
+
+----
+
+Inventory: page://62hlkSwADXRLKstK
+
+----
+
+Uuid: 5ijIFuu95iGaRomD
+
+----
+
+Customer: page://yTAX5pfgcdJzZ9ZS

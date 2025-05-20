@@ -1,0 +1,17 @@
+Title: Inv 4284
+
+----
+
+Inventory-id: 4284
+
+----
+
+Film: page://vUCdbZlLUxoT8vDG
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: sYYshLKJckmqcn1B

@@ -1,0 +1,17 @@
+Title: Inv 568
+
+----
+
+Inventory-id: 568
+
+----
+
+Film: page://WT5NcgnYasVoDuDy
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 9NBu2sODCjOS5EJ8

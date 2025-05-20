@@ -1,0 +1,25 @@
+Title: Rental 295
+
+----
+
+Rental-id: 295
+
+----
+
+Rental-date: 2005-05-26 20:33:20
+
+----
+
+Return-date: 2005-05-27 18:23:20
+
+----
+
+Inventory: page://oOGAxQho53t6HeJH
+
+----
+
+Uuid: SC4sorDUx0sNgOWu
+
+----
+
+Customer: page://kWd5QCzRzfjxEGaD

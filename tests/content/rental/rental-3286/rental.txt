@@ -1,0 +1,25 @@
+Title: Rental 3286
+
+----
+
+Rental-id: 3286
+
+----
+
+Rental-date: 2005-06-21 06:31:29
+
+----
+
+Return-date: 2005-06-25 00:46:29
+
+----
+
+Inventory: page://TuWMw5JgrkOL25xV
+
+----
+
+Uuid: zzK47xUfSTjlTp0k
+
+----
+
+Customer: page://M9liVKyqTs6BXoqT

@@ -1,0 +1,25 @@
+Title: Rental 3909
+
+----
+
+Rental-id: 3909
+
+----
+
+Rental-date: 2005-07-06 19:54:41
+
+----
+
+Return-date: 2005-07-15 18:11:41
+
+----
+
+Inventory: page://8bIwH0WdwV16pFQ7
+
+----
+
+Uuid: JMQcZyS7jd2r9W6N
+
+----
+
+Customer: page://FypwLDxElvzTV30Q

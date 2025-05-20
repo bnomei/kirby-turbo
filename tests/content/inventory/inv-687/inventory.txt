@@ -1,0 +1,17 @@
+Title: Inv 687
+
+----
+
+Inventory-id: 687
+
+----
+
+Film: page://VgaqjUQcQdq5w9OH
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ByNsCaYFPnjUzJM7

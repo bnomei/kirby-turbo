@@ -1,0 +1,17 @@
+Title: Inv 4003
+
+----
+
+Inventory-id: 4003
+
+----
+
+Film: page://vVqAIfsqY30wZlDZ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: omGcj7YgIVOdLxaR

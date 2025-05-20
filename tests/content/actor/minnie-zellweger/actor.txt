@@ -1,0 +1,21 @@
+Title: MINNIE ZELLWEGER
+
+----
+
+Actors: []
+
+----
+
+Actor-id: 85
+
+----
+
+First-name: MINNIE
+
+----
+
+Last-name: ZELLWEGER
+
+----
+
+Uuid: qiUMbGq5mbDqGQZm

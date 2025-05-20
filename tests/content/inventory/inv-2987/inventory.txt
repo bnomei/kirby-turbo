@@ -1,0 +1,17 @@
+Title: Inv 2987
+
+----
+
+Inventory-id: 2987
+
+----
+
+Film: page://N5Mx7OSc3pDzXJsj
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: jo0z3YpNZubW2NM1

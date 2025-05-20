@@ -1,0 +1,25 @@
+Title: Rental 343
+
+----
+
+Rental-id: 343
+
+----
+
+Rental-date: 2005-05-27 04:13:41
+
+----
+
+Return-date: 2005-05-28 08:34:41
+
+----
+
+Inventory: page://hGWcPYsV0pmr30jY
+
+----
+
+Uuid: svzodRZkoxOXBeg1
+
+----
+
+Customer: page://yZByBc3rF7VvRjSr

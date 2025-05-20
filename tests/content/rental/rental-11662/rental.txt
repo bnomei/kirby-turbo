@@ -1,0 +1,25 @@
+Title: Rental 11662
+
+----
+
+Rental-id: 11662
+
+----
+
+Rental-date: 2005-08-17 05:27:37
+
+----
+
+Return-date: 2005-08-26 09:56:37
+
+----
+
+Inventory: page://Zgh33bGZhqkx6FR2
+
+----
+
+Customer: page://2QRxABR23Jfbr6gF
+
+----
+
+Uuid: llCCaQUQilmIVDnC

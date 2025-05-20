@@ -1,0 +1,25 @@
+Title: Rental 9371
+
+----
+
+Rental-id: 9371
+
+----
+
+Rental-date: 2005-07-30 18:58:00
+
+----
+
+Return-date: 2005-08-03 15:14:00
+
+----
+
+Inventory: page://XljVKRqss1YzIXyT
+
+----
+
+Customer: page://ftEMvnSK11uTw7qY
+
+----
+
+Uuid: maO4rK0KXm31lzyP

@@ -1,0 +1,25 @@
+Title: Rental 10188
+
+----
+
+Rental-id: 10188
+
+----
+
+Rental-date: 2005-08-01 00:19:41
+
+----
+
+Return-date: 2005-08-08 00:19:41
+
+----
+
+Inventory: page://LOBOwVqIppeO399K
+
+----
+
+Customer: page://DxMKPSznn9C2XI5l
+
+----
+
+Uuid: DX1L2AN4lBFI7MGl

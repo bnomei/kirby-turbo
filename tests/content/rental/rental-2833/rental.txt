@@ -1,0 +1,25 @@
+Title: Rental 2833
+
+----
+
+Rental-id: 2833
+
+----
+
+Rental-date: 2005-06-19 21:34:54
+
+----
+
+Return-date: 2005-06-28 16:21:54
+
+----
+
+Inventory: page://Y5KecnbExp17yUqO
+
+----
+
+Uuid: qRGfdGqkyj33xjGh
+
+----
+
+Customer: page://z2bLmqud6tFmKxXo

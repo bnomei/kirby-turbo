@@ -1,0 +1,48 @@
+Title: SHAWSHANK BUBBLE
+
+----
+
+Actors:
+
+- 'page://7FlTvfT4DDNge34z'
+- 'page://JA85uxdb8uiPNO2i'
+- 'page://yhATHnZqo4RzYS83'
+- 'page://75IrF5RezCSzGKrx'
+- 'page://6LG8mbCuu1aKuRcl'
+- 'page://QXMalcumIlXeK8Z2'
+- 'page://k43wur9uhLztfZOP'
+- 'page://humVtsLQfFTV2gvC'
+- 'page://OqV4tbW7WtFrMtYI'
+- 'page://V7i97wxdkXKwKdBD'
+
+----
+
+Film-id: 785
+
+----
+
+Description: A Lacklusture Story of a Moose And a Monkey who must Confront a Butler in An Abandoned Amusement Park
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 80
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: 8Njc0cogB5sSiJmS
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

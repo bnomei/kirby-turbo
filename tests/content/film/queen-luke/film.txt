@@ -1,0 +1,44 @@
+Title: QUEEN LUKE
+
+----
+
+Actors:
+
+- 'page://9dZ7pytlckFxJvGe'
+- 'page://8DAvKBc0CuAdRfXU'
+- 'page://RaBnN0JojPRLBj7c'
+- 'page://Gsxc5TuqHyoQn1c1'
+- 'page://K0t8PMh78EXVZHC5'
+- 'page://s3p9MagWJdWouacJ'
+
+----
+
+Film-id: 706
+
+----
+
+Description: A Astounding Story of a Girl And a Boy who must Challenge a Composer in New Orleans
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 163
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: oyImgiKupqbFTHvj
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

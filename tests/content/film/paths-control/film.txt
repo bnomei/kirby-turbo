@@ -1,0 +1,42 @@
+Title: PATHS CONTROL
+
+----
+
+Actors:
+
+- 'page://JA85uxdb8uiPNO2i'
+- 'page://NmIbTpy4ZSHrHfnI'
+- 'page://YBKuIiLT3VizSQRI'
+- 'page://9XqCStEtXKdxVnPM'
+
+----
+
+Film-id: 662
+
+----
+
+Description: A Astounding Documentary of a Butler And a Cat who must Find a Frisbee in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 118
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: Wd6y1x0ScTdzZjcc
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

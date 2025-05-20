@@ -1,0 +1,25 @@
+Title: Rental 14168
+
+----
+
+Rental-id: 14168
+
+----
+
+Rental-date: 2005-08-21 03:00:03
+
+----
+
+Return-date: 2005-08-29 06:04:03
+
+----
+
+Inventory: page://QIkhxtxegA2jzo35
+
+----
+
+Customer: page://94UnL6NulGJKXEIF
+
+----
+
+Uuid: VRXh5AqwIaLG5K7z

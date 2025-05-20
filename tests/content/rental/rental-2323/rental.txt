@@ -1,0 +1,25 @@
+Title: Rental 2323
+
+----
+
+Rental-id: 2323
+
+----
+
+Rental-date: 2005-06-18 09:55:02
+
+----
+
+Return-date: 2005-06-23 07:19:02
+
+----
+
+Inventory: page://Le4LPZJH01A92AMo
+
+----
+
+Uuid: cKGYcriaoiad2X4r
+
+----
+
+Customer: page://DCfm6V0az1u3cAdq

@@ -1,0 +1,17 @@
+Title: Inv 3294
+
+----
+
+Inventory-id: 3294
+
+----
+
+Film: page://krbmWkvwgkQjjDzq
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: jTbZ2zFY1ND0Psqz

@@ -1,0 +1,17 @@
+Title: Inv 1847
+
+----
+
+Inventory-id: 1847
+
+----
+
+Film: page://380e5JVPUj70wMoB
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: dksC27gBrmDfjur2

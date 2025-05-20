@@ -1,0 +1,42 @@
+Title: LEGEND JEDI
+
+----
+
+Actors:
+
+- 'page://Kx231VrTuxlFk3Xg'
+- 'page://Ppjj85F3dapvXsi8'
+- 'page://pokjngmFMjrhDsLQ'
+- 'page://q6i5HOIdG8dGz8Im'
+
+----
+
+Film-id: 516
+
+----
+
+Description: A Awe-Inspiring Epistle of a Pioneer And a Student who must Outgun a Crocodile in The Outback
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 59
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: uLx1apvYtu3JPjh2
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

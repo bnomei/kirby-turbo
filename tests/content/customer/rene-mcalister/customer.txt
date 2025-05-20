@@ -1,0 +1,33 @@
+Title: RENE MCALISTER
+
+----
+
+Customer-id: 593
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: RENE
+
+----
+
+Last-name: MCALISTER
+
+----
+
+Email: RENE.MCALISTER@sakilacustomer.org
+
+----
+
+Address: page://4YEe9mvxdImw2gNM
+
+----
+
+Active: 1
+
+----
+
+Uuid: q4exU1pk14u79lgg

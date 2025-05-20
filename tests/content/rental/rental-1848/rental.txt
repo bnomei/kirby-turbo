@@ -1,0 +1,25 @@
+Title: Rental 1848
+
+----
+
+Rental-id: 1848
+
+----
+
+Rental-date: 2005-06-17 00:07:07
+
+----
+
+Return-date: 2005-06-21 21:41:07
+
+----
+
+Inventory: page://JNAGm0bIqOS1HT1V
+
+----
+
+Uuid: 9ajg8INNcJVLu9Bw
+
+----
+
+Customer: page://yQcQ1eHjHG2TC2t0

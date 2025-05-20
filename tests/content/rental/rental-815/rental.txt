@@ -1,0 +1,25 @@
+Title: Rental 815
+
+----
+
+Rental-id: 815
+
+----
+
+Rental-date: 2005-05-29 20:24:28
+
+----
+
+Return-date: 2005-06-03 15:32:28
+
+----
+
+Inventory: page://sD9h6mnOjqMPo4LH
+
+----
+
+Uuid: x8GKEkpoeewuEnja
+
+----
+
+Customer: page://aFkGopCOghEK7p34

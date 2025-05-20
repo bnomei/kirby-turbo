@@ -1,0 +1,17 @@
+Title: Inv 2834
+
+----
+
+Inventory-id: 2834
+
+----
+
+Film: page://4YjV52Bu2TZvs5UN
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 7N3PEF4Kou2Ybn6r

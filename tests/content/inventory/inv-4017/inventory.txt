@@ -1,0 +1,17 @@
+Title: Inv 4017
+
+----
+
+Inventory-id: 4017
+
+----
+
+Film: page://CKCoA588LLOvH6sL
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: j1sHM5V0jkZHmcGY

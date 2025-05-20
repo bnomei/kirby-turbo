@@ -1,0 +1,25 @@
+Title: Rental 2393
+
+----
+
+Rental-id: 2393
+
+----
+
+Rental-date: 2005-06-18 15:37:55
+
+----
+
+Return-date: 2005-06-25 17:11:55
+
+----
+
+Inventory: page://pWZijtH94BzrmsZh
+
+----
+
+Uuid: QlWeB9BZluXby0Zg
+
+----
+
+Customer: page://KYkY8aG06K2r16Xn

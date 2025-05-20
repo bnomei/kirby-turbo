@@ -1,0 +1,25 @@
+Title: Rental 10522
+
+----
+
+Rental-id: 10522
+
+----
+
+Rental-date: 2005-08-01 11:48:51
+
+----
+
+Return-date: 2005-08-05 12:40:51
+
+----
+
+Inventory: page://80F2104eDNaIPs5T
+
+----
+
+Customer: page://v2N94muKJ3uhMCtA
+
+----
+
+Uuid: 2kddP8iPx26dgkuF

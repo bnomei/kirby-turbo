@@ -1,0 +1,17 @@
+Title: Okinawa
+
+----
+
+City-id: 377
+
+----
+
+City: Okinawa
+
+----
+
+Country: page://XEyP9uxOgFESeyaK
+
+----
+
+Uuid: BQeNeKsb5DZGGyZI

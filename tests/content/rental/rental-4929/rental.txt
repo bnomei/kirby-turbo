@@ -1,0 +1,25 @@
+Title: Rental 4929
+
+----
+
+Rental-id: 4929
+
+----
+
+Rental-date: 2005-07-08 22:06:18
+
+----
+
+Return-date: 2005-07-17 18:17:18
+
+----
+
+Inventory: page://usVUTLVYuWrAJuNC
+
+----
+
+Uuid: SOc7kRWur0ENIbUS
+
+----
+
+Customer: page://OuCE5gs5Pt217cWx

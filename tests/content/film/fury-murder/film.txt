@@ -1,0 +1,42 @@
+Title: FURY MURDER
+
+----
+
+Actors:
+
+- 'page://qd0io4mUKZ4KUkyk'
+- 'page://4hDC3FM6lySlQjxW'
+- 'page://Xu2nMG4ojUoJI7CN'
+- 'page://r5vfuwK7SifeGhUs'
+
+----
+
+Film-id: 344
+
+----
+
+Description: A Lacklusture Reflection of a Boat And a Forensic Psychologist who must Fight a Waitress in A Monastery
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 178
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: B0vxWhm921pRGixJ
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

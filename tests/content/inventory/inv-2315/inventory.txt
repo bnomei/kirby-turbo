@@ -1,0 +1,17 @@
+Title: Inv 2315
+
+----
+
+Inventory-id: 2315
+
+----
+
+Film: page://blzE5PZiY9bBh7xH
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: b31Kyxnsv2I53EtG

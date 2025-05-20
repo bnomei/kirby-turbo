@@ -1,0 +1,25 @@
+Title: Rental 8384
+
+----
+
+Rental-id: 8384
+
+----
+
+Rental-date: 2005-07-29 05:38:43
+
+----
+
+Return-date: 2005-08-01 07:31:43
+
+----
+
+Inventory: page://1jwaNZ0TimubgZG5
+
+----
+
+Customer: page://IvL5IgcIEWInX0H5
+
+----
+
+Uuid: QT4bD6Md0GHrwhDv

@@ -1,0 +1,25 @@
+Title: Rental 12012
+
+----
+
+Rental-id: 12012
+
+----
+
+Rental-date: 2005-08-17 19:20:48
+
+----
+
+Return-date: 2005-08-22 16:50:48
+
+----
+
+Inventory: page://VMEKb5ryw5DlMcoZ
+
+----
+
+Customer: page://THfMzLFg9xGh6L0X
+
+----
+
+Uuid: VNuatEPEEr9hHs2P

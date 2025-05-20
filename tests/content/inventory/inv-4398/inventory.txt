@@ -1,0 +1,17 @@
+Title: Inv 4398
+
+----
+
+Inventory-id: 4398
+
+----
+
+Film: page://0oeFnmeLg4QilRcA
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: vLdjhvcNfRnmhQt1

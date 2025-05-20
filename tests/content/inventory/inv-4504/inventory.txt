@@ -1,0 +1,17 @@
+Title: Inv 4504
+
+----
+
+Inventory-id: 4504
+
+----
+
+Film: page://5OGaw2AxZPbLFQ2S
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: QVHeBS1KCUMdTgqr

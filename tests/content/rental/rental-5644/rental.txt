@@ -1,0 +1,25 @@
+Title: Rental 5644
+
+----
+
+Rental-id: 5644
+
+----
+
+Rental-date: 2005-07-10 06:57:44
+
+----
+
+Return-date: 2005-07-15 03:52:44
+
+----
+
+Inventory: page://o5ZIfnfTB1qP4FBs
+
+----
+
+Uuid: oybCZJdX9iyxjnYd
+
+----
+
+Customer: page://kbGqUGnsmmbvnI45

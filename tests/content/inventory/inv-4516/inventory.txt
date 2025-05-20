@@ -1,0 +1,17 @@
+Title: Inv 4516
+
+----
+
+Inventory-id: 4516
+
+----
+
+Film: page://FnTv4J9zqjUvg8Pa
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: fHP6V3wnCpvQEuk4

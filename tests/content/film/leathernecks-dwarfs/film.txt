@@ -1,0 +1,45 @@
+Title: LEATHERNECKS DWARFS
+
+----
+
+Actors:
+
+- 'page://qd0io4mUKZ4KUkyk'
+- 'page://xbVuFnPKikNsqVkK'
+- 'page://7FlTvfT4DDNge34z'
+- 'page://KWXiI33RIY2Yllal'
+- 'page://VQ2tezOinyzNJNH4'
+- 'page://MokGIRk1MnOR5ecX'
+- 'page://humVtsLQfFTV2gvC'
+
+----
+
+Film-id: 513
+
+----
+
+Description: A Fateful Reflection of a Dog And a Mad Cow who must Outrace a Teacher in An Abandoned Mine Shaft
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 153
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: HfpKeXF5qcaHkuXX
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

@@ -1,0 +1,17 @@
+Title: Inv 1848
+
+----
+
+Inventory-id: 1848
+
+----
+
+Film: page://380e5JVPUj70wMoB
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: KBb8SVHhOpCLtIh5

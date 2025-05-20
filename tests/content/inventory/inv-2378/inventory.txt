@@ -1,0 +1,17 @@
+Title: Inv 2378
+
+----
+
+Inventory-id: 2378
+
+----
+
+Film: page://N4NNF3HujpJLGGlK
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: eQtlV97T9sBLeAKW

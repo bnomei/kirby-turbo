@@ -1,0 +1,33 @@
+Title: STEPHEN QUALLS
+
+----
+
+Customer-id: 332
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: STEPHEN
+
+----
+
+Last-name: QUALLS
+
+----
+
+Email: STEPHEN.QUALLS@sakilacustomer.org
+
+----
+
+Address: page://CoVdkvfQaCpoUsW7
+
+----
+
+Active: 1
+
+----
+
+Uuid: JF86ERvhL0BUaSoR

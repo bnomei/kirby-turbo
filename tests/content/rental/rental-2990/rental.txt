@@ -1,0 +1,25 @@
+Title: Rental 2990
+
+----
+
+Rental-id: 2990
+
+----
+
+Rental-date: 2005-06-20 09:02:51
+
+----
+
+Return-date: 2005-06-29 13:19:51
+
+----
+
+Inventory: page://kAPdlW4OS4iIgvpF
+
+----
+
+Uuid: QzXwotYkR4Ltr05o
+
+----
+
+Customer: page://4PvCN4u0ZNDQjU3C

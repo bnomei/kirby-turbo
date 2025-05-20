@@ -1,0 +1,33 @@
+Title: HOLLY FOX
+
+----
+
+Customer-id: 186
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: HOLLY
+
+----
+
+Last-name: FOX
+
+----
+
+Email: HOLLY.FOX@sakilacustomer.org
+
+----
+
+Address: page://N9LNIRnLPVNjsr7V
+
+----
+
+Active: 1
+
+----
+
+Uuid: ZYRwcsL569LnKKWi

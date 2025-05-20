@@ -1,0 +1,25 @@
+Title: Rental 3116
+
+----
+
+Rental-id: 3116
+
+----
+
+Rental-date: 2005-06-20 18:04:55
+
+----
+
+Return-date: 2005-06-21 12:12:55
+
+----
+
+Inventory: page://NRezFDfvIcL0mLKC
+
+----
+
+Uuid: 1clbxOnr0PLx430Z
+
+----
+
+Customer: page://VPA8X8lftFbJP7Oh

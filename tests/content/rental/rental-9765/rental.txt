@@ -1,0 +1,25 @@
+Title: Rental 9765
+
+----
+
+Rental-id: 9765
+
+----
+
+Rental-date: 2005-07-31 09:44:40
+
+----
+
+Return-date: 2005-08-05 10:57:40
+
+----
+
+Inventory: page://FZsubmZow4ZiMmun
+
+----
+
+Customer: page://nT5wjEgKoa1UOpc8
+
+----
+
+Uuid: ax3lRFEHZ03X7372

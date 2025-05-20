@@ -1,0 +1,25 @@
+Title: Rental 4410
+
+----
+
+Rental-id: 4410
+
+----
+
+Rental-date: 2005-07-07 21:48:16
+
+----
+
+Return-date: 2005-07-09 03:15:16
+
+----
+
+Inventory: page://XQhnxPgOgQhewHbq
+
+----
+
+Uuid: Y59IcO0YyogK4PZc
+
+----
+
+Customer: page://39hvxMFvUZi2TOlv

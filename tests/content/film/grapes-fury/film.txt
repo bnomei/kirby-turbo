@@ -1,0 +1,43 @@
+Title: GRAPES FURY
+
+----
+
+Actors:
+
+- 'page://6YS8rkTURbcXafoi'
+- 'page://ovAz2jwmaTIz5ph9'
+- 'page://9dZ7pytlckFxJvGe'
+- 'page://WFF82auh2AgpYPoL'
+- 'page://h9gp2o2uGocb4AUV'
+
+----
+
+Film-id: 376
+
+----
+
+Description: A Boring Yarn of a Mad Cow And a Sumo Wrestler who must Meet a Robot in Australia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 155
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: aIzeDPhb5b1oNOHo
+
+----
+
+Categories: - 'page://1zSlwtq2IyzVh9Hs'

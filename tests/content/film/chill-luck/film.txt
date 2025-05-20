@@ -1,0 +1,43 @@
+Title: CHILL LUCK
+
+----
+
+Actors:
+
+- 'page://9dZ7pytlckFxJvGe'
+- 'page://GA1ldK0BGihIEfd4'
+- 'page://Xu2nMG4ojUoJI7CN'
+- 'page://MG1O0zMGGcgzh2YX'
+- 'page://ltHX2Lf4QT72ZiqX'
+
+----
+
+Film-id: 143
+
+----
+
+Description: A Lacklusture Epistle of a Boat And a Technical Writer who must Fight a A Shark in The Canadian Rockies
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 142
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: 1iyJBIlxuR9BDdK6
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

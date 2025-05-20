@@ -1,0 +1,17 @@
+Title: Inv 3041
+
+----
+
+Inventory-id: 3041
+
+----
+
+Film: page://Wm0Kzt7aNDBOgJJn
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ELzoavlTBZFjVvqw

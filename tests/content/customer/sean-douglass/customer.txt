@@ -1,0 +1,33 @@
+Title: SEAN DOUGLASS
+
+----
+
+Customer-id: 392
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: SEAN
+
+----
+
+Last-name: DOUGLASS
+
+----
+
+Email: SEAN.DOUGLASS@sakilacustomer.org
+
+----
+
+Address: page://h2IEJlXab1VXX8uk
+
+----
+
+Active: 1
+
+----
+
+Uuid: aSDbYZyDO3hz2mlG

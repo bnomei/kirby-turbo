@@ -1,0 +1,25 @@
+Title: Rental 7118
+
+----
+
+Rental-id: 7118
+
+----
+
+Rental-date: 2005-07-27 05:53:50
+
+----
+
+Return-date: 2005-08-05 04:19:50
+
+----
+
+Inventory: page://MCox2QUV5xQEaDvv
+
+----
+
+Customer: page://dkYED9p0YUgsDhXs
+
+----
+
+Uuid: 8rSAwjZR4JsCfuLD

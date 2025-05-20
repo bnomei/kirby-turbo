@@ -1,0 +1,25 @@
+Title: Rental 3231
+
+----
+
+Rental-id: 3231
+
+----
+
+Rental-date: 2005-06-21 02:25:00
+
+----
+
+Return-date: 2005-06-23 05:46:00
+
+----
+
+Inventory: page://eqcI71on5jTxciAC
+
+----
+
+Uuid: z4LDS6KPH2lzBAJG
+
+----
+
+Customer: page://9GMMxk4OJQFuLIWJ

@@ -1,0 +1,25 @@
+Title: Rental 6370
+
+----
+
+Rental-id: 6370
+
+----
+
+Rental-date: 2005-07-11 21:28:32
+
+----
+
+Return-date: 2005-07-20 02:51:32
+
+----
+
+Inventory: page://pz6XQS1zEk8VLsWM
+
+----
+
+Uuid: HPnCkoQ8UJVYsPqG
+
+----
+
+Customer: page://ThgYfQ8UF68tkRWf

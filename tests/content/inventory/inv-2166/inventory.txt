@@ -1,0 +1,17 @@
+Title: Inv 2166
+
+----
+
+Inventory-id: 2166
+
+----
+
+Film: page://mEVtoHPdwzg7XWhq
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: y7l9o0yBGeIhfKLr

@@ -1,0 +1,33 @@
+Title: MARION OCAMPO
+
+----
+
+Customer-id: 588
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MARION
+
+----
+
+Last-name: OCAMPO
+
+----
+
+Email: MARION.OCAMPO@sakilacustomer.org
+
+----
+
+Address: page://rm0ubJD0LaDIQsgx
+
+----
+
+Active: 1
+
+----
+
+Uuid: cxaxfUF1lmAT9qO9

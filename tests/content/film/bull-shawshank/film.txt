@@ -1,0 +1,46 @@
+Title: BULL SHAWSHANK
+
+----
+
+Actors:
+
+- 'page://8goemlF34STteVIR'
+- 'page://RW4ixiF3bbh7oXkH'
+- 'page://AvkKtwk9lLurZvzW'
+- 'page://4hDC3FM6lySlQjxW'
+- 'page://r6UF6pUyhmwAPzIH'
+- 'page://dRscV8wJJ6wok0jq'
+- 'page://k43wur9uhLztfZOP'
+- 'page://uyiPyWfxhKFdwYKL'
+
+----
+
+Film-id: 105
+
+----
+
+Description: A Fanciful Drama of a Moose And a Squirrel who must Conquer a Pioneer in The Canadian Rockies
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 125
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: DOtC9jr927fiH9Lg
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

@@ -1,0 +1,25 @@
+Title: Rental 4966
+
+----
+
+Rental-id: 4966
+
+----
+
+Rental-date: 2005-07-08 23:47:25
+
+----
+
+Return-date: 2005-07-14 03:35:25
+
+----
+
+Inventory: page://g6t6V8nByrZjHxAl
+
+----
+
+Uuid: u5GbJ4COmo3MGYSi
+
+----
+
+Customer: page://DHCFR43GioKyqCUN

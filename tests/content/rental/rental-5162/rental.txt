@@ -1,0 +1,25 @@
+Title: Rental 5162
+
+----
+
+Rental-id: 5162
+
+----
+
+Rental-date: 2005-07-09 09:00:11
+
+----
+
+Return-date: 2005-07-17 07:26:11
+
+----
+
+Inventory: page://G56XJcok3qa2EHu2
+
+----
+
+Uuid: bbXqwCHjsPL7cO3I
+
+----
+
+Customer: page://4bqmvXdivlrT2tgo

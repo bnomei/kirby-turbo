@@ -1,0 +1,17 @@
+Title: Beni-Mellal
+
+----
+
+City-id: 68
+
+----
+
+City: Beni-Mellal
+
+----
+
+Country: page://nsXsCxk1OUQ8yrD5
+
+----
+
+Uuid: 3L2odSvmOkKSmus5

@@ -1,0 +1,44 @@
+Title: FROGMEN BREAKING
+
+----
+
+Actors:
+
+- 'page://S8UoUinBIsjzumVd'
+- 'page://xtyCW5dEHcrv0QRa'
+- 'page://LYJoMM1yt0Pr5l4j'
+- 'page://K0t8PMh78EXVZHC5'
+- 'page://3BcvBP3gfacEDPsU'
+- 'page://1lkqFZByE2squnG7'
+
+----
+
+Film-id: 339
+
+----
+
+Description: A Unbelieveable Yarn of a Mad Scientist And a Cat who must Chase a Lumberjack in Australia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 111
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: FrgMikucjaFCqAyi
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

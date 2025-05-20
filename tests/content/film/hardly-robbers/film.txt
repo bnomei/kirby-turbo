@@ -1,0 +1,41 @@
+Title: HARDLY ROBBERS
+
+----
+
+Actors:
+
+- 'page://qd0io4mUKZ4KUkyk'
+- 'page://NmIbTpy4ZSHrHfnI'
+- 'page://CI649GdI5JvIKbQ1'
+
+----
+
+Film-id: 400
+
+----
+
+Description: A Emotional Character Study of a Hunter And a Car who must Kill a Woman in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 72
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: ibzE9A0UgRG9uqqh
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

@@ -1,0 +1,25 @@
+Title: Rental 4833
+
+----
+
+Rental-id: 4833
+
+----
+
+Rental-date: 2005-07-08 18:07:35
+
+----
+
+Return-date: 2005-07-13 15:29:35
+
+----
+
+Inventory: page://kGzwzAP9p0jaBi1i
+
+----
+
+Uuid: cWbUM6mojAfLMZKN
+
+----
+
+Customer: page://WkdWOiV7wx4C2nmh

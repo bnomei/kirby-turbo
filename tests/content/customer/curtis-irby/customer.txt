@@ -1,0 +1,33 @@
+Title: CURTIS IRBY
+
+----
+
+Customer-id: 410
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: CURTIS
+
+----
+
+Last-name: IRBY
+
+----
+
+Email: CURTIS.IRBY@sakilacustomer.org
+
+----
+
+Address: page://H85Ri767zct9IeUn
+
+----
+
+Active: 1
+
+----
+
+Uuid: qq0m1YSvvt7HbeBW

@@ -1,0 +1,25 @@
+Title: Rental 10637
+
+----
+
+Rental-id: 10637
+
+----
+
+Rental-date: 2005-08-01 15:44:09
+
+----
+
+Return-date: 2005-08-04 14:42:09
+
+----
+
+Inventory: page://WMpdgXwPzNcxRVqH
+
+----
+
+Customer: page://QJJkyq57XaTH2VdS
+
+----
+
+Uuid: X7VlUd84xVkDdIkp

@@ -1,0 +1,40 @@
+Title: CHICKEN HELLFIGHTERS
+
+----
+
+Actors:
+
+- 'page://rWwSmn6uTovtpXae'
+- 'page://ovAz2jwmaTIz5ph9'
+
+----
+
+Film-id: 142
+
+----
+
+Description: A Emotional Drama of a Dog And a Explorer who must Outrace a Technical Writer in Australia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 122
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: KDZLBGmL5muBYMZ5
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

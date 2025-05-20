@@ -1,0 +1,25 @@
+Title: Rental 7843
+
+----
+
+Rental-id: 7843
+
+----
+
+Rental-date: 2005-07-28 09:10:22
+
+----
+
+Return-date: 2005-08-01 11:27:22
+
+----
+
+Inventory: page://9pSy4UzIIOGjO2Ju
+
+----
+
+Customer: page://x5SWKXQpXhzjUJdL
+
+----
+
+Uuid: XSETD49UnJjoebUV

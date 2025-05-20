@@ -1,0 +1,33 @@
+Title: STEVEN CURLEY
+
+----
+
+Customer-id: 316
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: STEVEN
+
+----
+
+Last-name: CURLEY
+
+----
+
+Email: STEVEN.CURLEY@sakilacustomer.org
+
+----
+
+Address: page://sNTQn2fx83iahszg
+
+----
+
+Active: 1
+
+----
+
+Uuid: W2vSpda0fGwDYgAa

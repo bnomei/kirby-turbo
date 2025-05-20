@@ -1,0 +1,17 @@
+Title: Inv 3795
+
+----
+
+Inventory-id: 3795
+
+----
+
+Film: page://I5vJzIp238MGKUOB
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: K5jMZ7aWOxOKfVNf

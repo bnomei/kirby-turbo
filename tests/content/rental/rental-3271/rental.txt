@@ -1,0 +1,25 @@
+Title: Rental 3271
+
+----
+
+Rental-id: 3271
+
+----
+
+Rental-date: 2005-06-21 05:16:10
+
+----
+
+Return-date: 2005-06-27 10:46:10
+
+----
+
+Inventory: page://48aLTRkQSHvMIXqm
+
+----
+
+Uuid: 4EZCXmwAD9LLdOD8
+
+----
+
+Customer: page://TCHvKARcBg3R487d

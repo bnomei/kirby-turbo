@@ -1,0 +1,21 @@
+Title: Rental 12645
+
+----
+
+Rental-id: 12645
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://bGLw5hI9sT0X4MoH
+
+----
+
+Customer: page://ssKfVmN07XGOgIXz
+
+----
+
+Uuid: z2OCkVwpmfE3c5JP

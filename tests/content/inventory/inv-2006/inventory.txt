@@ -1,0 +1,17 @@
+Title: Inv 2006
+
+----
+
+Inventory-id: 2006
+
+----
+
+Film: page://dphOwxgEJ2OPYdBU
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: mV8wPk7IdNztfrgu

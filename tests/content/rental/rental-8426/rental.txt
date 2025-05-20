@@ -1,0 +1,25 @@
+Title: Rental 8426
+
+----
+
+Rental-id: 8426
+
+----
+
+Rental-date: 2005-07-29 07:07:48
+
+----
+
+Return-date: 2005-08-07 08:56:48
+
+----
+
+Inventory: page://NJL0HJpGvr85XOTB
+
+----
+
+Customer: page://IRu2BC3kihoj0lej
+
+----
+
+Uuid: D0PhnpBnSfOE5PAt

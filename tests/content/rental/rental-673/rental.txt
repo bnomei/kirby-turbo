@@ -1,0 +1,25 @@
+Title: Rental 673
+
+----
+
+Rental-id: 673
+
+----
+
+Rental-date: 2005-05-28 22:07:30
+
+----
+
+Return-date: 2005-06-01 23:42:30
+
+----
+
+Inventory: page://w8sYnPl2GnxRL3Aw
+
+----
+
+Uuid: tMuKmF8N3NrGZBT5
+
+----
+
+Customer: page://tS8tZAomHzcsij8a

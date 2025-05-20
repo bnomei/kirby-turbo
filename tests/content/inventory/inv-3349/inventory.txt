@@ -1,0 +1,17 @@
+Title: Inv 3349
+
+----
+
+Inventory-id: 3349
+
+----
+
+Film: page://JZKZHd1XqXdOF2GJ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 35IxUOphmBl7GE4A

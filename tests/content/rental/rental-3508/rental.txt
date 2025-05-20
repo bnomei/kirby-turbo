@@ -1,0 +1,25 @@
+Title: Rental 3508
+
+----
+
+Rental-id: 3508
+
+----
+
+Rental-date: 2005-07-06 00:24:25
+
+----
+
+Return-date: 2005-07-10 05:38:25
+
+----
+
+Inventory: page://DWliKNFxGvfZ24cI
+
+----
+
+Uuid: LhmcOjvIxQd9HbU8
+
+----
+
+Customer: page://meRS5ZpTiS6VB9kT

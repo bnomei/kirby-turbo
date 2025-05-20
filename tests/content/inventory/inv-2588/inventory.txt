@@ -1,0 +1,17 @@
+Title: Inv 2588
+
+----
+
+Inventory-id: 2588
+
+----
+
+Film: page://8Ffaw60h7MiOKwsm
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 7gLuehf1HDdLNY2j

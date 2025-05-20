@@ -1,0 +1,25 @@
+Title: Rental 7360
+
+----
+
+Rental-id: 7360
+
+----
+
+Rental-date: 2005-07-27 14:52:06
+
+----
+
+Return-date: 2005-08-02 12:24:06
+
+----
+
+Inventory: page://QML0Oy51ZzK4dkmt
+
+----
+
+Customer: page://xoXdL5AbyoKMncLp
+
+----
+
+Uuid: qg7Pu2xiUn9R37Xu

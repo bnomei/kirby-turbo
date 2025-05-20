@@ -1,0 +1,25 @@
+Title: Rental 3763
+
+----
+
+Rental-id: 3763
+
+----
+
+Rental-date: 2005-07-06 12:56:31
+
+----
+
+Return-date: 2005-07-09 14:49:31
+
+----
+
+Inventory: page://O4hr4vFXFKdm5WIu
+
+----
+
+Uuid: KBRdBDjJSOGC4DjR
+
+----
+
+Customer: page://SVZoWH6J14ZTtsdK

@@ -1,0 +1,33 @@
+Title: ANGEL BARCLAY
+
+----
+
+Customer-id: 503
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ANGEL
+
+----
+
+Last-name: BARCLAY
+
+----
+
+Email: ANGEL.BARCLAY@sakilacustomer.org
+
+----
+
+Address: page://FAfW2vgNp6H6qb8N
+
+----
+
+Active: 1
+
+----
+
+Uuid: 6OY6sKjbR1uPXwOW

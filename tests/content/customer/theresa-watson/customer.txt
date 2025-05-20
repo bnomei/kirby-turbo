@@ -1,0 +1,33 @@
+Title: THERESA WATSON
+
+----
+
+Customer-id: 72
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: THERESA
+
+----
+
+Last-name: WATSON
+
+----
+
+Email: THERESA.WATSON@sakilacustomer.org
+
+----
+
+Address: page://S4ylEIhE5gua75Ul
+
+----
+
+Active: 1
+
+----
+
+Uuid: mAEI18ycC75jSjfq

@@ -1,0 +1,41 @@
+Title: TURN STAR
+
+----
+
+Actors:
+
+- 'page://I7tdxqtamjxgIUCW'
+- 'page://xtyCW5dEHcrv0QRa'
+- 'page://vMUybiWmK5EriDRU'
+
+----
+
+Film-id: 916
+
+----
+
+Description: A Stunning Tale of a Man And a Monkey who must Chase a Student in New Orleans
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 80
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: kfL3RX6O5ltb9riZ
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

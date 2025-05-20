@@ -1,0 +1,25 @@
+Title: Rental 2100
+
+----
+
+Rental-id: 2100
+
+----
+
+Rental-date: 2005-06-17 18:53:21
+
+----
+
+Return-date: 2005-06-19 21:49:21
+
+----
+
+Inventory: page://vNjkc6bvJdA3vMTa
+
+----
+
+Uuid: 6XdHN3V1vVWhqlD7
+
+----
+
+Customer: page://F6pL0bxX1YRyvGAo

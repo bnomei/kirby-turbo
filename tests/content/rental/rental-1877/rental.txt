@@ -1,0 +1,25 @@
+Title: Rental 1877
+
+----
+
+Rental-id: 1877
+
+----
+
+Rental-date: 2005-06-17 02:54:16
+
+----
+
+Return-date: 2005-06-25 21:51:16
+
+----
+
+Inventory: page://FDV4ESecy8o3zS4X
+
+----
+
+Uuid: Mts06xbt2lPhygwe
+
+----
+
+Customer: page://hKCKx3YFHHjehyrG

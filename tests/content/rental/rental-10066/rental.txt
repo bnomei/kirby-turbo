@@ -1,0 +1,25 @@
+Title: Rental 10066
+
+----
+
+Rental-id: 10066
+
+----
+
+Rental-date: 2005-07-31 19:30:01
+
+----
+
+Return-date: 2005-08-01 14:45:01
+
+----
+
+Inventory: page://7ywPpIBiAy0rlCCN
+
+----
+
+Customer: page://FnuN2yauUCBPuMTu
+
+----
+
+Uuid: ZEUpHcsjoopQDomh

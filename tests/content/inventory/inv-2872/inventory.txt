@@ -1,0 +1,17 @@
+Title: Inv 2872
+
+----
+
+Inventory-id: 2872
+
+----
+
+Film: page://5uaTmMonsHZ6txcK
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: GPydWbPWiNcuAlCy

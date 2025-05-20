@@ -1,0 +1,17 @@
+Title: Inv 679
+
+----
+
+Inventory-id: 679
+
+----
+
+Film: page://gcI22iZfI8heb4EI
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: DyvkB5D9C6nwJygo

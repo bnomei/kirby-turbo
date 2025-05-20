@@ -1,0 +1,42 @@
+Title: BEAST HUNCHBACK
+
+----
+
+Actors:
+
+- 'page://qGB9wRd16f9YwbHn'
+- 'page://nkFKurUJ9w7y8omW'
+- 'page://rrHZ6f6sSm29JuNB'
+- 'page://nN3rIVkI7hNgoDlp'
+
+----
+
+Film-id: 60
+
+----
+
+Description: A Awe-Inspiring Epistle of a Student And a Squirrel who must Defeat a Boy in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 89
+
+----
+
+Rating: R
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: RGaT4pkS9m8VuTXD
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

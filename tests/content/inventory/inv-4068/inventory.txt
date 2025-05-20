@@ -1,0 +1,17 @@
+Title: Inv 4068
+
+----
+
+Inventory-id: 4068
+
+----
+
+Film: page://Mk00fN7mmOAZR9j4
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: kFgNvSmyp6li2QK0

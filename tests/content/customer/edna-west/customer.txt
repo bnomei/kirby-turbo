@@ -1,0 +1,33 @@
+Title: EDNA WEST
+
+----
+
+Customer-id: 109
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: EDNA
+
+----
+
+Last-name: WEST
+
+----
+
+Email: EDNA.WEST@sakilacustomer.org
+
+----
+
+Address: page://sidTilHKd67PQ0s7
+
+----
+
+Active: 1
+
+----
+
+Uuid: n40fLAJ9fSQtqJlL

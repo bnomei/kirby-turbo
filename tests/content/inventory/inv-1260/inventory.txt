@@ -1,0 +1,17 @@
+Title: Inv 1260
+
+----
+
+Inventory-id: 1260
+
+----
+
+Film: page://95HMyYMDoh6RskAd
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 9O3hbfW2mI485ux6

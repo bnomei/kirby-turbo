@@ -1,0 +1,25 @@
+Title: Rental 9218
+
+----
+
+Rental-id: 9218
+
+----
+
+Rental-date: 2005-07-30 13:14:35
+
+----
+
+Return-date: 2005-08-07 18:03:35
+
+----
+
+Inventory: page://JsrFkUlJfkuLvBYg
+
+----
+
+Customer: page://EyDPLO3Eg43hOXws
+
+----
+
+Uuid: il2cpdxkc2YBVias

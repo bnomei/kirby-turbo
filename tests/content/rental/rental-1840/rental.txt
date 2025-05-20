@@ -1,0 +1,25 @@
+Title: Rental 1840
+
+----
+
+Rental-id: 1840
+
+----
+
+Rental-date: 2005-06-16 23:39:34
+
+----
+
+Return-date: 2005-06-21 23:36:34
+
+----
+
+Inventory: page://zNgo645SNmjZSMXR
+
+----
+
+Uuid: bnx9zJAZho36O7N6
+
+----
+
+Customer: page://0diivdH91F9vTjvz

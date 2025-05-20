@@ -1,0 +1,46 @@
+Title: NEWSIES STORY
+
+----
+
+Actors:
+
+- 'page://Gz114ojbruPqLOSY'
+- 'page://f3T5R3qlMgXii7Oj'
+- 'page://75IrF5RezCSzGKrx'
+- 'page://r6UF6pUyhmwAPzIH'
+- 'page://4H5a71re4eGpTLKc'
+- 'page://gLWxCWOnObb0fT65'
+- 'page://jSbKN9X4MDWI1G5U'
+- 'page://zDG4LP4a8BGDrQEW'
+
+----
+
+Film-id: 622
+
+----
+
+Description: A Action-Packed Character Study of a Dog And a Lumberjack who must Outrace a Moose in The Gulf of Mexico
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 159
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: MVTPJXaTCd1DAwtr
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

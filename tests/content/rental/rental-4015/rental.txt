@@ -1,0 +1,25 @@
+Title: Rental 4015
+
+----
+
+Rental-id: 4015
+
+----
+
+Rental-date: 2005-07-07 00:59:46
+
+----
+
+Return-date: 2005-07-14 03:16:46
+
+----
+
+Inventory: page://FCoV74MmmC0XgnRK
+
+----
+
+Uuid: 5OJ8GIs5z7bVngQ4
+
+----
+
+Customer: page://pJ4NwB4FUwNgVlBs

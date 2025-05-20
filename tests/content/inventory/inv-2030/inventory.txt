@@ -1,0 +1,17 @@
+Title: Inv 2030
+
+----
+
+Inventory-id: 2030
+
+----
+
+Film: page://08RuZ3ZEpy8OhGHC
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 3KsI1J7cDCQRwOh3

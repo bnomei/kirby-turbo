@@ -1,0 +1,44 @@
+Title: CHANCE RESURRECTION
+
+----
+
+Actors:
+
+- 'page://gxNf949gkwS5ks3A'
+- 'page://2VTI7EzGP0O1IYVh'
+- 'page://S8UoUinBIsjzumVd'
+- 'page://isKOKKisNfJh2ta1'
+- 'page://k43wur9uhLztfZOP'
+- 'page://QybR1sXOQQQZIPXG'
+
+----
+
+Film-id: 135
+
+----
+
+Description: A Astounding Story of a Forensic Psychologist And a Forensic Psychologist who must Overcome a Moose in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 70
+
+----
+
+Rating: R
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: C8VGh18xAG37kxNf
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

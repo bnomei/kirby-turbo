@@ -1,0 +1,25 @@
+Title: Rental 7040
+
+----
+
+Rental-id: 7040
+
+----
+
+Rental-date: 2005-07-27 03:17:19
+
+----
+
+Return-date: 2005-07-29 07:03:19
+
+----
+
+Inventory: page://Z9PWOTWlFFegrzYC
+
+----
+
+Customer: page://DVIVTmAM0LOCEI7a
+
+----
+
+Uuid: QWYTnZiUFHarqzy4

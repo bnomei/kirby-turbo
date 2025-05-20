@@ -1,0 +1,33 @@
+Title: LANCE PEMBERTON
+
+----
+
+Customer-id: 543
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: LANCE
+
+----
+
+Last-name: PEMBERTON
+
+----
+
+Email: LANCE.PEMBERTON@sakilacustomer.org
+
+----
+
+Address: page://4RsroFKLVmqJXQwt
+
+----
+
+Active: 1
+
+----
+
+Uuid: DmLqAKJqqCmbO2QP

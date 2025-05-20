@@ -1,0 +1,17 @@
+Title: Inv 2199
+
+----
+
+Inventory-id: 2199
+
+----
+
+Film: page://6AyhLNZbhUVtDHwt
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: bhG6FfcRot2HgCYz

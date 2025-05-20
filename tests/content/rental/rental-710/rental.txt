@@ -1,0 +1,25 @@
+Title: Rental 710
+
+----
+
+Rental-id: 710
+
+----
+
+Rental-date: 2005-05-29 03:48:36
+
+----
+
+Return-date: 2005-06-03 05:03:36
+
+----
+
+Inventory: page://bzJA3531ctlh2bqT
+
+----
+
+Uuid: FvEs2NIdYV7VWSZO
+
+----
+
+Customer: page://C3xdWMfnsFmTRrLo

@@ -1,0 +1,25 @@
+Title: Rental 4531
+
+----
+
+Rental-id: 4531
+
+----
+
+Rental-date: 2005-07-08 03:27:59
+
+----
+
+Return-date: 2005-07-10 22:48:59
+
+----
+
+Inventory: page://7bRCuhujqZSlcdYZ
+
+----
+
+Uuid: 3jkXjddsIH3akfP6
+
+----
+
+Customer: page://S7Bt2TM6J9ACe4bP

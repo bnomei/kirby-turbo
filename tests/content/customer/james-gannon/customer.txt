@@ -1,0 +1,33 @@
+Title: JAMES GANNON
+
+----
+
+Customer-id: 299
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JAMES
+
+----
+
+Last-name: GANNON
+
+----
+
+Email: JAMES.GANNON@sakilacustomer.org
+
+----
+
+Address: page://d8FfBFU0UhjtHdjF
+
+----
+
+Active: 1
+
+----
+
+Uuid: igxQ7vxPZAcLSAoP

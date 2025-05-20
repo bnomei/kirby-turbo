@@ -1,0 +1,17 @@
+Title: Inv 2094
+
+----
+
+Inventory-id: 2094
+
+----
+
+Film: page://tq3Q0JmEdXrpLqyY
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 8JSbt2l4BOgjBYXX

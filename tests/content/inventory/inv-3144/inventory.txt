@@ -1,0 +1,17 @@
+Title: Inv 3144
+
+----
+
+Inventory-id: 3144
+
+----
+
+Film: page://EKJk2VIywYlYORwF
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: hxaqZndHkiSJSckE

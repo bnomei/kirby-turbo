@@ -1,0 +1,25 @@
+Title: Rental 4719
+
+----
+
+Rental-id: 4719
+
+----
+
+Rental-date: 2005-07-08 12:33:00
+
+----
+
+Return-date: 2005-07-15 12:30:00
+
+----
+
+Inventory: page://Smb1XTXXL0SnorhK
+
+----
+
+Uuid: TEohnznkibNulpiz
+
+----
+
+Customer: page://jvfTUTQTIh7rD2Pp

@@ -1,0 +1,17 @@
+Title: Inv 3778
+
+----
+
+Inventory-id: 3778
+
+----
+
+Film: page://XkYdTumKc3zQL718
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: WyB4YjJmPEAbrpPZ

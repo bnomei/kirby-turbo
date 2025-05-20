@@ -1,0 +1,17 @@
+Title: Inv 3098
+
+----
+
+Inventory-id: 3098
+
+----
+
+Film: page://a0gDd5aMc5B7ovnL
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: pj6k201gphft1D5N

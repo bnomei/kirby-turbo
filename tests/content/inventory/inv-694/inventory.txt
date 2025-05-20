@@ -1,0 +1,17 @@
+Title: Inv 694
+
+----
+
+Inventory-id: 694
+
+----
+
+Film: page://hpetDgXYOYY3wrNz
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 0HeAANjN16uoXBFk

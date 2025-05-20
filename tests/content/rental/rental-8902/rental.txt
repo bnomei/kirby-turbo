@@ -1,0 +1,25 @@
+Title: Rental 8902
+
+----
+
+Rental-id: 8902
+
+----
+
+Rental-date: 2005-07-30 01:08:06
+
+----
+
+Return-date: 2005-08-05 00:00:06
+
+----
+
+Inventory: page://GvcE1iN44MujryvS
+
+----
+
+Customer: page://X8y0Q9Q9rEkii7ym
+
+----
+
+Uuid: vC6jheUwSHJGiSOt

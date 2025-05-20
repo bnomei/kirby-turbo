@@ -1,0 +1,17 @@
+Title: Inv 1346
+
+----
+
+Inventory-id: 1346
+
+----
+
+Film: page://xop717uobQ0PNzJg
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: yI5mDtsoTrsawLYM

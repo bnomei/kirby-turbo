@@ -1,0 +1,17 @@
+Title: Inv 1006
+
+----
+
+Inventory-id: 1006
+
+----
+
+Film: page://mISz5LfGO1wZEfg8
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: OeTRo9wwXjKmF63H

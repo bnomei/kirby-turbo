@@ -1,0 +1,17 @@
+Title: Inv 1368
+
+----
+
+Inventory-id: 1368
+
+----
+
+Film: page://nRJJF55eLzvB955V
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: RrBD34RqdqXY8Fuw

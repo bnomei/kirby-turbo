@@ -1,0 +1,25 @@
+Title: Rental 9352
+
+----
+
+Rental-id: 9352
+
+----
+
+Rental-date: 2005-07-30 18:29:26
+
+----
+
+Return-date: 2005-07-31 19:43:26
+
+----
+
+Inventory: page://6Zy1mIlCWrNDKZf0
+
+----
+
+Customer: page://7SY2KMPnL0FSeq6W
+
+----
+
+Uuid: bU0v7lC34VRWzTPa

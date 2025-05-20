@@ -1,0 +1,17 @@
+Title: Inv 4372
+
+----
+
+Inventory-id: 4372
+
+----
+
+Film: page://RNxkBPBss9uNhMri
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: LYx7Fy29s7LxFnlE

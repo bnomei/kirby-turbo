@@ -1,0 +1,17 @@
+Title: Inv 1875
+
+----
+
+Inventory-id: 1875
+
+----
+
+Film: page://WcPezxIt8eTUWQ2G
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: XIK0hSafEuOmsawN

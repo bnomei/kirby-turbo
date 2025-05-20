@@ -1,0 +1,33 @@
+Title: CAROLYN PEREZ
+
+----
+
+Customer-id: 42
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: CAROLYN
+
+----
+
+Last-name: PEREZ
+
+----
+
+Email: CAROLYN.PEREZ@sakilacustomer.org
+
+----
+
+Address: page://yjyOgahIKwjgxnsR
+
+----
+
+Active: 1
+
+----
+
+Uuid: PBAxbbLPwokG6bh1

@@ -1,0 +1,21 @@
+Title: Rental 12897
+
+----
+
+Rental-id: 12897
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://IYpylVWjHkatJGRN
+
+----
+
+Customer: page://julxqmzKuY3KPZ0W
+
+----
+
+Uuid: kJ5g5pGAvgcBrORS

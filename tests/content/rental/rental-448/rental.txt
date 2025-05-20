@@ -1,0 +1,25 @@
+Title: Rental 448
+
+----
+
+Rental-id: 448
+
+----
+
+Rental-date: 2005-05-27 19:03:08
+
+----
+
+Return-date: 2005-06-03 20:28:08
+
+----
+
+Inventory: page://JsLIIvKlrEIEWEyG
+
+----
+
+Uuid: DwG1LI13Yj9doyKv
+
+----
+
+Customer: page://Z0SLCRZPQYYmETgw

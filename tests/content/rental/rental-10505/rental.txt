@@ -1,0 +1,25 @@
+Title: Rental 10505
+
+----
+
+Rental-id: 10505
+
+----
+
+Rental-date: 2005-08-01 11:13:59
+
+----
+
+Return-date: 2005-08-05 07:20:59
+
+----
+
+Inventory: page://U5OMYUEOUAQzSGjg
+
+----
+
+Customer: page://bm01Zh4gvYAGmd89
+
+----
+
+Uuid: ea12nMAdWTHGrQMj

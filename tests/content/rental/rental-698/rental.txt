@@ -1,0 +1,25 @@
+Title: Rental 698
+
+----
+
+Rental-id: 698
+
+----
+
+Rental-date: 2005-05-29 02:10:52
+
+----
+
+Return-date: 2005-06-01 21:52:52
+
+----
+
+Inventory: page://Ax4Bvzq2770flJvJ
+
+----
+
+Uuid: prmfYlYXQXY7d455
+
+----
+
+Customer: page://n40fLAJ9fSQtqJlL

@@ -1,0 +1,25 @@
+Title: Rental 4548
+
+----
+
+Rental-id: 4548
+
+----
+
+Rental-date: 2005-07-08 04:21:54
+
+----
+
+Return-date: 2005-07-14 23:16:54
+
+----
+
+Inventory: page://EP8dXTdInmoswuae
+
+----
+
+Uuid: SwP6Zm8GkRdnroYl
+
+----
+
+Customer: page://psNaEAJbImBLLUq8

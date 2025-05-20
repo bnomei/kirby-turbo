@@ -1,0 +1,42 @@
+Title: GROSSE WONDERFUL
+
+----
+
+Actors:
+
+- 'page://kIGWs86teYEK5yIM'
+- 'page://r6UF6pUyhmwAPzIH'
+- 'page://8sAZxgGEUjJot3JV'
+- 'page://0h8tQJYts8gmFWwG'
+
+----
+
+Film-id: 384
+
+----
+
+Description: A Epic Drama of a Cat And a Explorer who must Redeem a Moose in Australia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 49
+
+----
+
+Rating: R
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: kKiwkRxw6wkV6j3f
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

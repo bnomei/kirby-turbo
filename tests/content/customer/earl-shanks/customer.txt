@@ -1,0 +1,33 @@
+Title: EARL SHANKS
+
+----
+
+Customer-id: 396
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: EARL
+
+----
+
+Last-name: SHANKS
+
+----
+
+Email: EARL.SHANKS@sakilacustomer.org
+
+----
+
+Address: page://v7Y3BAlKuQTZPeBV
+
+----
+
+Active: 1
+
+----
+
+Uuid: FypwLDxElvzTV30Q

@@ -1,0 +1,17 @@
+Title: Inv 422
+
+----
+
+Inventory-id: 422
+
+----
+
+Film: page://xyLfnZKFV1kYd6wS
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ouWzjmQgFc4eHGw8

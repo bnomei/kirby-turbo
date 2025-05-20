@@ -1,0 +1,17 @@
+Title: Inv 1658
+
+----
+
+Inventory-id: 1658
+
+----
+
+Film: page://rXszfXc0PapWBC5w
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: bGLw5hI9sT0X4MoH

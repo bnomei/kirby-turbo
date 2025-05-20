@@ -1,0 +1,25 @@
+Title: Rental 7944
+
+----
+
+Rental-id: 7944
+
+----
+
+Rental-date: 2005-07-28 12:51:22
+
+----
+
+Return-date: 2005-07-30 12:19:22
+
+----
+
+Inventory: page://FDH0PcFbulEFoxfC
+
+----
+
+Customer: page://3TbKsrXXeDJmJc4J
+
+----
+
+Uuid: RhS8ePtPUP018cm6

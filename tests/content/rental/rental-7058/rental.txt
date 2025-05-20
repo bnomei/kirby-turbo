@@ -1,0 +1,25 @@
+Title: Rental 7058
+
+----
+
+Rental-id: 7058
+
+----
+
+Rental-date: 2005-07-27 03:50:46
+
+----
+
+Return-date: 2005-08-04 07:40:46
+
+----
+
+Inventory: page://GQu32JmrUgJDoy0f
+
+----
+
+Customer: page://ELKy5zef6YWcOPEC
+
+----
+
+Uuid: iD6N3k8amtLAHQOY

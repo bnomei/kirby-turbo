@@ -1,0 +1,17 @@
+Title: Inv 704
+
+----
+
+Inventory-id: 704
+
+----
+
+Film: page://7iG7iKaB1YUU3AaN
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: mRwXlgIHhe1R0ykj

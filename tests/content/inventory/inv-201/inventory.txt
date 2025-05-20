@@ -1,0 +1,17 @@
+Title: Inv 201
+
+----
+
+Inventory-id: 201
+
+----
+
+Film: page://gF8Ib5R1eOp5F3sY
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 2b02BcdS0dElH8hN

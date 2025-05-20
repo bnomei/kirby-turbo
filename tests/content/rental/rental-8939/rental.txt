@@ -1,0 +1,25 @@
+Title: Rental 8939
+
+----
+
+Rental-id: 8939
+
+----
+
+Rental-date: 2005-07-30 02:56:53
+
+----
+
+Return-date: 2005-08-01 21:19:53
+
+----
+
+Inventory: page://01BtjPfJKdkJf1Qz
+
+----
+
+Customer: page://I6RvfHo1Bz3UuSTP
+
+----
+
+Uuid: 1c5p7Sebru5BaCAM

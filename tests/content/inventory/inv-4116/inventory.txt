@@ -1,0 +1,17 @@
+Title: Inv 4116
+
+----
+
+Inventory-id: 4116
+
+----
+
+Film: page://TPkZVC39VxUe2ANz
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: oVRRMXSqmyN0S14P

@@ -1,0 +1,17 @@
+Title: Inv 3651
+
+----
+
+Inventory-id: 3651
+
+----
+
+Film: page://GtyyiCWqM4s15MCP
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: i8HqdvPlmuRjTc53

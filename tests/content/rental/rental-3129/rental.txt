@@ -1,0 +1,25 @@
+Title: Rental 3129
+
+----
+
+Rental-id: 3129
+
+----
+
+Rental-date: 2005-06-20 18:57:48
+
+----
+
+Return-date: 2005-06-28 13:45:48
+
+----
+
+Inventory: page://0rCAzNDyrGFz8mPi
+
+----
+
+Uuid: xu3pUIuB59K1YVcF
+
+----
+
+Customer: page://ozuA7F23YyJylO9U

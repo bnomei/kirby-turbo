@@ -1,0 +1,25 @@
+Title: Rental 8105
+
+----
+
+Rental-id: 8105
+
+----
+
+Rental-date: 2005-07-28 18:59:46
+
+----
+
+Return-date: 2005-07-29 22:51:46
+
+----
+
+Inventory: page://tELcqDH33ummZxQ8
+
+----
+
+Customer: page://Ouab56J6iNBuj7fa
+
+----
+
+Uuid: xzF4SqjDY0RZBLSX

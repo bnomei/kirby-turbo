@@ -1,0 +1,17 @@
+Title: Inv 1313
+
+----
+
+Inventory-id: 1313
+
+----
+
+Film: page://QKhlNSMtInOc2AZ3
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: qLUHKBVH2cdmgixl

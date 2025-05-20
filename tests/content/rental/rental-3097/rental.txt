@@ -1,0 +1,25 @@
+Title: Rental 3097
+
+----
+
+Rental-id: 3097
+
+----
+
+Rental-date: 2005-06-20 16:26:14
+
+----
+
+Return-date: 2005-06-23 14:46:14
+
+----
+
+Inventory: page://Y6ibNwJqci84uAUK
+
+----
+
+Uuid: b28yQFv9IQprXfF3
+
+----
+
+Customer: page://Vns4RDWjccDhVJJe

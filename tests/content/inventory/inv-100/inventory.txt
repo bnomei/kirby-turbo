@@ -1,0 +1,17 @@
+Title: Inv 100
+
+----
+
+Inventory-id: 100
+
+----
+
+Film: page://FmUiMEk1UHFcrfdQ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: IOB3Us2k50c9y9WX

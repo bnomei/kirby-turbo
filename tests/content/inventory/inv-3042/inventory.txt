@@ -1,0 +1,17 @@
+Title: Inv 3042
+
+----
+
+Inventory-id: 3042
+
+----
+
+Film: page://Wm0Kzt7aNDBOgJJn
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: u3SMXWaFccxfGj6O

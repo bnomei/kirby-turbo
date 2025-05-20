@@ -1,0 +1,25 @@
+Title: Rental 7111
+
+----
+
+Rental-id: 7111
+
+----
+
+Rental-date: 2005-07-27 05:38:16
+
+----
+
+Return-date: 2005-07-29 04:28:16
+
+----
+
+Inventory: page://qLboBQIOMKtAahmR
+
+----
+
+Customer: page://2Ez2viSHVAxcAVWy
+
+----
+
+Uuid: yi0xTQC9O4JiDpor

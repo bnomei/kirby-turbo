@@ -1,0 +1,17 @@
+Title: Inv 3972
+
+----
+
+Inventory-id: 3972
+
+----
+
+Film: page://d3ucrSFTIamNJlRe
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: mozEb0nRjbzV8lPz

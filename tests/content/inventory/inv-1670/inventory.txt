@@ -1,0 +1,17 @@
+Title: Inv 1670
+
+----
+
+Inventory-id: 1670
+
+----
+
+Film: page://XaFb2ccssA5iFSfu
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: s7zjyT9KnLuhikNl

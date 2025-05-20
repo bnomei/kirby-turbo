@@ -1,0 +1,37 @@
+Title: GIANT TROOPERS
+
+----
+
+Actors: - 'page://6jpBKUOTpGMSQxJe'
+
+----
+
+Film-id: 356
+
+----
+
+Description: A Fateful Display of a Feminist And a Monkey who must Vanquish a Monkey in The Canadian Rockies
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 102
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: 8YxQQDXAC5YcAllo
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

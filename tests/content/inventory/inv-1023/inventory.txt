@@ -1,0 +1,17 @@
+Title: Inv 1023
+
+----
+
+Inventory-id: 1023
+
+----
+
+Film: page://oflhBCkeFO0XcxrB
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: oboAAnZEs6GlTYIT

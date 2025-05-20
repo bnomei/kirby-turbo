@@ -1,0 +1,17 @@
+Title: Inv 1013
+
+----
+
+Inventory-id: 1013
+
+----
+
+Film: page://fMLEgaiXF2S6ow1C
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: JPMUJOVF1C42eEG1

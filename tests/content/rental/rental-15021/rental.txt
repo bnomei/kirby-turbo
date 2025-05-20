@@ -1,0 +1,21 @@
+Title: Rental 15021
+
+----
+
+Rental-id: 15021
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://JT9lr0tGIfEppPLy
+
+----
+
+Customer: page://QeuxX9yTBxjOmAeR
+
+----
+
+Uuid: NRz7QzxKuPTbmk3V

@@ -1,0 +1,25 @@
+Title: Rental 10422
+
+----
+
+Rental-id: 10422
+
+----
+
+Rental-date: 2005-08-01 08:17:11
+
+----
+
+Return-date: 2005-08-10 10:08:11
+
+----
+
+Inventory: page://wpakCimkx2uTHfOG
+
+----
+
+Customer: page://cEjR9CGs4TcVaXZs
+
+----
+
+Uuid: JMLFZVeJSRh75BnI

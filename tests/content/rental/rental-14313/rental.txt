@@ -1,0 +1,25 @@
+Title: Rental 14313
+
+----
+
+Rental-id: 14313
+
+----
+
+Rental-date: 2005-08-21 07:49:53
+
+----
+
+Return-date: 2005-08-30 05:52:53
+
+----
+
+Inventory: page://kvslp742QOMlYSiu
+
+----
+
+Customer: page://tS8tZAomHzcsij8a
+
+----
+
+Uuid: SLtSq7oCt15LE0Qy

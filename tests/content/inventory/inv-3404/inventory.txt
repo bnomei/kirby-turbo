@@ -1,0 +1,17 @@
+Title: Inv 3404
+
+----
+
+Inventory-id: 3404
+
+----
+
+Film: page://cRgWUGZu2oruoPZV
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: FDV4ESecy8o3zS4X

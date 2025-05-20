@@ -1,0 +1,17 @@
+Title: Inv 1782
+
+----
+
+Inventory-id: 1782
+
+----
+
+Film: page://oiXuz11Z5KGGG2vj
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: vZKXGNdNxNR9PCYZ

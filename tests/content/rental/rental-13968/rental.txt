@@ -1,0 +1,21 @@
+Title: Rental 13968
+
+----
+
+Rental-id: 13968
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://eD0DgHIusqZ6vFbv
+
+----
+
+Customer: page://Np9oOnG3vThj8OAU
+
+----
+
+Uuid: sWE94t9ccXr060qM

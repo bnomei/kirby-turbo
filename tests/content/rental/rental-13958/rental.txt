@@ -1,0 +1,25 @@
+Title: Rental 13958
+
+----
+
+Rental-id: 13958
+
+----
+
+Rental-date: 2005-08-20 18:11:44
+
+----
+
+Return-date: 2005-08-28 14:59:44
+
+----
+
+Inventory: page://D4L0kuh5i0Lz4rrm
+
+----
+
+Customer: page://Cc0UnWjmLMYrhwNc
+
+----
+
+Uuid: QmZbDTU2c5je82mr

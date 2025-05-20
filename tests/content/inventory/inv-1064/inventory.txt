@@ -1,0 +1,17 @@
+Title: Inv 1064
+
+----
+
+Inventory-id: 1064
+
+----
+
+Film: page://uwgrdBpdfZ9uRtKs
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: vG6a3mnKXbNcbkbD

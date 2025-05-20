@@ -1,0 +1,33 @@
+Title: FRANKLIN TROUTMAN
+
+----
+
+Customer-id: 514
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: FRANKLIN
+
+----
+
+Last-name: TROUTMAN
+
+----
+
+Email: FRANKLIN.TROUTMAN@sakilacustomer.org
+
+----
+
+Address: page://MpCKQYXNuQKVelvy
+
+----
+
+Active: 1
+
+----
+
+Uuid: cyMlL5yPpoS1G4BT

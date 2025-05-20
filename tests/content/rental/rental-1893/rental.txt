@@ -1,0 +1,25 @@
+Title: Rental 1893
+
+----
+
+Rental-id: 1893
+
+----
+
+Rental-date: 2005-06-17 04:18:37
+
+----
+
+Return-date: 2005-06-23 23:35:37
+
+----
+
+Inventory: page://wGj3zkWYQYUi6uKS
+
+----
+
+Uuid: aBjrZqLBWpQPfGcc
+
+----
+
+Customer: page://pqDg6kDmCdvbDclp

@@ -1,0 +1,17 @@
+Title: Inv 3053
+
+----
+
+Inventory-id: 3053
+
+----
+
+Film: page://sFQyTHl2l1Zx7qKA
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: tZJIA290XB1qYZBC

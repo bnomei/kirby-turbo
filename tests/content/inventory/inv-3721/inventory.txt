@@ -1,0 +1,17 @@
+Title: Inv 3721
+
+----
+
+Inventory-id: 3721
+
+----
+
+Film: page://ercNXUBP8HnWiyFR
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: O4sD0ZDECS2RbCHP

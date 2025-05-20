@@ -1,0 +1,25 @@
+Title: Rental 8153
+
+----
+
+Rental-id: 8153
+
+----
+
+Rental-date: 2005-07-28 20:55:49
+
+----
+
+Return-date: 2005-08-01 15:56:49
+
+----
+
+Inventory: page://M5WjbRtemj6kYlzN
+
+----
+
+Customer: page://biqDPcEyu5xA9fNA
+
+----
+
+Uuid: RHYAOXGXOPyUfraS

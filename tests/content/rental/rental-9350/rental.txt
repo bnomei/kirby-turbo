@@ -1,0 +1,25 @@
+Title: Rental 9350
+
+----
+
+Rental-id: 9350
+
+----
+
+Rental-date: 2005-07-30 18:24:30
+
+----
+
+Return-date: 2005-08-02 15:34:30
+
+----
+
+Inventory: page://Z21WMPtcLqi9bJEd
+
+----
+
+Customer: page://XnsJqH5poBI9AFGR
+
+----
+
+Uuid: ldSMEvHzTHS5fjXZ

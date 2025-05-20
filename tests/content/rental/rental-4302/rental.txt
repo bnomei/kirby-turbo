@@ -1,0 +1,25 @@
+Title: Rental 4302
+
+----
+
+Rental-id: 4302
+
+----
+
+Rental-date: 2005-07-07 16:47:53
+
+----
+
+Return-date: 2005-07-16 22:22:53
+
+----
+
+Inventory: page://Xvivdy6popzK2aKS
+
+----
+
+Uuid: uj2tS3krHufFOW08
+
+----
+
+Customer: page://JF86ERvhL0BUaSoR

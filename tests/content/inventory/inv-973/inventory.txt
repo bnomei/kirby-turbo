@@ -1,0 +1,17 @@
+Title: Inv 973
+
+----
+
+Inventory-id: 973
+
+----
+
+Film: page://OZajHInJkZpTt2P1
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 3H36CqzA6QgVbVX4

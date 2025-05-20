@@ -1,0 +1,33 @@
+Title: DON BONE
+
+----
+
+Customer-id: 433
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: DON
+
+----
+
+Last-name: BONE
+
+----
+
+Email: DON.BONE@sakilacustomer.org
+
+----
+
+Address: page://TVuRtyyiH7ORY26L
+
+----
+
+Active: 1
+
+----
+
+Uuid: Dq5hnVeftFV5vuu5

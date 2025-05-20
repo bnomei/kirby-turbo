@@ -1,0 +1,17 @@
+Title: Inv 4395
+
+----
+
+Inventory-id: 4395
+
+----
+
+Film: page://0oeFnmeLg4QilRcA
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 854TlamXQps2bchO

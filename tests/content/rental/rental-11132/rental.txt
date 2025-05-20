@@ -1,0 +1,25 @@
+Title: Rental 11132
+
+----
+
+Rental-id: 11132
+
+----
+
+Rental-date: 2005-08-02 09:14:09
+
+----
+
+Return-date: 2005-08-08 06:39:09
+
+----
+
+Inventory: page://icV6O9N8MzjPFQi8
+
+----
+
+Customer: page://YZl5AjKSw8qG2iij
+
+----
+
+Uuid: 8a3z7JnkQJoTSz5B

@@ -1,0 +1,25 @@
+Title: Rental 466
+
+----
+
+Rental-id: 466
+
+----
+
+Rental-date: 2005-05-27 20:57:07
+
+----
+
+Return-date: 2005-05-29 15:52:07
+
+----
+
+Inventory: page://ZFalzkCpqRhiKl2b
+
+----
+
+Uuid: aLCwHfRihxLIKcvW
+
+----
+
+Customer: page://eYENgXyv63Ee6XxS

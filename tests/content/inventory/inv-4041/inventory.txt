@@ -1,0 +1,17 @@
+Title: Inv 4041
+
+----
+
+Inventory-id: 4041
+
+----
+
+Film: page://WXh3BGqLeYMMDxlq
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 9fxIpcXLuOOirWln

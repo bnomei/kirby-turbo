@@ -1,0 +1,17 @@
+Title: Inv 242
+
+----
+
+Inventory-id: 242
+
+----
+
+Film: page://PyzZpMmR5hCM3BAX
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: pdzEPXx7r7ICsvP0

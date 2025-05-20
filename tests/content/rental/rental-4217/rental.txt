@@ -1,0 +1,25 @@
+Title: Rental 4217
+
+----
+
+Rental-id: 4217
+
+----
+
+Rental-date: 2005-07-07 12:08:59
+
+----
+
+Return-date: 2005-07-11 15:07:59
+
+----
+
+Inventory: page://FuJwnfXIIn43H6nJ
+
+----
+
+Uuid: WG23LozRxudUJVGY
+
+----
+
+Customer: page://1oyElH1fZadoyZ04

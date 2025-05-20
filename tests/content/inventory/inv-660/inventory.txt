@@ -1,0 +1,17 @@
+Title: Inv 660
+
+----
+
+Inventory-id: 660
+
+----
+
+Film: page://1iyJBIlxuR9BDdK6
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 8RkjJbbYhRGKHNnk

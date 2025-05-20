@@ -1,0 +1,25 @@
+Title: Rental 4706
+
+----
+
+Rental-id: 4706
+
+----
+
+Rental-date: 2005-07-08 11:51:41
+
+----
+
+Return-date: 2005-07-17 12:58:41
+
+----
+
+Inventory: page://4owBuPveBcF0ueWa
+
+----
+
+Uuid: sCOa4ur6O6ZjJ6vx
+
+----
+
+Customer: page://9nmXEbNtguZWpwtU

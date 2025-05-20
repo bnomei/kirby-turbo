@@ -1,0 +1,33 @@
+Title: ANDREA HENDERSON
+
+----
+
+Customer-id: 81
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ANDREA
+
+----
+
+Last-name: HENDERSON
+
+----
+
+Email: ANDREA.HENDERSON@sakilacustomer.org
+
+----
+
+Address: page://uCdE7kJyB2TIUIq4
+
+----
+
+Active: 1
+
+----
+
+Uuid: 7pUMh8Du54p24Iw4

@@ -1,0 +1,17 @@
+Title: Inv 3055
+
+----
+
+Inventory-id: 3055
+
+----
+
+Film: page://sFQyTHl2l1Zx7qKA
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: p1YH8FI1EtKTCppE

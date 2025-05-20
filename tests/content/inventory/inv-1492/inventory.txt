@@ -1,0 +1,17 @@
+Title: Inv 1492
+
+----
+
+Inventory-id: 1492
+
+----
+
+Film: page://WkFtjN74u9SLKViC
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 4FvUZybSmgchH33p

@@ -1,0 +1,25 @@
+Title: Rental 4069
+
+----
+
+Rental-id: 4069
+
+----
+
+Rental-date: 2005-07-07 04:35:06
+
+----
+
+Return-date: 2005-07-10 23:59:06
+
+----
+
+Inventory: page://olgBvaT5jWuuV6wz
+
+----
+
+Uuid: 5WRwN4pG8PquS9I3
+
+----
+
+Customer: page://mOuqyzmE17YrV1yV

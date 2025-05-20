@@ -1,0 +1,25 @@
+Title: Rental 12676
+
+----
+
+Rental-id: 12676
+
+----
+
+Rental-date: 2005-08-18 19:34:40
+
+----
+
+Return-date: 2005-08-20 18:03:40
+
+----
+
+Inventory: page://YZaCSQuNmNVSliUC
+
+----
+
+Customer: page://yO6kHtaF5LxeJoOU
+
+----
+
+Uuid: CGH4vMM76HA3QX3c

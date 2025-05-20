@@ -1,0 +1,17 @@
+Title: Inv 3884
+
+----
+
+Inventory-id: 3884
+
+----
+
+Film: page://Lk4rYvVL1KI6Bl9n
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: zA2Qryxpsf2p1Pot

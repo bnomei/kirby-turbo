@@ -1,0 +1,25 @@
+Title: Rental 1762
+
+----
+
+Rental-id: 1762
+
+----
+
+Rental-date: 2005-06-16 17:50:19
+
+----
+
+Return-date: 2005-06-19 21:35:19
+
+----
+
+Inventory: page://3EF97xB4i8UNL29Y
+
+----
+
+Uuid: 7nvAF87RljM9DDCH
+
+----
+
+Customer: page://T9Zm4dl6jOmrQnrt

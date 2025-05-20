@@ -1,0 +1,25 @@
+Title: Rental 14239
+
+----
+
+Rental-id: 14239
+
+----
+
+Rental-date: 2005-08-21 05:18:57
+
+----
+
+Return-date: 2005-08-22 00:12:57
+
+----
+
+Inventory: page://cUZ3ZmaPDBLk1TV6
+
+----
+
+Customer: page://Hw6vCBoFgUCMOqCI
+
+----
+
+Uuid: oil8qL2L7deICgni

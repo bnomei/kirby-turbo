@@ -1,0 +1,17 @@
+Title: Inv 1080
+
+----
+
+Inventory-id: 1080
+
+----
+
+Film: page://vHSDJivjGRxJEMbx
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: iCuhVO0sVKVBzQWQ

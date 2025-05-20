@@ -1,0 +1,17 @@
+Title: Inv 4242
+
+----
+
+Inventory-id: 4242
+
+----
+
+Film: page://gWkrLVVJCniy6zzt
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: XqhDk1YKlj2lAvjZ

@@ -1,0 +1,17 @@
+Title: Inv 1278
+
+----
+
+Inventory-id: 1278
+
+----
+
+Film: page://N0oZDtfQfAD4q3Nb
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: JRWwwfXahWkDCLHk

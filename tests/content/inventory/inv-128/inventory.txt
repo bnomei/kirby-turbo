@@ -1,0 +1,17 @@
+Title: Inv 128
+
+----
+
+Inventory-id: 128
+
+----
+
+Film: page://lJxiqdvJVqqmeEXz
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 00rvhU2zo03vxguL

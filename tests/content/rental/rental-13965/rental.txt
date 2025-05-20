@@ -1,0 +1,21 @@
+Title: Rental 13965
+
+----
+
+Rental-id: 13965
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://ma9xb2GGWG81pjKu
+
+----
+
+Customer: page://SII6Y5UXijGLUgXD
+
+----
+
+Uuid: b2CsQGFNdrZzfUbz

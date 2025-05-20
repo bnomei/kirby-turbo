@@ -1,0 +1,33 @@
+Title: BOB PFEIFFER
+
+----
+
+Customer-id: 564
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: BOB
+
+----
+
+Last-name: PFEIFFER
+
+----
+
+Email: BOB.PFEIFFER@sakilacustomer.org
+
+----
+
+Address: page://CPdy9u8tIcJTdz8A
+
+----
+
+Active: 1
+
+----
+
+Uuid: IRu2BC3kihoj0lej

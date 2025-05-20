@@ -1,0 +1,25 @@
+Title: Rental 4782
+
+----
+
+Rental-id: 4782
+
+----
+
+Rental-date: 2005-07-08 16:08:51
+
+----
+
+Return-date: 2005-07-17 17:56:51
+
+----
+
+Inventory: page://KqyLFDgB56BcL6uC
+
+----
+
+Uuid: 7sbH7ekbZp6jTNfk
+
+----
+
+Customer: page://bsdF0qup1RBkJReP

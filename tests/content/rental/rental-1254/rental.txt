@@ -1,0 +1,25 @@
+Title: Rental 1254
+
+----
+
+Rental-id: 1254
+
+----
+
+Rental-date: 2005-06-15 06:11:16
+
+----
+
+Return-date: 2005-06-21 06:40:16
+
+----
+
+Inventory: page://Chzhh9fQSizA68YT
+
+----
+
+Uuid: F2BR2JpLVmaHBhLH
+
+----
+
+Customer: page://NrH2ag1h7sBRKnqA

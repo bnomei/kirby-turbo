@@ -1,0 +1,33 @@
+Title: DEBBIE REYES
+
+----
+
+Customer-id: 141
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: DEBBIE
+
+----
+
+Last-name: REYES
+
+----
+
+Email: DEBBIE.REYES@sakilacustomer.org
+
+----
+
+Address: page://VUvTLvV0FYpQKzOX
+
+----
+
+Active: 1
+
+----
+
+Uuid: CBjxjbIdtlQzauUw

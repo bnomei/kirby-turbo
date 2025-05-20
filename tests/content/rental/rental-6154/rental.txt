@@ -1,0 +1,25 @@
+Title: Rental 6154
+
+----
+
+Rental-id: 6154
+
+----
+
+Rental-date: 2005-07-11 09:32:19
+
+----
+
+Return-date: 2005-07-16 15:10:19
+
+----
+
+Inventory: page://NznAuc7aaDWAJ2Mv
+
+----
+
+Uuid: 5ybIbFIufXgqqfHp
+
+----
+
+Customer: page://iYFUE0tzXJVxueTP

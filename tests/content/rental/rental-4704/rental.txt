@@ -1,0 +1,25 @@
+Title: Rental 4704
+
+----
+
+Rental-id: 4704
+
+----
+
+Rental-date: 2005-07-08 11:45:35
+
+----
+
+Return-date: 2005-07-10 09:46:35
+
+----
+
+Inventory: page://Wm4LWwkjRyclzvB6
+
+----
+
+Uuid: Amama8GrUgi6aEjB
+
+----
+
+Customer: page://9GMMxk4OJQFuLIWJ

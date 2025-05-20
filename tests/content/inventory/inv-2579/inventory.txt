@@ -1,0 +1,17 @@
+Title: Inv 2579
+
+----
+
+Inventory-id: 2579
+
+----
+
+Film: page://Ww9E6y4cu76Tt2Ug
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: TdXhwEqQrtwVLThh

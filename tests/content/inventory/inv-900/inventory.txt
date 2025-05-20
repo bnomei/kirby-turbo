@@ -1,0 +1,17 @@
+Title: Inv 900
+
+----
+
+Inventory-id: 900
+
+----
+
+Film: page://Q73hldMxLMfyUh0P
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: oAIEZ8Qyka1e9q0s

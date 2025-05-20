@@ -1,0 +1,17 @@
+Title: Inv 2541
+
+----
+
+Inventory-id: 2541
+
+----
+
+Film: page://RR4tJ3Dd2mPzL73Q
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: KcbcKXbTQm3LR5QZ

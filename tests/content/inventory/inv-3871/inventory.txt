@@ -1,0 +1,17 @@
+Title: Inv 3871
+
+----
+
+Inventory-id: 3871
+
+----
+
+Film: page://bpyP3hyHEFde02iy
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: cZgkSmhTKhlhGqqt

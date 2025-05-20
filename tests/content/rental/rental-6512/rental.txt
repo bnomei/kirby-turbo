@@ -1,0 +1,25 @@
+Title: Rental 6512
+
+----
+
+Rental-id: 6512
+
+----
+
+Rental-date: 2005-07-12 03:42:49
+
+----
+
+Return-date: 2005-07-13 05:01:49
+
+----
+
+Inventory: page://cqqjU898pUcpdlKN
+
+----
+
+Uuid: zhGw8Ck8xj8ZqFXR
+
+----
+
+Customer: page://CUdWGJW9AwcLTKhu

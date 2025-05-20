@@ -1,0 +1,25 @@
+Title: Rental 8985
+
+----
+
+Rental-id: 8985
+
+----
+
+Rental-date: 2005-07-30 04:34:51
+
+----
+
+Return-date: 2005-08-06 00:45:51
+
+----
+
+Inventory: page://s3OTZJAl9Bp5YNPZ
+
+----
+
+Customer: page://CGZMdA6lJNzUzePV
+
+----
+
+Uuid: yHGmLjsTND4mNw34

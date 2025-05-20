@@ -1,0 +1,33 @@
+Title: STACEY MONTGOMERY
+
+----
+
+Customer-id: 211
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: STACEY
+
+----
+
+Last-name: MONTGOMERY
+
+----
+
+Email: STACEY.MONTGOMERY@sakilacustomer.org
+
+----
+
+Address: page://03XCIGUt5dNqsBYl
+
+----
+
+Active: 1
+
+----
+
+Uuid: 2MJV1ploMc8lFO2Z

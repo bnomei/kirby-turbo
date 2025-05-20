@@ -1,0 +1,17 @@
+Title: Inv 740
+
+----
+
+Inventory-id: 740
+
+----
+
+Film: page://b3WR2wrdQ8FGZBtm
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: amiuseXsbMOEeVg8

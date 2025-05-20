@@ -1,0 +1,33 @@
+Title: HARRY ARCE
+
+----
+
+Customer-id: 368
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: HARRY
+
+----
+
+Last-name: ARCE
+
+----
+
+Email: HARRY.ARCE@sakilacustomer.org
+
+----
+
+Address: page://vIkfaKLRHHlaAlSC
+
+----
+
+Active: 0
+
+----
+
+Uuid: iYFUE0tzXJVxueTP

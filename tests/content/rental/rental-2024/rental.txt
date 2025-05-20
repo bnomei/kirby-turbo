@@ -1,0 +1,25 @@
+Title: Rental 2024
+
+----
+
+Rental-id: 2024
+
+----
+
+Rental-date: 2005-06-17 13:00:51
+
+----
+
+Return-date: 2005-06-22 07:03:51
+
+----
+
+Inventory: page://dMxVLBY8VxnHezN5
+
+----
+
+Uuid: ZNq06cdCEqGyTjvE
+
+----
+
+Customer: page://uPhvBTY0GbGPCouW

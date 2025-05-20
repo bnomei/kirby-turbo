@@ -1,0 +1,25 @@
+Title: Rental 77
+
+----
+
+Rental-id: 77
+
+----
+
+Rental-date: 2005-05-25 11:31:59
+
+----
+
+Return-date: 2005-05-26 16:53:59
+
+----
+
+Inventory: page://6cNsCQbMhJO5cOtL
+
+----
+
+Uuid: XxidAqnLWxKiotCQ
+
+----
+
+Customer: page://JG06E1zPSAEHpqss

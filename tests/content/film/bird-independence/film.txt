@@ -1,0 +1,40 @@
+Title: BIRD INDEPENDENCE
+
+----
+
+Actors:
+
+- 'page://CcQ0grF6yUDI2k9n'
+- 'page://uyiPyWfxhKFdwYKL'
+
+----
+
+Film-id: 75
+
+----
+
+Description: A Thrilling Documentary of a Car And a Student who must Sink a Hunter in The Canadian Rockies
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 163
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: M7wUHR0JaZobNNXm
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

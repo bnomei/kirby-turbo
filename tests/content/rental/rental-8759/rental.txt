@@ -1,0 +1,25 @@
+Title: Rental 8759
+
+----
+
+Rental-id: 8759
+
+----
+
+Rental-date: 2005-07-29 19:22:37
+
+----
+
+Return-date: 2005-08-07 15:36:37
+
+----
+
+Inventory: page://Ardin0xhmYJIAKyD
+
+----
+
+Customer: page://7xbkabb9oALGCtIT
+
+----
+
+Uuid: bNHk3HyL4JQwHkwV

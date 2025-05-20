@@ -1,0 +1,25 @@
+Title: Rental 4813
+
+----
+
+Rental-id: 4813
+
+----
+
+Rental-date: 2005-07-08 17:09:56
+
+----
+
+Return-date: 2005-07-09 22:29:56
+
+----
+
+Inventory: page://MZk5g5Eog3YCeLky
+
+----
+
+Uuid: WOCjjlwUB5L1cV3w
+
+----
+
+Customer: page://KliCwmxco9DJ4eNi

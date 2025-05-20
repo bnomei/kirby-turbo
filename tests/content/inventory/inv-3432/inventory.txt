@@ -1,0 +1,17 @@
+Title: Inv 3432
+
+----
+
+Inventory-id: 3432
+
+----
+
+Film: page://qWX4AUrS1elOCyrn
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: YhILYjcthjlpEuDW

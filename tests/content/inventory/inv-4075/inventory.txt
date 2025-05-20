@@ -1,0 +1,17 @@
+Title: Inv 4075
+
+----
+
+Inventory-id: 4075
+
+----
+
+Film: page://mMqvLXKacBXMG67Y
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: CF4V4H60U226yxpp

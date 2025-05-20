@@ -1,0 +1,25 @@
+Title: Rental 1300
+
+----
+
+Rental-id: 1300
+
+----
+
+Rental-date: 2005-06-15 09:36:19
+
+----
+
+Return-date: 2005-06-17 13:54:19
+
+----
+
+Inventory: page://AOTe9Va3C3zp4oUU
+
+----
+
+Uuid: QthOLV0wZBvMCbvB
+
+----
+
+Customer: page://ZYRwcsL569LnKKWi

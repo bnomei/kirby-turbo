@@ -1,0 +1,43 @@
+Title: SPIKING ELEMENT
+
+----
+
+Actors:
+
+- 'page://lWEFCFc3fpMkkCVm'
+- 'page://xfLW2h8D6Ci3k3ux'
+- 'page://ohgPd8XBH6s5Q55J'
+- 'page://OGjAu4hPWyVISsAa'
+- 'page://h9gp2o2uGocb4AUV'
+
+----
+
+Film-id: 828
+
+----
+
+Description: A Lacklusture Epistle of a Dentist And a Technical Writer who must Find a Dog in A Monastery
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 79
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: mnxo95pbbvWRc0UI
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

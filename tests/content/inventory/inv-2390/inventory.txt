@@ -1,0 +1,17 @@
+Title: Inv 2390
+
+----
+
+Inventory-id: 2390
+
+----
+
+Film: page://OWB0rIhbbXIitcLz
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: RcVa8JG24WmaApqr

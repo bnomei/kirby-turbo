@@ -1,0 +1,17 @@
+Title: Inv 66
+
+----
+
+Inventory-id: 66
+
+----
+
+Film: page://jE6CrKYWQPK6P0VI
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: hLfzfTuRSf3vmNqz

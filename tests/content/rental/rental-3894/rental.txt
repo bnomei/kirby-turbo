@@ -1,0 +1,25 @@
+Title: Rental 3894
+
+----
+
+Rental-id: 3894
+
+----
+
+Rental-date: 2005-07-06 19:01:39
+
+----
+
+Return-date: 2005-07-12 21:35:39
+
+----
+
+Inventory: page://gKmuqnKOkWlUDlRa
+
+----
+
+Uuid: qZNVSVlXTq9NPtTK
+
+----
+
+Customer: page://hKFzOIjEbiQlZ9Km

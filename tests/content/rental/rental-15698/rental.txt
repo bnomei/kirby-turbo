@@ -1,0 +1,25 @@
+Title: Rental 15698
+
+----
+
+Rental-id: 15698
+
+----
+
+Rental-date: 2005-08-23 10:11:40
+
+----
+
+Return-date: 2005-08-28 08:50:40
+
+----
+
+Inventory: page://Kel8Yuv20iasUya7
+
+----
+
+Customer: page://VN0nTajbysCGd16r
+
+----
+
+Uuid: yUsNFqThCsrFCLCg

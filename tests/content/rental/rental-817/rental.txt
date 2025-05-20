@@ -1,0 +1,25 @@
+Title: Rental 817
+
+----
+
+Rental-id: 817
+
+----
+
+Rental-date: 2005-05-29 20:39:14
+
+----
+
+Return-date: 2005-05-31 18:24:14
+
+----
+
+Inventory: page://Qf9hVU2rwwO3oB8r
+
+----
+
+Uuid: N187mhYyGrADIjeC
+
+----
+
+Customer: page://C4htS1tLHzkKyE5J

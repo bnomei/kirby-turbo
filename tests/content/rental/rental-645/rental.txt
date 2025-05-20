@@ -1,0 +1,25 @@
+Title: Rental 645
+
+----
+
+Rental-id: 645
+
+----
+
+Rental-date: 2005-05-28 19:14:09
+
+----
+
+Return-date: 2005-06-05 14:01:09
+
+----
+
+Inventory: page://kG9mFPVLnl13DDS9
+
+----
+
+Uuid: 3qNGuHTQMjD9Zfjf
+
+----
+
+Customer: page://kIByXaqyonxT2CUq

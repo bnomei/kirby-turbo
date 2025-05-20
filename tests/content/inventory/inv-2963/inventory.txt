@@ -1,0 +1,17 @@
+Title: Inv 2963
+
+----
+
+Inventory-id: 2963
+
+----
+
+Film: page://t8wcbVNGROFbv4t3
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: B4bCdLyKmV6F97Jw

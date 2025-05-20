@@ -1,0 +1,17 @@
+Title: Inv 2971
+
+----
+
+Inventory-id: 2971
+
+----
+
+Film: page://hrSkNvW22T3x3Hg1
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ml9H7kpdwZXBrkNd

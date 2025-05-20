@@ -1,0 +1,25 @@
+Title: Rental 13392
+
+----
+
+Rental-id: 13392
+
+----
+
+Rental-date: 2005-08-19 22:03:22
+
+----
+
+Return-date: 2005-08-28 19:27:22
+
+----
+
+Inventory: page://P0NAlNovByP6Ephl
+
+----
+
+Customer: page://uedEHcyGADIOfSLA
+
+----
+
+Uuid: 3eDnR2Izx1RUKein

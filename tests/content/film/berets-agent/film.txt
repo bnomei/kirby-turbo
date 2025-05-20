@@ -1,0 +1,48 @@
+Title: BERETS AGENT
+
+----
+
+Actors:
+
+- 'page://V2PTX56N00hKjCOa'
+- 'page://EHffowmlWDEyJ7Ij'
+- 'page://ZyRQLJXso6IqRkwR'
+- 'page://dRscV8wJJ6wok0jq'
+- 'page://c9RVWbTiHNxSUsUJ'
+- 'page://k43wur9uhLztfZOP'
+- 'page://humVtsLQfFTV2gvC'
+- 'page://ohgPd8XBH6s5Q55J'
+- 'page://QybR1sXOQQQZIPXG'
+- 'page://V7i97wxdkXKwKdBD'
+
+----
+
+Film-id: 67
+
+----
+
+Description: A Taut Saga of a Crocodile And a Boy who must Overcome a Technical Writer in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 77
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: Dfv0e5Nc8Xyf5wF3
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

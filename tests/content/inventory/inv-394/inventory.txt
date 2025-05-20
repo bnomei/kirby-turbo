@@ -1,0 +1,17 @@
+Title: Inv 394
+
+----
+
+Inventory-id: 394
+
+----
+
+Film: page://wEJb7GxHt8TVKLil
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 5y0V4DXQ71inrwMQ

@@ -1,0 +1,17 @@
+Title: Inv 241
+
+----
+
+Inventory-id: 241
+
+----
+
+Film: page://U9GJySbiwP3Ad0w2
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: nQQkSKaxeJhZwZRQ

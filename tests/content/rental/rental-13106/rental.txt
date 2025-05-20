@@ -1,0 +1,21 @@
+Title: Rental 13106
+
+----
+
+Rental-id: 13106
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://FXdZvRjjL9qbYpdl
+
+----
+
+Customer: page://sGF0A1vUMDn16Llg
+
+----
+
+Uuid: xxQB87C9w9Dvj9Ss

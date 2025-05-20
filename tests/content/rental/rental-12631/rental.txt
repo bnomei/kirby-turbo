@@ -1,0 +1,25 @@
+Title: Rental 12631
+
+----
+
+Rental-id: 12631
+
+----
+
+Rental-date: 2005-08-18 17:52:51
+
+----
+
+Return-date: 2005-08-25 14:40:51
+
+----
+
+Inventory: page://VfLdWWEIlBUxnhwT
+
+----
+
+Customer: page://bG9DDgWMAFbLUMhy
+
+----
+
+Uuid: 0xdQDHYbr2GUm5P3

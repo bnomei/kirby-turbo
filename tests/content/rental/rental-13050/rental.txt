@@ -1,0 +1,25 @@
+Title: Rental 13050
+
+----
+
+Rental-id: 13050
+
+----
+
+Rental-date: 2005-08-19 09:31:23
+
+----
+
+Return-date: 2005-08-26 06:56:23
+
+----
+
+Inventory: page://Z7Kbvlaxxh9H9GwR
+
+----
+
+Customer: page://N95O2afia8ED5CLD
+
+----
+
+Uuid: 8Qf32djkC7wRQKZP

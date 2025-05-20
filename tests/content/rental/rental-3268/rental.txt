@@ -1,0 +1,25 @@
+Title: Rental 3268
+
+----
+
+Rental-id: 3268
+
+----
+
+Rental-date: 2005-06-21 04:55:49
+
+----
+
+Return-date: 2005-06-30 00:23:49
+
+----
+
+Inventory: page://alQN7WEqv0cxsLNx
+
+----
+
+Uuid: Piyu41djBVwMLjTN
+
+----
+
+Customer: page://uPhvBTY0GbGPCouW

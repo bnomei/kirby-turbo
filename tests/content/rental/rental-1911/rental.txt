@@ -1,0 +1,25 @@
+Title: Rental 1911
+
+----
+
+Rental-id: 1911
+
+----
+
+Rental-date: 2005-06-17 05:15:15
+
+----
+
+Return-date: 2005-06-24 11:05:15
+
+----
+
+Inventory: page://OKpT3Kl7gXvKmJU8
+
+----
+
+Uuid: KbkI8gINdM6MwYSq
+
+----
+
+Customer: page://zr15m47K6VY9URjq

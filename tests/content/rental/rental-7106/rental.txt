@@ -1,0 +1,25 @@
+Title: Rental 7106
+
+----
+
+Rental-id: 7106
+
+----
+
+Rental-date: 2005-07-27 05:21:24
+
+----
+
+Return-date: 2005-08-02 01:58:24
+
+----
+
+Inventory: page://UMoXXJ4BlABfCcbd
+
+----
+
+Customer: page://cJydH6wkvuH04KQt
+
+----
+
+Uuid: 4AnyaoN40XcJU8Lx

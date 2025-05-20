@@ -1,0 +1,17 @@
+Title: Inv 526
+
+----
+
+Inventory-id: 526
+
+----
+
+Film: page://MG4xW581D3Ms4xgN
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: QjpPiyNC4anVutkQ

@@ -1,0 +1,33 @@
+Title: JANET PHILLIPS
+
+----
+
+Customer-id: 45
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JANET
+
+----
+
+Last-name: PHILLIPS
+
+----
+
+Email: JANET.PHILLIPS@sakilacustomer.org
+
+----
+
+Address: page://gisObqZMUAruQpon
+
+----
+
+Active: 1
+
+----
+
+Uuid: zuaErOZUavOIvBK9

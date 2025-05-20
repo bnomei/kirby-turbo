@@ -1,0 +1,17 @@
+Title: Inv 10
+
+----
+
+Inventory-id: 10
+
+----
+
+Film: page://0UDDu8BEAy0rU9LQ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Fr4UvWHNqkSBm1Tb

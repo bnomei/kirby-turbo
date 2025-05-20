@@ -1,0 +1,17 @@
+Title: Inv 4324
+
+----
+
+Inventory-id: 4324
+
+----
+
+Film: page://DiFdXSuoPSTY6Kn0
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: MfDL3kdzD8RCqRYR

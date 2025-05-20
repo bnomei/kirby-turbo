@@ -1,0 +1,33 @@
+Title: PETER MENARD
+
+----
+
+Customer-id: 341
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: PETER
+
+----
+
+Last-name: MENARD
+
+----
+
+Email: PETER.MENARD@sakilacustomer.org
+
+----
+
+Address: page://7OTz7ekYVgFLZFHU
+
+----
+
+Active: 1
+
+----
+
+Uuid: AaZEhsrTACZoHuzm

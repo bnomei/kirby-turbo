@@ -1,0 +1,33 @@
+Title: PATSY DAVIDSON
+
+----
+
+Customer-id: 262
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: PATSY
+
+----
+
+Last-name: DAVIDSON
+
+----
+
+Email: PATSY.DAVIDSON@sakilacustomer.org
+
+----
+
+Address: page://66vrJyu9MEPfV385
+
+----
+
+Active: 1
+
+----
+
+Uuid: eLvYHcB0z8NgTgF8

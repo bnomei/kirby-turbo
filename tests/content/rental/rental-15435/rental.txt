@@ -1,0 +1,25 @@
+Title: Rental 15435
+
+----
+
+Rental-id: 15435
+
+----
+
+Rental-date: 2005-08-23 00:28:19
+
+----
+
+Return-date: 2005-08-26 00:44:19
+
+----
+
+Inventory: page://NH1FOD0ArtD7KiJK
+
+----
+
+Customer: page://tS8tZAomHzcsij8a
+
+----
+
+Uuid: Oop9StUteYQaNXtK

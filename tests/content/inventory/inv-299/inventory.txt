@@ -1,0 +1,17 @@
+Title: Inv 299
+
+----
+
+Inventory-id: 299
+
+----
+
+Film: page://Dfv0e5Nc8Xyf5wF3
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: lA6ug3ChX1GT0Uth

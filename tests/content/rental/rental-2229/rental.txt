@@ -1,0 +1,25 @@
+Title: Rental 2229
+
+----
+
+Rental-id: 2229
+
+----
+
+Rental-date: 2005-06-18 03:50:18
+
+----
+
+Return-date: 2005-06-26 07:16:18
+
+----
+
+Inventory: page://Lr3xC8n2UXotGkSk
+
+----
+
+Uuid: wh1KrfOFlaMlqPB4
+
+----
+
+Customer: page://G5MahFW7vTJhSf6a

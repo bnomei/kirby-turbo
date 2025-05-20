@@ -1,0 +1,43 @@
+Title: CHOCOLAT HARRY
+
+----
+
+Actors:
+
+- 'page://Tc5O2MboD06L5UFn'
+- 'page://jG0aUFRzU1eFlO8R'
+- 'page://4hDC3FM6lySlQjxW'
+- 'page://iZwJlBg8wszU4t4i'
+- 'page://vMUybiWmK5EriDRU'
+
+----
+
+Film-id: 147
+
+----
+
+Description: A Action-Packed Epistle of a Dentist And a Moose who must Meet a Mad Cow in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 101
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: xt5YPKk96VRGo1KN
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

@@ -1,0 +1,33 @@
+Title: SHIRLEY ALLEN
+
+----
+
+Customer-id: 27
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: SHIRLEY
+
+----
+
+Last-name: ALLEN
+
+----
+
+Email: SHIRLEY.ALLEN@sakilacustomer.org
+
+----
+
+Address: page://E20GcbIUeiBDJJjm
+
+----
+
+Active: 1
+
+----
+
+Uuid: 7WkfUKxy0GqFjI0B

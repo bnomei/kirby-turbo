@@ -1,0 +1,17 @@
+Title: Inv 1741
+
+----
+
+Inventory-id: 1741
+
+----
+
+Film: page://X9U4Fq1hpLRWz6uH
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: tsBVs0Pb6PmjGiLX

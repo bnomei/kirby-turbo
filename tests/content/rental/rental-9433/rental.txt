@@ -1,0 +1,25 @@
+Title: Rental 9433
+
+----
+
+Rental-id: 9433
+
+----
+
+Rental-date: 2005-07-30 21:28:17
+
+----
+
+Return-date: 2005-08-08 18:20:17
+
+----
+
+Inventory: page://xOsFq6V8JZzQUGVY
+
+----
+
+Customer: page://F0Kktb9GQCAISqtj
+
+----
+
+Uuid: fUQqntqpEjdM7xHp

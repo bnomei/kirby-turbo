@@ -1,0 +1,25 @@
+Title: Rental 2078
+
+----
+
+Rental-id: 2078
+
+----
+
+Rental-date: 2005-06-17 16:48:55
+
+----
+
+Return-date: 2005-06-19 18:01:55
+
+----
+
+Inventory: page://cEdflg7KRKhr27R0
+
+----
+
+Uuid: 8f3li4eC6zdA0M7j
+
+----
+
+Customer: page://vaqk23hYrE8PQvH5

@@ -1,0 +1,33 @@
+Title: DONALD MAHON
+
+----
+
+Customer-id: 313
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: DONALD
+
+----
+
+Last-name: MAHON
+
+----
+
+Email: DONALD.MAHON@sakilacustomer.org
+
+----
+
+Address: page://wYQnSAeUnQj4Jvgw
+
+----
+
+Active: 1
+
+----
+
+Uuid: 4ds5KktMOLHXcWuW

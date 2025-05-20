@@ -1,0 +1,44 @@
+Title: CONQUERER NUTS
+
+----
+
+Actors:
+
+- 'page://K3jNN1L9qHT9bFIC'
+- 'page://rWwSmn6uTovtpXae'
+- 'page://I2QUzWEQkTiY7Ba5'
+- 'page://ovAz2jwmaTIz5ph9'
+- 'page://rTdvG0vGkNN8iJpQ'
+- 'page://zDG4LP4a8BGDrQEW'
+
+----
+
+Film-id: 179
+
+----
+
+Description: A Taut Drama of a Mad Scientist And a Man who must Escape a Pioneer in An Abandoned Mine Shaft
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 173
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: oDl4KWwIRECh8CaC
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

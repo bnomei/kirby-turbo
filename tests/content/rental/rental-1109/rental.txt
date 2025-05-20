@@ -1,0 +1,25 @@
+Title: Rental 1109
+
+----
+
+Rental-id: 1109
+
+----
+
+Rental-date: 2005-05-31 15:12:15
+
+----
+
+Return-date: 2005-06-09 16:21:15
+
+----
+
+Inventory: page://59X8FNRGiEl4hRkB
+
+----
+
+Uuid: On80CK00AEGkjr92
+
+----
+
+Customer: page://6B5jExq3JyrPdaga

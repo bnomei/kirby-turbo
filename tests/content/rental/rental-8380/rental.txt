@@ -1,0 +1,25 @@
+Title: Rental 8380
+
+----
+
+Rental-id: 8380
+
+----
+
+Rental-date: 2005-07-29 05:31:29
+
+----
+
+Return-date: 2005-08-02 01:27:29
+
+----
+
+Inventory: page://KMaoF4NzMTovjIUl
+
+----
+
+Customer: page://yjYvst4Pui2DtNsv
+
+----
+
+Uuid: JvuXFJvqbizrG1Sx

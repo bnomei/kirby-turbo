@@ -1,0 +1,17 @@
+Title: Inv 3508
+
+----
+
+Inventory-id: 3508
+
+----
+
+Film: page://twtLQqLxMR9UfGAw
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: q104z65w1pjXc3Va

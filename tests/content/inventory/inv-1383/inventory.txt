@@ -1,0 +1,17 @@
+Title: Inv 1383
+
+----
+
+Inventory-id: 1383
+
+----
+
+Film: page://SfVKFITCqVw73PWG
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: LVAxUvMqG3MlMJb8

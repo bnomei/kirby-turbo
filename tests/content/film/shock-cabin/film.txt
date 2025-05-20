@@ -1,0 +1,37 @@
+Title: SHOCK CABIN
+
+----
+
+Actors: - 'page://r5vfuwK7SifeGhUs'
+
+----
+
+Film-id: 789
+
+----
+
+Description: A Fateful Tale of a Mad Cow And a Crocodile who must Meet a Husband in New Orleans
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 79
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: aAkTwopuYZivPiG2
+
+----
+
+Categories: - 'page://1zSlwtq2IyzVh9Hs'

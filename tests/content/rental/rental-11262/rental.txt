@@ -1,0 +1,25 @@
+Title: Rental 11262
+
+----
+
+Rental-id: 11262
+
+----
+
+Rental-date: 2005-08-02 13:58:55
+
+----
+
+Return-date: 2005-08-05 18:09:55
+
+----
+
+Inventory: page://VtvevhKJkWZquKEM
+
+----
+
+Customer: page://K253MbSwnklxbl62
+
+----
+
+Uuid: M3cvokLdi57orDSf

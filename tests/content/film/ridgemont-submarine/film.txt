@@ -1,0 +1,43 @@
+Title: RIDGEMONT SUBMARINE
+
+----
+
+Actors:
+
+- 'page://S52CrIK06oYgWrwP'
+- 'page://dRscV8wJJ6wok0jq'
+- 'page://isKOKKisNfJh2ta1'
+- 'page://nVYE704vdPRRS8fI'
+- 'page://V7i97wxdkXKwKdBD'
+
+----
+
+Film-id: 730
+
+----
+
+Description: A Unbelieveable Drama of a Waitress And a Composer who must Sink a Mad Cow in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 46
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: 6CdKH5MPZuKWNMzd
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

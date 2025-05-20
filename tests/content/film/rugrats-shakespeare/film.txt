@@ -1,0 +1,44 @@
+Title: RUGRATS SHAKESPEARE
+
+----
+
+Actors:
+
+- 'page://xBL8rppzTt5cijUB'
+- 'page://HMQFYCzd6sL7s9te'
+- 'page://lWEFCFc3fpMkkCVm'
+- 'page://DC9iJim4HlVvOiTH'
+- 'page://eZEz0vHTFLlEKlUs'
+- 'page://Q7LFBcb3oEdhSO9W'
+
+----
+
+Film-id: 748
+
+----
+
+Description: A Touching Saga of a Crocodile And a Crocodile who must Discover a Technical Writer in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 109
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: p8YMJPZB1wk9DpT5
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

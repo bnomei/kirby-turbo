@@ -1,0 +1,33 @@
+Title: VANESSA SIMS
+
+----
+
+Customer-id: 195
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: VANESSA
+
+----
+
+Last-name: SIMS
+
+----
+
+Email: VANESSA.SIMS@sakilacustomer.org
+
+----
+
+Address: page://B2Tz2rXdUWUv9f8B
+
+----
+
+Active: 1
+
+----
+
+Uuid: KVKe37M7cjhEl7hH

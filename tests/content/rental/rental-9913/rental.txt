@@ -1,0 +1,25 @@
+Title: Rental 9913
+
+----
+
+Rental-id: 9913
+
+----
+
+Rental-date: 2005-07-31 14:51:04
+
+----
+
+Return-date: 2005-08-06 12:12:04
+
+----
+
+Inventory: page://FEkQIzUSw3XXA0ea
+
+----
+
+Customer: page://PbJRKou2oblU77A7
+
+----
+
+Uuid: OwjrBKSO037BwYeK

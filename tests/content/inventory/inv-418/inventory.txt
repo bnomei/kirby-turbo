@@ -1,0 +1,17 @@
+Title: Inv 418
+
+----
+
+Inventory-id: 418
+
+----
+
+Film: page://JrgFunZeT85yBhXi
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: JT9lr0tGIfEppPLy

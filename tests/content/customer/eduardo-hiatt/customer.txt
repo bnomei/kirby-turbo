@@ -1,0 +1,33 @@
+Title: EDUARDO HIATT
+
+----
+
+Customer-id: 594
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: EDUARDO
+
+----
+
+Last-name: HIATT
+
+----
+
+Email: EDUARDO.HIATT@sakilacustomer.org
+
+----
+
+Address: page://YlkNg0ydOzOMajSx
+
+----
+
+Active: 1
+
+----
+
+Uuid: DZzK6reO3V0LDrPm

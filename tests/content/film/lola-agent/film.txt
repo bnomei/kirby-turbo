@@ -1,0 +1,44 @@
+Title: LOLA AGENT
+
+----
+
+Actors:
+
+- 'page://5ruVLAhmJBWUKPci'
+- 'page://JbsPWnOXBNKX1tM5'
+- 'page://u0N0ozPCYMgg4oo9'
+- 'page://Xu2nMG4ojUoJI7CN'
+- 'page://eZEz0vHTFLlEKlUs'
+- 'page://m11q5cdDfIefOEY5'
+
+----
+
+Film-id: 527
+
+----
+
+Description: A Astounding Tale of a Mad Scientist And a Husband who must Redeem a Database Administrator in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 85
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: YUzfc16cDD1MlAAL
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

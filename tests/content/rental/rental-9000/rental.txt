@@ -1,0 +1,25 @@
+Title: Rental 9000
+
+----
+
+Rental-id: 9000
+
+----
+
+Rental-date: 2005-07-30 04:58:55
+
+----
+
+Return-date: 2005-08-08 04:01:55
+
+----
+
+Inventory: page://qQyPyQiLPPwz7MYY
+
+----
+
+Customer: page://88ZpPvHuxTFZYKCY
+
+----
+
+Uuid: L2iIQA03d31poB0y

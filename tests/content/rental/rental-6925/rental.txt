@@ -1,0 +1,25 @@
+Title: Rental 6925
+
+----
+
+Rental-id: 6925
+
+----
+
+Rental-date: 2005-07-26 22:52:32
+
+----
+
+Return-date: 2005-07-29 21:22:32
+
+----
+
+Inventory: page://DoRrsNETeyin92pn
+
+----
+
+Customer: page://PBAxbbLPwokG6bh1
+
+----
+
+Uuid: Eo3jqrimiGX9qvED

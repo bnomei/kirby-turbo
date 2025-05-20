@@ -1,0 +1,17 @@
+Title: Inv 65
+
+----
+
+Inventory-id: 65
+
+----
+
+Film: page://jE6CrKYWQPK6P0VI
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: J1v0se9GbC0ieNCr

@@ -1,0 +1,17 @@
+Title: Inv 645
+
+----
+
+Inventory-id: 645
+
+----
+
+Film: page://UVB34h6ORZE6BH5q
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ThcrjkUMv0pvpbxw

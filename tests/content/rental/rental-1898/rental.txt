@@ -1,0 +1,25 @@
+Title: Rental 1898
+
+----
+
+Rental-id: 1898
+
+----
+
+Rental-date: 2005-06-17 04:28:11
+
+----
+
+Return-date: 2005-06-25 07:04:11
+
+----
+
+Inventory: page://tMI2UigxEbk6dPgP
+
+----
+
+Uuid: R6s5vhwDdSYfd09W
+
+----
+
+Customer: page://o07yBM7EP4XLPfD9

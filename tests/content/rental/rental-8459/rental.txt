@@ -1,0 +1,25 @@
+Title: Rental 8459
+
+----
+
+Rental-id: 8459
+
+----
+
+Rental-date: 2005-07-29 08:05:40
+
+----
+
+Return-date: 2005-08-04 03:24:40
+
+----
+
+Inventory: page://FYT6iUCojzvhmfaD
+
+----
+
+Customer: page://rug4r6NdvQakm9EC
+
+----
+
+Uuid: yqzdwrBczo38Z6ac

@@ -1,0 +1,17 @@
+Title: Inv 1490
+
+----
+
+Inventory-id: 1490
+
+----
+
+Film: page://oezWSCFfJShYLNTc
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: G0imDFitBwwK6UFU

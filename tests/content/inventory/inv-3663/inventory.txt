@@ -1,0 +1,17 @@
+Title: Inv 3663
+
+----
+
+Inventory-id: 3663
+
+----
+
+Film: page://VfePIjEhPcDkrGU8
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ljlagMmXt4KWdoWv

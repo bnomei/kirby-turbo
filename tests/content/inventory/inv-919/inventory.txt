@@ -1,0 +1,17 @@
+Title: Inv 919
+
+----
+
+Inventory-id: 919
+
+----
+
+Film: page://hA8gBsJZ3UKwY7vG
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: dmnXXfpr0b9rc98o

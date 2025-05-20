@@ -1,0 +1,17 @@
+Title: Inv 1827
+
+----
+
+Inventory-id: 1827
+
+----
+
+Film: page://WGXDM1RG4lfMpY2G
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 9JjCMSXJLd1BcfgC

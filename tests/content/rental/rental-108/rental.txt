@@ -1,0 +1,25 @@
+Title: Rental 108
+
+----
+
+Rental-id: 108
+
+----
+
+Rental-date: 2005-05-25 18:30:05
+
+----
+
+Return-date: 2005-05-30 19:40:05
+
+----
+
+Inventory: page://kKgiDqjnjSHYFOUL
+
+----
+
+Uuid: HcqERP1xWOPnpNeG
+
+----
+
+Customer: page://Q5O2bHZdTW7BhoOc

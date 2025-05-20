@@ -1,0 +1,17 @@
+Title: Inv 2058
+
+----
+
+Inventory-id: 2058
+
+----
+
+Film: page://Xvezg1HAGLbTRKmJ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: O8tqyhKachVqX4UR

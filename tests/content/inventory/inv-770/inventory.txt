@@ -1,0 +1,17 @@
+Title: Inv 770
+
+----
+
+Inventory-id: 770
+
+----
+
+Film: page://2hqLMXmuK75wH2iH
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: yHfC1Aw2fI2gP97K

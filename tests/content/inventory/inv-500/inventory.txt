@@ -1,0 +1,17 @@
+Title: Inv 500
+
+----
+
+Inventory-id: 500
+
+----
+
+Film: page://dz5sVOmAKPQNMBEj
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: En39P626Mru6HubH

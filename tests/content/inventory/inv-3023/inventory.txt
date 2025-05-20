@@ -1,0 +1,17 @@
+Title: Inv 3023
+
+----
+
+Inventory-id: 3023
+
+----
+
+Film: page://EfESDft6aS0p6RpC
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 3v8ZcFehONyomJFu

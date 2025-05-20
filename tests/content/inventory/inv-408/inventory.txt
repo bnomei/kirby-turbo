@@ -1,0 +1,17 @@
+Title: Inv 408
+
+----
+
+Inventory-id: 408
+
+----
+
+Film: page://YwHDEXoq4La36FCX
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: QwzVTbUfGLb2lRCl

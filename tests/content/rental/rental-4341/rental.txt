@@ -1,0 +1,25 @@
+Title: Rental 4341
+
+----
+
+Rental-id: 4341
+
+----
+
+Rental-date: 2005-07-07 18:44:23
+
+----
+
+Return-date: 2005-07-15 18:13:23
+
+----
+
+Inventory: page://9qAYIxPH9CQ5A7pn
+
+----
+
+Uuid: dj5zXyEwABLrPYw6
+
+----
+
+Customer: page://PRYZKLCz6ndr3bge

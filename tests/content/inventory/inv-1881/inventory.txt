@@ -1,0 +1,17 @@
+Title: Inv 1881
+
+----
+
+Inventory-id: 1881
+
+----
+
+Film: page://MiyXWOeAe6qfciiw
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Ih9ur5DnVURTudaZ

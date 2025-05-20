@@ -1,0 +1,17 @@
+Title: Karnal
+
+----
+
+City-id: 263
+
+----
+
+City: Karnal
+
+----
+
+Country: page://gZf7IokVJwDfjozc
+
+----
+
+Uuid: ySfCYX7wB2oOVWR6

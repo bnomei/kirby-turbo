@@ -1,0 +1,25 @@
+Title: Rental 6148
+
+----
+
+Rental-id: 6148
+
+----
+
+Rental-date: 2005-07-11 09:14:22
+
+----
+
+Return-date: 2005-07-12 08:01:22
+
+----
+
+Inventory: page://MNaSEQY7k0pXiQ3g
+
+----
+
+Uuid: 0K64r5UtL48MhNB5
+
+----
+
+Customer: page://qq0m1YSvvt7HbeBW

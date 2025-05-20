@@ -1,0 +1,17 @@
+Title: Inv 2168
+
+----
+
+Inventory-id: 2168
+
+----
+
+Film: page://mEVtoHPdwzg7XWhq
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: nkgTC3MaQjuI9a2H

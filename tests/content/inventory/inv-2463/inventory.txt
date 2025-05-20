@@ -1,0 +1,17 @@
+Title: Inv 2463
+
+----
+
+Inventory-id: 2463
+
+----
+
+Film: page://CdiE8JY8Ix0qPv3a
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: FmDCMw1I4ZCMS5iU

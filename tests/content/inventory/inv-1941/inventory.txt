@@ -1,0 +1,17 @@
+Title: Inv 1941
+
+----
+
+Inventory-id: 1941
+
+----
+
+Film: page://9VbdNpcdB3kcKvua
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: sAiIdMfDHngDzWuM

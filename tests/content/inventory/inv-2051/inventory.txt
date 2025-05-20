@@ -1,0 +1,17 @@
+Title: Inv 2051
+
+----
+
+Inventory-id: 2051
+
+----
+
+Film: page://tjXXFfYfgCZfA1am
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: urhI2RFyrb2MkCB9

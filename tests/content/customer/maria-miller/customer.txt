@@ -1,0 +1,33 @@
+Title: MARIA MILLER
+
+----
+
+Customer-id: 7
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MARIA
+
+----
+
+Last-name: MILLER
+
+----
+
+Email: MARIA.MILLER@sakilacustomer.org
+
+----
+
+Address: page://kNNZa6gieC1xSUAJ
+
+----
+
+Active: 1
+
+----
+
+Uuid: Azw9Nv7ouxsZUKzG

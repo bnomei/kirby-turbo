@@ -1,0 +1,21 @@
+Title: Rental 15714
+
+----
+
+Rental-id: 15714
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://SOk7MFYKDEZTRJB8
+
+----
+
+Customer: page://BRlxR8jBrlgBWqGm
+
+----
+
+Uuid: K2zKKVuERLh8LpJZ

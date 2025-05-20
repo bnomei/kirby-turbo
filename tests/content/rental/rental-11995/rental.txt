@@ -1,0 +1,21 @@
+Title: Rental 11995
+
+----
+
+Rental-id: 11995
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://mtuaiVJRs8b37jnt
+
+----
+
+Customer: page://THfMzLFg9xGh6L0X
+
+----
+
+Uuid: oDp2lBd4kWt9S9fA

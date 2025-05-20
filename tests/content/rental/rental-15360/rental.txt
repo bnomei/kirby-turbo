@@ -1,0 +1,25 @@
+Title: Rental 15360
+
+----
+
+Rental-id: 15360
+
+----
+
+Rental-date: 2005-08-22 21:36:51
+
+----
+
+Return-date: 2005-08-24 16:46:51
+
+----
+
+Inventory: page://APe73pfgczZUhuI5
+
+----
+
+Customer: page://08U0IJiadz0U6o7j
+
+----
+
+Uuid: lIBqwVPYhHZmE88d

@@ -1,0 +1,25 @@
+Title: Rental 739
+
+----
+
+Rental-id: 739
+
+----
+
+Rental-date: 2005-05-29 08:28:18
+
+----
+
+Return-date: 2005-06-06 09:21:18
+
+----
+
+Inventory: page://hnh17gLXQfUZPxwT
+
+----
+
+Uuid: FsXAUAmK4FauFT9b
+
+----
+
+Customer: page://cwgSUWzYLMDqVZzh

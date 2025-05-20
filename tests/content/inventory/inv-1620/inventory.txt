@@ -1,0 +1,17 @@
+Title: Inv 1620
+
+----
+
+Inventory-id: 1620
+
+----
+
+Film: page://I0EZve9Oa0NkqSpD
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: wR714T52L2OCBPWH

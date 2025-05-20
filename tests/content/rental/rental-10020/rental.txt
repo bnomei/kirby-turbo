@@ -1,0 +1,25 @@
+Title: Rental 10020
+
+----
+
+Rental-id: 10020
+
+----
+
+Rental-date: 2005-07-31 18:21:08
+
+----
+
+Return-date: 2005-08-02 14:03:08
+
+----
+
+Inventory: page://GHH1QYGIU7L69Pk0
+
+----
+
+Customer: page://yQcQ1eHjHG2TC2t0
+
+----
+
+Uuid: a3UjhkBiB5xbfgOy

@@ -1,0 +1,17 @@
+Title: San Felipe de Puerto Plata
+
+----
+
+City-id: 450
+
+----
+
+City: San Felipe de Puerto Plata
+
+----
+
+Country: page://B3eP4JNJxfG9wM3Z
+
+----
+
+Uuid: 5OFeOn44AT0cYmwS

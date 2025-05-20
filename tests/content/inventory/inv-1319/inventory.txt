@@ -1,0 +1,17 @@
+Title: Inv 1319
+
+----
+
+Inventory-id: 1319
+
+----
+
+Film: page://CH4btgLIdvjp8AWX
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: A2FgtW44ThKzxmTz

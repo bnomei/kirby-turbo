@@ -1,0 +1,17 @@
+Title: Inv 1895
+
+----
+
+Inventory-id: 1895
+
+----
+
+Film: page://aUafI4t8XSgIFtTE
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: XMDalTEcTjSnVG6f

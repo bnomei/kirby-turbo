@@ -1,0 +1,33 @@
+Title: RICK MATTOX
+
+----
+
+Customer-id: 491
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: RICK
+
+----
+
+Last-name: MATTOX
+
+----
+
+Email: RICK.MATTOX@sakilacustomer.org
+
+----
+
+Address: page://LaS7yKL7dT99TuFg
+
+----
+
+Active: 1
+
+----
+
+Uuid: kAtIvC3GuVrHNW6C

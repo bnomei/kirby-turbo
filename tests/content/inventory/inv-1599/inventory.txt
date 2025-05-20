@@ -1,0 +1,17 @@
+Title: Inv 1599
+
+----
+
+Inventory-id: 1599
+
+----
+
+Film: page://kstF1fKjigdawN11
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 09r9KEwCJVH7RwBB

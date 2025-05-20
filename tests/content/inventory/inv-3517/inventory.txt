@@ -1,0 +1,17 @@
+Title: Inv 3517
+
+----
+
+Inventory-id: 3517
+
+----
+
+Film: page://H4IotVkCPFKZfwMR
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 0g7rhFnWiyQ88itz

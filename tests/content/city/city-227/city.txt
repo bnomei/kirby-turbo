@@ -1,0 +1,17 @@
+Title: Iwakuni
+
+----
+
+City-id: 227
+
+----
+
+City: Iwakuni
+
+----
+
+Country: page://XEyP9uxOgFESeyaK
+
+----
+
+Uuid: 1XeXfskLgHLwaXKw

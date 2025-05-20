@@ -1,0 +1,25 @@
+Title: Rental 13964
+
+----
+
+Rental-id: 13964
+
+----
+
+Rental-date: 2005-08-20 18:24:26
+
+----
+
+Return-date: 2005-08-21 21:19:26
+
+----
+
+Inventory: page://TtrUBLEpe9clnMCj
+
+----
+
+Customer: page://F0Kktb9GQCAISqtj
+
+----
+
+Uuid: HBDFnDqhXHUT0egg

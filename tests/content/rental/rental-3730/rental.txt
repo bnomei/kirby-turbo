@@ -1,0 +1,25 @@
+Title: Rental 3730
+
+----
+
+Rental-id: 3730
+
+----
+
+Rental-date: 2005-07-06 11:31:24
+
+----
+
+Return-date: 2005-07-15 06:53:24
+
+----
+
+Inventory: page://fa2hQaF3natzSJrN
+
+----
+
+Uuid: BSfPriY42yCpVoGY
+
+----
+
+Customer: page://lgbKkp1lML4CzpHP

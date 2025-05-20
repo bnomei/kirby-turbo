@@ -1,0 +1,17 @@
+Title: Inv 1073
+
+----
+
+Inventory-id: 1073
+
+----
+
+Film: page://cIUV5g7wlc27Eqrh
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: aZus77T6AJIADVQY

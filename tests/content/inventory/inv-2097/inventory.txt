@@ -1,0 +1,17 @@
+Title: Inv 2097
+
+----
+
+Inventory-id: 2097
+
+----
+
+Film: page://5aTOisKICzy67XBf
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 3zfNQOXpCnBgsepA

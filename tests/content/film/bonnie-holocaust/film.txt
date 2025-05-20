@@ -1,0 +1,46 @@
+Title: BONNIE HOLOCAUST
+
+----
+
+Actors:
+
+- 'page://S52CrIK06oYgWrwP'
+- 'page://oEbdYNCKFrP9NVLv'
+- 'page://ovAz2jwmaTIz5ph9'
+- 'page://qiUMbGq5mbDqGQZm'
+- 'page://FSTBtYrNkVQnDKPa'
+- 'page://pW1gtWYG8hgYIJM4'
+- 'page://1a2BLQivFz3Ch6Lx'
+- 'page://NRH2DcjJcFwzgjEd'
+
+----
+
+Film-id: 85
+
+----
+
+Description: A Fast-Paced Story of a Crocodile And a Robot who must Find a Moose in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 63
+
+----
+
+Rating: G
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: fmg4eBmcOyFDSDag
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

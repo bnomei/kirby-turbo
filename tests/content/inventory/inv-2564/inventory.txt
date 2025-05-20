@@ -1,0 +1,17 @@
+Title: Inv 2564
+
+----
+
+Inventory-id: 2564
+
+----
+
+Film: page://w2bpdhuzsB1qaQ7b
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: thUxQLY8OEFGaN0m

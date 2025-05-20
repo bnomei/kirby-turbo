@@ -1,0 +1,25 @@
+Title: Rental 4615
+
+----
+
+Rental-id: 4615
+
+----
+
+Rental-date: 2005-07-08 07:46:53
+
+----
+
+Return-date: 2005-07-16 12:43:53
+
+----
+
+Inventory: page://FRKviLDsKWuyfUpl
+
+----
+
+Uuid: t7HjPdt4UumKr6Mi
+
+----
+
+Customer: page://0diivdH91F9vTjvz

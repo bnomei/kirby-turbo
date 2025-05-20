@@ -1,0 +1,33 @@
+Title: PATRICK NEWSOM
+
+----
+
+Customer-id: 340
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: PATRICK
+
+----
+
+Last-name: NEWSOM
+
+----
+
+Email: PATRICK.NEWSOM@sakilacustomer.org
+
+----
+
+Address: page://aKj0wBjkJIqOex8P
+
+----
+
+Active: 1
+
+----
+
+Uuid: alglU4WYiFaY0W4O

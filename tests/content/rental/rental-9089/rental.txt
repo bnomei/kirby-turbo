@@ -1,0 +1,25 @@
+Title: Rental 9089
+
+----
+
+Rental-id: 9089
+
+----
+
+Rental-date: 2005-07-30 08:23:39
+
+----
+
+Return-date: 2005-07-31 06:00:39
+
+----
+
+Inventory: page://Na2VnNOGlbHy8px8
+
+----
+
+Customer: page://J9AjFYg5VoQ4Yy04
+
+----
+
+Uuid: Js2YQE3kPwWuCl1y

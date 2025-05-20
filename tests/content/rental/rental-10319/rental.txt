@@ -1,0 +1,25 @@
+Title: Rental 10319
+
+----
+
+Rental-id: 10319
+
+----
+
+Rental-date: 2005-08-01 04:37:19
+
+----
+
+Return-date: 2005-08-05 03:18:19
+
+----
+
+Inventory: page://XSTmnZhsoemti16T
+
+----
+
+Customer: page://HiWqju3pijeJQEv1
+
+----
+
+Uuid: wwXrTfqKUuYnDgb0

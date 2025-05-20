@@ -1,0 +1,17 @@
+Title: Inv 1066
+
+----
+
+Inventory-id: 1066
+
+----
+
+Film: page://YVkqdrk0OGGseUv7
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: xCvCFLtpFzS005eF

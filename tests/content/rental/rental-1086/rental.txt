@@ -1,0 +1,25 @@
+Title: Rental 1086
+
+----
+
+Rental-id: 1086
+
+----
+
+Rental-date: 2005-05-31 11:17:37
+
+----
+
+Return-date: 2005-06-06 13:58:37
+
+----
+
+Inventory: page://6HiRmrnaSupzuXUf
+
+----
+
+Uuid: hiOfx8uzt1ngpSai
+
+----
+
+Customer: page://HkTANTgi9H03vQyM

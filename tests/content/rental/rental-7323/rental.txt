@@ -1,0 +1,25 @@
+Title: Rental 7323
+
+----
+
+Rental-id: 7323
+
+----
+
+Rental-date: 2005-07-27 13:39:40
+
+----
+
+Return-date: 2005-07-29 08:45:40
+
+----
+
+Inventory: page://JSIMmaY128Jjmm8r
+
+----
+
+Customer: page://FDHzmAWHKzLyv0Hg
+
+----
+
+Uuid: o7DzRHLgiL00qlAo

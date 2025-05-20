@@ -1,0 +1,25 @@
+Title: Rental 8911
+
+----
+
+Rental-id: 8911
+
+----
+
+Rental-date: 2005-07-30 01:30:57
+
+----
+
+Return-date: 2005-08-02 20:01:57
+
+----
+
+Inventory: page://tK5aVrJXG9uwaBlv
+
+----
+
+Customer: page://vuC49kOilMI2crhA
+
+----
+
+Uuid: Ws3BlZ7d0lJ3U2TB

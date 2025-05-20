@@ -1,0 +1,25 @@
+Title: Rental 949
+
+----
+
+Rental-id: 949
+
+----
+
+Rental-date: 2005-05-30 15:50:39
+
+----
+
+Return-date: 2005-06-03 14:25:39
+
+----
+
+Inventory: page://VqQrEgQQjf18OQR2
+
+----
+
+Uuid: 4OYs4CmIuxC8zbo6
+
+----
+
+Customer: page://iYFUE0tzXJVxueTP

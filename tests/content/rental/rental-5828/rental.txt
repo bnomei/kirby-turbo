@@ -1,0 +1,25 @@
+Title: Rental 5828
+
+----
+
+Rental-id: 5828
+
+----
+
+Rental-date: 2005-07-10 16:27:25
+
+----
+
+Return-date: 2005-07-11 18:42:25
+
+----
+
+Inventory: page://mFBeWos8vJloinIK
+
+----
+
+Uuid: lgE5dHaQXh92ppwp
+
+----
+
+Customer: page://rcuufatqxgEb3aDf

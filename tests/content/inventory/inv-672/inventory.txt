@@ -1,0 +1,17 @@
+Title: Inv 672
+
+----
+
+Inventory-id: 672
+
+----
+
+Film: page://xt5YPKk96VRGo1KN
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 1prqRKI6U5RKqDRK

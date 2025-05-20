@@ -1,0 +1,25 @@
+Title: Rental 1350
+
+----
+
+Rental-id: 1350
+
+----
+
+Rental-date: 2005-06-15 12:50:25
+
+----
+
+Return-date: 2005-06-23 11:35:25
+
+----
+
+Inventory: page://0jzYE0zRskmjN7qZ
+
+----
+
+Uuid: LIouVVRY6wB8AKlX
+
+----
+
+Customer: page://W2vSpda0fGwDYgAa

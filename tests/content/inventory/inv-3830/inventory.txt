@@ -1,0 +1,17 @@
+Title: Inv 3830
+
+----
+
+Inventory-id: 3830
+
+----
+
+Film: page://2sbg5kEdj60JECRU
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: JSIMmaY128Jjmm8r

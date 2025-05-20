@@ -1,0 +1,17 @@
+Title: Inv 4421
+
+----
+
+Inventory-id: 4421
+
+----
+
+Film: page://jT2qphuszrqnOmXs
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: owE1iIsgCTbo6mKH

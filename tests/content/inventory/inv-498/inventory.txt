@@ -1,0 +1,17 @@
+Title: Inv 498
+
+----
+
+Inventory-id: 498
+
+----
+
+Film: page://dz5sVOmAKPQNMBEj
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: zWtg8ec4MSBIbG6z

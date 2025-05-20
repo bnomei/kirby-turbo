@@ -1,0 +1,25 @@
+Title: Rental 8617
+
+----
+
+Rental-id: 8617
+
+----
+
+Rental-date: 2005-07-29 13:46:14
+
+----
+
+Return-date: 2005-08-06 13:26:14
+
+----
+
+Inventory: page://fbWpq1OIEKvgaqHD
+
+----
+
+Customer: page://kLc3AfN8siSKFtqK
+
+----
+
+Uuid: nGO0EtkuOZWvTzH1

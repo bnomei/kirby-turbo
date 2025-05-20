@@ -1,0 +1,25 @@
+Title: Rental 5127
+
+----
+
+Rental-id: 5127
+
+----
+
+Rental-date: 2005-07-09 07:25:47
+
+----
+
+Return-date: 2005-07-13 11:44:47
+
+----
+
+Inventory: page://SEz4fn7APP1gPTI5
+
+----
+
+Uuid: 2wGgmtB30nPa3I9c
+
+----
+
+Customer: page://JdfsXlrnw5D9Ezlr

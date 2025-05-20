@@ -1,0 +1,25 @@
+Title: Rental 13945
+
+----
+
+Rental-id: 13945
+
+----
+
+Rental-date: 2005-08-20 17:43:56
+
+----
+
+Return-date: 2005-08-26 19:19:56
+
+----
+
+Inventory: page://ifAZjCjnkc3sj8QC
+
+----
+
+Customer: page://YNtCpMJMomhTZceJ
+
+----
+
+Uuid: 4bbe8Io5DlaMafcO

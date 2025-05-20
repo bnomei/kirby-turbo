@@ -1,0 +1,25 @@
+Title: Rental 319
+
+----
+
+Rental-id: 319
+
+----
+
+Rental-date: 2005-05-26 23:52:13
+
+----
+
+Return-date: 2005-05-30 18:55:13
+
+----
+
+Inventory: page://46tlBDKUyagXf1YU
+
+----
+
+Uuid: xGBLyipElgeKi6Js
+
+----
+
+Customer: page://ssRpWEJq6gKOyUIh

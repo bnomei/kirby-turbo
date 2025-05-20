@@ -1,0 +1,17 @@
+Title: Inv 2737
+
+----
+
+Inventory-id: 2737
+
+----
+
+Film: page://lZPjfMSIExYeKiaQ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: kxTUGVUumTUiGSsO

@@ -1,0 +1,25 @@
+Title: Rental 5914
+
+----
+
+Rental-id: 5914
+
+----
+
+Rental-date: 2005-07-10 21:01:12
+
+----
+
+Return-date: 2005-07-16 18:27:12
+
+----
+
+Inventory: page://g4CGX0r8WDyh9UH0
+
+----
+
+Uuid: Je498RJoN2zjAm0F
+
+----
+
+Customer: page://bw4m0tZ1D4xQh5s8

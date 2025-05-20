@@ -1,0 +1,25 @@
+Title: Rental 2900
+
+----
+
+Rental-id: 2900
+
+----
+
+Rental-date: 2005-06-20 02:40:04
+
+----
+
+Return-date: 2005-06-27 20:47:04
+
+----
+
+Inventory: page://RfEqp6BockgC4DvC
+
+----
+
+Uuid: S1G5XqRFlW1DyWV9
+
+----
+
+Customer: page://lFmyRUfgnuMLYrme

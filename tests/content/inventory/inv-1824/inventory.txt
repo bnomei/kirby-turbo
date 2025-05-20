@@ -1,0 +1,17 @@
+Title: Inv 1824
+
+----
+
+Inventory-id: 1824
+
+----
+
+Film: page://ZFhQca1uNlG8itxk
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: UvTGrwsZ9iJ9hrvs

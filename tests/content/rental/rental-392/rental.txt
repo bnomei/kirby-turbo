@@ -1,0 +1,25 @@
+Title: Rental 392
+
+----
+
+Rental-id: 392
+
+----
+
+Rental-date: 2005-05-27 11:14:42
+
+----
+
+Return-date: 2005-06-01 14:28:42
+
+----
+
+Inventory: page://Yrhwfwztb0jywIPq
+
+----
+
+Uuid: rKTYbzv7GtmstQtE
+
+----
+
+Customer: page://OIjTAayisIN6Xq6v

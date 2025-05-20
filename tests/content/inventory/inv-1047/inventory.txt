@@ -1,0 +1,17 @@
+Title: Inv 1047
+
+----
+
+Inventory-id: 1047
+
+----
+
+Film: page://u61mXZArei0MTQD2
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ALJRW5XcQ4Ljh2Mh

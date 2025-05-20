@@ -1,0 +1,25 @@
+Title: Rental 6393
+
+----
+
+Rental-id: 6393
+
+----
+
+Rental-date: 2005-07-11 22:28:12
+
+----
+
+Return-date: 2005-07-14 18:03:12
+
+----
+
+Inventory: page://OV9nzEYVG3yNryvI
+
+----
+
+Uuid: leaLVD0RJ11BfSbl
+
+----
+
+Customer: page://psNaEAJbImBLLUq8

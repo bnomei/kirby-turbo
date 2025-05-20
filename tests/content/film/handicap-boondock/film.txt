@@ -1,0 +1,45 @@
+Title: HANDICAP BOONDOCK
+
+----
+
+Actors:
+
+- 'page://osa3qsECAnV3MAu4'
+- 'page://lRnQ2IFMyS6K2hRd'
+- 'page://6LG8mbCuu1aKuRcl'
+- 'page://DJVklNozM1l2RK0x'
+- 'page://c9RVWbTiHNxSUsUJ'
+- 'page://X3dUYAbt0AiREsIH'
+- 'page://FLMpVB5CVJFKSGVy'
+
+----
+
+Film-id: 395
+
+----
+
+Description: A Beautiful Display of a Pioneer And a Squirrel who must Vanquish a Sumo Wrestler in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 108
+
+----
+
+Rating: R
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: 9xGJfbXF8aoV5B2N
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

@@ -1,0 +1,25 @@
+Title: Rental 6780
+
+----
+
+Rental-id: 6780
+
+----
+
+Rental-date: 2005-07-12 16:18:12
+
+----
+
+Return-date: 2005-07-13 17:56:12
+
+----
+
+Inventory: page://zkT1XDDDqr6zhJN7
+
+----
+
+Customer: page://okaJqGigURtGJrFE
+
+----
+
+Uuid: 7AWet3Ivpl0vHNW9

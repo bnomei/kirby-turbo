@@ -1,0 +1,17 @@
+Title: Inv 404
+
+----
+
+Inventory-id: 404
+
+----
+
+Film: page://OWXEm3xtywXUR2BQ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 03YIE4oNQNDZylD5

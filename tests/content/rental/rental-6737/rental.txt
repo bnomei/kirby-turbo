@@ -1,0 +1,25 @@
+Title: Rental 6737
+
+----
+
+Rental-id: 6737
+
+----
+
+Rental-date: 2005-07-12 14:16:52
+
+----
+
+Return-date: 2005-07-18 19:48:52
+
+----
+
+Inventory: page://7HYRXYaaduubBfdV
+
+----
+
+Uuid: Q7kAZOYyhetbLm0U
+
+----
+
+Customer: page://MpSgiAIrJd9YlrCV

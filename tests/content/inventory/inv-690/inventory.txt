@@ -1,0 +1,17 @@
+Title: Inv 690
+
+----
+
+Inventory-id: 690
+
+----
+
+Film: page://13qK81Dnma4SNs5a
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: RKTmxzmm8PxmPdpC

@@ -1,0 +1,17 @@
+Title: Inv 2888
+
+----
+
+Inventory-id: 2888
+
+----
+
+Film: page://m7PIhKdp6vzwLUff
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: rPtm6UqtAqv1tRw4

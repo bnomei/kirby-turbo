@@ -1,0 +1,25 @@
+Title: Rental 1955
+
+----
+
+Rental-id: 1955
+
+----
+
+Rental-date: 2005-06-17 08:40:22
+
+----
+
+Return-date: 2005-06-19 10:47:22
+
+----
+
+Inventory: page://1ijidYEYfs1Acmyw
+
+----
+
+Uuid: HAGv6N3QJu5b7MFG
+
+----
+
+Customer: page://W7ZJXAG7NuFuJZ2S

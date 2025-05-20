@@ -1,0 +1,17 @@
+Title: Inv 44
+
+----
+
+Inventory-id: 44
+
+----
+
+Film: page://msiPzQjMlcmUp6S6
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: SUAAFogOkXQdMhLo

@@ -1,0 +1,43 @@
+Title: HEAVYWEIGHTS BEAST
+
+----
+
+Actors:
+
+- 'page://S8UoUinBIsjzumVd'
+- 'page://r6UF6pUyhmwAPzIH'
+- 'page://ltHX2Lf4QT72ZiqX'
+- 'page://9XqCStEtXKdxVnPM'
+- 'page://h9gp2o2uGocb4AUV'
+
+----
+
+Film-id: 412
+
+----
+
+Description: A Unbelieveable Story of a Composer And a Dog who must Overcome a Womanizer in An Abandoned Amusement Park
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 102
+
+----
+
+Rating: G
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: aUafI4t8XSgIFtTE
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

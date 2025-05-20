@@ -1,0 +1,17 @@
+Title: Inv 3296
+
+----
+
+Inventory-id: 3296
+
+----
+
+Film: page://krbmWkvwgkQjjDzq
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: KIMTPW22FGoNi9Xo

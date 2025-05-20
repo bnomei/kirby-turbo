@@ -1,0 +1,25 @@
+Title: Rental 997
+
+----
+
+Rental-id: 997
+
+----
+
+Rental-date: 2005-05-31 00:08:25
+
+----
+
+Return-date: 2005-06-02 00:17:25
+
+----
+
+Inventory: page://OlB9oeiGzxJiRolV
+
+----
+
+Uuid: XzKr1XgdXOpVRoV6
+
+----
+
+Customer: page://6JTzEhgDMKDUF6HS

@@ -1,0 +1,25 @@
+Title: Rental 6734
+
+----
+
+Rental-id: 6734
+
+----
+
+Rental-date: 2005-07-12 14:04:24
+
+----
+
+Return-date: 2005-07-21 19:47:24
+
+----
+
+Inventory: page://DnFNIHmOkV6FOW0R
+
+----
+
+Uuid: smpv7mnEEXVGUFYz
+
+----
+
+Customer: page://LxYXYVT8Su7lX0Xb

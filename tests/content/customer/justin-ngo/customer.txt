@@ -1,0 +1,33 @@
+Title: JUSTIN NGO
+
+----
+
+Customer-id: 354
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JUSTIN
+
+----
+
+Last-name: NGO
+
+----
+
+Email: JUSTIN.NGO@sakilacustomer.org
+
+----
+
+Address: page://7EkZVHqJO64dd1P6
+
+----
+
+Active: 1
+
+----
+
+Uuid: hZOnCp7oVBUSijBw

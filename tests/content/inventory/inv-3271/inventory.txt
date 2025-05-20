@@ -1,0 +1,17 @@
+Title: Inv 3271
+
+----
+
+Inventory-id: 3271
+
+----
+
+Film: page://kORLc1rST2kqFGaV
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: To4vNjFgVWCsi4UB

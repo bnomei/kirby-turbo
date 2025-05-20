@@ -1,0 +1,25 @@
+Title: Rental 636
+
+----
+
+Rental-id: 636
+
+----
+
+Rental-date: 2005-05-28 17:47:58
+
+----
+
+Return-date: 2005-06-04 16:32:58
+
+----
+
+Inventory: page://Rf5UML8Bd2n1JxDO
+
+----
+
+Uuid: xRinX01cF3VHjBb8
+
+----
+
+Customer: page://0Qiks8V78Ua8rTtk

@@ -1,0 +1,17 @@
+Title: Inv 1419
+
+----
+
+Inventory-id: 1419
+
+----
+
+Film: page://HVileugisimUJPvj
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: aNKBSEipM1imlvfd

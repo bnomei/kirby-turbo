@@ -1,0 +1,25 @@
+Title: Rental 5988
+
+----
+
+Rental-id: 5988
+
+----
+
+Rental-date: 2005-07-11 00:55:38
+
+----
+
+Return-date: 2005-07-13 21:36:38
+
+----
+
+Inventory: page://A1cE4vN6DjgsVk0s
+
+----
+
+Uuid: OEapGvyin6RthWfL
+
+----
+
+Customer: page://EFq1BVursSqEGTmG

@@ -1,0 +1,33 @@
+Title: RYAN SALISBURY
+
+----
+
+Customer-id: 347
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: RYAN
+
+----
+
+Last-name: SALISBURY
+
+----
+
+Email: RYAN.SALISBURY@sakilacustomer.org
+
+----
+
+Address: page://wEWuuLodIAcXbplG
+
+----
+
+Active: 1
+
+----
+
+Uuid: biqDPcEyu5xA9fNA

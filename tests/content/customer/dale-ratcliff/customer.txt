@@ -1,0 +1,33 @@
+Title: DALE RATCLIFF
+
+----
+
+Customer-id: 407
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: DALE
+
+----
+
+Last-name: RATCLIFF
+
+----
+
+Email: DALE.RATCLIFF@sakilacustomer.org
+
+----
+
+Address: page://nrKWtKGoLc4NnmRw
+
+----
+
+Active: 1
+
+----
+
+Uuid: UvN7vXxqD6JnHXLQ

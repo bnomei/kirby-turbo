@@ -1,0 +1,21 @@
+Title: Rental 15735
+
+----
+
+Rental-id: 15735
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://l0CnquhbWNifpK7b
+
+----
+
+Customer: page://MMjN8znOj5ltCet6
+
+----
+
+Uuid: hZSeLjpLvIbj8XhO

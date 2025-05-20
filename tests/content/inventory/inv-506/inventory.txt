@@ -1,0 +1,17 @@
+Title: Inv 506
+
+----
+
+Inventory-id: 506
+
+----
+
+Film: page://24vIA343bLpsgbSu
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: aX62CtYybG0LTDcF

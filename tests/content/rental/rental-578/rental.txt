@@ -1,0 +1,25 @@
+Title: Rental 578
+
+----
+
+Rental-id: 578
+
+----
+
+Rental-date: 2005-05-28 11:15:48
+
+----
+
+Return-date: 2005-06-02 09:59:48
+
+----
+
+Inventory: page://l11hFDgJfGVaySzr
+
+----
+
+Uuid: TAVEXJEqLvDuwO5L
+
+----
+
+Customer: page://iV9J7bKEhKwgdAGi

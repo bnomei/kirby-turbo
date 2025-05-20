@@ -1,0 +1,43 @@
+Title: SUN CONFESSIONS
+
+----
+
+Actors:
+
+- 'page://NkG0QBqlgfweHNxN'
+- 'page://5ruVLAhmJBWUKPci'
+- 'page://75IrF5RezCSzGKrx'
+- 'page://c9RVWbTiHNxSUsUJ'
+- 'page://3XS33oPl7qwaYDh3'
+
+----
+
+Film-id: 863
+
+----
+
+Description: A Beautiful Display of a Mad Cow And a Dog who must Redeem a Waitress in An Abandoned Amusement Park
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 141
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: vJLvuMt5tFbWxGyr
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

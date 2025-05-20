@@ -1,0 +1,25 @@
+Title: Rental 814
+
+----
+
+Rental-id: 814
+
+----
+
+Rental-date: 2005-05-29 20:16:12
+
+----
+
+Return-date: 2005-06-07 17:47:12
+
+----
+
+Inventory: page://mZ1MMao6UMvyshpI
+
+----
+
+Uuid: BBggfZKXgrcOC5C3
+
+----
+
+Customer: page://zeAqUQXxiV8V74u5

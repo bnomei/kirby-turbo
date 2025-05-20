@@ -1,0 +1,33 @@
+Title: SHERRI RHODES
+
+----
+
+Customer-id: 297
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: SHERRI
+
+----
+
+Last-name: RHODES
+
+----
+
+Email: SHERRI.RHODES@sakilacustomer.org
+
+----
+
+Address: page://w2e6m3LYNiUJilMG
+
+----
+
+Active: 1
+
+----
+
+Uuid: OuCE5gs5Pt217cWx

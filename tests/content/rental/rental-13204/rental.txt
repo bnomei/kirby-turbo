@@ -1,0 +1,25 @@
+Title: Rental 13204
+
+----
+
+Rental-id: 13204
+
+----
+
+Rental-date: 2005-08-19 15:02:48
+
+----
+
+Return-date: 2005-08-24 18:07:48
+
+----
+
+Inventory: page://XWGXVZcPsZqDrjRQ
+
+----
+
+Customer: page://mEEAl0d4gMjFDZVU
+
+----
+
+Uuid: rX1F2DUeS6O8WZWP

@@ -1,0 +1,17 @@
+Title: Inv 2823
+
+----
+
+Inventory-id: 2823
+
+----
+
+Film: page://mkWoeGh7AKqZpfaB
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: WfSDYV1RICfiOkuG

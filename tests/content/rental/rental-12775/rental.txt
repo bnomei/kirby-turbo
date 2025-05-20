@@ -1,0 +1,25 @@
+Title: Rental 12775
+
+----
+
+Rental-id: 12775
+
+----
+
+Rental-date: 2005-08-18 23:35:56
+
+----
+
+Return-date: 2005-08-26 18:37:56
+
+----
+
+Inventory: page://AVTAXUtMKGLGELE6
+
+----
+
+Customer: page://DCfm6V0az1u3cAdq
+
+----
+
+Uuid: yt5hk1iQnpdf8FAx

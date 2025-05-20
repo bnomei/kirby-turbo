@@ -1,0 +1,33 @@
+Title: DUSTIN GILLETTE
+
+----
+
+Customer-id: 474
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: DUSTIN
+
+----
+
+Last-name: GILLETTE
+
+----
+
+Email: DUSTIN.GILLETTE@sakilacustomer.org
+
+----
+
+Address: page://fRRyxELpAlj4NRrn
+
+----
+
+Active: 1
+
+----
+
+Uuid: MfhMnukEGd8RhsqE

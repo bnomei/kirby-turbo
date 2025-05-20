@@ -1,0 +1,25 @@
+Title: Rental 7143
+
+----
+
+Rental-id: 7143
+
+----
+
+Rental-date: 2005-07-27 06:56:31
+
+----
+
+Return-date: 2005-07-31 04:38:31
+
+----
+
+Inventory: page://QEZcaac5Yi8qpBfs
+
+----
+
+Customer: page://OukV1G0vQXX07Xku
+
+----
+
+Uuid: 9jGg1BBEkC6fQgyz

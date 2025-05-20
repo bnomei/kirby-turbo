@@ -1,0 +1,17 @@
+Title: Inv 1834
+
+----
+
+Inventory-id: 1834
+
+----
+
+Film: page://6TB6p0RldPABlj2Z
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: KTOIIp2ZMxEscUhl

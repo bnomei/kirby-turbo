@@ -1,0 +1,25 @@
+Title: Rental 9206
+
+----
+
+Rental-id: 9206
+
+----
+
+Rental-date: 2005-07-30 12:46:59
+
+----
+
+Return-date: 2005-08-03 14:58:59
+
+----
+
+Inventory: page://cEdflg7KRKhr27R0
+
+----
+
+Customer: page://0diivdH91F9vTjvz
+
+----
+
+Uuid: TkHObhXedm3be6ML

@@ -1,0 +1,25 @@
+Title: Rental 120
+
+----
+
+Rental-id: 120
+
+----
+
+Rental-date: 2005-05-25 19:37:47
+
+----
+
+Return-date: 2005-06-01 23:29:47
+
+----
+
+Inventory: page://wpakCimkx2uTHfOG
+
+----
+
+Uuid: L9OeaWkip9MV0Lxu
+
+----
+
+Customer: page://qwoOdpywLcCQ6lEX

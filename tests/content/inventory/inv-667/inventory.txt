@@ -1,0 +1,17 @@
+Title: Inv 667
+
+----
+
+Inventory-id: 667
+
+----
+
+Film: page://TLayTvyjZh2ATF04
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: GWnzZX1ZsX0EUMIf

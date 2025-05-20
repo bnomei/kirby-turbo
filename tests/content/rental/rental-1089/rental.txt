@@ -1,0 +1,25 @@
+Title: Rental 1089
+
+----
+
+Rental-id: 1089
+
+----
+
+Rental-date: 2005-05-31 11:38:29
+
+----
+
+Return-date: 2005-06-02 08:06:29
+
+----
+
+Inventory: page://dhodv8PBZ8JA2Chq
+
+----
+
+Uuid: dOQuaq39rkcI27Zp
+
+----
+
+Customer: page://1Uz8TMpklCxhdMmv

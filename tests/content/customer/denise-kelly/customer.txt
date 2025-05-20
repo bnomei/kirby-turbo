@@ -1,0 +1,33 @@
+Title: DENISE KELLY
+
+----
+
+Customer-id: 74
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: DENISE
+
+----
+
+Last-name: KELLY
+
+----
+
+Email: DENISE.KELLY@sakilacustomer.org
+
+----
+
+Address: page://trJ3bNZobbWXNtqo
+
+----
+
+Active: 1
+
+----
+
+Uuid: DLbUVRHa13C72rZ2

@@ -1,0 +1,17 @@
+Title: Inv 104
+
+----
+
+Inventory-id: 104
+
+----
+
+Film: page://6HtTd3DElk5J2gos
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: lAlhwee4v3fm3lkW

@@ -1,0 +1,17 @@
+Title: Inv 756
+
+----
+
+Inventory-id: 756
+
+----
+
+Film: page://TL5LBeDFRujSDe5l
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: uX05kPHWdQUhsIQo

@@ -1,0 +1,42 @@
+Title: CENTER DINOSAUR
+
+----
+
+Actors:
+
+- 'page://AvkKtwk9lLurZvzW'
+- 'page://pW1gtWYG8hgYIJM4'
+- 'page://m11q5cdDfIefOEY5'
+- 'page://NRH2DcjJcFwzgjEd'
+
+----
+
+Film-id: 131
+
+----
+
+Description: A Beautiful Character Study of a Sumo Wrestler And a Dentist who must Find a Dog in California
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 152
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: dG1gmvAp9WM7LIHy
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

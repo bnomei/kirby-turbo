@@ -1,0 +1,33 @@
+Title: LESTER KRAUS
+
+----
+
+Customer-id: 492
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: LESTER
+
+----
+
+Last-name: KRAUS
+
+----
+
+Email: LESTER.KRAUS@sakilacustomer.org
+
+----
+
+Address: page://R7yesoC1AR6cYrV4
+
+----
+
+Active: 1
+
+----
+
+Uuid: hJsIj1OWdl6YyocQ

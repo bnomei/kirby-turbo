@@ -1,0 +1,25 @@
+Title: Rental 9669
+
+----
+
+Rental-id: 9669
+
+----
+
+Rental-date: 2005-07-31 06:31:36
+
+----
+
+Return-date: 2005-08-08 03:05:36
+
+----
+
+Inventory: page://TBXPnJD20Re20jjC
+
+----
+
+Customer: page://zHX2zrjQSr6qaLsM
+
+----
+
+Uuid: 3ed4rHlakQ2jcSnr

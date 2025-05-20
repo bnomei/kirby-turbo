@@ -1,0 +1,33 @@
+Title: CARLOS COUGHLIN
+
+----
+
+Customer-id: 379
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CARLOS
+
+----
+
+Last-name: COUGHLIN
+
+----
+
+Email: CARLOS.COUGHLIN@sakilacustomer.org
+
+----
+
+Address: page://fxComUmkdXSy7oHw
+
+----
+
+Active: 1
+
+----
+
+Uuid: siVW5dXKEILolbt4

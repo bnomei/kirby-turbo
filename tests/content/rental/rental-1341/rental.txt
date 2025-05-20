@@ -1,0 +1,25 @@
+Title: Rental 1341
+
+----
+
+Rental-id: 1341
+
+----
+
+Rental-date: 2005-06-15 12:26:18
+
+----
+
+Return-date: 2005-06-21 07:26:18
+
+----
+
+Inventory: page://qgZqeHKpDewfuamU
+
+----
+
+Uuid: 3EORLIKeiTOxLYVs
+
+----
+
+Customer: page://gEZ3qN9Yi6NtmTSr

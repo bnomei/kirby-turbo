@@ -1,0 +1,33 @@
+Title: ANDREW PURDY
+
+----
+
+Customer-id: 333
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ANDREW
+
+----
+
+Last-name: PURDY
+
+----
+
+Email: ANDREW.PURDY@sakilacustomer.org
+
+----
+
+Address: page://UVhk3pEqEOa0eGZZ
+
+----
+
+Active: 1
+
+----
+
+Uuid: CsIYfAHiugAHCCPA

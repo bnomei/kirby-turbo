@@ -1,0 +1,25 @@
+Title: Rental 1137
+
+----
+
+Rental-id: 1137
+
+----
+
+Rental-date: 2005-05-31 19:20:14
+
+----
+
+Return-date: 2005-06-07 16:10:14
+
+----
+
+Inventory: page://IRkE5o8WbZYpxTLA
+
+----
+
+Uuid: kypI4Ae6B4hfljNJ
+
+----
+
+Customer: page://UaSNpTp6KioYmoei

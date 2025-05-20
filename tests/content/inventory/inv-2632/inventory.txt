@@ -1,0 +1,17 @@
+Title: Inv 2632
+
+----
+
+Inventory-id: 2632
+
+----
+
+Film: page://Qlp8d71QWamdDJXq
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 6hZAbyAPflJUrdUA

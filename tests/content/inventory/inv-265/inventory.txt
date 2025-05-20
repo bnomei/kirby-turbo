@@ -1,0 +1,17 @@
+Title: Inv 265
+
+----
+
+Inventory-id: 265
+
+----
+
+Film: page://5NQTf4tRDgZfrmlY
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: EfNv1vJSG441Sebh

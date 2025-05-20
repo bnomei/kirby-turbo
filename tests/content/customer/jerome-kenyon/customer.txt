@@ -1,0 +1,33 @@
+Title: JEROME KENYON
+
+----
+
+Customer-id: 464
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JEROME
+
+----
+
+Last-name: KENYON
+
+----
+
+Email: JEROME.KENYON@sakilacustomer.org
+
+----
+
+Address: page://huOBGOgaWf0XA787
+
+----
+
+Active: 1
+
+----
+
+Uuid: EDwVrRHYpmzW6TLc

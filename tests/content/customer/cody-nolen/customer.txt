@@ -1,0 +1,33 @@
+Title: CODY NOLEN
+
+----
+
+Customer-id: 544
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: CODY
+
+----
+
+Last-name: NOLEN
+
+----
+
+Email: CODY.NOLEN@sakilacustomer.org
+
+----
+
+Address: page://ZY0jkqtSJz1ZXJvI
+
+----
+
+Active: 1
+
+----
+
+Uuid: T9MMayXBdDHCkZUr

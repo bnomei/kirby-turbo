@@ -1,0 +1,33 @@
+Title: RHONDA KENNEDY
+
+----
+
+Customer-id: 137
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: RHONDA
+
+----
+
+Last-name: KENNEDY
+
+----
+
+Email: RHONDA.KENNEDY@sakilacustomer.org
+
+----
+
+Address: page://BI6hjYHwkzh9mvIg
+
+----
+
+Active: 1
+
+----
+
+Uuid: JGObmqCrrIzDgkRb

@@ -1,0 +1,43 @@
+Title: PRINCESS GIANT
+
+----
+
+Actors:
+
+- 'page://2VTI7EzGP0O1IYVh'
+- 'page://KV54RGx9NMbLtwi4'
+- 'page://nfzjlyLmEQ6Q1S80'
+- 'page://nGhJyQbze3rAAH9v'
+- 'page://NRH2DcjJcFwzgjEd'
+
+----
+
+Film-id: 698
+
+----
+
+Description: A Thrilling Yarn of a Pastry Chef And a Monkey who must Battle a Monkey in A Shark Tank
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 71
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: BUqNPi4yEVE1H3K4
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

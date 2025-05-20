@@ -1,0 +1,17 @@
+Title: Inv 187
+
+----
+
+Inventory-id: 187
+
+----
+
+Film: page://EPwV3YKcC8UZO5c1
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: hqf2106WBwPWhf7s

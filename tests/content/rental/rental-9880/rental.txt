@@ -1,0 +1,25 @@
+Title: Rental 9880
+
+----
+
+Rental-id: 9880
+
+----
+
+Rental-date: 2005-07-31 13:49:02
+
+----
+
+Return-date: 2005-08-08 10:31:02
+
+----
+
+Inventory: page://BRFu1RyjPIpRluhJ
+
+----
+
+Customer: page://3MFUDX6nFKFz0caB
+
+----
+
+Uuid: ZLYkdnrVGDFyg84T

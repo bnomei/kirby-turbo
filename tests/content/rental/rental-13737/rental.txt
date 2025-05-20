@@ -1,0 +1,25 @@
+Title: Rental 13737
+
+----
+
+Rental-id: 13737
+
+----
+
+Rental-date: 2005-08-20 10:41:50
+
+----
+
+Return-date: 2005-08-25 14:33:50
+
+----
+
+Inventory: page://1eRhTVQdQtxbYX9P
+
+----
+
+Customer: page://9M7WmMyIHxnO6lL5
+
+----
+
+Uuid: 1ozTKnE5IuIC9XZ2

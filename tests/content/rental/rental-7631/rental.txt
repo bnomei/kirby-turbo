@@ -1,0 +1,25 @@
+Title: Rental 7631
+
+----
+
+Rental-id: 7631
+
+----
+
+Rental-date: 2005-07-28 01:01:15
+
+----
+
+Return-date: 2005-08-01 06:16:15
+
+----
+
+Inventory: page://jnnRzEcYAjZRY2M5
+
+----
+
+Customer: page://D2Jts8sZKuP5Z8RH
+
+----
+
+Uuid: 6pqfwLC0p6Ilsk6J

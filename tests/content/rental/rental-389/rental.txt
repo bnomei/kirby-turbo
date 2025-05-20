@@ -1,0 +1,25 @@
+Title: Rental 389
+
+----
+
+Rental-id: 389
+
+----
+
+Rental-date: 2005-05-27 10:45:41
+
+----
+
+Return-date: 2005-06-05 06:22:41
+
+----
+
+Inventory: page://FtkQ7jQePXQwP9VT
+
+----
+
+Uuid: eS81YNe89VMMn9vy
+
+----
+
+Customer: page://dCSTJjEmIHM7hQ5W

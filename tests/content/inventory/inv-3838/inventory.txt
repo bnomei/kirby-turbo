@@ -1,0 +1,17 @@
+Title: Inv 3838
+
+----
+
+Inventory-id: 3838
+
+----
+
+Film: page://RD5nIGLm058hSZAk
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Hu11I9LPVQTz6oFL

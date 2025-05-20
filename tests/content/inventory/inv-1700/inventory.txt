@@ -1,0 +1,17 @@
+Title: Inv 1700
+
+----
+
+Inventory-id: 1700
+
+----
+
+Film: page://bCaKrzrFoyWGdG2h
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: wWwfmlTPPawZFxs7

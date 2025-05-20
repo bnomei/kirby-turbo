@@ -1,0 +1,25 @@
+Title: Rental 9786
+
+----
+
+Rental-id: 9786
+
+----
+
+Rental-date: 2005-07-31 10:25:21
+
+----
+
+Return-date: 2005-08-03 04:28:21
+
+----
+
+Inventory: page://gXHYyAz0Q6H564BT
+
+----
+
+Customer: page://BepniifsBA7v57Xe
+
+----
+
+Uuid: 4fvofLxOirKRPuaR

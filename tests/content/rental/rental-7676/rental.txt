@@ -1,0 +1,25 @@
+Title: Rental 7676
+
+----
+
+Rental-id: 7676
+
+----
+
+Rental-date: 2005-07-28 02:55:27
+
+----
+
+Return-date: 2005-08-01 03:50:27
+
+----
+
+Inventory: page://kJ2zGr7fNufybiwB
+
+----
+
+Customer: page://mLxfpdMHHBnZwV7B
+
+----
+
+Uuid: Sk6fZzv56RaleE46

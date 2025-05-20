@@ -1,0 +1,48 @@
+Title: CHINATOWN GLADIATOR
+
+----
+
+Actors:
+
+- 'page://xbVuFnPKikNsqVkK'
+- 'page://NkG0QBqlgfweHNxN'
+- 'page://7FlTvfT4DDNge34z'
+- 'page://9NAEa97MvjisWbzN'
+- 'page://ZyRQLJXso6IqRkwR'
+- 'page://3oaBypMbXEPYhgeK'
+- 'page://MokGIRk1MnOR5ecX'
+- 'page://m11q5cdDfIefOEY5'
+- 'page://jSbKN9X4MDWI1G5U'
+- 'page://s3p9MagWJdWouacJ'
+
+----
+
+Film-id: 144
+
+----
+
+Description: A Brilliant Panorama of a Technical Writer And a Lumberjack who must Escape a Butler in Ancient India
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 61
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: A4mMAetwwjVO40Ca
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

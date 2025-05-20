@@ -1,0 +1,25 @@
+Title: Rental 8317
+
+----
+
+Rental-id: 8317
+
+----
+
+Rental-date: 2005-07-29 03:39:07
+
+----
+
+Return-date: 2005-08-03 00:14:07
+
+----
+
+Inventory: page://YK4nihyORkLYbaSi
+
+----
+
+Customer: page://A7gLRZtZiSgkz8K8
+
+----
+
+Uuid: MevPzVhR8BTEUCTz

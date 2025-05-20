@@ -1,0 +1,25 @@
+Title: Rental 4117
+
+----
+
+Rental-id: 4117
+
+----
+
+Rental-date: 2005-07-07 06:58:14
+
+----
+
+Return-date: 2005-07-16 05:28:14
+
+----
+
+Inventory: page://eDfXa9omFi85oThu
+
+----
+
+Uuid: mD5fgNR42BqK61Vl
+
+----
+
+Customer: page://EFq1BVursSqEGTmG

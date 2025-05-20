@@ -1,0 +1,25 @@
+Title: Rental 3457
+
+----
+
+Rental-id: 3457
+
+----
+
+Rental-date: 2005-06-21 21:42:33
+
+----
+
+Return-date: 2005-06-30 19:54:33
+
+----
+
+Inventory: page://Eb4H9cmRaK5M6Alf
+
+----
+
+Uuid: Tr9u98vTuk0Ol2tq
+
+----
+
+Customer: page://ppv8UwyuW8pv2cNH

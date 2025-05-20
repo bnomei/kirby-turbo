@@ -1,0 +1,17 @@
+Title: Inv 1693
+
+----
+
+Inventory-id: 1693
+
+----
+
+Film: page://BFGasPoqtLyEFozz
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Bs7AZ67EVXbeF8Rh

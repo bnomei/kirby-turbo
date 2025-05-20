@@ -1,0 +1,17 @@
+Title: Inv 4250
+
+----
+
+Inventory-id: 4250
+
+----
+
+Film: page://TJ5z7wiMOw9HUG1q
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 7CJNFmyBJRTIMFoo

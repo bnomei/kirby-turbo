@@ -1,0 +1,17 @@
+Title: Inv 706
+
+----
+
+Inventory-id: 706
+
+----
+
+Film: page://7iG7iKaB1YUU3AaN
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: gmCQTlyWW6B6cIUt

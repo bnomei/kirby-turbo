@@ -1,0 +1,25 @@
+Title: Rental 368
+
+----
+
+Rental-id: 368
+
+----
+
+Rental-date: 2005-05-27 07:42:29
+
+----
+
+Return-date: 2005-06-04 11:20:29
+
+----
+
+Inventory: page://yWkGni2uGB90YoD3
+
+----
+
+Uuid: mDL7QXRQ5HP5Udps
+
+----
+
+Customer: page://LGMzuvWnmjAofA2U

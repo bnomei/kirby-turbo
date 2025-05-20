@@ -1,0 +1,17 @@
+Title: Inv 927
+
+----
+
+Inventory-id: 927
+
+----
+
+Film: page://njs6WR15ox1MwRJf
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: XI2f5H2bBBE4FbT9

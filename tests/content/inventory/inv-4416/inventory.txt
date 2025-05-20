@@ -1,0 +1,17 @@
+Title: Inv 4416
+
+----
+
+Inventory-id: 4416
+
+----
+
+Film: page://jT2qphuszrqnOmXs
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: BpMdQE1FF5x6Z0yp

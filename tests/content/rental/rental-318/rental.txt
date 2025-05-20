@@ -1,0 +1,25 @@
+Title: Rental 318
+
+----
+
+Rental-id: 318
+
+----
+
+Rental-date: 2005-05-26 23:37:39
+
+----
+
+Return-date: 2005-06-03 04:31:39
+
+----
+
+Inventory: page://2J4xghdRFWNxJgUT
+
+----
+
+Uuid: TlEnQaMCns06ilDC
+
+----
+
+Customer: page://wPyg9sLQxXlxD9Q9

@@ -1,0 +1,17 @@
+Title: Inv 3540
+
+----
+
+Inventory-id: 3540
+
+----
+
+Film: page://SvEfXlMVGnfQgOtv
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 4iKjPgG7TwTFzUKa

@@ -1,0 +1,33 @@
+Title: PRISCILLA LOWE
+
+----
+
+Customer-id: 273
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: PRISCILLA
+
+----
+
+Last-name: LOWE
+
+----
+
+Email: PRISCILLA.LOWE@sakilacustomer.org
+
+----
+
+Address: page://x4XuUCJOrVNIrviK
+
+----
+
+Active: 1
+
+----
+
+Uuid: B4FRgaimwSexVazW

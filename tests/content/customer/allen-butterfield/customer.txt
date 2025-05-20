@@ -1,0 +1,33 @@
+Title: ALLEN BUTTERFIELD
+
+----
+
+Customer-id: 412
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ALLEN
+
+----
+
+Last-name: BUTTERFIELD
+
+----
+
+Email: ALLEN.BUTTERFIELD@sakilacustomer.org
+
+----
+
+Address: page://YNHyuVzsvH0Zyxw7
+
+----
+
+Active: 1
+
+----
+
+Uuid: 7L8rEdWDVFlYJ1mL

@@ -1,0 +1,17 @@
+Title: Inv 2063
+
+----
+
+Inventory-id: 2063
+
+----
+
+Film: page://Xvezg1HAGLbTRKmJ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: FYvQHLX2dEo9uB2I

@@ -1,0 +1,25 @@
+Title: Rental 2095
+
+----
+
+Rental-id: 2095
+
+----
+
+Rental-date: 2005-06-17 18:21:35
+
+----
+
+Return-date: 2005-06-23 23:49:35
+
+----
+
+Inventory: page://K6BuZ8zBRmBouBHR
+
+----
+
+Uuid: Hjev0rSqVqyiQcoK
+
+----
+
+Customer: page://sYyRIy15jUUAajVC

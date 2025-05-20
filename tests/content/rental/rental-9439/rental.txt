@@ -1,0 +1,25 @@
+Title: Rental 9439
+
+----
+
+Rental-id: 9439
+
+----
+
+Rental-date: 2005-07-30 21:38:12
+
+----
+
+Return-date: 2005-08-06 00:03:12
+
+----
+
+Inventory: page://Lkky1RkmZcreF5RN
+
+----
+
+Customer: page://fEgNYhgaLDG3CQLU
+
+----
+
+Uuid: SvvP01Udx2Eh8wbu

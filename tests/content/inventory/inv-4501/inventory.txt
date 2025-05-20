@@ -1,0 +1,17 @@
+Title: Inv 4501
+
+----
+
+Inventory-id: 4501
+
+----
+
+Film: page://h96BO6lDsQ8BHOhV
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: auKAokHqbjtm4yPJ

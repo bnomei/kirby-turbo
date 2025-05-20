@@ -1,0 +1,25 @@
+Title: Rental 12822
+
+----
+
+Rental-id: 12822
+
+----
+
+Rental-date: 2005-08-19 01:15:24
+
+----
+
+Return-date: 2005-08-20 06:38:24
+
+----
+
+Inventory: page://P72okqc8JVbfEzTB
+
+----
+
+Customer: page://bm01Zh4gvYAGmd89
+
+----
+
+Uuid: 9w6vSmjp4y4m20CT

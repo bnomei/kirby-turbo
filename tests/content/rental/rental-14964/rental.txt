@@ -1,0 +1,25 @@
+Title: Rental 14964
+
+----
+
+Rental-id: 14964
+
+----
+
+Rental-date: 2005-08-22 06:39:24
+
+----
+
+Return-date: 2005-08-26 06:05:24
+
+----
+
+Inventory: page://J5Aiwl9TZM8bgBvx
+
+----
+
+Customer: page://dCSTJjEmIHM7hQ5W
+
+----
+
+Uuid: x8EPHjOZUZpq5fs1

@@ -1,0 +1,25 @@
+Title: Rental 3428
+
+----
+
+Rental-id: 3428
+
+----
+
+Rental-date: 2005-06-21 18:39:34
+
+----
+
+Return-date: 2005-06-22 18:23:34
+
+----
+
+Inventory: page://SfwahVruppXLhh3d
+
+----
+
+Uuid: dUGQTk5m9G8IWJJk
+
+----
+
+Customer: page://mKUSHxTkOIWhbbql

@@ -1,0 +1,17 @@
+Title: Inv 923
+
+----
+
+Inventory-id: 923
+
+----
+
+Film: page://yWGZAev1Zb3s0bnw
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ralX326DIaSnapmj

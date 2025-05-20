@@ -1,0 +1,17 @@
+Title: Inv 4249
+
+----
+
+Inventory-id: 4249
+
+----
+
+Film: page://TJ5z7wiMOw9HUG1q
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 7GXJo00ltY4zCAQu

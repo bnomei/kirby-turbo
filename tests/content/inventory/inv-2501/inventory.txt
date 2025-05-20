@@ -1,0 +1,17 @@
+Title: Inv 2501
+
+----
+
+Inventory-id: 2501
+
+----
+
+Film: page://ye42nC8g5oTVQ0ZU
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: qRBXDdxkIrhmKxN1

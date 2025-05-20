@@ -1,0 +1,25 @@
+Title: Rental 5924
+
+----
+
+Rental-id: 5924
+
+----
+
+Rental-date: 2005-07-10 21:41:23
+
+----
+
+Return-date: 2005-07-16 21:33:23
+
+----
+
+Inventory: page://W1d8RAaOfVSSxykl
+
+----
+
+Uuid: fchK55G7jaOgQhnB
+
+----
+
+Customer: page://bHbo1PFIkaygpNBz

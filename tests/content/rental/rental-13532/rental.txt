@@ -1,0 +1,25 @@
+Title: Rental 13532
+
+----
+
+Rental-id: 13532
+
+----
+
+Rental-date: 2005-08-20 03:29:28
+
+----
+
+Return-date: 2005-08-23 22:53:28
+
+----
+
+Inventory: page://MjDjz8DumPInW1Af
+
+----
+
+Customer: page://kgSm33zdyJ1gD7mK
+
+----
+
+Uuid: vgXRg7l9DyLqbQty

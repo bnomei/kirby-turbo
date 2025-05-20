@@ -1,0 +1,21 @@
+Title: Rental 14374
+
+----
+
+Rental-id: 14374
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://HgTawz6u5M06P3HR
+
+----
+
+Customer: page://SXP8ih15ziLTUonG
+
+----
+
+Uuid: 9fbKAcTpvakV8gkW

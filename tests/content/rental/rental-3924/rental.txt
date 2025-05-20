@@ -1,0 +1,25 @@
+Title: Rental 3924
+
+----
+
+Rental-id: 3924
+
+----
+
+Rental-date: 2005-07-06 20:38:02
+
+----
+
+Return-date: 2005-07-11 23:35:02
+
+----
+
+Inventory: page://hqf2106WBwPWhf7s
+
+----
+
+Uuid: ZsJ0Gj9Wbw5iuoCE
+
+----
+
+Customer: page://tmz3xyyMIWwOAlZu

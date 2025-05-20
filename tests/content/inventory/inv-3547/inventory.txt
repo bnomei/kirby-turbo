@@ -1,0 +1,17 @@
+Title: Inv 3547
+
+----
+
+Inventory-id: 3547
+
+----
+
+Film: page://ZeOs3QdCKvQUL6Gw
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: NREqVvTA3r8eZ0W1

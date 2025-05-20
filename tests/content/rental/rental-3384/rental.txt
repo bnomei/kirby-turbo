@@ -1,0 +1,25 @@
+Title: Rental 3384
+
+----
+
+Rental-id: 3384
+
+----
+
+Rental-date: 2005-06-21 14:07:35
+
+----
+
+Return-date: 2005-06-26 16:34:35
+
+----
+
+Inventory: page://TYN3QlpN49f6jjSH
+
+----
+
+Uuid: xd5a9MgpCIZRpmn0
+
+----
+
+Customer: page://OukV1G0vQXX07Xku

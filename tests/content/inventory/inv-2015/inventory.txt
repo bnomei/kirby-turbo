@@ -1,0 +1,17 @@
+Title: Inv 2015
+
+----
+
+Inventory-id: 2015
+
+----
+
+Film: page://TM1OS1axuCzRnxfJ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 8ig2Bh3GpE6JcOz8

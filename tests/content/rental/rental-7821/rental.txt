@@ -1,0 +1,25 @@
+Title: Rental 7821
+
+----
+
+Rental-id: 7821
+
+----
+
+Rental-date: 2005-07-28 08:31:23
+
+----
+
+Return-date: 2005-08-03 05:08:23
+
+----
+
+Inventory: page://aD46ArpI1mXihgZm
+
+----
+
+Customer: page://Dq5hnVeftFV5vuu5
+
+----
+
+Uuid: gEwe2zeRInK3bUJJ

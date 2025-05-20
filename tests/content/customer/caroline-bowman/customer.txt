@@ -1,0 +1,33 @@
+Title: CAROLINE BOWMAN
+
+----
+
+Customer-id: 248
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CAROLINE
+
+----
+
+Last-name: BOWMAN
+
+----
+
+Email: CAROLINE.BOWMAN@sakilacustomer.org
+
+----
+
+Address: page://YQX3nQrl2eErpjVd
+
+----
+
+Active: 1
+
+----
+
+Uuid: Qi4JrRnZX0esVTiK

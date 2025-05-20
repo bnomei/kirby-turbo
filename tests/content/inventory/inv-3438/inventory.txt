@@ -1,0 +1,17 @@
+Title: Inv 3438
+
+----
+
+Inventory-id: 3438
+
+----
+
+Film: page://qWX4AUrS1elOCyrn
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ZAnPk7Da2mSc9hY7

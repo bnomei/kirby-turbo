@@ -1,0 +1,33 @@
+Title: CHESTER BENNER
+
+----
+
+Customer-id: 511
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CHESTER
+
+----
+
+Last-name: BENNER
+
+----
+
+Email: CHESTER.BENNER@sakilacustomer.org
+
+----
+
+Address: page://whnKwRCwZg3LPqc7
+
+----
+
+Active: 1
+
+----
+
+Uuid: HrN99fyzUbUZdiNT

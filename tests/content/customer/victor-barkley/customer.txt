@@ -1,0 +1,33 @@
+Title: VICTOR BARKLEY
+
+----
+
+Customer-id: 382
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: VICTOR
+
+----
+
+Last-name: BARKLEY
+
+----
+
+Email: VICTOR.BARKLEY@sakilacustomer.org
+
+----
+
+Address: page://TGWK38JkhsdNfnW5
+
+----
+
+Active: 1
+
+----
+
+Uuid: ZuUWmxbKilRmIFgl

@@ -1,0 +1,25 @@
+Title: Rental 6900
+
+----
+
+Rental-id: 6900
+
+----
+
+Rental-date: 2005-07-12 21:45:25
+
+----
+
+Return-date: 2005-07-19 21:19:25
+
+----
+
+Inventory: page://Czs341PWvU2X9GhZ
+
+----
+
+Customer: page://TxY88rwk6w3N9jKC
+
+----
+
+Uuid: 4Es7cNLtTBSTd9L6

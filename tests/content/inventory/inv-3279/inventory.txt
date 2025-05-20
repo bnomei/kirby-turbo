@@ -1,0 +1,17 @@
+Title: Inv 3279
+
+----
+
+Inventory-id: 3279
+
+----
+
+Film: page://0kAw1PNKkjKg2Rgu
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: SR82KdZJJkOZUPG7

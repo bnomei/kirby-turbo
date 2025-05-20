@@ -1,0 +1,25 @@
+Title: Rental 9251
+
+----
+
+Rental-id: 9251
+
+----
+
+Rental-date: 2005-07-30 14:19:25
+
+----
+
+Return-date: 2005-08-08 11:22:25
+
+----
+
+Inventory: page://HxBAg4I27vANZIK2
+
+----
+
+Customer: page://pqDg6kDmCdvbDclp
+
+----
+
+Uuid: U6yk6fhXxbfWx1Sy

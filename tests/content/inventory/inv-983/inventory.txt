@@ -1,0 +1,17 @@
+Title: Inv 983
+
+----
+
+Inventory-id: 983
+
+----
+
+Film: page://heY8YYj8hEt1MT7j
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: XVWpr9TFcvI0s7lq

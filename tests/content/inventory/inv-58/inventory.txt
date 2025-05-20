@@ -1,0 +1,17 @@
+Title: Inv 58
+
+----
+
+Inventory-id: 58
+
+----
+
+Film: page://JsY4QTSwkYca4ctu
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: vt3lRBJhHGb1ZKnP

@@ -1,0 +1,25 @@
+Title: Rental 11079
+
+----
+
+Rental-id: 11079
+
+----
+
+Rental-date: 2005-08-02 07:29:10
+
+----
+
+Return-date: 2005-08-07 01:59:10
+
+----
+
+Inventory: page://W9O30R5zwcI8B983
+
+----
+
+Customer: page://c7lkRFQFPsFgIejg
+
+----
+
+Uuid: BqlbHTeE1L8T8Jpr

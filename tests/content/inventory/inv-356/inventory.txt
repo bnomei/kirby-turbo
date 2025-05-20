@@ -1,0 +1,17 @@
+Title: Inv 356
+
+----
+
+Inventory-id: 356
+
+----
+
+Film: page://iy0a104HjhjHKgsH
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: uRnYebNBcQ4TsyKK

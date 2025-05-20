@@ -1,0 +1,17 @@
+Title: Inv 3371
+
+----
+
+Inventory-id: 3371
+
+----
+
+Film: page://2pmbZu2tomx861FS
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: kFChtYCIg9ocLxRj

@@ -1,0 +1,25 @@
+Title: Rental 6471
+
+----
+
+Rental-id: 6471
+
+----
+
+Rental-date: 2005-07-12 01:31:06
+
+----
+
+Return-date: 2005-07-13 05:26:06
+
+----
+
+Inventory: page://ZY6pJXyfWlEvjbJx
+
+----
+
+Uuid: 9X9NBJIr8jIPSm6w
+
+----
+
+Customer: page://C7Yyvdwc8g6atULR

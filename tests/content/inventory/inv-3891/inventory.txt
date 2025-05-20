@@ -1,0 +1,17 @@
+Title: Inv 3891
+
+----
+
+Inventory-id: 3891
+
+----
+
+Film: page://kCQk0Lz7pqypJ6Wf
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: tgdQg3jb3ohQZBIL

@@ -1,0 +1,25 @@
+Title: Rental 1910
+
+----
+
+Rental-id: 1910
+
+----
+
+Rental-date: 2005-06-17 05:11:27
+
+----
+
+Return-date: 2005-06-23 23:16:27
+
+----
+
+Inventory: page://B2t5aca3g0NnjDtv
+
+----
+
+Uuid: vcwrr0t3TiK64WKH
+
+----
+
+Customer: page://aR5C6yOEP2AWS3bi

@@ -1,0 +1,25 @@
+Title: Rental 1100
+
+----
+
+Rental-id: 1100
+
+----
+
+Rental-date: 2005-05-31 14:03:21
+
+----
+
+Return-date: 2005-06-06 16:08:21
+
+----
+
+Inventory: page://3EzjVzbjnBIX3RjO
+
+----
+
+Uuid: wUm7doLC4m5lljBq
+
+----
+
+Customer: page://2MUlemyyzPeXt7QE

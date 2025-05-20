@@ -1,0 +1,21 @@
+Title: Rental 13952
+
+----
+
+Rental-id: 13952
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://SslYnbu4FsJeK01u
+
+----
+
+Customer: page://aR5C6yOEP2AWS3bi
+
+----
+
+Uuid: J7zx9iI8rrosM7TS

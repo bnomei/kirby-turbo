@@ -1,0 +1,25 @@
+Title: Rental 4230
+
+----
+
+Rental-id: 4230
+
+----
+
+Rental-date: 2005-07-07 12:46:47
+
+----
+
+Return-date: 2005-07-15 06:52:47
+
+----
+
+Inventory: page://98QhjJ2lZ7hPTzPz
+
+----
+
+Uuid: M4MuyuL6Mpv230Ej
+
+----
+
+Customer: page://aZnDcwJX7i5ifkQq

@@ -1,0 +1,25 @@
+Title: Rental 1397
+
+----
+
+Rental-id: 1397
+
+----
+
+Rental-date: 2005-06-15 16:25:26
+
+----
+
+Return-date: 2005-06-21 20:45:26
+
+----
+
+Inventory: page://a9B3urJX0gI68Ug2
+
+----
+
+Uuid: 3zrV41xaNGiXwern
+
+----
+
+Customer: page://P5692hWxDSp2ZLGu

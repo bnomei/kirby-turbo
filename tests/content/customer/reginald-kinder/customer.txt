@@ -1,0 +1,33 @@
+Title: REGINALD KINDER
+
+----
+
+Customer-id: 500
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: REGINALD
+
+----
+
+Last-name: KINDER
+
+----
+
+Email: REGINALD.KINDER@sakilacustomer.org
+
+----
+
+Address: page://ZUDKEi3EYc1c0P3J
+
+----
+
+Active: 1
+
+----
+
+Uuid: dCSTJjEmIHM7hQ5W

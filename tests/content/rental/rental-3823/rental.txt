@@ -1,0 +1,25 @@
+Title: Rental 3823
+
+----
+
+Rental-id: 3823
+
+----
+
+Rental-date: 2005-07-06 15:41:27
+
+----
+
+Return-date: 2005-07-09 09:48:27
+
+----
+
+Inventory: page://UoM3Thtz5lboUbrN
+
+----
+
+Uuid: dhiLCndJ6gabTWjX
+
+----
+
+Customer: page://EuCelU8WBhgPVGZL

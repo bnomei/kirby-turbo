@@ -1,0 +1,17 @@
+Title: Inv 4101
+
+----
+
+Inventory-id: 4101
+
+----
+
+Film: page://TA76R8F61TYUcZhH
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: FcLEeWYcfAFeO7zJ

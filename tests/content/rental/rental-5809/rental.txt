@@ -1,0 +1,25 @@
+Title: Rental 5809
+
+----
+
+Rental-id: 5809
+
+----
+
+Rental-date: 2005-07-10 15:19:30
+
+----
+
+Return-date: 2005-07-13 12:31:30
+
+----
+
+Inventory: page://Z5S7s47XJtyXIsMR
+
+----
+
+Uuid: cuvBLSTlMMgjOxe4
+
+----
+
+Customer: page://NRYxn443K39MMQN1

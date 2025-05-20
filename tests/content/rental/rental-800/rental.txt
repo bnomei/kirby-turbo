@@ -1,0 +1,25 @@
+Title: Rental 800
+
+----
+
+Rental-id: 800
+
+----
+
+Rental-date: 2005-05-29 17:28:12
+
+----
+
+Return-date: 2005-05-30 14:59:12
+
+----
+
+Inventory: page://OmNDtgsC2ZWfJtqO
+
+----
+
+Uuid: Q3Will3GFNTuqDvV
+
+----
+
+Customer: page://LJEK6IMnfzlMyzBj

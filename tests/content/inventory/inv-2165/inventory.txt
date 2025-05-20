@@ -1,0 +1,17 @@
+Title: Inv 2165
+
+----
+
+Inventory-id: 2165
+
+----
+
+Film: page://mEVtoHPdwzg7XWhq
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: KR1TSQRzC07UisxW

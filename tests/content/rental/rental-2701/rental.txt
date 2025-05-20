@@ -1,0 +1,25 @@
+Title: Rental 2701
+
+----
+
+Rental-id: 2701
+
+----
+
+Rental-date: 2005-06-19 13:33:06
+
+----
+
+Return-date: 2005-06-28 15:11:06
+
+----
+
+Inventory: page://H5wVPsaugARaZvbE
+
+----
+
+Uuid: VjhIHwZSxash5iLM
+
+----
+
+Customer: page://c7lkRFQFPsFgIejg

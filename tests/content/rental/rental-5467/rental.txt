@@ -1,0 +1,25 @@
+Title: Rental 5467
+
+----
+
+Rental-id: 5467
+
+----
+
+Rental-date: 2005-07-09 23:05:47
+
+----
+
+Return-date: 2005-07-16 17:06:47
+
+----
+
+Inventory: page://QJBoxkrl5m4JOdTC
+
+----
+
+Uuid: 8TmUJMESrhOTuAWd
+
+----
+
+Customer: page://DmLqAKJqqCmbO2QP

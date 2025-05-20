@@ -1,0 +1,17 @@
+Title: Inv 916
+
+----
+
+Inventory-id: 916
+
+----
+
+Film: page://hA8gBsJZ3UKwY7vG
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: IUVY6hbyJeHvUzZj

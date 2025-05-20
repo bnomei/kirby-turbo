@@ -1,0 +1,25 @@
+Title: Rental 9909
+
+----
+
+Rental-id: 9909
+
+----
+
+Rental-date: 2005-07-31 14:43:34
+
+----
+
+Return-date: 2005-08-09 15:31:34
+
+----
+
+Inventory: page://xRxHr7b4zicI3bjw
+
+----
+
+Customer: page://B7BnhDPJcre02BJt
+
+----
+
+Uuid: oy7jGr9PJvZshiMe

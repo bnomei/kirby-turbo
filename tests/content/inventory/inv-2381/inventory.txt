@@ -1,0 +1,17 @@
+Title: Inv 2381
+
+----
+
+Inventory-id: 2381
+
+----
+
+Film: page://7yHz5H1jX29qUYgS
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: DWliKNFxGvfZ24cI

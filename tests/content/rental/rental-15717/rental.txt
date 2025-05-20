@@ -1,0 +1,21 @@
+Title: Rental 15717
+
+----
+
+Rental-id: 15717
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://7fSGxYMaFm5ptSTM
+
+----
+
+Customer: page://cnvPsOJZCE8gIQ4P
+
+----
+
+Uuid: 5s3A6lfw0weubQq9

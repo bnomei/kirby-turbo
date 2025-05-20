@@ -1,0 +1,25 @@
+Title: Rental 10833
+
+----
+
+Rental-id: 10833
+
+----
+
+Rental-date: 2005-08-01 23:25:55
+
+----
+
+Return-date: 2005-08-10 18:01:55
+
+----
+
+Inventory: page://5PWLOTyKQPIwZTpi
+
+----
+
+Customer: page://B6FDvvDBHRaKmtPn
+
+----
+
+Uuid: wIPiACP6WpXmGGLX

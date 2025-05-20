@@ -1,0 +1,17 @@
+Title: Inv 216
+
+----
+
+Inventory-id: 216
+
+----
+
+Film: page://WXq95CIaw2UE281Z
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: hkDZbUSJoEl9EObj

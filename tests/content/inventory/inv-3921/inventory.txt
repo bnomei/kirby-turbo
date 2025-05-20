@@ -1,0 +1,17 @@
+Title: Inv 3921
+
+----
+
+Inventory-id: 3921
+
+----
+
+Film: page://ub96YyrefbgE7aUK
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: CahRZauENqwpnuLH

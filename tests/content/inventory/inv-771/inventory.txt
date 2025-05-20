@@ -1,0 +1,17 @@
+Title: Inv 771
+
+----
+
+Inventory-id: 771
+
+----
+
+Film: page://aw00Hi0tBVlwX0SQ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: CwuNmUMu8kOq6ZUP

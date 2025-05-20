@@ -1,0 +1,17 @@
+Title: Inv 605
+
+----
+
+Inventory-id: 605
+
+----
+
+Film: page://dG1gmvAp9WM7LIHy
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: iUFIjTJh9SQPI4tR

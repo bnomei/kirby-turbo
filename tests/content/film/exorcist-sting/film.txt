@@ -1,0 +1,43 @@
+Title: EXORCIST STING
+
+----
+
+Actors:
+
+- 'page://e0jga56TJCBrOXvD'
+- 'page://k43wur9uhLztfZOP'
+- 'page://eZEz0vHTFLlEKlUs'
+- 'page://G2CRwpBQJFawgg9Y'
+- 'page://zrJrW5pbY6A6t722'
+
+----
+
+Film-id: 293
+
+----
+
+Description: A Touching Drama of a Dog And a Sumo Wrestler who must Conquer a Mad Scientist in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 167
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: FMaEBFzaAtTRGtQm
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

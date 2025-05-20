@@ -1,0 +1,25 @@
+Title: Rental 15954
+
+----
+
+Rental-id: 15954
+
+----
+
+Rental-date: 2005-08-23 19:14:07
+
+----
+
+Return-date: 2005-08-24 20:21:07
+
+----
+
+Inventory: page://AhHvpnZ4VSJbCYoL
+
+----
+
+Customer: page://8rYUMFeo4rjtDGSj
+
+----
+
+Uuid: jT3t4BXHXcZaeKCB

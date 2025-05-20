@@ -1,0 +1,33 @@
+Title: JOY GEORGE
+
+----
+
+Customer-id: 230
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JOY
+
+----
+
+Last-name: GEORGE
+
+----
+
+Email: JOY.GEORGE@sakilacustomer.org
+
+----
+
+Address: page://yRXgJOGKR2siDbyK
+
+----
+
+Active: 1
+
+----
+
+Uuid: ltxKpaFHuKcnO7ee

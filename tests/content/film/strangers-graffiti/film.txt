@@ -1,0 +1,43 @@
+Title: STRANGERS GRAFFITI
+
+----
+
+Actors:
+
+- 'page://osa3qsECAnV3MAu4'
+- 'page://oEbdYNCKFrP9NVLv'
+- 'page://JeeyeDJ3FmxSMbIy'
+- 'page://3oaBypMbXEPYhgeK'
+- 'page://uyiPyWfxhKFdwYKL'
+
+----
+
+Film-id: 854
+
+----
+
+Description: A Brilliant Character Study of a Secret Agent And a Man who must Find a Cat in The Gulf of Mexico
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 119
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: jc625Y6KCs37MnEK
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

@@ -1,0 +1,25 @@
+Title: Rental 285
+
+----
+
+Rental-id: 285
+
+----
+
+Rental-date: 2005-05-26 19:41:40
+
+----
+
+Return-date: 2005-05-31 16:58:40
+
+----
+
+Inventory: page://a1iPdadZTMiLeyLs
+
+----
+
+Uuid: OYIrPxqvZ7gfvY8g
+
+----
+
+Customer: page://ZE8wStFA2oAHt4TP

@@ -1,0 +1,40 @@
+Title: ITALIAN AFRICAN
+
+----
+
+Actors:
+
+- 'page://q71V781JfgIPJGVL'
+- 'page://EIh5zoCTJV7UmSi4'
+
+----
+
+Film-id: 472
+
+----
+
+Description: A Astounding Character Study of a Monkey And a Moose who must Outgun a Cat in A U-Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 174
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: R2wvTa4x8TmzD8Lq
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

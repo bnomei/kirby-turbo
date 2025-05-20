@@ -1,0 +1,25 @@
+Title: Rental 3614
+
+----
+
+Rental-id: 3614
+
+----
+
+Rental-date: 2005-07-06 05:46:05
+
+----
+
+Return-date: 2005-07-11 01:24:05
+
+----
+
+Inventory: page://J074V5yw2yLvwWEI
+
+----
+
+Uuid: 5sVuGsDezkoKRK8M
+
+----
+
+Customer: page://9bRTDRu3HEwd7H8l

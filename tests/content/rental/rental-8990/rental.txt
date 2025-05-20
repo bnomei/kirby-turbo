@@ -1,0 +1,25 @@
+Title: Rental 8990
+
+----
+
+Rental-id: 8990
+
+----
+
+Rental-date: 2005-07-30 04:41:42
+
+----
+
+Return-date: 2005-08-07 22:50:42
+
+----
+
+Inventory: page://5wkimoc40shkKqI1
+
+----
+
+Customer: page://TxY88rwk6w3N9jKC
+
+----
+
+Uuid: LpB4TOihq0sd2JJ9

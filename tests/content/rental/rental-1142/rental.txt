@@ -1,0 +1,25 @@
+Title: Rental 1142
+
+----
+
+Rental-id: 1142
+
+----
+
+Rental-date: 2005-05-31 19:46:38
+
+----
+
+Return-date: 2005-06-05 14:03:38
+
+----
+
+Inventory: page://1ZEKTHw5JWysw8ia
+
+----
+
+Uuid: RCIw63DYnIvqMv4z
+
+----
+
+Customer: page://stFkFNmIWPMkzEB2

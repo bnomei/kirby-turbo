@@ -1,0 +1,25 @@
+Title: Rental 779
+
+----
+
+Rental-id: 779
+
+----
+
+Rental-date: 2005-05-29 14:17:17
+
+----
+
+Return-date: 2005-06-06 16:46:17
+
+----
+
+Inventory: page://UiKe6DOwGZItBs2H
+
+----
+
+Uuid: kqyWMNakS9ehrshf
+
+----
+
+Customer: page://Pif8NPYHuv0Na4Zs

@@ -1,0 +1,17 @@
+Title: Inv 1483
+
+----
+
+Inventory-id: 1483
+
+----
+
+Film: page://4qllX4lclo3VoZcl
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 3TK4je54BTydtzWU

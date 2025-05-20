@@ -1,0 +1,25 @@
+Title: Rental 3484
+
+----
+
+Rental-id: 3484
+
+----
+
+Rental-date: 2005-07-05 23:23:11
+
+----
+
+Return-date: 2005-07-11 00:27:11
+
+----
+
+Inventory: page://OVyUjyF4fTZ6xXtg
+
+----
+
+Uuid: MXU552ozZZlBeRWR
+
+----
+
+Customer: page://tmz3xyyMIWwOAlZu

@@ -1,0 +1,25 @@
+Title: Rental 5239
+
+----
+
+Rental-id: 5239
+
+----
+
+Rental-date: 2005-07-09 13:12:35
+
+----
+
+Return-date: 2005-07-10 13:37:35
+
+----
+
+Inventory: page://grcM0ls8qYFYXZxR
+
+----
+
+Uuid: 8iWvrs7ij5CQqiW1
+
+----
+
+Customer: page://2MUlemyyzPeXt7QE

@@ -1,0 +1,17 @@
+Title: Inv 1286
+
+----
+
+Inventory-id: 1286
+
+----
+
+Film: page://EQSADmhd1pq4x4wf
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ggz7sKxVpNdgu2iG

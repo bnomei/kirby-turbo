@@ -1,0 +1,33 @@
+Title: DOUGLAS GRAF
+
+----
+
+Customer-id: 343
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: DOUGLAS
+
+----
+
+Last-name: GRAF
+
+----
+
+Email: DOUGLAS.GRAF@sakilacustomer.org
+
+----
+
+Address: page://jrsglJI9JKTWw27R
+
+----
+
+Active: 1
+
+----
+
+Uuid: yuQ0ATSAaA5g7ZDj

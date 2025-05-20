@@ -1,0 +1,25 @@
+Title: Rental 11602
+
+----
+
+Rental-id: 11602
+
+----
+
+Rental-date: 2005-08-17 03:21:19
+
+----
+
+Return-date: 2005-08-19 05:23:19
+
+----
+
+Inventory: page://RbO3N33JRtvKgbRE
+
+----
+
+Customer: page://PkN2CyC6PbKojoAi
+
+----
+
+Uuid: adtBOX7RuRopDev2

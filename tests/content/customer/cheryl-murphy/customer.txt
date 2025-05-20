@@ -1,0 +1,33 @@
+Title: CHERYL MURPHY
+
+----
+
+Customer-id: 59
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CHERYL
+
+----
+
+Last-name: MURPHY
+
+----
+
+Email: CHERYL.MURPHY@sakilacustomer.org
+
+----
+
+Address: page://7NU0IMIl9wbGokTI
+
+----
+
+Active: 1
+
+----
+
+Uuid: C4bxh4ih8ABx3B30

@@ -1,0 +1,25 @@
+Title: Rental 10832
+
+----
+
+Rental-id: 10832
+
+----
+
+Rental-date: 2005-08-01 23:24:53
+
+----
+
+Return-date: 2005-08-06 23:18:53
+
+----
+
+Inventory: page://s0GKi7IU2KE3dj4i
+
+----
+
+Customer: page://z84M1eOE64VO5Dm4
+
+----
+
+Uuid: BAw7DJY3vZRGGfql

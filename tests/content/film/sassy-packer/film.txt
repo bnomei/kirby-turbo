@@ -1,0 +1,41 @@
+Title: SASSY PACKER
+
+----
+
+Actors:
+
+- 'page://WmeC1S3wVV4gdFE4'
+- 'page://k43wur9uhLztfZOP'
+- 'page://kglHBUzvM27ekW4e'
+
+----
+
+Film-id: 762
+
+----
+
+Description: A Fast-Paced Documentary of a Dog And a Teacher who must Find a Moose in A Manhattan Penthouse
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 154
+
+----
+
+Rating: G
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: ckFMabVsFap9cexZ
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

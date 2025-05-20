@@ -1,0 +1,25 @@
+Title: Rental 369
+
+----
+
+Rental-id: 369
+
+----
+
+Rental-date: 2005-05-27 07:46:49
+
+----
+
+Return-date: 2005-06-01 06:20:49
+
+----
+
+Inventory: page://lKt1SQIMBbqb22Ct
+
+----
+
+Uuid: cLvHCALxYH2jRuvk
+
+----
+
+Customer: page://mLxfpdMHHBnZwV7B

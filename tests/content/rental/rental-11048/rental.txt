@@ -1,0 +1,25 @@
+Title: Rental 11048
+
+----
+
+Rental-id: 11048
+
+----
+
+Rental-date: 2005-08-02 06:15:07
+
+----
+
+Return-date: 2005-08-04 02:47:07
+
+----
+
+Inventory: page://cH0DNw3fgyf6iSeP
+
+----
+
+Customer: page://kAtIvC3GuVrHNW6C
+
+----
+
+Uuid: 0xUnr7DtSfT8ehaC

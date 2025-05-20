@@ -1,0 +1,33 @@
+Title: ALLAN CORNISH
+
+----
+
+Customer-id: 548
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ALLAN
+
+----
+
+Last-name: CORNISH
+
+----
+
+Email: ALLAN.CORNISH@sakilacustomer.org
+
+----
+
+Address: page://NMfe2gVEAhi5T6GI
+
+----
+
+Active: 1
+
+----
+
+Uuid: LhhA1dQUaMKURas0

@@ -1,0 +1,25 @@
+Title: Rental 8232
+
+----
+
+Rental-id: 8232
+
+----
+
+Rental-date: 2005-07-29 00:14:37
+
+----
+
+Return-date: 2005-08-06 00:57:37
+
+----
+
+Inventory: page://465oiO7YBJyaGq6J
+
+----
+
+Customer: page://yQcQ1eHjHG2TC2t0
+
+----
+
+Uuid: cZmiyl3TDr4qr00j

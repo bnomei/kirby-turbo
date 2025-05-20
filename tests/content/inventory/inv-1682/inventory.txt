@@ -1,0 +1,17 @@
+Title: Inv 1682
+
+----
+
+Inventory-id: 1682
+
+----
+
+Film: page://9aeTkPa9TpoKnUMY
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: H9kPHYa2DSnueb0y

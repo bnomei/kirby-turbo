@@ -1,0 +1,25 @@
+Title: Rental 5066
+
+----
+
+Rental-id: 5066
+
+----
+
+Rental-date: 2005-07-09 04:48:50
+
+----
+
+Return-date: 2005-07-12 22:54:50
+
+----
+
+Inventory: page://yA41ldIaPmVIYbBo
+
+----
+
+Uuid: PpwJH4s5RaHjxOhk
+
+----
+
+Customer: page://7Q9Tqy8Zdd9t8aWy

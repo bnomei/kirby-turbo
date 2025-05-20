@@ -1,0 +1,25 @@
+Title: Rental 11718
+
+----
+
+Rental-id: 11718
+
+----
+
+Rental-date: 2005-08-17 07:44:42
+
+----
+
+Return-date: 2005-08-23 03:02:42
+
+----
+
+Inventory: page://36ahh3dkIVIkqeci
+
+----
+
+Customer: page://lsHQKiMkRVDTWpEH
+
+----
+
+Uuid: j46IBaZ3mdiioJZb

@@ -1,0 +1,25 @@
+Title: Rental 3934
+
+----
+
+Rental-id: 3934
+
+----
+
+Rental-date: 2005-07-06 21:07:23
+
+----
+
+Return-date: 2005-07-10 18:20:23
+
+----
+
+Inventory: page://4TL4DAkNWqgXGMi9
+
+----
+
+Uuid: d2yYZNIoMTWTF9uq
+
+----
+
+Customer: page://XIaKK8hOYK8JJ3Lj

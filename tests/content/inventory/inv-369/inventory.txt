@@ -1,0 +1,17 @@
+Title: Inv 369
+
+----
+
+Inventory-id: 369
+
+----
+
+Film: page://HbEpEiQHOXmkFnCF
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 2frcvBAqC8NgRiRg

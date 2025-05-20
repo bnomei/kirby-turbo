@@ -1,0 +1,41 @@
+Title: ISLAND EXORCIST
+
+----
+
+Actors:
+
+- 'page://Bfp6QX9U0O1ZLM64'
+- 'page://Ppjj85F3dapvXsi8'
+- 'page://RHCn9jMuVT1ewFhv'
+
+----
+
+Film-id: 471
+
+----
+
+Description: A Fanciful Panorama of a Technical Writer And a Boy who must Find a Dentist in An Abandoned Fun House
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 84
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: Bv6L95VodOf07txg
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

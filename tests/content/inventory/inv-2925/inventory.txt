@@ -1,0 +1,17 @@
+Title: Inv 2925
+
+----
+
+Inventory-id: 2925
+
+----
+
+Film: page://vhkErafCh9Wb0AlE
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: DUZNBYrM3xxkvDjW

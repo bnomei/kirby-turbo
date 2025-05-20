@@ -1,0 +1,25 @@
+Title: Rental 8310
+
+----
+
+Rental-id: 8310
+
+----
+
+Rental-date: 2005-07-29 03:25:56
+
+----
+
+Return-date: 2005-08-06 23:18:56
+
+----
+
+Inventory: page://GyAAohgehRNzr4lR
+
+----
+
+Customer: page://RIEo30tJIX71MCMT
+
+----
+
+Uuid: UFNfN1l5teuSDv1u

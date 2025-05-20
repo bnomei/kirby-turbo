@@ -1,0 +1,17 @@
+Title: Inv 3046
+
+----
+
+Inventory-id: 3046
+
+----
+
+Film: page://kF6YW1PJ9fwW9dDw
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: nvLzJAl9fijBZha2

@@ -1,0 +1,25 @@
+Title: Rental 10944
+
+----
+
+Rental-id: 10944
+
+----
+
+Rental-date: 2005-08-02 03:20:03
+
+----
+
+Return-date: 2005-08-04 04:13:03
+
+----
+
+Inventory: page://T7la4MbNIyQraSkD
+
+----
+
+Customer: page://DVrrnVZUrEDSKye7
+
+----
+
+Uuid: 8t3DmYR7KiSj9pKI

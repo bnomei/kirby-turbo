@@ -1,0 +1,25 @@
+Title: Rental 1876
+
+----
+
+Rental-id: 1876
+
+----
+
+Rental-date: 2005-06-17 02:50:51
+
+----
+
+Return-date: 2005-06-18 07:21:51
+
+----
+
+Inventory: page://75yGjDtjm2nCnOLp
+
+----
+
+Uuid: S1epF040L4HMbWTu
+
+----
+
+Customer: page://YWOr146BeG0pdDed

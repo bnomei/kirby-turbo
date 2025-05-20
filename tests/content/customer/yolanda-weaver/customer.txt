@@ -1,0 +1,33 @@
+Title: YOLANDA WEAVER
+
+----
+
+Customer-id: 190
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: YOLANDA
+
+----
+
+Last-name: WEAVER
+
+----
+
+Email: YOLANDA.WEAVER@sakilacustomer.org
+
+----
+
+Address: page://FSxnN57A9Xw3lgDr
+
+----
+
+Active: 1
+
+----
+
+Uuid: 6kK9aIjaQGPeA4BK

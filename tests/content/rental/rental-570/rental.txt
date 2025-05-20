@@ -1,0 +1,25 @@
+Title: Rental 570
+
+----
+
+Rental-id: 570
+
+----
+
+Rental-date: 2005-05-28 10:15:04
+
+----
+
+Return-date: 2005-05-30 08:32:04
+
+----
+
+Inventory: page://5HObI1ExgoD39xqL
+
+----
+
+Uuid: xJql465wlOmRcy9k
+
+----
+
+Customer: page://KYkY8aG06K2r16Xn

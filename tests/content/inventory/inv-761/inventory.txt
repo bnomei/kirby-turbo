@@ -1,0 +1,17 @@
+Title: Inv 761
+
+----
+
+Inventory-id: 761
+
+----
+
+Film: page://eHq1c3vcaeybCh3j
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: cpQ2vzdOtTQJHwtQ

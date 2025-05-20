@@ -1,0 +1,17 @@
+Title: Inv 3065
+
+----
+
+Inventory-id: 3065
+
+----
+
+Film: page://lRnaVZnJyi0xMqk0
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Ye4kF8ezZxTDWK4h

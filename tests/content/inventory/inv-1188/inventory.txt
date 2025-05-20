@@ -1,0 +1,17 @@
+Title: Inv 1188
+
+----
+
+Inventory-id: 1188
+
+----
+
+Film: page://mi7mSNR85rwSJUbX
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: J20wVHtx8GbX9ZzK

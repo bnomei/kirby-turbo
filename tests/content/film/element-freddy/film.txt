@@ -1,0 +1,42 @@
+Title: ELEMENT FREDDY
+
+----
+
+Actors:
+
+- 'page://4hDC3FM6lySlQjxW'
+- 'page://Ppjj85F3dapvXsi8'
+- 'page://nfzjlyLmEQ6Q1S80'
+- 'page://IUEdThBjLk8TNUwy'
+
+----
+
+Film-id: 276
+
+----
+
+Description: A Awe-Inspiring Reflection of a Waitress And a Squirrel who must Kill a Mad Cow in A Jet Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 115
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: f0EGvOfdhLE3kABW
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

@@ -1,0 +1,33 @@
+Title: JESUS MCCARTNEY
+
+----
+
+Customer-id: 427
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JESUS
+
+----
+
+Last-name: MCCARTNEY
+
+----
+
+Email: JESUS.MCCARTNEY@sakilacustomer.org
+
+----
+
+Address: page://QCu3j2aYzTfXVwJP
+
+----
+
+Active: 1
+
+----
+
+Uuid: H1iYUUjd9JG1DGh7

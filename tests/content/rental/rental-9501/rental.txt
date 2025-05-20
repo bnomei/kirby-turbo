@@ -1,0 +1,25 @@
+Title: Rental 9501
+
+----
+
+Rental-id: 9501
+
+----
+
+Rental-date: 2005-07-30 23:59:21
+
+----
+
+Return-date: 2005-08-05 19:50:21
+
+----
+
+Inventory: page://vLdjhvcNfRnmhQt1
+
+----
+
+Customer: page://x5SWKXQpXhzjUJdL
+
+----
+
+Uuid: uZ2O4F4leW4mgbAF

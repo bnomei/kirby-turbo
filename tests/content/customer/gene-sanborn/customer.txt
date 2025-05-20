@@ -1,0 +1,33 @@
+Title: GENE SANBORN
+
+----
+
+Customer-id: 498
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: GENE
+
+----
+
+Last-name: SANBORN
+
+----
+
+Email: GENE.SANBORN@sakilacustomer.org
+
+----
+
+Address: page://571L6usFQqRB4y78
+
+----
+
+Active: 1
+
+----
+
+Uuid: 2lQ4vbsZnRXuEptp

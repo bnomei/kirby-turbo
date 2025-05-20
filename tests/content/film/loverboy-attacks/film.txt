@@ -1,0 +1,47 @@
+Title: LOVERBOY ATTACKS
+
+----
+
+Actors:
+
+- 'page://5ruVLAhmJBWUKPci'
+- 'page://I2QUzWEQkTiY7Ba5'
+- 'page://y29OJNxDr3yTLShi'
+- 'page://GwUKN9N7u1wbNu4w'
+- 'page://LYJoMM1yt0Pr5l4j'
+- 'page://KV54RGx9NMbLtwi4'
+- 'page://V93xbOGPlOsB9ymO'
+- 'page://EMAJfjeYpdsSEXq5'
+- 'page://DwMOxcgjVYPNg15d'
+
+----
+
+Film-id: 538
+
+----
+
+Description: A Boring Story of a Car And a Butler who must Build a Girl in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 162
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: CdiE8JY8Ix0qPv3a
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

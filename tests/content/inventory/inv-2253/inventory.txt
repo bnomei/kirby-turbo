@@ -1,0 +1,17 @@
+Title: Inv 2253
+
+----
+
+Inventory-id: 2253
+
+----
+
+Film: page://4Zjvyg2ad1nkSByn
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ZY6pJXyfWlEvjbJx

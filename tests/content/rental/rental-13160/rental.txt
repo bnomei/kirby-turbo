@@ -1,0 +1,25 @@
+Title: Rental 13160
+
+----
+
+Rental-id: 13160
+
+----
+
+Rental-date: 2005-08-19 13:21:04
+
+----
+
+Return-date: 2005-08-22 18:49:04
+
+----
+
+Inventory: page://CpgKfbgby5zlDTu2
+
+----
+
+Customer: page://rMm0jN6bFHVs2tRk
+
+----
+
+Uuid: xs3MtxeskCweQ39f

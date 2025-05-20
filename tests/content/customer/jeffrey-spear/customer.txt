@@ -1,0 +1,33 @@
+Title: JEFFREY SPEAR
+
+----
+
+Customer-id: 328
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JEFFREY
+
+----
+
+Last-name: SPEAR
+
+----
+
+Email: JEFFREY.SPEAR@sakilacustomer.org
+
+----
+
+Address: page://H3Q5vSeqqD6Uh8pr
+
+----
+
+Active: 1
+
+----
+
+Uuid: sbXQhVfx2HJ5Lrqi

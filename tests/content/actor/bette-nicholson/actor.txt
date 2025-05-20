@@ -1,0 +1,21 @@
+Title: BETTE NICHOLSON
+
+----
+
+Actors: []
+
+----
+
+Actor-id: 6
+
+----
+
+First-name: BETTE
+
+----
+
+Last-name: NICHOLSON
+
+----
+
+Uuid: qGB9wRd16f9YwbHn

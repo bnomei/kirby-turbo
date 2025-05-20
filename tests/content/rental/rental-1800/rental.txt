@@ -1,0 +1,25 @@
+Title: Rental 1800
+
+----
+
+Rental-id: 1800
+
+----
+
+Rental-date: 2005-06-16 20:18:46
+
+----
+
+Return-date: 2005-06-20 17:12:46
+
+----
+
+Inventory: page://O8tqyhKachVqX4UR
+
+----
+
+Uuid: euyj8zXQwCsLETxz
+
+----
+
+Customer: page://hKFzOIjEbiQlZ9Km

@@ -1,0 +1,25 @@
+Title: Rental 3680
+
+----
+
+Rental-id: 3680
+
+----
+
+Rental-date: 2005-07-06 09:16:10
+
+----
+
+Return-date: 2005-07-08 07:52:10
+
+----
+
+Inventory: page://eKiqMPij5tE1lpWO
+
+----
+
+Uuid: L8sQ8Ht3LI7dM2bY
+
+----
+
+Customer: page://HwY6ZsDzzk6bcaJh

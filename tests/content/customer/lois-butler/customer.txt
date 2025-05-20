@@ -1,0 +1,33 @@
+Title: LOIS BUTLER
+
+----
+
+Customer-id: 91
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: LOIS
+
+----
+
+Last-name: BUTLER
+
+----
+
+Email: LOIS.BUTLER@sakilacustomer.org
+
+----
+
+Address: page://cjuBGLZJSLkEPB8U
+
+----
+
+Active: 1
+
+----
+
+Uuid: OukV1G0vQXX07Xku

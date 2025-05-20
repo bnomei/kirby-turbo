@@ -1,0 +1,33 @@
+Title: SERGIO STANFIELD
+
+----
+
+Customer-id: 587
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: SERGIO
+
+----
+
+Last-name: STANFIELD
+
+----
+
+Email: SERGIO.STANFIELD@sakilacustomer.org
+
+----
+
+Address: page://c8uflOoFLGs6582I
+
+----
+
+Active: 1
+
+----
+
+Uuid: B7BnhDPJcre02BJt

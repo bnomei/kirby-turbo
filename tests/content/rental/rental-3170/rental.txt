@@ -1,0 +1,25 @@
+Title: Rental 3170
+
+----
+
+Rental-id: 3170
+
+----
+
+Rental-date: 2005-06-20 22:02:54
+
+----
+
+Return-date: 2005-06-29 00:41:54
+
+----
+
+Inventory: page://2RmyjFa6KjKpAVNh
+
+----
+
+Uuid: rj0l8zv2Xw64tAZZ
+
+----
+
+Customer: page://B3L4KGTOB2xEaMbu

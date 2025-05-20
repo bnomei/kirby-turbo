@@ -1,0 +1,17 @@
+Title: Tabuk
+
+----
+
+City-id: 515
+
+----
+
+City: Tabuk
+
+----
+
+Country: page://0YealggxtwMgF0Qj
+
+----
+
+Uuid: eQ8ZbC7Q9TfzwgaA

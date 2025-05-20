@@ -1,0 +1,17 @@
+Title: Inv 42
+
+----
+
+Inventory-id: 42
+
+----
+
+Film: page://msiPzQjMlcmUp6S6
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: v7R24OYXdsuXZbI1

@@ -1,0 +1,17 @@
+Title: Inv 4207
+
+----
+
+Inventory-id: 4207
+
+----
+
+Film: page://ztRx1p49w42jzucX
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: WKS56hcXtvlc6V7H

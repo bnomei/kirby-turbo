@@ -1,0 +1,25 @@
+Title: Rental 12803
+
+----
+
+Rental-id: 12803
+
+----
+
+Rental-date: 2005-08-19 00:28:21
+
+----
+
+Return-date: 2005-08-23 02:02:21
+
+----
+
+Inventory: page://zNZWkDm5OWJ8SU5i
+
+----
+
+Customer: page://pqDg6kDmCdvbDclp
+
+----
+
+Uuid: dRpccbjDvJSm75TI

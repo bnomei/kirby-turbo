@@ -1,0 +1,25 @@
+Title: Rental 10472
+
+----
+
+Rental-id: 10472
+
+----
+
+Rental-date: 2005-08-01 09:54:41
+
+----
+
+Return-date: 2005-08-04 13:31:41
+
+----
+
+Inventory: page://aX62CtYybG0LTDcF
+
+----
+
+Customer: page://E8B6f5Jketu7tOjl
+
+----
+
+Uuid: r3jWfBAHsDyphygE

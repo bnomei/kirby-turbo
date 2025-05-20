@@ -1,0 +1,25 @@
+Title: Rental 6911
+
+----
+
+Rental-id: 6911
+
+----
+
+Rental-date: 2005-07-12 22:14:34
+
+----
+
+Return-date: 2005-07-18 20:17:34
+
+----
+
+Inventory: page://IhchiEplezgrlKy7
+
+----
+
+Customer: page://LGMzuvWnmjAofA2U
+
+----
+
+Uuid: AzoM1X0vMwfDa1oq

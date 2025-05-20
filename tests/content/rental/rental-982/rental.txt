@@ -1,0 +1,25 @@
+Title: Rental 982
+
+----
+
+Rental-id: 982
+
+----
+
+Rental-date: 2005-05-30 22:15:24
+
+----
+
+Return-date: 2005-06-02 16:18:24
+
+----
+
+Inventory: page://NqXgCOpMoYvPBTJq
+
+----
+
+Uuid: BToi69DeNOGVo6P4
+
+----
+
+Customer: page://DVIVTmAM0LOCEI7a

@@ -1,0 +1,41 @@
+Title: EDGE KISSING
+
+----
+
+Actors:
+
+- 'page://ixmDbcb5VXh1c8bc'
+- 'page://k43wur9uhLztfZOP'
+- 'page://Q7LFBcb3oEdhSO9W'
+
+----
+
+Film-id: 272
+
+----
+
+Description: A Beautiful Yarn of a Composer And a Mad Cow who must Redeem a Mad Scientist in A Jet Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 153
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: T3OGl7NzyBDVhv7h
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

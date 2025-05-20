@@ -1,0 +1,17 @@
+Title: Inv 1989
+
+----
+
+Inventory-id: 1989
+
+----
+
+Film: page://vUHQbs8cNE0ve45v
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: sGZSntf2I6pnxxCl

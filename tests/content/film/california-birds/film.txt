@@ -1,0 +1,40 @@
+Title: CALIFORNIA BIRDS
+
+----
+
+Actors:
+
+- 'page://QXMalcumIlXeK8Z2'
+- 'page://Vt3bRByOUSEypvV6'
+
+----
+
+Film-id: 113
+
+----
+
+Description: A Thrilling Yarn of a Database Administrator And a Robot who must Battle a Database Administrator in Ancient India
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 75
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: VEfDwCwQ95f3uune
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

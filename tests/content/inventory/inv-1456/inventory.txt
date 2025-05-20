@@ -1,0 +1,17 @@
+Title: Inv 1456
+
+----
+
+Inventory-id: 1456
+
+----
+
+Film: page://kTWA4HcxTtN2yojH
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: cCJrem4c77CoKqMF

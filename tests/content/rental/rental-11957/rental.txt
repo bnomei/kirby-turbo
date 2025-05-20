@@ -1,0 +1,25 @@
+Title: Rental 11957
+
+----
+
+Rental-id: 11957
+
+----
+
+Rental-date: 2005-08-17 17:22:29
+
+----
+
+Return-date: 2005-08-23 21:47:29
+
+----
+
+Inventory: page://JMotHJ6flxvVl6vT
+
+----
+
+Customer: page://RoYFWCky1f4iZ5Q3
+
+----
+
+Uuid: yCoc3MwhUY1VAUpT

@@ -1,0 +1,25 @@
+Title: Rental 8998
+
+----
+
+Rental-id: 8998
+
+----
+
+Rental-date: 2005-07-30 04:54:14
+
+----
+
+Return-date: 2005-08-08 08:18:14
+
+----
+
+Inventory: page://O4hr4vFXFKdm5WIu
+
+----
+
+Customer: page://7XleW0b2x259mfJ9
+
+----
+
+Uuid: 9UmG253Y4Gk6dRoA

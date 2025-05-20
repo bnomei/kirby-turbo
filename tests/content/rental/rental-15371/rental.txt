@@ -1,0 +1,21 @@
+Title: Rental 15371
+
+----
+
+Rental-id: 15371
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://yBtIkwMp2eexrfim
+
+----
+
+Customer: page://pOTTT1NDQCsreRQz
+
+----
+
+Uuid: sEYE29Rhq1ZzOV4e

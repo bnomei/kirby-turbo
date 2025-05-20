@@ -1,0 +1,25 @@
+Title: Rental 4326
+
+----
+
+Rental-id: 4326
+
+----
+
+Rental-date: 2005-07-07 18:01:22
+
+----
+
+Return-date: 2005-07-16 15:45:22
+
+----
+
+Inventory: page://nXQ0wT1DIruc8X5L
+
+----
+
+Uuid: RryiDBKNgjUZ4Yr9
+
+----
+
+Customer: page://DxMKPSznn9C2XI5l

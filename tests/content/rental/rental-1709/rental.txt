@@ -1,0 +1,25 @@
+Title: Rental 1709
+
+----
+
+Rental-id: 1709
+
+----
+
+Rental-date: 2005-06-16 14:10:15
+
+----
+
+Return-date: 2005-06-24 16:38:15
+
+----
+
+Inventory: page://MbVanIVejoa4qHXx
+
+----
+
+Uuid: EajkQKWVJFV15Muz
+
+----
+
+Customer: page://bm01Zh4gvYAGmd89

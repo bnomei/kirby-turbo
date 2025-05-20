@@ -1,0 +1,42 @@
+Title: BRIGHT ENCOUNTERS
+
+----
+
+Actors:
+
+- 'page://rTdvG0vGkNN8iJpQ'
+- 'page://DJVklNozM1l2RK0x'
+- 'page://EMAJfjeYpdsSEXq5'
+- 'page://QybR1sXOQQQZIPXG'
+
+----
+
+Film-id: 98
+
+----
+
+Description: A Fateful Yarn of a Lumberjack And a Feminist who must Conquer a Student in A Jet Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 73
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: VGGJRRltR7kDwiXg
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

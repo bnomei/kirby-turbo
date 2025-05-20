@@ -1,0 +1,17 @@
+Title: Inv 3044
+
+----
+
+Inventory-id: 3044
+
+----
+
+Film: page://kF6YW1PJ9fwW9dDw
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: W5vOkOibiF1JbPm2

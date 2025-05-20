@@ -1,0 +1,17 @@
+Title: Inv 767
+
+----
+
+Inventory-id: 767
+
+----
+
+Film: page://2hqLMXmuK75wH2iH
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: H2AuM2rJBDbmW4UB

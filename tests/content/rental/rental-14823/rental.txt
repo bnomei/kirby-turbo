@@ -1,0 +1,25 @@
+Title: Rental 14823
+
+----
+
+Rental-id: 14823
+
+----
+
+Rental-date: 2005-08-22 01:24:42
+
+----
+
+Return-date: 2005-08-22 19:45:42
+
+----
+
+Inventory: page://ixIS5vYXrz4cMM9v
+
+----
+
+Customer: page://6OY6sKjbR1uPXwOW
+
+----
+
+Uuid: aLmrLkNZ8vC37JqT

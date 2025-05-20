@@ -1,0 +1,17 @@
+Title: Inv 3253
+
+----
+
+Inventory-id: 3253
+
+----
+
+Film: page://GKBf2jOHKRSAuju2
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 3Wz4jyzCQIOAS395

@@ -1,0 +1,17 @@
+Title: Inv 1858
+
+----
+
+Inventory-id: 1858
+
+----
+
+Film: page://TAt5yEaUtPeFRBid
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: phZ5GwVOrU1pW9yO

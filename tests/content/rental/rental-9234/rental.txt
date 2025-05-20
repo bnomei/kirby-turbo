@@ -1,0 +1,25 @@
+Title: Rental 9234
+
+----
+
+Rental-id: 9234
+
+----
+
+Rental-date: 2005-07-30 13:45:54
+
+----
+
+Return-date: 2005-08-02 15:33:54
+
+----
+
+Inventory: page://K1LMPZh015Ghsqxw
+
+----
+
+Customer: page://F0Kktb9GQCAISqtj
+
+----
+
+Uuid: XExtQHROhWACTBcx

@@ -1,0 +1,25 @@
+Title: Rental 10677
+
+----
+
+Rental-id: 10677
+
+----
+
+Rental-date: 2005-08-01 17:24:35
+
+----
+
+Return-date: 2005-08-04 20:03:35
+
+----
+
+Inventory: page://2TuJsyz0FdJHklZW
+
+----
+
+Customer: page://reaWSdyj7YyLoivl
+
+----
+
+Uuid: gJzckg8luRETtP0W

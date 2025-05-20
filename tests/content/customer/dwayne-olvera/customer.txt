@@ -1,0 +1,33 @@
+Title: DWAYNE OLVERA
+
+----
+
+Customer-id: 554
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: DWAYNE
+
+----
+
+Last-name: OLVERA
+
+----
+
+Email: DWAYNE.OLVERA@sakilacustomer.org
+
+----
+
+Address: page://Zh1epPZ39L4O5kT0
+
+----
+
+Active: 1
+
+----
+
+Uuid: C4htS1tLHzkKyE5J

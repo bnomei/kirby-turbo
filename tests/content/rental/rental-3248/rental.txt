@@ -1,0 +1,25 @@
+Title: Rental 3248
+
+----
+
+Rental-id: 3248
+
+----
+
+Rental-date: 2005-06-21 03:12:21
+
+----
+
+Return-date: 2005-06-28 03:54:21
+
+----
+
+Inventory: page://60UEpdDDLBB0dxtA
+
+----
+
+Uuid: k3efs3nT3q5BrFNO
+
+----
+
+Customer: page://do7XIsVNaFXaDfM6

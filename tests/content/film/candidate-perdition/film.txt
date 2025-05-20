@@ -1,0 +1,42 @@
+Title: CANDIDATE PERDITION
+
+----
+
+Actors:
+
+- 'page://RW4ixiF3bbh7oXkH'
+- 'page://if8hfrmRoIODgwSa'
+- 'page://DC9iJim4HlVvOiTH'
+- 'page://DwMOxcgjVYPNg15d'
+
+----
+
+Film-id: 116
+
+----
+
+Description: A Brilliant Epistle of a Composer And a Database Administrator who must Vanquish a Mad Scientist in The First Manned Space Station
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 70
+
+----
+
+Rating: R
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: MG4xW581D3Ms4xgN
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

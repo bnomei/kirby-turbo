@@ -1,0 +1,17 @@
+Title: Inv 2329
+
+----
+
+Inventory-id: 2329
+
+----
+
+Film: page://wolN8qABMKVypdIc
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 6kpIsITZswZOMejJ

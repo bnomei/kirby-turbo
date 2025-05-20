@@ -1,0 +1,25 @@
+Title: Rental 139
+
+----
+
+Rental-id: 139
+
+----
+
+Rental-date: 2005-05-25 23:00:21
+
+----
+
+Return-date: 2005-05-29 17:12:21
+
+----
+
+Inventory: page://8bvdnfs2Ulw9o7MT
+
+----
+
+Uuid: prJoAtXWPMm3vWqU
+
+----
+
+Customer: page://RjuxtMHbOY6NJALL

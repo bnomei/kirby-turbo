@@ -1,0 +1,25 @@
+Title: Rental 11734
+
+----
+
+Rental-id: 11734
+
+----
+
+Rental-date: 2005-08-17 08:34:22
+
+----
+
+Return-date: 2005-08-25 11:56:22
+
+----
+
+Inventory: page://EPh6FxbKMgCCa53m
+
+----
+
+Customer: page://ZMPHt1kBgzua3Tmb
+
+----
+
+Uuid: MlKjMDrqTQVa8oSG

@@ -1,0 +1,42 @@
+Title: JERICHO MULAN
+
+----
+
+Actors:
+
+- 'page://RdNo3TYVhV9JmDu6'
+- 'page://G2CRwpBQJFawgg9Y'
+- 'page://ohgPd8XBH6s5Q55J'
+- 'page://kglHBUzvM27ekW4e'
+
+----
+
+Film-id: 483
+
+----
+
+Description: A Amazing Yarn of a Hunter And a Butler who must Defeat a Boy in A Jet Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 171
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries
+
+----
+
+Uuid: Bebr7PpZufj8v127
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

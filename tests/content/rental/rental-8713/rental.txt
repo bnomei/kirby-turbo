@@ -1,0 +1,25 @@
+Title: Rental 8713
+
+----
+
+Rental-id: 8713
+
+----
+
+Rental-date: 2005-07-29 17:31:19
+
+----
+
+Return-date: 2005-08-02 16:37:19
+
+----
+
+Inventory: page://3BVXdABDdmNRKKNz
+
+----
+
+Customer: page://Dq5hnVeftFV5vuu5
+
+----
+
+Uuid: hsDfFUMJVWchlz25

@@ -1,0 +1,25 @@
+Title: Rental 7979
+
+----
+
+Rental-id: 7979
+
+----
+
+Rental-date: 2005-07-28 14:16:30
+
+----
+
+Return-date: 2005-08-03 09:39:30
+
+----
+
+Inventory: page://G1F7BaYEFnDMJhjX
+
+----
+
+Customer: page://pOTTT1NDQCsreRQz
+
+----
+
+Uuid: T4pUYKz9HNPqCqyR

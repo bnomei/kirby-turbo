@@ -1,0 +1,25 @@
+Title: Rental 3302
+
+----
+
+Rental-id: 3302
+
+----
+
+Rental-date: 2005-06-21 07:33:40
+
+----
+
+Return-date: 2005-06-29 06:02:40
+
+----
+
+Inventory: page://eqYxV8lz8OOrmC8y
+
+----
+
+Uuid: dEZiqIoqlrvcjPDs
+
+----
+
+Customer: page://DZzK6reO3V0LDrPm

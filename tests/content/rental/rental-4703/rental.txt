@@ -1,0 +1,25 @@
+Title: Rental 4703
+
+----
+
+Rental-id: 4703
+
+----
+
+Rental-date: 2005-07-08 11:44:56
+
+----
+
+Return-date: 2005-07-13 09:17:56
+
+----
+
+Inventory: page://mXpv9VKr66yoKh6D
+
+----
+
+Uuid: 8kMfQo10hUW3571T
+
+----
+
+Customer: page://T9MMayXBdDHCkZUr

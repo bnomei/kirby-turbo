@@ -1,0 +1,17 @@
+Title: Inv 2012
+
+----
+
+Inventory-id: 2012
+
+----
+
+Film: page://TM1OS1axuCzRnxfJ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: sp7PlJkIKBzABGmG

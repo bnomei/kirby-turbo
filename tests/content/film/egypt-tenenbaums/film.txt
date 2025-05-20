@@ -1,0 +1,42 @@
+Title: EGYPT TENENBAUMS
+
+----
+
+Actors:
+
+- 'page://9zoYPXEbxK6liKqc'
+- 'page://HMQFYCzd6sL7s9te'
+- 'page://nN3rIVkI7hNgoDlp'
+- 'page://X4t5CWB88ooC26Na'
+
+----
+
+Film-id: 275
+
+----
+
+Description: A Intrepid Story of a Madman And a Secret Agent who must Outrace a Astronaut in An Abandoned Amusement Park
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 85
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: LTiv00xGWgHvGE6b
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

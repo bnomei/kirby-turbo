@@ -1,0 +1,21 @@
+Title: Rental 12792
+
+----
+
+Rental-id: 12792
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://4fCrxpFVm9xXakmo
+
+----
+
+Customer: page://E8B6f5Jketu7tOjl
+
+----
+
+Uuid: zEsPVyTbI5Oe7UL1

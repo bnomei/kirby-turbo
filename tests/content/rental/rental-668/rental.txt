@@ -1,0 +1,25 @@
+Title: Rental 668
+
+----
+
+Rental-id: 668
+
+----
+
+Rental-date: 2005-05-28 21:54:45
+
+----
+
+Return-date: 2005-05-29 22:32:45
+
+----
+
+Inventory: page://7aOh3b7IFMM429lo
+
+----
+
+Uuid: VqthC7lziqTwnUk8
+
+----
+
+Customer: page://rMm0jN6bFHVs2tRk

@@ -1,0 +1,17 @@
+Title: Inv 1004
+
+----
+
+Inventory-id: 1004
+
+----
+
+Film: page://lvnoaY9ColEubXcS
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: AXwvgcK3Li6jw4CQ

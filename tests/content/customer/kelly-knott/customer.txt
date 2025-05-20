@@ -1,0 +1,33 @@
+Title: KELLY KNOTT
+
+----
+
+Customer-id: 546
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: KELLY
+
+----
+
+Last-name: KNOTT
+
+----
+
+Email: KELLY.KNOTT@sakilacustomer.org
+
+----
+
+Address: page://VqFzZ7YhGwsWM23J
+
+----
+
+Active: 1
+
+----
+
+Uuid: d0yy9DCHO4pfzlZU

@@ -1,0 +1,17 @@
+Title: Inv 3048
+
+----
+
+Inventory-id: 3048
+
+----
+
+Film: page://kF6YW1PJ9fwW9dDw
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Vpxk9oXFjTq4qGk5

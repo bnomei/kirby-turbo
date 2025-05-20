@@ -1,0 +1,25 @@
+Title: Rental 14726
+
+----
+
+Rental-id: 14726
+
+----
+
+Rental-date: 2005-08-21 22:08:52
+
+----
+
+Return-date: 2005-08-22 18:28:52
+
+----
+
+Inventory: page://vheC7uHXBd1C66eh
+
+----
+
+Customer: page://6JTzEhgDMKDUF6HS
+
+----
+
+Uuid: v5DO0RNN57n3LOOP

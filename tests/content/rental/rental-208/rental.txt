@@ -1,0 +1,25 @@
+Title: Rental 208
+
+----
+
+Rental-id: 208
+
+----
+
+Rental-date: 2005-05-26 08:10:22
+
+----
+
+Return-date: 2005-05-27 03:55:22
+
+----
+
+Inventory: page://Xvivdy6popzK2aKS
+
+----
+
+Uuid: TrpiU5Rum8BQJ6rC
+
+----
+
+Customer: page://9bJXvFRudHnbyDta

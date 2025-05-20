@@ -1,0 +1,25 @@
+Title: Rental 5400
+
+----
+
+Rental-id: 5400
+
+----
+
+Rental-date: 2005-07-09 19:56:40
+
+----
+
+Return-date: 2005-07-14 20:43:40
+
+----
+
+Inventory: page://JAFUQxohSIkElHFf
+
+----
+
+Uuid: uCcGFcPz34hDIUr9
+
+----
+
+Customer: page://S6wnyWLyFa5056NX

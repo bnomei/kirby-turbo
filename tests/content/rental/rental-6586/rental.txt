@@ -1,0 +1,25 @@
+Title: Rental 6586
+
+----
+
+Rental-id: 6586
+
+----
+
+Rental-date: 2005-07-12 06:56:24
+
+----
+
+Return-date: 2005-07-17 09:36:24
+
+----
+
+Inventory: page://rWkxoDWLJom9MEdS
+
+----
+
+Uuid: TfY8JPa7zMGl7o3m
+
+----
+
+Customer: page://1apdIukT0MghUchq

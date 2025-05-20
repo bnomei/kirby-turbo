@@ -1,0 +1,25 @@
+Title: Rental 83
+
+----
+
+Rental-id: 83
+
+----
+
+Rental-date: 2005-05-25 12:30:15
+
+----
+
+Return-date: 2005-05-27 15:40:15
+
+----
+
+Inventory: page://FRZOMvZa9UW18ywb
+
+----
+
+Uuid: BgSfJyrOMYQDYEGK
+
+----
+
+Customer: page://N95O2afia8ED5CLD

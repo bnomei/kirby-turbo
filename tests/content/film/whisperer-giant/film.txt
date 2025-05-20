@@ -1,0 +1,41 @@
+Title: WHISPERER GIANT
+
+----
+
+Actors:
+
+- 'page://gxNf949gkwS5ks3A'
+- 'page://ZyRQLJXso6IqRkwR'
+- 'page://IUEdThBjLk8TNUwy'
+
+----
+
+Film-id: 972
+
+----
+
+Description: A Intrepid Story of a Dentist And a Hunter who must Confront a Monkey in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 59
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: QFSGrPbD3LHGcdUU
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

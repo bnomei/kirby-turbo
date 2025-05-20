@@ -1,0 +1,17 @@
+Title: Inv 367
+
+----
+
+Inventory-id: 367
+
+----
+
+Film: page://nfSwrYNlUFrCCo1g
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: aOrlNI3erTFahM1e

@@ -1,0 +1,25 @@
+Title: Rental 3802
+
+----
+
+Rental-id: 3802
+
+----
+
+Rental-date: 2005-07-06 15:06:09
+
+----
+
+Return-date: 2005-07-08 09:33:09
+
+----
+
+Inventory: page://Gn8zWXoJrzK29920
+
+----
+
+Uuid: JtEUQfwWWE9kWVeS
+
+----
+
+Customer: page://OukV1G0vQXX07Xku

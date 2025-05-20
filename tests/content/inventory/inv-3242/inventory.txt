@@ -1,0 +1,17 @@
+Title: Inv 3242
+
+----
+
+Inventory-id: 3242
+
+----
+
+Film: page://I5jGcPTCJ9A1daiS
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: zyvfKDCl22ASQLFc

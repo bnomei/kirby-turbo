@@ -1,0 +1,17 @@
+Title: Inv 3457
+
+----
+
+Inventory-id: 3457
+
+----
+
+Film: page://jO5prELCqdfINMMT
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: okbbegl960LD6lLx

@@ -1,0 +1,25 @@
+Title: Rental 1530
+
+----
+
+Rental-id: 1530
+
+----
+
+Rental-date: 2005-06-16 00:38:07
+
+----
+
+Return-date: 2005-06-24 02:45:07
+
+----
+
+Inventory: page://Z3OhtKeys2SjoX45
+
+----
+
+Uuid: uI87E76CpZWdci4X
+
+----
+
+Customer: page://aSDbYZyDO3hz2mlG

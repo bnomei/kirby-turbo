@@ -1,0 +1,25 @@
+Title: Rental 10009
+
+----
+
+Rental-id: 10009
+
+----
+
+Rental-date: 2005-07-31 18:00:28
+
+----
+
+Return-date: 2005-08-08 22:24:28
+
+----
+
+Inventory: page://eyQGPLEpsQEC6EVM
+
+----
+
+Customer: page://PRxS4w02V4uKvZWV
+
+----
+
+Uuid: jCLLPE2b2YuOIo30

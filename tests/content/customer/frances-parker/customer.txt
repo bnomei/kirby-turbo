@@ -1,0 +1,33 @@
+Title: FRANCES PARKER
+
+----
+
+Customer-id: 47
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: FRANCES
+
+----
+
+Last-name: PARKER
+
+----
+
+Email: FRANCES.PARKER@sakilacustomer.org
+
+----
+
+Address: page://m2ZHCC9EjKyeVWtN
+
+----
+
+Active: 1
+
+----
+
+Uuid: NrafIAvjIpyEt9v1

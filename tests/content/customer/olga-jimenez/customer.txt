@@ -1,0 +1,33 @@
+Title: OLGA JIMENEZ
+
+----
+
+Customer-id: 277
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: OLGA
+
+----
+
+Last-name: JIMENEZ
+
+----
+
+Email: OLGA.JIMENEZ@sakilacustomer.org
+
+----
+
+Address: page://roZ1u54f7bb10Uqe
+
+----
+
+Active: 1
+
+----
+
+Uuid: zHX2zrjQSr6qaLsM

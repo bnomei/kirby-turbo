@@ -1,0 +1,25 @@
+Title: Rental 7809
+
+----
+
+Rental-id: 7809
+
+----
+
+Rental-date: 2005-07-28 07:59:46
+
+----
+
+Return-date: 2005-08-02 02:56:46
+
+----
+
+Inventory: page://UkgaF7F7DHvaWfYo
+
+----
+
+Customer: page://pOTTT1NDQCsreRQz
+
+----
+
+Uuid: 4sh3hrs4kty4Olln

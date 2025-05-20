@@ -1,0 +1,17 @@
+Title: Inv 1003
+
+----
+
+Inventory-id: 1003
+
+----
+
+Film: page://lvnoaY9ColEubXcS
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: R1DC1zOpGigSoWjh

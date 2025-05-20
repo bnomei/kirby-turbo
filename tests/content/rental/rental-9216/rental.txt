@@ -1,0 +1,25 @@
+Title: Rental 9216
+
+----
+
+Rental-id: 9216
+
+----
+
+Rental-date: 2005-07-30 13:11:19
+
+----
+
+Return-date: 2005-07-31 11:27:19
+
+----
+
+Inventory: page://CmKoe0EBX9aoDrXt
+
+----
+
+Customer: page://EiH1RuNqWwCS6DfM
+
+----
+
+Uuid: Wern5HjCY9sgEJqV

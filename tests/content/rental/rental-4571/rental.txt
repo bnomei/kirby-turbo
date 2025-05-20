@@ -1,0 +1,25 @@
+Title: Rental 4571
+
+----
+
+Rental-id: 4571
+
+----
+
+Rental-date: 2005-07-08 05:34:41
+
+----
+
+Return-date: 2005-07-17 02:15:41
+
+----
+
+Inventory: page://8rutx3uJ4I99DhLD
+
+----
+
+Uuid: 6t9VZiy3EGmHry7S
+
+----
+
+Customer: page://jQgJTEFW0ApOfR1S

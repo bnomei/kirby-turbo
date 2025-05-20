@@ -1,0 +1,25 @@
+Title: Rental 2310
+
+----
+
+Rental-id: 2310
+
+----
+
+Rental-date: 2005-06-18 08:45:59
+
+----
+
+Return-date: 2005-06-26 05:06:59
+
+----
+
+Inventory: page://Er5PuTspxaSxon3i
+
+----
+
+Uuid: aebtblHYgwWgaDE6
+
+----
+
+Customer: page://uedEHcyGADIOfSLA

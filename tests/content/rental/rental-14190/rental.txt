@@ -1,0 +1,25 @@
+Title: Rental 14190
+
+----
+
+Rental-id: 14190
+
+----
+
+Rental-date: 2005-08-21 03:35:21
+
+----
+
+Return-date: 2005-08-29 07:35:21
+
+----
+
+Inventory: page://GBcg5xMUkrsEkziw
+
+----
+
+Customer: page://gLPYzE6xdxqOoEJZ
+
+----
+
+Uuid: LpdM93gbk3WwVIeF

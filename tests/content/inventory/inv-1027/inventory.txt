@@ -1,0 +1,17 @@
+Title: Inv 1027
+
+----
+
+Inventory-id: 1027
+
+----
+
+Film: page://Gs2zNA3tJ7IwSh8X
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: L82ldVzDhQHJ7u89

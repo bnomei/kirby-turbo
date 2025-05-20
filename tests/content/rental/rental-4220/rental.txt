@@ -1,0 +1,25 @@
+Title: Rental 4220
+
+----
+
+Rental-id: 4220
+
+----
+
+Rental-date: 2005-07-07 12:12:36
+
+----
+
+Return-date: 2005-07-10 13:37:36
+
+----
+
+Inventory: page://8O3ZV5T9CcXHTYFq
+
+----
+
+Uuid: DyKlntiVO8T5WGfi
+
+----
+
+Customer: page://i7YOMN6TypeotXP0

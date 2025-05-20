@@ -1,0 +1,25 @@
+Title: Rental 1880
+
+----
+
+Rental-id: 1880
+
+----
+
+Rental-date: 2005-06-17 03:08:59
+
+----
+
+Return-date: 2005-06-19 07:16:59
+
+----
+
+Inventory: page://LXJ2K7WP3bPan99M
+
+----
+
+Uuid: qqmAhKuHZ0YZfDCQ
+
+----
+
+Customer: page://6AKt4qOv738O4v4p

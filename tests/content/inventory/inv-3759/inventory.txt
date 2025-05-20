@@ -1,0 +1,17 @@
+Title: Inv 3759
+
+----
+
+Inventory-id: 3759
+
+----
+
+Film: page://7BEFpAshHrqZIAvj
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: STvB6CMOi9amLrQk

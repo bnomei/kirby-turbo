@@ -1,0 +1,17 @@
+Title: Inv 3057
+
+----
+
+Inventory-id: 3057
+
+----
+
+Film: page://kGbNpCoyrIROVvsU
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: yNnS0b8f4sRQmcyv

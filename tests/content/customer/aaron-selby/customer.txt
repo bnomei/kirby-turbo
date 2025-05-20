@@ -1,0 +1,33 @@
+Title: AARON SELBY
+
+----
+
+Customer-id: 375
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: AARON
+
+----
+
+Last-name: SELBY
+
+----
+
+Email: AARON.SELBY@sakilacustomer.org
+
+----
+
+Address: page://Bn7IMqgQowOv1xIx
+
+----
+
+Active: 1
+
+----
+
+Uuid: sXFRFNABQAAwfZCO

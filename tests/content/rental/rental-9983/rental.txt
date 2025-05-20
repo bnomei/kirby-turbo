@@ -1,0 +1,25 @@
+Title: Rental 9983
+
+----
+
+Rental-id: 9983
+
+----
+
+Rental-date: 2005-07-31 17:09:36
+
+----
+
+Return-date: 2005-08-08 20:26:36
+
+----
+
+Inventory: page://S814zTiNRBXEotLJ
+
+----
+
+Customer: page://JdfsXlrnw5D9Ezlr
+
+----
+
+Uuid: tKGLv3xDjAtmpo2r

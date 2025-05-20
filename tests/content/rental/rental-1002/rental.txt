@@ -1,0 +1,25 @@
+Title: Rental 1002
+
+----
+
+Rental-id: 1002
+
+----
+
+Rental-date: 2005-05-31 00:47:56
+
+----
+
+Return-date: 2005-06-06 19:51:56
+
+----
+
+Inventory: page://FzebHfCQ07Bzv266
+
+----
+
+Uuid: fVwKwr7chGt5pnnS
+
+----
+
+Customer: page://C7Yyvdwc8g6atULR

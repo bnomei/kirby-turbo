@@ -1,0 +1,25 @@
+Title: Rental 2672
+
+----
+
+Rental-id: 2672
+
+----
+
+Rental-date: 2005-06-19 11:42:04
+
+----
+
+Return-date: 2005-06-25 09:14:04
+
+----
+
+Inventory: page://GueXLDsmjtlLQbnN
+
+----
+
+Uuid: IoZx7ytMagP7RCdW
+
+----
+
+Customer: page://Yq4RWbQHVX6jLqbx

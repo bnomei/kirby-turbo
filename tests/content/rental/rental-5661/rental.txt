@@ -1,0 +1,25 @@
+Title: Rental 5661
+
+----
+
+Rental-id: 5661
+
+----
+
+Rental-date: 2005-07-10 07:53:51
+
+----
+
+Return-date: 2005-07-14 12:57:51
+
+----
+
+Inventory: page://TRYOMVnkwvIfpFcU
+
+----
+
+Uuid: Mlsb5lHbmM1U0TR5
+
+----
+
+Customer: page://VPA8X8lftFbJP7Oh

@@ -1,0 +1,25 @@
+Title: Rental 400
+
+----
+
+Rental-id: 400
+
+----
+
+Rental-date: 2005-05-27 12:51:44
+
+----
+
+Return-date: 2005-05-31 08:34:44
+
+----
+
+Inventory: page://W5baC8GFn0Mdy9rl
+
+----
+
+Uuid: uOjj6rv7CyD6JoAy
+
+----
+
+Customer: page://2o7Ua8bnQm0l3GDC

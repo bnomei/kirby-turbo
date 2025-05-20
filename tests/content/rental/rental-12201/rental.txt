@@ -1,0 +1,25 @@
+Title: Rental 12201
+
+----
+
+Rental-id: 12201
+
+----
+
+Rental-date: 2005-08-18 02:14:06
+
+----
+
+Return-date: 2005-08-23 04:44:06
+
+----
+
+Inventory: page://6fas0Gg5MeY711ql
+
+----
+
+Customer: page://2G3YjZ3nk45lbrpd
+
+----
+
+Uuid: o70iKkszWx1Rx7rJ

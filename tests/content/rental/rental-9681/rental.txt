@@ -1,0 +1,25 @@
+Title: Rental 9681
+
+----
+
+Rental-id: 9681
+
+----
+
+Rental-date: 2005-07-31 06:42:09
+
+----
+
+Return-date: 2005-08-06 08:21:09
+
+----
+
+Inventory: page://F1ZRgxJmizLpdJSR
+
+----
+
+Customer: page://r0DHyZYSnncl7RM1
+
+----
+
+Uuid: lmeEalku2JQejp2Z

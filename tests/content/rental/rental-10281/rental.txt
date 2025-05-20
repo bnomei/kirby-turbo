@@ -1,0 +1,25 @@
+Title: Rental 10281
+
+----
+
+Rental-id: 10281
+
+----
+
+Rental-date: 2005-08-01 03:28:33
+
+----
+
+Return-date: 2005-08-02 05:06:33
+
+----
+
+Inventory: page://ALJRW5XcQ4Ljh2Mh
+
+----
+
+Customer: page://HkTANTgi9H03vQyM
+
+----
+
+Uuid: Qf4bTRclgXED4YlG

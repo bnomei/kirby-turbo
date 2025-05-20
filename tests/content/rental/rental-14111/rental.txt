@@ -1,0 +1,25 @@
+Title: Rental 14111
+
+----
+
+Rental-id: 14111
+
+----
+
+Rental-date: 2005-08-21 00:59:01
+
+----
+
+Return-date: 2005-08-22 20:43:01
+
+----
+
+Inventory: page://K9XsIXi28v7x5wlY
+
+----
+
+Customer: page://pDfW2rdiEx3al4Ty
+
+----
+
+Uuid: PbctF6eDH4TnW0NM

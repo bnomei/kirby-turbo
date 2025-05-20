@@ -1,0 +1,25 @@
+Title: Rental 8960
+
+----
+
+Rental-id: 8960
+
+----
+
+Rental-date: 2005-07-30 03:36:31
+
+----
+
+Return-date: 2005-08-01 23:46:31
+
+----
+
+Inventory: page://UJZG5mfRal2s5Q5k
+
+----
+
+Customer: page://AFChx19aWGlTZnX0
+
+----
+
+Uuid: H1arH74Oq32iGSQy

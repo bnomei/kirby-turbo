@@ -1,0 +1,17 @@
+Title: Inv 4214
+
+----
+
+Inventory-id: 4214
+
+----
+
+Film: page://kfL3RX6O5ltb9riZ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 8mhfzaaCRUNjFSSB

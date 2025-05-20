@@ -1,0 +1,25 @@
+Title: Rental 7114
+
+----
+
+Rental-id: 7114
+
+----
+
+Rental-date: 2005-07-27 05:42:13
+
+----
+
+Return-date: 2005-07-29 01:59:13
+
+----
+
+Inventory: page://fYbRYHYB7sbNx2Yf
+
+----
+
+Customer: page://okaJqGigURtGJrFE
+
+----
+
+Uuid: osiDnvf5xx9Pp9O0

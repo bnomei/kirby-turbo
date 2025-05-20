@@ -1,0 +1,25 @@
+Title: Rental 676
+
+----
+
+Rental-id: 676
+
+----
+
+Rental-date: 2005-05-28 22:27:51
+
+----
+
+Return-date: 2005-05-29 20:36:51
+
+----
+
+Inventory: page://6kpIsITZswZOMejJ
+
+----
+
+Uuid: ar5HE3JiKeAPk0w2
+
+----
+
+Customer: page://Sok572NVAWg9Kowo

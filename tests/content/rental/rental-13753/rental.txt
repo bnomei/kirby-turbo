@@ -1,0 +1,21 @@
+Title: Rental 13753
+
+----
+
+Rental-id: 13753
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://YpXOgW9zu1D5sdwp
+
+----
+
+Customer: page://ozuA7F23YyJylO9U
+
+----
+
+Uuid: 8bdkIT38wKiILMzZ

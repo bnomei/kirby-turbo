@@ -1,0 +1,25 @@
+Title: Rental 3541
+
+----
+
+Rental-id: 3541
+
+----
+
+Rental-date: 2005-07-06 01:50:11
+
+----
+
+Return-date: 2005-07-12 03:24:11
+
+----
+
+Inventory: page://hwtiGzVjlt4TO6q4
+
+----
+
+Uuid: NwXmk7KurADSv2Y6
+
+----
+
+Customer: page://AebunhQoABksvBV9

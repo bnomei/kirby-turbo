@@ -1,0 +1,25 @@
+Title: Rental 3813
+
+----
+
+Rental-id: 3813
+
+----
+
+Rental-date: 2005-07-06 15:23:34
+
+----
+
+Return-date: 2005-07-08 19:03:34
+
+----
+
+Inventory: page://Ma06TJCVlGgMhNSe
+
+----
+
+Uuid: goH73HLVXujbeO5A
+
+----
+
+Customer: page://SVZoWH6J14ZTtsdK

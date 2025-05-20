@@ -1,0 +1,33 @@
+Title: LLOYD DOWD
+
+----
+
+Customer-id: 458
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: LLOYD
+
+----
+
+Last-name: DOWD
+
+----
+
+Email: LLOYD.DOWD@sakilacustomer.org
+
+----
+
+Address: page://8CnD1IMLaZ2IVQhl
+
+----
+
+Active: 1
+
+----
+
+Uuid: rl5FWdN2ozFFNyzY

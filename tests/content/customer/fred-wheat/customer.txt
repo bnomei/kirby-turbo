@@ -1,0 +1,33 @@
+Title: FRED WHEAT
+
+----
+
+Customer-id: 369
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: FRED
+
+----
+
+Last-name: WHEAT
+
+----
+
+Email: FRED.WHEAT@sakilacustomer.org
+
+----
+
+Address: page://sd1Ab2cfnXUdubFU
+
+----
+
+Active: 1
+
+----
+
+Uuid: J9AjFYg5VoQ4Yy04

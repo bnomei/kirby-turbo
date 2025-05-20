@@ -1,0 +1,25 @@
+Title: Rental 4873
+
+----
+
+Rental-id: 4873
+
+----
+
+Rental-date: 2005-07-08 19:23:32
+
+----
+
+Return-date: 2005-07-11 15:24:32
+
+----
+
+Inventory: page://4R5uP1IAOecGAQax
+
+----
+
+Uuid: IlYOeMTW29Eb2fkd
+
+----
+
+Customer: page://2Ez2viSHVAxcAVWy

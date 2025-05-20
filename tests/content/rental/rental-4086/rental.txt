@@ -1,0 +1,25 @@
+Title: Rental 4086
+
+----
+
+Rental-id: 4086
+
+----
+
+Rental-date: 2005-07-07 05:26:06
+
+----
+
+Return-date: 2005-07-12 00:45:06
+
+----
+
+Inventory: page://n6H4rFSvbXbRbMw4
+
+----
+
+Uuid: jGHju9wH02c7YxKc
+
+----
+
+Customer: page://wPjJI94k63sf9tIo

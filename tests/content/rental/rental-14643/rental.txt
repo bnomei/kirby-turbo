@@ -1,0 +1,25 @@
+Title: Rental 14643
+
+----
+
+Rental-id: 14643
+
+----
+
+Rental-date: 2005-08-21 19:11:58
+
+----
+
+Return-date: 2005-08-29 19:52:58
+
+----
+
+Inventory: page://Z21WMPtcLqi9bJEd
+
+----
+
+Customer: page://9bytxFo8pm9kA4Nc
+
+----
+
+Uuid: a6EVZefTPBwXjhLI

@@ -1,0 +1,33 @@
+Title: SIDNEY BURLESON
+
+----
+
+Customer-id: 572
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: SIDNEY
+
+----
+
+Last-name: BURLESON
+
+----
+
+Email: SIDNEY.BURLESON@sakilacustomer.org
+
+----
+
+Address: page://9CD5NEqfGFnKwZ1v
+
+----
+
+Active: 1
+
+----
+
+Uuid: Tq01V7arWSoz6Hb2

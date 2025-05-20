@@ -1,0 +1,25 @@
+Title: Rental 586
+
+----
+
+Rental-id: 586
+
+----
+
+Rental-date: 2005-05-28 12:03:00
+
+----
+
+Return-date: 2005-05-29 13:16:00
+
+----
+
+Inventory: page://wBa8UB4j2jqWjsMy
+
+----
+
+Uuid: ybGnLxk0wKdl1x0u
+
+----
+
+Customer: page://ssRpWEJq6gKOyUIh

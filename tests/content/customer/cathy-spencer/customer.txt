@@ -1,0 +1,33 @@
+Title: CATHY SPENCER
+
+----
+
+Customer-id: 163
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CATHY
+
+----
+
+Last-name: SPENCER
+
+----
+
+Email: CATHY.SPENCER@sakilacustomer.org
+
+----
+
+Address: page://956muXl0rUY1Oq1B
+
+----
+
+Active: 1
+
+----
+
+Uuid: dH8QcNydtJRu0BPQ

@@ -1,0 +1,17 @@
+Title: Inv 1788
+
+----
+
+Inventory-id: 1788
+
+----
+
+Film: page://VXTF2B4oApgM5diU
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: iHzmUI9XQpmn1xIQ

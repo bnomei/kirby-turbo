@@ -1,0 +1,25 @@
+Title: Rental 2086
+
+----
+
+Rental-id: 2086
+
+----
+
+Rental-date: 2005-06-17 17:32:07
+
+----
+
+Return-date: 2005-06-21 20:19:07
+
+----
+
+Inventory: page://wBa8UB4j2jqWjsMy
+
+----
+
+Uuid: swAMsx8XjyU7f5Y8
+
+----
+
+Customer: page://Z6uneo5K4mIsEkh3

@@ -1,0 +1,33 @@
+Title: CASEY MENA
+
+----
+
+Customer-id: 566
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: CASEY
+
+----
+
+Last-name: MENA
+
+----
+
+Email: CASEY.MENA@sakilacustomer.org
+
+----
+
+Address: page://1GV3x1Um1JNHZyN0
+
+----
+
+Active: 1
+
+----
+
+Uuid: kiN3u3DN0FkdJzU9

@@ -1,0 +1,25 @@
+Title: Rental 6055
+
+----
+
+Rental-id: 6055
+
+----
+
+Rental-date: 2005-07-11 03:59:08
+
+----
+
+Return-date: 2005-07-18 05:35:08
+
+----
+
+Inventory: page://H8GNRzoiwnZJ4Km7
+
+----
+
+Uuid: sHLCBC7dcczEejXb
+
+----
+
+Customer: page://FDHzmAWHKzLyv0Hg

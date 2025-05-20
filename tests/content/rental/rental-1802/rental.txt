@@ -1,0 +1,25 @@
+Title: Rental 1802
+
+----
+
+Rental-id: 1802
+
+----
+
+Rental-date: 2005-06-16 20:23:30
+
+----
+
+Return-date: 2005-06-21 20:02:30
+
+----
+
+Inventory: page://XDUn6kiET9MFvMVe
+
+----
+
+Uuid: gXvWUV341KXb8ZHE
+
+----
+
+Customer: page://yZByBc3rF7VvRjSr

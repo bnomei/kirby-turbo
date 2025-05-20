@@ -1,0 +1,17 @@
+Title: Inv 587
+
+----
+
+Inventory-id: 587
+
+----
+
+Film: page://fuV09DYoDLC2P03z
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 88LI5nzDpnzSOrHl

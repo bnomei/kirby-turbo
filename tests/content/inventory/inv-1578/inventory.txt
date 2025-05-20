@@ -1,0 +1,17 @@
+Title: Inv 1578
+
+----
+
+Inventory-id: 1578
+
+----
+
+Film: page://TdN5H8oupvm1ySSj
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: v16YsygYD8Q0TDaA

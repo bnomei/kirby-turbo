@@ -1,0 +1,33 @@
+Title: GINA WILLIAMSON
+
+----
+
+Customer-id: 213
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: GINA
+
+----
+
+Last-name: WILLIAMSON
+
+----
+
+Email: GINA.WILLIAMSON@sakilacustomer.org
+
+----
+
+Address: page://AJV1PR6kRDnIlhPQ
+
+----
+
+Active: 1
+
+----
+
+Uuid: SXP8ih15ziLTUonG

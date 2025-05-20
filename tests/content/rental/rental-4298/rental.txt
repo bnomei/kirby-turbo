@@ -1,0 +1,25 @@
+Title: Rental 4298
+
+----
+
+Rental-id: 4298
+
+----
+
+Rental-date: 2005-07-07 16:27:25
+
+----
+
+Return-date: 2005-07-12 18:20:25
+
+----
+
+Inventory: page://YwLucw6aArjE4xmB
+
+----
+
+Uuid: 7qPnRo44s71WnUt1
+
+----
+
+Customer: page://HpeLAHrM5mtnQogB

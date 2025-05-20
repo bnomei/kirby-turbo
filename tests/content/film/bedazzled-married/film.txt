@@ -1,0 +1,45 @@
+Title: BEDAZZLED MARRIED
+
+----
+
+Actors:
+
+- 'page://5ruVLAhmJBWUKPci'
+- 'page://lRnQ2IFMyS6K2hRd'
+- 'page://fpycclHxIOPEPbuu'
+- 'page://MokGIRk1MnOR5ecX'
+- 'page://uyiPyWfxhKFdwYKL'
+- 'page://1lkqFZByE2squnG7'
+- 'page://vMUybiWmK5EriDRU'
+
+----
+
+Film-id: 63
+
+----
+
+Description: A Astounding Character Study of a Madman And a Robot who must Meet a Mad Scientist in An Abandoned Fun House
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 73
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: n2gHXe96ti092q2R
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

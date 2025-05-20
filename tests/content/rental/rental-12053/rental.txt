@@ -1,0 +1,25 @@
+Title: Rental 12053
+
+----
+
+Rental-id: 12053
+
+----
+
+Rental-date: 2005-08-17 20:57:27
+
+----
+
+Return-date: 2005-08-20 19:51:27
+
+----
+
+Inventory: page://L2d8l5V22n1ZYOtn
+
+----
+
+Customer: page://Vns4RDWjccDhVJJe
+
+----
+
+Uuid: HmcksEMK0oodJntp

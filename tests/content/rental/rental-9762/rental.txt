@@ -1,0 +1,25 @@
+Title: Rental 9762
+
+----
+
+Rental-id: 9762
+
+----
+
+Rental-date: 2005-07-31 09:32:54
+
+----
+
+Return-date: 2005-08-05 04:55:54
+
+----
+
+Inventory: page://CQeZpVdZzLM2sLBS
+
+----
+
+Customer: page://2G3YjZ3nk45lbrpd
+
+----
+
+Uuid: gxZrm4W3Va1El8dA

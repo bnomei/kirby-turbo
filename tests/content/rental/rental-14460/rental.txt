@@ -1,0 +1,25 @@
+Title: Rental 14460
+
+----
+
+Rental-id: 14460
+
+----
+
+Rental-date: 2005-08-21 12:48:48
+
+----
+
+Return-date: 2005-08-30 16:34:48
+
+----
+
+Inventory: page://9JoUa7TBmRoplmMR
+
+----
+
+Customer: page://7XleW0b2x259mfJ9
+
+----
+
+Uuid: 7bU6fn9cCA5GZNpv

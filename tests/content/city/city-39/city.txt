@@ -1,0 +1,17 @@
+Title: Atšinsk
+
+----
+
+City-id: 39
+
+----
+
+City: Atšinsk
+
+----
+
+Country: page://NzIpdEh2BMlexUr9
+
+----
+
+Uuid: mpLZGCVWH17dcku4

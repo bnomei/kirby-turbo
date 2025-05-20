@@ -1,0 +1,25 @@
+Title: Rental 1349
+
+----
+
+Rental-id: 1349
+
+----
+
+Rental-date: 2005-06-15 12:49:02
+
+----
+
+Return-date: 2005-06-17 15:20:02
+
+----
+
+Inventory: page://wlK7mULw37JocOA9
+
+----
+
+Uuid: bPYpFIAMfdHm2vPa
+
+----
+
+Customer: page://YC1uNdmmt4LG2OJc

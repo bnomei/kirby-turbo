@@ -1,0 +1,25 @@
+Title: Rental 8318
+
+----
+
+Rental-id: 8318
+
+----
+
+Rental-date: 2005-07-29 03:44:30
+
+----
+
+Return-date: 2005-07-30 05:03:30
+
+----
+
+Inventory: page://XWGXVZcPsZqDrjRQ
+
+----
+
+Customer: page://W5URxqu7M4t7ujHI
+
+----
+
+Uuid: LZ817Zogfsw0iQ09

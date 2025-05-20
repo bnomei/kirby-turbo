@@ -1,0 +1,17 @@
+Title: Inv 580
+
+----
+
+Inventory-id: 580
+
+----
+
+Film: page://fuV09DYoDLC2P03z
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 3SzIrJwy4nRpOpcM

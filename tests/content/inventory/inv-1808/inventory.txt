@@ -1,0 +1,17 @@
+Title: Inv 1808
+
+----
+
+Inventory-id: 1808
+
+----
+
+Film: page://8wDEgH9F2alyHozl
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ZQEO3HFoF1Fw9iJt

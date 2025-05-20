@@ -1,0 +1,17 @@
+Title: Inv 73
+
+----
+
+Inventory-id: 73
+
+----
+
+Film: page://Ex6gdFZk9Qmk97Wd
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: PL7VwocVKdPz1sHZ

@@ -1,0 +1,17 @@
+Title: Inv 2833
+
+----
+
+Inventory-id: 2833
+
+----
+
+Film: page://4YjV52Bu2TZvs5UN
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 4iNoYzPT2UvcWqY6

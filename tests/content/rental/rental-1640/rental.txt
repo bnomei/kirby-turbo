@@ -1,0 +1,25 @@
+Title: Rental 1640
+
+----
+
+Rental-id: 1640
+
+----
+
+Rental-date: 2005-06-16 08:35:39
+
+----
+
+Return-date: 2005-06-17 05:37:39
+
+----
+
+Inventory: page://jdQzEyNUEYKHfbBy
+
+----
+
+Uuid: sDa69Gg6VNTNFaRx
+
+----
+
+Customer: page://jQgJTEFW0ApOfR1S

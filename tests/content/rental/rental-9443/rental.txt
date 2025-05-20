@@ -1,0 +1,25 @@
+Title: Rental 9443
+
+----
+
+Rental-id: 9443
+
+----
+
+Rental-date: 2005-07-30 21:45:46
+
+----
+
+Return-date: 2005-08-05 21:22:46
+
+----
+
+Inventory: page://KPL1OKMdwv2owYgU
+
+----
+
+Customer: page://zr15m47K6VY9URjq
+
+----
+
+Uuid: KO0aM0KTCD9nm8FY

@@ -1,0 +1,45 @@
+Title: SAGEBRUSH CLUELESS
+
+----
+
+Actors:
+
+- 'page://5ruVLAhmJBWUKPci'
+- 'page://8uCKHWVFS7qGgYjl'
+- 'page://3oaBypMbXEPYhgeK'
+- 'page://MG1O0zMGGcgzh2YX'
+- 'page://LYJoMM1yt0Pr5l4j'
+- 'page://humVtsLQfFTV2gvC'
+- 'page://j4GwVyPWyXE95Bdj'
+
+----
+
+Film-id: 757
+
+----
+
+Description: A Insightful Story of a Lumberjack And a Hunter who must Kill a Boy in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 106
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: jim1v4jkD8cBZggU
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

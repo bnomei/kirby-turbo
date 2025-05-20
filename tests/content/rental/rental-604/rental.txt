@@ -1,0 +1,25 @@
+Title: Rental 604
+
+----
+
+Rental-id: 604
+
+----
+
+Rental-date: 2005-05-28 14:37:07
+
+----
+
+Return-date: 2005-06-03 11:03:07
+
+----
+
+Inventory: page://v7WEez3sHiHsA5xv
+
+----
+
+Uuid: 0N4Kxk4caZS6mKbc
+
+----
+
+Customer: page://bm01Zh4gvYAGmd89

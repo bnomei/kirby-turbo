@@ -1,0 +1,25 @@
+Title: Rental 8991
+
+----
+
+Rental-id: 8991
+
+----
+
+Rental-date: 2005-07-30 04:42:54
+
+----
+
+Return-date: 2005-08-01 23:51:54
+
+----
+
+Inventory: page://M99CjiQ3cKqwD8pV
+
+----
+
+Customer: page://MfhMnukEGd8RhsqE
+
+----
+
+Uuid: dwmhErLapgljRLFs

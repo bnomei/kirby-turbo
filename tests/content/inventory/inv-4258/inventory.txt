@@ -1,0 +1,17 @@
+Title: Inv 4258
+
+----
+
+Inventory-id: 4258
+
+----
+
+Film: page://0Wsz9ZSbuCxGnyHG
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: O3ChwzjdfYCLZ30k

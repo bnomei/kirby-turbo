@@ -1,0 +1,33 @@
+Title: ANNIE RUSSELL
+
+----
+
+Customer-id: 97
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ANNIE
+
+----
+
+Last-name: RUSSELL
+
+----
+
+Email: ANNIE.RUSSELL@sakilacustomer.org
+
+----
+
+Address: page://CP7hPRs9iDWdGira
+
+----
+
+Active: 1
+
+----
+
+Uuid: 6haKa35Xyz3iTAFh

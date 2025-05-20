@@ -1,0 +1,25 @@
+Title: Rental 8764
+
+----
+
+Rental-id: 8764
+
+----
+
+Rental-date: 2005-07-29 19:39:04
+
+----
+
+Return-date: 2005-08-01 13:52:04
+
+----
+
+Inventory: page://KCnbGl5rruwddydh
+
+----
+
+Customer: page://bevxYrHtglALAL6m
+
+----
+
+Uuid: GnVdKpb9mdLueFPr

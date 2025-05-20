@@ -1,0 +1,25 @@
+Title: Rental 6377
+
+----
+
+Rental-id: 6377
+
+----
+
+Rental-date: 2005-07-11 21:41:16
+
+----
+
+Return-date: 2005-07-15 20:05:16
+
+----
+
+Inventory: page://j1sHM5V0jkZHmcGY
+
+----
+
+Uuid: HpEnb9Q7t1jVXccF
+
+----
+
+Customer: page://DHCFR43GioKyqCUN

@@ -1,0 +1,25 @@
+Title: Rental 6790
+
+----
+
+Rental-id: 6790
+
+----
+
+Rental-date: 2005-07-12 16:34:59
+
+----
+
+Return-date: 2005-07-17 21:43:59
+
+----
+
+Inventory: page://xcX0J5zUUe5OEqYg
+
+----
+
+Customer: page://NE2vG7J7KOOmGrbQ
+
+----
+
+Uuid: 6OLn8Jd147HGCrp2

@@ -1,0 +1,25 @@
+Title: Rental 2716
+
+----
+
+Rental-id: 2716
+
+----
+
+Rental-date: 2005-06-19 14:40:17
+
+----
+
+Return-date: 2005-06-27 17:45:17
+
+----
+
+Inventory: page://lKt1SQIMBbqb22Ct
+
+----
+
+Uuid: z9uTq6tFaUXYfZO4
+
+----
+
+Customer: page://wnNII2TCsO0AokjP

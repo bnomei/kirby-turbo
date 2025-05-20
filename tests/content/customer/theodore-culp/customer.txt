@@ -1,0 +1,33 @@
+Title: THEODORE CULP
+
+----
+
+Customer-id: 446
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: THEODORE
+
+----
+
+Last-name: CULP
+
+----
+
+Email: THEODORE.CULP@sakilacustomer.org
+
+----
+
+Address: page://njRSGWX4FO1JCOAC
+
+----
+
+Active: 0
+
+----
+
+Uuid: LxYXYVT8Su7lX0Xb

@@ -1,0 +1,25 @@
+Title: Rental 9017
+
+----
+
+Rental-id: 9017
+
+----
+
+Rental-date: 2005-07-30 05:26:20
+
+----
+
+Return-date: 2005-08-04 10:00:20
+
+----
+
+Inventory: page://V5Worm1S55eDaudW
+
+----
+
+Customer: page://cfEQjWDHZTFukeSP
+
+----
+
+Uuid: nMw6nHOofbOp8uem

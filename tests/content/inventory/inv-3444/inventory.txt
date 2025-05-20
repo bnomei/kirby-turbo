@@ -1,0 +1,17 @@
+Title: Inv 3444
+
+----
+
+Inventory-id: 3444
+
+----
+
+Film: page://A95ARFcGJfxAChNi
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: OsPVEN0sul9amBiz

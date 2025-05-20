@@ -1,0 +1,33 @@
+Title: KARL SEAL
+
+----
+
+Customer-id: 526
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: KARL
+
+----
+
+Last-name: SEAL
+
+----
+
+Email: KARL.SEAL@sakilacustomer.org
+
+----
+
+Address: page://mFdJoVvzpUGE9YXz
+
+----
+
+Active: 1
+
+----
+
+Uuid: yQcQ1eHjHG2TC2t0

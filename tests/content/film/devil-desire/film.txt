@@ -1,0 +1,43 @@
+Title: DEVIL DESIRE
+
+----
+
+Actors:
+
+- 'page://9dZ7pytlckFxJvGe'
+- 'page://YBKuIiLT3VizSQRI'
+- 'page://twoON2iToIZq1akt'
+- 'page://SR0Aks2aA1YgkZ1s'
+- 'page://Gsxc5TuqHyoQn1c1'
+
+----
+
+Film-id: 229
+
+----
+
+Description: A Beautiful Reflection of a Monkey And a Dentist who must Face a Database Administrator in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 87
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: oflhBCkeFO0XcxrB
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

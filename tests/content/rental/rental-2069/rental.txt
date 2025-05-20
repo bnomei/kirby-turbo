@@ -1,0 +1,25 @@
+Title: Rental 2069
+
+----
+
+Rental-id: 2069
+
+----
+
+Rental-date: 2005-06-17 16:19:39
+
+----
+
+Return-date: 2005-06-26 16:48:39
+
+----
+
+Inventory: page://e09EpUMM3KXAiSZu
+
+----
+
+Uuid: GrBhMpbmI36A0x1e
+
+----
+
+Customer: page://nT5wjEgKoa1UOpc8

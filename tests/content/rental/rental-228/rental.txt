@@ -1,0 +1,25 @@
+Title: Rental 228
+
+----
+
+Rental-id: 228
+
+----
+
+Rental-date: 2005-05-26 10:54:28
+
+----
+
+Return-date: 2005-06-04 09:39:28
+
+----
+
+Inventory: page://ri6Qkk23yu83WUWM
+
+----
+
+Uuid: 19Bdk5XUjj0LIeql
+
+----
+
+Customer: page://NrH2ag1h7sBRKnqA

@@ -1,0 +1,25 @@
+Title: Rental 13299
+
+----
+
+Rental-id: 13299
+
+----
+
+Rental-date: 2005-08-19 18:46:33
+
+----
+
+Return-date: 2005-08-22 20:45:33
+
+----
+
+Inventory: page://OAsApkdeWGJRLqMm
+
+----
+
+Customer: page://rpWI4a1QTMW5t3NZ
+
+----
+
+Uuid: t4fxCtptGDSerUnA

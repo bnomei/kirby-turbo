@@ -1,0 +1,17 @@
+Title: Inv 3070
+
+----
+
+Inventory-id: 3070
+
+----
+
+Film: page://2mbiyabaoecpPjXL
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: M4ONBRxggVGnuITg

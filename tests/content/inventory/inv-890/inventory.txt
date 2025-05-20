@@ -1,0 +1,17 @@
+Title: Inv 890
+
+----
+
+Inventory-id: 890
+
+----
+
+Film: page://w6mqZN9tHvV761EL
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: oo2dahHPZrLWLgpX

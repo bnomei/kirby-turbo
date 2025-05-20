@@ -1,0 +1,25 @@
+Title: Rental 11972
+
+----
+
+Rental-id: 11972
+
+----
+
+Rental-date: 2005-08-17 17:55:46
+
+----
+
+Return-date: 2005-08-22 15:31:46
+
+----
+
+Inventory: page://5Au90vUe4mulle3V
+
+----
+
+Customer: page://ngKtnxHdAXVpAIrL
+
+----
+
+Uuid: gONWx0fDgqUnzfEV

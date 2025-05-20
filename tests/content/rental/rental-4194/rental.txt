@@ -1,0 +1,25 @@
+Title: Rental 4194
+
+----
+
+Rental-id: 4194
+
+----
+
+Rental-date: 2005-07-07 10:59:39
+
+----
+
+Return-date: 2005-07-15 09:34:39
+
+----
+
+Inventory: page://hcmjcqqGoWBgECxz
+
+----
+
+Uuid: dboTKVlki55Od6Pq
+
+----
+
+Customer: page://1pdzc851na0nGZ94

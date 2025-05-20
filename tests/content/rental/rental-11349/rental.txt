@@ -1,0 +1,25 @@
+Title: Rental 11349
+
+----
+
+Rental-id: 11349
+
+----
+
+Rental-date: 2005-08-02 17:21:49
+
+----
+
+Return-date: 2005-08-06 18:40:49
+
+----
+
+Inventory: page://vBpo959UeV3y7QQf
+
+----
+
+Customer: page://j6w051LSx5dWYnKn
+
+----
+
+Uuid: yBWaCxtFykzuhyfJ

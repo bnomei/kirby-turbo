@@ -1,0 +1,25 @@
+Title: Rental 670
+
+----
+
+Rental-id: 670
+
+----
+
+Rental-date: 2005-05-28 22:04:03
+
+----
+
+Return-date: 2005-06-06 22:43:03
+
+----
+
+Inventory: page://bxcMfb6rgID621JP
+
+----
+
+Uuid: y0i3y3TVNK835m0b
+
+----
+
+Customer: page://cJydH6wkvuH04KQt

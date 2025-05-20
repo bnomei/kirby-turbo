@@ -1,0 +1,25 @@
+Title: Rental 866
+
+----
+
+Rental-id: 866
+
+----
+
+Rental-date: 2005-05-30 03:43:54
+
+----
+
+Return-date: 2005-06-08 04:28:54
+
+----
+
+Inventory: page://rRvXIMWuAxwmB3IS
+
+----
+
+Uuid: 68L4180SgDupYp3g
+
+----
+
+Customer: page://sYyRIy15jUUAajVC

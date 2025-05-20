@@ -1,0 +1,25 @@
+Title: Rental 3025
+
+----
+
+Rental-id: 3025
+
+----
+
+Rental-date: 2005-06-20 11:46:48
+
+----
+
+Return-date: 2005-06-22 08:43:48
+
+----
+
+Inventory: page://cGhkN7sdjQaWaRCO
+
+----
+
+Uuid: Imzal6SUrOfdRUwg
+
+----
+
+Customer: page://Hpp58DeoLb615BZP

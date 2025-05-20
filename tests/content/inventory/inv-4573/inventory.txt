@@ -1,0 +1,17 @@
+Title: Inv 4573
+
+----
+
+Inventory-id: 4573
+
+----
+
+Film: page://xsl9RHv93yeclUCw
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: tUvyZl5wiEhAMrVF

@@ -1,0 +1,33 @@
+Title: MARCIA DEAN
+
+----
+
+Customer-id: 236
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MARCIA
+
+----
+
+Last-name: DEAN
+
+----
+
+Email: MARCIA.DEAN@sakilacustomer.org
+
+----
+
+Address: page://0SjpjKLFNmDk2T65
+
+----
+
+Active: 1
+
+----
+
+Uuid: HQxscLHxuDjEVXyk

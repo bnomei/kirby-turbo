@@ -1,0 +1,25 @@
+Title: Rental 7393
+
+----
+
+Rental-id: 7393
+
+----
+
+Rental-date: 2005-07-27 16:02:52
+
+----
+
+Return-date: 2005-08-02 13:24:52
+
+----
+
+Inventory: page://ycKSyLF2deCZtwfr
+
+----
+
+Customer: page://5RcmhHbYnxl64mW8
+
+----
+
+Uuid: 52EiwTtZYdSJQT4T

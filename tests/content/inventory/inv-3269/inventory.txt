@@ -1,0 +1,17 @@
+Title: Inv 3269
+
+----
+
+Inventory-id: 3269
+
+----
+
+Film: page://kORLc1rST2kqFGaV
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: k8DCOBaWsCk1RBCw

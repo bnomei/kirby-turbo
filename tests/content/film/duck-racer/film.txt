@@ -1,0 +1,40 @@
+Title: DUCK RACER
+
+----
+
+Actors:
+
+- 'page://pAFoAtJmRtH6ome4'
+- 'page://pokjngmFMjrhDsLQ'
+
+----
+
+Film-id: 259
+
+----
+
+Description: A Lacklusture Yarn of a Teacher And a Squirrel who must Overcome a Dog in A Shark Tank
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 116
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: 4BKXPn80KJt4RHUt
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

@@ -1,0 +1,17 @@
+Title: Inv 1755
+
+----
+
+Inventory-id: 1755
+
+----
+
+Film: page://YjBQm06MKjTjvtNn
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: iQsfMTVy8O2ZZVxT

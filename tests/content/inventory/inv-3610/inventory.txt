@@ -1,0 +1,17 @@
+Title: Inv 3610
+
+----
+
+Inventory-id: 3610
+
+----
+
+Film: page://aAkTwopuYZivPiG2
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: GQjVmEzgyEhE9FaC

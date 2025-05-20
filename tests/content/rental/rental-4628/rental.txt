@@ -1,0 +1,25 @@
+Title: Rental 4628
+
+----
+
+Rental-id: 4628
+
+----
+
+Rental-date: 2005-07-08 08:25:52
+
+----
+
+Return-date: 2005-07-10 11:22:52
+
+----
+
+Inventory: page://CJjAQTHtInebwpqp
+
+----
+
+Uuid: NWuepnZK7E8UiCFW
+
+----
+
+Customer: page://2G3YjZ3nk45lbrpd

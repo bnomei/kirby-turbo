@@ -1,0 +1,17 @@
+Title: Inv 700
+
+----
+
+Inventory-id: 700
+
+----
+
+Film: page://FFIp07Vl2C06w2wW
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: G4FbNFer2HNcAHwd

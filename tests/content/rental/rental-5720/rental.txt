@@ -1,0 +1,25 @@
+Title: Rental 5720
+
+----
+
+Rental-id: 5720
+
+----
+
+Rental-date: 2005-07-10 11:09:12
+
+----
+
+Return-date: 2005-07-16 07:31:12
+
+----
+
+Inventory: page://AhHvpnZ4VSJbCYoL
+
+----
+
+Uuid: BcbSBvGeEDG0WmPl
+
+----
+
+Customer: page://bG9DDgWMAFbLUMhy

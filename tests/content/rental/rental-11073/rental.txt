@@ -1,0 +1,25 @@
+Title: Rental 11073
+
+----
+
+Rental-id: 11073
+
+----
+
+Rental-date: 2005-08-02 07:13:03
+
+----
+
+Return-date: 2005-08-03 05:46:03
+
+----
+
+Inventory: page://mc4Qhhkt4FPtQNda
+
+----
+
+Customer: page://tXU6KMhmykXTBWCU
+
+----
+
+Uuid: Re2vTsei7FObE9tg

@@ -1,0 +1,25 @@
+Title: Rental 3100
+
+----
+
+Rental-id: 3100
+
+----
+
+Rental-date: 2005-06-20 16:47:57
+
+----
+
+Return-date: 2005-06-26 16:59:57
+
+----
+
+Inventory: page://n9loZRUyOiYpL2LY
+
+----
+
+Uuid: 2hYdSsMDoIwbwPg7
+
+----
+
+Customer: page://z84M1eOE64VO5Dm4

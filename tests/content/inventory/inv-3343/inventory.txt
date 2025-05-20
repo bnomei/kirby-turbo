@@ -1,0 +1,17 @@
+Title: Inv 3343
+
+----
+
+Inventory-id: 3343
+
+----
+
+Film: page://JZKZHd1XqXdOF2GJ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: t8FJUhCMQciiZoy5

@@ -1,0 +1,17 @@
+Title: Inv 1694
+
+----
+
+Inventory-id: 1694
+
+----
+
+Film: page://BFGasPoqtLyEFozz
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: IXbXJoboRgwh23zP

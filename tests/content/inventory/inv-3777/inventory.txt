@@ -1,0 +1,17 @@
+Title: Inv 3777
+
+----
+
+Inventory-id: 3777
+
+----
+
+Film: page://XkYdTumKc3zQL718
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: uwsTACNGW1BmsB3D

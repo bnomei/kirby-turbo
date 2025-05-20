@@ -1,0 +1,25 @@
+Title: Rental 14839
+
+----
+
+Rental-id: 14839
+
+----
+
+Rental-date: 2005-08-22 01:58:15
+
+----
+
+Return-date: 2005-08-24 05:24:15
+
+----
+
+Inventory: page://nFBjWSZlsuKPQWMg
+
+----
+
+Customer: page://myqxA7OhmdzooYH2
+
+----
+
+Uuid: tBYEz8mVaGD0Pn7k

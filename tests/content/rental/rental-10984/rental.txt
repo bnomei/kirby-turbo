@@ -1,0 +1,25 @@
+Title: Rental 10984
+
+----
+
+Rental-id: 10984
+
+----
+
+Rental-date: 2005-08-02 04:30:02
+
+----
+
+Return-date: 2005-08-10 02:51:02
+
+----
+
+Inventory: page://PyISQp9RwZsP5OFE
+
+----
+
+Customer: page://iEI8EkTsORmGUdqi
+
+----
+
+Uuid: 6f5Yx8Xe9NEORHnC

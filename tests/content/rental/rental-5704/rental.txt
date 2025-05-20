@@ -1,0 +1,25 @@
+Title: Rental 5704
+
+----
+
+Rental-id: 5704
+
+----
+
+Rental-date: 2005-07-10 10:06:29
+
+----
+
+Return-date: 2005-07-17 10:48:29
+
+----
+
+Inventory: page://33CvUlmlpR4yNgWs
+
+----
+
+Uuid: y07B28Mqp0a9L9nz
+
+----
+
+Customer: page://dkYED9p0YUgsDhXs

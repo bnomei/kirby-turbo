@@ -1,0 +1,17 @@
+Title: Inv 958
+
+----
+
+Inventory-id: 958
+
+----
+
+Film: page://smOmCo2RQh857Ata
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: SWfjc2bbWFDG7Y9B

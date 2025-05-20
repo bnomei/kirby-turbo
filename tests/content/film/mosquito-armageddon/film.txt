@@ -1,0 +1,42 @@
+Title: MOSQUITO ARMAGEDDON
+
+----
+
+Actors:
+
+- 'page://e0jga56TJCBrOXvD'
+- 'page://4hDC3FM6lySlQjxW'
+- 'page://JeeyeDJ3FmxSMbIy'
+- 'page://vMUybiWmK5EriDRU'
+
+----
+
+Film-id: 598
+
+----
+
+Description: A Thoughtful Character Study of a Waitress And a Feminist who must Build a Teacher in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 57
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: vora5sVe9reu6u3d
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

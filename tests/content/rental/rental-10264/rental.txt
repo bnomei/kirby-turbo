@@ -1,0 +1,25 @@
+Title: Rental 10264
+
+----
+
+Rental-id: 10264
+
+----
+
+Rental-date: 2005-08-01 03:03:12
+
+----
+
+Return-date: 2005-08-08 00:34:12
+
+----
+
+Inventory: page://AQrG8uneQgyzPWH3
+
+----
+
+Customer: page://OuCE5gs5Pt217cWx
+
+----
+
+Uuid: gaLssd07NnUnr92a

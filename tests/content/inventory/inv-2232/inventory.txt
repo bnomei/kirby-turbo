@@ -1,0 +1,17 @@
+Title: Inv 2232
+
+----
+
+Inventory-id: 2232
+
+----
+
+Film: page://Bebr7PpZufj8v127
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: GD8Vhvran8Z4nFL9

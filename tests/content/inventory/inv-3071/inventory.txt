@@ -1,0 +1,17 @@
+Title: Inv 3071
+
+----
+
+Inventory-id: 3071
+
+----
+
+Film: page://qJJTbkgi4aJuQXIF
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 04X0rbt53K4CL3Xi

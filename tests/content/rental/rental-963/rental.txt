@@ -1,0 +1,25 @@
+Title: Rental 963
+
+----
+
+Rental-id: 963
+
+----
+
+Rental-date: 2005-05-30 18:52:53
+
+----
+
+Return-date: 2005-06-07 16:19:53
+
+----
+
+Inventory: page://TvPPAOnOcudh8mt9
+
+----
+
+Uuid: 2HUbWlXNEOiIavmk
+
+----
+
+Customer: page://hiI1XI5RUVwa5yqD

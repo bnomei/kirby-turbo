@@ -1,0 +1,17 @@
+Title: Inv 727
+
+----
+
+Inventory-id: 727
+
+----
+
+Film: page://rYU3xQcgKGdlwLY7
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: kS9qvXHzDFinwwG7

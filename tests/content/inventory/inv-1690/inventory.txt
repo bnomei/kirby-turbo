@@ -1,0 +1,17 @@
+Title: Inv 1690
+
+----
+
+Inventory-id: 1690
+
+----
+
+Film: page://BFGasPoqtLyEFozz
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 7G6IsTKWi8hPvXQp

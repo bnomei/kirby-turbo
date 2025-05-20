@@ -1,0 +1,25 @@
+Title: Rental 14410
+
+----
+
+Rental-id: 14410
+
+----
+
+Rental-date: 2005-08-21 10:54:49
+
+----
+
+Return-date: 2005-08-26 08:28:49
+
+----
+
+Inventory: page://Iz4mdKth8iVQMNU3
+
+----
+
+Customer: page://TCHvKARcBg3R487d
+
+----
+
+Uuid: VOgZZ5B8MbaFhpvN

@@ -1,0 +1,33 @@
+Title: PENNY NEAL
+
+----
+
+Customer-id: 271
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: PENNY
+
+----
+
+Last-name: NEAL
+
+----
+
+Email: PENNY.NEAL@sakilacustomer.org
+
+----
+
+Address: page://o1OkUBGhnlSFZU6y
+
+----
+
+Active: 0
+
+----
+
+Uuid: 2LSdRoTDkGNKivkh

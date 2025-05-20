@@ -1,0 +1,17 @@
+Title: Inv 2850
+
+----
+
+Inventory-id: 2850
+
+----
+
+Film: page://gWj492wpDTAXzExJ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: rBjHCrGneBdLMNBB

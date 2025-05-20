@@ -1,0 +1,25 @@
+Title: Rental 2629
+
+----
+
+Rental-id: 2629
+
+----
+
+Rental-date: 2005-06-19 08:42:12
+
+----
+
+Return-date: 2005-06-28 03:38:12
+
+----
+
+Inventory: page://01VsVMQXLX3jNPsy
+
+----
+
+Uuid: SPv6AGMGxAnh6sw5
+
+----
+
+Customer: page://rl5FWdN2ozFFNyzY

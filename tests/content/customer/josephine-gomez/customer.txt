@@ -1,0 +1,33 @@
+Title: JOSEPHINE GOMEZ
+
+----
+
+Customer-id: 121
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JOSEPHINE
+
+----
+
+Last-name: GOMEZ
+
+----
+
+Email: JOSEPHINE.GOMEZ@sakilacustomer.org
+
+----
+
+Address: page://ZWO0aWxFSwgCrwTQ
+
+----
+
+Active: 1
+
+----
+
+Uuid: okaJqGigURtGJrFE

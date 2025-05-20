@@ -1,0 +1,25 @@
+Title: Rental 3492
+
+----
+
+Rental-id: 3492
+
+----
+
+Rental-date: 2005-07-05 23:44:37
+
+----
+
+Return-date: 2005-07-14 03:54:37
+
+----
+
+Inventory: page://srVRUxkZw90I55wi
+
+----
+
+Uuid: kWgw0L7SzlXlaM3k
+
+----
+
+Customer: page://S7Bt2TM6J9ACe4bP

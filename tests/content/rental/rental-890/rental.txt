@@ -1,0 +1,25 @@
+Title: Rental 890
+
+----
+
+Rental-id: 890
+
+----
+
+Rental-date: 2005-05-30 07:43:04
+
+----
+
+Return-date: 2005-06-01 11:26:04
+
+----
+
+Inventory: page://5ZIqc4dmXTusGmxo
+
+----
+
+Uuid: qw4gTQ8A6s3YCctS
+
+----
+
+Customer: page://Gi5FRT3pzixrT86D

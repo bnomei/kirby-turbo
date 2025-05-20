@@ -1,0 +1,45 @@
+Title: RAGE GAMES
+
+----
+
+Actors:
+
+- 'page://u0N0ozPCYMgg4oo9'
+- 'page://f54gdCyL7WpJ8aUr'
+- 'page://6LG8mbCuu1aKuRcl'
+- 'page://DJVklNozM1l2RK0x'
+- 'page://gELBLdH4G3cmVmcs'
+- 'page://3XS33oPl7qwaYDh3'
+- 'page://V93xbOGPlOsB9ymO'
+
+----
+
+Film-id: 710
+
+----
+
+Description: A Fast-Paced Saga of a Astronaut And a Secret Agent who must Escape a Hunter in An Abandoned Amusement Park
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 120
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: ZL9HkYxNYQdRpf1u
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

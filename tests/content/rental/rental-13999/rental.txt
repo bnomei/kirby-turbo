@@ -1,0 +1,25 @@
+Title: Rental 13999
+
+----
+
+Rental-id: 13999
+
+----
+
+Rental-date: 2005-08-20 19:53:32
+
+----
+
+Return-date: 2005-08-26 19:01:32
+
+----
+
+Inventory: page://wfeB2fnCB7Nb1rZf
+
+----
+
+Customer: page://0Qiks8V78Ua8rTtk
+
+----
+
+Uuid: al9eDsKSwcKrCp58

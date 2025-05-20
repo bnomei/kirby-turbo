@@ -1,0 +1,17 @@
+Title: Inv 371
+
+----
+
+Inventory-id: 371
+
+----
+
+Film: page://HbEpEiQHOXmkFnCF
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: f0xiLaV758jAb7pP

@@ -1,0 +1,25 @@
+Title: Rental 1912
+
+----
+
+Rental-id: 1912
+
+----
+
+Rental-date: 2005-06-17 05:18:32
+
+----
+
+Return-date: 2005-06-20 10:01:32
+
+----
+
+Inventory: page://ASyGDzPmlkrTzsxF
+
+----
+
+Uuid: 9TKxVsrvxqGWiJXf
+
+----
+
+Customer: page://gyF67nPwxWbRqkYZ

@@ -1,0 +1,25 @@
+Title: Rental 15388
+
+----
+
+Rental-id: 15388
+
+----
+
+Rental-date: 2005-08-22 22:49:23
+
+----
+
+Return-date: 2005-09-01 03:50:23
+
+----
+
+Inventory: page://fWtP7meb4S62ROwg
+
+----
+
+Customer: page://SGDmUxNER90s6kyU
+
+----
+
+Uuid: jEmBfNRUcGQaK4N3

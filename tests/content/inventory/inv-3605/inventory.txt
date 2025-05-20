@@ -1,0 +1,17 @@
+Title: Inv 3605
+
+----
+
+Inventory-id: 3605
+
+----
+
+Film: page://EUk4G3uyIOTVqIi4
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: g13kKY9Cpy6VhvPb

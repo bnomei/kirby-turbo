@@ -1,0 +1,42 @@
+Title: BLUES INSTINCT
+
+----
+
+Actors:
+
+- 'page://huljhPJQohi6UE64'
+- 'page://twoON2iToIZq1akt'
+- 'page://rnDcbekdB8oOqt97'
+- 'page://nNLtL91vUU653tYz'
+
+----
+
+Film-id: 83
+
+----
+
+Description: A Insightful Documentary of a Boat And a Composer who must Meet a Forensic Psychologist in An Abandoned Fun House
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 50
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: wsVJXNfnbxmaVfQ6
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

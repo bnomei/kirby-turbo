@@ -1,0 +1,25 @@
+Title: Rental 3623
+
+----
+
+Rental-id: 3623
+
+----
+
+Rental-date: 2005-07-06 06:05:23
+
+----
+
+Return-date: 2005-07-07 05:59:23
+
+----
+
+Inventory: page://fGKxDpixthkZbNvJ
+
+----
+
+Uuid: ZFwdDEKE8RjAfK9a
+
+----
+
+Customer: page://Kfg59yZzb8JuYq1o

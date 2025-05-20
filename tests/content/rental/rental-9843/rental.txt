@@ -1,0 +1,25 @@
+Title: Rental 9843
+
+----
+
+Rental-id: 9843
+
+----
+
+Rental-date: 2005-07-31 12:25:28
+
+----
+
+Return-date: 2005-08-01 09:51:28
+
+----
+
+Inventory: page://U9zkdQLM76KFOyPF
+
+----
+
+Customer: page://jNinHUxNSvO3KbCp
+
+----
+
+Uuid: F1eipcCFiB36a5U8

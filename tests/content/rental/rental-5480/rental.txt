@@ -1,0 +1,25 @@
+Title: Rental 5480
+
+----
+
+Rental-id: 5480
+
+----
+
+Rental-date: 2005-07-09 23:49:07
+
+----
+
+Return-date: 2005-07-12 00:15:07
+
+----
+
+Inventory: page://9yE4KZ0Ht78jFMQc
+
+----
+
+Uuid: cbJxAZMrzTEhlLEX
+
+----
+
+Customer: page://CS8B0NAcj8qNk9MR

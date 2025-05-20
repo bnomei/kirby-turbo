@@ -1,0 +1,25 @@
+Title: Rental 854
+
+----
+
+Rental-id: 854
+
+----
+
+Rental-date: 2005-05-30 01:56:11
+
+----
+
+Return-date: 2005-06-01 06:34:11
+
+----
+
+Inventory: page://UjWzi7QVNRXbfI0V
+
+----
+
+Uuid: nahyQ4EbfXdj8gUQ
+
+----
+
+Customer: page://J9AjFYg5VoQ4Yy04

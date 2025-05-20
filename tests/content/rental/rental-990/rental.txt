@@ -1,0 +1,25 @@
+Title: Rental 990
+
+----
+
+Rental-id: 990
+
+----
+
+Rental-date: 2005-05-30 23:25:14
+
+----
+
+Return-date: 2005-06-06 18:41:14
+
+----
+
+Inventory: page://JgtyrYX2nMJHHLKc
+
+----
+
+Uuid: CrL20bbA78B9tDx3
+
+----
+
+Customer: page://W7ZJXAG7NuFuJZ2S

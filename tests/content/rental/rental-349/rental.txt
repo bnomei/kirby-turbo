@@ -1,0 +1,25 @@
+Title: Rental 349
+
+----
+
+Rental-id: 349
+
+----
+
+Rental-date: 2005-05-27 04:53:11
+
+----
+
+Return-date: 2005-05-28 06:33:11
+
+----
+
+Inventory: page://HUgSNPlRWC2rUOuP
+
+----
+
+Uuid: NIE3FK8Q4oA2K4Se
+
+----
+
+Customer: page://qeEo6FrEXh8ohhLi

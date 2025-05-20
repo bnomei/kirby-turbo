@@ -1,0 +1,17 @@
+Title: Inv 1045
+
+----
+
+Inventory-id: 1045
+
+----
+
+Film: page://u61mXZArei0MTQD2
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: x1u2QcL0BsihWwz6

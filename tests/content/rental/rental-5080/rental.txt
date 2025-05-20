@@ -1,0 +1,25 @@
+Title: Rental 5080
+
+----
+
+Rental-id: 5080
+
+----
+
+Rental-date: 2005-07-09 05:23:55
+
+----
+
+Return-date: 2005-07-11 05:56:55
+
+----
+
+Inventory: page://gCjzrAWi2Z7fk0ET
+
+----
+
+Uuid: vlQo2UkdHvGfwwvW
+
+----
+
+Customer: page://v2N94muKJ3uhMCtA

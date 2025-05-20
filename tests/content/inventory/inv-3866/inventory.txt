@@ -1,0 +1,17 @@
+Title: Inv 3866
+
+----
+
+Inventory-id: 3866
+
+----
+
+Film: page://bpyP3hyHEFde02iy
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: emJUeImK5uKswvyj

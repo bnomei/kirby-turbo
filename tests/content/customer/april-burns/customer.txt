@@ -1,0 +1,33 @@
+Title: APRIL BURNS
+
+----
+
+Customer-id: 142
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: APRIL
+
+----
+
+Last-name: BURNS
+
+----
+
+Email: APRIL.BURNS@sakilacustomer.org
+
+----
+
+Address: page://LbxL997NEi7NonMd
+
+----
+
+Active: 1
+
+----
+
+Uuid: S7Bt2TM6J9ACe4bP

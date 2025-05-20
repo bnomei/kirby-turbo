@@ -1,0 +1,25 @@
+Title: Rental 134
+
+----
+
+Rental-id: 134
+
+----
+
+Rental-date: 2005-05-25 21:48:41
+
+----
+
+Return-date: 2005-06-02 18:28:41
+
+----
+
+Inventory: page://5LNgLH37LjNvshRf
+
+----
+
+Uuid: rsJfoxTEU4f9kbjr
+
+----
+
+Customer: page://Y16ImlJTc5Q7Tqiw

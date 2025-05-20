@@ -1,0 +1,25 @@
+Title: Rental 2281
+
+----
+
+Rental-id: 2281
+
+----
+
+Rental-date: 2005-06-18 06:47:29
+
+----
+
+Return-date: 2005-06-20 10:27:29
+
+----
+
+Inventory: page://DLhPMxCAPchTYUKp
+
+----
+
+Uuid: QF0INumy4KEgBhii
+
+----
+
+Customer: page://0AtuJCBei0DLVh5W

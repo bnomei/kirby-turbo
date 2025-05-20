@@ -1,0 +1,25 @@
+Title: Rental 10043
+
+----
+
+Rental-id: 10043
+
+----
+
+Rental-date: 2005-07-31 19:02:07
+
+----
+
+Return-date: 2005-08-07 17:58:07
+
+----
+
+Inventory: page://y0CR0AdSSe2uKCBZ
+
+----
+
+Customer: page://Y16ImlJTc5Q7Tqiw
+
+----
+
+Uuid: CqePtmy7Pi8NRGla

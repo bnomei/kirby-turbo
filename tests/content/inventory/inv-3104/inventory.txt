@@ -1,0 +1,17 @@
+Title: Inv 3104
+
+----
+
+Inventory-id: 3104
+
+----
+
+Film: page://GdNzKfLVjth1DK8f
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: rwmzbgAniSLXCbEh

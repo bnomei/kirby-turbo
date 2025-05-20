@@ -1,0 +1,17 @@
+Title: Inv 1720
+
+----
+
+Inventory-id: 1720
+
+----
+
+Film: page://TpaewB7td0xFE1TU
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: RFq7OleGvalMGK5G

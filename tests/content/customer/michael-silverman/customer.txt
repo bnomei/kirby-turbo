@@ -1,0 +1,33 @@
+Title: MICHAEL SILVERMAN
+
+----
+
+Customer-id: 302
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MICHAEL
+
+----
+
+Last-name: SILVERMAN
+
+----
+
+Email: MICHAEL.SILVERMAN@sakilacustomer.org
+
+----
+
+Address: page://ORtW0Mf5x3fzxsv8
+
+----
+
+Active: 1
+
+----
+
+Uuid: EN43JZfYCm84hq5t

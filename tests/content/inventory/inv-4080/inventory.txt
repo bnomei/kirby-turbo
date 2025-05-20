@@ -1,0 +1,17 @@
+Title: Inv 4080
+
+----
+
+Inventory-id: 4080
+
+----
+
+Film: page://c3rTw5R0z4rnieBv
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 1Yp3uhgJvYRNsLoj

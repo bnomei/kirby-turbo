@@ -1,0 +1,25 @@
+Title: Rental 5305
+
+----
+
+Rental-id: 5305
+
+----
+
+Rental-date: 2005-07-09 15:55:36
+
+----
+
+Return-date: 2005-07-18 15:59:36
+
+----
+
+Inventory: page://yWZK9BbSasVIHM0y
+
+----
+
+Uuid: BdZzANlabTtgLkHp
+
+----
+
+Customer: page://6W4MNt60QNzdOkOf

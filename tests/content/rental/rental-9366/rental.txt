@@ -1,0 +1,25 @@
+Title: Rental 9366
+
+----
+
+Rental-id: 9366
+
+----
+
+Rental-date: 2005-07-30 18:48:57
+
+----
+
+Return-date: 2005-08-03 15:17:57
+
+----
+
+Inventory: page://ccCCEooc8oEHkyvf
+
+----
+
+Customer: page://vvb7rjkZaY4UCatA
+
+----
+
+Uuid: oAIPqjm0yCfs2lMw

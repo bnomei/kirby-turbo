@@ -1,0 +1,25 @@
+Title: Rental 8241
+
+----
+
+Rental-id: 8241
+
+----
+
+Rental-date: 2005-07-29 00:33:36
+
+----
+
+Return-date: 2005-08-03 01:31:36
+
+----
+
+Inventory: page://1gkyEpUjpMffXb7h
+
+----
+
+Customer: page://M0U3K1RrRahNRLAP
+
+----
+
+Uuid: OFWZkreE10qOQOyi

@@ -1,0 +1,33 @@
+Title: RAFAEL ABNEY
+
+----
+
+Customer-id: 505
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: RAFAEL
+
+----
+
+Last-name: ABNEY
+
+----
+
+Email: RAFAEL.ABNEY@sakilacustomer.org
+
+----
+
+Address: page://DFtqgyKRTzqobMJ9
+
+----
+
+Active: 1
+
+----
+
+Uuid: kIByXaqyonxT2CUq

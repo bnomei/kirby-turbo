@@ -1,0 +1,17 @@
+Title: Inv 3653
+
+----
+
+Inventory-id: 3653
+
+----
+
+Film: page://GtyyiCWqM4s15MCP
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 7wi0jTSLySjT2yIF

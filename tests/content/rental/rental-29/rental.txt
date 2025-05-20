@@ -1,0 +1,25 @@
+Title: Rental 29
+
+----
+
+Rental-id: 29
+
+----
+
+Rental-date: 2005-05-25 03:47:12
+
+----
+
+Return-date: 2005-05-30 00:31:12
+
+----
+
+Inventory: page://5htLoFQeQyaOPle2
+
+----
+
+Uuid: VjsxXZcZGmMzGtpX
+
+----
+
+Customer: page://074m4vQayjqUygEq

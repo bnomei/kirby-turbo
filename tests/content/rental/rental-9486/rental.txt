@@ -1,0 +1,25 @@
+Title: Rental 9486
+
+----
+
+Rental-id: 9486
+
+----
+
+Rental-date: 2005-07-30 23:35:42
+
+----
+
+Return-date: 2005-08-09 02:08:42
+
+----
+
+Inventory: page://5ETzqkyJ2YM7Tb2u
+
+----
+
+Customer: page://sNiE3u2o38XV820m
+
+----
+
+Uuid: AGVrm9npsbeiCC7L

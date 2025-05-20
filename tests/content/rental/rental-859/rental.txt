@@ -1,0 +1,25 @@
+Title: Rental 859
+
+----
+
+Rental-id: 859
+
+----
+
+Rental-date: 2005-05-30 02:36:20
+
+----
+
+Return-date: 2005-06-02 07:49:20
+
+----
+
+Inventory: page://FCoV74MmmC0XgnRK
+
+----
+
+Uuid: XahpBntKbLPtGfMk
+
+----
+
+Customer: page://bZY1vsN3giMcQSdf

@@ -1,0 +1,33 @@
+Title: DAVE GARDINER
+
+----
+
+Customer-id: 569
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: DAVE
+
+----
+
+Last-name: GARDINER
+
+----
+
+Email: DAVE.GARDINER@sakilacustomer.org
+
+----
+
+Address: page://o1EtcXAnIv3CwWGK
+
+----
+
+Active: 1
+
+----
+
+Uuid: yvKogFHQVJDnr873

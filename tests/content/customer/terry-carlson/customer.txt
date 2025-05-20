@@ -1,0 +1,33 @@
+Title: TERRY CARLSON
+
+----
+
+Customer-id: 253
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: TERRY
+
+----
+
+Last-name: CARLSON
+
+----
+
+Email: TERRY.CARLSON@sakilacustomer.org
+
+----
+
+Address: page://jEWzcVQPI7Inadcy
+
+----
+
+Active: 1
+
+----
+
+Uuid: hd1gRLl3i3JFAUfJ

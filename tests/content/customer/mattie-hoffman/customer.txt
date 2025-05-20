@@ -1,0 +1,33 @@
+Title: MATTIE HOFFMAN
+
+----
+
+Customer-id: 252
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: MATTIE
+
+----
+
+Last-name: HOFFMAN
+
+----
+
+Email: MATTIE.HOFFMAN@sakilacustomer.org
+
+----
+
+Address: page://VlV2CD3cUUaC2sfZ
+
+----
+
+Active: 1
+
+----
+
+Uuid: wnNII2TCsO0AokjP

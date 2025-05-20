@@ -1,0 +1,17 @@
+Title: Inv 3158
+
+----
+
+Inventory-id: 3158
+
+----
+
+Film: page://fcp1yQnZSaRrQuHd
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Gt4PWR13ZqEP4WlE

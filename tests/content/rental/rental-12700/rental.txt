@@ -1,0 +1,25 @@
+Title: Rental 12700
+
+----
+
+Rental-id: 12700
+
+----
+
+Rental-date: 2005-08-18 20:24:46
+
+----
+
+Return-date: 2005-08-23 21:50:46
+
+----
+
+Inventory: page://fVGF09STLeaThom7
+
+----
+
+Customer: page://C7Yyvdwc8g6atULR
+
+----
+
+Uuid: o05ZgK9jbvTvNGco

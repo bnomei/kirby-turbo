@@ -1,0 +1,25 @@
+Title: Rental 14320
+
+----
+
+Rental-id: 14320
+
+----
+
+Rental-date: 2005-08-21 08:04:40
+
+----
+
+Return-date: 2005-08-22 02:09:40
+
+----
+
+Inventory: page://XZgBKu2Wj49aJMP4
+
+----
+
+Customer: page://aR5C6yOEP2AWS3bi
+
+----
+
+Uuid: rB3U35pzecnj1sDk

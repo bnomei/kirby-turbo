@@ -1,0 +1,41 @@
+Title: FIGHT JAWBREAKER
+
+----
+
+Actors:
+
+- 'page://8goemlF34STteVIR'
+- 'page://0h8tQJYts8gmFWwG'
+- 'page://nfzjlyLmEQ6Q1S80'
+
+----
+
+Film-id: 314
+
+----
+
+Description: A Intrepid Panorama of a Womanizer And a Girl who must Escape a Girl in A Manhattan Penthouse
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 91
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: Fmj4TUluZlJEgCnU
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

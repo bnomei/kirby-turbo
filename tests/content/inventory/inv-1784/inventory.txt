@@ -1,0 +1,17 @@
+Title: Inv 1784
+
+----
+
+Inventory-id: 1784
+
+----
+
+Film: page://VXTF2B4oApgM5diU
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ADzEQqEwLcGFxkDY

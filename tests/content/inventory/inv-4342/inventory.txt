@@ -1,0 +1,17 @@
+Title: Inv 4342
+
+----
+
+Inventory-id: 4342
+
+----
+
+Film: page://YvmY2dKl32dFuhg0
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ps6KIfmmtLWAw8Oh

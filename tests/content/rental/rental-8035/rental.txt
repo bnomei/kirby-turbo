@@ -1,0 +1,25 @@
+Title: Rental 8035
+
+----
+
+Rental-id: 8035
+
+----
+
+Rental-date: 2005-07-28 16:23:01
+
+----
+
+Return-date: 2005-08-05 10:52:01
+
+----
+
+Inventory: page://uuHcBo5POyB1baq5
+
+----
+
+Customer: page://aFkGopCOghEK7p34
+
+----
+
+Uuid: 6kGGrM25b67zXSmh

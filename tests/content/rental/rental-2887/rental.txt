@@ -1,0 +1,25 @@
+Title: Rental 2887
+
+----
+
+Rental-id: 2887
+
+----
+
+Rental-date: 2005-06-20 01:39:43
+
+----
+
+Return-date: 2005-06-25 05:22:43
+
+----
+
+Inventory: page://aZus77T6AJIADVQY
+
+----
+
+Uuid: GPCari8jcJ6fq67B
+
+----
+
+Customer: page://KtdUvW4BiY66VFBy

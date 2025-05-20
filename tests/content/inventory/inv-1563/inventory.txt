@@ -1,0 +1,17 @@
+Title: Inv 1563
+
+----
+
+Inventory-id: 1563
+
+----
+
+Film: page://502H0SM5SBC62joh
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: EN1aTjn7kL8MkCkb

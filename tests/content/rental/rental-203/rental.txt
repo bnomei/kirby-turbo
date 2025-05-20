@@ -1,0 +1,25 @@
+Title: Rental 203
+
+----
+
+Rental-id: 203
+
+----
+
+Rental-date: 2005-05-26 07:27:57
+
+----
+
+Return-date: 2005-06-03 12:52:57
+
+----
+
+Inventory: page://qFfR2NfnFmUIIr52
+
+----
+
+Uuid: apaZT5osEMyojIAa
+
+----
+
+Customer: page://n40fLAJ9fSQtqJlL

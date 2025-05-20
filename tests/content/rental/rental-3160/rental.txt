@@ -1,0 +1,25 @@
+Title: Rental 3160
+
+----
+
+Rental-id: 3160
+
+----
+
+Rental-date: 2005-06-20 21:20:51
+
+----
+
+Return-date: 2005-06-29 18:06:51
+
+----
+
+Inventory: page://R4AYjTuFbFe1dvUL
+
+----
+
+Uuid: 3Tfv6XGlM9jQSfTv
+
+----
+
+Customer: page://xiuePi4NIEUJXUwz

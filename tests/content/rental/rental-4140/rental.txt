@@ -1,0 +1,25 @@
+Title: Rental 4140
+
+----
+
+Rental-id: 4140
+
+----
+
+Rental-date: 2005-07-07 08:19:10
+
+----
+
+Return-date: 2005-07-14 07:27:10
+
+----
+
+Inventory: page://z0Y7H3wDgInZdfBl
+
+----
+
+Uuid: RcNjkTeeZ8fpzuhv
+
+----
+
+Customer: page://6kK9aIjaQGPeA4BK

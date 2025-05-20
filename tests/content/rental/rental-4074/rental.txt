@@ -1,0 +1,25 @@
+Title: Rental 4074
+
+----
+
+Rental-id: 4074
+
+----
+
+Rental-date: 2005-07-07 04:49:49
+
+----
+
+Return-date: 2005-07-12 04:51:49
+
+----
+
+Inventory: page://ZjRI5Arckx2fExBp
+
+----
+
+Uuid: vdk4jChH6MshMIxR
+
+----
+
+Customer: page://7L8rEdWDVFlYJ1mL

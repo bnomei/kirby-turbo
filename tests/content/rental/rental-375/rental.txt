@@ -1,0 +1,25 @@
+Title: Rental 375
+
+----
+
+Rental-id: 375
+
+----
+
+Rental-date: 2005-05-27 08:49:21
+
+----
+
+Return-date: 2005-06-04 14:11:21
+
+----
+
+Inventory: page://rJ3vKz00WVX2lF3C
+
+----
+
+Uuid: q7fTUKrQO24Lh2M8
+
+----
+
+Customer: page://2C8Z04rPFee2aFn8

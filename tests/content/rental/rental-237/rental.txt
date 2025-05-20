@@ -1,0 +1,25 @@
+Title: Rental 237
+
+----
+
+Rental-id: 237
+
+----
+
+Rental-date: 2005-05-26 12:15:13
+
+----
+
+Return-date: 2005-05-29 18:10:13
+
+----
+
+Inventory: page://nQQkSKaxeJhZwZRQ
+
+----
+
+Uuid: osrucbXxNtxrUU3N
+
+----
+
+Customer: page://lw8mwYqihkZrAQDL

@@ -1,0 +1,25 @@
+Title: Rental 3893
+
+----
+
+Rental-id: 3893
+
+----
+
+Rental-date: 2005-07-06 18:59:31
+
+----
+
+Return-date: 2005-07-12 19:21:31
+
+----
+
+Inventory: page://i6qg98nbid8M0atx
+
+----
+
+Uuid: aV4nGXnWqFFz4ntr
+
+----
+
+Customer: page://0i52La06CjBDGVTC

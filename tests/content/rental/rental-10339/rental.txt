@@ -1,0 +1,25 @@
+Title: Rental 10339
+
+----
+
+Rental-id: 10339
+
+----
+
+Rental-date: 2005-08-01 05:05:50
+
+----
+
+Return-date: 2005-08-10 07:15:50
+
+----
+
+Inventory: page://mbjhEywc6eqtIiSZ
+
+----
+
+Customer: page://qWf2WdBnN3xSlT1B
+
+----
+
+Uuid: 1J0zNl6qLc47C6kJ

@@ -1,0 +1,25 @@
+Title: Rental 10242
+
+----
+
+Rental-id: 10242
+
+----
+
+Rental-date: 2005-08-01 02:18:12
+
+----
+
+Return-date: 2005-08-02 22:32:12
+
+----
+
+Inventory: page://NIcE1RFIzoza7l7c
+
+----
+
+Customer: page://zmCabsBB5k9OFLQt
+
+----
+
+Uuid: PLT868VTQyInGXXa

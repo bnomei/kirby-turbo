@@ -1,0 +1,25 @@
+Title: Rental 7918
+
+----
+
+Rental-id: 7918
+
+----
+
+Rental-date: 2005-07-28 11:58:53
+
+----
+
+Return-date: 2005-08-04 12:08:53
+
+----
+
+Inventory: page://7xsGx8hYFU2REXwN
+
+----
+
+Customer: page://2Ez2viSHVAxcAVWy
+
+----
+
+Uuid: th6eoIuJFyD7U0CD

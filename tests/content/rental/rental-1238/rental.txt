@@ -1,0 +1,25 @@
+Title: Rental 1238
+
+----
+
+Rental-id: 1238
+
+----
+
+Rental-date: 2005-06-15 04:49:08
+
+----
+
+Return-date: 2005-06-20 00:06:08
+
+----
+
+Inventory: page://WBIVB4ZcTgPzWFfV
+
+----
+
+Uuid: dhrIF0OfBp9VPYAF
+
+----
+
+Customer: page://aZnDcwJX7i5ifkQq

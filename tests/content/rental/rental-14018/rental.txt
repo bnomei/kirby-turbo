@@ -1,0 +1,21 @@
+Title: Rental 14018
+
+----
+
+Rental-id: 14018
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://GunIBDHHFzfMcONB
+
+----
+
+Customer: page://oltj71DespIyD8V2
+
+----
+
+Uuid: dRzPyfY5mJDjjcBD

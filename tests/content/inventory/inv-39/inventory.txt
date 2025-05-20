@@ -1,0 +1,17 @@
+Title: Inv 39
+
+----
+
+Inventory-id: 39
+
+----
+
+Film: page://8CThZqVAR1yZ373z
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ShI34z0i75iEpPXa

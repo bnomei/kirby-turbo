@@ -1,0 +1,25 @@
+Title: Rental 1924
+
+----
+
+Rental-id: 1924
+
+----
+
+Rental-date: 2005-06-17 06:13:34
+
+----
+
+Return-date: 2005-06-18 01:51:34
+
+----
+
+Inventory: page://2dRzftZwZUejeTMm
+
+----
+
+Uuid: Qd1MNnu4RZPgip3x
+
+----
+
+Customer: page://jQgJTEFW0ApOfR1S

@@ -1,0 +1,40 @@
+Title: CHARIOTS CONSPIRACY
+
+----
+
+Actors:
+
+- 'page://wxM7fPnQeVIlPpuJ'
+- 'page://nVYE704vdPRRS8fI'
+
+----
+
+Film-id: 138
+
+----
+
+Description: A Unbelieveable Epistle of a Robot And a Husband who must Chase a Robot in The First Manned Space Station
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 71
+
+----
+
+Rating: R
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: T8zdzO8YJpZWbgG9
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

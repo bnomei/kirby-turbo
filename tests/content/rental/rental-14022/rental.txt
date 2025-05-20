@@ -1,0 +1,25 @@
+Title: Rental 14022
+
+----
+
+Rental-id: 14022
+
+----
+
+Rental-date: 2005-08-20 21:08:49
+
+----
+
+Return-date: 2005-08-29 21:57:49
+
+----
+
+Inventory: page://kFgNvSmyp6li2QK0
+
+----
+
+Customer: page://rLSUHhRJgJCY5Nmr
+
+----
+
+Uuid: 9JzEJOaNIJah6y5F

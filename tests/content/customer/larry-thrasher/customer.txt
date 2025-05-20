@@ -1,0 +1,33 @@
+Title: LARRY THRASHER
+
+----
+
+Customer-id: 327
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: LARRY
+
+----
+
+Last-name: THRASHER
+
+----
+
+Email: LARRY.THRASHER@sakilacustomer.org
+
+----
+
+Address: page://6kAT4BRdYB4zVCoY
+
+----
+
+Active: 1
+
+----
+
+Uuid: wFOjfrR0gpP7jV9B

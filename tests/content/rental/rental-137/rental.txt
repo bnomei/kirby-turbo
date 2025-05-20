@@ -1,0 +1,25 @@
+Title: Rental 137
+
+----
+
+Rental-id: 137
+
+----
+
+Rental-date: 2005-05-25 22:25:18
+
+----
+
+Return-date: 2005-06-01 02:30:18
+
+----
+
+Inventory: page://R7fnw0I6MUaSksmQ
+
+----
+
+Uuid: jjVoJk4RmUizDhlC
+
+----
+
+Customer: page://HpeLAHrM5mtnQogB

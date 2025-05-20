@@ -1,0 +1,17 @@
+Title: Inv 1060
+
+----
+
+Inventory-id: 1060
+
+----
+
+Film: page://GZr09fgrQ6Y1eFWR
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ZF0BroJ5e4UwqtDn

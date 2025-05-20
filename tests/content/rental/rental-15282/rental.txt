@@ -1,0 +1,21 @@
+Title: Rental 15282
+
+----
+
+Rental-id: 15282
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://C0IxWygDcWIwDHhj
+
+----
+
+Customer: page://dH8QcNydtJRu0BPQ
+
+----
+
+Uuid: t9f861tdDbKlBc7E

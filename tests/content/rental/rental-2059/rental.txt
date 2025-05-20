@@ -1,0 +1,25 @@
+Title: Rental 2059
+
+----
+
+Rental-id: 2059
+
+----
+
+Rental-date: 2005-06-17 15:36:12
+
+----
+
+Return-date: 2005-06-18 19:01:12
+
+----
+
+Inventory: page://NW7VpzfBDM2vy0hy
+
+----
+
+Uuid: xi7kmcsMArjbs7Xf
+
+----
+
+Customer: page://tmz3xyyMIWwOAlZu

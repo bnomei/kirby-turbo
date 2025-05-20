@@ -1,0 +1,25 @@
+Title: Rental 973
+
+----
+
+Rental-id: 973
+
+----
+
+Rental-date: 2005-05-30 20:27:45
+
+----
+
+Return-date: 2005-06-08 22:47:45
+
+----
+
+Inventory: page://fw7bLoBETbGZ8Mcy
+
+----
+
+Uuid: umRzXnJadNOO0Oai
+
+----
+
+Customer: page://2Ez2viSHVAxcAVWy

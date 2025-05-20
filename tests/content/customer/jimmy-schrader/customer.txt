@@ -1,0 +1,33 @@
+Title: JIMMY SCHRADER
+
+----
+
+Customer-id: 397
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: JIMMY
+
+----
+
+Last-name: SCHRADER
+
+----
+
+Email: JIMMY.SCHRADER@sakilacustomer.org
+
+----
+
+Address: page://8Ssy1wdVgkQS3bpu
+
+----
+
+Active: 1
+
+----
+
+Uuid: C7Yyvdwc8g6atULR

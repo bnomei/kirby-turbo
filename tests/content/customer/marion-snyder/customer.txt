@@ -1,0 +1,33 @@
+Title: MARION SNYDER
+
+----
+
+Customer-id: 178
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: MARION
+
+----
+
+Last-name: SNYDER
+
+----
+
+Email: MARION.SNYDER@sakilacustomer.org
+
+----
+
+Address: page://0SkySYJEB91Hs9Xs
+
+----
+
+Active: 1
+
+----
+
+Uuid: julxqmzKuY3KPZ0W

@@ -1,0 +1,25 @@
+Title: Rental 3009
+
+----
+
+Rental-id: 3009
+
+----
+
+Rental-date: 2005-06-20 10:24:44
+
+----
+
+Return-date: 2005-06-23 13:39:44
+
+----
+
+Inventory: page://5aRi0NxYMmtdq1mW
+
+----
+
+Uuid: IC5DySUZlcCpfwGT
+
+----
+
+Customer: page://Vns4RDWjccDhVJJe

@@ -1,0 +1,25 @@
+Title: Rental 1962
+
+----
+
+Rental-id: 1962
+
+----
+
+Rental-date: 2005-06-17 09:08:58
+
+----
+
+Return-date: 2005-06-23 14:55:58
+
+----
+
+Inventory: page://048Pe4776rj3HMln
+
+----
+
+Uuid: ksf9BDP2SUFD6Bkr
+
+----
+
+Customer: page://lw8mwYqihkZrAQDL

@@ -1,0 +1,17 @@
+Title: Inv 3711
+
+----
+
+Inventory-id: 3711
+
+----
+
+Film: page://wRP0xWifgqOiaUfB
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: m4mEhPLzHDFmjTWn

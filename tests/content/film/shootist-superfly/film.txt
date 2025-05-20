@@ -1,0 +1,41 @@
+Title: SHOOTIST SUPERFLY
+
+----
+
+Actors:
+
+- 'page://pAFoAtJmRtH6ome4'
+- 'page://EHffowmlWDEyJ7Ij'
+- 'page://CcQ0grF6yUDI2k9n'
+
+----
+
+Film-id: 790
+
+----
+
+Description: A Fast-Paced Story of a Crocodile And a A Shark who must Sink a Pioneer in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 67
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: 8fqUuJnM1g7cWwBp
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

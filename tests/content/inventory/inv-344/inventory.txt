@@ -1,0 +1,17 @@
+Title: Inv 344
+
+----
+
+Inventory-id: 344
+
+----
+
+Film: page://vfc11ZgBybQZrKfm
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 3Sq40DfoMZi3PAUI

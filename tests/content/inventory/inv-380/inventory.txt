@@ -1,0 +1,17 @@
+Title: Inv 380
+
+----
+
+Inventory-id: 380
+
+----
+
+Film: page://XSxeVIKyxD2lROr7
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: grcM0ls8qYFYXZxR

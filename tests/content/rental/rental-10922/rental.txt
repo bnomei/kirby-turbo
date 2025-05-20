@@ -1,0 +1,25 @@
+Title: Rental 10922
+
+----
+
+Rental-id: 10922
+
+----
+
+Rental-date: 2005-08-02 02:14:40
+
+----
+
+Return-date: 2005-08-06 06:04:40
+
+----
+
+Inventory: page://h7oea1b0iBTq9jFp
+
+----
+
+Customer: page://QOClXserCz22nvYn
+
+----
+
+Uuid: xbMPkpfGK4LFy8nJ

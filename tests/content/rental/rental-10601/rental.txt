@@ -1,0 +1,25 @@
+Title: Rental 10601
+
+----
+
+Rental-id: 10601
+
+----
+
+Rental-date: 2005-08-01 14:25:40
+
+----
+
+Return-date: 2005-08-10 09:07:40
+
+----
+
+Inventory: page://zNYS34MztsmPZTkL
+
+----
+
+Customer: page://Yq4RWbQHVX6jLqbx
+
+----
+
+Uuid: 5DiOwOcnuYoX6cmM

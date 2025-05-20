@@ -1,0 +1,25 @@
+Title: Rental 13096
+
+----
+
+Rental-id: 13096
+
+----
+
+Rental-date: 2005-08-19 10:49:03
+
+----
+
+Return-date: 2005-08-21 05:33:03
+
+----
+
+Inventory: page://VhD556FAwPfxDfq6
+
+----
+
+Customer: page://xpGeSpKewe1fsRYQ
+
+----
+
+Uuid: CnpM53FhfYgvNg1e

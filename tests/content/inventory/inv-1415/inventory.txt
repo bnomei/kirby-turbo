@@ -1,0 +1,17 @@
+Title: Inv 1415
+
+----
+
+Inventory-id: 1415
+
+----
+
+Film: page://jDmMJMlMtQvpyiHa
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: UMoXXJ4BlABfCcbd

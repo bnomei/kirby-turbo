@@ -1,0 +1,25 @@
+Title: Rental 1286
+
+----
+
+Rental-id: 1286
+
+----
+
+Rental-date: 2005-06-15 08:41:13
+
+----
+
+Return-date: 2005-06-23 13:13:13
+
+----
+
+Inventory: page://TE4LHTsLHvRWPteM
+
+----
+
+Uuid: ACMB79b2xr6mTlrq
+
+----
+
+Customer: page://28btFRqxUbpYMux2

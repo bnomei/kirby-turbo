@@ -1,0 +1,25 @@
+Title: Rental 1857
+
+----
+
+Rental-id: 1857
+
+----
+
+Rental-date: 2005-06-17 01:12:58
+
+----
+
+Return-date: 2005-06-21 04:49:58
+
+----
+
+Inventory: page://ObQMCakKPUajiTQx
+
+----
+
+Uuid: yrH0tNMd99KSrNVg
+
+----
+
+Customer: page://H1iYUUjd9JG1DGh7

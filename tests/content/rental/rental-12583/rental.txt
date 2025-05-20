@@ -1,0 +1,25 @@
+Title: Rental 12583
+
+----
+
+Rental-id: 12583
+
+----
+
+Rental-date: 2005-08-18 15:51:36
+
+----
+
+Return-date: 2005-08-20 18:47:36
+
+----
+
+Inventory: page://yKDyfaeLSQwS7Utk
+
+----
+
+Customer: page://VPA8X8lftFbJP7Oh
+
+----
+
+Uuid: GMGwa9VVT4DzxrkN

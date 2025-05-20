@@ -1,0 +1,44 @@
+Title: TRUMAN CRAZY
+
+----
+
+Actors:
+
+- 'page://xuTGKKs3dxu4jXhx'
+- 'page://6YS8rkTURbcXafoi'
+- 'page://9dZ7pytlckFxJvGe'
+- 'page://ZyRQLJXso6IqRkwR'
+- 'page://if8hfrmRoIODgwSa'
+- 'page://C462ZyZJYhtiRgJM'
+
+----
+
+Film-id: 915
+
+----
+
+Description: A Thrilling Epistle of a Moose And a Boy who must Meet a Database Administrator in A Monastery
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 92
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: ztRx1p49w42jzucX
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

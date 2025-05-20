@@ -1,0 +1,25 @@
+Title: Rental 11913
+
+----
+
+Rental-id: 11913
+
+----
+
+Rental-date: 2005-08-17 15:53:17
+
+----
+
+Return-date: 2005-08-24 18:50:17
+
+----
+
+Inventory: page://kgWc4i9z0EO5YEmP
+
+----
+
+Customer: page://MMjN8znOj5ltCet6
+
+----
+
+Uuid: MJapbxTvR4WBnvBW

@@ -1,0 +1,25 @@
+Title: Rental 1695
+
+----
+
+Rental-id: 1695
+
+----
+
+Rental-date: 2005-06-16 12:40:28
+
+----
+
+Return-date: 2005-06-22 13:41:28
+
+----
+
+Inventory: page://3NCAKVoXN5MutGM4
+
+----
+
+Uuid: nt90u4XaDVfhgMhe
+
+----
+
+Customer: page://q1NfZkNoffXnWY4c

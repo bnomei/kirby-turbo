@@ -1,0 +1,47 @@
+Title: CRUSADE HONEY
+
+----
+
+Actors:
+
+- 'page://CXnMd8oVYWgOtYAB'
+- 'page://CcQ0grF6yUDI2k9n'
+- 'page://Bfp6QX9U0O1ZLM64'
+- 'page://kIGWs86teYEK5yIM'
+- 'page://MG1O0zMGGcgzh2YX'
+- 'page://6jpBKUOTpGMSQxJe'
+- 'page://6LG8mbCuu1aKuRcl'
+- 'page://0h8tQJYts8gmFWwG'
+- 'page://kglHBUzvM27ekW4e'
+
+----
+
+Film-id: 197
+
+----
+
+Description: A Fast-Paced Reflection of a Explorer And a Butler who must Battle a Madman in An Abandoned Amusement Park
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 112
+
+----
+
+Rating: R
+
+----
+
+Special-features: Commentaries
+
+----
+
+Uuid: DDFWUj57QnR4PLle
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

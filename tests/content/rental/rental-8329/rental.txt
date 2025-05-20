@@ -1,0 +1,25 @@
+Title: Rental 8329
+
+----
+
+Rental-id: 8329
+
+----
+
+Rental-date: 2005-07-29 04:06:33
+
+----
+
+Return-date: 2005-08-06 01:46:33
+
+----
+
+Inventory: page://K27NFZUs0fK8T2O3
+
+----
+
+Customer: page://VPA8X8lftFbJP7Oh
+
+----
+
+Uuid: OsHiy802mIsYkvyn

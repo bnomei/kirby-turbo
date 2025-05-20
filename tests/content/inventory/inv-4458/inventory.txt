@@ -1,0 +1,17 @@
+Title: Inv 4458
+
+----
+
+Inventory-id: 4458
+
+----
+
+Film: page://mpE9RTqrJOxDUbqz
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: FGyN960EJZe7zrQP

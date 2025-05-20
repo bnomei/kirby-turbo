@@ -1,0 +1,17 @@
+Title: Inv 4248
+
+----
+
+Inventory-id: 4248
+
+----
+
+Film: page://KHonmO1J3UR4gxFR
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: DbJyoZBsUFAiaYn6

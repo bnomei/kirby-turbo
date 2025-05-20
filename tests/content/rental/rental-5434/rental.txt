@@ -1,0 +1,25 @@
+Title: Rental 5434
+
+----
+
+Rental-id: 5434
+
+----
+
+Rental-date: 2005-07-09 21:25:20
+
+----
+
+Return-date: 2005-07-15 03:12:20
+
+----
+
+Inventory: page://7kcJEhn1uXf5eshP
+
+----
+
+Uuid: 7Q05lvbGRI4fDO6I
+
+----
+
+Customer: page://1lV61pgXzMTI9zGL

@@ -1,0 +1,41 @@
+Title: ELIZABETH SHANE
+
+----
+
+Actors:
+
+- 'page://NkG0QBqlgfweHNxN'
+- 'page://S8UoUinBIsjzumVd'
+- 'page://1a2BLQivFz3Ch6Lx'
+
+----
+
+Film-id: 279
+
+----
+
+Description: A Lacklusture Display of a Womanizer And a Dog who must Face a Sumo Wrestler in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 152
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Trailers,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: djPn0BlHrbuXVXUy
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

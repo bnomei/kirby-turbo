@@ -1,0 +1,17 @@
+Title: Inv 2246
+
+----
+
+Inventory-id: 2246
+
+----
+
+Film: page://akd2nbizcRkJHL9W
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 8noKVWy7Dkn0iqUW

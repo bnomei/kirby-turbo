@@ -1,0 +1,33 @@
+Title: DEANNA BYRD
+
+----
+
+Customer-id: 261
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: DEANNA
+
+----
+
+Last-name: BYRD
+
+----
+
+Email: DEANNA.BYRD@sakilacustomer.org
+
+----
+
+Address: page://hKS1k452Ymu5roht
+
+----
+
+Active: 1
+
+----
+
+Uuid: hKCKx3YFHHjehyrG

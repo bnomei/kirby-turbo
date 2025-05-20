@@ -1,0 +1,17 @@
+Title: Inv 354
+
+----
+
+Inventory-id: 354
+
+----
+
+Film: page://iy0a104HjhjHKgsH
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: VJhU3z6vXC8aozD1

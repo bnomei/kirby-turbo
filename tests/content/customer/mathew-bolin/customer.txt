@@ -1,0 +1,33 @@
+Title: MATHEW BOLIN
+
+----
+
+Customer-id: 539
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MATHEW
+
+----
+
+Last-name: BOLIN
+
+----
+
+Email: MATHEW.BOLIN@sakilacustomer.org
+
+----
+
+Address: page://KLppVIAr7v3WSp0k
+
+----
+
+Active: 1
+
+----
+
+Uuid: QOClXserCz22nvYn

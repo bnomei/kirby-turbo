@@ -1,0 +1,17 @@
+Title: Inv 162
+
+----
+
+Inventory-id: 162
+
+----
+
+Film: page://xAwGhjBIkg6G0hCP
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: d9rRWfiAK23TZrwV

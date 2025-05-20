@@ -1,0 +1,25 @@
+Title: Rental 9594
+
+----
+
+Rental-id: 9594
+
+----
+
+Rental-date: 2005-07-31 03:23:52
+
+----
+
+Return-date: 2005-08-04 23:06:52
+
+----
+
+Inventory: page://fe04jX2HDLZ7fki4
+
+----
+
+Customer: page://bp3076yXkpG6TsZ7
+
+----
+
+Uuid: mBDUnC2VJfB0EGfY

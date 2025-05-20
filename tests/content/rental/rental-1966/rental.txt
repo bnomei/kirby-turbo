@@ -1,0 +1,25 @@
+Title: Rental 1966
+
+----
+
+Rental-id: 1966
+
+----
+
+Rental-date: 2005-06-17 09:19:45
+
+----
+
+Return-date: 2005-06-20 11:19:45
+
+----
+
+Inventory: page://bRRXXikr8jq7CWcy
+
+----
+
+Uuid: zJeyAm6ZGjGmzKka
+
+----
+
+Customer: page://X3AjzgBdF3VXBSFO

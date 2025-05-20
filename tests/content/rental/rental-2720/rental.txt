@@ -1,0 +1,25 @@
+Title: Rental 2720
+
+----
+
+Rental-id: 2720
+
+----
+
+Rental-date: 2005-06-19 14:51:55
+
+----
+
+Return-date: 2005-06-27 13:06:55
+
+----
+
+Inventory: page://BNt9UhdiD6Rw8ksf
+
+----
+
+Uuid: BNAlp7MVtpRYdBoO
+
+----
+
+Customer: page://3TbKsrXXeDJmJc4J

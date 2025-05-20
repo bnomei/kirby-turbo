@@ -1,0 +1,21 @@
+Title: MARY TANDY
+
+----
+
+Actors: []
+
+----
+
+Actor-id: 66
+
+----
+
+First-name: MARY
+
+----
+
+Last-name: TANDY
+
+----
+
+Uuid: 9dZ7pytlckFxJvGe

@@ -1,0 +1,33 @@
+Title: RAYMOND MCWHORTER
+
+----
+
+Customer-id: 334
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: RAYMOND
+
+----
+
+Last-name: MCWHORTER
+
+----
+
+Email: RAYMOND.MCWHORTER@sakilacustomer.org
+
+----
+
+Address: page://MoEsHyF74cjLkxOI
+
+----
+
+Active: 1
+
+----
+
+Uuid: 1lV61pgXzMTI9zGL

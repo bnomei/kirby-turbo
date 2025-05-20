@@ -1,0 +1,25 @@
+Title: Rental 11360
+
+----
+
+Rental-id: 11360
+
+----
+
+Rental-date: 2005-08-02 17:46:04
+
+----
+
+Return-date: 2005-08-04 21:02:04
+
+----
+
+Inventory: page://SSIaZbi1aOJhdY7p
+
+----
+
+Customer: page://rtPPzvWhh7zAFt5a
+
+----
+
+Uuid: qrtPgX7Y4e467b4l

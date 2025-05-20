@@ -1,0 +1,17 @@
+Title: Inv 4004
+
+----
+
+Inventory-id: 4004
+
+----
+
+Film: page://YzbrhGwubNUJ4lvQ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: mQuFV5mDiffeirLX

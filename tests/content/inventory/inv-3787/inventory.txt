@@ -1,0 +1,17 @@
+Title: Inv 3787
+
+----
+
+Inventory-id: 3787
+
+----
+
+Film: page://ZMhLCoZXlzYKInCX
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: QWm1X1BA4sfK1bDO

@@ -1,0 +1,33 @@
+Title: GARY COY
+
+----
+
+Customer-id: 324
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: GARY
+
+----
+
+Last-name: COY
+
+----
+
+Email: GARY.COY@sakilacustomer.org
+
+----
+
+Address: page://OfYBldoNIYYtTvK0
+
+----
+
+Active: 1
+
+----
+
+Uuid: SII6Y5UXijGLUgXD

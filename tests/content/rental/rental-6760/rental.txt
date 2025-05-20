@@ -1,0 +1,25 @@
+Title: Rental 6760
+
+----
+
+Rental-id: 6760
+
+----
+
+Rental-date: 2005-07-12 15:16:00
+
+----
+
+Return-date: 2005-07-20 13:20:00
+
+----
+
+Inventory: page://sV4bOP3C5CnHCLjX
+
+----
+
+Uuid: BlAsqDtBf4oqgpRy
+
+----
+
+Customer: page://9bRTDRu3HEwd7H8l

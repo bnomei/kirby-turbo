@@ -1,0 +1,17 @@
+Title: Inv 1322
+
+----
+
+Inventory-id: 1322
+
+----
+
+Film: page://CH4btgLIdvjp8AWX
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: kgUZ6qw2qjnTOPH3

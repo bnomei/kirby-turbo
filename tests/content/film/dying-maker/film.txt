@@ -1,0 +1,40 @@
+Title: DYING MAKER
+
+----
+
+Actors:
+
+- 'page://WmeC1S3wVV4gdFE4'
+- 'page://nVYE704vdPRRS8fI'
+
+----
+
+Film-id: 265
+
+----
+
+Description: A Intrepid Tale of a Boat And a Monkey who must Kill a Cat in California
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 168
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: mi7mSNR85rwSJUbX
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

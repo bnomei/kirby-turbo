@@ -1,0 +1,25 @@
+Title: Rental 4201
+
+----
+
+Rental-id: 4201
+
+----
+
+Rental-date: 2005-07-07 11:19:51
+
+----
+
+Return-date: 2005-07-16 08:48:51
+
+----
+
+Inventory: page://Z7Kbvlaxxh9H9GwR
+
+----
+
+Uuid: WytwRWTtL0Fqdxfz
+
+----
+
+Customer: page://yjYvst4Pui2DtNsv

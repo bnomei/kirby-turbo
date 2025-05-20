@@ -1,0 +1,17 @@
+Title: Inv 2605
+
+----
+
+Inventory-id: 2605
+
+----
+
+Film: page://JCsvpX3EEwo6WY99
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 0yum8gFpA0jBCnQm

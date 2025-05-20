@@ -1,0 +1,25 @@
+Title: Rental 315
+
+----
+
+Rental-id: 315
+
+----
+
+Rental-date: 2005-05-26 23:12:55
+
+----
+
+Return-date: 2005-05-29 23:33:55
+
+----
+
+Inventory: page://4iGhQ3aBiuqWxphH
+
+----
+
+Uuid: As1XMEJV03kromtR
+
+----
+
+Customer: page://RIEo30tJIX71MCMT

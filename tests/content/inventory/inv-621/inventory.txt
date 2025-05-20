@@ -1,0 +1,17 @@
+Title: Inv 621
+
+----
+
+Inventory-id: 621
+
+----
+
+Film: page://C8VGh18xAG37kxNf
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 6ArKL5yq4Qy81mpP

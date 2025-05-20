@@ -1,0 +1,25 @@
+Title: Rental 303
+
+----
+
+Rental-id: 303
+
+----
+
+Rental-date: 2005-05-26 21:16:52
+
+----
+
+Return-date: 2005-05-27 23:41:52
+
+----
+
+Inventory: page://V7esrB2bgglu1md0
+
+----
+
+Uuid: h0g7otQ7DwyjYl4G
+
+----
+
+Customer: page://cximYF0fTdcPdV2q

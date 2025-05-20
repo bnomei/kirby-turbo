@@ -1,0 +1,25 @@
+Title: Rental 1874
+
+----
+
+Rental-id: 1874
+
+----
+
+Rental-date: 2005-06-17 02:39:20
+
+----
+
+Return-date: 2005-06-24 04:41:20
+
+----
+
+Inventory: page://zA2Qryxpsf2p1Pot
+
+----
+
+Uuid: mTv5ncaBVcVAgbqY
+
+----
+
+Customer: page://bZxKFtO3mqYYQdiA

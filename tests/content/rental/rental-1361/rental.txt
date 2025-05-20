@@ -1,0 +1,25 @@
+Title: Rental 1361
+
+----
+
+Rental-id: 1361
+
+----
+
+Rental-date: 2005-06-15 13:37:38
+
+----
+
+Return-date: 2005-06-19 17:08:38
+
+----
+
+Inventory: page://amvtBmstbgZ4SUnj
+
+----
+
+Uuid: aM7ub5ZoFwOZ7nbJ
+
+----
+
+Customer: page://j8uyjiPeUtgzKjW3

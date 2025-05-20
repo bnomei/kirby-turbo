@@ -1,0 +1,25 @@
+Title: Rental 160
+
+----
+
+Rental-id: 160
+
+----
+
+Rental-date: 2005-05-26 01:46:20
+
+----
+
+Return-date: 2005-06-01 05:45:20
+
+----
+
+Inventory: page://4VosnWJpwY9oPBhy
+
+----
+
+Uuid: rG8KgLtwUevfyfO8
+
+----
+
+Customer: page://88ZpPvHuxTFZYKCY

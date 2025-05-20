@@ -1,0 +1,25 @@
+Title: Rental 8223
+
+----
+
+Rental-id: 8223
+
+----
+
+Rental-date: 2005-07-28 23:56:01
+
+----
+
+Return-date: 2005-08-03 22:27:01
+
+----
+
+Inventory: page://OOBZozBgrrPGroi2
+
+----
+
+Customer: page://Tj29qTVQAQ0HCcNy
+
+----
+
+Uuid: xwYsjdnjpgSAk2dN

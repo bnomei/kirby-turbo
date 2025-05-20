@@ -1,0 +1,33 @@
+Title: ERIC ROBERT
+
+----
+
+Customer-id: 331
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ERIC
+
+----
+
+Last-name: ROBERT
+
+----
+
+Email: ERIC.ROBERT@sakilacustomer.org
+
+----
+
+Address: page://BUgGL9PtHAYUrHQV
+
+----
+
+Active: 1
+
+----
+
+Uuid: DxMKPSznn9C2XI5l

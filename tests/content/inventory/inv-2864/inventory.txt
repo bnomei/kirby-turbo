@@ -1,0 +1,17 @@
+Title: Inv 2864
+
+----
+
+Inventory-id: 2864
+
+----
+
+Film: page://1cWdfPoIiLS0U7NM
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: DrccOaPQMPNFf7Wn

@@ -1,0 +1,43 @@
+Title: MODERN DORADO
+
+----
+
+Actors:
+
+- 'page://5ruVLAhmJBWUKPci'
+- 'page://xBL8rppzTt5cijUB'
+- 'page://nx1fXkDUW4gS66DW'
+- 'page://dRscV8wJJ6wok0jq'
+- 'page://c9RVWbTiHNxSUsUJ'
+
+----
+
+Film-id: 589
+
+----
+
+Description: A Awe-Inspiring Story of a Butler And a Sumo Wrestler who must Redeem a Boy in New Orleans
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 74
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: Pg9XTbWioTSw0dxQ
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

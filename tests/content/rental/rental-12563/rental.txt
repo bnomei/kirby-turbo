@@ -1,0 +1,25 @@
+Title: Rental 12563
+
+----
+
+Rental-id: 12563
+
+----
+
+Rental-date: 2005-08-18 15:08:29
+
+----
+
+Return-date: 2005-08-27 15:15:29
+
+----
+
+Inventory: page://17wI7ZQSvNwU38Fw
+
+----
+
+Customer: page://yO6kHtaF5LxeJoOU
+
+----
+
+Uuid: Vx7F4HDmlK7ruKMU

@@ -1,0 +1,17 @@
+Title: Inv 3318
+
+----
+
+Inventory-id: 3318
+
+----
+
+Film: page://6CdKH5MPZuKWNMzd
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: UhEf27Rbnb5vNZwK

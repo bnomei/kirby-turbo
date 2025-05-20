@@ -1,0 +1,21 @@
+Title: Rental 13025
+
+----
+
+Rental-id: 13025
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://4IWpVjNWKAGmQmzU
+
+----
+
+Customer: page://Cko87GK3ShDjUK4Q
+
+----
+
+Uuid: cm9hJAQlQcTZkEf7

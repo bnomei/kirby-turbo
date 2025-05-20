@@ -1,0 +1,46 @@
+Title: SHANGHAI TYCOON
+
+----
+
+Actors:
+
+- 'page://5ruVLAhmJBWUKPci'
+- 'page://nkFKurUJ9w7y8omW'
+- 'page://JeeyeDJ3FmxSMbIy'
+- 'page://ovAz2jwmaTIz5ph9'
+- 'page://S8UoUinBIsjzumVd'
+- 'page://r6UF6pUyhmwAPzIH'
+- 'page://r5vfuwK7SifeGhUs'
+- 'page://V7i97wxdkXKwKdBD'
+
+----
+
+Film-id: 784
+
+----
+
+Description: A Fast-Paced Character Study of a Crocodile And a Lumberjack who must Build a Husband in An Abandoned Fun House
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 47
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: BHDgV6OJ7w6UlDA0
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

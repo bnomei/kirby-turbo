@@ -1,0 +1,17 @@
+Title: Inv 2873
+
+----
+
+Inventory-id: 2873
+
+----
+
+Film: page://A4i6NHu7vr1INaod
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: tMI2UigxEbk6dPgP

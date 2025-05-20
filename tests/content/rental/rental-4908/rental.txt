@@ -1,0 +1,25 @@
+Title: Rental 4908
+
+----
+
+Rental-id: 4908
+
+----
+
+Rental-date: 2005-07-08 21:05:44
+
+----
+
+Return-date: 2005-07-17 21:33:44
+
+----
+
+Inventory: page://Lb4lBpaT4Q7VOwnP
+
+----
+
+Uuid: 0LmMlxb4FE08W6Eu
+
+----
+
+Customer: page://r0DHyZYSnncl7RM1

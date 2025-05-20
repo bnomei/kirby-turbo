@@ -1,0 +1,17 @@
+Title: Inv 3045
+
+----
+
+Inventory-id: 3045
+
+----
+
+Film: page://kF6YW1PJ9fwW9dDw
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: qCQPJk7ZVTe9UPb0

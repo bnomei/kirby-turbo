@@ -1,0 +1,17 @@
+Title: Inv 3806
+
+----
+
+Inventory-id: 3806
+
+----
+
+Film: page://BMtazaGmS6oQnaij
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: QEXsXS8T4Oip33P8

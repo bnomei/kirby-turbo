@@ -1,0 +1,17 @@
+Title: Inv 1795
+
+----
+
+Inventory-id: 1795
+
+----
+
+Film: page://0AzRccnaJXQEYyuS
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: MkTWt2netOHMMS72

@@ -1,0 +1,17 @@
+Title: Inv 1650
+
+----
+
+Inventory-id: 1650
+
+----
+
+Film: page://EWkJHl8fhlpw8Z7R
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: jNhTQagf7e62LzLM

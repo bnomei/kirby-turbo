@@ -1,0 +1,17 @@
+Title: Inv 3205
+
+----
+
+Inventory-id: 3205
+
+----
+
+Film: page://swpdsGvy1fo5PnDf
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: carpp1uEhEQ0sNJw

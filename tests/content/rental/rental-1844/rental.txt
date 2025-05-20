@@ -1,0 +1,25 @@
+Title: Rental 1844
+
+----
+
+Rental-id: 1844
+
+----
+
+Rental-date: 2005-06-16 23:53:53
+
+----
+
+Return-date: 2005-06-22 02:19:53
+
+----
+
+Inventory: page://KAD1W2O9FCa7azOU
+
+----
+
+Uuid: N9NTwm3168vO0QJq
+
+----
+
+Customer: page://2QCpyeeQilmvnk6g

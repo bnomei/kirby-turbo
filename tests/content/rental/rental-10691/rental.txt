@@ -1,0 +1,25 @@
+Title: Rental 10691
+
+----
+
+Rental-id: 10691
+
+----
+
+Rental-date: 2005-08-01 18:09:53
+
+----
+
+Return-date: 2005-08-03 16:32:53
+
+----
+
+Inventory: page://NgWVbfUGO0L6hO9S
+
+----
+
+Customer: page://ITr0DtQiC8vNX3ax
+
+----
+
+Uuid: DyHAbZXqRPiSFeGB

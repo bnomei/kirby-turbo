@@ -1,0 +1,25 @@
+Title: Rental 13000
+
+----
+
+Rental-id: 13000
+
+----
+
+Rental-date: 2005-08-19 07:36:42
+
+----
+
+Return-date: 2005-08-22 08:50:42
+
+----
+
+Inventory: page://am5crTESJytds6rg
+
+----
+
+Customer: page://CBjxjbIdtlQzauUw
+
+----
+
+Uuid: w8utzH8BztXCkQRQ

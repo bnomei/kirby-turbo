@@ -1,0 +1,17 @@
+Title: Inv 1000
+
+----
+
+Inventory-id: 1000
+
+----
+
+Film: page://qZwhOJmBqcMJ3mz8
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: fZOJ00XLiQzszmb0

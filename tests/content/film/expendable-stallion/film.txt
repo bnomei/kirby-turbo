@@ -1,0 +1,42 @@
+Title: EXPENDABLE STALLION
+
+----
+
+Actors:
+
+- 'page://8uCKHWVFS7qGgYjl'
+- 'page://8v9dhLSIQd0NpUQl'
+- 'page://ixmDbcb5VXh1c8bc'
+- 'page://pW1gtWYG8hgYIJM4'
+
+----
+
+Film-id: 295
+
+----
+
+Description: A Amazing Character Study of a Mad Cow And a Squirrel who must Discover a Hunter in A U-Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 97
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: JzN7Qzaiqb6MmLE7
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

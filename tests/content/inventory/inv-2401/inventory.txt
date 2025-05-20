@@ -1,0 +1,17 @@
+Title: Inv 2401
+
+----
+
+Inventory-id: 2401
+
+----
+
+Film: page://U0JQRmR5aJgSHnQT
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: uj4pcD1JjjIaa0hx

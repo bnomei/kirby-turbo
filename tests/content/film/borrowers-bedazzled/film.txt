@@ -1,0 +1,45 @@
+Title: BORROWERS BEDAZZLED
+
+----
+
+Actors:
+
+- 'page://9zoYPXEbxK6liKqc'
+- 'page://RdNo3TYVhV9JmDu6'
+- 'page://4hDC3FM6lySlQjxW'
+- 'page://u0N0ozPCYMgg4oo9'
+- 'page://RHCn9jMuVT1ewFhv'
+- 'page://yg3e89enY7SGtRB6'
+- 'page://CBtLT02Rklp5i11L'
+
+----
+
+Film-id: 89
+
+----
+
+Description: A Brilliant Epistle of a Teacher And a Sumo Wrestler who must Defeat a Man in An Abandoned Fun House
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 63
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: OWXEm3xtywXUR2BQ
+
+----
+
+Categories: - 'page://IRDsVEcJhfx68vBo'

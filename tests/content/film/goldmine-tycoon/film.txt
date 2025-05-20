@@ -1,0 +1,45 @@
+Title: GOLDMINE TYCOON
+
+----
+
+Actors:
+
+- 'page://RW4ixiF3bbh7oXkH'
+- 'page://I7tdxqtamjxgIUCW'
+- 'page://DJVklNozM1l2RK0x'
+- 'page://RHCn9jMuVT1ewFhv'
+- 'page://m11q5cdDfIefOEY5'
+- 'page://nGhJyQbze3rAAH9v'
+- 'page://zDG4LP4a8BGDrQEW'
+
+----
+
+Film-id: 367
+
+----
+
+Description: A Brilliant Epistle of a Composer And a Frisbee who must Conquer a Husband in The Outback
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 153
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Behind the Scenes
+
+----
+
+Uuid: 9aeTkPa9TpoKnUMY
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

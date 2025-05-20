@@ -1,0 +1,41 @@
+Title: SOMETHING DUCK
+
+----
+
+Actors:
+
+- 'page://SR0Aks2aA1YgkZ1s'
+- 'page://r5vfuwK7SifeGhUs'
+- 'page://nVYE704vdPRRS8fI'
+
+----
+
+Film-id: 818
+
+----
+
+Description: A Boring Character Study of a Car And a Husband who must Outgun a Frisbee in The First Manned Space Station
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 180
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: qiTCdevnusoszKmv
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

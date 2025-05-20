@@ -1,0 +1,17 @@
+Title: Inv 1904
+
+----
+
+Inventory-id: 1904
+
+----
+
+Film: page://xE5uq6m7QdwMy9ie
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ZifilsxDeFVazRIL

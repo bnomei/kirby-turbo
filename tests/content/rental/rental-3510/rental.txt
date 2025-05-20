@@ -1,0 +1,25 @@
+Title: Rental 3510
+
+----
+
+Rental-id: 3510
+
+----
+
+Rental-date: 2005-07-06 00:27:41
+
+----
+
+Return-date: 2005-07-14 23:20:41
+
+----
+
+Inventory: page://3gj2VIVzooIcSBbW
+
+----
+
+Uuid: GIpSCI2dLEFOZ74r
+
+----
+
+Customer: page://0IaV7NUIhxhKgfNm

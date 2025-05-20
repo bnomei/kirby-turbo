@@ -1,0 +1,17 @@
+Title: Inv 2901
+
+----
+
+Inventory-id: 2901
+
+----
+
+Film: page://Y8LjgsKHVj6dq3cU
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 5Pp4lSmXYRRZDv5o

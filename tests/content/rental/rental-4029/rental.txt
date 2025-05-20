@@ -1,0 +1,25 @@
+Title: Rental 4029
+
+----
+
+Rental-id: 4029
+
+----
+
+Rental-date: 2005-07-07 02:19:44
+
+----
+
+Return-date: 2005-07-15 02:30:44
+
+----
+
+Inventory: page://CF4V4H60U226yxpp
+
+----
+
+Uuid: VnkuL35kMDw7n4Nb
+
+----
+
+Customer: page://C3xdWMfnsFmTRrLo

@@ -1,0 +1,17 @@
+Title: Inv 304
+
+----
+
+Inventory-id: 304
+
+----
+
+Film: page://FAam9GaXVxjeoyCE
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: cSmej6F4dYaUFHUz

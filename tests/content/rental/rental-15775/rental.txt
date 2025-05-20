@@ -1,0 +1,25 @@
+Title: Rental 15775
+
+----
+
+Rental-id: 15775
+
+----
+
+Rental-date: 2005-08-23 13:25:44
+
+----
+
+Return-date: 2005-09-01 16:56:44
+
+----
+
+Inventory: page://wiYpAbrvJUcIX60w
+
+----
+
+Customer: page://iV9J7bKEhKwgdAGi
+
+----
+
+Uuid: 8UWofMLP1pEhkAen

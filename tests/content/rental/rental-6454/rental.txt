@@ -1,0 +1,25 @@
+Title: Rental 6454
+
+----
+
+Rental-id: 6454
+
+----
+
+Rental-date: 2005-07-12 01:00:12
+
+----
+
+Return-date: 2005-07-16 22:12:12
+
+----
+
+Inventory: page://45Ec6HADwWqFzWm2
+
+----
+
+Uuid: cuqVW58NIKcK4ZSz
+
+----
+
+Customer: page://LxYXYVT8Su7lX0Xb

@@ -1,0 +1,25 @@
+Title: Rental 1031
+
+----
+
+Rental-id: 1031
+
+----
+
+Rental-date: 2005-05-31 04:23:01
+
+----
+
+Return-date: 2005-06-06 08:35:01
+
+----
+
+Inventory: page://zPK7U0c617MtdeFr
+
+----
+
+Uuid: 3LQFWbXMtOWPCmN5
+
+----
+
+Customer: page://Hw6vCBoFgUCMOqCI

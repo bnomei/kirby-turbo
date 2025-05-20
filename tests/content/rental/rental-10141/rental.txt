@@ -1,0 +1,25 @@
+Title: Rental 10141
+
+----
+
+Rental-id: 10141
+
+----
+
+Rental-date: 2005-07-31 22:08:29
+
+----
+
+Return-date: 2005-08-06 16:59:29
+
+----
+
+Inventory: page://waQd6aHoN1Rz8KsL
+
+----
+
+Customer: page://sYyRIy15jUUAajVC
+
+----
+
+Uuid: jlhR3U3ustCmgyQx

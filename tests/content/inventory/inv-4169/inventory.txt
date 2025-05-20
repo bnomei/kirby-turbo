@@ -1,0 +1,17 @@
+Title: Inv 4169
+
+----
+
+Inventory-id: 4169
+
+----
+
+Film: page://AvK1JlmUKZyBlB5N
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: LmucoCZELDK8ojz8

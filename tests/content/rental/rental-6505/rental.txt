@@ -1,0 +1,25 @@
+Title: Rental 6505
+
+----
+
+Rental-id: 6505
+
+----
+
+Rental-date: 2005-07-12 03:27:37
+
+----
+
+Return-date: 2005-07-17 22:42:37
+
+----
+
+Inventory: page://Chzhh9fQSizA68YT
+
+----
+
+Uuid: seWDveZ5dfj4tlAx
+
+----
+
+Customer: page://A7gLRZtZiSgkz8K8

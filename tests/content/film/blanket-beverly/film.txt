@@ -1,0 +1,42 @@
+Title: BLANKET BEVERLY
+
+----
+
+Actors:
+
+- 'page://EfT0PAFDrVUk4H1Y'
+- 'page://j4GwVyPWyXE95Bdj'
+- 'page://h9gp2o2uGocb4AUV'
+- 'page://DwMOxcgjVYPNg15d'
+
+----
+
+Film-id: 80
+
+----
+
+Description: A Emotional Documentary of a Student And a Girl who must Build a Boat in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 148
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: nfSwrYNlUFrCCo1g
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

@@ -1,0 +1,17 @@
+Title: Inv 2100
+
+----
+
+Inventory-id: 2100
+
+----
+
+Film: page://BsoQe8bDamWJvF15
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: XVz8QX3UlrqDwXsM

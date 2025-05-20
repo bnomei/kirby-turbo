@@ -1,0 +1,17 @@
+Title: Inv 3545
+
+----
+
+Inventory-id: 3545
+
+----
+
+Film: page://ZeOs3QdCKvQUL6Gw
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: bqyJF24ETUcwb5GQ

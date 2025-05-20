@@ -1,0 +1,25 @@
+Title: Rental 347
+
+----
+
+Rental-id: 347
+
+----
+
+Rental-date: 2005-05-27 04:40:33
+
+----
+
+Return-date: 2005-05-28 09:56:33
+
+----
+
+Inventory: page://hRDMDY9m7u9bttQz
+
+----
+
+Uuid: XnRVtXy4yRaAiW0x
+
+----
+
+Customer: page://EmoWqGxzAidMQXb2

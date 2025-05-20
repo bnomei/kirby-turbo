@@ -1,0 +1,17 @@
+Title: Inv 1501
+
+----
+
+Inventory-id: 1501
+
+----
+
+Film: page://VOKqzXnmt525ArH9
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: LxpSPTumXHO0FubH

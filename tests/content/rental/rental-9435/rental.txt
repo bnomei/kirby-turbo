@@ -1,0 +1,25 @@
+Title: Rental 9435
+
+----
+
+Rental-id: 9435
+
+----
+
+Rental-date: 2005-07-30 21:31:02
+
+----
+
+Return-date: 2005-08-05 22:34:02
+
+----
+
+Inventory: page://T97IJf5LuHjCIrQN
+
+----
+
+Customer: page://d4uyJxb6OPu5hZso
+
+----
+
+Uuid: deG3lEiJvlnTPnwq

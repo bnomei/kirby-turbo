@@ -1,0 +1,25 @@
+Title: Rental 15937
+
+----
+
+Rental-id: 15937
+
+----
+
+Rental-date: 2005-08-23 18:43:22
+
+----
+
+Return-date: 2005-08-24 22:53:22
+
+----
+
+Inventory: page://siIjgmDTgQzyzqOj
+
+----
+
+Customer: page://3WUOY4VXzpqWI6NO
+
+----
+
+Uuid: HMGb1bb9vR6Au5V3

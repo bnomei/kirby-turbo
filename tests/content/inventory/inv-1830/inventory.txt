@@ -1,0 +1,17 @@
+Title: Inv 1830
+
+----
+
+Inventory-id: 1830
+
+----
+
+Film: page://WGXDM1RG4lfMpY2G
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: a9B3urJX0gI68Ug2

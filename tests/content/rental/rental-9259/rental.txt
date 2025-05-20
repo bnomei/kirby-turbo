@@ -1,0 +1,25 @@
+Title: Rental 9259
+
+----
+
+Rental-id: 9259
+
+----
+
+Rental-date: 2005-07-30 14:37:44
+
+----
+
+Return-date: 2005-08-06 18:05:44
+
+----
+
+Inventory: page://o8jKYdlbmRtaVPrS
+
+----
+
+Customer: page://d4Qzzmipb5Xdc54C
+
+----
+
+Uuid: dZlc4S6YqfZB0muS

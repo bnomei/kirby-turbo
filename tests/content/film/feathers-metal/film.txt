@@ -1,0 +1,47 @@
+Title: FEATHERS METAL
+
+----
+
+Actors:
+
+- 'page://gxNf949gkwS5ks3A'
+- 'page://OwcwI2sE5Nr5L1Ju'
+- 'page://2VTI7EzGP0O1IYVh'
+- 'page://sDEWocF2a3nQjJMo'
+- 'page://Xu2nMG4ojUoJI7CN'
+- 'page://CsoOTyxORoAs7uZy'
+- 'page://QXMalcumIlXeK8Z2'
+- 'page://uyiPyWfxhKFdwYKL'
+- 'page://4H5a71re4eGpTLKc'
+
+----
+
+Film-id: 306
+
+----
+
+Description: A Thoughtful Yarn of a Monkey And a Teacher who must Find a Dog in Australia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 104
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: y1xbqPCqXzAv4zdQ
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

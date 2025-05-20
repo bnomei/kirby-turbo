@@ -1,0 +1,33 @@
+Title: EDWARD BAUGH
+
+----
+
+Customer-id: 317
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: EDWARD
+
+----
+
+Last-name: BAUGH
+
+----
+
+Email: EDWARD.BAUGH@sakilacustomer.org
+
+----
+
+Address: page://qF4sU48ubcTI8hfH
+
+----
+
+Active: 1
+
+----
+
+Uuid: LjRXWt8yhDRV7QH6

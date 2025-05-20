@@ -1,0 +1,25 @@
+Title: Rental 11426
+
+----
+
+Rental-id: 11426
+
+----
+
+Rental-date: 2005-08-02 20:00:09
+
+----
+
+Return-date: 2005-08-09 01:30:09
+
+----
+
+Inventory: page://L1rbNKxgbXHUXX3o
+
+----
+
+Customer: page://Tq01V7arWSoz6Hb2
+
+----
+
+Uuid: 9IgR9XnnytOzdcqX

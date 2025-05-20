@@ -1,0 +1,25 @@
+Title: Rental 1489
+
+----
+
+Rental-id: 1489
+
+----
+
+Rental-date: 2005-06-15 21:41:38
+
+----
+
+Return-date: 2005-06-22 17:00:38
+
+----
+
+Inventory: page://Sg3iHfClRbSTzab1
+
+----
+
+Uuid: xfoKEXJfiQa2wrw4
+
+----
+
+Customer: page://SXP8ih15ziLTUonG

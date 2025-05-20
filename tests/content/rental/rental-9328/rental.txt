@@ -1,0 +1,25 @@
+Title: Rental 9328
+
+----
+
+Rental-id: 9328
+
+----
+
+Rental-date: 2005-07-30 17:32:11
+
+----
+
+Return-date: 2005-08-05 13:36:11
+
+----
+
+Inventory: page://p6lKNzs5pQyJTnkG
+
+----
+
+Customer: page://62MZSyLkLyVVQ5Cs
+
+----
+
+Uuid: wzWJ5RuiR8khCNf7

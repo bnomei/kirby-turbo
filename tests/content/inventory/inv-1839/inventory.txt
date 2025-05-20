@@ -1,0 +1,17 @@
+Title: Inv 1839
+
+----
+
+Inventory-id: 1839
+
+----
+
+Film: page://ibzE9A0UgRG9uqqh
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: whCiXknad7tfbu5W

@@ -1,0 +1,33 @@
+Title: DEAN SAUER
+
+----
+
+Customer-id: 471
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: DEAN
+
+----
+
+Last-name: SAUER
+
+----
+
+Email: DEAN.SAUER@sakilacustomer.org
+
+----
+
+Address: page://yPjDEtJOLlAgYYI6
+
+----
+
+Active: 1
+
+----
+
+Uuid: 14NHpOTSxGxpMsWX

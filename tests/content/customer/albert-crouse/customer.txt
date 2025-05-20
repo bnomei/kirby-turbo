@@ -1,0 +1,33 @@
+Title: ALBERT CROUSE
+
+----
+
+Customer-id: 352
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ALBERT
+
+----
+
+Last-name: CROUSE
+
+----
+
+Email: ALBERT.CROUSE@sakilacustomer.org
+
+----
+
+Address: page://ICYfmBjNceU3u08S
+
+----
+
+Active: 1
+
+----
+
+Uuid: alzSQpRBPNGWEUd4

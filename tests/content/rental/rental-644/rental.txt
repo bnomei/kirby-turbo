@@ -1,0 +1,25 @@
+Title: Rental 644
+
+----
+
+Rental-id: 644
+
+----
+
+Rental-date: 2005-05-28 18:59:12
+
+----
+
+Return-date: 2005-06-04 18:06:12
+
+----
+
+Inventory: page://PkakwpiWWo31a39R
+
+----
+
+Uuid: uQ2KnFG8iQpb9wFU
+
+----
+
+Customer: page://W2vSpda0fGwDYgAa

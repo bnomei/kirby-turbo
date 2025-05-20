@@ -1,0 +1,25 @@
+Title: Rental 6701
+
+----
+
+Rental-id: 6701
+
+----
+
+Rental-date: 2005-07-12 12:47:59
+
+----
+
+Return-date: 2005-07-13 10:28:59
+
+----
+
+Inventory: page://gqC6iWaQFU6VleTh
+
+----
+
+Uuid: Afczatr13rHztiKr
+
+----
+
+Customer: page://2QCpyeeQilmvnk6g

@@ -1,0 +1,25 @@
+Title: Rental 366
+
+----
+
+Rental-id: 366
+
+----
+
+Rental-date: 2005-05-27 07:33:54
+
+----
+
+Return-date: 2005-06-04 01:55:54
+
+----
+
+Inventory: page://ZV0oUPQ9BiFi2RAI
+
+----
+
+Uuid: PS9axW95K7htH2vv
+
+----
+
+Customer: page://zeAqUQXxiV8V74u5

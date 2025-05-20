@@ -1,0 +1,44 @@
+Title: SEATTLE EXPECATIONS
+
+----
+
+Actors:
+
+- 'page://RdNo3TYVhV9JmDu6'
+- 'page://gxNf949gkwS5ks3A'
+- 'page://nN3rIVkI7hNgoDlp'
+- 'page://QXMalcumIlXeK8Z2'
+- 'page://qXajFtQVbGpQUZAN'
+- 'page://zrJrW5pbY6A6t722'
+
+----
+
+Film-id: 775
+
+----
+
+Description: A Insightful Reflection of a Crocodile And a Sumo Wrestler who must Meet a Technical Writer in The Sahara Desert
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 110
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: ZeOs3QdCKvQUL6Gw
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

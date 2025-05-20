@@ -1,0 +1,25 @@
+Title: Rental 12835
+
+----
+
+Rental-id: 12835
+
+----
+
+Rental-date: 2005-08-19 01:47:45
+
+----
+
+Return-date: 2005-08-26 00:58:45
+
+----
+
+Inventory: page://KdWfbJzjaht16Q79
+
+----
+
+Customer: page://PRYZKLCz6ndr3bge
+
+----
+
+Uuid: 6baeML61js80an0d

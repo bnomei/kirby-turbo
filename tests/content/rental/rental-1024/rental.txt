@@ -1,0 +1,25 @@
+Title: Rental 1024
+
+----
+
+Rental-id: 1024
+
+----
+
+Rental-date: 2005-05-31 03:30:19
+
+----
+
+Return-date: 2005-06-09 05:52:19
+
+----
+
+Inventory: page://uZKbFv5KsIv3DCI6
+
+----
+
+Uuid: yPbv9T7nHhWVVc3e
+
+----
+
+Customer: page://ssKfVmN07XGOgIXz

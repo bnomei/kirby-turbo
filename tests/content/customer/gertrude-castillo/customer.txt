@@ -1,0 +1,33 @@
+Title: GERTRUDE CASTILLO
+
+----
+
+Customer-id: 207
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: GERTRUDE
+
+----
+
+Last-name: CASTILLO
+
+----
+
+Email: GERTRUDE.CASTILLO@sakilacustomer.org
+
+----
+
+Address: page://agYp4KNXumxfRl2Q
+
+----
+
+Active: 1
+
+----
+
+Uuid: wMkYUds0NaSHubNn

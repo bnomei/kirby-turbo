@@ -1,0 +1,25 @@
+Title: Rental 2896
+
+----
+
+Rental-id: 2896
+
+----
+
+Rental-date: 2005-06-20 02:33:42
+
+----
+
+Return-date: 2005-06-26 05:29:42
+
+----
+
+Inventory: page://eGqNl6l7rmz3j7L3
+
+----
+
+Uuid: KIqy6s8UPfDW7JHw
+
+----
+
+Customer: page://mKUSHxTkOIWhbbql

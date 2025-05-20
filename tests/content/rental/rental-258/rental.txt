@@ -1,0 +1,25 @@
+Title: Rental 258
+
+----
+
+Rental-id: 258
+
+----
+
+Rental-date: 2005-05-26 15:28:14
+
+----
+
+Return-date: 2005-05-30 18:38:14
+
+----
+
+Inventory: page://WBIVB4ZcTgPzWFfV
+
+----
+
+Uuid: Ozko78VI0LxMDTfu
+
+----
+
+Customer: page://9bRTDRu3HEwd7H8l

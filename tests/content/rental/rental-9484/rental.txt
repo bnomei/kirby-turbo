@@ -1,0 +1,25 @@
+Title: Rental 9484
+
+----
+
+Rental-id: 9484
+
+----
+
+Rental-date: 2005-07-30 23:31:40
+
+----
+
+Return-date: 2005-08-02 18:25:40
+
+----
+
+Inventory: page://8o0g7yBupYgr1xXa
+
+----
+
+Customer: page://M0U3K1RrRahNRLAP
+
+----
+
+Uuid: U6c7ajjwsDWbE0ZR

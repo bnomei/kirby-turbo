@@ -1,0 +1,25 @@
+Title: Rental 420
+
+----
+
+Rental-id: 420
+
+----
+
+Rental-date: 2005-05-27 15:19:38
+
+----
+
+Return-date: 2005-06-03 15:07:38
+
+----
+
+Inventory: page://b22R5vxCWoBMhou8
+
+----
+
+Uuid: JVhDJu9iM0GGGLHw
+
+----
+
+Customer: page://1apdIukT0MghUchq

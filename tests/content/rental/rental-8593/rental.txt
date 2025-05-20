@@ -1,0 +1,25 @@
+Title: Rental 8593
+
+----
+
+Rental-id: 8593
+
+----
+
+Rental-date: 2005-07-29 12:38:14
+
+----
+
+Return-date: 2005-08-07 07:04:14
+
+----
+
+Inventory: page://wf9EZNENjSBcELbn
+
+----
+
+Customer: page://5RcmhHbYnxl64mW8
+
+----
+
+Uuid: CFVD6QaJBb3UxHx8

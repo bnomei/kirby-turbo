@@ -1,0 +1,33 @@
+Title: ELLEN SIMPSON
+
+----
+
+Customer-id: 126
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: ELLEN
+
+----
+
+Last-name: SIMPSON
+
+----
+
+Email: ELLEN.SIMPSON@sakilacustomer.org
+
+----
+
+Address: page://JPB6DBlfjKUro0eD
+
+----
+
+Active: 1
+
+----
+
+Uuid: 4XMwdFimnTGUEo5B

@@ -1,0 +1,17 @@
+Title: Inv 877
+
+----
+
+Inventory-id: 877
+
+----
+
+Film: page://bjcVvf6Bq6N3Umgg
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: LXnzPUPL1hEDGnz2

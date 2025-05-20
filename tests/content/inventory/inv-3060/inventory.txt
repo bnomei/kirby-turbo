@@ -1,0 +1,17 @@
+Title: Inv 3060
+
+----
+
+Inventory-id: 3060
+
+----
+
+Film: page://kGbNpCoyrIROVvsU
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: LnXdqODCUEjMsfAN

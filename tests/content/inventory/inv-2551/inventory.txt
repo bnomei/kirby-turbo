@@ -1,0 +1,17 @@
+Title: Inv 2551
+
+----
+
+Inventory-id: 2551
+
+----
+
+Film: page://puoAkILBfsOTWn5V
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: IltFFHJ7u0qkM5J7

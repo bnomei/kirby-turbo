@@ -1,0 +1,25 @@
+Title: Rental 784
+
+----
+
+Rental-id: 784
+
+----
+
+Rental-date: 2005-05-29 14:44:22
+
+----
+
+Return-date: 2005-06-01 17:28:22
+
+----
+
+Inventory: page://gms69fcbIpnOhv2x
+
+----
+
+Uuid: VVv57He46FXQP3tV
+
+----
+
+Customer: page://alzSQpRBPNGWEUd4

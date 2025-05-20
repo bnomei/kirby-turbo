@@ -1,0 +1,25 @@
+Title: Rental 3246
+
+----
+
+Rental-id: 3246
+
+----
+
+Rental-date: 2005-06-21 03:10:01
+
+----
+
+Return-date: 2005-06-28 00:46:01
+
+----
+
+Inventory: page://ykz8XxXuZgqfSh2E
+
+----
+
+Uuid: h4ObxSBwy3qdHDvi
+
+----
+
+Customer: page://uE84jSPn6fUxfq6A

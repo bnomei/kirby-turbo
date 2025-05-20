@@ -1,0 +1,33 @@
+Title: JAIME NETTLES
+
+----
+
+Customer-id: 565
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: JAIME
+
+----
+
+Last-name: NETTLES
+
+----
+
+Email: JAIME.NETTLES@sakilacustomer.org
+
+----
+
+Address: page://A8wfkHSbg2Ly5M0Q
+
+----
+
+Active: 1
+
+----
+
+Uuid: 7AM12dZR8dD0mO7c

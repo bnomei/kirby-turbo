@@ -1,0 +1,43 @@
+Title: CLOCKWORK PARADISE
+
+----
+
+Actors:
+
+- 'page://RaBnN0JojPRLBj7c'
+- 'page://75IrF5RezCSzGKrx'
+- 'page://rnDcbekdB8oOqt97'
+- 'page://gELBLdH4G3cmVmcs'
+- 'page://WFF82auh2AgpYPoL'
+
+----
+
+Film-id: 157
+
+----
+
+Description: A Insightful Documentary of a Technical Writer And a Feminist who must Challenge a Cat in A Baloon
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 143
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: VmZM1BKcaPN8hbfP
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

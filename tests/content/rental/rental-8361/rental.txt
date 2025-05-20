@@ -1,0 +1,25 @@
+Title: Rental 8361
+
+----
+
+Rental-id: 8361
+
+----
+
+Rental-date: 2005-07-29 05:08:57
+
+----
+
+Return-date: 2005-08-03 02:49:57
+
+----
+
+Inventory: page://FDV4ESecy8o3zS4X
+
+----
+
+Customer: page://7SY2KMPnL0FSeq6W
+
+----
+
+Uuid: NgJj8XIWWR27AaN7

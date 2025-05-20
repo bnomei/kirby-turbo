@@ -1,0 +1,17 @@
+Title: Kurgan
+
+----
+
+City-id: 285
+
+----
+
+City: Kurgan
+
+----
+
+Country: page://NzIpdEh2BMlexUr9
+
+----
+
+Uuid: tpNEem2JofjJGe4v

@@ -1,0 +1,25 @@
+Title: Rental 305
+
+----
+
+Rental-id: 305
+
+----
+
+Rental-date: 2005-05-26 21:22:07
+
+----
+
+Return-date: 2005-06-02 22:33:07
+
+----
+
+Inventory: page://92baXsEG9UZZS3sv
+
+----
+
+Uuid: 6W50Lm57PxANQue5
+
+----
+
+Customer: page://EDwVrRHYpmzW6TLc

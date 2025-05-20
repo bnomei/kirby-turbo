@@ -1,0 +1,25 @@
+Title: Rental 1926
+
+----
+
+Rental-id: 1926
+
+----
+
+Rental-date: 2005-06-17 06:24:30
+
+----
+
+Return-date: 2005-06-25 03:39:30
+
+----
+
+Inventory: page://CspHrLh9U0AlsHoG
+
+----
+
+Uuid: rPC7GQgmYphAPv9K
+
+----
+
+Customer: page://nYhpEPDMjzk9g7hI

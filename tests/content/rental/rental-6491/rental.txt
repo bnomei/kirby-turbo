@@ -1,0 +1,25 @@
+Title: Rental 6491
+
+----
+
+Rental-id: 6491
+
+----
+
+Rental-date: 2005-07-12 02:28:31
+
+----
+
+Return-date: 2005-07-21 00:38:31
+
+----
+
+Inventory: page://fDE7iWwu5W1Z9wOq
+
+----
+
+Uuid: JiCsV2xQVKOJepaD
+
+----
+
+Customer: page://A7gLRZtZiSgkz8K8

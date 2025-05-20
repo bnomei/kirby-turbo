@@ -1,0 +1,40 @@
+Title: HEAD STRANGER
+
+----
+
+Actors:
+
+- 'page://lRnQ2IFMyS6K2hRd'
+- 'page://ZyRQLJXso6IqRkwR'
+
+----
+
+Film-id: 408
+
+----
+
+Description: A Thoughtful Saga of a Hunter And a Crocodile who must Confront a Dog in The Gulf of Mexico
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 69
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries
+
+----
+
+Uuid: x0gO7YRtpNfgYnvF
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

@@ -1,0 +1,25 @@
+Title: Rental 2556
+
+----
+
+Rental-id: 2556
+
+----
+
+Rental-date: 2005-06-19 03:07:32
+
+----
+
+Return-date: 2005-06-23 23:09:32
+
+----
+
+Inventory: page://TL15s66hr1XATG2S
+
+----
+
+Uuid: hfZFl1ohWU5tncSu
+
+----
+
+Customer: page://zLiLkW2YJgd9qzFC

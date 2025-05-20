@@ -1,0 +1,17 @@
+Title: Inv 3681
+
+----
+
+Inventory-id: 3681
+
+----
+
+Film: page://5q4rZtKl8oeNGLJr
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 6oYr2xqc6i2OTSIe

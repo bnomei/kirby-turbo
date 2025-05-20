@@ -1,0 +1,25 @@
+Title: Rental 1537
+
+----
+
+Rental-id: 1537
+
+----
+
+Rental-date: 2005-06-16 00:52:51
+
+----
+
+Return-date: 2005-06-20 19:33:51
+
+----
+
+Inventory: page://bG4pv5JB9r08Rzfc
+
+----
+
+Uuid: 1Q8X3JrVPN5MtCmZ
+
+----
+
+Customer: page://DZzK6reO3V0LDrPm

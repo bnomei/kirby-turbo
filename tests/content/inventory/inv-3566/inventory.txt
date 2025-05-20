@@ -1,0 +1,17 @@
+Title: Inv 3566
+
+----
+
+Inventory-id: 3566
+
+----
+
+Film: page://BFEe1undlYUgYeCu
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: aXSdNcdtyj3AgWoD

@@ -1,0 +1,17 @@
+Title: Inv 3995
+
+----
+
+Inventory-id: 3995
+
+----
+
+Film: page://iGsPfI8b7Gn5X4mj
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: fWtP7meb4S62ROwg

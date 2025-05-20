@@ -1,0 +1,25 @@
+Title: Rental 9042
+
+----
+
+Rental-id: 9042
+
+----
+
+Rental-date: 2005-07-30 06:33:55
+
+----
+
+Return-date: 2005-08-04 09:31:55
+
+----
+
+Inventory: page://KGyodMWqaThCN9S5
+
+----
+
+Customer: page://YZl5AjKSw8qG2iij
+
+----
+
+Uuid: Aug4r4iztiKQlaoP

@@ -1,0 +1,17 @@
+Title: Inv 1660
+
+----
+
+Inventory-id: 1660
+
+----
+
+Film: page://5cKWlk3wYX2mi6As
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: K1LMPZh015Ghsqxw

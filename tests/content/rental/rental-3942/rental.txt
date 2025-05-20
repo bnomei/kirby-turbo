@@ -1,0 +1,25 @@
+Title: Rental 3942
+
+----
+
+Rental-id: 3942
+
+----
+
+Rental-date: 2005-07-06 21:21:34
+
+----
+
+Return-date: 2005-07-15 02:34:34
+
+----
+
+Inventory: page://iSkByaooa3Y0Ltzd
+
+----
+
+Uuid: TLzv94fe5Tl5nnhE
+
+----
+
+Customer: page://3ZP9ENxbl27URSN0

@@ -1,0 +1,25 @@
+Title: Rental 13966
+
+----
+
+Rental-id: 13966
+
+----
+
+Rental-date: 2005-08-20 18:28:28
+
+----
+
+Return-date: 2005-08-22 16:49:28
+
+----
+
+Inventory: page://wcjy4ey4zqOr0xos
+
+----
+
+Customer: page://rCrCpCNcHKJui2E7
+
+----
+
+Uuid: ob7Fx6lwObD8ceNX

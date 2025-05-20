@@ -1,0 +1,25 @@
+Title: Rental 10778
+
+----
+
+Rental-id: 10778
+
+----
+
+Rental-date: 2005-08-01 21:11:39
+
+----
+
+Return-date: 2005-08-02 22:59:39
+
+----
+
+Inventory: page://QurzDfEmjX32wNgG
+
+----
+
+Customer: page://MuXF2o48u2i4miEF
+
+----
+
+Uuid: CbSjUGMJ5i6ka7nB

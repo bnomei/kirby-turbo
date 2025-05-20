@@ -1,0 +1,17 @@
+Title: Inv 1321
+
+----
+
+Inventory-id: 1321
+
+----
+
+Film: page://CH4btgLIdvjp8AWX
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: QIkhxtxegA2jzo35

@@ -1,0 +1,25 @@
+Title: Rental 850
+
+----
+
+Rental-id: 850
+
+----
+
+Rental-date: 2005-05-30 01:35:12
+
+----
+
+Return-date: 2005-05-31 01:51:12
+
+----
+
+Inventory: page://RcVa8JG24WmaApqr
+
+----
+
+Uuid: X2uPcQcG89yd1gpS
+
+----
+
+Customer: page://gLPYzE6xdxqOoEJZ

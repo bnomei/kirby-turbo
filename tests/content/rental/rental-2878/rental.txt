@@ -1,0 +1,25 @@
+Title: Rental 2878
+
+----
+
+Rental-id: 2878
+
+----
+
+Rental-date: 2005-06-20 01:09:14
+
+----
+
+Return-date: 2005-06-21 21:40:14
+
+----
+
+Inventory: page://LYJqbNdbxjGACxbt
+
+----
+
+Uuid: 1wjJRb7bJL9bI2p9
+
+----
+
+Customer: page://f1BLMiQFWjWGI1Fh

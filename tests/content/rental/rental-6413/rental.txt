@@ -1,0 +1,25 @@
+Title: Rental 6413
+
+----
+
+Rental-id: 6413
+
+----
+
+Rental-date: 2005-07-11 23:26:11
+
+----
+
+Return-date: 2005-07-17 21:58:11
+
+----
+
+Inventory: page://LIpNA99s3aQD3Jk8
+
+----
+
+Uuid: R7BvVsPCN7ZFjuiN
+
+----
+
+Customer: page://cRRGmCnzUGugZdVF

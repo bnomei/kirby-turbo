@@ -1,0 +1,25 @@
+Title: Rental 6804
+
+----
+
+Rental-id: 6804
+
+----
+
+Rental-date: 2005-07-12 17:22:06
+
+----
+
+Return-date: 2005-07-21 11:37:06
+
+----
+
+Inventory: page://9yHpIDcT86zoQwUN
+
+----
+
+Customer: page://Cko87GK3ShDjUK4Q
+
+----
+
+Uuid: a7f0jKy6F2apo1Km

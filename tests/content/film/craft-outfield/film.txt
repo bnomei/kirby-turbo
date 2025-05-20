@@ -1,0 +1,44 @@
+Title: CRAFT OUTFIELD
+
+----
+
+Actors:
+
+- 'page://jG0aUFRzU1eFlO8R'
+- 'page://ovAz2jwmaTIz5ph9'
+- 'page://u0N0ozPCYMgg4oo9'
+- 'page://IR4s9CmH1R8G51Ej'
+- 'page://3XS33oPl7qwaYDh3'
+- 'page://FLMpVB5CVJFKSGVy'
+
+----
+
+Film-id: 186
+
+----
+
+Description: A Lacklusture Display of a Explorer And a Hunter who must Succumb a Database Administrator in A Baloon Factory
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 64
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: PQjuZfOhYuSRPrYo
+
+----
+
+Categories: - 'page://BB7JTwx113bVjKMh'

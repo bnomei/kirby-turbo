@@ -1,0 +1,17 @@
+Title: Inv 2018
+
+----
+
+Inventory-id: 2018
+
+----
+
+Film: page://d9QYrciSHAxHU0xI
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: x80qIOTXCfdmt9Ti

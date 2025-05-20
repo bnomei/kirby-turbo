@@ -1,0 +1,17 @@
+Title: Inv 1523
+
+----
+
+Inventory-id: 1523
+
+----
+
+Film: page://hYhmJ2sn0NMkdf5O
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 9m5rZSqYjwno5SFG

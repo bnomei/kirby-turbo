@@ -1,0 +1,17 @@
+Title: Águas Lindas de Goiás
+
+----
+
+City-id: 190
+
+----
+
+City: Águas Lindas de Goiás
+
+----
+
+Country: page://jIqa2ZvYow6Egqhx
+
+----
+
+Uuid: sv1VRbohCHK8hR30

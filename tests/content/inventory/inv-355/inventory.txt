@@ -1,0 +1,17 @@
+Title: Inv 355
+
+----
+
+Inventory-id: 355
+
+----
+
+Film: page://iy0a104HjhjHKgsH
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: J2xQE0OuEirV27PR

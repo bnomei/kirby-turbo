@@ -1,0 +1,17 @@
+Title: Inv 253
+
+----
+
+Inventory-id: 253
+
+----
+
+Film: page://uIAfqGHSVpJWsHsT
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: n6H4rFSvbXbRbMw4

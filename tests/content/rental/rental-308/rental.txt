@@ -1,0 +1,25 @@
+Title: Rental 308
+
+----
+
+Rental-id: 308
+
+----
+
+Rental-date: 2005-05-26 22:01:39
+
+----
+
+Return-date: 2005-06-04 20:24:39
+
+----
+
+Inventory: page://hqf2106WBwPWhf7s
+
+----
+
+Uuid: 1Rc0AZnJuqOHY5AQ
+
+----
+
+Customer: page://zHX2zrjQSr6qaLsM

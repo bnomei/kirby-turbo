@@ -1,0 +1,25 @@
+Title: Rental 11440
+
+----
+
+Rental-id: 11440
+
+----
+
+Rental-date: 2005-08-02 20:24:02
+
+----
+
+Return-date: 2005-08-07 16:42:02
+
+----
+
+Inventory: page://KsFX78eDp2J7opg0
+
+----
+
+Customer: page://2C8Z04rPFee2aFn8
+
+----
+
+Uuid: l8iuwlpXn6NQSLDQ

@@ -1,0 +1,25 @@
+Title: Rental 3700
+
+----
+
+Rental-id: 3700
+
+----
+
+Rental-date: 2005-07-06 10:12:19
+
+----
+
+Return-date: 2005-07-07 14:21:19
+
+----
+
+Inventory: page://0U7cMOeGiIIZ1eEN
+
+----
+
+Uuid: 4cL75Jf95Sudbb9G
+
+----
+
+Customer: page://mAEI18ycC75jSjfq

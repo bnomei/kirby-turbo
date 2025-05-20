@@ -1,0 +1,17 @@
+Title: Inv 2800
+
+----
+
+Inventory-id: 2800
+
+----
+
+Film: page://Hup94TT5NKjIsBKd
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 69FfoXVvUhkKSfDH

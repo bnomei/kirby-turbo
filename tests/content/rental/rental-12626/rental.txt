@@ -1,0 +1,25 @@
+Title: Rental 12626
+
+----
+
+Rental-id: 12626
+
+----
+
+Rental-date: 2005-08-18 17:36:45
+
+----
+
+Return-date: 2005-08-26 17:12:45
+
+----
+
+Inventory: page://RvwV1VVuuDbr7biN
+
+----
+
+Customer: page://LGMzuvWnmjAofA2U
+
+----
+
+Uuid: 72ZADBoliI3aRb1N

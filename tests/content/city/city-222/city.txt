@@ -1,0 +1,17 @@
+Title: Inegöl
+
+----
+
+City-id: 222
+
+----
+
+City: Inegöl
+
+----
+
+Country: page://lUNLyfX8cAjy4Uga
+
+----
+
+Uuid: 93i6SoQAHypqZzja

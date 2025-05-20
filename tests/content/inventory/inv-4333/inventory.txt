@@ -1,0 +1,17 @@
+Title: Inv 4333
+
+----
+
+Inventory-id: 4333
+
+----
+
+Film: page://zGpQAqYH1u3cECW1
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: R4AYjTuFbFe1dvUL

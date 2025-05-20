@@ -1,0 +1,33 @@
+Title: DIANE COLLINS
+
+----
+
+Customer-id: 50
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: DIANE
+
+----
+
+Last-name: COLLINS
+
+----
+
+Email: DIANE.COLLINS@sakilacustomer.org
+
+----
+
+Address: page://U9L0B8zUOUJ2GaXe
+
+----
+
+Active: 1
+
+----
+
+Uuid: SGDmUxNER90s6kyU

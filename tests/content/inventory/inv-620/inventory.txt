@@ -1,0 +1,17 @@
+Title: Inv 620
+
+----
+
+Inventory-id: 620
+
+----
+
+Film: page://C8VGh18xAG37kxNf
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: AQuClZxxLNjjVXBD

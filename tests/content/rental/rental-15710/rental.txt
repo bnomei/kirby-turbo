@@ -1,0 +1,21 @@
+Title: Rental 15710
+
+----
+
+Rental-id: 15710
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://dK3MMBGZOb9LFnJV
+
+----
+
+Customer: page://B3L4KGTOB2xEaMbu
+
+----
+
+Uuid: x4F5ybgycNshx83c

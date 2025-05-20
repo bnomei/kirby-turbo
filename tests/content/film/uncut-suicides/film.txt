@@ -1,0 +1,45 @@
+Title: UNCUT SUICIDES
+
+----
+
+Actors:
+
+- 'page://Bfp6QX9U0O1ZLM64'
+- 'page://DC9iJim4HlVvOiTH'
+- 'page://iZwJlBg8wszU4t4i'
+- 'page://3BcvBP3gfacEDPsU'
+- 'page://yg3e89enY7SGtRB6'
+- 'page://j4GwVyPWyXE95Bdj'
+- 'page://nNLtL91vUU653tYz'
+
+----
+
+Film-id: 921
+
+----
+
+Description: A Intrepid Yarn of a Explorer And a Pastry Chef who must Pursue a Mad Cow in A U-Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 172
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Behind the Scenes
+
+----
+
+Uuid: y8BuDfsEAT5aJhE5
+
+----
+
+Categories: - 'page://a5oldqVmLQciBdfG'

@@ -1,0 +1,25 @@
+Title: Rental 991
+
+----
+
+Rental-id: 991
+
+----
+
+Rental-date: 2005-05-30 23:29:22
+
+----
+
+Return-date: 2005-06-07 23:16:22
+
+----
+
+Inventory: page://Ipcp1JrERMQkxfpw
+
+----
+
+Uuid: HC9i20c2mKzhdkde
+
+----
+
+Customer: page://q4exU1pk14u79lgg

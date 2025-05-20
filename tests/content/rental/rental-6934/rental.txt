@@ -1,0 +1,25 @@
+Title: Rental 6934
+
+----
+
+Rental-id: 6934
+
+----
+
+Rental-date: 2005-07-26 23:11:03
+
+----
+
+Return-date: 2005-08-04 19:18:03
+
+----
+
+Inventory: page://bviKBFyJrxPVvNfb
+
+----
+
+Customer: page://daiDyhYRb8z7fkl0
+
+----
+
+Uuid: DE4ei6UJa4G4TOWd

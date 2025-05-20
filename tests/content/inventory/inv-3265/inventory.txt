@@ -1,0 +1,17 @@
+Title: Inv 3265
+
+----
+
+Inventory-id: 3265
+
+----
+
+Film: page://6eqcBGhkrVe0rMG7
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 3ru40UmTLfa0zAyi

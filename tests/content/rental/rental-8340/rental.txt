@@ -1,0 +1,25 @@
+Title: Rental 8340
+
+----
+
+Rental-id: 8340
+
+----
+
+Rental-date: 2005-07-29 04:41:44
+
+----
+
+Return-date: 2005-08-07 10:33:44
+
+----
+
+Inventory: page://ip2Fsy8hi3nmtj4k
+
+----
+
+Customer: page://EHSB9jDLk6k6ip5D
+
+----
+
+Uuid: nwjLtTwf5LARpcJ7

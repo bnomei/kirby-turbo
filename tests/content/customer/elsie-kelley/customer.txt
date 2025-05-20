@@ -1,0 +1,33 @@
+Title: ELSIE KELLEY
+
+----
+
+Customer-id: 198
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ELSIE
+
+----
+
+Last-name: KELLEY
+
+----
+
+Email: ELSIE.KELLEY@sakilacustomer.org
+
+----
+
+Address: page://rGbfTFQENFqEi3wY
+
+----
+
+Active: 1
+
+----
+
+Uuid: RoYFWCky1f4iZ5Q3

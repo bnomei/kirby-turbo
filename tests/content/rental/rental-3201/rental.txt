@@ -1,0 +1,25 @@
+Title: Rental 3201
+
+----
+
+Rental-id: 3201
+
+----
+
+Rental-date: 2005-06-21 00:30:26
+
+----
+
+Return-date: 2005-06-28 03:42:26
+
+----
+
+Inventory: page://JVNIDybtobOfMeEp
+
+----
+
+Uuid: AgpalzHYOWGUajRX
+
+----
+
+Customer: page://zIyxrm1tFzZPIrxF

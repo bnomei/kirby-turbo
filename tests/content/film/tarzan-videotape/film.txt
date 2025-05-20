@@ -1,0 +1,41 @@
+Title: TARZAN VIDEOTAPE
+
+----
+
+Actors:
+
+- 'page://Kx231VrTuxlFk3Xg'
+- 'page://JbsPWnOXBNKX1tM5'
+- 'page://r5vfuwK7SifeGhUs'
+
+----
+
+Film-id: 876
+
+----
+
+Description: A Fast-Paced Display of a Lumberjack And a Mad Scientist who must Succumb a Sumo Wrestler in The Sahara Desert
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 91
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: FO7WooEjSehhlJ7I
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

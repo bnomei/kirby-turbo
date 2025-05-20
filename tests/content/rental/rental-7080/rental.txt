@@ -1,0 +1,25 @@
+Title: Rental 7080
+
+----
+
+Rental-id: 7080
+
+----
+
+Rental-date: 2005-07-27 04:25:25
+
+----
+
+Return-date: 2005-08-04 04:22:25
+
+----
+
+Inventory: page://9kaF9k4mrYekU2bG
+
+----
+
+Customer: page://QG9yqDQNwdOwdXOt
+
+----
+
+Uuid: zmUEykAmKDBvXBBA

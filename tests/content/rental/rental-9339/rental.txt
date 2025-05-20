@@ -1,0 +1,25 @@
+Title: Rental 9339
+
+----
+
+Rental-id: 9339
+
+----
+
+Rental-date: 2005-07-30 18:03:28
+
+----
+
+Return-date: 2005-08-08 19:45:28
+
+----
+
+Inventory: page://aAw98I8K235i2X4X
+
+----
+
+Customer: page://CUdWGJW9AwcLTKhu
+
+----
+
+Uuid: bZVwbvNddM40QZEf

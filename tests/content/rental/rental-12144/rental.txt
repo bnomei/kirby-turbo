@@ -1,0 +1,21 @@
+Title: Rental 12144
+
+----
+
+Rental-id: 12144
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://PKwClsaqgBx9E4fZ
+
+----
+
+Customer: page://B7BnhDPJcre02BJt
+
+----
+
+Uuid: tCZmYN0nUhLD6nvF

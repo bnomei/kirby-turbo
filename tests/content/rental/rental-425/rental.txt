@@ -1,0 +1,25 @@
+Title: Rental 425
+
+----
+
+Rental-id: 425
+
+----
+
+Rental-date: 2005-05-27 15:51:30
+
+----
+
+Return-date: 2005-06-03 16:52:30
+
+----
+
+Inventory: page://5EcLkKXsN1zMQrlQ
+
+----
+
+Uuid: 4t720vlWxKb4nwAX
+
+----
+
+Customer: page://WanceI8LSemC0lzf

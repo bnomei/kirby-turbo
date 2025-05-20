@@ -1,0 +1,33 @@
+Title: ERNEST STEPP
+
+----
+
+Customer-id: 384
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ERNEST
+
+----
+
+Last-name: STEPP
+
+----
+
+Email: ERNEST.STEPP@sakilacustomer.org
+
+----
+
+Address: page://MvWI0afyVLPori1E
+
+----
+
+Active: 1
+
+----
+
+Uuid: 0DViNB8AjR6M3Kvz

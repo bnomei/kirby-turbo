@@ -1,0 +1,25 @@
+Title: Rental 410
+
+----
+
+Rental-id: 410
+
+----
+
+Rental-date: 2005-05-27 14:11:22
+
+----
+
+Return-date: 2005-06-02 20:06:22
+
+----
+
+Inventory: page://9jHKy3DpluISOMrp
+
+----
+
+Uuid: Gjuz05KOv1qaX5Qz
+
+----
+
+Customer: page://R8IxBa5hez4twrqS

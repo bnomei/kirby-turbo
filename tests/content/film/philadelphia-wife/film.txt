@@ -1,0 +1,40 @@
+Title: PHILADELPHIA WIFE
+
+----
+
+Actors:
+
+- 'page://9dZ7pytlckFxJvGe'
+- 'page://kIGWs86teYEK5yIM'
+
+----
+
+Film-id: 676
+
+----
+
+Description: A Taut Yarn of a Hunter And a Astronaut who must Conquer a Database Administrator in The Sahara Desert
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 137
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: qJJTbkgi4aJuQXIF
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

@@ -1,0 +1,25 @@
+Title: Rental 1961
+
+----
+
+Rental-id: 1961
+
+----
+
+Rental-date: 2005-06-17 09:02:58
+
+----
+
+Return-date: 2005-06-20 03:07:58
+
+----
+
+Inventory: page://UDIWcqKajil4z1kZ
+
+----
+
+Uuid: prxG7oI5NowydZZm
+
+----
+
+Customer: page://0DViNB8AjR6M3Kvz

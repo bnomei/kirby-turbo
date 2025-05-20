@@ -1,0 +1,17 @@
+Title: Inv 4316
+
+----
+
+Inventory-id: 4316
+
+----
+
+Film: page://7MErZ2JBxN1hRxGu
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: XlcJyRA1x0OARQjo

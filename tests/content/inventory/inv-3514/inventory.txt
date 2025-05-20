@@ -1,0 +1,17 @@
+Title: Inv 3514
+
+----
+
+Inventory-id: 3514
+
+----
+
+Film: page://7dvFKufUCG0jMrqp
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ZG09EE8lgnMw4X7P

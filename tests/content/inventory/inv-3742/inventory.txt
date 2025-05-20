@@ -1,0 +1,17 @@
+Title: Inv 3742
+
+----
+
+Inventory-id: 3742
+
+----
+
+Film: page://qiTCdevnusoszKmv
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: TMRjMUgLxPloQ29n

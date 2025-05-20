@@ -1,0 +1,25 @@
+Title: Rental 622
+
+----
+
+Rental-id: 622
+
+----
+
+Rental-date: 2005-05-28 15:58:22
+
+----
+
+Return-date: 2005-06-04 10:13:22
+
+----
+
+Inventory: page://vNzYycPyuy97pgeN
+
+----
+
+Uuid: cEUh0l8rLDSKZvls
+
+----
+
+Customer: page://n40fLAJ9fSQtqJlL

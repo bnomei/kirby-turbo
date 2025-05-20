@@ -1,0 +1,17 @@
+Title: Inv 2177
+
+----
+
+Inventory-id: 2177
+
+----
+
+Film: page://jbO1wx2nX02GTrSB
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: moeTZe8bFJXdYFLu

@@ -1,0 +1,33 @@
+Title: LORI WOOD
+
+----
+
+Customer-id: 78
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: LORI
+
+----
+
+Last-name: WOOD
+
+----
+
+Email: LORI.WOOD@sakilacustomer.org
+
+----
+
+Address: page://xLclYcCPDOne9IXg
+
+----
+
+Active: 1
+
+----
+
+Uuid: do7XIsVNaFXaDfM6

@@ -1,0 +1,25 @@
+Title: Rental 9299
+
+----
+
+Rental-id: 9299
+
+----
+
+Rental-date: 2005-07-30 16:32:51
+
+----
+
+Return-date: 2005-08-08 15:28:51
+
+----
+
+Inventory: page://TsacAbu1IoEHqkd5
+
+----
+
+Customer: page://lsHQKiMkRVDTWpEH
+
+----
+
+Uuid: DYUksPBpzcfFP5sr

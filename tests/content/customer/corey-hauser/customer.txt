@@ -1,0 +1,33 @@
+Title: COREY HAUSER
+
+----
+
+Customer-id: 480
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: COREY
+
+----
+
+Last-name: HAUSER
+
+----
+
+Email: COREY.HAUSER@sakilacustomer.org
+
+----
+
+Address: page://OvrIs6HLSP7cekJn
+
+----
+
+Active: 1
+
+----
+
+Uuid: VhNFaZVA09U1QRJB

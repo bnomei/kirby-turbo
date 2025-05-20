@@ -1,0 +1,17 @@
+Title: Inv 3121
+
+----
+
+Inventory-id: 3121
+
+----
+
+Film: page://25tBTk7Ke8ZCSEMy
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: XZgBKu2Wj49aJMP4

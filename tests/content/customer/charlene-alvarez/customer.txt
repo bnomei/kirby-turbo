@@ -1,0 +1,33 @@
+Title: CHARLENE ALVAREZ
+
+----
+
+Customer-id: 220
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: CHARLENE
+
+----
+
+Last-name: ALVAREZ
+
+----
+
+Email: CHARLENE.ALVAREZ@sakilacustomer.org
+
+----
+
+Address: page://bl5CLHCg6lhW26gZ
+
+----
+
+Active: 1
+
+----
+
+Uuid: MuXF2o48u2i4miEF

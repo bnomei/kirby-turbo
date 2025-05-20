@@ -1,0 +1,17 @@
+Title: Inv 4529
+
+----
+
+Inventory-id: 4529
+
+----
+
+Film: page://2WrWVuDwLaDCOlID
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: g40rIar1alyvXM03

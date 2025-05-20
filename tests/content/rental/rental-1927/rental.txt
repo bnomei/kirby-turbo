@@ -1,0 +1,25 @@
+Title: Rental 1927
+
+----
+
+Rental-id: 1927
+
+----
+
+Rental-date: 2005-06-17 06:48:19
+
+----
+
+Return-date: 2005-06-21 03:23:19
+
+----
+
+Inventory: page://uD5SrBCADtUcdViM
+
+----
+
+Uuid: OvoEQbTDLPSsUcqu
+
+----
+
+Customer: page://6zbsFStjd2wpvc1C

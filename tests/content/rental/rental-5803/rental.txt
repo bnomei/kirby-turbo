@@ -1,0 +1,25 @@
+Title: Rental 5803
+
+----
+
+Rental-id: 5803
+
+----
+
+Rental-date: 2005-07-10 15:05:42
+
+----
+
+Return-date: 2005-07-15 10:19:42
+
+----
+
+Inventory: page://PN8ibiiFS6zw3hSK
+
+----
+
+Uuid: AjhBmWoKlDeWOBk0
+
+----
+
+Customer: page://gN3okMpZBEAmxrWM

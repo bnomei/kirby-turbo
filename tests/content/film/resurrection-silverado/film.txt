@@ -1,0 +1,43 @@
+Title: RESURRECTION SILVERADO
+
+----
+
+Actors:
+
+- 'page://NlhyBSq5UemRMvfg'
+- 'page://I7tdxqtamjxgIUCW'
+- 'page://gELBLdH4G3cmVmcs'
+- 'page://3O7lqRPKBygXUoTl'
+- 'page://xXgVj4FQPZ59wjBk'
+
+----
+
+Film-id: 727
+
+----
+
+Description: A Epic Yarn of a Robot And a Explorer who must Challenge a Girl in A MySQL Convention
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 117
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: 3G3ZWqsFeZK6pcTN
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

@@ -1,0 +1,17 @@
+Title: Inv 2269
+
+----
+
+Inventory-id: 2269
+
+----
+
+Film: page://huGAmDq8r7HfOMSX
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 5kvDYDq2Ev7AQPaF

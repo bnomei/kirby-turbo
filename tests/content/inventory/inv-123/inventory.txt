@@ -1,0 +1,17 @@
+Title: Inv 123
+
+----
+
+Inventory-id: 123
+
+----
+
+Film: page://kkvuGDIMjxCHN4Nb
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: HuXHp6vyd6OHkZm6

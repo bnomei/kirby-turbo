@@ -1,0 +1,25 @@
+Title: Rental 5016
+
+----
+
+Rental-id: 5016
+
+----
+
+Rental-date: 2005-07-09 01:57:57
+
+----
+
+Return-date: 2005-07-09 22:07:57
+
+----
+
+Inventory: page://vBpo959UeV3y7QQf
+
+----
+
+Uuid: J01jcRHdrt4oBmg1
+
+----
+
+Customer: page://stFkFNmIWPMkzEB2

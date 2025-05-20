@@ -1,0 +1,17 @@
+Title: Inv 2505
+
+----
+
+Inventory-id: 2505
+
+----
+
+Film: page://rYznzisOhkTNSdBa
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: zAcsoJGj6Ge2VM5z

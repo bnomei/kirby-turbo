@@ -1,0 +1,17 @@
+Title: Inv 305
+
+----
+
+Inventory-id: 305
+
+----
+
+Film: page://FAam9GaXVxjeoyCE
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 6FeYLTeF7a16o8wq

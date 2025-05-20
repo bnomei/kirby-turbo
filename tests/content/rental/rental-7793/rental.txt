@@ -1,0 +1,25 @@
+Title: Rental 7793
+
+----
+
+Rental-id: 7793
+
+----
+
+Rental-date: 2005-07-28 07:26:14
+
+----
+
+Return-date: 2005-08-03 07:45:14
+
+----
+
+Inventory: page://VDrYYlCLwFKkglt7
+
+----
+
+Customer: page://B846my6UhlL6l6CA
+
+----
+
+Uuid: QiFd316jC4q8Vvlp

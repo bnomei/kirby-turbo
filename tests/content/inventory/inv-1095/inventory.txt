@@ -1,0 +1,17 @@
+Title: Inv 1095
+
+----
+
+Inventory-id: 1095
+
+----
+
+Film: page://26lZ1GoDSpgkLgYx
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: udy1ajlN3ycnk3OX

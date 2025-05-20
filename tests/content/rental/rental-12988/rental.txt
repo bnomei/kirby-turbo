@@ -1,0 +1,21 @@
+Title: Rental 12988
+
+----
+
+Rental-id: 12988
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://EmdOEk7AqSDm0HFs
+
+----
+
+Customer: page://HQxscLHxuDjEVXyk
+
+----
+
+Uuid: Sf2WsFgCvwr2i3RO

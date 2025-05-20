@@ -1,0 +1,25 @@
+Title: Rental 1053
+
+----
+
+Rental-id: 1053
+
+----
+
+Rental-date: 2005-05-31 07:12:44
+
+----
+
+Return-date: 2005-06-04 12:33:44
+
+----
+
+Inventory: page://msHv62uVIyNbcuCM
+
+----
+
+Uuid: 993TQRTqeyouUZm7
+
+----
+
+Customer: page://TCHvKARcBg3R487d

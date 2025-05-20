@@ -1,0 +1,41 @@
+Title: KISSING DOLLS
+
+----
+
+Actors:
+
+- 'page://Kx231VrTuxlFk3Xg'
+- 'page://3XS33oPl7qwaYDh3'
+- 'page://m11q5cdDfIefOEY5'
+
+----
+
+Film-id: 501
+
+----
+
+Description: A Insightful Reflection of a Pioneer And a Teacher who must Build a Composer in The First Manned Space Station
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 141
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: UNE4Tp1X96yAuAd5
+
+----
+
+Categories: - 'page://N7p3TROhlBv4cKpK'

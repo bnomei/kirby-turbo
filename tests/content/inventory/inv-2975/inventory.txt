@@ -1,0 +1,17 @@
+Title: Inv 2975
+
+----
+
+Inventory-id: 2975
+
+----
+
+Film: page://hrSkNvW22T3x3Hg1
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: KGOx6jy27IBXTCoy

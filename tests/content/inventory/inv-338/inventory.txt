@@ -1,0 +1,17 @@
+Title: Inv 338
+
+----
+
+Inventory-id: 338
+
+----
+
+Film: page://wdCsKfGhTxJGSS4q
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: ZEV5K7oofSJzliGr

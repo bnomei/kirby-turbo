@@ -1,0 +1,25 @@
+Title: Rental 14339
+
+----
+
+Rental-id: 14339
+
+----
+
+Rental-date: 2005-08-21 08:37:15
+
+----
+
+Return-date: 2005-08-26 03:37:15
+
+----
+
+Inventory: page://9uBFf1b79X6U3UUX
+
+----
+
+Customer: page://bZxKFtO3mqYYQdiA
+
+----
+
+Uuid: mMggtnDTSsbbZg0W

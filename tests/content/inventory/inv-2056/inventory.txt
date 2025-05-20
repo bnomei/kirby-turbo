@@ -1,0 +1,17 @@
+Title: Inv 2056
+
+----
+
+Inventory-id: 2056
+
+----
+
+Film: page://cg8mLwYSOE42izJZ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: H3ZkyLO9YV4L52I2

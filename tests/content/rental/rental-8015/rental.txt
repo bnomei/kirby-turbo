@@ -1,0 +1,25 @@
+Title: Rental 8015
+
+----
+
+Rental-id: 8015
+
+----
+
+Rental-date: 2005-07-28 15:33:03
+
+----
+
+Return-date: 2005-07-30 15:32:03
+
+----
+
+Inventory: page://qkLa2BS7qBOA1b2e
+
+----
+
+Customer: page://z6KsbN8IOhSoB7GT
+
+----
+
+Uuid: OC3Q5FW3Gfd5c4eg

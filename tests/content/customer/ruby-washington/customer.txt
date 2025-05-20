@@ -1,0 +1,33 @@
+Title: RUBY WASHINGTON
+
+----
+
+Customer-id: 90
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: RUBY
+
+----
+
+Last-name: WASHINGTON
+
+----
+
+Email: RUBY.WASHINGTON@sakilacustomer.org
+
+----
+
+Address: page://3Da82EqBksEvYLCC
+
+----
+
+Active: 1
+
+----
+
+Uuid: ELKy5zef6YWcOPEC

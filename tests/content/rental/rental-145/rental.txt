@@ -1,0 +1,25 @@
+Title: Rental 145
+
+----
+
+Rental-id: 145
+
+----
+
+Rental-date: 2005-05-25 23:59:03
+
+----
+
+Return-date: 2005-05-31 02:56:03
+
+----
+
+Inventory: page://xnFU8Ounwn7I9LVT
+
+----
+
+Uuid: jKefSpb7tEQSv8UJ
+
+----
+
+Customer: page://HwY6ZsDzzk6bcaJh

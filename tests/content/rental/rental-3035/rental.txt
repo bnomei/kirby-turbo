@@ -1,0 +1,25 @@
+Title: Rental 3035
+
+----
+
+Rental-id: 3035
+
+----
+
+Rental-date: 2005-06-20 12:17:03
+
+----
+
+Return-date: 2005-06-26 17:42:03
+
+----
+
+Inventory: page://sCNqk1P2k6xx2c7O
+
+----
+
+Uuid: eLn2P5yo4idmWJZl
+
+----
+
+Customer: page://YyPBQe8b3YphbbXY

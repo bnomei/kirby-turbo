@@ -1,0 +1,17 @@
+Title: Inv 3374
+
+----
+
+Inventory-id: 3374
+
+----
+
+Film: page://aGP4U7YfinHEWklw
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: qFfR2NfnFmUIIr52

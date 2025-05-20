@@ -1,0 +1,25 @@
+Title: Rental 7380
+
+----
+
+Rental-id: 7380
+
+----
+
+Rental-date: 2005-07-27 15:37:01
+
+----
+
+Return-date: 2005-08-03 19:24:01
+
+----
+
+Inventory: page://jKfYWZYfo830W38l
+
+----
+
+Customer: page://K253MbSwnklxbl62
+
+----
+
+Uuid: vFKmFENJtwvpkTr4

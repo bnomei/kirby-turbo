@@ -1,0 +1,25 @@
+Title: Rental 10249
+
+----
+
+Rental-id: 10249
+
+----
+
+Rental-date: 2005-08-01 02:35:39
+
+----
+
+Return-date: 2005-08-06 06:50:39
+
+----
+
+Inventory: page://FcT5LSVbVtqHBDbS
+
+----
+
+Customer: page://PRxS4w02V4uKvZWV
+
+----
+
+Uuid: Nc2wNGAsfrZDDrxh

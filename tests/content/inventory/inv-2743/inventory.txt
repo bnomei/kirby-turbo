@@ -1,0 +1,17 @@
+Title: Inv 2743
+
+----
+
+Inventory-id: 2743
+
+----
+
+Film: page://kL2Chf0HRElGkw02
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: PQEsOW5k1hR4qo5z

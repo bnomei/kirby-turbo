@@ -1,0 +1,25 @@
+Title: Rental 2270
+
+----
+
+Rental-id: 2270
+
+----
+
+Rental-date: 2005-06-18 06:29:01
+
+----
+
+Return-date: 2005-06-26 07:21:01
+
+----
+
+Inventory: page://GBtdQTyZS6f8kVA0
+
+----
+
+Uuid: oFKQWbkHKelfMTv4
+
+----
+
+Customer: page://cxaxfUF1lmAT9qO9

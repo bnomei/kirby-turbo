@@ -1,0 +1,43 @@
+Title: FIRE WOLVES
+
+----
+
+Actors:
+
+- 'page://S52CrIK06oYgWrwP'
+- 'page://2VTI7EzGP0O1IYVh'
+- 'page://Xu2nMG4ojUoJI7CN'
+- 'page://6LG8mbCuu1aKuRcl'
+- 'page://K0t8PMh78EXVZHC5'
+
+----
+
+Film-id: 316
+
+----
+
+Description: A Intrepid Documentary of a Frisbee And a Dog who must Outrace a Lumberjack in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 173
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: Ryv7VPHQNXjHjIik
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

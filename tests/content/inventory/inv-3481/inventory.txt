@@ -1,0 +1,17 @@
+Title: Inv 3481
+
+----
+
+Inventory-id: 3481
+
+----
+
+Film: page://8fmBpMOzKmm842Su
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: V1G0CvzHStFZ1sF3

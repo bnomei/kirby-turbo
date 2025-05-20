@@ -1,0 +1,25 @@
+Title: Rental 2578
+
+----
+
+Rental-id: 2578
+
+----
+
+Rental-date: 2005-06-19 04:40:06
+
+----
+
+Return-date: 2005-06-26 09:37:06
+
+----
+
+Inventory: page://G83TcaP1kU8Wq0xG
+
+----
+
+Uuid: XaiP6AhxmKpGiU6g
+
+----
+
+Customer: page://YC1uNdmmt4LG2OJc

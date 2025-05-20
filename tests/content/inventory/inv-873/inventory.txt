@@ -1,0 +1,17 @@
+Title: Inv 873
+
+----
+
+Inventory-id: 873
+
+----
+
+Film: page://bjcVvf6Bq6N3Umgg
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 4CFtqvgYgmRzymnb

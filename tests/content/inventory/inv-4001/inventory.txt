@@ -1,0 +1,17 @@
+Title: Inv 4001
+
+----
+
+Inventory-id: 4001
+
+----
+
+Film: page://vVqAIfsqY30wZlDZ
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: zMrxbbO4aHtdMQ7s

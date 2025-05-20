@@ -1,0 +1,33 @@
+Title: DENNIS GILMAN
+
+----
+
+Customer-id: 338
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: DENNIS
+
+----
+
+Last-name: GILMAN
+
+----
+
+Email: DENNIS.GILMAN@sakilacustomer.org
+
+----
+
+Address: page://nMx5XM7BrtPNG4SV
+
+----
+
+Active: 1
+
+----
+
+Uuid: e5QOScWwwaP51UiZ

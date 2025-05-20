@@ -1,0 +1,17 @@
+Title: Inv 3890
+
+----
+
+Inventory-id: 3890
+
+----
+
+Film: page://kCQk0Lz7pqypJ6Wf
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Klkn4Y6wtLm97eCV

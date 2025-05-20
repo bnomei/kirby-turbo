@@ -1,0 +1,25 @@
+Title: Rental 468
+
+----
+
+Rental-id: 468
+
+----
+
+Rental-date: 2005-05-27 21:13:10
+
+----
+
+Return-date: 2005-06-04 15:26:10
+
+----
+
+Inventory: page://vIEEdgJ7lwWPmgiP
+
+----
+
+Uuid: YA4ZdCbelnM3HJWH
+
+----
+
+Customer: page://uLTcc5I1Ow2yuWNp

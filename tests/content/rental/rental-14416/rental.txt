@@ -1,0 +1,25 @@
+Title: Rental 14416
+
+----
+
+Rental-id: 14416
+
+----
+
+Rental-date: 2005-08-21 11:11:46
+
+----
+
+Return-date: 2005-08-25 12:33:46
+
+----
+
+Inventory: page://zhUyXpRjMRHfHXci
+
+----
+
+Customer: page://0DViNB8AjR6M3Kvz
+
+----
+
+Uuid: bV8kDzC1Hx1c46Wm

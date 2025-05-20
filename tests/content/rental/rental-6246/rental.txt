@@ -1,0 +1,25 @@
+Title: Rental 6246
+
+----
+
+Rental-id: 6246
+
+----
+
+Rental-date: 2005-07-11 14:57:51
+
+----
+
+Return-date: 2005-07-19 19:10:51
+
+----
+
+Inventory: page://VK3VJ18FazLOrxFy
+
+----
+
+Uuid: ynDkceNl12ygdOq1
+
+----
+
+Customer: page://EyDPLO3Eg43hOXws

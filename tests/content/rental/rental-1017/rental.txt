@@ -1,0 +1,25 @@
+Title: Rental 1017
+
+----
+
+Rental-id: 1017
+
+----
+
+Rental-date: 2005-05-31 02:53:36
+
+----
+
+Return-date: 2005-06-03 05:04:36
+
+----
+
+Inventory: page://9QtXRZY0bPFP4KAO
+
+----
+
+Uuid: ZyXjqmMayPtbsYvg
+
+----
+
+Customer: page://ZOdnteCiIgjV8qei

@@ -1,0 +1,17 @@
+Title: Inv 3965
+
+----
+
+Inventory-id: 3965
+
+----
+
+Film: page://88hxFI59PQnYCyxO
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: SA5wiCCbW7F2ZpDP

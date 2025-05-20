@@ -1,0 +1,21 @@
+Title: Rental 13578
+
+----
+
+Rental-id: 13578
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://xO3MndWjdhPx70mw
+
+----
+
+Customer: page://alzSQpRBPNGWEUd4
+
+----
+
+Uuid: LjoIXPQ5Z1wu3BqG

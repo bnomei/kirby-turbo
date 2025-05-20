@@ -1,0 +1,17 @@
+Title: Inv 1735
+
+----
+
+Inventory-id: 1735
+
+----
+
+Film: page://X9U4Fq1hpLRWz6uH
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: y7u7g6812UeoLyPi

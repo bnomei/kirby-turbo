@@ -1,0 +1,17 @@
+Title: Inv 4536
+
+----
+
+Inventory-id: 4536
+
+----
+
+Film: page://TCJQT1zD200etvMg
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Y2oirTEYeUcUc1oN

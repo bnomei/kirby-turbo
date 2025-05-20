@@ -1,0 +1,25 @@
+Title: Rental 10355
+
+----
+
+Rental-id: 10355
+
+----
+
+Rental-date: 2005-08-01 05:47:37
+
+----
+
+Return-date: 2005-08-02 09:28:37
+
+----
+
+Inventory: page://U669juOsgSeP5gs2
+
+----
+
+Customer: page://QJJkyq57XaTH2VdS
+
+----
+
+Uuid: 6QBS0j7WQGEXXZh4

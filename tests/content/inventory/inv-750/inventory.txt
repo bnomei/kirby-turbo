@@ -1,0 +1,17 @@
+Title: Inv 750
+
+----
+
+Inventory-id: 750
+
+----
+
+Film: page://cISnDSGiPY3Vsb7S
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 1yFye5QHDa6AsMno

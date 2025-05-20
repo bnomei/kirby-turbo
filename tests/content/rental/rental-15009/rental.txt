@@ -1,0 +1,25 @@
+Title: Rental 15009
+
+----
+
+Rental-id: 15009
+
+----
+
+Rental-date: 2005-08-22 08:27:27
+
+----
+
+Return-date: 2005-08-26 05:57:27
+
+----
+
+Inventory: page://9Q1krMja52XZNFSO
+
+----
+
+Customer: page://AA7ZNxlWuFGguRuP
+
+----
+
+Uuid: P2MZ7V2iWM3S52fQ

@@ -1,0 +1,17 @@
+Title: Inv 3839
+
+----
+
+Inventory-id: 3839
+
+----
+
+Film: page://RD5nIGLm058hSZAk
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: N3Ao3JZHhBRy3SX5

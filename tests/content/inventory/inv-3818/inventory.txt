@@ -1,0 +1,17 @@
+Title: Inv 3818
+
+----
+
+Inventory-id: 3818
+
+----
+
+Film: page://55vGON9GLR96M3OI
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 2Y79f3GsFKGewrjp

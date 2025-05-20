@@ -1,0 +1,44 @@
+Title: WESTWARD SEABISCUIT
+
+----
+
+Actors:
+
+- 'page://NhPOWxCYnyDlMqLk'
+- 'page://q71V781JfgIPJGVL'
+- 'page://eJszhRe2rjIvWjny'
+- 'page://CsoOTyxORoAs7uZy'
+- 'page://gELBLdH4G3cmVmcs'
+- 'page://WFF82auh2AgpYPoL'
+
+----
+
+Film-id: 970
+
+----
+
+Description: A Lacklusture Tale of a Butler And a Husband who must Face a Boy in Ancient China
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 52
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: 2ox845aHAlq9RkP9
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

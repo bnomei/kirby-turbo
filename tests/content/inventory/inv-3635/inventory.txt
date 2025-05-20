@@ -1,0 +1,17 @@
+Title: Inv 3635
+
+----
+
+Inventory-id: 3635
+
+----
+
+Film: page://XyKV84TkaZ4rRkps
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: hP1xAdPAwV5riAlF

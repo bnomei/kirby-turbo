@@ -1,0 +1,33 @@
+Title: BERNICE WILLIS
+
+----
+
+Customer-id: 172
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: BERNICE
+
+----
+
+Last-name: WILLIS
+
+----
+
+Email: BERNICE.WILLIS@sakilacustomer.org
+
+----
+
+Address: page://KBt3BjkzrjihPvQm
+
+----
+
+Active: 1
+
+----
+
+Uuid: EyDPLO3Eg43hOXws

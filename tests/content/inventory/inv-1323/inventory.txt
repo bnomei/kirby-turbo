@@ -1,0 +1,17 @@
+Title: Inv 1323
+
+----
+
+Inventory-id: 1323
+
+----
+
+Film: page://CH4btgLIdvjp8AWX
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: OEZ39NDnHnm9eYSd

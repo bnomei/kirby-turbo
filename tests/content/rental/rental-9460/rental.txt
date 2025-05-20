@@ -1,0 +1,25 @@
+Title: Rental 9460
+
+----
+
+Rental-id: 9460
+
+----
+
+Rental-date: 2005-07-30 22:25:39
+
+----
+
+Return-date: 2005-08-08 20:56:39
+
+----
+
+Inventory: page://Yo4TA5PAYx1dJyok
+
+----
+
+Customer: page://BEkVvrNrXDjHfDO4
+
+----
+
+Uuid: h79KQHywUBB083zV

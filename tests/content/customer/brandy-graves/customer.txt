@@ -1,0 +1,33 @@
+Title: BRANDY GRAVES
+
+----
+
+Customer-id: 276
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: BRANDY
+
+----
+
+Last-name: GRAVES
+
+----
+
+Email: BRANDY.GRAVES@sakilacustomer.org
+
+----
+
+Address: page://nrW3iDAgaB2wOJXO
+
+----
+
+Active: 1
+
+----
+
+Uuid: ITr0DtQiC8vNX3ax

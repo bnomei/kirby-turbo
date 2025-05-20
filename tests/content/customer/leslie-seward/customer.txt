@@ -1,0 +1,33 @@
+Title: LESLIE SEWARD
+
+----
+
+Customer-id: 506
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: LESLIE
+
+----
+
+Last-name: SEWARD
+
+----
+
+Email: LESLIE.SEWARD@sakilacustomer.org
+
+----
+
+Address: page://DCR0GATvf9KhTpU3
+
+----
+
+Active: 1
+
+----
+
+Uuid: R8IxBa5hez4twrqS

@@ -1,0 +1,25 @@
+Title: Rental 8271
+
+----
+
+Rental-id: 8271
+
+----
+
+Rental-date: 2005-07-29 01:27:44
+
+----
+
+Return-date: 2005-08-07 05:01:44
+
+----
+
+Inventory: page://fKmh2nJCjkgRDlQ9
+
+----
+
+Customer: page://6B5jExq3JyrPdaga
+
+----
+
+Uuid: 6OzdTcEk1fqn1gZ6

@@ -1,0 +1,25 @@
+Title: Rental 915
+
+----
+
+Rental-id: 915
+
+----
+
+Rental-date: 2005-05-30 11:20:27
+
+----
+
+Return-date: 2005-06-02 11:55:27
+
+----
+
+Inventory: page://JPTk74Hq0NkeZSWf
+
+----
+
+Uuid: HSgYM2KGMTutQPko
+
+----
+
+Customer: page://j8uyjiPeUtgzKjW3

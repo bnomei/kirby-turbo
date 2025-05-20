@@ -1,0 +1,25 @@
+Title: Rental 211
+
+----
+
+Rental-id: 211
+
+----
+
+Rental-date: 2005-05-26 08:33:10
+
+----
+
+Return-date: 2005-05-28 14:09:10
+
+----
+
+Inventory: page://Dpk630yVUuSDvKO4
+
+----
+
+Uuid: JuLsLv61rvK4nhXK
+
+----
+
+Customer: page://rLSUHhRJgJCY5Nmr

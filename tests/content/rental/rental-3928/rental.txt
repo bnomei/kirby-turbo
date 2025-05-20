@@ -1,0 +1,25 @@
+Title: Rental 3928
+
+----
+
+Rental-id: 3928
+
+----
+
+Rental-date: 2005-07-06 20:52:09
+
+----
+
+Return-date: 2005-07-08 18:51:09
+
+----
+
+Inventory: page://KUkzI1tmDIeNEqK6
+
+----
+
+Uuid: MZ0NbtU5T0sShUDR
+
+----
+
+Customer: page://QLQpAHNndEIHvGr2

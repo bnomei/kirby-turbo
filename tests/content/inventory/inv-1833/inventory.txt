@@ -1,0 +1,17 @@
+Title: Inv 1833
+
+----
+
+Inventory-id: 1833
+
+----
+
+Film: page://6TB6p0RldPABlj2Z
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 4o0pdul3glt9uXUG

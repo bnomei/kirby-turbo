@@ -1,0 +1,25 @@
+Title: Rental 7251
+
+----
+
+Rental-id: 7251
+
+----
+
+Rental-date: 2005-07-27 10:44:55
+
+----
+
+Return-date: 2005-08-01 16:12:55
+
+----
+
+Inventory: page://jJ4F8PTHctj3Q78k
+
+----
+
+Customer: page://7SY2KMPnL0FSeq6W
+
+----
+
+Uuid: 8UTYAODDRYUfK2Mb

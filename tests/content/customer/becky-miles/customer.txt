@@ -1,0 +1,33 @@
+Title: BECKY MILES
+
+----
+
+Customer-id: 287
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: BECKY
+
+----
+
+Last-name: MILES
+
+----
+
+Email: BECKY.MILES@sakilacustomer.org
+
+----
+
+Address: page://aOxb15QCuPEB6aNZ
+
+----
+
+Active: 1
+
+----
+
+Uuid: LhqM4KCNZrbdEpfZ

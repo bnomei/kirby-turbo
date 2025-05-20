@@ -1,0 +1,17 @@
+Title: Inv 2084
+
+----
+
+Inventory-id: 2084
+
+----
+
+Film: page://GuXKGWXBSaYloVkz
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: IRzTJhIhqRrVUsio

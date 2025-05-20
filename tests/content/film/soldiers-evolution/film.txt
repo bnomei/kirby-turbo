@@ -1,0 +1,47 @@
+Title: SOLDIERS EVOLUTION
+
+----
+
+Actors:
+
+- 'page://S52CrIK06oYgWrwP'
+- 'page://xbVuFnPKikNsqVkK'
+- 'page://9zoYPXEbxK6liKqc'
+- 'page://xBL8rppzTt5cijUB'
+- 'page://kIGWs86teYEK5yIM'
+- 'page://64SCw7TVQ1KFgpJt'
+- 'page://zYYZnzancmv0SOT5'
+- 'page://NRH2DcjJcFwzgjEd'
+- 'page://FLMpVB5CVJFKSGVy'
+
+----
+
+Film-id: 817
+
+----
+
+Description: A Lacklusture Panorama of a A Shark And a Pioneer who must Confront a Student in The First Manned Space Station
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 185
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: noCRdaE1g1oSh4j5
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

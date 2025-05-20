@@ -1,0 +1,21 @@
+Title: Rental 11593
+
+----
+
+Rental-id: 11593
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://ACUpNdSscujUlitR
+
+----
+
+Customer: page://ThgYfQ8UF68tkRWf
+
+----
+
+Uuid: ohmeZ5bY668FKlUx

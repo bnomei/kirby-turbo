@@ -1,0 +1,25 @@
+Title: Rental 3784
+
+----
+
+Rental-id: 3784
+
+----
+
+Rental-date: 2005-07-06 13:57:56
+
+----
+
+Return-date: 2005-07-14 17:24:56
+
+----
+
+Inventory: page://t0uiOrfntzjkMHAS
+
+----
+
+Uuid: YkOWJsZr53JJgjbM
+
+----
+
+Customer: page://V0viosrFvqcsWPKv

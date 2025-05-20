@@ -1,0 +1,17 @@
+Title: Inv 1831
+
+----
+
+Inventory-id: 1831
+
+----
+
+Film: page://WGXDM1RG4lfMpY2G
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Sxb9S9YzzMEz2y9w

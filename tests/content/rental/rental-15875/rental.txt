@@ -1,0 +1,21 @@
+Title: Rental 15875
+
+----
+
+Rental-id: 15875
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://tfLiNBpjF5fRb4PU
+
+----
+
+Customer: page://uE84jSPn6fUxfq6A
+
+----
+
+Uuid: 3aKuPt1oFvtI8xrO

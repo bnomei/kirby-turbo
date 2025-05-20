@@ -1,0 +1,25 @@
+Title: Rental 10255
+
+----
+
+Rental-id: 10255
+
+----
+
+Rental-date: 2005-08-01 02:46:13
+
+----
+
+Return-date: 2005-08-03 05:54:13
+
+----
+
+Inventory: page://RNFOw3VLKNXFXbQM
+
+----
+
+Customer: page://YWOr146BeG0pdDed
+
+----
+
+Uuid: YdaWfktHVwBlgazt

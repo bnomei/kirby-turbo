@@ -1,0 +1,17 @@
+Title: Inv 567
+
+----
+
+Inventory-id: 567
+
+----
+
+Film: page://WT5NcgnYasVoDuDy
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: c5rdpYyvRi0GgbCm

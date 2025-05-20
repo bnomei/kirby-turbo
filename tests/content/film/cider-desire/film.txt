@@ -1,0 +1,43 @@
+Title: CIDER DESIRE
+
+----
+
+Actors:
+
+- 'page://oEbdYNCKFrP9NVLv'
+- 'page://nkFKurUJ9w7y8omW'
+- 'page://8uCKHWVFS7qGgYjl'
+- 'page://eJszhRe2rjIvWjny'
+- 'page://CBtLT02Rklp5i11L'
+
+----
+
+Film-id: 150
+
+----
+
+Description: A Stunning Character Study of a Composer And a Mad Cow who must Succumb a Cat in Soviet Georgia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 101
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: VgaqjUQcQdq5w9OH
+
+----
+
+Categories: - 'page://Y37uckskhf3s95vy'

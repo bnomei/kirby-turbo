@@ -1,0 +1,17 @@
+Title: Inv 1984
+
+----
+
+Inventory-id: 1984
+
+----
+
+Film: page://vUHQbs8cNE0ve45v
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: vOnoZQl29a0tfZw5

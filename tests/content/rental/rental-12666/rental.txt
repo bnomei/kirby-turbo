@@ -1,0 +1,25 @@
+Title: Rental 12666
+
+----
+
+Rental-id: 12666
+
+----
+
+Rental-date: 2005-08-18 19:11:41
+
+----
+
+Return-date: 2005-08-21 18:04:41
+
+----
+
+Inventory: page://2VZEUkPqYSZvJMnQ
+
+----
+
+Customer: page://cRRGmCnzUGugZdVF
+
+----
+
+Uuid: 3jIchGmG0ji1rEIL

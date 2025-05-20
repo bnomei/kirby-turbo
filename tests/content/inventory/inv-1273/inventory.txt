@@ -1,0 +1,17 @@
+Title: Inv 1273
+
+----
+
+Inventory-id: 1273
+
+----
+
+Film: page://lpJLwXlAZKSwUsLl
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: xKIqRYNXyXUJOU08

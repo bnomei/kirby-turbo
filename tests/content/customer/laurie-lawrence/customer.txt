@@ -1,0 +1,33 @@
+Title: LAURIE LAWRENCE
+
+----
+
+Customer-id: 192
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: LAURIE
+
+----
+
+Last-name: LAWRENCE
+
+----
+
+Email: LAURIE.LAWRENCE@sakilacustomer.org
+
+----
+
+Address: page://7eQrJ8SZUHCuThVe
+
+----
+
+Active: 1
+
+----
+
+Uuid: S6wnyWLyFa5056NX

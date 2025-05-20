@@ -1,0 +1,17 @@
+Title: Inv 4374
+
+----
+
+Inventory-id: 4374
+
+----
+
+Film: page://RNxkBPBss9uNhMri
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: AVTAXUtMKGLGELE6

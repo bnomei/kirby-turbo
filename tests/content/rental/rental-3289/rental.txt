@@ -1,0 +1,25 @@
+Title: Rental 3289
+
+----
+
+Rental-id: 3289
+
+----
+
+Rental-date: 2005-06-21 06:41:48
+
+----
+
+Return-date: 2005-06-30 00:54:48
+
+----
+
+Inventory: page://DnFNIHmOkV6FOW0R
+
+----
+
+Uuid: kPwdCYHuGFPo7LB7
+
+----
+
+Customer: page://j8uyjiPeUtgzKjW3

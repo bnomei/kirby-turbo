@@ -1,0 +1,25 @@
+Title: Rental 1706
+
+----
+
+Rental-id: 1706
+
+----
+
+Rental-date: 2005-06-16 14:01:02
+
+----
+
+Return-date: 2005-06-25 19:29:02
+
+----
+
+Inventory: page://XjImRF7fVCzs3tz2
+
+----
+
+Uuid: YDHkcbGwPF5BTWqF
+
+----
+
+Customer: page://M0U3K1RrRahNRLAP

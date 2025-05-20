@@ -1,0 +1,33 @@
+Title: REBECCA SCOTT
+
+----
+
+Customer-id: 34
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: REBECCA
+
+----
+
+Last-name: SCOTT
+
+----
+
+Email: REBECCA.SCOTT@sakilacustomer.org
+
+----
+
+Address: page://roniFBZtl6gnIgqM
+
+----
+
+Active: 1
+
+----
+
+Uuid: meRS5ZpTiS6VB9kT

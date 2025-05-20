@@ -1,0 +1,17 @@
+Title: Inv 749
+
+----
+
+Inventory-id: 749
+
+----
+
+Film: page://cISnDSGiPY3Vsb7S
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: xGrgtYMAHP6zoymv

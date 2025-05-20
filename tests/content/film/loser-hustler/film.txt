@@ -1,0 +1,43 @@
+Title: LOSER HUSTLER
+
+----
+
+Actors:
+
+- 'page://K3jNN1L9qHT9bFIC'
+- 'page://osa3qsECAnV3MAu4'
+- 'page://pAFoAtJmRtH6ome4'
+- 'page://L8EgxOu9xdHGpzVg'
+- 'page://G2CRwpBQJFawgg9Y'
+
+----
+
+Film-id: 532
+
+----
+
+Description: A Stunning Drama of a Robot And a Feminist who must Outgun a Butler in Nigeria
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 80
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: BCNeXqov8cBtM76b
+
+----
+
+Categories: - 'page://PiuyXL6SBv02atte'

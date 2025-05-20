@@ -1,0 +1,33 @@
+Title: HELEN HARRIS
+
+----
+
+Customer-id: 15
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: HELEN
+
+----
+
+Last-name: HARRIS
+
+----
+
+Email: HELEN.HARRIS@sakilacustomer.org
+
+----
+
+Address: page://aOxpibq9h1kNH4OW
+
+----
+
+Active: 1
+
+----
+
+Uuid: Np9oOnG3vThj8OAU

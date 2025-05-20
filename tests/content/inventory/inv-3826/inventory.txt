@@ -1,0 +1,17 @@
+Title: Inv 3826
+
+----
+
+Inventory-id: 3826
+
+----
+
+Film: page://2sbg5kEdj60JECRU
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: QKwgCjbH65uulUbK

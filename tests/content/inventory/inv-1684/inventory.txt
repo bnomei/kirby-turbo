@@ -1,0 +1,17 @@
+Title: Inv 1684
+
+----
+
+Inventory-id: 1684
+
+----
+
+Film: page://9aeTkPa9TpoKnUMY
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: nz6wp5Eah62DF7kl

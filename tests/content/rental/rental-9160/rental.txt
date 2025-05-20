@@ -1,0 +1,25 @@
+Title: Rental 9160
+
+----
+
+Rental-id: 9160
+
+----
+
+Rental-date: 2005-07-30 11:17:33
+
+----
+
+Return-date: 2005-08-06 15:16:33
+
+----
+
+Inventory: page://EXL0SJjCqzT3XvSo
+
+----
+
+Customer: page://meRS5ZpTiS6VB9kT
+
+----
+
+Uuid: ZsJjFO7PfW4fTzzJ

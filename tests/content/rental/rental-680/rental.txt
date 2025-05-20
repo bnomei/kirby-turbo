@@ -1,0 +1,25 @@
+Title: Rental 680
+
+----
+
+Rental-id: 680
+
+----
+
+Rental-date: 2005-05-28 23:27:26
+
+----
+
+Return-date: 2005-06-02 02:28:26
+
+----
+
+Inventory: page://PzUYBcyTfOHKkrkA
+
+----
+
+Uuid: jiiPvLd4bILU0wXu
+
+----
+
+Customer: page://rKjnon1qwpzbv3fn

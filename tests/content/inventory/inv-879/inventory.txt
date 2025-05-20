@@ -1,0 +1,17 @@
+Title: Inv 879
+
+----
+
+Inventory-id: 879
+
+----
+
+Film: page://bjcVvf6Bq6N3Umgg
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: zDqTmrRQ06DgQGEN

@@ -1,0 +1,21 @@
+Title: RALPH CRUZ
+
+----
+
+Actors: []
+
+----
+
+Actor-id: 80
+
+----
+
+First-name: RALPH
+
+----
+
+Last-name: CRUZ
+
+----
+
+Uuid: Gz114ojbruPqLOSY

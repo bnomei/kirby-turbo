@@ -1,0 +1,33 @@
+Title: GREG ROBINS
+
+----
+
+Customer-id: 472
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: GREG
+
+----
+
+Last-name: ROBINS
+
+----
+
+Email: GREG.ROBINS@sakilacustomer.org
+
+----
+
+Address: page://zVyG0hqLbrLhLACi
+
+----
+
+Active: 1
+
+----
+
+Uuid: LJEK6IMnfzlMyzBj

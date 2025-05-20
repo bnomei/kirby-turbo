@@ -1,0 +1,17 @@
+Title: Inv 1760
+
+----
+
+Inventory-id: 1760
+
+----
+
+Film: page://0MfWh6FVARMvO6ca
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: a8e2cjptAaP1T1sY

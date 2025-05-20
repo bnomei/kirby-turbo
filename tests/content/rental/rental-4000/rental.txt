@@ -1,0 +1,25 @@
+Title: Rental 4000
+
+----
+
+Rental-id: 4000
+
+----
+
+Rental-date: 2005-07-06 23:58:37
+
+----
+
+Return-date: 2005-07-08 21:43:37
+
+----
+
+Inventory: page://pE2EEtz52rs4TUQa
+
+----
+
+Uuid: WlYgS2mAiDKeEssN
+
+----
+
+Customer: page://mwfSblMIE7KuBiux

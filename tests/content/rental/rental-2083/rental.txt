@@ -1,0 +1,25 @@
+Title: Rental 2083
+
+----
+
+Rental-id: 2083
+
+----
+
+Rental-date: 2005-06-17 17:14:00
+
+----
+
+Return-date: 2005-06-18 18:31:00
+
+----
+
+Inventory: page://nuYTjcZqiS6uEAFz
+
+----
+
+Uuid: LPMiMe30Is4lH5m9
+
+----
+
+Customer: page://6haKa35Xyz3iTAFh

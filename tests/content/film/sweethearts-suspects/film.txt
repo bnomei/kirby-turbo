@@ -1,0 +1,43 @@
+Title: SWEETHEARTS SUSPECTS
+
+----
+
+Actors:
+
+- 'page://Tc5O2MboD06L5UFn'
+- 'page://H5yhLtWBsWi35xuK'
+- 'page://oEbdYNCKFrP9NVLv'
+- 'page://S8UoUinBIsjzumVd'
+- 'page://uyiPyWfxhKFdwYKL'
+
+----
+
+Film-id: 873
+
+----
+
+Description: A Brilliant Character Study of a Frisbee And a Sumo Wrestler who must Confront a Woman in The Gulf of Mexico
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 108
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: cn9AOQAnZeZdaw2T
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

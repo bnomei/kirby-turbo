@@ -1,0 +1,17 @@
+Title: Inv 180
+
+----
+
+Inventory-id: 180
+
+----
+
+Film: page://edmnyIXRwbWbqYt0
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 7ZgvmoTgPWAKPDZK

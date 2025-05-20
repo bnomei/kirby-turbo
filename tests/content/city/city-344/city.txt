@@ -1,0 +1,17 @@
+Title: Mosul
+
+----
+
+City-id: 344
+
+----
+
+City: Mosul
+
+----
+
+Country: page://bLjLiL5VrOzCIEWz
+
+----
+
+Uuid: DV4nZDqKkerdUm79

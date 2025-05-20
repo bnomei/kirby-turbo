@@ -1,0 +1,17 @@
+Title: Inv 456
+
+----
+
+Inventory-id: 456
+
+----
+
+Film: page://Z5v5xKmO64LHrdv8
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: Pev8LlO6uCVqrjph

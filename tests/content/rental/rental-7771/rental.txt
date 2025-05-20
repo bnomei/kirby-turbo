@@ -1,0 +1,25 @@
+Title: Rental 7771
+
+----
+
+Rental-id: 7771
+
+----
+
+Rental-date: 2005-07-28 06:52:12
+
+----
+
+Return-date: 2005-07-30 12:48:12
+
+----
+
+Inventory: page://R1DC1zOpGigSoWjh
+
+----
+
+Customer: page://pxFnJpraXIkoHiiZ
+
+----
+
+Uuid: EhYwHx0eSqiYDOgD

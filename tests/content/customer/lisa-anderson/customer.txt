@@ -1,0 +1,33 @@
+Title: LISA ANDERSON
+
+----
+
+Customer-id: 11
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: LISA
+
+----
+
+Last-name: ANDERSON
+
+----
+
+Email: LISA.ANDERSON@sakilacustomer.org
+
+----
+
+Address: page://Rlh5iTMRqHWV7Khq
+
+----
+
+Active: 1
+
+----
+
+Uuid: siq3em0WWnT86bTU

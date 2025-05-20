@@ -1,0 +1,25 @@
+Title: Rental 8036
+
+----
+
+Rental-id: 8036
+
+----
+
+Rental-date: 2005-07-28 16:27:43
+
+----
+
+Return-date: 2005-08-01 13:41:43
+
+----
+
+Inventory: page://622n0SRdbUSpFcEv
+
+----
+
+Customer: page://7L8rEdWDVFlYJ1mL
+
+----
+
+Uuid: wK20qGyiAQn2PG66

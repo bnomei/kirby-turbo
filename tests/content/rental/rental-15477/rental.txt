@@ -1,0 +1,25 @@
+Title: Rental 15477
+
+----
+
+Rental-id: 15477
+
+----
+
+Rental-date: 2005-08-23 01:46:35
+
+----
+
+Return-date: 2005-08-28 22:12:35
+
+----
+
+Inventory: page://PQ9O4WHJf2ryDWNi
+
+----
+
+Customer: page://S7Bt2TM6J9ACe4bP
+
+----
+
+Uuid: jT8VzFT46SLAkdZ5

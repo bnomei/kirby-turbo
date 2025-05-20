@@ -1,0 +1,49 @@
+Title: SPIRIT FLINTSTONES
+
+----
+
+Actors:
+
+- 'page://oEbdYNCKFrP9NVLv'
+- 'page://y29OJNxDr3yTLShi'
+- 'page://ovAz2jwmaTIz5ph9'
+- 'page://nx1fXkDUW4gS66DW'
+- 'page://RaBnN0JojPRLBj7c'
+- 'page://MokGIRk1MnOR5ecX'
+- 'page://isKOKKisNfJh2ta1'
+- 'page://K0t8PMh78EXVZHC5'
+- 'page://G2CRwpBQJFawgg9Y'
+- 'page://gLWxCWOnObb0fT65'
+- 'page://zrJrW5pbY6A6t722'
+
+----
+
+Film-id: 830
+
+----
+
+Description: A Brilliant Yarn of a Cat And a Car who must Confront a Explorer in Ancient Japan
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 149
+
+----
+
+Rating: R
+
+----
+
+Special-features: Commentaries,Deleted Scenes
+
+----
+
+Uuid: nVsp8NsJoTTROYU1
+
+----
+
+Categories: - 'page://LBXBzxifO3LPwwJU'

@@ -1,0 +1,25 @@
+Title: Rental 598
+
+----
+
+Rental-id: 598
+
+----
+
+Rental-date: 2005-05-28 14:04:50
+
+----
+
+Return-date: 2005-06-03 18:00:50
+
+----
+
+Inventory: page://vFjrw6lVDGVrhgVq
+
+----
+
+Uuid: fG1k8SYgD98w2MGM
+
+----
+
+Customer: page://q1NfZkNoffXnWY4c

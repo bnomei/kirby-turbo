@@ -1,0 +1,33 @@
+Title: BOBBIE CRAIG
+
+----
+
+Customer-id: 288
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: BOBBIE
+
+----
+
+Last-name: CRAIG
+
+----
+
+Email: BOBBIE.CRAIG@sakilacustomer.org
+
+----
+
+Address: page://T9KW2KDNQaYXH5o0
+
+----
+
+Active: 1
+
+----
+
+Uuid: YIsKp7gtJEruQjWD

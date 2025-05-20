@@ -1,0 +1,25 @@
+Title: Rental 1243
+
+----
+
+Rental-id: 1243
+
+----
+
+Rental-date: 2005-06-15 05:07:32
+
+----
+
+Return-date: 2005-06-21 08:17:32
+
+----
+
+Inventory: page://gcSQPF23allz43VR
+
+----
+
+Uuid: 8pbHbgKhIQEYdJED
+
+----
+
+Customer: page://daiDyhYRb8z7fkl0

@@ -1,0 +1,25 @@
+Title: Rental 5280
+
+----
+
+Rental-id: 5280
+
+----
+
+Rental-date: 2005-07-09 14:55:07
+
+----
+
+Return-date: 2005-07-12 10:05:07
+
+----
+
+Inventory: page://11rqD30FjGntoWmd
+
+----
+
+Uuid: Dligku4CWm8Ij3P1
+
+----
+
+Customer: page://UaSNpTp6KioYmoei

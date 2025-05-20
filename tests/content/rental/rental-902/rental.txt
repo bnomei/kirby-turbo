@@ -1,0 +1,25 @@
+Title: Rental 902
+
+----
+
+Rental-id: 902
+
+----
+
+Rental-date: 2005-05-30 09:53:36
+
+----
+
+Return-date: 2005-06-07 12:10:36
+
+----
+
+Inventory: page://82vSfmN7IGBPl4KG
+
+----
+
+Uuid: BaRoxDEmQ7XwtAG5
+
+----
+
+Customer: page://xiuePi4NIEUJXUwz

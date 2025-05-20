@@ -1,0 +1,17 @@
+Title: Inv 1320
+
+----
+
+Inventory-id: 1320
+
+----
+
+Film: page://CH4btgLIdvjp8AWX
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: DWNbK6Dsj4B2H0Ea

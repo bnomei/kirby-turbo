@@ -1,0 +1,33 @@
+Title: VIRGIL WOFFORD
+
+----
+
+Customer-id: 581
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: VIRGIL
+
+----
+
+Last-name: WOFFORD
+
+----
+
+Email: VIRGIL.WOFFORD@sakilacustomer.org
+
+----
+
+Address: page://C9veCIFyuRH3D6mU
+
+----
+
+Active: 1
+
+----
+
+Uuid: WkdWOiV7wx4C2nmh

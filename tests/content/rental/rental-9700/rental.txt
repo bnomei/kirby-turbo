@@ -1,0 +1,25 @@
+Title: Rental 9700
+
+----
+
+Rental-id: 9700
+
+----
+
+Rental-date: 2005-07-31 07:29:59
+
+----
+
+Return-date: 2005-08-02 09:53:59
+
+----
+
+Inventory: page://YhEee9CAB9g4z3ae
+
+----
+
+Customer: page://mKUSHxTkOIWhbbql
+
+----
+
+Uuid: woZp2AnSQPVgRkWD

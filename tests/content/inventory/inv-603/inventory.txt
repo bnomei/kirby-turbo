@@ -1,0 +1,17 @@
+Title: Inv 603
+
+----
+
+Inventory-id: 603
+
+----
+
+Film: page://dG1gmvAp9WM7LIHy
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: cJCM4CLx9WVlzgJg

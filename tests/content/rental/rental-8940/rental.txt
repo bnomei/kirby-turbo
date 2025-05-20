@@ -1,0 +1,25 @@
+Title: Rental 8940
+
+----
+
+Rental-id: 8940
+
+----
+
+Rental-date: 2005-07-30 02:57:26
+
+----
+
+Return-date: 2005-08-05 22:05:26
+
+----
+
+Inventory: page://8LR3uND9j9UHSYbe
+
+----
+
+Customer: page://66OVCYFZ1KPdAPEm
+
+----
+
+Uuid: jAVI1CHerCrsPok2

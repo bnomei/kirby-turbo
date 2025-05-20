@@ -1,0 +1,17 @@
+Title: Inv 4231
+
+----
+
+Inventory-id: 4231
+
+----
+
+Film: page://EGBbhwexVKfnd31B
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 47xKmuyahz5fLG9w

@@ -1,0 +1,21 @@
+Title: Rental 15430
+
+----
+
+Rental-id: 15430
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://t469IMOgTd54C05S
+
+----
+
+Customer: page://Tj29qTVQAQ0HCcNy
+
+----
+
+Uuid: 4NYJih3TQ8VAVLrq

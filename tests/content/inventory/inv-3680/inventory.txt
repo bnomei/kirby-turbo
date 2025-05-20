@@ -1,0 +1,17 @@
+Title: Inv 3680
+
+----
+
+Inventory-id: 3680
+
+----
+
+Film: page://5q4rZtKl8oeNGLJr
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: yYCFIGWkmK0uy0dI

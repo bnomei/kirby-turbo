@@ -1,0 +1,33 @@
+Title: KURT EMMONS
+
+----
+
+Customer-id: 547
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: KURT
+
+----
+
+Last-name: EMMONS
+
+----
+
+Email: KURT.EMMONS@sakilacustomer.org
+
+----
+
+Address: page://mLaSJcUZnDl4T6qj
+
+----
+
+Active: 1
+
+----
+
+Uuid: RTsWat8aWp87UcBi

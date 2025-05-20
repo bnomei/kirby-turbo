@@ -1,0 +1,17 @@
+Title: Inv 3580
+
+----
+
+Inventory-id: 3580
+
+----
+
+Film: page://szugAdlnH49KsCFa
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: aRetS7nuCpwLMyS6

@@ -1,0 +1,21 @@
+Title: Rental 12574
+
+----
+
+Rental-id: 12574
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://wj3zzieMI2sS88Wk
+
+----
+
+Customer: page://LjRXWt8yhDRV7QH6
+
+----
+
+Uuid: V2AVGqj2ipUpJRAo

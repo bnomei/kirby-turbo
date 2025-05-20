@@ -1,0 +1,25 @@
+Title: Rental 2521
+
+----
+
+Rental-id: 2521
+
+----
+
+Rental-date: 2005-06-19 00:41:08
+
+----
+
+Return-date: 2005-06-22 00:40:08
+
+----
+
+Inventory: page://APkl6ZnPG4TakY3p
+
+----
+
+Uuid: mcNjAIherYgHvUuK
+
+----
+
+Customer: page://4x9Op7aGVprxBkqV

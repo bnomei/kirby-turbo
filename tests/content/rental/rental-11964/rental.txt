@@ -1,0 +1,25 @@
+Title: Rental 11964
+
+----
+
+Rental-id: 11964
+
+----
+
+Rental-date: 2005-08-17 17:37:03
+
+----
+
+Return-date: 2005-08-25 11:55:03
+
+----
+
+Inventory: page://66eEUY3tywcs6NSe
+
+----
+
+Customer: page://6W4MNt60QNzdOkOf
+
+----
+
+Uuid: QOEWq1asEjzQoR61

@@ -1,0 +1,25 @@
+Title: Rental 14294
+
+----
+
+Rental-id: 14294
+
+----
+
+Rental-date: 2005-08-21 07:07:26
+
+----
+
+Return-date: 2005-08-22 02:20:26
+
+----
+
+Inventory: page://VJhU3z6vXC8aozD1
+
+----
+
+Customer: page://yZByBc3rF7VvRjSr
+
+----
+
+Uuid: DwJeIBvSf3xldPUA

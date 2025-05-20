@@ -1,0 +1,25 @@
+Title: Rental 7720
+
+----
+
+Rental-id: 7720
+
+----
+
+Rental-date: 2005-07-28 04:41:44
+
+----
+
+Return-date: 2005-08-04 06:51:44
+
+----
+
+Inventory: page://AFSYNUVonPMkTJSW
+
+----
+
+Customer: page://JT1tmXlVRPRvOsLK
+
+----
+
+Uuid: NzT7T0Tkt8fyo80m

@@ -1,0 +1,25 @@
+Title: Rental 4090
+
+----
+
+Rental-id: 4090
+
+----
+
+Rental-date: 2005-07-07 05:47:33
+
+----
+
+Return-date: 2005-07-08 04:25:33
+
+----
+
+Inventory: page://teyPtZDtcZKyYG5g
+
+----
+
+Uuid: Ni7jZDjFynPZ8ElE
+
+----
+
+Customer: page://qwuyaWIZTC7pwwND

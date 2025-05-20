@@ -1,0 +1,17 @@
+Title: Inv 588
+
+----
+
+Inventory-id: 588
+
+----
+
+Film: page://vHTBOKZafABvsrGi
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: ofIeoJXE4TjNBZ1T

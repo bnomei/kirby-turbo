@@ -1,0 +1,17 @@
+Title: Inv 4510
+
+----
+
+Inventory-id: 4510
+
+----
+
+Film: page://j44nFK3M0tKa4wzG
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: YB08Fhq3JBRSEfOe

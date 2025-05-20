@@ -1,0 +1,25 @@
+Title: Rental 4648
+
+----
+
+Rental-id: 4648
+
+----
+
+Rental-date: 2005-07-08 09:31:27
+
+----
+
+Return-date: 2005-07-13 03:55:27
+
+----
+
+Inventory: page://TCzo0cPGLKqQMXxM
+
+----
+
+Uuid: 8y2tFZDYqfXFQ3OI
+
+----
+
+Customer: page://P5692hWxDSp2ZLGu

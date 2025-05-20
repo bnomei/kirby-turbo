@@ -1,0 +1,25 @@
+Title: Rental 6094
+
+----
+
+Rental-id: 6094
+
+----
+
+Rental-date: 2005-07-11 05:54:42
+
+----
+
+Return-date: 2005-07-18 08:19:42
+
+----
+
+Inventory: page://T6FtIrQMFyE8LfAn
+
+----
+
+Uuid: of6UPqrMN6DdKPVc
+
+----
+
+Customer: page://lur9c4IA9ICHuaKZ

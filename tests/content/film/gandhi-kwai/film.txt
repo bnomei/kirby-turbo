@@ -1,0 +1,46 @@
+Title: GANDHI KWAI
+
+----
+
+Actors:
+
+- 'page://osa3qsECAnV3MAu4'
+- 'page://5ruVLAhmJBWUKPci'
+- 'page://NmIbTpy4ZSHrHfnI'
+- 'page://eJszhRe2rjIvWjny'
+- 'page://rrHZ6f6sSm29JuNB'
+- 'page://MG1O0zMGGcgzh2YX'
+- 'page://wxM7fPnQeVIlPpuJ'
+- 'page://RHCn9jMuVT1ewFhv'
+
+----
+
+Film-id: 348
+
+----
+
+Description: A Thoughtful Display of a Mad Scientist And a Secret Agent who must Chase a Boat in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 86
+
+----
+
+Rating: PG-13
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: tYaxzq7TFpNqD90b
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

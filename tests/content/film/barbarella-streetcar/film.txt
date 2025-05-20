@@ -1,0 +1,43 @@
+Title: BARBARELLA STREETCAR
+
+----
+
+Actors:
+
+- 'page://9dZ7pytlckFxJvGe'
+- 'page://8sAZxgGEUjJot3JV'
+- 'page://4H5a71re4eGpTLKc'
+- 'page://j4GwVyPWyXE95Bdj'
+- 'page://lltihsMvjhDqCGFK'
+
+----
+
+Film-id: 55
+
+----
+
+Description: A Awe-Inspiring Story of a Feminist And a Cat who must Conquer a Dog in A Monastery
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 65
+
+----
+
+Rating: G
+
+----
+
+Special-features: Behind the Scenes
+
+----
+
+Uuid: PyzZpMmR5hCM3BAX
+
+----
+
+Categories: - 'page://VSsT3VqoOwXSAVSr'

@@ -1,0 +1,47 @@
+Title: ANGELS LIFE
+
+----
+
+Actors:
+
+- 'page://NhPOWxCYnyDlMqLk'
+- 'page://lzPNV2QlqjXMSB7U'
+- 'page://V2PTX56N00hKjCOa'
+- 'page://EHffowmlWDEyJ7Ij'
+- 'page://m4qBDyQ4vBdo5EcB'
+- 'page://SR0Aks2aA1YgkZ1s'
+- 'page://4H5a71re4eGpTLKc'
+- 'page://1lkqFZByE2squnG7'
+- 'page://EMAJfjeYpdsSEXq5'
+
+----
+
+Film-id: 25
+
+----
+
+Description: A Thoughtful Display of a Woman And a Astronaut who must Battle a Robot in Berlin
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 74
+
+----
+
+Rating: G
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: lJxiqdvJVqqmeEXz
+
+----
+
+Categories: - 'page://a5nmPgPZTbQrYUq8'

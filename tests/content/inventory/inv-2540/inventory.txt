@@ -1,0 +1,17 @@
+Title: Inv 2540
+
+----
+
+Inventory-id: 2540
+
+----
+
+Film: page://RR4tJ3Dd2mPzL73Q
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Pkyusi2Vni8SFYmF

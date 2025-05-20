@@ -1,0 +1,25 @@
+Title: Rental 14680
+
+----
+
+Rental-id: 14680
+
+----
+
+Rental-date: 2005-08-21 20:19:52
+
+----
+
+Return-date: 2005-08-28 17:10:52
+
+----
+
+Inventory: page://QlWhZrfwIvC1Pl8W
+
+----
+
+Customer: page://DVIVTmAM0LOCEI7a
+
+----
+
+Uuid: Hdg6fHSPXek5UWcc

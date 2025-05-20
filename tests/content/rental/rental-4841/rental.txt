@@ -1,0 +1,25 @@
+Title: Rental 4841
+
+----
+
+Rental-id: 4841
+
+----
+
+Rental-date: 2005-07-08 18:18:23
+
+----
+
+Return-date: 2005-07-11 16:51:23
+
+----
+
+Inventory: page://HR8VqH5VhOx6J4R2
+
+----
+
+Uuid: tEh5r3hczCXJWeQG
+
+----
+
+Customer: page://Qi4JrRnZX0esVTiK

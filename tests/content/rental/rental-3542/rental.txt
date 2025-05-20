@@ -1,0 +1,25 @@
+Title: Rental 3542
+
+----
+
+Rental-id: 3542
+
+----
+
+Rental-date: 2005-07-06 01:51:42
+
+----
+
+Return-date: 2005-07-11 03:29:42
+
+----
+
+Inventory: page://cIPk0MhwkxjkQwRV
+
+----
+
+Uuid: wyuuIVUTEDX6SgvO
+
+----
+
+Customer: page://q4exU1pk14u79lgg

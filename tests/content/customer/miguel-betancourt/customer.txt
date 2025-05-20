@@ -1,0 +1,33 @@
+Title: MIGUEL BETANCOURT
+
+----
+
+Customer-id: 448
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: MIGUEL
+
+----
+
+Last-name: BETANCOURT
+
+----
+
+Email: MIGUEL.BETANCOURT@sakilacustomer.org
+
+----
+
+Address: page://JdqIjl1M7PP6857W
+
+----
+
+Active: 1
+
+----
+
+Uuid: J2P0f5RgZsLYfwfF

@@ -1,0 +1,25 @@
+Title: Rental 14729
+
+----
+
+Rental-id: 14729
+
+----
+
+Rental-date: 2005-08-21 22:16:57
+
+----
+
+Return-date: 2005-08-27 21:32:57
+
+----
+
+Inventory: page://ZNeCfHMrSkq6ZQyU
+
+----
+
+Customer: page://6AKt4qOv738O4v4p
+
+----
+
+Uuid: CeOrf8g888qVoaKB

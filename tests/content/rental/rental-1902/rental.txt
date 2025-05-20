@@ -1,0 +1,25 @@
+Title: Rental 1902
+
+----
+
+Rental-id: 1902
+
+----
+
+Rental-date: 2005-06-17 04:35:52
+
+----
+
+Return-date: 2005-06-20 06:52:52
+
+----
+
+Inventory: page://vZYb8MdbsSkLG4tq
+
+----
+
+Uuid: JaPQ7s5F5DwwJlVb
+
+----
+
+Customer: page://fEgNYhgaLDG3CQLU

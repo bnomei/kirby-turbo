@@ -1,0 +1,25 @@
+Title: Rental 9254
+
+----
+
+Rental-id: 9254
+
+----
+
+Rental-date: 2005-07-30 14:26:11
+
+----
+
+Return-date: 2005-08-04 16:12:11
+
+----
+
+Inventory: page://Oou7fIFqGJTJUH2W
+
+----
+
+Customer: page://Cc0UnWjmLMYrhwNc
+
+----
+
+Uuid: gtiowmLyAtV4TO3i

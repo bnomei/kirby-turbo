@@ -1,0 +1,17 @@
+Title: Inv 1072
+
+----
+
+Inventory-id: 1072
+
+----
+
+Film: page://cIUV5g7wlc27Eqrh
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: NO4yNKcUTebm2Erm

@@ -1,0 +1,17 @@
+Title: Inv 2413
+
+----
+
+Inventory-id: 2413
+
+----
+
+Film: page://x5HL2MOSU2AnxXms
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: No4SkgC7wSDVzXwl

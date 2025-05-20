@@ -1,0 +1,43 @@
+Title: PAJAMA JAWBREAKER
+
+----
+
+Actors:
+
+- 'page://5ruVLAhmJBWUKPci'
+- 'page://pAFoAtJmRtH6ome4'
+- 'page://RvgM0TLzgQDo6vY7'
+- 'page://3O7lqRPKBygXUoTl'
+- 'page://18rsmrxh7jfYQ50K'
+
+----
+
+Film-id: 652
+
+----
+
+Description: A Emotional Drama of a Boy And a Technical Writer who must Redeem a Sumo Wrestler in California
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 126
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: OfDK32XwcLOgr9JV
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

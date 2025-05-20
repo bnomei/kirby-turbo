@@ -1,0 +1,25 @@
+Title: Rental 2979
+
+----
+
+Rental-id: 2979
+
+----
+
+Rental-date: 2005-06-20 08:31:05
+
+----
+
+Return-date: 2005-06-27 12:25:05
+
+----
+
+Inventory: page://7OdXpukaTsuEqQms
+
+----
+
+Uuid: Pz6Jb3B5y0EZKTOd
+
+----
+
+Customer: page://781kVzIovJEOwBVl

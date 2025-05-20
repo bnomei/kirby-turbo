@@ -1,0 +1,17 @@
+Title: Inv 1691
+
+----
+
+Inventory-id: 1691
+
+----
+
+Film: page://BFGasPoqtLyEFozz
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Rbo9DT2o9tPzUiup

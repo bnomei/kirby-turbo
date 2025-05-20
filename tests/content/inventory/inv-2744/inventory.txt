@@ -1,0 +1,17 @@
+Title: Inv 2744
+
+----
+
+Inventory-id: 2744
+
+----
+
+Film: page://kL2Chf0HRElGkw02
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: Gh4GY1KIbGEfjoLE

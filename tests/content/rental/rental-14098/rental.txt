@@ -1,0 +1,21 @@
+Title: Rental 14098
+
+----
+
+Rental-id: 14098
+
+----
+
+Rental-date: 2005-08-21 00:30:32
+
+----
+
+Inventory: page://JVNIDybtobOfMeEp
+
+----
+
+Customer: page://C4htS1tLHzkKyE5J
+
+----
+
+Uuid: MY0471gFDVLmT0Fn

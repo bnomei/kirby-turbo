@@ -1,0 +1,33 @@
+Title: IRENE PRICE
+
+----
+
+Customer-id: 76
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: IRENE
+
+----
+
+Last-name: PRICE
+
+----
+
+Email: IRENE.PRICE@sakilacustomer.org
+
+----
+
+Address: page://vgshkTpmSbsNGbgU
+
+----
+
+Active: 1
+
+----
+
+Uuid: 6QgFvPw1AynCQ7UR

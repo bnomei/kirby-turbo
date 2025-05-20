@@ -1,0 +1,25 @@
+Title: Rental 7390
+
+----
+
+Rental-id: 7390
+
+----
+
+Rental-date: 2005-07-27 15:59:19
+
+----
+
+Return-date: 2005-08-04 10:09:19
+
+----
+
+Inventory: page://ubxSFPQBzcBIdqrg
+
+----
+
+Customer: page://ltxKpaFHuKcnO7ee
+
+----
+
+Uuid: y0iiEDs3B9beIuky

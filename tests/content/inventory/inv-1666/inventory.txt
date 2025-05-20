@@ -1,0 +1,17 @@
+Title: Inv 1666
+
+----
+
+Inventory-id: 1666
+
+----
+
+Film: page://SUMTsSQ2ilMXfenM
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: YXE6uMfmsnqsGP1K

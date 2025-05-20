@@ -1,0 +1,25 @@
+Title: Rental 9123
+
+----
+
+Rental-id: 9123
+
+----
+
+Rental-date: 2005-07-30 09:39:15
+
+----
+
+Return-date: 2005-08-02 08:12:15
+
+----
+
+Inventory: page://v4EMGqwHUwqE8H1Q
+
+----
+
+Customer: page://Hpp58DeoLb615BZP
+
+----
+
+Uuid: WArBCq10FyrXUOY7

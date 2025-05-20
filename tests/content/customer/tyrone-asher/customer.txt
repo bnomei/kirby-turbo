@@ -1,0 +1,33 @@
+Title: TYRONE ASHER
+
+----
+
+Customer-id: 540
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: TYRONE
+
+----
+
+Last-name: ASHER
+
+----
+
+Email: TYRONE.ASHER@sakilacustomer.org
+
+----
+
+Address: page://GH0cChQg3fIS5Rb1
+
+----
+
+Active: 1
+
+----
+
+Uuid: 2G3YjZ3nk45lbrpd

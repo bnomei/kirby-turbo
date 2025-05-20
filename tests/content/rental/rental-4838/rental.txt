@@ -1,0 +1,25 @@
+Title: Rental 4838
+
+----
+
+Rental-id: 4838
+
+----
+
+Rental-date: 2005-07-08 18:11:00
+
+----
+
+Return-date: 2005-07-17 12:57:00
+
+----
+
+Inventory: page://CfpbsisC4nUy4quv
+
+----
+
+Uuid: r0kxAkmFfDJqJDqW
+
+----
+
+Customer: page://cwgSUWzYLMDqVZzh

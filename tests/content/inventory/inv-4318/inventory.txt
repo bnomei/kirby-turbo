@@ -1,0 +1,17 @@
+Title: Inv 4318
+
+----
+
+Inventory-id: 4318
+
+----
+
+Film: page://dyZxxsuprh3PBLXD
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: MNaSEQY7k0pXiQ3g

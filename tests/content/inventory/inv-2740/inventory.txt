@@ -1,0 +1,17 @@
+Title: Inv 2740
+
+----
+
+Inventory-id: 2740
+
+----
+
+Film: page://7ZRPJgGw1ni3mh5Z
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: IY0W0jfZc9J3jAGA

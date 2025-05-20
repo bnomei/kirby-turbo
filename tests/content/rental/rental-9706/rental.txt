@@ -1,0 +1,25 @@
+Title: Rental 9706
+
+----
+
+Rental-id: 9706
+
+----
+
+Rental-date: 2005-07-31 07:43:19
+
+----
+
+Return-date: 2005-08-05 11:11:19
+
+----
+
+Inventory: page://ODVbR7vPieiEMq9P
+
+----
+
+Customer: page://mLxfpdMHHBnZwV7B
+
+----
+
+Uuid: s6gObLNuHUMqO2PF

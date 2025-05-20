@@ -1,0 +1,25 @@
+Title: Rental 11884
+
+----
+
+Rental-id: 11884
+
+----
+
+Rental-date: 2005-08-17 14:43:23
+
+----
+
+Return-date: 2005-08-25 15:38:23
+
+----
+
+Inventory: page://wQ7VP1oGWUfWCSNx
+
+----
+
+Customer: page://julxqmzKuY3KPZ0W
+
+----
+
+Uuid: NAPfNeyvaAVvJaMb

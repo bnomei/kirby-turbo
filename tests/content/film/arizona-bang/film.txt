@@ -1,0 +1,42 @@
+Title: ARIZONA BANG
+
+----
+
+Actors:
+
+- 'page://qd0io4mUKZ4KUkyk'
+- 'page://Bfp6QX9U0O1ZLM64'
+- 'page://64SCw7TVQ1KFgpJt'
+- 'page://Sl1QfOYn2gZWMd2L'
+
+----
+
+Film-id: 37
+
+----
+
+Description: A Brilliant Panorama of a Mad Scientist And a Mad Cow who must Meet a Pioneer in A Monastery
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 121
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers,Deleted Scenes
+
+----
+
+Uuid: GIkJBpMC2uMaQWis
+
+----
+
+Categories: - 'page://WowvHu2geyFsmL4k'

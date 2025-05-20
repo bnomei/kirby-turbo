@@ -1,0 +1,25 @@
+Title: Rental 5209
+
+----
+
+Rental-id: 5209
+
+----
+
+Rental-date: 2005-07-09 11:22:39
+
+----
+
+Return-date: 2005-07-17 09:31:39
+
+----
+
+Inventory: page://eyQGPLEpsQEC6EVM
+
+----
+
+Uuid: 3dJe4vgLA2pUvpWv
+
+----
+
+Customer: page://Y16ImlJTc5Q7Tqiw

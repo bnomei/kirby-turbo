@@ -1,0 +1,33 @@
+Title: KEN PREWITT
+
+----
+
+Customer-id: 563
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: KEN
+
+----
+
+Last-name: PREWITT
+
+----
+
+Email: KEN.PREWITT@sakilacustomer.org
+
+----
+
+Address: page://DvaKfTxCoyJG7CNI
+
+----
+
+Active: 1
+
+----
+
+Uuid: dxsn5YIdpOZbxgA0

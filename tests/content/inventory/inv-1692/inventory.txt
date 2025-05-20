@@ -1,0 +1,17 @@
+Title: Inv 1692
+
+----
+
+Inventory-id: 1692
+
+----
+
+Film: page://BFGasPoqtLyEFozz
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: SCCQAXBcDgBvFEHU

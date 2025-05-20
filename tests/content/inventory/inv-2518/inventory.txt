@@ -1,0 +1,17 @@
+Title: Inv 2518
+
+----
+
+Inventory-id: 2518
+
+----
+
+Film: page://e1sk7GTDfm5AcTin
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 9rS6zIS3G6Xxq9fH

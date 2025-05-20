@@ -1,0 +1,25 @@
+Title: Rental 8889
+
+----
+
+Rental-id: 8889
+
+----
+
+Rental-date: 2005-07-30 00:39:43
+
+----
+
+Return-date: 2005-08-02 23:22:43
+
+----
+
+Inventory: page://okbbegl960LD6lLx
+
+----
+
+Customer: page://t04yCyxM4vXd29Pl
+
+----
+
+Uuid: wGepNByuAmW9XjL5

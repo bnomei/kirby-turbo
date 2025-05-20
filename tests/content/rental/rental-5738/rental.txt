@@ -1,0 +1,25 @@
+Title: Rental 5738
+
+----
+
+Rental-id: 5738
+
+----
+
+Rental-date: 2005-07-10 11:50:51
+
+----
+
+Return-date: 2005-07-19 17:46:51
+
+----
+
+Inventory: page://U5dPEOLkaRi6qpxX
+
+----
+
+Uuid: MDpWglQhwHuu0Cbv
+
+----
+
+Customer: page://Hch3ic6HbUBQQHSI

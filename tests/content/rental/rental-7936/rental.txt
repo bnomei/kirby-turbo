@@ -1,0 +1,25 @@
+Title: Rental 7936
+
+----
+
+Rental-id: 7936
+
+----
+
+Rental-date: 2005-07-28 12:33:21
+
+----
+
+Return-date: 2005-07-30 13:31:21
+
+----
+
+Inventory: page://5la36Nbe6ZQSey69
+
+----
+
+Customer: page://JT1tmXlVRPRvOsLK
+
+----
+
+Uuid: yIQN8miD5V783N6C

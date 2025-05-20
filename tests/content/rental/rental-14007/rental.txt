@@ -1,0 +1,25 @@
+Title: Rental 14007
+
+----
+
+Rental-id: 14007
+
+----
+
+Rental-date: 2005-08-20 20:22:47
+
+----
+
+Return-date: 2005-08-28 20:40:47
+
+----
+
+Inventory: page://QJBoxkrl5m4JOdTC
+
+----
+
+Customer: page://DQdRudB4hPmZIfVZ
+
+----
+
+Uuid: laikthktgXbrI81K

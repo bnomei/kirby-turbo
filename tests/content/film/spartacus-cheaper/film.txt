@@ -1,0 +1,41 @@
+Title: SPARTACUS CHEAPER
+
+----
+
+Actors:
+
+- 'page://f54gdCyL7WpJ8aUr'
+- 'page://G2CRwpBQJFawgg9Y'
+- 'page://jSbKN9X4MDWI1G5U'
+
+----
+
+Film-id: 824
+
+----
+
+Description: A Thrilling Panorama of a Pastry Chef And a Secret Agent who must Overcome a Student in A Manhattan Penthouse
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 52
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Deleted Scenes,Behind the Scenes
+
+----
+
+Uuid: JrMPHsge1J4wcmSu
+
+----
+
+Categories: - 'page://bO1OGxXaYpKpZGWq'

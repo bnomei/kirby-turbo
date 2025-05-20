@@ -1,0 +1,25 @@
+Title: Rental 3272
+
+----
+
+Rental-id: 3272
+
+----
+
+Rental-date: 2005-06-21 05:18:27
+
+----
+
+Return-date: 2005-06-30 02:51:27
+
+----
+
+Inventory: page://6c5IX4OYUlWPZxZ4
+
+----
+
+Uuid: X0DklAkahTVbq5C8
+
+----
+
+Customer: page://x8Y8aJxOEpTBihF2

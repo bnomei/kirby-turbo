@@ -1,0 +1,17 @@
+Title: Inv 1212
+
+----
+
+Inventory-id: 1212
+
+----
+
+Film: page://NHVHTtdHsYsvIuaE
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 7edMnyHF1ZwSvuGa

@@ -1,0 +1,17 @@
+Title: Inv 3345
+
+----
+
+Inventory-id: 3345
+
+----
+
+Film: page://JZKZHd1XqXdOF2GJ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: OX1Mh05G2EFjCefQ

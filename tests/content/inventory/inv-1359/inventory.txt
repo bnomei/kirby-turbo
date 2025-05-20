@@ -1,0 +1,17 @@
+Title: Inv 1359
+
+----
+
+Inventory-id: 1359
+
+----
+
+Film: page://Txu2vmD0wVTFR9RZ
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: vLmHXNLMB1QOHO6q

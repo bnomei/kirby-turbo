@@ -1,0 +1,17 @@
+Title: Inv 1662
+
+----
+
+Inventory-id: 1662
+
+----
+
+Film: page://SUMTsSQ2ilMXfenM
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: KmE0c9aCQ7thMJEV

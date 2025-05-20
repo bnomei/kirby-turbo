@@ -1,0 +1,25 @@
+Title: Rental 9147
+
+----
+
+Rental-id: 9147
+
+----
+
+Rental-date: 2005-07-30 10:38:59
+
+----
+
+Return-date: 2005-08-02 11:45:59
+
+----
+
+Inventory: page://FQfr8sa69sevPq8O
+
+----
+
+Customer: page://HiWqju3pijeJQEv1
+
+----
+
+Uuid: fW2ugYgWXqOgDbFU

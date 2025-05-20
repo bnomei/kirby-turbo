@@ -1,0 +1,17 @@
+Title: Inv 1616
+
+----
+
+Inventory-id: 1616
+
+----
+
+Film: page://ytugxH0cLSUbdLx9
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: sWYS7q2bAV5SuftF

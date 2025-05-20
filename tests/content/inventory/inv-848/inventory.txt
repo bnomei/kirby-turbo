@@ -1,0 +1,17 @@
+Title: Inv 848
+
+----
+
+Inventory-id: 848
+
+----
+
+Film: page://PQjuZfOhYuSRPrYo
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: 2G0BvHicJo1AjPNd

@@ -1,0 +1,33 @@
+Title: LAURA RODRIGUEZ
+
+----
+
+Customer-id: 22
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: LAURA
+
+----
+
+Last-name: RODRIGUEZ
+
+----
+
+Email: LAURA.RODRIGUEZ@sakilacustomer.org
+
+----
+
+Address: page://4hMvK7sMtIxTEokx
+
+----
+
+Active: 1
+
+----
+
+Uuid: WYN3R1xdu8tNVx9R

@@ -1,0 +1,33 @@
+Title: TODD TAN
+
+----
+
+Customer-id: 386
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: TODD
+
+----
+
+Last-name: TAN
+
+----
+
+Email: TODD.TAN@sakilacustomer.org
+
+----
+
+Address: page://CZhlXqiN6sINrSwJ
+
+----
+
+Active: 1
+
+----
+
+Uuid: EHSB9jDLk6k6ip5D

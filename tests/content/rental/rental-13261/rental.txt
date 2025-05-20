@@ -1,0 +1,21 @@
+Title: Rental 13261
+
+----
+
+Rental-id: 13261
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://qmZAEwl1I5OT7TWt
+
+----
+
+Customer: page://uRjSsY0tmEElH0YF
+
+----
+
+Uuid: esBduzCQvI2iCHyO

@@ -1,0 +1,17 @@
+Title: Inv 734
+
+----
+
+Inventory-id: 734
+
+----
+
+Film: page://PPtZE2Wn6tV3XJJA
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: usVUTLVYuWrAJuNC

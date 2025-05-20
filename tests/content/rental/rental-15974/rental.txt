@@ -1,0 +1,25 @@
+Title: Rental 15974
+
+----
+
+Rental-id: 15974
+
+----
+
+Rental-date: 2005-08-23 20:06:04
+
+----
+
+Return-date: 2005-08-27 17:33:04
+
+----
+
+Inventory: page://J65nDHYNz80D2N3X
+
+----
+
+Customer: page://cJydH6wkvuH04KQt
+
+----
+
+Uuid: kBudrHoKP4yWB7lO

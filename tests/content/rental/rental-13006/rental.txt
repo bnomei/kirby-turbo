@@ -1,0 +1,25 @@
+Title: Rental 13006
+
+----
+
+Rental-id: 13006
+
+----
+
+Rental-date: 2005-08-19 07:47:16
+
+----
+
+Return-date: 2005-08-21 06:17:16
+
+----
+
+Inventory: page://ta5W9xBb7MXIFo4X
+
+----
+
+Customer: page://zeAqUQXxiV8V74u5
+
+----
+
+Uuid: wyKtxESeL93YKakd

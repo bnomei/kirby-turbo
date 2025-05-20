@@ -1,0 +1,17 @@
+Title: Inv 4314
+
+----
+
+Inventory-id: 4314
+
+----
+
+Film: page://7MErZ2JBxN1hRxGu
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: fxLK6pehpmlEA63k

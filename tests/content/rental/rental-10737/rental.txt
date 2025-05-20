@@ -1,0 +1,25 @@
+Title: Rental 10737
+
+----
+
+Rental-id: 10737
+
+----
+
+Rental-date: 2005-08-01 19:31:24
+
+----
+
+Return-date: 2005-08-10 19:17:24
+
+----
+
+Inventory: page://3UvceAxLzi5uaPYb
+
+----
+
+Customer: page://hKFzOIjEbiQlZ9Km
+
+----
+
+Uuid: G8zQmotOl7b08e5g

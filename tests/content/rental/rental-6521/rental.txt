@@ -1,0 +1,25 @@
+Title: Rental 6521
+
+----
+
+Rental-id: 6521
+
+----
+
+Rental-date: 2005-07-12 04:06:11
+
+----
+
+Return-date: 2005-07-21 05:50:11
+
+----
+
+Inventory: page://ThvoI0SasrVo7V3V
+
+----
+
+Uuid: Z2ewmCW9SZaPij76
+
+----
+
+Customer: page://94UnL6NulGJKXEIF

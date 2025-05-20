@@ -1,0 +1,25 @@
+Title: Rental 270
+
+----
+
+Rental-id: 270
+
+----
+
+Rental-date: 2005-05-26 16:20:56
+
+----
+
+Return-date: 2005-06-03 12:40:56
+
+----
+
+Inventory: page://Le4LPZJH01A92AMo
+
+----
+
+Uuid: DURyZu5PvU8B52J4
+
+----
+
+Customer: page://9M7WmMyIHxnO6lL5

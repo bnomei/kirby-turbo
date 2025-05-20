@@ -1,0 +1,49 @@
+Title: FUGITIVE MAGUIRE
+
+----
+
+Actors:
+
+- 'page://9zoYPXEbxK6liKqc'
+- 'page://AvkKtwk9lLurZvzW'
+- 'page://9dZ7pytlckFxJvGe'
+- 'page://Gz114ojbruPqLOSY'
+- 'page://CsoOTyxORoAs7uZy'
+- 'page://MG1O0zMGGcgzh2YX'
+- 'page://3O7lqRPKBygXUoTl'
+- 'page://pjeR3SovMBBZGi9m'
+- 'page://m11q5cdDfIefOEY5'
+- 'page://r5vfuwK7SifeGhUs'
+- 'page://hzpjO6QvzfyB1LBD'
+
+----
+
+Film-id: 342
+
+----
+
+Description: A Taut Epistle of a Feminist And a Sumo Wrestler who must Battle a Crocodile in Australia
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 83
+
+----
+
+Rating: R
+
+----
+
+Special-features: Trailers,Commentaries,Deleted Scenes
+
+----
+
+Uuid: i2peNN84NuX6xnCg
+
+----
+
+Categories: - 'page://vm8SlMBO5PhFzDzB'

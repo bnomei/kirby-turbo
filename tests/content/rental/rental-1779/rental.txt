@@ -1,0 +1,25 @@
+Title: Rental 1779
+
+----
+
+Rental-id: 1779
+
+----
+
+Rental-date: 2005-06-16 18:55:11
+
+----
+
+Return-date: 2005-06-17 20:11:11
+
+----
+
+Inventory: page://ogsVRgnI97xR8myq
+
+----
+
+Uuid: LS8rYuEhZmTVna3G
+
+----
+
+Customer: page://GsCMla3dLxvFaycH

@@ -1,0 +1,25 @@
+Title: Rental 914
+
+----
+
+Rental-id: 914
+
+----
+
+Rental-date: 2005-05-30 11:06:00
+
+----
+
+Return-date: 2005-06-04 06:07:00
+
+----
+
+Inventory: page://v8NTDgPD69i3ZY8f
+
+----
+
+Uuid: MF9tRYeQcnkY1Idg
+
+----
+
+Customer: page://cximYF0fTdcPdV2q

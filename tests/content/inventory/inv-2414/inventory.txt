@@ -1,0 +1,17 @@
+Title: Inv 2414
+
+----
+
+Inventory-id: 2414
+
+----
+
+Film: page://YUzfc16cDD1MlAAL
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: sK6abTc7emIdWx92

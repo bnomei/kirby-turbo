@@ -1,0 +1,25 @@
+Title: Rental 767
+
+----
+
+Rental-id: 767
+
+----
+
+Rental-date: 2005-05-29 12:20:19
+
+----
+
+Return-date: 2005-06-02 14:15:19
+
+----
+
+Inventory: page://ByNsCaYFPnjUzJM7
+
+----
+
+Uuid: jpZQtgwZswWVLLze
+
+----
+
+Customer: page://qwuyaWIZTC7pwwND

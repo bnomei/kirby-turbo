@@ -1,0 +1,25 @@
+Title: Rental 6007
+
+----
+
+Rental-id: 6007
+
+----
+
+Rental-date: 2005-07-11 01:43:06
+
+----
+
+Return-date: 2005-07-17 04:46:06
+
+----
+
+Inventory: page://1l7JWcbRFJ3POQCB
+
+----
+
+Uuid: Nsx8qNKX2Au29Mdk
+
+----
+
+Customer: page://6AKt4qOv738O4v4p

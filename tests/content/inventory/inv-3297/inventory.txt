@@ -1,0 +1,17 @@
+Title: Inv 3297
+
+----
+
+Inventory-id: 3297
+
+----
+
+Film: page://krbmWkvwgkQjjDzq
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: tC87WKb8RcmisO8I

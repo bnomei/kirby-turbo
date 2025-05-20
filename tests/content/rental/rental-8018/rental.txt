@@ -1,0 +1,25 @@
+Title: Rental 8018
+
+----
+
+Rental-id: 8018
+
+----
+
+Rental-date: 2005-07-28 15:36:48
+
+----
+
+Return-date: 2005-08-06 20:04:48
+
+----
+
+Inventory: page://0dNrp7FCLfbYgj3Y
+
+----
+
+Customer: page://zLiLkW2YJgd9qzFC
+
+----
+
+Uuid: tfJkOEXbSHKN8gWO

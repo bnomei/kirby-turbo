@@ -1,0 +1,25 @@
+Title: Rental 3066
+
+----
+
+Rental-id: 3066
+
+----
+
+Rental-date: 2005-06-20 13:55:41
+
+----
+
+Return-date: 2005-06-26 09:38:41
+
+----
+
+Inventory: page://F6tnPzvHBkMy9iTn
+
+----
+
+Uuid: k0OlOJ13abvRsteg
+
+----
+
+Customer: page://VeTDo26Y3oPKF7Sh

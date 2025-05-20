@@ -1,0 +1,21 @@
+Title: Rental 12506
+
+----
+
+Rental-id: 12506
+
+----
+
+Rental-date: 2006-02-14 15:16:03
+
+----
+
+Inventory: page://Qdgo9RDYvd5uAR0q
+
+----
+
+Customer: page://tmz3xyyMIWwOAlZu
+
+----
+
+Uuid: zo98gYn4al8YJrch

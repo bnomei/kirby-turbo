@@ -1,0 +1,17 @@
+Title: Inv 3506
+
+----
+
+Inventory-id: 3506
+
+----
+
+Film: page://i09ZUgQcDRxEVuGe
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: C8NEoGzukKJhpnSH

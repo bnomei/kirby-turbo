@@ -1,0 +1,25 @@
+Title: Rental 1830
+
+----
+
+Rental-id: 1830
+
+----
+
+Rental-date: 2005-06-16 22:18:43
+
+----
+
+Return-date: 2005-06-23 21:14:43
+
+----
+
+Inventory: page://9jHKy3DpluISOMrp
+
+----
+
+Uuid: GkBoTeLg0nlMs11V
+
+----
+
+Customer: page://uRdLZLKD6zhz7xZm

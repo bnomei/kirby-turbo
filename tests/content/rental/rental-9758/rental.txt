@@ -1,0 +1,25 @@
+Title: Rental 9758
+
+----
+
+Rental-id: 9758
+
+----
+
+Rental-date: 2005-07-31 09:25:38
+
+----
+
+Return-date: 2005-08-03 14:16:38
+
+----
+
+Inventory: page://RUuVzXN2jcZu5NoH
+
+----
+
+Customer: page://r0DHyZYSnncl7RM1
+
+----
+
+Uuid: KnatCv9hdfnnT1VG

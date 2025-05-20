@@ -1,0 +1,40 @@
+Title: BRINGING HYSTERICAL
+
+----
+
+Actors:
+
+- 'page://8uCKHWVFS7qGgYjl'
+- 'page://k43wur9uhLztfZOP'
+
+----
+
+Film-id: 99
+
+----
+
+Description: A Fateful Saga of a A Shark And a Technical Writer who must Find a Woman in A Jet Boat
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 136
+
+----
+
+Rating: PG
+
+----
+
+Special-features: Trailers
+
+----
+
+Uuid: UgyLTEk9PaQve3Lu
+
+----
+
+Categories: - 'page://gKDAFH9KYyezgXi3'

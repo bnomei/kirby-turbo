@@ -1,0 +1,17 @@
+Title: Inv 3496
+
+----
+
+Inventory-id: 3496
+
+----
+
+Film: page://7zRlKlOfqwmaI4Y9
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: B50dOXGvnDGBG1to

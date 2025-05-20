@@ -1,0 +1,17 @@
+Title: Inv 3118
+
+----
+
+Inventory-id: 3118
+
+----
+
+Film: page://iu1ShMiBGqpt0Epc
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: zVAc6oRkk85AH7B3

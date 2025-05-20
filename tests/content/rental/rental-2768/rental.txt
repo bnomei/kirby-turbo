@@ -1,0 +1,25 @@
+Title: Rental 2768
+
+----
+
+Rental-id: 2768
+
+----
+
+Rental-date: 2005-06-19 17:46:52
+
+----
+
+Return-date: 2005-06-25 21:49:52
+
+----
+
+Inventory: page://3OnGM1bvyQoMzzRP
+
+----
+
+Uuid: j61inugNXKzxWXTd
+
+----
+
+Customer: page://JdfsXlrnw5D9Ezlr

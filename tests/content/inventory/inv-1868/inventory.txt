@@ -1,0 +1,17 @@
+Title: Inv 1868
+
+----
+
+Inventory-id: 1868
+
+----
+
+Film: page://x0gO7YRtpNfgYnvF
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: fw7YgwG3wE1GX51N

@@ -1,0 +1,25 @@
+Title: Rental 2388
+
+----
+
+Rental-id: 2388
+
+----
+
+Rental-date: 2005-06-18 15:26:30
+
+----
+
+Return-date: 2005-06-20 20:24:30
+
+----
+
+Inventory: page://U9zkdQLM76KFOyPF
+
+----
+
+Uuid: wL6wF83266YH2ayo
+
+----
+
+Customer: page://4gdcUTd8Bs7vlXxm

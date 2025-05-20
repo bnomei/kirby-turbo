@@ -1,0 +1,25 @@
+Title: Rental 81
+
+----
+
+Rental-id: 81
+
+----
+
+Rental-date: 2005-05-25 12:15:19
+
+----
+
+Return-date: 2005-06-02 14:08:19
+
+----
+
+Inventory: page://wHLIgnKk8hNE6cKH
+
+----
+
+Uuid: oHKAZQB8k4B7i8RD
+
+----
+
+Customer: page://luJ7Uo5a2aftAMEN

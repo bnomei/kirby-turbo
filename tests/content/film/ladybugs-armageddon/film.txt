@@ -1,0 +1,42 @@
+Title: LADYBUGS ARMAGEDDON
+
+----
+
+Actors:
+
+- 'page://rWwSmn6uTovtpXae'
+- 'page://RvgM0TLzgQDo6vY7'
+- 'page://Sl1QfOYn2gZWMd2L'
+- 'page://nNLtL91vUU653tYz'
+
+----
+
+Film-id: 507
+
+----
+
+Description: A Fateful Reflection of a Dog And a Mad Scientist who must Meet a Mad Scientist in New Orleans
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 113
+
+----
+
+Rating: NC-17
+
+----
+
+Special-features: Deleted Scenes
+
+----
+
+Uuid: O4FLi65MGp5Irle2
+
+----
+
+Categories: - 'page://s7nITQryV719qdH7'

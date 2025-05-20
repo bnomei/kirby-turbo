@@ -1,0 +1,17 @@
+Title: Inv 4107
+
+----
+
+Inventory-id: 4107
+
+----
+
+Film: page://TA76R8F61TYUcZhH
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: HgtDZPxDvZM3cGdn

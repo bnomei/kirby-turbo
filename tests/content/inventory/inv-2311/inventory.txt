@@ -1,0 +1,17 @@
+Title: Inv 2311
+
+----
+
+Inventory-id: 2311
+
+----
+
+Film: page://blzE5PZiY9bBh7xH
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: mmDnX7lVH9nJZhww

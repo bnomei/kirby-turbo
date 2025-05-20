@@ -1,0 +1,17 @@
+Title: Inv 2470
+
+----
+
+Inventory-id: 2470
+
+----
+
+Film: page://j57IDZCK6rdV8InC
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: hs8OwqHwpRIcuOrc

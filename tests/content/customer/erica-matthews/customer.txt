@@ -1,0 +1,33 @@
+Title: ERICA MATTHEWS
+
+----
+
+Customer-id: 169
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+First-name: ERICA
+
+----
+
+Last-name: MATTHEWS
+
+----
+
+Email: ERICA.MATTHEWS@sakilacustomer.org
+
+----
+
+Address: page://LQSDyr7RR6cTEvdd
+
+----
+
+Active: 0
+
+----
+
+Uuid: 7Q9Tqy8Zdd9t8aWy

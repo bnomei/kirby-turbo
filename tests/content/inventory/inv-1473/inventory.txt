@@ -1,0 +1,17 @@
+Title: Inv 1473
+
+----
+
+Inventory-id: 1473
+
+----
+
+Film: page://apGFh4DxG5Qe6AtP
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+Uuid: mwHV6lCFOh9yx2ur

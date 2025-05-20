@@ -1,0 +1,25 @@
+Title: Rental 112
+
+----
+
+Rental-id: 112
+
+----
+
+Rental-date: 2005-05-25 18:57:24
+
+----
+
+Return-date: 2005-06-02 20:44:24
+
+----
+
+Inventory: page://jPO60RHZsB7ISOzV
+
+----
+
+Uuid: lW0yf9QKAIxjFkmA
+
+----
+
+Customer: page://dCSTJjEmIHM7hQ5W

@@ -1,0 +1,17 @@
+Title: Inv 1829
+
+----
+
+Inventory-id: 1829
+
+----
+
+Film: page://WGXDM1RG4lfMpY2G
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: 5yFqsijmhvP6cpru

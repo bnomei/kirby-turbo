@@ -1,0 +1,25 @@
+Title: Rental 1119
+
+----
+
+Rental-id: 1119
+
+----
+
+Rental-date: 2005-05-31 16:34:27
+
+----
+
+Return-date: 2005-06-02 10:54:27
+
+----
+
+Inventory: page://qkvFOzrTCQlnaiod
+
+----
+
+Uuid: PtJO5pqbbeL43MSD
+
+----
+
+Customer: page://NB8qqTmaJphAOwtJ

@@ -1,0 +1,17 @@
+Title: Inv 2514
+
+----
+
+Inventory-id: 2514
+
+----
+
+Film: page://OluPI03kV72pYmRj
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: XKVoo22f2ZwhxDew

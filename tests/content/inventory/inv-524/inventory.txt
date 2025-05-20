@@ -1,0 +1,17 @@
+Title: Inv 524
+
+----
+
+Inventory-id: 524
+
+----
+
+Film: page://iMI1430ry8gA5yc2
+
+----
+
+Store: page://af0eaPRTfIBs6o8A
+
+----
+
+Uuid: fd3BzOAl8aLJZ9MD

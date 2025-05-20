@@ -1,0 +1,25 @@
+Title: Rental 5006
+
+----
+
+Rental-id: 5006
+
+----
+
+Rental-date: 2005-07-09 01:24:07
+
+----
+
+Return-date: 2005-07-18 03:56:07
+
+----
+
+Inventory: page://3kqiaxmtTPB4EtH1
+
+----
+
+Uuid: 1K3ajn0Gu7w9dR8w
+
+----
+
+Customer: page://JrFUnPiIScwISMV4

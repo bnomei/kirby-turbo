@@ -1,0 +1,25 @@
+Title: Rental 12911
+
+----
+
+Rental-id: 12911
+
+----
+
+Rental-date: 2005-08-19 04:24:10
+
+----
+
+Return-date: 2005-08-26 00:35:10
+
+----
+
+Inventory: page://ybKdFvDhZzjmg0FS
+
+----
+
+Customer: page://1Uz8TMpklCxhdMmv
+
+----
+
+Uuid: WiGtBiLaqHuMjU2T

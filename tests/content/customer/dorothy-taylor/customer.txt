@@ -1,0 +1,33 @@
+Title: DOROTHY TAYLOR
+
+----
+
+Customer-id: 10
+
+----
+
+Store: page://84ohRKd6kBoYuc0q
+
+----
+
+First-name: DOROTHY
+
+----
+
+Last-name: TAYLOR
+
+----
+
+Email: DOROTHY.TAYLOR@sakilacustomer.org
+
+----
+
+Address: page://2EPAJymN6jzhhhWt
+
+----
+
+Active: 1
+
+----
+
+Uuid: hkYVD2f74BBcnfGT

@@ -1,0 +1,25 @@
+Title: Rental 5076
+
+----
+
+Rental-id: 5076
+
+----
+
+Rental-date: 2005-07-09 05:13:22
+
+----
+
+Return-date: 2005-07-16 09:11:22
+
+----
+
+Inventory: page://5Bf04L9ds9qGkdX9
+
+----
+
+Uuid: PFVW43qsQHUpSr52
+
+----
+
+Customer: page://ezKQFYnXPCOgLSXF

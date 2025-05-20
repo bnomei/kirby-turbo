@@ -1,0 +1,21 @@
+Title: WARREN NOLTE
+
+----
+
+Actors: []
+
+----
+
+Actor-id: 108
+
+----
+
+First-name: WARREN
+
+----
+
+Last-name: NOLTE
+
+----
+
+Uuid: RvgM0TLzgQDo6vY7

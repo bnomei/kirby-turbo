@@ -1,0 +1,17 @@
+Title: Chisinau
+
+----
+
+City-id: 115
+
+----
+
+City: Chisinau
+
+----
+
+Country: page://GSZvzUPMJuxtCuC0
+
+----
+
+Uuid: Xs4eEfDolqD994Er

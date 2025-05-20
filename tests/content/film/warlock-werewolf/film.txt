@@ -1,0 +1,44 @@
+Title: WARLOCK WEREWOLF
+
+----
+
+Actors:
+
+- 'page://V2PTX56N00hKjCOa'
+- 'page://H5yhLtWBsWi35xuK'
+- 'page://18rsmrxh7jfYQ50K'
+- 'page://V93xbOGPlOsB9ymO'
+- 'page://HBk8OpEyVf68VCvH'
+- 'page://EIh5zoCTJV7UmSi4'
+
+----
+
+Film-id: 959
+
+----
+
+Description: A Astounding Yarn of a Pioneer And a Crocodile who must Defeat a A Shark in The Outback
+
+----
+
+Release-year: 2006
+
+----
+
+Length: 83
+
+----
+
+Rating: G
+
+----
+
+Special-features: Commentaries,Behind the Scenes
+
+----
+
+Uuid: XxIxJauCUGbhnYeJ
+
+----
+
+Categories: - 'page://OxvpFpXonxK5MVZE'

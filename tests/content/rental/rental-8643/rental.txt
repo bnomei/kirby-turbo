@@ -1,0 +1,25 @@
+Title: Rental 8643
+
+----
+
+Rental-id: 8643
+
+----
+
+Rental-date: 2005-07-29 14:45:23
+
+----
+
+Return-date: 2005-08-04 18:42:23
+
+----
+
+Inventory: page://54GBlpYGzPnyflxG
+
+----
+
+Customer: page://C4bxh4ih8ABx3B30
+
+----
+
+Uuid: ASCpcP7BWudROTTy
