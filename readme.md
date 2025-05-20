@@ -98,7 +98,7 @@ The default cache for UUIDs stores one file per UUID, which is fine if you query
 
 It requires the unix/Linux/OSX `sed` command to be available.
 
-> [!INFO]
+> [!INFOMATION]
 > Using the default configuration Turbo will find all the content in the `inventory` (which is a single file cache) and never ping Redis at the `storage` layer. Which is very fast and absolutely the intended behaviour.
 
 ### Flushing the Caches
