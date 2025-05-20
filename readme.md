@@ -5,7 +5,7 @@
 ![Release](https://flat.badgen.net/packagist/v/bnomei/kirby-turbo?color=ae81ff&icon=github&label)
 ![Downloads](https://flat.badgen.net/packagist/dt/bnomei/kirby-turbo?color=272822&icon=github&label)
 ![Unittests](https://github.com/bnomei/kirby-turbo/actions/workflows/pest-tests.yml/badge.svg)
-![PHPStan:9](https://github.com/bnomei/kirby-turbo/actions/workflows/phpstan.yml/badge.svg)
+![PHPStan](https://github.com/bnomei/kirby-turbo/actions/workflows/phpstan.yml/badge.svg)
 [![Discord](https://flat.badgen.net/badge/discord/bnomei?color=7289da&icon=discord&label)](https://discordapp.com/users/bnomei)
 [![Buy License](https://flat.badgen.net/badge/icon/Buy%20License?icon=lemonsqueezy&color=FFC233&label=$)](https://buy-turbo.bnomei.com)
 
