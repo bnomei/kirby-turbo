@@ -17,21 +17,18 @@ class TurboStaticCache
 {
     public static array $cache = [];
 
-    public static function getOrSet(array|string $key, Closure $closure): mixed
+    public static function getOrSet(array|string $key, Closure $closure): Closure
     {
         $key = static::key($key);
 
+        // static caching will return the resolved simplified closure
         if ($value = A::get(static::$cache, $key)) {
-            // load lazy and resolve if needed
-            if ($value instanceof Closure) {
-                $value = $value();
-                static::$cache[$key] = $value;
-            }
-
             return $value;
         }
 
-        static::$cache[$key] = $closure; // store lazy
+        // resolve now but store as a simplified closure again
+        $closure = $closure();
+        static::$cache[$key] = fn () => $closure;
 
         return static::$cache[$key];
     }
