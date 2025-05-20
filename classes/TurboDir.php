@@ -28,15 +28,6 @@ class TurboDir extends Dir
         return array_key_exists('#'.hash('xxh3', $path), Turbo::singleton()->files());
     }
 
-    public static function realpath(string $dir, ?string $in = null): string|bool
-    {
-        // NOTE: TURBO only has resolved dirs for content,
-        // so it should be safe to omit the call to realpath()
-        // saving yet another trip to the filesystem
-        // but the effect is minimal and it might be better to fail
-        return realpath($dir);
-    }
-
     public static function scandir(string $dir): array
     {
         // SLOW: using the file system in PHP
@@ -113,11 +104,14 @@ class TurboDir extends Dir
             'template' => 'default',
         ];
 
-        $dir = static::realpath($dir);
+        // NOTE: changed to use TURBO by @bnomei
+        /*
+        $dir = realpath($dir);
 
         if ($dir === false) {
             return $inventory;
         }
+        */
 
         // a temporary store for all content files
         $content = [];
