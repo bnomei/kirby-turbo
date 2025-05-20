@@ -36,19 +36,11 @@ jobs:
           path: vendor
           key: composer-${{ hashFiles('composer.lock') }}
 
-      - name: Wait for Redis (TCP)
-        run: |
-          for i in {1..10}; do
-            nc -z 127.0.0.1 6379 && echo "Redis ready" && break
-            echo "Waiting for Redis..."
-            sleep 1
-          done
+      - name: Start Redis
+        uses: supercharge/redis-github-action@1.7.0
 
       - name: Install
         run: composer kirby
 
       - name: Test code
         run: vendor/bin/pest --ci
-        env:
-          REDIS_HOST: 127.0.0.1
-          REDIS_PORT: 6379
