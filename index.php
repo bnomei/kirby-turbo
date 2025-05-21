@@ -289,7 +289,7 @@ Kirby::plugin(
         ],
         'fieldMethods' => [
             'toFileTurbo' => function (Field $field): ?File {
-                return $field->toFilesTurbo()->first();
+                return $field->toFilesTurbo()->first(); // @phpstan-ignore-line
             },
             'toFilesTurbo' => function (Field $field): Files {
                 if (kirby()->option('cache.uuid.type') === 'turbo-uuid') {
@@ -318,7 +318,7 @@ Kirby::plugin(
                 return $field->toFiles(); // @phpstan-ignore-line
             },
             'toPageTurbo' => function (Field $field): ?Page {
-                return $field->toPagesTurbo()->first();
+                return $field->toPagesTurbo()->first(); // @phpstan-ignore-line
             },
             'toPagesTurbo' => function (Field $field): Pages {
                 if (kirby()->option('cache.uuid.type') === 'turbo-uuid') {
