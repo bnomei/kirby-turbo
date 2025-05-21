@@ -17,12 +17,14 @@ use Bnomei\TurboStaticCache;
 use Bnomei\TurboStopwatch;
 use Bnomei\TurboUuidCache;
 use Kirby\Cms\App;
+use Kirby\Cms\File;
 use Kirby\Cms\Files;
 use Kirby\Cms\Page;
 use Kirby\Cms\Pages;
 use Kirby\Content\Field;
 use Kirby\Filesystem\F;
 use Kirby\Http\Route;
+use Kirby\Toolkit\A;
 
 @include_once __DIR__.'/vendor/autoload.php';
 
@@ -286,26 +288,45 @@ Kirby::plugin(
             },
         ],
         'fieldMethods' => [
+            'toFileTurbo' => function (Field $field): ?File {
+                return $field->toFilesTurbo()->first();
+            },
             'toFilesTurbo' => function (Field $field): Files {
                 if (kirby()->option('cache.uuid.type') === 'turbo-uuid') {
-                    $ids = [];
-                    foreach ($field->yaml() as $uuid) { // @phpstan-ignore-line
-                        $uuid = 'file/'.substr($uuid, 7, 2).'/'.substr($uuid, 9);
-                        $ids[] = kirby()->cache('uuid')->get($uuid);
+                    $files = [];
+                    $pages = [];
+                    $cache = kirby()->cache('uuid');
+                    foreach ($field->yaml() as $fileKey) { // @phpstan-ignore-line
+                        $fileKey = 'file/'.substr($fileKey, 7, 2).'/'.substr($fileKey, 9);
+                        if ($data =$cache->get($fileKey)) {
+                            $parentUuid = is_array($data) ? A::get($data, 'parent') : null;
+                            if (! $parentUuid) {
+                                continue;
+                            }
+                            $parentKey = 'page/'.substr($parentUuid, 7, 2).'/'.substr($parentUuid, 9);
+                            if ($parentId =$cache->get($parentKey)) {
+                                $pages[$parentId] = A::get($pages, $parentId, kirby()->page($parentId));
+                                $files[] = $pages[$parentId]?->file(A::get($data, 'filename'));
+                            }
+                        }
                     }
 
-                    return new Files(array_filter($ids));
+                    return new Files(array_filter($files));
                 }
 
                 // default
                 return $field->toFiles(); // @phpstan-ignore-line
             },
+            'toPageTurbo' => function (Field $field): ?Page {
+                return $field->toPagesTurbo()->first();
+            },
             'toPagesTurbo' => function (Field $field): Pages {
                 if (kirby()->option('cache.uuid.type') === 'turbo-uuid') {
                     $ids = [];
+                    $cache = kirby()->cache('uuid');
                     foreach ($field->yaml() as $uuid) {  // @phpstan-ignore-line
-                        $uuid = 'page/'.substr($uuid, 7, 2).'/'.substr($uuid, 9);
-                        $ids[] = kirby()->cache('uuid')->get($uuid);
+                        $key = 'page/'.substr($uuid, 7, 2).'/'.substr($uuid, 9);
+                        $ids[] = $cache->get($key);
                     }
 
                     return new Pages(array_filter($ids));
