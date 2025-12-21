@@ -82,10 +82,10 @@ class TurboStorage extends PlainTextStorage
         ))
         ) {
             if ($t->options['storage.compression']) {
-                $data = json_decode(base64_decode($data), true);
+                $data = json_decode(gzuncompress(base64_decode($data)), true); // @phpstan-ignore-line
             }
 
-            return $data;
+            return is_array($data) ? $data : null;
         }
 
         return null;
