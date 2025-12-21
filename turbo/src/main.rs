@@ -175,7 +175,7 @@ async fn process_file(
 /// Builds the final Output struct, including metadata
 fn build_output(files: Vec<FileInfo>, duration_ms: u128, timestamp: u64) -> Output {
     let mut file_map: HashMap<String, FileInfo> = HashMap::new();
-    let mut dirs_map: HashMap<String, Vec<String>> = HashMap::new();
+    let mut dirs_map: HashMap<String, HashSet<String>> = HashMap::new();
 
     for file in files {
         // Insert file into `file_map` using its hash as the key
@@ -189,24 +189,29 @@ fn build_output(files: Vec<FileInfo>, duration_ms: u128, timestamp: u64) -> Outp
             // Add the file to its parent directory
             dirs_map
                 .entry(dir.to_string())
-                .or_insert_with(Vec::new)
-                .push(filename);
+                .or_insert_with(HashSet::new)
+                .insert(filename);
 
             // Ensure the directory itself is added to its parent directory
             if let Some(parent_dir) = Path::new(&dir).parent().and_then(|p| p.to_str()) {
                 if let Some(dir_basename) = Path::new(&dir).file_name().and_then(|d| d.to_str()) {
                     dirs_map
                         .entry(parent_dir.to_string())
-                        .or_insert_with(Vec::new)
-                        .push(dir_basename.to_string());
+                        .or_insert_with(HashSet::new)
+                        .insert(dir_basename.to_string());
                 }
             }
         }
     }
 
+    let dirs: HashMap<String, Vec<String>> = dirs_map
+        .into_iter()
+        .map(|(dir, entries)| (dir, entries.into_iter().collect()))
+        .collect();
+
     Output {
         files: file_map,
-        dirs: dirs_map,
+        dirs,
         meta: Meta {
             duration_ms,
             timestamp,
