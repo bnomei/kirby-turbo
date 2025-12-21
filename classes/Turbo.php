@@ -96,9 +96,15 @@ final class Turbo
             $output = str_replace('"@/', '"'.$root.'/', $output);
             $all = json_decode($output, true);
             if (is_array($all)) {
+                $dirs = A::get($all, 'dirs', []);
+                foreach ($dirs as $path => $refs) {
+                    $dirs[$path] = array_unique($refs);
+                    natsort($dirs[$path]);
+                }
+
                 return [
                     'files' => A::get($all, 'files', []),
-                    'dirs' => A::get($all, 'dirs', []),
+                    'dirs' => $dirs,
                 ];
             }
         }
