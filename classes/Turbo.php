@@ -213,7 +213,15 @@ final class Turbo
         $cmd = "{$exec} '{$root}' -type f \( $patterns \)";
         */
         $cmd = "{$exec} '{$root}' -type f";
-        $cmd .= $this->options['inventory.modified'] ? " -exec stat -f '%N\t%m' {} \;" : '';
+        if ($this->options['inventory.modified']) {
+            $statFlag = '-f';
+            $statFormat = '%N\t%m';
+            if (PHP_OS_FAMILY === 'Linux') {
+                $statFlag = '-c';
+                $statFormat = '%n\t%Y';
+            }
+            $cmd .= " -exec stat {$statFlag} '{$statFormat}' {} \\;";
+        }
         // NOTE: find does not do content so no option here
         $output = shell_exec($cmd);
 
