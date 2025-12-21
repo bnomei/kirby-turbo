@@ -85,7 +85,7 @@ class TurboFileCache extends FileCache
         return parent::get($this->key($key), $default);
     }
 
-    public function getOrSet(string $key, \Closure $result, int|string $minutes = 0) // @phpstan-ignore-line
+    public function getOrSet(array|string $key, \Closure $result, int|string $minutes = 0) // @phpstan-ignore-line
     {
         $value = $this->get($key);
 
