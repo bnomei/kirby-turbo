@@ -333,11 +333,14 @@ final class Turbo
 
     public static function serialize(mixed $value, bool $models = false): mixed
     {
-        if (! $value) {
+        if ($value === null) {
             return null;
         }
 
         $value = ! is_string($value) && is_callable($value) ? $value() : $value;
+        if ($value === null) {
+            return null;
+        }
 
         if (is_array($value)) {
             return array_map(function ($item) use ($models) {
