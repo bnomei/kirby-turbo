@@ -160,11 +160,16 @@ class TurboRedisCache extends RedisCache
 
         if (! $keys) {
             // scan is more performant than keys('*')
-            while ($keys = $this->connection->scan($iterator)) {
-                foreach ($keys as $key) {
+            $iterator = null;
+            do {
+                $scanKeys = $this->connection->scan($iterator);
+                if ($scanKeys === false) {
+                    break;
+                }
+                foreach ($scanKeys as $key) {
                     $data[$key] = $this->get($key); // will auto-clean
                 }
-            }
+            } while ($iterator > 0);
         } else {
             foreach ($keys as $key) {
                 $data[$key] = $this->get($key);
