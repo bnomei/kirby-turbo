@@ -102,6 +102,9 @@ Kirby::plugin(
                 'validate-value-as-json' => true, // check causes just a minor performance impact on write
                 'json-encode-flags' => JSON_THROW_ON_ERROR, // | JSON_INVALID_UTF8_IGNORE,
             ],
+            'uuid' => [
+                'remove-with-sed' => true, // use sed to delete uuid entries from the cache file
+            ],
         ],
         'cacheTypes' => [
             'preload-redis' => PreloadRedisCache::class,

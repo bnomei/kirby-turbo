@@ -96,7 +96,7 @@ Instead of loading the content from the raw content TXT file every time, Turbo w
 
 The default cache for UUIDs stores one file per UUID, which is fine if you query only a few UUIDs in a single request. If you read this far, you know that you want to load way more than a few in your setup and need a better solution. With the `turbo-uuid` cache driver all UUIDs will be preloaded and instantly available. Adding and removing entries are marginally slower. Use it and never look back. 
 
-It requires the unix/Linux/OSX `sed` command to be available.
+It requires the unix/Linux/OSX `sed` command to be available by default. Set `bnomei.turbo.uuid.remove-with-sed=false` to use the PHP fallback when `sed` is unavailable.
 
 > [!NOTE]
 > Using the default configuration Turbo will find all the content in the `inventory` (which is a single file cache) and never ping Redis at the `storage` layer. Which is very fast and absolutely the intended behaviour.
@@ -374,6 +374,7 @@ Server-Timing: Cache;desc=miss,Kirby;dur=187,Route;dur=3,TurboRead;dur=90,TurboI
 | storage.read                         | `true`                | read from cache in storage phase (Redis)                                                                                                             |
 | storage.write                        | `true`                | write to cache in storage phase (Redis)                                                                                                              |
 | storage.compression                  | `false`               | compress data written in storage phase (Redis)                                                                                                       |
+| uuid.remove-with-sed                 | `true`                | use `sed` to delete entries from the UUID cache file; set `false` to use the PHP fallback if `sed` is unavailable                                    |
 | preload-redis.validate-value-as-json | `true`                | fail on invalid JSON, Kirby would otherwise default to writing an empty string                                                                       |
 | preload-redis.json-encode-flags      | `JSON_THROW_ON_ERROR` | sane default for encoding, could be extended with `JSON_INVALID_UTF8_IGNORE` etc.                                                                    |
 

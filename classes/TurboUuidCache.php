@@ -72,10 +72,52 @@ class TurboUuidCache extends FileCache
         $file = $this->file($key);
 
         if (is_file($file) === true) {
-            // return shell_exec("sed -i '' '/".preg_quote($key, '/')."/d' $file") === null;
-            exec("sed -i '' '/".preg_quote($key, '/')."/d' $file", $out);
+            $useSed = kirby()->option('bnomei.turbo.uuid.remove-with-sed', true) !== false;
+            if ($useSed) {
+                // return shell_exec("sed -i '' '/".preg_quote($key, '/')."/d' $file") === null;
+                $command = "sed -i '' '/".preg_quote($key, '/')."/d' ".escapeshellarg($file);
+                exec($command, $out, $exitCode);
 
-            return empty($out);
+                return $exitCode === 0;
+            }
+
+            $tmp = tempnam(dirname($file), 'uuids-');
+            if ($tmp === false) {
+                return false;
+            }
+
+            $in = fopen($file, 'rb');
+            $out = fopen($tmp, 'wb');
+            if ($in === false || $out === false) {
+                if (is_resource($in)) {
+                    fclose($in);
+                }
+                if (is_resource($out)) {
+                    fclose($out);
+                }
+                F::remove($tmp);
+
+                return false;
+            }
+
+            while (($line = fgets($in)) !== false) {
+                $parts = explode("\t", $line, 3);
+                if (isset($parts[1]) && $parts[1] === $key) {
+                    continue;
+                }
+                fwrite($out, $line);
+            }
+
+            fclose($in);
+            fclose($out);
+
+            if (F::move($tmp, $file, true) !== true) {
+                F::remove($tmp);
+
+                return false;
+            }
+
+            return true;
         }
 
         return false;
