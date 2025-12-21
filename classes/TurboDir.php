@@ -71,6 +71,10 @@ class TurboDir extends Dir
         ?string $format = null,
         ?string $handler = null
     ): int|string {
+        if (Turbo::singleton()->options['inventory.modified'] !== true) {
+            return Dir::modified($dir, $format, $handler);
+        }
+
         $modified = filemtime($dir);
         $items = static::read($dir);
 
