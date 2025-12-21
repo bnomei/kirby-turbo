@@ -191,9 +191,9 @@ final class Turbo
     public function execWithTurbo(): string
     {
         $root = $this->kirby->root('content');
-        $exec = $this->options['inventory.indexer'];
+        $exec = escapeshellcmd($this->options['inventory.indexer']);
         $patterns = implode(',', $this->modelsWithTurboFilenamePatterns());
-        $cmd = "{$exec} --dir '{$root}' --filenames '$patterns'"; // patterns used to filter which files tread content
+        $cmd = $exec.' --dir '.escapeshellarg($root).' --filenames '.escapeshellarg($patterns); // patterns used to filter which files tread content
         $cmd .= $this->options['inventory.modified'] ? ' --modified' : '';
         $cmd .= $this->options['inventory.content'] ? ' --content' : '';
         $output = shell_exec($cmd);
@@ -204,7 +204,7 @@ final class Turbo
     public function execWithFind(): string
     {
         $root = $this->kirby->root('content');
-        $exec = $this->options['inventory.indexer'];
+        $exec = escapeshellcmd($this->options['inventory.indexer']);
         /* all files need to be scanned
         $patterns = implode(' -o ', array_map(
             fn ($pattern) => "-name '$pattern'",
@@ -212,7 +212,7 @@ final class Turbo
         ));
         $cmd = "{$exec} '{$root}' -type f \( $patterns \)";
         */
-        $cmd = "{$exec} '{$root}' -type f";
+        $cmd = $exec.' '.escapeshellarg($root).' -type f';
         if ($this->options['inventory.modified']) {
             $statFlag = '-f';
             $statFormat = '%N\t%m';
