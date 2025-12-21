@@ -416,12 +416,14 @@ final class Turbo
     public static function isUrlKirbyInternal(?string $request = null): bool
     {
         $request ??= kirby()->request()->url()->toString();
+        $request = rtrim($request, '/');
         foreach ([
             kirby()->urls()->panel(),
             kirby()->urls()->api(),
             kirby()->urls()->media(),
         ] as $url) {
-            if (str_contains($request, $url)) {
+            $url = rtrim($url, '/');
+            if ($request === $url || str_starts_with($request, $url.'/')) {
                 return true;
             }
         }

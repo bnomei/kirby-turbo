@@ -81,6 +81,7 @@ it('can detect Kirby internal URLs', function () {
     expect(Turbo::isUrlKirbyInternal('http://localhost/api'))->toBeTrue()
         ->and(Turbo::isUrlKirbyInternal('http://localhost/panel'))->toBeTrue()
         ->and(Turbo::isUrlKirbyInternal('http://localhost/media/1234567890'))->toBeTrue()
+        ->and(Turbo::isUrlKirbyInternal('http://localhost/panel-foo'))->toBeFalse()
         ->and(Turbo::isUrlKirbyInternal('http://localhost'))->toBeFalse()
         ->and(Turbo::isUrlKirbyInternal('http://localhost/else'))->toBeFalse();
 });
