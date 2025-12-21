@@ -191,6 +191,9 @@ final class Turbo
     public function execWithTurbo(): string
     {
         $root = $this->kirby->root('content');
+        if (! is_string($root) || $root === '') {
+            return '';
+        }
         $exec = escapeshellcmd($this->options['inventory.indexer']);
         $patterns = implode(',', $this->modelsWithTurboFilenamePatterns());
         $cmd = $exec.' --dir '.escapeshellarg($root).' --filenames '.escapeshellarg($patterns); // patterns used to filter which files tread content
@@ -204,6 +207,9 @@ final class Turbo
     public function execWithFind(): string
     {
         $root = $this->kirby->root('content');
+        if (! is_string($root) || $root === '') {
+            return '';
+        }
         $exec = escapeshellcmd($this->options['inventory.indexer']);
         /* all files need to be scanned
         $patterns = implode(' -o ', array_map(

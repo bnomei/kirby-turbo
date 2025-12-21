@@ -300,16 +300,13 @@ Kirby::plugin(
                     if (! is_array($values)) {
                         return $field->toFiles(); // @phpstan-ignore-line
                     }
+                    $files = [];
+                    $pages = [];
+                    $cache = kirby()->cache('uuid');
                     foreach ($values as $fileKey) {
                         if (! is_string($fileKey) || ! str_contains($fileKey, 'file://')) {
                             return $field->toFiles(); // @phpstan-ignore-line
                         }
-                    }
-
-                    $files = [];
-                    $pages = [];
-                    $cache = kirby()->cache('uuid');
-                    foreach ($values as $fileKey) { // @phpstan-ignore-line
                         $fileKey = 'file/'.substr($fileKey, 7, 2).'/'.substr($fileKey, 9);
                         if ($data = $cache->get($fileKey)) {
                             $parentUuid = is_array($data) ? A::get($data, 'parent') : null;
@@ -339,15 +336,12 @@ Kirby::plugin(
                     if (! is_array($values)) {
                         return $field->toPages(); // @phpstan-ignore-line
                     }
+                    $ids = [];
+                    $cache = kirby()->cache('uuid');
                     foreach ($values as $uuid) {
                         if (! is_string($uuid) || ! str_contains($uuid, 'page://')) {
                             return $field->toPages(); // @phpstan-ignore-line
                         }
-                    }
-
-                    $ids = [];
-                    $cache = kirby()->cache('uuid');
-                    foreach ($values as $uuid) {  // @phpstan-ignore-line
                         $key = 'page/'.substr($uuid, 7, 2).'/'.substr($uuid, 9);
                         $ids[] = $cache->get($key);
                     }
