@@ -298,13 +298,13 @@ Kirby::plugin(
                     $cache = kirby()->cache('uuid');
                     foreach ($field->yaml() as $fileKey) { // @phpstan-ignore-line
                         $fileKey = 'file/'.substr($fileKey, 7, 2).'/'.substr($fileKey, 9);
-                        if ($data =$cache->get($fileKey)) {
+                        if ($data = $cache->get($fileKey)) {
                             $parentUuid = is_array($data) ? A::get($data, 'parent') : null;
                             if (! $parentUuid) {
                                 continue;
                             }
                             $parentKey = 'page/'.substr($parentUuid, 7, 2).'/'.substr($parentUuid, 9);
-                            if ($parentId =$cache->get($parentKey)) {
+                            if ($parentId = $cache->get($parentKey)) {
                                 $pages[$parentId] = A::get($pages, $parentId, kirby()->page($parentId));
                                 $files[] = $pages[$parentId]?->file(A::get($data, 'filename'));
                             }
