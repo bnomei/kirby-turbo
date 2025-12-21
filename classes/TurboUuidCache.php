@@ -24,7 +24,7 @@ class TurboUuidCache extends FileCache
 
         $file = $this->file(''); // does not matter which key
 
-        // preload all
+        // preload all (duplicates are intentional; later lines overwrite earlier ones)
         foreach (array_filter(explode(PHP_EOL, F::read($file) ?: ''), fn ($v) => ! empty($v)) as $line) {
             [$created, $k, $value] = explode("\t", $line);
             $value = str_contains($value, ':') ? unserialize($value) : $value;
@@ -47,6 +47,8 @@ class TurboUuidCache extends FileCache
     {
         $file = $this->file($key);
         $created = time();
+        // Deliberate: we append instead of rewriting the file.
+        // On load, later lines overwrite earlier ones, so last write wins.
         $this->lines[$key] = new Value($value, $minutes, $created);
 
         $value = ! is_string($value) ? serialize($value) : $value;
