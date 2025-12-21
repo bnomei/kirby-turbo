@@ -224,14 +224,205 @@ fn split_dir_and_file(file_path: &str) -> Option<(&str, String)> {
 
 /// Parses the content of a file and splits it into key-value pairs as a HashMap
 fn content_from_string(text: &str) -> HashMap<String, String> {
+    if text.is_empty() {
+        return HashMap::new();
+    }
+
+    if is_fast_path_safe(text) {
+        return content_from_string_fast(text);
+    }
+
+    content_from_string_fallback(text)
+}
+
+fn is_fast_path_safe(text: &str) -> bool {
+    let bytes = text.as_bytes();
+    if bytes.starts_with(&[0xEF, 0xBB, 0xBF]) {
+        return false;
+    }
+    if bytes.iter().any(|b| *b == b'\r') {
+        return false;
+    }
+    if text.starts_with("----") {
+        return false;
+    }
+
+    for line in text.split('\n') {
+        if line.starts_with("\\----") {
+            return false;
+        }
+        if line.starts_with("----") {
+            if line.len() > 4 && line[4..].trim().is_empty() {
+                return false;
+            }
+            continue;
+        }
+        if line.ends_with("----") {
+            return false;
+        }
+    }
+
+    true
+}
+
+fn content_from_string_fast(text: &str) -> HashMap<String, String> {
     let mut result = HashMap::new();
     for yml in text.split("----\n") {
-        let parts: Vec<&str> = yml.splitn(2, ":").collect();
-        if parts.len() == 2 {
-            let key = parts[0].trim().to_lowercase();
-            let value = parts[1].trim().to_string();
+        if let Some((key, value)) = parse_field(yml) {
             result.insert(key, value);
         }
     }
     result
+}
+
+fn content_from_string_fallback(text: &str) -> HashMap<String, String> {
+    let mut normalized = text.replace("\r\n", "\n").replace('\r', "\n");
+    if let Some(stripped) = normalized.strip_prefix('\u{FEFF}') {
+        normalized = stripped.to_string();
+    }
+
+    let mut fields: Vec<String> = Vec::new();
+    let mut current = String::new();
+
+    for (index, line) in normalized.split('\n').enumerate() {
+        let is_separator = index > 0 && line.starts_with("----") && line[4..].trim().is_empty();
+        if is_separator {
+            fields.push(current);
+            current = String::new();
+            continue;
+        }
+
+        if !current.is_empty() {
+            current.push('\n');
+        }
+        current.push_str(line);
+    }
+    fields.push(current);
+
+    let mut result = HashMap::new();
+    for field in fields {
+        if let Some((key, value)) = parse_field(&field) {
+            result.insert(key, unescape_separators(&value));
+        }
+    }
+
+    result
+}
+
+fn parse_field(raw: &str) -> Option<(String, String)> {
+    let pos = raw.find(':')?;
+    if pos == 0 {
+        return None;
+    }
+
+    let mut key = raw[..pos].trim().to_lowercase();
+    if key.is_empty() {
+        return None;
+    }
+    key = key.replace('-', "_").replace(' ', "_");
+
+    let value = raw[pos + 1..].trim().to_string();
+
+    Some((key, value))
+}
+
+fn unescape_separators(value: &str) -> String {
+    let bytes = value.as_bytes();
+    let mut out = Vec::with_capacity(bytes.len());
+    let mut i = 0;
+    let mut line_start = true;
+
+    while i < bytes.len() {
+        if line_start
+            && bytes[i] == b'\\'
+            && i + 4 < bytes.len()
+            && bytes[i + 1] == b'-'
+            && bytes[i + 2] == b'-'
+            && bytes[i + 3] == b'-'
+            && bytes[i + 4] == b'-'
+        {
+            out.extend_from_slice(b"----");
+            i += 5;
+            line_start = false;
+            continue;
+        }
+
+        let b = bytes[i];
+        out.push(b);
+        i += 1;
+        line_start = b == b'\n';
+    }
+
+    String::from_utf8(out).unwrap_or_else(|_| value.to_string())
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+    use std::path::PathBuf;
+
+    fn fixture_path(relative: &str) -> PathBuf {
+        PathBuf::from(env!("CARGO_MANIFEST_DIR"))
+            .join("..")
+            .join(relative)
+    }
+
+    fn read_fixture(relative: &str) -> String {
+        std::fs::read_to_string(fixture_path(relative))
+            .expect("fixture file should be readable")
+    }
+
+    #[test]
+    fn parses_store_file_fast_path() {
+        let content = read_fixture("tests/content/store/store-1/store.txt");
+        let parsed = content_from_string(&content);
+
+        assert_eq!(parsed.get("title"), Some(&"Store 1".to_string()));
+        assert_eq!(parsed.get("store_id"), Some(&"1".to_string()));
+        assert_eq!(parsed.get("address"), Some(&"page://QXfNniA66zakdNBv".to_string()));
+        assert_eq!(parsed.get("uuid"), Some(&"84ohRKd6kBoYuc0q".to_string()));
+    }
+
+    #[test]
+    fn parses_customer_file_fast_path() {
+        let content = read_fixture("tests/content/customer/dennis-gilman/customer.txt");
+        let parsed = content_from_string(&content);
+
+        assert_eq!(parsed.get("customer_id"), Some(&"338".to_string()));
+        assert_eq!(parsed.get("first_name"), Some(&"DENNIS".to_string()));
+        assert_eq!(parsed.get("last_name"), Some(&"GILMAN".to_string()));
+        assert_eq!(parsed.get("active"), Some(&"1".to_string()));
+    }
+
+    #[test]
+    fn parses_film_file_fast_path() {
+        let content = read_fixture("tests/content/film/pirates-roxanne/film.txt");
+        let parsed = content_from_string(&content);
+
+        let features = parsed.get("special_features").expect("special_features should exist");
+        assert!(features.starts_with("Commentaries"));
+        assert!(features.contains("Deleted Scenes"));
+        assert_eq!(parsed.get("film_id"), Some(&"681".to_string()));
+        assert_eq!(parsed.get("release_year"), Some(&"2006".to_string()));
+    }
+
+    #[test]
+    fn parses_store_file_with_bom_crlf_and_escaped_separator() {
+        let content = read_fixture("tests/content/store/store-1/store.txt");
+        let mut mutated = content.replace('\n', "\r\n");
+        mutated = format!("\u{FEFF}{}", mutated);
+        mutated = mutated.replacen(
+            "Title: Store 1",
+            "Title:\r\nLine one\r\n\\----\r\nLine two",
+            1,
+        );
+
+        let parsed = content_from_string(&mutated);
+
+        assert_eq!(
+            parsed.get("title"),
+            Some(&"Line one\n----\nLine two".to_string())
+        );
+        assert_eq!(parsed.get("store_id"), Some(&"1".to_string()));
+    }
 }

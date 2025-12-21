@@ -1,6 +1,8 @@
 blueprint: page
 
 fields:
+  gallery:
+    type: files
   films:
     type: info
     label: Films
