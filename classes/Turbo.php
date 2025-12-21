@@ -83,7 +83,7 @@ final class Turbo
 
         // no data
         if (empty($output)) {
-            return ['data' => [], 'dirs' => []];
+            return ['files' => [], 'dirs' => []];
         }
 
         $root = $this->kirby->root('content') ?? '';
