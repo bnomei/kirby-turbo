@@ -30,6 +30,8 @@ class TurboLicense extends License
 
     private array $license;
 
+    private static ?LicenseStatus $cachedStatus = null;
+
     public function __construct(
         protected Plugin $plugin,
         protected string $name,
@@ -56,18 +58,22 @@ class TurboLicense extends License
 
     public function detectStatus(): LicenseStatus
     {
+        if (self::$cachedStatus !== null) {
+            return self::$cachedStatus;
+        }
+
         $status = $this->validate();
         if ($status) {
-            return $status;
+            return self::$cachedStatus = $status;
         }
 
         $status = $this->activate();
         if ($status) {
-            return $status;
+            return self::$cachedStatus = $status;
         }
 
         if ($this->isLocal) {
-            return new LicenseStatus(
+            return self::$cachedStatus = new LicenseStatus(
                 value: 'missing',
                 icon: 'cart',
                 label: t('license.buy'),
@@ -75,7 +81,7 @@ class TurboLicense extends License
             );
         }
 
-        return new LicenseStatus(
+        return self::$cachedStatus = new LicenseStatus(
             value: 'missing',
             icon: 'alert',
             label: t('license.status.missing.info').': '.t('license.buy').'!',
