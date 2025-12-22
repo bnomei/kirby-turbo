@@ -222,12 +222,12 @@ final class Turbo
         $cmd = $exec.' '.escapeshellarg($root).' -type f';
         if ($this->options['inventory.modified']) {
             $statFlag = '-f';
-            $statFormat = '%N\t%m';
+            $statFormat = "%N\t%m";
             if (PHP_OS_FAMILY === 'Linux') {
                 $statFlag = '-c';
-                $statFormat = '%n\t%Y';
+                $statFormat = "%n\t%Y";
             }
-            $cmd .= " -exec stat {$statFlag} '{$statFormat}' {} \\;";
+            $cmd .= " -exec stat {$statFlag} ".escapeshellarg($statFormat).' {} \\;';
         }
         // NOTE: find does not do content so no option here
         $output = shell_exec($cmd);
@@ -432,7 +432,7 @@ final class Turbo
     {
         $request ??= kirby()->request()->url()->toString();
         $requestPath = parse_url($request, PHP_URL_PATH);
-        if (!is_string($requestPath)) {
+        if (! is_string($requestPath)) {
             $requestPath = $request;
         }
         $requestPath = rtrim($requestPath, '/');
@@ -442,7 +442,7 @@ final class Turbo
             kirby()->urls()->media(),
         ] as $url) {
             $urlPath = parse_url($url, PHP_URL_PATH);
-            if (!is_string($urlPath)) {
+            if (! is_string($urlPath)) {
                 $urlPath = $url;
             }
             $urlPath = rtrim($urlPath, '/');
