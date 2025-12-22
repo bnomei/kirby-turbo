@@ -16,6 +16,13 @@ return [
     'cache' => ['uuid' => ['type' => 'turbo-uuid']],
     //    'cache' => ['uuid' => ['type' => 'file']],
 
+    // 'bnomei.turbo.inventory.compression' => true,
+    // 'bnomei.turbo.storage.compression' => true,
+    // 'bnomei.turbo.inventory.indexer' => 'find',
+    // 'bnomei.turbo.inventory.read' => false,
+    // 'bnomei.turbo.storage.read' => false,
+    // bnomei.turbo.storage.write' => false,
+
     'routes' => [
         [
             'pattern' => 'all', 'action' => function () {
