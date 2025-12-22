@@ -34,6 +34,7 @@ final class Turbo
         $this->options = array_merge([
             'debug' => option('debug'),
             'expire' => option('bnomei.turbo.expire'),
+            'default-template' => option('bnomei.turbo.default-template'),
             'storage.compression' => option('bnomei.turbo.storage.compression'),
             'storage.read' => option('bnomei.turbo.storage.read'),
             'storage.write' => option('bnomei.turbo.storage.write'),

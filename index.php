@@ -70,6 +70,7 @@ Kirby::plugin(
                 'tub' => ['active' => true, 'type' => 'turbo-redis', 'database' => 0],
             ],
             'expire' => 0, // 0 = forever, null to disable caching
+            'default-template' => false, // make sure to have a dedicated template file for each model if you turn this on
 
             'storage' => [
                 // add a IO mirror cache for the content storage
