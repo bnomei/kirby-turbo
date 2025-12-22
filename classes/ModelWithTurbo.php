@@ -12,7 +12,6 @@ declare(strict_types=1);
 
 namespace Bnomei;
 
-use Exception;
 use Kirby\Cms\File;
 use Kirby\Content\Storage;
 
@@ -40,10 +39,6 @@ trait ModelWithTurbo
 
     public function storage(): Storage
     {
-        if ($this->template()->name() === 'default' && Turbo::singleton()->options['default-template'] !== true) {
-            throw new Exception('Turbo can not be used on default template: '.$this->id().' [ '.get_class($this).']');
-        }
-
         return $this->storage ??= new TurboStorage(model: $this);
     }
 }
