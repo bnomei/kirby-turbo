@@ -80,6 +80,9 @@ async fn main() {
     let walker_thread = task::spawn_blocking(move || {
         WalkBuilder::new(&dir_cloned)
             .standard_filters(true)
+            // Don't let parent .gitignore (e.g. repo-level "content/")
+            // exclude the explicitly targeted directory.
+            .parents(false)
             .threads(num_cpus::get())
             .build_parallel()
             .run(move || {
