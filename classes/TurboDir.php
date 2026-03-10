@@ -108,14 +108,12 @@ class TurboDir extends Dir
             'template' => 'default',
         ];
 
-        // NOTE: changed to use TURBO by @bnomei
-        /*
+        // resolve symlinks so the path matches turbo cache keys
         $dir = realpath($dir);
 
         if ($dir === false) {
             return $inventory;
         }
-        */
 
         // a temporary store for all content files
         $content = [];

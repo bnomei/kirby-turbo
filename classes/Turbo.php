@@ -87,6 +87,7 @@ final class Turbo
         }
 
         $root = $this->kirby->root('content') ?? '';
+        $root = realpath($root) ?: '';
 
         // preloaded data as json
         if (strlen($output) > 2 &&
@@ -194,6 +195,7 @@ final class Turbo
         if (! is_string($root) || $root === '') {
             return '';
         }
+        $root = realpath($root) ?: $root;
         $exec = escapeshellcmd($this->options['inventory.indexer']);
         $patterns = implode(',', $this->modelsWithTurboFilenamePatterns());
         $cmd = $exec.' --dir '.escapeshellarg($root).' --filenames '.escapeshellarg($patterns); // patterns used to filter which files tread content
@@ -210,6 +212,7 @@ final class Turbo
         if (! is_string($root) || $root === '') {
             return '';
         }
+        $root = realpath($root) ?: $root;
         $exec = escapeshellcmd($this->options['inventory.indexer']);
         /* all files need to be scanned
         $patterns = implode(' -o ', array_map(
@@ -218,7 +221,7 @@ final class Turbo
         ));
         $cmd = "{$exec} '{$root}' -type f \( $patterns \)";
         */
-        $cmd = $exec.' '.escapeshellarg($root).' -type f';
+        $cmd = $exec . ' -L ' . escapeshellarg($root) . ' -type f';
         if ($this->options['inventory.modified']) {
             $statFlag = '-f';
             $statFormat = "%N\t%m";
