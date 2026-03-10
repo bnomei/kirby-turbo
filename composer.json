@@ -1,7 +1,7 @@
 {
     "name": "bnomei/kirby-turbo",
     "type": "kirby-plugin",
-    "version": "5.2.3",
+    "version": "5.2.4",
     "description": "Speed up Kirby with caching",
     "license": "proprietary",
     "authors": [
