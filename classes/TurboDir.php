@@ -18,14 +18,41 @@ use Kirby\Toolkit\Str;
 
 class TurboDir extends Dir
 {
+    protected static function resolveDirKey(string $dir): ?string
+    {
+        $dirs = Turbo::singleton()->dirs();
+
+        if (array_key_exists($dir, $dirs)) {
+            return $dir;
+        }
+
+        $realpath = realpath($dir);
+
+        return $realpath !== false && array_key_exists($realpath, $dirs) ? $realpath : null;
+    }
+
+    protected static function resolveFilePath(string $path): ?string
+    {
+        $files = Turbo::singleton()->files();
+        $key = '#'.hash('xxh3', $path);
+
+        if (array_key_exists($key, $files)) {
+            return $path;
+        }
+
+        $realpath = realpath($path);
+
+        return $realpath !== false && array_key_exists('#'.hash('xxh3', $realpath), $files) ? $realpath : null;
+    }
+
     public static function is_dir(string $dir): bool
     {
-        return array_key_exists($dir, Turbo::singleton()->dirs());
+        return static::resolveDirKey($dir) !== null;
     }
 
     public static function is_file(string $path): bool
     {
-        return array_key_exists('#'.hash('xxh3', $path), Turbo::singleton()->files());
+        return static::resolveFilePath($path) !== null;
     }
 
     public static function scandir(string $dir): array
@@ -34,6 +61,8 @@ class TurboDir extends Dir
         // $scandir = scandir($dir);
 
         // using TURBO from batch-loaded via command
+        $dir = static::resolveDirKey($dir) ?? $dir;
+
         return A::get(Turbo::singleton()->dirs(), $dir, []);
     }
 
@@ -42,6 +71,8 @@ class TurboDir extends Dir
      */
     public static function read(string $dir, ?array $ignore = null, bool $absolute = false): array
     {
+        $dir = static::resolveDirKey($dir) ?? $dir;
+
         // NOTE: changed to use TURBO by @bnomei
         if (static::is_dir($dir) === false) {
             return [];
@@ -71,6 +102,8 @@ class TurboDir extends Dir
         ?string $format = null,
         ?string $handler = null
     ): int|string {
+        $dir = static::resolveDirKey($dir) ?? $dir;
+
         if (Turbo::singleton()->options['inventory.modified'] !== true) {
             return Dir::modified($dir, $format, $handler);
         }
@@ -102,20 +135,13 @@ class TurboDir extends Dir
         ?array $contentIgnore = null,
         bool $multilang = false
     ): array {
+        $dir = static::resolveDirKey($dir) ?? $dir;
+
         $inventory = [
             'children' => [],
             'files' => [],
             'template' => 'default',
         ];
-
-        // NOTE: changed to use TURBO by @bnomei
-        /*
-        $dir = realpath($dir);
-
-        if ($dir === false) {
-            return $inventory;
-        }
-        */
 
         // a temporary store for all content files
         $content = [];

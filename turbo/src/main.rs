@@ -1,21 +1,21 @@
 use clap::Parser;
-use serde::Serialize;
-use tokio::fs;
-use tokio::task;
-use tokio::time::Instant;
-use ignore::WalkBuilder;
-use tokio::sync::mpsc;
 use futures::stream::StreamExt;
+use ignore::WalkBuilder;
+use num_cpus;
+use serde::Serialize;
 use std::collections::{HashMap, HashSet};
 use std::path::{Path, PathBuf};
 use std::time::{SystemTime, UNIX_EPOCH};
-use num_cpus;
+use tokio::fs;
+use tokio::sync::mpsc;
+use tokio::task;
+use tokio::time::Instant;
 
 /// Metadata information
 #[derive(Serialize, Debug)]
 struct Meta {
-    duration_ms: u128,    // Execution duration in milliseconds
-    timestamp: u64,       // Current time in seconds since UNIX epoch
+    duration_ms: u128, // Execution duration in milliseconds
+    timestamp: u64,    // Current time in seconds since UNIX epoch
 }
 
 /// Struct representing file information
@@ -31,9 +31,9 @@ struct FileInfo {
 /// Struct representing the final output (files, directories, and meta information)
 #[derive(Serialize, Debug)]
 struct Output {
-    files: HashMap<String, FileInfo>,   // File path as the key, FileInfo as the value
+    files: HashMap<String, FileInfo>, // File path as the key, FileInfo as the value
     dirs: HashMap<String, Vec<String>>, // Directory path as the key, list of filenames as the value
-    meta: Meta,                         // Metadata about execution time and timestamp
+    meta: Meta,                       // Metadata about execution time and timestamp
 }
 
 /// CLI program to list files' metadata
@@ -60,7 +60,7 @@ struct Args {
 #[tokio::main]
 async fn main() {
     let args = Args::parse();
-    let dir = args.dir.clone();
+    let dir = canonicalize_scan_root(&args.dir);
     let dir_cloned = dir.clone();
     let allowed_files: HashSet<String> = args
         .filenames
@@ -103,10 +103,17 @@ async fn main() {
     let files = futures::stream::unfold(&mut rx, |rx| async {
         rx.recv().await.map(|path| (path, rx))
     })
-        .map(|path| process_file(path, include_modification_date, read_content, allowed_files.clone()))
-        .buffer_unordered(concurrency_limit)
-        .collect::<Vec<_>>()
-        .await;
+    .map(|path| {
+        process_file(
+            path,
+            include_modification_date,
+            read_content,
+            allowed_files.clone(),
+        )
+    })
+    .buffer_unordered(concurrency_limit)
+    .collect::<Vec<_>>()
+    .await;
 
     if walker_thread.await.is_err() {
         eprintln!("Error in directory traversal.");
@@ -126,18 +133,28 @@ async fn main() {
     println!("{}", json_output);
 }
 
+fn canonicalize_scan_root(dir: &str) -> String {
+    PathBuf::from(dir)
+        .canonicalize()
+        .unwrap_or_else(|_| PathBuf::from(dir))
+        .to_string_lossy()
+        .to_string()
+}
+
 /// Processes a single file, collecting metadata and parsing content if necessary
 async fn process_file(
     path: PathBuf,
     include_modification_date: bool,
     read_content: bool,
-    allowed_files: HashSet<String>
+    allowed_files: HashSet<String>,
 ) -> FileInfo {
     let path_str = path.display().to_string();
-    let dir_str = path.parent()
+    let dir_str = path
+        .parent()
         .map(|p| p.display().to_string())
         .unwrap_or_else(|| String::from("<unknown>"));
-    let filename = path.file_name()
+    let filename = path
+        .file_name()
         .and_then(|name| name.to_str())
         .map(|name| name.to_string())
         .unwrap_or_else(|| String::from("<unknown>"));
@@ -367,7 +384,13 @@ fn unescape_separators(value: &str) -> String {
 #[cfg(test)]
 mod tests {
     use super::*;
+    use std::fs;
     use std::path::PathBuf;
+    use std::sync::atomic::{AtomicU64, Ordering};
+    use std::time::{SystemTime, UNIX_EPOCH};
+
+    #[cfg(unix)]
+    use std::os::unix::fs::symlink;
 
     fn fixture_path(relative: &str) -> PathBuf {
         PathBuf::from(env!("CARGO_MANIFEST_DIR"))
@@ -376,8 +399,20 @@ mod tests {
     }
 
     fn read_fixture(relative: &str) -> String {
-        std::fs::read_to_string(fixture_path(relative))
-            .expect("fixture file should be readable")
+        std::fs::read_to_string(fixture_path(relative)).expect("fixture file should be readable")
+    }
+
+    fn temp_path(name: &str) -> PathBuf {
+        static COUNTER: AtomicU64 = AtomicU64::new(0);
+        let unique = COUNTER.fetch_add(1, Ordering::Relaxed);
+
+        std::env::temp_dir().join(format!(
+            "kirby-turbo-{name}-{}-{unique}",
+            SystemTime::now()
+                .duration_since(UNIX_EPOCH)
+                .expect("time should be monotonic")
+                .as_nanos()
+        ))
     }
 
     #[test]
@@ -387,7 +422,10 @@ mod tests {
 
         assert_eq!(parsed.get("title"), Some(&"Store 1".to_string()));
         assert_eq!(parsed.get("store_id"), Some(&"1".to_string()));
-        assert_eq!(parsed.get("address"), Some(&"page://QXfNniA66zakdNBv".to_string()));
+        assert_eq!(
+            parsed.get("address"),
+            Some(&"page://QXfNniA66zakdNBv".to_string())
+        );
         assert_eq!(parsed.get("uuid"), Some(&"84ohRKd6kBoYuc0q".to_string()));
     }
 
@@ -407,7 +445,9 @@ mod tests {
         let content = read_fixture("tests/content/film/pirates-roxanne/film.txt");
         let parsed = content_from_string(&content);
 
-        let features = parsed.get("special_features").expect("special_features should exist");
+        let features = parsed
+            .get("special_features")
+            .expect("special_features should exist");
         assert!(features.starts_with("Commentaries"));
         assert!(features.contains("Deleted Scenes"));
         assert_eq!(parsed.get("film_id"), Some(&"681".to_string()));
@@ -432,5 +472,32 @@ mod tests {
             Some(&"Line one\n----\nLine two".to_string())
         );
         assert_eq!(parsed.get("store_id"), Some(&"1".to_string()));
+    }
+
+    #[cfg(unix)]
+    #[test]
+    fn canonicalizes_symlinked_scan_roots() {
+        let root = temp_path("symlink-root");
+        let real = root.join("real-content");
+        let link = root.join("content-link");
+
+        fs::create_dir_all(real.join("nested")).expect("real directory should be created");
+        fs::write(
+            real.join("nested").join("default.txt"),
+            "Title: Nested\n----\n",
+        )
+        .expect("fixture file should be written");
+        symlink(&real, &link).expect("symlink should be created");
+
+        let canonical = canonicalize_scan_root(link.to_str().expect("utf-8 path"));
+        let expected = real
+            .canonicalize()
+            .expect("real directory should canonicalize")
+            .to_string_lossy()
+            .to_string();
+
+        assert_eq!(canonical, expected);
+
+        fs::remove_dir_all(&root).expect("temporary root should be removed");
     }
 }

@@ -77,6 +77,22 @@ final class Turbo
         return $this->data['dirs'] ?? [];
     }
 
+    private function normalizePath(?string $path): ?string
+    {
+        if (! is_string($path) || $path === '') {
+            return null;
+        }
+
+        $realpath = realpath($path);
+
+        return $realpath !== false ? $realpath : $path;
+    }
+
+    private function contentRoot(): ?string
+    {
+        return $this->normalizePath($this->kirby->root('content'));
+    }
+
     public function unwrap(string $output): array
     {
         $output = trim($output);
@@ -86,7 +102,7 @@ final class Turbo
             return ['files' => [], 'dirs' => []];
         }
 
-        $root = $this->kirby->root('content') ?? '';
+        $root = $this->contentRoot() ?? '';
 
         // preloaded data as json
         if (strlen($output) > 2 &&
@@ -190,8 +206,8 @@ final class Turbo
 
     public function execWithTurbo(): string
     {
-        $root = $this->kirby->root('content');
-        if (! is_string($root) || $root === '') {
+        $root = $this->contentRoot();
+        if ($root === null) {
             return '';
         }
         $exec = escapeshellcmd($this->options['inventory.indexer']);
@@ -206,8 +222,8 @@ final class Turbo
 
     public function execWithFind(): string
     {
-        $root = $this->kirby->root('content');
-        if (! is_string($root) || $root === '') {
+        $root = $this->contentRoot();
+        if ($root === null) {
             return '';
         }
         $exec = escapeshellcmd($this->options['inventory.indexer']);
@@ -218,6 +234,8 @@ final class Turbo
         ));
         $cmd = "{$exec} '{$root}' -type f \( $patterns \)";
         */
+        // The root is already canonicalized; avoid -L so the find fallback
+        // does not recurse into nested symlinked directories that turbo skips.
         $cmd = $exec.' '.escapeshellarg($root).' -type f';
         if ($this->options['inventory.modified']) {
             $statFlag = '-f';
@@ -343,11 +361,15 @@ final class Turbo
             return $modified;
         }
 
+        $root = $this->normalizePath($root) ?? $root;
+
         return A::get($this->files(), '#'.hash('xxh3', $root).'.modified', null);
     }
 
     public function content(string $root): ?array
     {
+        $root = $this->normalizePath($root) ?? $root;
+
         return A::get($this->files(), '#'.hash('xxh3', $root).'.content', null);
     }
 
