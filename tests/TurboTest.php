@@ -2,6 +2,7 @@
 
 use Bnomei\AbortCachingException;
 use Bnomei\Turbo;
+use Bnomei\TurboDir;
 use Bnomei\TurboRedisCache;
 use Bnomei\TurboStopwatch;
 use Bnomei\TurboStorage;
@@ -66,6 +67,73 @@ it('can run the turbo-indexer', function () {
         ->and(count($firstFile['content']))->toBeGreaterThan(0)
         ->and($firstFile['dir'])->toStartWith('@/')
         ->and($firstFile['path'])->toStartWith($firstFile['dir']);
+});
+
+it('normalizes symlinked turbo inventory lookups', function () {
+    if (! function_exists('symlink')) {
+        test()->markTestSkipped('Symlink support is required for this test.');
+    }
+
+    $base = sys_get_temp_dir().'/kirby-turbo-symlink-'.bin2hex(random_bytes(8));
+    $realRoot = $base.'/releases/1/content';
+    $linkRoot = $base.'/current-content';
+    $realDir = $realRoot.'/page';
+    $realFile = $realDir.'/default.txt';
+
+    Dir::make($realDir, true);
+    F::write($realFile, "Title: Test\n");
+    symlink($realRoot, $linkRoot);
+
+    $canonicalRoot = realpath($realRoot);
+    $canonicalDir = realpath($realDir);
+    $canonicalFile = realpath($realFile);
+
+    expect($canonicalRoot)->toBeString()
+        ->and($canonicalDir)->toBeString()
+        ->and($canonicalFile)->toBeString();
+
+    $data = [
+        'files' => [
+            '#'.hash('xxh3', $canonicalFile) => [
+                'dir' => $canonicalDir,
+                'path' => $canonicalFile,
+                'slug' => 'default.txt',
+                'modified' => 1_763_155_858,
+                'content' => ['title' => 'Test'],
+            ],
+        ],
+        'dirs' => [
+            $canonicalRoot => ['page'],
+            $canonicalDir => ['default.txt'],
+        ],
+    ];
+
+    try {
+        $turbo = Turbo::singleton([
+            'inventory.enabled' => true,
+        ], true);
+
+        $reflection = new \ReflectionClass($turbo);
+        $property = $reflection->getProperty('data');
+        $property->setValue($turbo, $data);
+
+        expect($turbo->modified($linkRoot.'/page/default.txt'))->toBe(1_763_155_858)
+            ->and($turbo->content($linkRoot.'/page/default.txt'))->toBe(['title' => 'Test'])
+            ->and(TurboDir::is_dir($linkRoot.'/page'))->toBeTrue()
+            ->and(TurboDir::is_file($linkRoot.'/page/default.txt'))->toBeTrue()
+            ->and(TurboDir::read($linkRoot, null, true))->toBe([$canonicalDir])
+            ->and(TurboDir::inventory($linkRoot)['children'][0]['root'])->toBe($canonicalDir);
+    } finally {
+        Turbo::singleton([], true);
+
+        if (is_link($linkRoot)) {
+            unlink($linkRoot);
+        }
+
+        if (is_dir($base)) {
+            Dir::remove($base);
+        }
+    }
 });
 
 it('can flush caches', function () {
