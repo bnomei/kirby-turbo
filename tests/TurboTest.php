@@ -65,8 +65,37 @@ it('can run the turbo-indexer', function () {
         ->and($firstFile['modified'])->toBeInt()
         ->and($firstFile['content'])->toBeArray()
         ->and(count($firstFile['content']))->toBeGreaterThan(0)
-        ->and($firstFile['dir'])->toStartWith('@/')
+        ->and($firstFile['dir'])->toStartWith('@~/')
         ->and($firstFile['path'])->toStartWith($firstFile['dir']);
+});
+
+it('uses a reserved root sentinel without rewriting old at-slash content values', function () {
+    $root = realpath(kirby()->root('content')) ?: kirby()->root('content');
+    $t = new Turbo;
+
+    $data = $t->unwrap(json_encode([
+        'files' => [
+            '#x' => [
+                'dir' => '@~/page',
+                'path' => '@~/page/default.txt',
+                'slug' => 'default.txt',
+                'modified' => 1,
+                'content' => [
+                    'note' => '@/do-not-rewrite',
+                ],
+            ],
+        ],
+        'dirs' => [
+            '@~' => ['page'],
+            '@~/page' => ['default.txt'],
+        ],
+    ], JSON_THROW_ON_ERROR));
+
+    expect($data['files']['#x']['dir'])->toBe($root.'/page')
+        ->and($data['files']['#x']['path'])->toBe($root.'/page/default.txt')
+        ->and($data['files']['#x']['content']['note'])->toBe('@/do-not-rewrite')
+        ->and($data['dirs'])->toHaveKey($root)
+        ->and($data['dirs'])->toHaveKey($root.'/page');
 });
 
 it('normalizes symlinked turbo inventory lookups', function () {

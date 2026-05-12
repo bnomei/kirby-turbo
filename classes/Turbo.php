@@ -22,6 +22,8 @@ use ReflectionClass;
 
 final class Turbo
 {
+    private const ROOT_SENTINEL = '@~';
+
     private App $kirby;
 
     private ?array $data = null;
@@ -109,7 +111,7 @@ final class Turbo
             str_starts_with($output, '{') &&
             str_ends_with($output, '}')
         ) {
-            $output = str_replace('"@/', '"'.$root.'/', $output);
+            $output = str_replace(self::ROOT_SENTINEL, $root, $output);
             $all = json_decode($output, true);
             if (is_array($all)) {
                 $dirs = A::get($all, 'dirs', []);

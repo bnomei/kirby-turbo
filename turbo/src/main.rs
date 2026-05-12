@@ -11,6 +11,8 @@ use tokio::sync::mpsc;
 use tokio::task;
 use tokio::time::Instant;
 
+const ROOT_SENTINEL: &str = "@~";
+
 /// Metadata information
 #[derive(Serialize, Debug)]
 struct Meta {
@@ -128,7 +130,7 @@ async fn main() {
 
     let output = build_output(files, duration.as_millis(), current_time);
     let json_output = serde_json::to_string(&output).unwrap();
-    let json_output = json_output.replace(&dir, "@");
+    let json_output = json_output.replace(&dir, ROOT_SENTINEL);
 
     println!("{}", json_output);
 }
