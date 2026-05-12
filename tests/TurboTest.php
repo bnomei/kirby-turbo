@@ -174,6 +174,98 @@ it('can flush caches', function () {
         ->and(Turbo::flush('tub'))->toBeTrue();
 });
 
+it('clears loaded inventory data when flushing the inventory cache', function () {
+    $root = realpath(kirby()->root('content')) ?: kirby()->root('content');
+    $path = $root.'/stale.txt';
+    $data = [
+        'files' => [
+            '#'.hash('xxh3', $path) => [
+                'dir' => $root,
+                'path' => $path,
+                'slug' => 'stale.txt',
+                'modified' => 1,
+                'content' => ['title' => 'Stale'],
+            ],
+        ],
+        'dirs' => [
+            $root => ['stale.txt'],
+        ],
+    ];
+
+    try {
+        $turbo = Turbo::singleton([
+            'inventory.enabled' => true,
+        ], true);
+
+        $reflection = new \ReflectionClass($turbo);
+        $property = $reflection->getProperty('data');
+        $property->setValue($turbo, $data);
+
+        expect($turbo->content($path))->toBe(['title' => 'Stale'])
+            ->and($property->getValue($turbo))->toBe($data)
+            ->and(Turbo::flush('inventory'))->toBeTrue()
+            ->and($property->getValue($turbo))->toBeNull();
+    } finally {
+        Turbo::singleton([], true);
+    }
+});
+
+it('flushes loaded inventory data from after mutation hooks', function () {
+    $root = realpath(kirby()->root('content')) ?: kirby()->root('content');
+    $path = $root.'/stale.txt';
+    $data = [
+        'files' => [
+            '#'.hash('xxh3', $path) => [
+                'dir' => $root,
+                'path' => $path,
+                'slug' => 'stale.txt',
+                'modified' => 1,
+                'content' => ['title' => 'Stale'],
+            ],
+        ],
+        'dirs' => [
+            $root => ['stale.txt'],
+        ],
+    ];
+
+    $renderEvent = new class
+    {
+        public function action(): string
+        {
+            return 'render';
+        }
+    };
+    $mutationEvent = new class
+    {
+        public function action(): string
+        {
+            return 'update';
+        }
+    };
+
+    try {
+        $turbo = Turbo::singleton([
+            'inventory.enabled' => true,
+        ], true);
+        $property = (new \ReflectionClass($turbo))->getProperty('data');
+
+        foreach (['site.*:after', 'page.*:after', 'file.*:after', 'user.*:after'] as $hookName) {
+            $hook = kirby()->extensions('hooks')[$hookName][0] ?? null;
+
+            expect($hook)->toBeInstanceOf(\Closure::class);
+
+            $property->setValue($turbo, $data);
+            $hook($renderEvent);
+            expect($property->getValue($turbo))->toBe($data);
+
+            $hook($mutationEvent);
+            expect($property->getValue($turbo))->toBeNull();
+        }
+    } finally {
+        Turbo::singleton([], true);
+    }
+});
+
 it('can detect Kirby internal URLs', function () {
     expect(Turbo::isUrlKirbyInternal('http://localhost/api'))->toBeTrue()
         ->and(Turbo::isUrlKirbyInternal('http://localhost/panel'))->toBeTrue()

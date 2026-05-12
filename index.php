@@ -49,6 +49,12 @@ if (! function_exists('tubs')) {
     }
 }
 
+$flushInventoryOnMutation = function ($event, ...$_): void {
+    if ($event->action() !== 'render') {
+        Turbo::flush('inventory');
+    }
+};
+
 Kirby::plugin(
     name: 'bnomei/turbo',
     license: fn ($plugin) => new TurboLicense($plugin, TurboLicense::NAME),
@@ -224,26 +230,14 @@ Kirby::plugin(
                     TurboStopwatch::tick('route:after');
                 }
             },
-            'site.*:before' => function ($event, $site) {
-                if ($event->action() !== 'render') {
-                    Turbo::flush('inventory');
-                }
-            },
-            'page.*:before' => function ($event, $page) {
-                if ($event->action() !== 'render') {
-                    Turbo::flush('inventory');
-                }
-            },
-            'file.*:before' => function ($event, $file) {
-                if ($event->action() !== 'render') {
-                    Turbo::flush('inventory');
-                }
-            },
-            'user.*:before' => function ($event, $user) {
-                if ($event->action() !== 'render') {
-                    Turbo::flush('inventory');
-                }
-            },
+            'site.*:before' => $flushInventoryOnMutation,
+            'site.*:after' => $flushInventoryOnMutation,
+            'page.*:before' => $flushInventoryOnMutation,
+            'page.*:after' => $flushInventoryOnMutation,
+            'file.*:before' => $flushInventoryOnMutation,
+            'file.*:after' => $flushInventoryOnMutation,
+            'user.*:before' => $flushInventoryOnMutation,
+            'user.*:after' => $flushInventoryOnMutation,
             'page.render:before' => function (string $contentType, array $data, Page $page) {
                 TurboStopwatch::tick('page.render:before');
 

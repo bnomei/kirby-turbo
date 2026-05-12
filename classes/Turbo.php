@@ -414,6 +414,11 @@ final class Turbo
         return $this->cache('tub');
     }
 
+    private function reset(): void
+    {
+        $this->data = null;
+    }
+
     private static ?self $singleton = null;
 
     public static function singleton(array $options = [], bool $force = false): Turbo
@@ -441,6 +446,10 @@ final class Turbo
                 $caches[] = $cache;
             }
             foreach ($caches as $c) {
+                if ($c === 'inventory') {
+                    self::$singleton?->reset();
+                }
+
                 kirby()->cache('bnomei.turbo.'.$c)->flush();
             }
 
