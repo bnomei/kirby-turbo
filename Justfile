@@ -32,3 +32,21 @@ build-bins: build-linux build-darwin
 verify-bins:
     file "{{root}}/bin/turbo" "{{root}}/bin/turbo-darwin"
     lipo -archs "{{root}}/bin/turbo-darwin"
+
+compose-config:
+    docker compose config
+
+compose-up:
+    docker compose up --build
+
+compose-down:
+    docker compose down
+
+compose-shell:
+    docker compose exec frankenphp sh
+
+compose-redis-cli:
+    docker compose exec redis redis-cli
+
+compose-pest:
+    docker compose exec frankenphp php -d memory_limit=512M ./vendor/bin/pest tests/TurboTest.php

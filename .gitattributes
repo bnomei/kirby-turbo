@@ -3,6 +3,8 @@
 
 /*-lock.json        export-ignore
 /.*                 export-ignore
+/Justfile           export-ignore
+/docker             export-ignore
 /docker-compose.yml export-ignore
 /docs               export-ignore
 /examples           export-ignore
