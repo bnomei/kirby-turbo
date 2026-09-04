@@ -56,17 +56,21 @@ final class Turbo
 
     public function files(): array
     {
+        // Non-read requests use Kirby's live filesystem inventory instead
+        // of rebuilding a Turbo snapshot that mutation hooks may discard.
+        if (! $this->smartInventory()) {
+            return [];
+        }
+
         // lazy load
         if ($this->data === null) {
             $this->data = [
                 'files' => [],
                 'dirs' => [],
             ];
-            if ($this->smartInventory()) {
-                TurboStopwatch::tick('turbo.read:before');
-                $this->data = $this->read();
-                TurboStopwatch::tick('turbo.read:after');
-            }
+            TurboStopwatch::tick('turbo.read:before');
+            $this->data = $this->read();
+            TurboStopwatch::tick('turbo.read:after');
         }
 
         return $this->data['files'];
@@ -74,6 +78,10 @@ final class Turbo
 
     public function dirs(): array
     {
+        if (! $this->smartInventory()) {
+            return [];
+        }
+
         $this->files(); // ensure data is loaded
 
         return $this->data['dirs'] ?? [];
@@ -333,6 +341,12 @@ final class Turbo
 
     public function smartInventory(): bool
     {
+        // Match Kirby's safe HTTP-method boundary: non-read requests must
+        // not load or cache a potentially pre-mutation snapshot.
+        if (! in_array($this->kirby->request()->method(), ['GET', 'HEAD'], true)) {
+            return false;
+        }
+
         $enabled = $this->options['inventory.enabled'];
         if ($enabled instanceof \Closure) {
             $enabled = $enabled();

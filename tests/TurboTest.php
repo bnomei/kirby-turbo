@@ -266,6 +266,44 @@ it('flushes loaded inventory data from after mutation hooks', function () {
     }
 });
 
+it('bypasses cached inventory on non-read requests', function () {
+    $request = kirby()->request();
+    $requestMethod = (new ReflectionClass($request))->getProperty('method');
+    $originalMethod = $requestMethod->getValue($request);
+    $data = [
+        'files' => ['cached-file'],
+        'dirs' => ['cached-dir'],
+    ];
+
+    try {
+        $turbo = Turbo::singleton([
+            'inventory.enabled' => true,
+        ], true);
+        $property = (new ReflectionClass($turbo))->getProperty('data');
+        $property->setValue($turbo, $data);
+
+        foreach (['POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'] as $method) {
+            $requestMethod->setValue($request, $method);
+
+            expect($turbo->smartInventory())->toBeFalse()
+                ->and($turbo->files())->toBeEmpty()
+                ->and($turbo->dirs())->toBeEmpty()
+                ->and($property->getValue($turbo))->toBe($data);
+        }
+
+        foreach (['GET', 'HEAD'] as $method) {
+            $requestMethod->setValue($request, $method);
+
+            expect($turbo->smartInventory())->toBeTrue()
+                ->and($turbo->files())->toBe($data['files'])
+                ->and($turbo->dirs())->toBe($data['dirs']);
+        }
+    } finally {
+        $requestMethod->setValue($request, $originalMethod);
+        Turbo::singleton([], true);
+    }
+});
+
 it('can detect Kirby internal URLs', function () {
     expect(Turbo::isUrlKirbyInternal('http://localhost/api'))->toBeTrue()
         ->and(Turbo::isUrlKirbyInternal('http://localhost/panel'))->toBeTrue()
