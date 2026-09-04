@@ -2,6 +2,7 @@ name: turbo
 
 services:
   frankenphp:
+    image: turbo-frankenphp:1.12.1-php8.4-bookworm
     build:
       context: .
       dockerfile: docker/frankenphp/Dockerfile
@@ -39,17 +40,17 @@ services:
         exec frankenphp php-server --root /app/tests/public --listen :80 --access-log
 
   redis:
-    image: redis:7.4-bookworm
+    image: valkey/valkey:9.0.3-alpine
     command:
-      - redis-server
-      - /usr/local/etc/redis/redis.conf
+      - valkey-server
+      - /tmp/valkey.conf
     ports:
       - "127.0.0.1:63790:6379"
     volumes:
-      - ./docker/redis/redis.conf:/usr/local/etc/redis/redis.conf:ro
+      - ./docker/redis/redis.conf:/tmp/valkey.conf:ro
       - redis_data:/data
     healthcheck:
-      test: ["CMD", "redis-cli", "-h", "127.0.0.1", "ping"]
+      test: ["CMD", "valkey-cli", "-h", "127.0.0.1", "ping"]
       interval: 5s
       timeout: 3s
       retries: 10
