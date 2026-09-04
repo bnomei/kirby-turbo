@@ -222,7 +222,7 @@ Kirby::plugin(
             ],
         ],
         'hooks' => [
-            'route:before' => function (Kirby\Http\Route $route, string $path, string $method) {
+            'route:before' => function (Route $route, string $path, string $method) {
                 TurboStopwatch::tick('route:before');
             },
             'route:after' => function (Route $route, string $path, string $method, $result, bool $final) {

@@ -3,6 +3,7 @@
 use Bnomei\AbortCachingException;
 use Bnomei\Turbo;
 use Bnomei\TurboDir;
+use Bnomei\TurboPage;
 use Bnomei\TurboRedisCache;
 use Bnomei\TurboStopwatch;
 use Bnomei\TurboStorage;
@@ -142,7 +143,7 @@ it('normalizes symlinked turbo inventory lookups', function () {
             'inventory.enabled' => true,
         ], true);
 
-        $reflection = new \ReflectionClass($turbo);
+        $reflection = new ReflectionClass($turbo);
         $property = $reflection->getProperty('data');
         $property->setValue($turbo, $data);
 
@@ -197,7 +198,7 @@ it('clears loaded inventory data when flushing the inventory cache', function ()
             'inventory.enabled' => true,
         ], true);
 
-        $reflection = new \ReflectionClass($turbo);
+        $reflection = new ReflectionClass($turbo);
         $property = $reflection->getProperty('data');
         $property->setValue($turbo, $data);
 
@@ -247,12 +248,12 @@ it('flushes loaded inventory data from after mutation hooks', function () {
         $turbo = Turbo::singleton([
             'inventory.enabled' => true,
         ], true);
-        $property = (new \ReflectionClass($turbo))->getProperty('data');
+        $property = (new ReflectionClass($turbo))->getProperty('data');
 
         foreach (['site.*:after', 'page.*:after', 'file.*:after', 'user.*:after'] as $hookName) {
             $hook = kirby()->extensions('hooks')[$hookName][0] ?? null;
 
-            expect($hook)->toBeInstanceOf(\Closure::class);
+            expect($hook)->toBeInstanceOf(Closure::class);
 
             $property->setValue($turbo, $data);
             $hook($renderEvent);
@@ -460,7 +461,7 @@ it('can read from the raw content file (skipping storage and inventory cache) fo
         'storage.read' => false,
     ], true);
 
-    /** @var \Bnomei\TurboPage $page */
+    /** @var TurboPage $page */
     $page = page('film')?->children()->first();
     expect($page->hasTurbo())->toBeTrue()
         ->and($page->storage())->toBeInstanceOf(TurboStorage::class)

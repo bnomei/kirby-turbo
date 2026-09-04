@@ -1,5 +1,7 @@
 <?php
 
+use Kirby\Cms\Page;
+
 return [
     'editor' => 'phpstorm',
     'debug' => true,
@@ -26,7 +28,7 @@ return [
     'routes' => [
         [
             'pattern' => 'all', 'action' => function () {
-                return site()->visit(new \Kirby\Cms\Page([
+                return site()->visit(new Page([
                     'slug' => 'all',
                     'template' => 'all',
                     'content' => [
