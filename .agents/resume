@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+helpers="tests/kirby/config/helpers.php"
+if [[ -f "$helpers" ]]; then
+    sed -i \
+        -e 's/function dump(/function xdump(/g' \
+        -e 's/function e(/function xe(/g' \
+        "$helpers"
+fi

@@ -1,0 +1,14 @@
+services:
+  web:
+    command: >-
+      KIRBY_HOST="${PUBLIC_URL#*://}"
+      frankenphp php-server
+      --root "$PWD/tests/public"
+      --listen ":$PORT"
+      --access-log
+    health: /
+    portal:
+      title: Kirby Turbo
+      description: Kirby Turbo's test site, served by FrankenPHP.
+    agent: control
+    platforms: [linux]

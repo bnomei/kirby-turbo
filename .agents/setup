@@ -1,0 +1,93 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+readonly FRANKENPHP_VERSION="1.12.1"
+readonly FRANKENPHP_PATH="/usr/local/bin/frankenphp"
+
+echo "[orb setup] Installing the PHP CLI and extensions"
+if [[ ! -f /etc/apt/sources.list.d/php.list ]]; then
+    sury_keyring="$(mktemp)"
+    trap 'rm -f "$sury_keyring"' EXIT
+    curl -fsSL https://packages.sury.org/debsuryorg-archive-keyring.deb -o "$sury_keyring"
+    sudo dpkg -i "$sury_keyring"
+    echo 'deb [signed-by=/usr/share/keyrings/debsuryorg-archive-keyring.gpg] https://packages.sury.org/php/ bookworm main' \
+        | sudo tee /etc/apt/sources.list.d/php.list >/dev/null
+    rm -f "$sury_keyring"
+    trap - EXIT
+    sudo apt-get update
+fi
+
+packages=(
+    php8.4-cli
+    php8.4-curl
+    php8.4-gd
+    php8.4-intl
+    php8.4-mbstring
+    php8.4-redis
+    php8.4-xml
+    php8.4-xdebug
+    php8.4-zip
+    redis-server
+)
+
+missing_packages=()
+for package in "${packages[@]}"; do
+    if ! dpkg-query -W -f='${Status}' "$package" 2>/dev/null | grep -q 'ok installed'; then
+        missing_packages+=("$package")
+    fi
+done
+
+if ((${#missing_packages[@]})); then
+    sudo apt-get update
+    sudo env DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends "${missing_packages[@]}"
+fi
+sudo update-alternatives --set php /usr/bin/php8.4 >/dev/null
+sudo systemctl enable --now redis-server.service >/dev/null
+
+echo "[orb setup] Installing Composer"
+if ! command -v composer >/dev/null 2>&1; then
+    composer_installer="$(mktemp)"
+    trap 'rm -f "$composer_installer"' EXIT
+    expected_checksum="$(curl -fsSL https://composer.github.io/installer.sig)"
+    curl -fsSL https://getcomposer.org/installer -o "$composer_installer"
+    actual_checksum="$(php -r "echo hash_file('sha384', '$composer_installer');")"
+    if [[ "$actual_checksum" != "$expected_checksum" ]]; then
+        echo "Composer installer checksum mismatch" >&2
+        exit 1
+    fi
+    sudo php "$composer_installer" --quiet --install-dir=/usr/local/bin --filename=composer
+    rm -f "$composer_installer"
+    trap - EXIT
+fi
+
+echo "[orb setup] Installing FrankenPHP ${FRANKENPHP_VERSION}"
+if [[ ! -x "$FRANKENPHP_PATH" ]] || ! "$FRANKENPHP_PATH" version 2>/dev/null | grep -q "FrankenPHP v${FRANKENPHP_VERSION} "; then
+    frankenphp_download="$(mktemp)"
+    trap 'rm -f "$frankenphp_download"' EXIT
+    curl -fsSL --retry 3 \
+        "https://github.com/php/frankenphp/releases/download/v${FRANKENPHP_VERSION}/frankenphp-linux-x86_64" \
+        -o "$frankenphp_download"
+    sudo install -m 0755 "$frankenphp_download" "$FRANKENPHP_PATH"
+    rm -f "$frankenphp_download"
+    trap - EXIT
+fi
+
+echo "[orb setup] Installing locked Composer dependencies"
+if ! grep -Fqx '/vendor/' .git/info/exclude 2>/dev/null; then
+    printf '\n/vendor/\n' >> .git/info/exclude
+fi
+rm -rf tests/site/cache
+composer install --no-interaction --prefer-dist --optimize-autoloader
+# Development dependencies expand these tracked distribution autoload maps.
+# Keep the generated copies usable without making every orb appear dirty.
+git update-index --assume-unchanged -- \
+    vendor/composer/autoload_classmap.php \
+    vendor/composer/autoload_namespaces.php \
+    vendor/composer/autoload_psr4.php \
+    vendor/composer/autoload_real.php \
+    vendor/composer/autoload_static.php
+
+echo "[orb setup] Patching Kirby helpers for Pest and Xdebug"
+.agents/resume
+
+echo "[orb setup] Ready: $(php --version | head -n 1); $(composer --version 2>/dev/null); $(frankenphp version)"
