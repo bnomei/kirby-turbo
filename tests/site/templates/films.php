@@ -1,4 +1,7 @@
-<?php snippet('layouts/default', slots: true); ?>
+<?php
+use Kirby\Cms\Page;
+
+snippet('layouts/default', slots: true); ?>
 
 <?php $modelCount = 0;
 
@@ -27,7 +30,7 @@ if ($feature = get('feature')) {
 
 <ol>
   <?php
-  /** @var \Kirby\Cms\Page $page * */
+  /** @var Page $page * */
   foreach ($films as $film) {
       $modelCount++;
       ?>

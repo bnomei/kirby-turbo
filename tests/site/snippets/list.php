@@ -1,7 +1,10 @@
-<?php $modelCount = 0; ?>
+<?php
+use Kirby\Cms\Page;
+
+$modelCount = 0; ?>
 <ol>
   <?php
-  /** @var \Kirby\Cms\Page $page * */
+  /** @var Page $page * */
   foreach ($page->children() as $child) {
       $modelCount++;
       // NOTE: loading title() will slow down kirby intentionally as this means the content file needs to be loaded

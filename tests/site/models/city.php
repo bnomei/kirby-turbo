@@ -1,8 +1,10 @@
 <?php
 
 declare(strict_types=1);
+use Bnomei\ModelWithTurbo;
+use Kirby\Cms\Page;
 
-class CityPage extends \Kirby\Cms\Page
+class CityPage extends Page
 {
-    use \Bnomei\ModelWithTurbo;
+    use ModelWithTurbo;
 }
