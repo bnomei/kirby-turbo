@@ -210,7 +210,7 @@ it('clears loaded inventory data when flushing the inventory cache', function ()
     }
 });
 
-it('flushes loaded inventory data from after mutation hooks', function () {
+it('flushes loaded inventory data from before and after mutation hooks', function (string $phase) {
     $root = realpath(kirby()->root('content')) ?: kirby()->root('content');
     $path = $root.'/stale.txt';
     $data = [
@@ -249,7 +249,8 @@ it('flushes loaded inventory data from after mutation hooks', function () {
         ], true);
         $property = (new \ReflectionClass($turbo))->getProperty('data');
 
-        foreach (['site.*:after', 'page.*:after', 'file.*:after', 'user.*:after'] as $hookName) {
+        foreach (['site', 'page', 'file', 'user'] as $type) {
+            $hookName = $type.'.*:'.$phase;
             $hook = kirby()->extensions('hooks')[$hookName][0] ?? null;
 
             expect($hook)->toBeInstanceOf(\Closure::class);
@@ -264,7 +265,7 @@ it('flushes loaded inventory data from after mutation hooks', function () {
     } finally {
         Turbo::singleton([], true);
     }
-});
+})->with(['before', 'after']);
 
 it('can detect Kirby internal URLs', function () {
     expect(Turbo::isUrlKirbyInternal('http://localhost/api'))->toBeTrue()
