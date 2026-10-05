@@ -207,10 +207,13 @@ class TurboDir extends Dir
 
         $content = array_unique($content);
 
-        $inventory['template'] = static::inventoryTemplate(
-            $content,
-            $inventory['files']
-        );
+        // Kirby's historical selection: skip file metadata; the last template wins.
+        // Keep this local because Kirby 5.6 moved the protected helper out of Dir.
+        foreach ($content as $name) {
+            if (isset($inventory['files'][$name]) === false) {
+                $inventory['template'] = $name;
+            }
+        }
 
         return $inventory;
     }

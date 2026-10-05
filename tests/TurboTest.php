@@ -102,6 +102,25 @@ it('rejects invalid worker counts before executing turbo', function ($threads) {
     expect(fn () => $turbo->execWithTurbo())->toThrow(InvalidArgumentException::class);
 })->with([0, -1, '2', '2; echo invalid', 1.5, false]);
 
+it('selects inventory templates without depending on Kirby protected helpers', function (array $names, bool $multilang, string $expected) {
+    $root = kirby()->root('content').'/template-selection';
+    $turbo = Turbo::singleton(['inventory.enabled' => true], true);
+    $property = (new ReflectionClass($turbo))->getProperty('data');
+    $property->setValue($turbo, ['files' => [], 'dirs' => [$root => $names]]);
+
+    try {
+        expect(TurboDir::inventory($root, 'txt', [], $multilang)['template'])->toBe($expected);
+    } finally {
+        Turbo::singleton([], true);
+    }
+})->with([
+    'empty' => [[], false, 'default'],
+    'only file metadata' => [['cover.jpg.txt', 'cover.jpg'], false, 'default'],
+    'natural order and metadata exclusion' => [['page10.txt', 'z.jpg.txt', 'page2.txt', 'z.jpg'], false, 'page10'],
+    'dotted template' => [['article.special.txt'], false, 'article.special'],
+    'multilingual' => [['article.de.txt', 'z.jpg.en.txt', 'z.jpg', 'article.en.txt'], true, 'article'],
+]);
+
 it('uses a reserved root sentinel without rewriting old at-slash content values', function () {
     $root = realpath(kirby()->root('content')) ?: kirby()->root('content');
     $t = new Turbo;
