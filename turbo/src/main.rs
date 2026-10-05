@@ -1,15 +1,12 @@
 use clap::Parser;
-use futures::stream::StreamExt;
 use ignore::WalkBuilder;
-use num_cpus;
 use serde::Serialize;
 use std::collections::{HashMap, HashSet};
+use std::fs;
+use std::num::NonZeroUsize;
 use std::path::{Path, PathBuf};
-use std::time::{SystemTime, UNIX_EPOCH};
-use tokio::fs;
-use tokio::sync::mpsc;
-use tokio::task;
-use tokio::time::Instant;
+use std::sync::Mutex;
+use std::time::{Instant, SystemTime, UNIX_EPOCH};
 
 const ROOT_SENTINEL: &str = "@~";
 
@@ -57,13 +54,15 @@ struct Args {
     /// Comma-separated list of filenames to filter (content read)
     #[clap(short = 'f', long, value_parser, default_value = "")]
     filenames: String,
+
+    /// Scan workers (default: available CPUs); 1 runs entirely on the calling thread
+    #[clap(short = 't', long)]
+    threads: Option<NonZeroUsize>,
 }
 
-#[tokio::main]
-async fn main() {
+fn main() {
     let args = Args::parse();
     let dir = canonicalize_scan_root(&args.dir);
-    let dir_cloned = dir.clone();
     let allowed_files: HashSet<String> = args
         .filenames
         .split(',')
@@ -71,55 +70,17 @@ async fn main() {
         .map(|s| s.trim().to_owned())
         .collect();
 
-    let concurrency_limit = 2 * num_cpus::get();
-    let include_modification_date = args.modified;
-    let read_content = args.content;
-
     let start_time = Instant::now();
-
-    let (tx, mut rx) = mpsc::channel(100);
-
-    let walker_thread = task::spawn_blocking(move || {
-        WalkBuilder::new(&dir_cloned)
-            .standard_filters(true)
-            // Don't let parent .gitignore (e.g. repo-level "content/")
-            // exclude the explicitly targeted directory.
-            .parents(false)
-            .threads(num_cpus::get())
-            .build_parallel()
-            .run(move || {
-                let tx = tx.clone();
-                Box::new(move |entry| {
-                    if let Ok(entry) = entry {
-                        if entry.file_type().map(|t| t.is_file()).unwrap_or(false) {
-                            if tx.blocking_send(entry.into_path()).is_err() {
-                                return ignore::WalkState::Quit;
-                            }
-                        }
-                    }
-                    ignore::WalkState::Continue
-                })
-            });
-    });
-
-    let files = futures::stream::unfold(&mut rx, |rx| async {
-        rx.recv().await.map(|path| (path, rx))
-    })
-    .map(|path| {
-        process_file(
-            path,
-            include_modification_date,
-            read_content,
-            allowed_files.clone(),
-        )
-    })
-    .buffer_unordered(concurrency_limit)
-    .collect::<Vec<_>>()
-    .await;
-
-    if walker_thread.await.is_err() {
-        eprintln!("Error in directory traversal.");
-    }
+    let threads = args
+        .threads
+        .unwrap_or_else(|| std::thread::available_parallelism().unwrap_or(NonZeroUsize::MIN));
+    let files = scan(
+        &dir,
+        args.modified,
+        args.content,
+        &allowed_files,
+        threads.get(),
+    );
 
     // Capture the execution duration and current timestamp for metadata
     let duration = start_time.elapsed();
@@ -135,6 +96,70 @@ async fn main() {
     println!("{}", json_output);
 }
 
+fn scan(
+    dir: &str,
+    modified: bool,
+    content: bool,
+    allowed_files: &HashSet<String>,
+    threads: usize,
+) -> Vec<FileInfo> {
+    let mut walker = WalkBuilder::new(dir);
+    // Parent ignore files must not exclude the explicitly selected root.
+    walker
+        .standard_filters(true)
+        .parents(false)
+        .threads(threads);
+    if threads == 1 {
+        return walker
+            .build()
+            .filter_map(Result::ok)
+            .filter(|entry| entry.file_type().is_some_and(|kind| kind.is_file()))
+            .map(|entry| process_file(entry.into_path(), modified, content, allowed_files))
+            .collect();
+    }
+
+    // Each worker owns its records. The only result lock is once per worker,
+    // after traversal, rather than once per file or filesystem operation.
+    struct Batch<'a> {
+        files: Vec<FileInfo>,
+        batches: &'a Mutex<Vec<Vec<FileInfo>>>,
+    }
+    impl Drop for Batch<'_> {
+        fn drop(&mut self) {
+            self.batches
+                .lock()
+                .unwrap()
+                .push(std::mem::take(&mut self.files));
+        }
+    }
+    let batches = Mutex::new(Vec::new());
+    walker.build_parallel().run(|| {
+        let mut batch = Batch {
+            files: Vec::new(),
+            batches: &batches,
+        };
+        Box::new(move |entry| {
+            if let Ok(entry) = entry {
+                if entry.file_type().is_some_and(|kind| kind.is_file()) {
+                    batch.files.push(process_file(
+                        entry.into_path(),
+                        modified,
+                        content,
+                        allowed_files,
+                    ));
+                }
+            }
+            ignore::WalkState::Continue
+        })
+    });
+    batches
+        .into_inner()
+        .unwrap()
+        .into_iter()
+        .flatten()
+        .collect()
+}
+
 fn canonicalize_scan_root(dir: &str) -> String {
     PathBuf::from(dir)
         .canonicalize()
@@ -144,11 +169,11 @@ fn canonicalize_scan_root(dir: &str) -> String {
 }
 
 /// Processes a single file, collecting metadata and parsing content if necessary
-async fn process_file(
+fn process_file(
     path: PathBuf,
     include_modification_date: bool,
     read_content: bool,
-    allowed_files: HashSet<String>,
+    allowed_files: &HashSet<String>,
 ) -> FileInfo {
     let path_str = path.display().to_string();
     let dir_str = path
@@ -164,7 +189,7 @@ async fn process_file(
     let mut content: Option<HashMap<String, String>> = None;
 
     if include_modification_date {
-        if let Ok(metadata) = fs::metadata(&path).await {
+        if let Ok(metadata) = fs::metadata(&path) {
             if let Ok(modified_time) = metadata.modified() {
                 if let Ok(duration) = modified_time.duration_since(UNIX_EPOCH) {
                     modified = Some(duration.as_secs());
@@ -174,11 +199,10 @@ async fn process_file(
     }
 
     if read_content {
-        let file_name = path.file_name().and_then(|f| f.to_str());
-        if let Some(file_name) = file_name {
-            // allowed_files.is_empty() NOT as that would read ALL files, like images as well
+        if let Some(file_name) = path.file_name().and_then(|f| f.to_str()) {
+            // An empty allowlist reads no content, not every file (including media).
             if allowed_files.contains(file_name) {
-                if let Ok(file_content) = fs::read_to_string(&path).await {
+                if let Ok(file_content) = fs::read_to_string(&path) {
                     content = Some(content_from_string(&file_content));
                 }
             }
@@ -196,39 +220,42 @@ async fn process_file(
 
 /// Builds the final Output struct, including metadata
 fn build_output(files: Vec<FileInfo>, duration_ms: u128, timestamp: u64) -> Output {
-    let mut file_map: HashMap<String, FileInfo> = HashMap::new();
-    let mut dirs_map: HashMap<String, HashSet<String>> = HashMap::new();
+    let mut file_map: HashMap<String, FileInfo> = HashMap::with_capacity(files.len());
+    let mut dirs_map: HashMap<String, Vec<String>> = HashMap::new();
 
     for file in files {
-        // Insert file into `file_map` using its hash as the key
-        file_map.insert(
-            format!("#{:016x}", xxhash_rust::xxh3::xxh3_64(file.path.as_bytes())), // Add leading zeros like PHP
-            file.clone(),
-        );
-
-        // Process the file path and add it to the directory map
         if let Some((dir, filename)) = split_dir_and_file(&file.path) {
-            // Add the file to its parent directory
-            dirs_map
-                .entry(dir.to_string())
-                .or_insert_with(HashSet::new)
-                .insert(filename);
-
-            // Ensure the directory itself is added to its parent directory
-            if let Some(parent_dir) = Path::new(&dir).parent().and_then(|p| p.to_str()) {
-                if let Some(dir_basename) = Path::new(&dir).file_name().and_then(|d| d.to_str()) {
-                    dirs_map
-                        .entry(parent_dir.to_string())
-                        .or_insert_with(HashSet::new)
-                        .insert(dir_basename.to_string());
-                }
-            }
+            dirs_map.entry(dir.to_owned()).or_default().push(filename);
         }
+        file_map.insert(
+            format!("#{:016x}", xxhash_rust::xxh3::xxh3_64(file.path.as_bytes())),
+            file,
+        );
+    }
+
+    // Add precisely the immediate parents of directories containing files.
+    // Do not recursively synthesize ancestors or expose empty directories.
+    let parents: Vec<_> = dirs_map
+        .keys()
+        .filter_map(|dir| {
+            let path = Path::new(dir);
+            Some((
+                path.parent()?.to_str()?.to_owned(),
+                path.file_name()?.to_str()?.to_owned(),
+            ))
+        })
+        .collect();
+    for (parent, name) in parents {
+        dirs_map.entry(parent).or_default().push(name);
     }
 
     let dirs: HashMap<String, Vec<String>> = dirs_map
         .into_iter()
-        .map(|(dir, entries)| (dir, entries.into_iter().collect()))
+        .map(|(dir, mut entries)| {
+            entries.sort_unstable();
+            entries.dedup();
+            (dir, entries)
+        })
         .collect();
 
     Output {

@@ -286,7 +286,7 @@ echo site()->modifiedTurbo(); // 1734873708
 Turbo has two built-in indexer commands, `find` and `turbo` (default). Both can scan the directory tree and optionally gather the modified timestamp.
 
 - The `find`-indexer uses the Unix `find` in combination with `stat`.
-- The `turbo`-indexer is a custom binary built with Rust that does the same thing but multithreaded and async. It can preload the content files.
+- The `turbo`-indexer is a custom Rust binary. Each scan worker collects metadata and preloads selected content files directly, without per-file async handoffs.
 
 > [!TIP]
 > You can use the `bnomei.turbo.inventory.indexer` config option to set a custom binary location in case the automatic detection fails. <br>
@@ -369,6 +369,7 @@ Server-Timing: Cache;desc=miss,Kirby;dur=187,Route;dur=3,TurboRead;dur=90,TurboI
 | inventory.enabled                    | `fn()`                | automatic toggled off for all Kirby internal routes (API, Panel, Media), set `true` to enforce indexer to run                                        |
 | inventory.modified                   | `true`                | flag for indexer to retrieve modification timestamps                                                                                                 |
 | inventory.content                    | `true`                | flag for indexer to retrieve content                                                                                                                 |
+| inventory.threads                    | `null`                | Rust scan workers: positive integer or closure; `null` uses available CPUs, `1` is sequential                                                         |
 | inventory.read                       | `true`                | allow reading of data returned from indexer in inventory (directory scan and modified timestamps) and storage phase (preloaded content from indexer) |
 | inventory.compression                | `false`               | compress store data from indexer                                                                                                                     |
 | storage.read                         | `true`                | read from cache in storage phase (Redis)                                                                                                             |

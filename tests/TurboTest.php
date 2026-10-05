@@ -70,6 +70,38 @@ it('can run the turbo-indexer', function () {
         ->and($firstFile['path'])->toStartWith($firstFile['dir']);
 });
 
+it('passes the configured worker count to turbo', function ($threads, ?string $expected) {
+    $stub = sys_get_temp_dir().'/turbo-args-'.bin2hex(random_bytes(8));
+    file_put_contents($stub, '#!'.PHP_BINARY."\n<?php echo json_encode(array_slice(\$argv, 1));");
+    chmod($stub, 0700);
+    try {
+        $turbo = new Turbo([
+            'inventory.indexer' => $stub,
+            'inventory.threads' => $threads,
+        ]);
+        $args = json_decode($turbo->execWithTurbo(), true, flags: JSON_THROW_ON_ERROR);
+        $position = array_search('--threads', $args, true);
+        if ($expected === null) {
+            expect($position)->toBeFalse();
+        } else {
+            expect($position)->not->toBeFalse()
+                ->and($args[$position + 1])->toBe($expected);
+        }
+    } finally {
+        unlink($stub);
+    }
+})->with([
+    'automatic' => [null, null],
+    'sequential' => [1, '1'],
+    'parallel' => [4, '4'],
+    'closure' => [fn () => 2, '2'],
+]);
+
+it('rejects invalid worker counts before executing turbo', function ($threads) {
+    $turbo = new Turbo(['inventory.threads' => $threads]);
+    expect(fn () => $turbo->execWithTurbo())->toThrow(InvalidArgumentException::class);
+})->with([0, -1, '2', '2; echo invalid', 1.5, false]);
+
 it('uses a reserved root sentinel without rewriting old at-slash content values', function () {
     $root = realpath(kirby()->root('content')) ?: kirby()->root('content');
     $t = new Turbo;

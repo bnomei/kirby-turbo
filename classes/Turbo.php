@@ -43,6 +43,7 @@ final class Turbo
             'inventory.enabled' => option('bnomei.turbo.inventory.enabled'),
             'inventory.content' => option('bnomei.turbo.inventory.content'),
             'inventory.modified' => option('bnomei.turbo.inventory.modified'),
+            'inventory.threads' => option('bnomei.turbo.inventory.threads'),
             'inventory.read' => option('bnomei.turbo.inventory.read'),
             'inventory.compression' => option('bnomei.turbo.inventory.compression'),
         ], $options);
@@ -217,6 +218,13 @@ final class Turbo
         $cmd = $exec.' --dir '.escapeshellarg($root).' --filenames '.escapeshellarg($patterns); // patterns used to filter which files tread content
         $cmd .= $this->options['inventory.modified'] ? ' --modified' : '';
         $cmd .= $this->options['inventory.content'] ? ' --content' : '';
+        $threads = $this->options['inventory.threads'];
+        if ($threads !== null) {
+            if (! is_int($threads) || $threads < 1) {
+                throw new \InvalidArgumentException('inventory.threads must be a positive integer or null.');
+            }
+            $cmd .= ' --threads '.$threads;
+        }
         $output = shell_exec($cmd);
 
         return $output ?: '';

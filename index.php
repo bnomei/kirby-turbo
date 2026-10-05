@@ -100,6 +100,7 @@ Kirby::plugin(
                 }, // used to disable on demand (kirby internal requests), can be force set to true as well
                 'modified' => true, // gather modified timestamp or default to PHP
                 'content' => true, // if exec can do it fetch content
+                'threads' => null, // null = available CPUs; positive integer = turbo scan workers
                 'read' => true, // read from the cache in storage and inventory
                 'compression' => false, // compress cached data? path strings compress very well. use beyond 2000 content pages and using file/apcu cache (not redis)
             ],
