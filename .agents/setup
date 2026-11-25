@@ -5,15 +5,19 @@ readonly FRANKENPHP_VERSION="1.12.1"
 readonly FRANKENPHP_PATH="/usr/local/bin/frankenphp"
 
 echo "[orb setup] Installing the PHP CLI and extensions"
-if [[ ! -f /etc/apt/sources.list.d/php.list ]]; then
+source /etc/os-release
+sury_key=/usr/share/keyrings/debsuryorg-archive-keyring.gpg
+sury_source="deb [signed-by=$sury_key] https://packages.sury.org/php/ $VERSION_CODENAME main"
+if [[ ! -s "$sury_key" ]]; then
     sury_keyring="$(mktemp)"
     trap 'rm -f "$sury_keyring"' EXIT
     curl -fsSL https://packages.sury.org/debsuryorg-archive-keyring.deb -o "$sury_keyring"
     sudo dpkg -i "$sury_keyring"
-    echo 'deb [signed-by=/usr/share/keyrings/debsuryorg-archive-keyring.gpg] https://packages.sury.org/php/ bookworm main' \
-        | sudo tee /etc/apt/sources.list.d/php.list >/dev/null
     rm -f "$sury_keyring"
     trap - EXIT
+fi
+if [[ "$(cat /etc/apt/sources.list.d/php.list 2>/dev/null || true)" != "$sury_source" ]]; then
+    echo "$sury_source" | sudo tee /etc/apt/sources.list.d/php.list >/dev/null
     sudo apt-get update
 fi
 
