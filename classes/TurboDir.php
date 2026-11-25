@@ -10,8 +10,6 @@
 
 namespace Bnomei;
 
-use Kirby\Cms\App;
-use Kirby\Cms\Page;
 use Kirby\Filesystem\Dir;
 use Kirby\Toolkit\A;
 use Kirby\Toolkit\Str;
@@ -101,7 +99,7 @@ class TurboDir extends Dir
         string $dir,
         ?string $format = null,
         ?string $handler = null
-    ): int|string {
+    ): int|string|false {
         $dir = static::resolveDirKey($dir) ?? $dir;
 
         if (Turbo::singleton()->options['inventory.modified'] !== true) {
@@ -124,139 +122,5 @@ class TurboDir extends Dir
         $date = $modified ? Str::date($modified, $format, $handler) : false;
 
         return $date !== false ? $date : 0;
-    }
-
-    /*
-     * @copyright Bastian Allgeier
-     */
-    public static function inventory(
-        string $dir,
-        string $contentExtension = 'txt',
-        ?array $contentIgnore = null,
-        bool $multilang = false
-    ): array {
-        $dir = static::resolveDirKey($dir) ?? $dir;
-
-        $inventory = [
-            'children' => [],
-            'files' => [],
-            'template' => 'default',
-        ];
-
-        // a temporary store for all content files
-        $content = [];
-
-        // read and sort all items naturally to avoid sorting issues later
-        $items = static::read($dir, $contentIgnore);
-        natsort($items);
-
-        // loop through all directory items and collect all relevant information
-        foreach ($items as $item) {
-            // ignore all items with a leading dot or underscore
-            if (
-                str_starts_with($item, '.') ||
-                str_starts_with($item, '_')
-            ) {
-                continue;
-            }
-
-            $root = $dir.'/'.$item;
-
-            // collect all directories as children
-            // NOTE: changed to use TURBO by @bnomei
-            if (static::is_dir($root) === true) {
-                $inventory['children'][] = static::inventoryChild(
-                    $item,
-                    $root,
-                    $contentExtension,
-                    $multilang
-                );
-
-                continue;
-            }
-
-            $extension = pathinfo($item, PATHINFO_EXTENSION);
-
-            // don't track files with these extensions
-            if (in_array($extension, ['htm', 'html', 'php'], true) === true) {
-                continue;
-            }
-
-            // collect all content files separately,
-            // not as inventory entries
-            if ($extension === $contentExtension) {
-                $filename = pathinfo($item, PATHINFO_FILENAME);
-
-                // remove the language codes from all content filenames
-                if ($multilang === true) {
-                    $filename = pathinfo($filename, PATHINFO_FILENAME);
-                }
-
-                $content[] = $filename;
-
-                continue;
-            }
-
-            // collect all other files
-            $inventory['files'][$item] = [
-                'filename' => $item,
-                'extension' => $extension,
-                'root' => $root,
-            ];
-        }
-
-        $content = array_unique($content);
-
-        // Kirby's historical selection: skip file metadata; the last template wins.
-        // Keep this local because Kirby 5.6 moved the protected helper out of Dir.
-        foreach ($content as $name) {
-            if (isset($inventory['files'][$name]) === false) {
-                $inventory['template'] = $name;
-            }
-        }
-
-        return $inventory;
-    }
-
-    /*
-     * @copyright Bastian Allgeier
-     */
-    protected static function inventoryChild(
-        string $item,
-        string $root,
-        string $contentExtension = 'txt',
-        bool $multilang = false
-    ): array {
-        // extract the slug and num of the directory
-        if ($separator = strpos($item, static::$numSeparator)) {
-            $num = (int) substr($item, 0, $separator);
-            $slug = substr($item, $separator + 1);
-        }
-
-        // determine the model
-        if (Page::$models !== []) {
-            if ($multilang === true) {
-                $code = App::instance()->defaultLanguage()?->code();
-                $contentExtension = $code.'.'.$contentExtension;
-            }
-
-            // look if a content file can be found
-            // for any of the available models
-            foreach (Page::$models as $modelName => $modelClass) {
-                // NOTE: changed to use TURBO by @bnomei
-                if (static::is_file($root.'/'.$modelName.'.'.$contentExtension) === true) {
-                    $model = $modelName;
-                    break;
-                }
-            }
-        }
-
-        return [
-            'dirname' => $item,
-            'model' => $model ?? null,
-            'num' => $num ?? null,
-            'root' => $root,
-            'slug' => $slug ?? $item,
-        ];
     }
 }

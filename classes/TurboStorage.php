@@ -19,16 +19,13 @@ class TurboStorage extends PlainTextStorage
     public function delete(VersionId $versionId, Language $language): void
     {
         parent::delete($versionId, $language);
-
-        Turbo::singleton()->storage()?->remove('#'.hash('xxh3',
-            $this->contentFile($versionId, $language)
-        ));
+        $this->forgetMirror($versionId, $language);
     }
 
     public function modified(VersionId $versionId, Language $language): ?int
     {
         $turbo = Turbo::singleton();
-        if ($turbo->options['inventory.read'] && $modified = $turbo->modified(
+        if ($versionId->is('latest') && $turbo->options['inventory.read'] && $modified = $turbo->modified(
             $this->contentFile($versionId, $language)
         )) {
             return $modified;
@@ -43,7 +40,7 @@ class TurboStorage extends PlainTextStorage
         $turbo = Turbo::singleton();
 
         // try reading batch-loaded data from command
-        if ($turbo->options['inventory.read'] && $data = $turbo->content(
+        if ($versionId->is('latest') && $turbo->options['inventory.read'] && $data = $turbo->content(
             $this->contentFile($versionId, $language)
         )) {
             return $data;
@@ -66,7 +63,15 @@ class TurboStorage extends PlainTextStorage
     protected function write(VersionId $versionId, Language $language, array $fields): void
     {
         parent::write($versionId, $language, $fields);
-        $this->turboWrite($versionId, $language, $fields);
+        // Panel pickers write arrays; mirror the canonical fields on the next read.
+        $this->forgetMirror($versionId, $language);
+    }
+
+    private function forgetMirror(VersionId $versionId, Language $language): void
+    {
+        Turbo::singleton()->storage()?->remove('#'.hash('xxh3',
+            $this->contentFile($versionId, $language)
+        ));
     }
 
     private function turboRead(VersionId $versionId, Language $language): ?array

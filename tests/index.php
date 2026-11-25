@@ -10,7 +10,10 @@ const KIRBY_HELPER_E = false;
 require __DIR__.'/../vendor/autoload.php';
 
 TurboStopwatch::tick('kirby:before');
-$kirby = new App;
+$kirby = new App([
+    'roots' => ['index' => __DIR__, 'media' => __DIR__.'/public/media'],
+    'options' => getenv('PUBLIC_URL') ? ['url' => getenv('PUBLIC_URL')] : [],
+]);
 $render = $kirby->render();
 TurboStopwatch::tick('kirby:after');
 

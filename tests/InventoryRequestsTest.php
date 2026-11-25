@@ -3,7 +3,10 @@
 use Bnomei\Turbo;
 use Bnomei\TurboStopwatch;
 use Kirby\Cms\App;
+use Kirby\Cms\Language;
 use Kirby\Cms\ModelWithContent;
+use Kirby\Content\VersionId;
+use Kirby\Data\Data;
 use Kirby\Filesystem\Dir;
 use Kirby\Filesystem\F;
 
@@ -37,6 +40,41 @@ afterEach(function () {
     Turbo::singleton([], true);
     TurboStopwatch::$timestamps = $this->timestamps;
     Dir::remove($this->root);
+});
+
+it('reads current Panel changes without leaking them into published content', function () {
+    $app = new App($this->appProps);
+    $turbo = Turbo::singleton(['inventory.enabled' => true, 'storage.read' => true, 'storage.write' => true], true);
+    $page = $app->page('films/first');
+    $storage = $page->storage();
+    $language = Language::single();
+    $changes = VersionId::changes();
+    $storage->create($changes, $language, ['actors' => ['page://first']]);
+    $path = $storage->contentFile($changes, $language);
+    touch($path, 100);
+    Turbo::flush('inventory');
+    expect($turbo->modified($path))->toBe(100);
+
+    $storage->update($changes, $language, ['actors' => ['page://second'], 'unused' => null]);
+    touch($path, 200);
+    expect($storage->modified($changes, $language))->toBe(200)
+        ->and($storage->read($changes, $language))->toBe(Data::read($path))
+        ->and($page->version('changes')->content()->actors()->yaml())->toBe(['page://second'])
+        ->and($page->title()->value())->toBe('First');
+});
+
+it('uses Kirby to decode non-TXT content while retaining the directory index', function () {
+    F::write($this->root.'/content/films/films.yaml', "title: Films\n");
+    F::write($this->root.'/content/films/first/film.yaml', "title: First\nrating: PG\n");
+    $app = new App([
+        ...$this->appProps,
+        'options' => [...$this->appProps['options'], 'content' => ['extension' => 'yaml']],
+    ]);
+    $turbo = Turbo::singleton(['inventory.enabled' => true], true);
+    $film = $app->page('films/first');
+    expect($film->title()->value())->toBe('First')
+        ->and($film->rating()->value())->toBe('PG')
+        ->and($turbo->modified($film->root().'/film.yaml'))->toBeInt();
 });
 
 it('uses the default URL policy regardless of request method', function (string $path, bool $enabled, string $method) {
@@ -96,7 +134,7 @@ it('invalidates the frontend snapshot without rebuilding during an API page crea
     ]);
     $turbo = Turbo::singleton([], true);
     $parentRoot = $this->root.'/content/films';
-    expect($turbo->inventory($parentRoot)['children'])->toHaveCount(1);
+    expect($turbo->inventory($parentRoot)->children())->toHaveCount(1);
     $key = 'output-'.basename($turbo->options['inventory.indexer']);
     expect($turbo->cache('inventory')->get($key))->toBeArray();
 

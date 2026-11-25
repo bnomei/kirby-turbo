@@ -291,16 +291,13 @@ Kirby::plugin(
             },
             'toFilesTurbo' => function (Field $field): Files {
                 if (kirby()->option('cache.uuid.type') === 'turbo-uuid') {
-                    $values = $field->yaml(); // @phpstan-ignore-line
-                    if (! is_array($values)) {
-                        return $field->toFiles(); // @phpstan-ignore-line
-                    }
+                    $values = $field->yaml();
                     $files = [];
                     $pages = [];
                     $cache = kirby()->cache('uuid');
                     foreach ($values as $fileKey) {
                         if (! is_string($fileKey) || ! str_contains($fileKey, 'file://')) {
-                            return $field->toFiles(); // @phpstan-ignore-line
+                            return $field->toFiles();
                         }
                         $fileKey = 'file/'.substr($fileKey, 7, 2).'/'.substr($fileKey, 9);
                         if ($data = $cache->get($fileKey)) {
@@ -320,22 +317,19 @@ Kirby::plugin(
                 }
 
                 // default
-                return $field->toFiles(); // @phpstan-ignore-line
+                return $field->toFiles();
             },
             'toPageTurbo' => function (Field $field): ?Page {
                 return $field->toPagesTurbo()->first(); // @phpstan-ignore-line
             },
             'toPagesTurbo' => function (Field $field): Pages {
                 if (kirby()->option('cache.uuid.type') === 'turbo-uuid') {
-                    $values = $field->yaml(); // @phpstan-ignore-line
-                    if (! is_array($values)) {
-                        return $field->toPages(); // @phpstan-ignore-line
-                    }
+                    $values = $field->yaml();
                     $ids = [];
                     $cache = kirby()->cache('uuid');
                     foreach ($values as $uuid) {
                         if (! is_string($uuid) || ! str_contains($uuid, 'page://')) {
-                            return $field->toPages(); // @phpstan-ignore-line
+                            return $field->toPages();
                         }
                         $key = 'page/'.substr($uuid, 7, 2).'/'.substr($uuid, 9);
                         $ids[] = $cache->get($key);
@@ -345,7 +339,7 @@ Kirby::plugin(
                 }
 
                 // default
-                return $field->toPages(); // @phpstan-ignore-line
+                return $field->toPages();
             },
         ],
     ]);

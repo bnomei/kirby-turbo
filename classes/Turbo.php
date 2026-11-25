@@ -15,8 +15,11 @@ namespace Bnomei;
 use Kirby\Cache\Cache;
 use Kirby\Cms\App;
 use Kirby\Cms\File;
+use Kirby\Cms\Inventory;
 use Kirby\Cms\ModelWithContent;
 use Kirby\Content\Field;
+use Kirby\Data\Data;
+use Kirby\Data\Txt;
 use Kirby\Toolkit\A;
 use ReflectionClass;
 
@@ -217,7 +220,10 @@ final class Turbo
         $patterns = implode(',', $this->modelsWithTurboFilenamePatterns());
         $cmd = $exec.' --dir '.escapeshellarg($root).' --filenames '.escapeshellarg($patterns); // patterns used to filter which files tread content
         $cmd .= $this->options['inventory.modified'] ? ' --modified' : '';
-        $cmd .= $this->options['inventory.content'] ? ' --content' : '';
+        // The indexer parses Kirby TXT, not YAML, frontmatter or custom handlers.
+        if ($this->options['inventory.content'] && Data::handler($this->kirby->contentExtension())::class === Txt::class) {
+            $cmd .= ' --content';
+        }
         $threads = $this->options['inventory.threads'];
         if ($threads !== null) {
             if (! is_int($threads) || $threads < 1) {
@@ -323,7 +329,7 @@ final class Turbo
         return $this->cache('storage');
     }
 
-    public function inventory(?string $root = null): ?array
+    public function inventory(?string $root = null): ?Inventory
     {
         if (! $root || ! $this->smartInventory()) {
             return null;
@@ -331,7 +337,7 @@ final class Turbo
 
         // use TurboDir to get the inventory for a directory
         // using the batch-loaded data from a command
-        return TurboDir::inventory(
+        return new TurboInventory(
             $root,
             $this->kirby->contentExtension(),
             $this->kirby->contentIgnore(),

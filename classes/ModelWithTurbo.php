@@ -13,6 +13,7 @@ declare(strict_types=1);
 namespace Bnomei;
 
 use Kirby\Cms\File;
+use Kirby\Cms\Inventory;
 use Kirby\Content\Storage;
 
 trait ModelWithTurbo
@@ -32,7 +33,7 @@ trait ModelWithTurbo
         return true;
     }
 
-    public function inventory(): array
+    public function inventory(): Inventory
     {
         return Turbo::singleton()->inventory($this->root()) ?? parent::inventory();
     }

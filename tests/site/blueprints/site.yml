@@ -1,3 +1,3 @@
-blueprint: site
-
-preset: page
+fields:
+  pages:
+    type: pagelist

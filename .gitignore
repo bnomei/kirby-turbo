@@ -6,6 +6,7 @@
 /tests/kirby
 /tests/logs
 /tests/media
+/tests/public/media
 /tests/site/accounts
 /tests/site/cache
 /tests/site/sessions

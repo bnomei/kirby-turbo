@@ -1,3 +1,5 @@
-blueprint: page
-
-preset: page
+fields:
+  pages:
+    type: pagelist
+  files:
+    type: filelist

@@ -3,6 +3,7 @@
 use Bnomei\AbortCachingException;
 use Bnomei\Turbo;
 use Bnomei\TurboDir;
+use Bnomei\TurboInventory;
 use Bnomei\TurboPage;
 use Bnomei\TurboRedisCache;
 use Bnomei\TurboStopwatch;
@@ -109,7 +110,7 @@ it('selects inventory templates without depending on Kirby protected helpers', f
     $property->setValue($turbo, ['files' => [], 'dirs' => [$root => $names]]);
 
     try {
-        expect(TurboDir::inventory($root, 'txt', [], $multilang)['template'])->toBe($expected);
+        expect((new TurboInventory($root, 'txt', [], $multilang))->template())->toBe($expected);
     } finally {
         Turbo::singleton([], true);
     }
@@ -203,7 +204,7 @@ it('normalizes symlinked turbo inventory lookups', function () {
             ->and(TurboDir::is_dir($linkRoot.'/page'))->toBeTrue()
             ->and(TurboDir::is_file($linkRoot.'/page/default.txt'))->toBeTrue()
             ->and(TurboDir::read($linkRoot, null, true))->toBe([$canonicalDir])
-            ->and(TurboDir::inventory($linkRoot)['children'][0]['root'])->toBe($canonicalDir);
+            ->and((new TurboInventory($linkRoot))->children()[0]['root'])->toBe($canonicalDir);
     } finally {
         Turbo::singleton([], true);
 
